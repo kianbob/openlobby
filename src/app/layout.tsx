@@ -36,6 +36,9 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
+        {/* Google Analytics — replace GA_ID with actual measurement ID */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=GA_ID" />
+        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','GA_ID');` }} />
       </head>
       <body className="font-sans min-h-screen flex flex-col" style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
         <Navigation />
