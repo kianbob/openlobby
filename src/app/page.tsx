@@ -71,7 +71,7 @@ export default function HomePage() {
             { title: 'Follow the Money', desc: 'Track $15.2 billion in federal lobbying spending from 2018-2025. See which corporations, trade groups, and foreign entities spend the most to influence Congress.', href: '/clients' },
             { title: 'The Revolving Door', desc: 'Over 5,000 former government officials now work as lobbyists. See who left public service to profit from their connections and insider knowledge.', href: '/revolving-door' },
             { title: 'Industry Analysis', desc: 'Healthcare, defense, tech, and finance dominate lobbying spending. See which industries are fighting hardest to shape the laws that affect your life.', href: '/industries' },
-            { title: 'Investigation Articles', desc: '12 data-driven investigations exposing the biggest lobbying stories — from Big Pharma&apos;s $4.4B spend to crypto&apos;s K Street invasion to the 2025 tariff lobbying explosion.', href: '/investigations' },
+            { title: 'Investigation Articles', desc: '12 data-driven investigations exposing the biggest lobbying stories — from Big Pharma\'s $4.4B spend to crypto\'s K Street invasion to the 2025 tariff lobbying explosion.', href: '/investigations' },
             { title: 'Interactive Tools', desc: 'Calculate lobbying ROI, score political influence, compare entities side-by-side, and search across all 650,000+ filings.', href: '/lobbying-roi' },
             { title: 'Open Data', desc: 'All our processed data is freely downloadable. We believe transparency data should be accessible to everyone — journalists, researchers, and citizens.', href: '/downloads' },
           ].map(item => (
@@ -88,7 +88,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
             {[
-              { value: totalSpending, label: 'Lobbying in 2024', color: 'text-red-600' },
+              { value: totalSpending, label: 'Total Lobbying (2018–2025)', color: 'text-red-600' },
               { value: totalFilings, label: 'Total Filings', color: 'text-indigo-600' },
               { value: stats ? formatNumber(stats.totalClients) : '5,000+', label: 'Top Clients Tracked', color: 'text-indigo-600' },
               { value: stats ? formatNumber(stats.totalLobbyists) : '5,000+', label: 'Lobbyists Tracked', color: 'text-indigo-600' },

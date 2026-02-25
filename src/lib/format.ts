@@ -12,16 +12,19 @@ export function formatNumber(value: number): string {
   return String(value)
 }
 
-const ACRONYMS = new Set(['llp', 'llc', 'inc', 'lp', 'plc', 'ltd', 'pllc', 'usa', 'us', 'ii', 'iii', 'iv', 'fka', 'dba', 'nra', 'pac', 'phrma', 'afl', 'cio', 'ibm', 'att', 'gsk', 'rtx', 'bae', 'hsbc', 'ubs', 'bny', 'ey', 'pwc', 'kpmg', 'hca', 'ups', 'dhl', 'bmw', 'bp', 'gm', 'ge', 'hp', 'sap', 'abb'])
+const ACRONYMS = new Set(['llp', 'llc', 'inc', 'lp', 'plc', 'ltd', 'pllc', 'usa', 'us', 'ii', 'iii', 'iv', 'fka', 'dba', 'nra', 'pac', 'phrma', 'afl', 'cio', 'ibm', 'att', 'gsk', 'rtx', 'bae', 'hsbc', 'ubs', 'bny', 'ey', 'pwc', 'kpmg', 'hca', 'ups', 'dhl', 'bmw', 'bp', 'gm', 'ge', 'hp', 'sap', 'abb', 'bgr', 'fca', 'sa', 'nv', 'bv', 'ag', 'hr', 'se', 'ai', 'pmi'])
+
+const SMALL_WORDS = new Set(['of', 'and', 'the', 'for', 'in', 'on', 'at', 'to', 'by', 'or', 'a', 'an', 'is'])
 
 export function toTitleCase(str: string): string {
   if (!str) return ''
   return str
     .toLowerCase()
     .split(/\s+/)
-    .map(word => {
+    .map((word, i) => {
       const clean = word.replace(/[^a-z]/g, '').replace(/,$/, '')
       if (ACRONYMS.has(clean)) return word.toUpperCase()
+      if (i > 0 && SMALL_WORDS.has(clean)) return word
       if (word.startsWith('(')) return '(' + word.slice(1).charAt(0).toUpperCase() + word.slice(2)
       return word.charAt(0).toUpperCase() + word.slice(1)
     })

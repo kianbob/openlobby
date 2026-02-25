@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo } from 'react'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import SourceCitation from '@/components/SourceCitation'
 import { formatNumber } from '@/lib/format'
 
 interface WordEntry {
@@ -201,6 +202,7 @@ export default function TextAnalysisPage() {
           </div>
         </div>
       </div>
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )
 }

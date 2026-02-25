@@ -3,6 +3,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import dynamic from 'next/dynamic'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import SourceCitation from '@/components/SourceCitation'
 import { formatCurrency } from '@/lib/format'
 
 const RadarChartComponent = dynamic(() => import('./RadarChartComponent'), { ssr: false })
@@ -270,6 +271,7 @@ export default function InfluenceScorePage() {
           The composite score determines the tier: Extreme (90+), High (70–89), Moderate (50–69), Low (&lt;50).
         </p>
       </div>
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )
 }

@@ -14,6 +14,13 @@ interface RevDoorLobbyist {
   filings: number
 }
 
+const dedupePositions = (positions: string[]) => {
+  return positions.filter((pos, i, arr) => {
+    const normalized = pos.toLowerCase().replace(/[^a-z]/g, '').slice(0, 40)
+    return !arr.slice(0, i).some(p => p.toLowerCase().replace(/[^a-z]/g, '').slice(0, 40) === normalized)
+  })
+}
+
 export default function RevolvingDoorPage() {
   const [lobbyists, setLobbyists] = useState<RevDoorLobbyist[]>([])
   const [search, setSearch] = useState('')
@@ -71,7 +78,7 @@ export default function RevolvingDoorPage() {
                   <div>
                     <Link href={`/lobbyists/${slugify(l.name)}`} className="text-lg font-semibold text-primary hover:underline">{toTitleCase(l.name)}</Link>
                     <div className="mt-1 space-y-1">
-                      {l.positions.map((pos, i) => (
+                      {dedupePositions(l.positions).slice(0, 1).map((pos, i) => (
                         <p key={i} className="text-sm text-amber-700 bg-amber-50 inline-block px-2 py-0.5 rounded mr-2">🏛️ {pos}</p>
                       ))}
                     </div>

@@ -3,6 +3,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import dynamic from 'next/dynamic'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import SourceCitation from '@/components/SourceCitation'
 import { formatCurrency } from '@/lib/format'
 
 const AreaChartComponent = dynamic(() => import('./AreaChartComponent'), { ssr: false })
@@ -238,6 +239,7 @@ export default function ArmsRacePage() {
           </table>
         </div>
       </div>
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )
 }

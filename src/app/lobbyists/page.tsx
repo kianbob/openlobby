@@ -3,7 +3,8 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatNumber, slugify } from '@/lib/format'
+import SourceCitation from '@/components/SourceCitation'
+import { formatNumber, slugify, toTitleCase } from '@/lib/format'
 
 interface Lobbyist {
   id: number
@@ -74,7 +75,7 @@ export default function LobbyistsPage() {
                     <td className="px-4 py-3 text-gray-400">{i + 1}</td>
                     <td className="px-4 py-3">
                       <Link href={`/lobbyists/${slugify(l.name)}`} className="text-primary hover:underline font-medium">
-                        {l.name}
+                        {toTitleCase(l.name)}
                       </Link>
                       {l.positions?.length > 0 && <span className="ml-2" title="Former government official">🏛️</span>}
                     </td>
@@ -100,6 +101,7 @@ export default function LobbyistsPage() {
           )}
         </>
       )}
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )
 }
