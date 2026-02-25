@@ -1,0 +1,24 @@
+{
+  "name": "EPS INDUSTRY ALLIANCE",
+  "slug": "eps-industry-alliance",
+  "state": "MD",
+  "totalSpend": 980000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "GOV",
+    "ENV",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

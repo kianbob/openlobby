@@ -1,0 +1,24 @@
+{
+  "name": "CELANESE CORPORATION",
+  "slug": "celanese-corporation",
+  "state": "DC",
+  "totalSpend": 1130000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CHM",
+    "ENG",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

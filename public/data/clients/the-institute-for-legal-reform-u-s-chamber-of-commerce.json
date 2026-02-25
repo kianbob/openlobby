@@ -1,0 +1,31 @@
+{
+  "name": "THE INSTITUTE FOR LEGAL REFORM - U.S. CHAMBER OF COMMERCE",
+  "slug": "the-institute-for-legal-reform-u-s-chamber-of-commerce",
+  "state": "DC",
+  "totalSpend": 1240000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TOR",
+    "LAW",
+    "TAX",
+    "BNK",
+    "CSP",
+    "GOV",
+    "BAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

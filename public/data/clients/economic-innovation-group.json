@@ -1,0 +1,27 @@
+{
+  "name": "ECONOMIC INNOVATION GROUP",
+  "slug": "economic-innovation-group",
+  "state": "DC",
+  "totalSpend": 1010000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "SMB",
+    "ECN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

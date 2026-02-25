@@ -1,0 +1,26 @@
+{
+  "name": "FERMAT CAPITAL MANAGEMENT",
+  "slug": "fermat-capital-management",
+  "state": "CT",
+  "totalSpend": 1070000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "INS",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

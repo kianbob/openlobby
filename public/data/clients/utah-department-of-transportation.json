@@ -1,0 +1,25 @@
+{
+  "name": "UTAH DEPARTMENT OF TRANSPORTATION",
+  "slug": "utah-department-of-transportation",
+  "state": "UT",
+  "totalSpend": 1026000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

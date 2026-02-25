@@ -1,0 +1,25 @@
+{
+  "name": "AMERICAN COUNSELING ASSOCIATION",
+  "slug": "american-counseling-association",
+  "state": "VA",
+  "totalSpend": 910000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null,
+    "VET"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

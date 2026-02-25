@@ -1,0 +1,22 @@
+{
+  "name": "FIDELIS NEW ENERGY",
+  "slug": "fidelis-new-energy",
+  "state": "TX",
+  "totalSpend": 970000,
+  "filings": 16,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

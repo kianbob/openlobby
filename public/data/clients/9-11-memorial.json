@@ -1,0 +1,26 @@
+{
+  "name": "9/11 MEMORIAL",
+  "slug": "9-11-memorial",
+  "state": "NY",
+  "totalSpend": 1080000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "RES",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

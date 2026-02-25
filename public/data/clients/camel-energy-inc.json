@@ -1,0 +1,21 @@
+{
+  "name": "CAMEL ENERGY INC.",
+  "slug": "camel-energy-inc",
+  "state": "NY",
+  "totalSpend": 900000,
+  "filings": 5,
+  "years": [
+    2023,
+    2024
+  ],
+  "issues": [
+    null,
+    "AUT",
+    "LBR",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

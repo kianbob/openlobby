@@ -1,0 +1,29 @@
+{
+  "name": "GLASS PACKAGING INSTITUTE (GPI)",
+  "slug": "glass-packaging-institute-gpi",
+  "state": null,
+  "totalSpend": 855000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    "ENV",
+    "HCR",
+    null,
+    "ENG"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

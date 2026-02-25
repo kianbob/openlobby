@@ -1,0 +1,25 @@
+{
+  "name": "NV5 GEOSPATIAL",
+  "slug": "nv5-geospatial",
+  "state": "MD",
+  "totalSpend": 850000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAR",
+    "BUD",
+    "SCI",
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

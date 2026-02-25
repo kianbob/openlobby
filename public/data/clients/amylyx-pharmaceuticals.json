@@ -1,0 +1,22 @@
+{
+  "name": "AMYLYX PHARMACEUTICALS",
+  "slug": "amylyx-pharmaceuticals",
+  "state": "MA",
+  "totalSpend": 870000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

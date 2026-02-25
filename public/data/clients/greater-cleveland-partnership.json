@@ -1,0 +1,31 @@
+{
+  "name": "GREATER CLEVELAND PARTNERSHIP",
+  "slug": "greater-cleveland-partnership",
+  "state": "OH",
+  "totalSpend": 1025000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "AER",
+    "TRA",
+    "TAX",
+    "BUD",
+    "IMM",
+    "ECN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "HOUSING AUTHORITY OF THE COUNTY OF SAN BERNARDINO (HACSB)",
+  "slug": "housing-authority-of-the-county-of-san-bernardino-hacsb",
+  "state": "CA",
+  "totalSpend": 1084500,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "VET",
+    "HOU",
+    "BUD",
+    "WEL",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "WESTERN GOVERNORS UNIVERSITY",
+  "slug": "western-governors-university",
+  "state": "UT",
+  "totalSpend": 1150000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "VET",
+    "BUD",
+    "EDU",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

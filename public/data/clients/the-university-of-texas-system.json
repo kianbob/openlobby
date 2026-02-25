@@ -1,0 +1,25 @@
+{
+  "name": "THE UNIVERSITY OF TEXAS SYSTEM",
+  "slug": "the-university-of-texas-system",
+  "state": "TX",
+  "totalSpend": 870000,
+  "filings": 10,
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    null,
+    "BUD",
+    "MED",
+    "DEF",
+    "RES",
+    "SCI",
+    "SPO"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

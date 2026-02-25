@@ -1,0 +1,26 @@
+{
+  "name": "COULSON AIRCRANE USA",
+  "slug": "coulson-aircrane-usa",
+  "state": "OR",
+  "totalSpend": 1184000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "NAT",
+    "DEF",
+    null,
+    "AVI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

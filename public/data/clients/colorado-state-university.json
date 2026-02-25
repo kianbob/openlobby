@@ -1,0 +1,26 @@
+{
+  "name": "COLORADO STATE UNIVERSITY",
+  "slug": "colorado-state-university",
+  "state": "CO",
+  "totalSpend": 1150000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "EDU",
+    "GOV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

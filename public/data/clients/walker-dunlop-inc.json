@@ -1,0 +1,29 @@
+{
+  "name": "WALKER & DUNLOP INC.",
+  "slug": "walker-dunlop-inc",
+  "state": "MD",
+  "totalSpend": 1020000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "HOU",
+    "SMB",
+    "BAN",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

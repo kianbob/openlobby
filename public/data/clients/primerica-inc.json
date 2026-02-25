@@ -1,0 +1,27 @@
+{
+  "name": "PRIMERICA, INC.",
+  "slug": "primerica-inc",
+  "state": "GA",
+  "totalSpend": 1080000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "LBR",
+    "CSP",
+    null,
+    "MMM",
+    "RET",
+    "FIN",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

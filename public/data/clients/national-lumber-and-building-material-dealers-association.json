@@ -1,0 +1,40 @@
+{
+  "name": "NATIONAL LUMBER AND BUILDING MATERIAL DEALERS ASSOCIATION",
+  "slug": "national-lumber-and-building-material-dealers-association",
+  "state": "DC",
+  "totalSpend": 1280000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "ENG",
+    "TAX",
+    "HCR",
+    "ECN",
+    "GOV",
+    "LBR",
+    "TOR",
+    "NAT",
+    "SMB",
+    "HOU",
+    "TRA",
+    "HOM",
+    "BAN",
+    "FIN",
+    "RRR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

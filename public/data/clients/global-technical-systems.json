@@ -1,0 +1,27 @@
+{
+  "name": "GLOBAL TECHNICAL SYSTEMS",
+  "slug": "global-technical-systems",
+  "state": "VA",
+  "totalSpend": 1040000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

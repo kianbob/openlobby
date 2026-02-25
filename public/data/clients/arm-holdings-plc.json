@@ -1,0 +1,22 @@
+{
+  "name": "ARM HOLDINGS PLC",
+  "slug": "arm-holdings-plc",
+  "state": null,
+  "totalSpend": 980000,
+  "filings": 9,
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    null,
+    "CPI",
+    "TRD",
+    "ENV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

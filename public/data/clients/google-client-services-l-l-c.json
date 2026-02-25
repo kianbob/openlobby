@@ -1,0 +1,28 @@
+{
+  "name": "GOOGLE CLIENT SERVICES L.L.C.",
+  "slug": "google-client-services-l-l-c",
+  "state": "DC",
+  "totalSpend": 1200000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "COM",
+    "CPI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

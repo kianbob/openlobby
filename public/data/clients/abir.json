@@ -1,0 +1,23 @@
+{
+  "name": "ABIR",
+  "slug": "abir",
+  "state": "DC",
+  "totalSpend": 940000,
+  "filings": 20,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "INS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "CIENA CORPORATION",
+  "slug": "ciena-corporation",
+  "state": "MD",
+  "totalSpend": 990000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TEC",
+    "HOM",
+    "SCI",
+    "TRD",
+    "DEF",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

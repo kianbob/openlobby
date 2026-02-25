@@ -1,0 +1,22 @@
+{
+  "name": "WELLHIVE",
+  "slug": "wellhive",
+  "state": "FL",
+  "totalSpend": 1230000,
+  "filings": 12,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "VET",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "PHYSICIAN ASSISTANT EDUCATION ASSOCIATION",
+  "slug": "physician-assistant-education-association",
+  "state": "VA",
+  "totalSpend": 1260000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    "EDU",
+    "MMM",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

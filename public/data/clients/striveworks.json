@@ -1,0 +1,22 @@
+{
+  "name": "STRIVEWORKS",
+  "slug": "striveworks",
+  "state": "TX",
+  "totalSpend": 840000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

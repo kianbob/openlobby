@@ -1,0 +1,24 @@
+{
+  "name": "LSU HEALTH SCIENCES FOUNDATION",
+  "slug": "lsu-health-sciences-foundation",
+  "state": "LA",
+  "totalSpend": 960000,
+  "filings": 20,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MED",
+    "HCR",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

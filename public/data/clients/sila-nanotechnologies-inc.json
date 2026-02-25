@@ -1,0 +1,27 @@
+{
+  "name": "SILA NANOTECHNOLOGIES INC.",
+  "slug": "sila-nanotechnologies-inc",
+  "state": "CA",
+  "totalSpend": 1060000,
+  "filings": 20,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    "ENG",
+    null,
+    "TAX",
+    "BUD",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

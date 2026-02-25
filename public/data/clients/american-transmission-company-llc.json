@@ -1,0 +1,27 @@
+{
+  "name": "AMERICAN TRANSMISSION COMPANY, LLC",
+  "slug": "american-transmission-company-llc",
+  "state": "WI",
+  "totalSpend": 900000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "UTI",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

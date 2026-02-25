@@ -1,0 +1,25 @@
+{
+  "name": "UNITED WAY WORLDWIDE",
+  "slug": "united-way-worldwide",
+  "state": "VA",
+  "totalSpend": 1150000,
+  "filings": 11,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "TAX",
+    "ENV",
+    null,
+    "AGR",
+    "GOV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

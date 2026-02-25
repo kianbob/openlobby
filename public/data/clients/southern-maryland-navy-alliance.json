@@ -1,0 +1,26 @@
+{
+  "name": "SOUTHERN MARYLAND NAVY ALLIANCE",
+  "slug": "southern-maryland-navy-alliance",
+  "state": "MD",
+  "totalSpend": 850000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "UNIVERSITY OF IDAHO",
+  "slug": "university-of-idaho",
+  "state": "ID",
+  "totalSpend": 1160000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "NAT",
+    "EDU",
+    "BUD",
+    "DEF",
+    "SCI",
+    null,
+    "HCR",
+    "URB"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

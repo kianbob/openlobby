@@ -1,0 +1,23 @@
+{
+  "name": "PUERTO RICO FISCAL AGENCY AND FINANCIAL ADVISORY AUTHORITY (AAFAF)",
+  "slug": "puerto-rico-fiscal-agency-and-financial-advisory-authority-aafaf",
+  "state": "PR",
+  "totalSpend": 1200000,
+  "filings": 10,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "ENG",
+    "HOM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "PORT OF TEXAS CITY",
+  "slug": "port-of-texas-city",
+  "state": "TX",
+  "totalSpend": 823750,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAR",
+    "BUD",
+    "HOM",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,36 @@
+{
+  "name": "CITY OF PORTLAND",
+  "slug": "city-of-portland",
+  "state": "OR",
+  "totalSpend": 1200000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "URB",
+    "NAT",
+    "TRA",
+    "TAX",
+    "HOU",
+    "HOM",
+    "CAW",
+    "BUD",
+    "TEC",
+    "IMM",
+    "IND",
+    "CPT",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

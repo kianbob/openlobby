@@ -1,0 +1,27 @@
+{
+  "name": "INGRAM BARGE COMPANY",
+  "slug": "ingram-barge-company",
+  "state": "TN",
+  "totalSpend": 1290000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TRA",
+    "ENV",
+    "ENG",
+    null,
+    "MAR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

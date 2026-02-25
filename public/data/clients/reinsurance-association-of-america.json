@@ -1,0 +1,26 @@
+{
+  "name": "REINSURANCE ASSOCIATION OF AMERICA",
+  "slug": "reinsurance-association-of-america",
+  "state": "DC",
+  "totalSpend": 950000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "INS",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

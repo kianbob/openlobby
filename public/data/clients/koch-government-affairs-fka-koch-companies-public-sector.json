@@ -1,0 +1,31 @@
+{
+  "name": "KOCH GOVERNMENT AFFAIRS (FKA KOCH COMPANIES PUBLIC SECTOR)",
+  "slug": "koch-government-affairs-fka-koch-companies-public-sector",
+  "state": "DC",
+  "totalSpend": 1310000,
+  "filings": 20,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "BAN",
+    "CON",
+    "TAX",
+    "ENG",
+    "APP",
+    "BNK",
+    "AGR",
+    "FUE",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

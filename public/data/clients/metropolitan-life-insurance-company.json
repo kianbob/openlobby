@@ -1,0 +1,29 @@
+{
+  "name": "METROPOLITAN LIFE INSURANCE COMPANY",
+  "slug": "metropolitan-life-insurance-company",
+  "state": "NY",
+  "totalSpend": 1140000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "CDT",
+    "INS",
+    "TAX",
+    null,
+    "RET"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "JACOBS ENGINEERING GROUP INC.",
+  "slug": "jacobs-engineering-group-inc",
+  "state": "DC",
+  "totalSpend": 1230000,
+  "filings": 24,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "GOV",
+    "TRA",
+    "NAT",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

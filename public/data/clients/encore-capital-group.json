@@ -1,0 +1,26 @@
+{
+  "name": "ENCORE CAPITAL GROUP",
+  "slug": "encore-capital-group",
+  "state": "CA",
+  "totalSpend": 1110000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

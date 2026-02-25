@@ -1,0 +1,26 @@
+{
+  "name": "AMERICAN FUEL AND PETROCHEMICAL MANUFACTURERS",
+  "slug": "american-fuel-and-petrochemical-manufacturers",
+  "state": "DC",
+  "totalSpend": 900000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "HOM",
+    "CHM",
+    "ENG",
+    "RRR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CHARM INDUSTRIAL",
+  "slug": "charm-industrial",
+  "state": "CA",
+  "totalSpend": 1180000,
+  "filings": 20,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

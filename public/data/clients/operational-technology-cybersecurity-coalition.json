@@ -1,0 +1,27 @@
+{
+  "name": "OPERATIONAL TECHNOLOGY CYBERSECURITY COALITION",
+  "slug": "operational-technology-cybersecurity-coalition",
+  "state": "DC",
+  "totalSpend": 960000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPI",
+    "SCI",
+    "BUD",
+    "HOM",
+    "GOV",
+    null,
+    "DEF",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

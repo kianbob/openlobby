@@ -1,0 +1,24 @@
+{
+  "name": "DONNELLEY FINANCIAL SOLUTIONS, INC.",
+  "slug": "donnelley-financial-solutions-inc",
+  "state": "NY",
+  "totalSpend": 840000,
+  "filings": 19,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "GOV",
+    "FIN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

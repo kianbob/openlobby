@@ -1,0 +1,26 @@
+{
+  "name": "NV ENERGY",
+  "slug": "nv-energy",
+  "state": "NV",
+  "totalSpend": 1260000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "NAT",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

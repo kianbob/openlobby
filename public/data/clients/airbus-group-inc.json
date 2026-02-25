@@ -1,0 +1,28 @@
+{
+  "name": "AIRBUS GROUP INC.",
+  "slug": "airbus-group-inc",
+  "state": "VA",
+  "totalSpend": 1340000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "DEF",
+    "AVI",
+    "TRD",
+    "TEC",
+    "AER",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

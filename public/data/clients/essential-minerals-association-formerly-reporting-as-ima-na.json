@@ -1,0 +1,32 @@
+{
+  "name": "ESSENTIAL MINERALS ASSOCIATION (FORMERLY REPORTING AS IMA-NA)",
+  "slug": "essential-minerals-association-formerly-reporting-as-ima-na",
+  "state": "DC",
+  "totalSpend": 1160000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "NAT",
+    "TRD",
+    "ENV",
+    "TAX",
+    "BUD",
+    "GOV",
+    "CSP",
+    null,
+    "HCR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

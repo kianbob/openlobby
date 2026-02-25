@@ -1,0 +1,27 @@
+{
+  "name": "CHURCHILL COUNTY, NEVADA",
+  "slug": "churchill-county-nevada",
+  "state": "NV",
+  "totalSpend": 1180000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "NAT",
+    "TRA",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

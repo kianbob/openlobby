@@ -1,0 +1,27 @@
+{
+  "name": "STRATASYS, INC.",
+  "slug": "stratasys-inc",
+  "state": "MN",
+  "totalSpend": 1280000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAN",
+    "DIS",
+    "BUD",
+    "EDU",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

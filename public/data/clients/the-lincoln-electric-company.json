@@ -1,0 +1,26 @@
+{
+  "name": "THE LINCOLN ELECTRIC COMPANY",
+  "slug": "the-lincoln-electric-company",
+  "state": "OH",
+  "totalSpend": 1050000,
+  "filings": 21,
+  "years": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "MAN",
+    null,
+    "TAR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

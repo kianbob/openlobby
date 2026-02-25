@@ -1,0 +1,25 @@
+{
+  "name": "WESTFIELD LLC",
+  "slug": "westfield-llc",
+  "state": "CA",
+  "totalSpend": 1070000,
+  "filings": 14,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "issues": [
+    "TAX",
+    "AGR",
+    "FIN",
+    "AVI",
+    "SMB"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

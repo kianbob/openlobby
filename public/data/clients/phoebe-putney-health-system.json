@@ -1,0 +1,27 @@
+{
+  "name": "PHOEBE PUTNEY HEALTH SYSTEM",
+  "slug": "phoebe-putney-health-system",
+  "state": "GA",
+  "totalSpend": 1330000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    "GOV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

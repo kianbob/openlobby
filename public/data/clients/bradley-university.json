@@ -1,0 +1,22 @@
+{
+  "name": "BRADLEY UNIVERSITY",
+  "slug": "bradley-university",
+  "state": "IL",
+  "totalSpend": 840000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

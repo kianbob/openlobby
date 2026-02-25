@@ -1,0 +1,22 @@
+{
+  "name": "ROPER ST. FRANCIS HEALTHCARE",
+  "slug": "roper-st-francis-healthcare",
+  "state": "SC",
+  "totalSpend": 1250000,
+  "filings": 17,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CIRCULOR",
+  "slug": "circulor",
+  "state": null,
+  "totalSpend": 870000,
+  "filings": 14,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TRA",
+    "FOR",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

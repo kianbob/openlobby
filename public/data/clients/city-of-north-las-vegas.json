@@ -1,0 +1,34 @@
+{
+  "name": "CITY OF NORTH LAS VEGAS",
+  "slug": "city-of-north-las-vegas",
+  "state": "NV",
+  "totalSpend": 1030000,
+  "filings": 37,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "URB",
+    "BUD",
+    "NAT",
+    "SMB",
+    "TRA",
+    "DEF",
+    "HOU",
+    null,
+    "RES",
+    "LBR",
+    "POS"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

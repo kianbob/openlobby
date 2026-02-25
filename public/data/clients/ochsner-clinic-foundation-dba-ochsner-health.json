@@ -1,0 +1,23 @@
+{
+  "name": "OCHSNER CLINIC FOUNDATION DBA OCHSNER HEALTH",
+  "slug": "ochsner-clinic-foundation-dba-ochsner-health",
+  "state": "LA",
+  "totalSpend": 820000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

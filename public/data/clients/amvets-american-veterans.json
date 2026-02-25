@@ -1,0 +1,26 @@
+{
+  "name": "AMVETS/AMERICAN VETERANS",
+  "slug": "amvets-american-veterans",
+  "state": "MD",
+  "totalSpend": 962333,
+  "filings": 33,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "VET",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

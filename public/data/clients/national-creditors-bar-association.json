@@ -1,0 +1,24 @@
+{
+  "name": "NATIONAL CREDITORS BAR ASSOCIATION",
+  "slug": "national-creditors-bar-association",
+  "state": "FL",
+  "totalSpend": 1080000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    "BNK",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

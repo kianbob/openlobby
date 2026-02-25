@@ -1,0 +1,25 @@
+{
+  "name": "MOLEKULE GROUP",
+  "slug": "molekule-group",
+  "state": "CA",
+  "totalSpend": 1080000,
+  "filings": 18,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "ENV",
+    "TRD",
+    "VET",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

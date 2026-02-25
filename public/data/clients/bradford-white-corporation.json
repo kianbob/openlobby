@@ -1,0 +1,33 @@
+{
+  "name": "BRADFORD WHITE CORPORATION",
+  "slug": "bradford-white-corporation",
+  "state": "PA",
+  "totalSpend": 1298500,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TRA",
+    "TAX",
+    "ENV",
+    "ENG",
+    "LBR",
+    "MAN",
+    "FIN",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

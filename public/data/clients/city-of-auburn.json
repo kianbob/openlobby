@@ -1,0 +1,31 @@
+{
+  "name": "CITY OF AUBURN",
+  "slug": "city-of-auburn",
+  "state": "WA",
+  "totalSpend": 1083000,
+  "filings": 35,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    "HOU",
+    "RES",
+    "ECN",
+    "BUD",
+    "IMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

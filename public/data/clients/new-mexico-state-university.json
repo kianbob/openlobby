@@ -1,0 +1,37 @@
+{
+  "name": "NEW MEXICO STATE UNIVERSITY",
+  "slug": "new-mexico-state-university",
+  "state": "DC",
+  "totalSpend": 910000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "DEF",
+    "IMM",
+    "AGR",
+    "TRA",
+    "BUD",
+    "SCI",
+    "EDU",
+    "RES",
+    "TAX",
+    "SPO",
+    "HCR",
+    "ECN",
+    "NAT",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "FLUOR",
+  "slug": "fluor",
+  "state": "DC",
+  "totalSpend": 1070000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "ENG",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "TAX GUARD",
+  "slug": "tax-guard",
+  "state": "CO",
+  "totalSpend": 860000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    null,
+    "SMB"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

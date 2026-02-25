@@ -1,0 +1,25 @@
+{
+  "name": "FEDERATED INVESTORS",
+  "slug": "federated-investors",
+  "state": "PA",
+  "totalSpend": 1020000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

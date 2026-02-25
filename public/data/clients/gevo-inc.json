@@ -1,0 +1,25 @@
+{
+  "name": "GEVO, INC.",
+  "slug": "gevo-inc",
+  "state": "CO",
+  "totalSpend": 850000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "FUE",
+    null,
+    "TAX",
+    "AGR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

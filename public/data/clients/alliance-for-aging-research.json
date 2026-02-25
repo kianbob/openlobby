@@ -1,0 +1,23 @@
+{
+  "name": "ALLIANCE FOR AGING RESEARCH",
+  "slug": "alliance-for-aging-research",
+  "state": "DC",
+  "totalSpend": 830000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "MMM",
+    null,
+    "HCR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

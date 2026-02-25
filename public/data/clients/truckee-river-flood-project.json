@@ -1,0 +1,27 @@
+{
+  "name": "TRUCKEE RIVER FLOOD PROJECT",
+  "slug": "truckee-river-flood-project",
+  "state": "NV",
+  "totalSpend": 1020000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "NAT",
+    null,
+    "HOM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LUMEN TECHNOLOGIES",
+  "slug": "lumen-technologies",
+  "state": "LA",
+  "totalSpend": 1060000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TEC",
+    "DEF",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

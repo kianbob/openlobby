@@ -1,0 +1,34 @@
+{
+  "name": "SOUTH DAKOTA STATE UNIVERSITY",
+  "slug": "south-dakota-state-university",
+  "state": "SD",
+  "totalSpend": 1120000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "TAX",
+    "SCI",
+    "BUD",
+    "EDU",
+    "IMM",
+    "TRA",
+    null,
+    "AVI",
+    "IND",
+    "MED"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

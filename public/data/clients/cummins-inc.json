@@ -1,0 +1,29 @@
+{
+  "name": "CUMMINS INC.",
+  "slug": "cummins-inc",
+  "state": "DC",
+  "totalSpend": 850000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "TAX",
+    null,
+    "MAN",
+    "LBR",
+    "ENG",
+    "BUD",
+    "TRD",
+    "ENV",
+    "SCI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

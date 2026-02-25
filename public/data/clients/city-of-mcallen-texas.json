@@ -1,0 +1,25 @@
+{
+  "name": "CITY OF MCALLEN, TEXAS",
+  "slug": "city-of-mcallen-texas",
+  "state": "TX",
+  "totalSpend": 900000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "URB",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

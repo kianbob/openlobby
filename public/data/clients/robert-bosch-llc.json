@@ -1,0 +1,24 @@
+{
+  "name": "ROBERT BOSCH LLC",
+  "slug": "robert-bosch-llc",
+  "state": "DC",
+  "totalSpend": 1020000,
+  "filings": 11,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "TRD",
+    null,
+    "SCI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

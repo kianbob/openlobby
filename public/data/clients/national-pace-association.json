@@ -1,0 +1,28 @@
+{
+  "name": "NATIONAL PACE ASSOCIATION",
+  "slug": "national-pace-association",
+  "state": "VA",
+  "totalSpend": 920000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "MMM",
+    "VET",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

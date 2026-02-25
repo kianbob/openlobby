@@ -1,0 +1,30 @@
+{
+  "name": "INDIAN GAMING ASSOCIATION",
+  "slug": "indian-gaming-association",
+  "state": "DC",
+  "totalSpend": 1008000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CON",
+    "TAX",
+    "ECN",
+    "GAM",
+    "GOV",
+    "IND",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

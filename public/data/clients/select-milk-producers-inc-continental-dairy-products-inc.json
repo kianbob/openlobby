@@ -1,0 +1,29 @@
+{
+  "name": "SELECT MILK PRODUCERS, INC./CONTINENTAL DAIRY PRODUCTS, INC.",
+  "slug": "select-milk-producers-inc-continental-dairy-products-inc",
+  "state": "NM",
+  "totalSpend": 1120000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "IMM",
+    "BUD",
+    "TAX",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

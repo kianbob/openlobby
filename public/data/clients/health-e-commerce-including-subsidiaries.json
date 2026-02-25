@@ -1,0 +1,25 @@
+{
+  "name": "HEALTH-E COMMERCE INCLUDING SUBSIDIARIES",
+  "slug": "health-e-commerce-including-subsidiaries",
+  "state": "NY",
+  "totalSpend": 950000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

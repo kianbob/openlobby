@@ -1,0 +1,30 @@
+{
+  "name": "GENERAL MOTORS",
+  "slug": "general-motors",
+  "state": "DC",
+  "totalSpend": 927500,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ECN",
+    "FIN",
+    "TEC",
+    null,
+    "TRD",
+    "AUT",
+    "CAW"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

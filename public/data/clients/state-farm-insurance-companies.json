@@ -1,0 +1,28 @@
+{
+  "name": "STATE FARM INSURANCE COMPANIES",
+  "slug": "state-farm-insurance-companies",
+  "state": "IL",
+  "totalSpend": 1280000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AUT",
+    "INS",
+    "BAN",
+    "FIN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "IHEARTMEDIA",
+  "slug": "iheartmedia",
+  "state": "DC",
+  "totalSpend": 900000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

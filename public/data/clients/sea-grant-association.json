@@ -1,0 +1,29 @@
+{
+  "name": "SEA GRANT ASSOCIATION",
+  "slug": "sea-grant-association",
+  "state": "MS",
+  "totalSpend": 1030000,
+  "filings": 34,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAR",
+    "BUD",
+    "EDU",
+    "ENV",
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

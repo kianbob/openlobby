@@ -1,0 +1,31 @@
+{
+  "name": "CLARK COUNTY NV (OFFICE OF THE COUNTY MANAGER)",
+  "slug": "clark-county-nv-office-of-the-county-manager",
+  "state": "WA",
+  "totalSpend": 910000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "HOM",
+    "NAT",
+    "HOU",
+    null,
+    "HCR",
+    "DIS",
+    "WEL"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

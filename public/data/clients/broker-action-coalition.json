@@ -1,0 +1,23 @@
+{
+  "name": "BROKER ACTION COALITION",
+  "slug": "broker-action-coalition",
+  "state": "PA",
+  "totalSpend": 1000000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "HOU",
+    "VET",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

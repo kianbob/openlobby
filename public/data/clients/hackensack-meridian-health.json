@@ -1,0 +1,27 @@
+{
+  "name": "HACKENSACK MERIDIAN HEALTH",
+  "slug": "hackensack-meridian-health",
+  "state": "NJ",
+  "totalSpend": 1020000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MED",
+    "MMM",
+    null,
+    "HCR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

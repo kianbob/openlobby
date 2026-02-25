@@ -1,0 +1,21 @@
+{
+  "name": "YELLOW CORPORATION",
+  "slug": "yellow-corporation",
+  "state": "KS",
+  "totalSpend": 1150000,
+  "filings": 13,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

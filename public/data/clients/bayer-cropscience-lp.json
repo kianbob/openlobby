@@ -1,0 +1,24 @@
+{
+  "name": "BAYER CROPSCIENCE LP",
+  "slug": "bayer-cropscience-lp",
+  "state": "DC",
+  "totalSpend": 920000,
+  "filings": 19,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "CPT",
+    "ENV",
+    "PHA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

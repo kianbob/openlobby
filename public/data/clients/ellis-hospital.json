@@ -1,0 +1,24 @@
+{
+  "name": "ELLIS HOSPITAL",
+  "slug": "ellis-hospital",
+  "state": "NY",
+  "totalSpend": 1280000,
+  "filings": 28,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AMEREN",
+  "slug": "ameren",
+  "state": "MO",
+  "totalSpend": 1010000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

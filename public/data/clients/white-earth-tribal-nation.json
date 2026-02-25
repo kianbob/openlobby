@@ -1,0 +1,32 @@
+{
+  "name": "WHITE EARTH TRIBAL NATION",
+  "slug": "white-earth-tribal-nation",
+  "state": "DC",
+  "totalSpend": 830000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ECN",
+    "VET",
+    "BUD",
+    "IND",
+    "HCR",
+    "AGR",
+    "TRA",
+    null,
+    "ENG"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

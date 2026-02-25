@@ -1,0 +1,30 @@
+{
+  "name": "NEMOURS CHILDREN'S HEALTH",
+  "slug": "nemours-children-s-health",
+  "state": "FL",
+  "totalSpend": 1000000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "HCR",
+    "MMM",
+    "BUD",
+    "TAX",
+    null,
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

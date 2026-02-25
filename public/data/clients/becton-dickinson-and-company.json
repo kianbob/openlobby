@@ -1,0 +1,22 @@
+{
+  "name": "BECTON, DICKINSON AND COMPANY",
+  "slug": "becton-dickinson-and-company",
+  "state": "NJ",
+  "totalSpend": 1040000,
+  "filings": 15,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

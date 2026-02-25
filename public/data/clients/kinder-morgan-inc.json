@@ -1,0 +1,28 @@
+{
+  "name": "KINDER MORGAN, INC.",
+  "slug": "kinder-morgan-inc",
+  "state": "TX",
+  "totalSpend": 1330000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "RET",
+    "ENG",
+    "CPI",
+    "TAX",
+    "TRD",
+    "ENV",
+    null,
+    "GOV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

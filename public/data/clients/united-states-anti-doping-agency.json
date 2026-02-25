@@ -1,0 +1,27 @@
+{
+  "name": "UNITED STATES ANTI-DOPING AGENCY",
+  "slug": "united-states-anti-doping-agency",
+  "state": "CO",
+  "totalSpend": 1030000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "ALC",
+    "IMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

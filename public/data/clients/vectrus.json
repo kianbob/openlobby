@@ -1,0 +1,23 @@
+{
+  "name": "VECTRUS",
+  "slug": "vectrus",
+  "state": "VA",
+  "totalSpend": 897500,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

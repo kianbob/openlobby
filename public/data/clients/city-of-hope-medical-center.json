@@ -1,0 +1,28 @@
+{
+  "name": "CITY OF HOPE MEDICAL CENTER",
+  "slug": "city-of-hope-medical-center",
+  "state": "CA",
+  "totalSpend": 1250000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MED",
+    "HCR",
+    "MMM",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "SAN GABRIEL BASIN WATER QUALITY AUTHORITY",
+  "slug": "san-gabriel-basin-water-quality-authority",
+  "state": "CA",
+  "totalSpend": 1035000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "CAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

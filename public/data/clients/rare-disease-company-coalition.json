@@ -1,0 +1,23 @@
+{
+  "name": "RARE DISEASE COMPANY COALITION",
+  "slug": "rare-disease-company-coalition",
+  "state": "DC",
+  "totalSpend": 960000,
+  "filings": 15,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    "PHA",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

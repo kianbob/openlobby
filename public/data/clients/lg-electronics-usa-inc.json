@@ -1,0 +1,31 @@
+{
+  "name": "LG ELECTRONICS USA, INC.",
+  "slug": "lg-electronics-usa-inc",
+  "state": "IL",
+  "totalSpend": 870000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENV",
+    "ENG",
+    "TRD",
+    "MAN",
+    "TEC",
+    "TAX",
+    "MAR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

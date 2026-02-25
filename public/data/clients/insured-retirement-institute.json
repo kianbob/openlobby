@@ -1,0 +1,25 @@
+{
+  "name": "INSURED RETIREMENT INSTITUTE",
+  "slug": "insured-retirement-institute",
+  "state": "DC",
+  "totalSpend": 1130000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "RET",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

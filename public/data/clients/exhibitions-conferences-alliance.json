@@ -1,0 +1,29 @@
+{
+  "name": "EXHIBITIONS & CONFERENCES ALLIANCE",
+  "slug": "exhibitions-conferences-alliance",
+  "state": "GA",
+  "totalSpend": 1160000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ART",
+    "TOU",
+    "INS",
+    "SMB",
+    "TRD",
+    null,
+    "LBR",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

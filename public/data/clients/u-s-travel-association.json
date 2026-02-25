@@ -1,0 +1,24 @@
+{
+  "name": "U.S. TRAVEL ASSOCIATION",
+  "slug": "u-s-travel-association",
+  "state": "DC",
+  "totalSpend": 850000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TOU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

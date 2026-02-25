@@ -1,0 +1,31 @@
+{
+  "name": "INTERNATIONAL ASSOCIATION OF AMUSEMENT PARKS AND ATTRACTIONS",
+  "slug": "international-association-of-amusement-parks-and-attractions",
+  "state": "VA",
+  "totalSpend": 920000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "CSP",
+    "IMM",
+    "LBR",
+    "DIS",
+    "TOU",
+    "HOM",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

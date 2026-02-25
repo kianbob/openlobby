@@ -1,0 +1,29 @@
+{
+  "name": "LEIDOS",
+  "slug": "leidos",
+  "state": "VA",
+  "totalSpend": 1280000,
+  "filings": 27,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "HOM",
+    "DEF",
+    "SCI",
+    "TAX",
+    null,
+    "AVI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

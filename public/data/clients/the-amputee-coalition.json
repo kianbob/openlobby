@@ -1,0 +1,25 @@
+{
+  "name": "THE AMPUTEE COALITION",
+  "slug": "the-amputee-coalition",
+  "state": "DC",
+  "totalSpend": 1100000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "BUD",
+    null,
+    "VET"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

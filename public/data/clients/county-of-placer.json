@@ -1,0 +1,25 @@
+{
+  "name": "COUNTY OF PLACER",
+  "slug": "county-of-placer",
+  "state": "MO",
+  "totalSpend": 1240000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "GMTO CORPORATION",
+  "slug": "gmto-corporation",
+  "state": "CA",
+  "totalSpend": 890000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

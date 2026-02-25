@@ -1,0 +1,25 @@
+{
+  "name": "STRIPE",
+  "slug": "stripe",
+  "state": "CA",
+  "totalSpend": 970000,
+  "filings": 18,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "issues": [
+    "BAN",
+    "TAX",
+    "IMM",
+    "CPI",
+    "FIN"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

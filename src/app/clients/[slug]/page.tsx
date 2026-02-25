@@ -167,7 +167,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!client) return { title: 'Client Not Found' }
   return {
     title: `${toTitleCase(client.name)} — Lobbying Spending & Activity`,
-    description: `${toTitleCase(client.name)} has spent ${formatCurrency(client.totalSpending)} on federal lobbying across ${client.filings} filings. See firms, lobbyists, issues, spending trends, and related investigations.`,
+    description: `${toTitleCase(client.name)} has spent ${formatCurrency(client.totalSpending || (client as any).totalSpend || 0)} on federal lobbying across ${client.filings || 0} filings. See firms, lobbyists, issues, spending trends, and related investigations.`,
   }
 }
 
@@ -199,11 +199,20 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
     )
   }
 
+  // Normalize field names — generated files may use alternate keys
+  const totalSpending = client.totalSpending || (client as any).totalSpend || 0
+  const firms = client.firms || []
+  const lobbyists = client.lobbyists || []
+  const yearlySpending = client.yearlySpending || (client as any).yearly || []
+  const sampleDescriptions = client.sampleDescriptions || (client as any).descriptions || []
+  const years = client.years || []
+  const issues = client.issues || []
+
   const similarClients = getSimilarClients(client)
-  const relatedArticles = getRelatedArticles(client.issues || [])
-  const industryPages = getIndustryPages(client.issues || [])
+  const relatedArticles = getRelatedArticles(issues)
+  const industryPages = getIndustryPages(issues)
   const isContractor = defenseContractors.some(dc => client.name.toLowerCase().includes(dc))
-  const validIssues = (client.issues || []).filter(Boolean)
+  const validIssues = issues.filter(Boolean)
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -218,7 +227,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
         </p>
       )}
       
-      <ShareButtons url={`https://www.openlobby.us/clients/${slug}`} title={`${toTitleCase(client.name)} spent ${formatCurrency(client.totalSpending)} on lobbying`} />
+      <ShareButtons url={`https://www.openlobby.us/clients/${slug}`} title={`${toTitleCase(client.name)} spent ${formatCurrency(totalSpending)} on lobbying`} />
 
       {/* AI Overview */}
       <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8 mt-6">
@@ -227,9 +236,9 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
           <div>
             <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
             <p className="text-gray-700 text-sm leading-relaxed">
-              With {formatCurrency(client.totalSpending)} in lobbying spend across {client.filings} quarterly filings, {toTitleCase(client.name).replace(/\.$/, '')} is {client.totalSpending > 5000000 ? 'one of the biggest lobbying spenders in Washington' : client.totalSpending > 1000000 ? 'a significant lobbying presence' : 'an active lobbying client'}.{client.lobbyists?.length > 10 ? ` They deploy ${client.lobbyists.length} individual lobbyists` : ''}{client.firms?.length > 1 ? ` across ${client.firms.length} different lobbying firms.` : ''}
+              With {formatCurrency(totalSpending)} in lobbying spend across {client.filings} quarterly filings, {toTitleCase(client.name).replace(/\.$/, '')} is {totalSpending > 5000000 ? 'one of the biggest lobbying spenders in Washington' : totalSpending > 1000000 ? 'a significant lobbying presence' : 'an active lobbying client'}.{lobbyists?.length > 10 ? ` They deploy ${lobbyists.length} individual lobbyists` : ''}{firms?.length > 1 ? ` across ${firms.length} different lobbying firms.` : ''}
               {validIssues.length > 0 && ` Their lobbying covers ${validIssues.length} issue area${validIssues.length > 1 ? 's' : ''}.`}
-              {client.years?.length > 1 && ` Active from ${Math.min(...client.years)} to ${Math.max(...client.years)}.`}
+              {years?.length > 1 && ` Active from ${Math.min(...years)} to ${Math.max(...years)}.`}
             </p>
           </div>
         </div>
@@ -238,19 +247,19 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
       {/* At a Glance */}
       <div className="grid grid-cols-2 md:grid-cols-5 gap-4 my-8">
         <div className="bg-gray-50 rounded-xl p-4">
-          <div className="text-2xl font-bold text-primary" style={{ fontFamily: 'var(--font-serif)' }}>{formatCurrency(client.totalSpending)}</div>
+          <div className="text-2xl font-bold text-primary" style={{ fontFamily: 'var(--font-serif)' }}>{formatCurrency(totalSpending)}</div>
           <div className="text-xs text-gray-500">Total Spend</div>
         </div>
         <div className="bg-gray-50 rounded-xl p-4">
-          <div className="text-2xl font-bold" style={{ fontFamily: 'var(--font-serif)' }}>{client.years?.length || '—'}</div>
+          <div className="text-2xl font-bold" style={{ fontFamily: 'var(--font-serif)' }}>{years?.length || '—'}</div>
           <div className="text-xs text-gray-500">Years Active</div>
         </div>
         <div className="bg-gray-50 rounded-xl p-4">
-          <div className="text-2xl font-bold" style={{ fontFamily: 'var(--font-serif)' }}>{client.firms.length}</div>
+          <div className="text-2xl font-bold" style={{ fontFamily: 'var(--font-serif)' }}>{firms.length}</div>
           <div className="text-xs text-gray-500">Firms Hired</div>
         </div>
         <div className="bg-gray-50 rounded-xl p-4">
-          <div className="text-2xl font-bold" style={{ fontFamily: 'var(--font-serif)' }}>{client.lobbyists.length}</div>
+          <div className="text-2xl font-bold" style={{ fontFamily: 'var(--font-serif)' }}>{lobbyists.length}</div>
           <div className="text-xs text-gray-500">Lobbyists Deployed</div>
         </div>
         <div className="bg-gray-50 rounded-xl p-4">
@@ -260,11 +269,11 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
       </div>
 
       {/* Spending Chart */}
-      {client.yearlySpending.length > 0 && (
+      {yearlySpending.length > 0 && (
         <section className="mb-8">
           <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Spending Trend</h2>
           <div className="bg-white border border-gray-200 rounded-xl p-4">
-            <ClientSpendingChart data={client.yearlySpending} />
+            <ClientSpendingChart data={yearlySpending} />
           </div>
           {/* Keep the table too for accessibility / SEO */}
           <details className="mt-3">
@@ -278,7 +287,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
                   </tr>
                 </thead>
                 <tbody>
-                  {client.yearlySpending.map(ys => (
+                  {yearlySpending.map(ys => (
                     <tr key={ys.year} className="border-t border-gray-100">
                       <td className="px-4 py-3">{ys.year}</td>
                       <td className="px-4 py-3 text-right font-medium">{formatCurrency(ys.income)}</td>
@@ -306,11 +315,11 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
       )}
 
       {/* Lobbying Firms with Links */}
-      {client.firms.length > 0 && (
+      {firms.length > 0 && (
         <section className="mb-8">
           <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Lobbying Firms</h2>
           <div className="flex flex-wrap gap-2">
-            {client.firms.map(firm => (
+            {firms.map(firm => (
               <Link key={firm} href={`/firms/${resolveFirmSlug(firm)}`} className="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">
                 {toTitleCase(firm)}
               </Link>
@@ -320,11 +329,11 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
       )}
 
       {/* Lobbyists with Links */}
-      {client.lobbyists.length > 0 && (
+      {lobbyists.length > 0 && (
         <section className="mb-8">
           <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Lobbyists</h2>
           <div className="flex flex-wrap gap-2">
-            {client.lobbyists.map(name => (
+            {lobbyists.map(name => (
               <Link key={name} href={`/lobbyists/${resolveLobbyistSlug(name)}`} className="px-3 py-1.5 bg-gray-50 text-gray-600 rounded-full text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors border border-gray-200">
                 {toTitleCase(name)}
               </Link>
@@ -335,7 +344,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
 
       {/* What They Lobby About */}
       {(() => {
-        const uniqueDescs = [...new Map(client.sampleDescriptions.map(d => [d.toLowerCase().trim(), d])).values()]
+        const uniqueDescs = [...new Map(sampleDescriptions.map(d => [d.toLowerCase().trim(), d])).values()]
         // Link bill numbers like H.R. 4007, S. 1234
         function linkBills(text: string) {
           return text.replace(/\b(H\.?\s*R\.?\s*\d+|S\.?\s*\d+|H\.?\s*Res\.?\s*\d+|S\.?\s*Res\.?\s*\d+)/gi, (match) => {

@@ -1,0 +1,27 @@
+{
+  "name": "CSL BEHRING",
+  "slug": "csl-behring",
+  "state": "PA",
+  "totalSpend": 1170000,
+  "filings": 18,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MED",
+    "BUD",
+    "IMM",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

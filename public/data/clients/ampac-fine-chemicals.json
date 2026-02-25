@@ -1,0 +1,23 @@
+{
+  "name": "AMPAC FINE CHEMICALS",
+  "slug": "ampac-fine-chemicals",
+  "state": "CA",
+  "totalSpend": 880000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "PHA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

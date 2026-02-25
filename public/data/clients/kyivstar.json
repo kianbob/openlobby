@@ -1,0 +1,19 @@
+{
+  "name": "KYIVSTAR",
+  "slug": "kyivstar",
+  "state": null,
+  "totalSpend": 960000,
+  "filings": 4,
+  "years": [
+    2022,
+    2023
+  ],
+  "issues": [
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

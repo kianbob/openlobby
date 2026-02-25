@@ -1,0 +1,30 @@
+{
+  "name": "CALIFORNIA LIFE SCIENCES",
+  "slug": "california-life-sciences",
+  "state": "DC",
+  "totalSpend": 920000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    "MMM",
+    "TAX",
+    "DEF",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

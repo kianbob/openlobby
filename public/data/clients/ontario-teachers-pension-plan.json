@@ -1,0 +1,24 @@
+{
+  "name": "ONTARIO TEACHERS' PENSION PLAN",
+  "slug": "ontario-teachers-pension-plan",
+  "state": null,
+  "totalSpend": 970000,
+  "filings": 20,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

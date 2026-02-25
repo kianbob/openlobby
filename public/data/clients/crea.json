@@ -1,0 +1,22 @@
+{
+  "name": "CREA",
+  "slug": "crea",
+  "state": "IN",
+  "totalSpend": 1320000,
+  "filings": 30,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

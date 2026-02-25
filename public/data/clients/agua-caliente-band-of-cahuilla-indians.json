@@ -1,0 +1,27 @@
+{
+  "name": "AGUA CALIENTE BAND OF CAHUILLA INDIANS",
+  "slug": "agua-caliente-band-of-cahuilla-indians",
+  "state": "CA",
+  "totalSpend": 970000,
+  "filings": 11,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "IND",
+    "GAM",
+    "POS",
+    null,
+    "TAX",
+    "RES",
+    "BUD",
+    "NAT"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

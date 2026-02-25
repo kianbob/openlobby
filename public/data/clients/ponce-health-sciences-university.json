@@ -1,0 +1,24 @@
+{
+  "name": "PONCE HEALTH SCIENCES UNIVERSITY",
+  "slug": "ponce-health-sciences-university",
+  "state": "PR",
+  "totalSpend": 1025000,
+  "filings": 28,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ECN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "TDX CORP",
+  "slug": "tdx-corp",
+  "state": "AK",
+  "totalSpend": 970000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "MAR",
+    "BUD",
+    "IND",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

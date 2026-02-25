@@ -1,0 +1,27 @@
+{
+  "name": "PODIMETRICS",
+  "slug": "podimetrics",
+  "state": "MA",
+  "totalSpend": 1130000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "VET",
+    null,
+    "MMM",
+    "MAN",
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

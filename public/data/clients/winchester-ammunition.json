@@ -1,0 +1,21 @@
+{
+  "name": "WINCHESTER AMMUNITION",
+  "slug": "winchester-ammunition",
+  "state": "MO",
+  "totalSpend": 890000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

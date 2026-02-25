@@ -1,0 +1,31 @@
+{
+  "name": "MODESTO IRRIGATION DISTRICT",
+  "slug": "modesto-irrigation-district",
+  "state": "CA",
+  "totalSpend": 1280000,
+  "filings": 35,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "ENV",
+    "ENG",
+    "TAX",
+    "TEC",
+    "NAT",
+    null,
+    "CAW"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

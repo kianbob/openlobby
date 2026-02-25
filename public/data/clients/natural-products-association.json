@@ -1,0 +1,25 @@
+{
+  "name": "NATURAL PRODUCTS ASSOCIATION",
+  "slug": "natural-products-association",
+  "state": "DC",
+  "totalSpend": 1050000,
+  "filings": 21,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TAX",
+    "AGR",
+    "FOO",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "RESOURCES ENVIRONMENTAL SOLUTIONS (\"RES\")",
+  "slug": "resources-environmental-solutions-res",
+  "state": "TX",
+  "totalSpend": 1130000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "ENV",
+    "CAW",
+    "NAT",
+    "RES",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

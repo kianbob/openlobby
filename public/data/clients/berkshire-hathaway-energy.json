@@ -1,0 +1,23 @@
+{
+  "name": "BERKSHIRE HATHAWAY ENERGY",
+  "slug": "berkshire-hathaway-energy",
+  "state": "IA",
+  "totalSpend": 1130000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

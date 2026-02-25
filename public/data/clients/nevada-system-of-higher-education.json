@@ -1,0 +1,26 @@
+{
+  "name": "NEVADA SYSTEM OF HIGHER EDUCATION",
+  "slug": "nevada-system-of-higher-education",
+  "state": "NV",
+  "totalSpend": 1170000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "EDU",
+    "SCI",
+    "RES",
+    null,
+    "ENG"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

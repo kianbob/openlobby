@@ -1,0 +1,32 @@
+{
+  "name": "COLUMBIA BASIN PROJECT (FKA) WASHINGTON STATE WATER RESOURCES ASSOCIATION",
+  "slug": "columbia-basin-project-fka-washington-state-water-resources-association",
+  "state": "WA",
+  "totalSpend": 900000,
+  "filings": 37,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "CAW",
+    "FOO",
+    "NAT",
+    "ENG",
+    null,
+    "AGR",
+    "ENV",
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

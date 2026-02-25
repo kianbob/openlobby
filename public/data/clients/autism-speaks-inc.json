@@ -1,0 +1,26 @@
+{
+  "name": "AUTISM SPEAKS INC.",
+  "slug": "autism-speaks-inc",
+  "state": "NJ",
+  "totalSpend": 1320000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "BUD",
+    "TAX",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

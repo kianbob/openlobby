@@ -1,0 +1,27 @@
+{
+  "name": "MOLSON COORS BEVERAGE COMPANY USA LLC",
+  "slug": "molson-coors-beverage-company-usa-llc",
+  "state": "IL",
+  "totalSpend": 1260000,
+  "filings": 21,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "BEV",
+    "FIN",
+    "AGR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

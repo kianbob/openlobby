@@ -1,0 +1,24 @@
+{
+  "name": "GODADDY, INC.",
+  "slug": "godaddy-inc",
+  "state": "AZ",
+  "totalSpend": 1060000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "CPI",
+    "SMB",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

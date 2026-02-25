@@ -1,0 +1,25 @@
+{
+  "name": "TURO",
+  "slug": "turo",
+  "state": "CA",
+  "totalSpend": 840000,
+  "filings": 11,
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    null,
+    "TRA",
+    "TEC",
+    "SCI",
+    "ROD",
+    "CSP",
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

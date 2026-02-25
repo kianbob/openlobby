@@ -1,0 +1,28 @@
+{
+  "name": "UNITED EGG PRODUCERS",
+  "slug": "united-egg-producers",
+  "state": "GA",
+  "totalSpend": 1270000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "FOO",
+    "ANI",
+    "AGR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

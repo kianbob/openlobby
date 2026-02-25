@@ -1,0 +1,25 @@
+{
+  "name": "LUFTHANSA GERMAN AIRLINES",
+  "slug": "lufthansa-german-airlines",
+  "state": "DC",
+  "totalSpend": 1130000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AVI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

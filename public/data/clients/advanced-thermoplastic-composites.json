@@ -1,0 +1,23 @@
+{
+  "name": "ADVANCED THERMOPLASTIC COMPOSITES",
+  "slug": "advanced-thermoplastic-composites",
+  "state": "ID",
+  "totalSpend": 850000,
+  "filings": 11,
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    null,
+    "AER",
+    "DEF",
+    "MAN",
+    "SCI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

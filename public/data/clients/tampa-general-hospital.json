@@ -1,0 +1,24 @@
+{
+  "name": "TAMPA GENERAL HOSPITAL",
+  "slug": "tampa-general-hospital",
+  "state": "FL",
+  "totalSpend": 950000,
+  "filings": 20,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

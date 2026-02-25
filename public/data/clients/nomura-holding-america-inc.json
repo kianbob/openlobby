@@ -1,0 +1,28 @@
+{
+  "name": "NOMURA HOLDING AMERICA INC.",
+  "slug": "nomura-holding-america-inc",
+  "state": "DC",
+  "totalSpend": 1050000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "FIN",
+    null,
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

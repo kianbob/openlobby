@@ -1,0 +1,25 @@
+{
+  "name": "GOVERNOR'S MILITARY COUNCIL",
+  "slug": "governor-s-military-council",
+  "state": "KS",
+  "totalSpend": 840000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

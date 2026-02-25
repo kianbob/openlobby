@@ -1,0 +1,23 @@
+{
+  "name": "HSBC TECHNOLOGY & SERVICES USA, INC.",
+  "slug": "hsbc-technology-services-usa-inc",
+  "state": "IL",
+  "totalSpend": 1100000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "BAN",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

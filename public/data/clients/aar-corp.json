@@ -1,0 +1,23 @@
+{
+  "name": "AAR CORP.",
+  "slug": "aar-corp",
+  "state": "IL",
+  "totalSpend": 1050000,
+  "filings": 19,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "issues": [
+    "AVI",
+    "DEF",
+    "BUD",
+    "ECN"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

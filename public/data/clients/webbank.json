@@ -1,0 +1,22 @@
+{
+  "name": "WEBBANK",
+  "slug": "webbank",
+  "state": "UT",
+  "totalSpend": 1140000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

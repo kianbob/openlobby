@@ -1,0 +1,25 @@
+{
+  "name": "MARTIN'S POINT HEALTH CARE",
+  "slug": "martin-s-point-health-care",
+  "state": "ME",
+  "totalSpend": 1250000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

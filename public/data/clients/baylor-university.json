@@ -1,0 +1,29 @@
+{
+  "name": "BAYLOR UNIVERSITY",
+  "slug": "baylor-university",
+  "state": "TX",
+  "totalSpend": 1320000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "TAX",
+    "EDU",
+    "BUD",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

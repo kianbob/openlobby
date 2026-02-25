@@ -1,0 +1,26 @@
+{
+  "name": "ADVANCE PUBLICATIONS",
+  "slug": "advance-publications",
+  "state": "NY",
+  "totalSpend": 900000,
+  "filings": 19,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MIA",
+    "CPT",
+    "CSP",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

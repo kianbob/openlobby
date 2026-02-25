@@ -1,0 +1,36 @@
+{
+  "name": "SANTA CLARA COUNTY",
+  "slug": "santa-clara-county",
+  "state": "CA",
+  "totalSpend": 1170000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TEC",
+    "IMM",
+    "BUD",
+    "ENV",
+    "HCR",
+    "RES",
+    "HOU",
+    "AGR",
+    "WEL",
+    "DIS",
+    "TRA",
+    null,
+    "AVI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

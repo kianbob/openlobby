@@ -1,0 +1,33 @@
+{
+  "name": "SOCIETY FOR INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY",
+  "slug": "society-for-industrial-and-organizational-psychology",
+  "state": "OH",
+  "totalSpend": 900000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "VET",
+    "BUD",
+    "DEF",
+    "SCI",
+    "GOV",
+    "EDU",
+    "LAW",
+    "HCR",
+    null,
+    "LBR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "MEDICAL COLLEGE OF WISCONSIN",
+  "slug": "medical-college-of-wisconsin",
+  "state": "WI",
+  "totalSpend": 920000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "TAX",
+    "BUD",
+    "EDU",
+    "MED",
+    "VET",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

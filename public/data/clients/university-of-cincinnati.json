@@ -1,0 +1,41 @@
+{
+  "name": "UNIVERSITY OF CINCINNATI",
+  "slug": "university-of-cincinnati",
+  "state": "OH",
+  "totalSpend": 1160000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "IMM",
+    "BUD",
+    "SMB",
+    "SCI",
+    "TAX",
+    "HCR",
+    "VET",
+    "MMM",
+    "EDU",
+    "DEF",
+    "TRA",
+    "HOM",
+    "LBR",
+    "SPO",
+    "GOV",
+    "ECN",
+    null,
+    "LAW"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

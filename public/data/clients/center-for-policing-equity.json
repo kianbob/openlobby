@@ -1,0 +1,23 @@
+{
+  "name": "CENTER FOR POLICING EQUITY",
+  "slug": "center-for-policing-equity",
+  "state": "CA",
+  "totalSpend": 900000,
+  "filings": 14,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "LAW",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

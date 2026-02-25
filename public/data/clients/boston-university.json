@@ -1,0 +1,31 @@
+{
+  "name": "BOSTON UNIVERSITY",
+  "slug": "boston-university",
+  "state": "MA",
+  "totalSpend": 1300000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "SCI",
+    "BUD",
+    "EDU",
+    "TEC",
+    "HCR",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

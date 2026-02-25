@@ -1,0 +1,22 @@
+{
+  "name": "EXACT SCIENCES",
+  "slug": "exact-sciences",
+  "state": "WI",
+  "totalSpend": 975000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

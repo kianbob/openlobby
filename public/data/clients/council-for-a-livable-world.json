@@ -1,0 +1,27 @@
+{
+  "name": "COUNCIL FOR A LIVABLE WORLD",
+  "slug": "council-for-a-livable-world",
+  "state": "DC",
+  "totalSpend": 1297500,
+  "filings": 36,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "DEF",
+    "FOR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

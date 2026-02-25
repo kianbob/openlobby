@@ -1,0 +1,36 @@
+{
+  "name": "BLACK & VEATCH",
+  "slug": "black-veatch",
+  "state": null,
+  "totalSpend": 1090000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "DEF",
+    "TRD",
+    "TRA",
+    "UTI",
+    "TAX",
+    "BUD",
+    "CAW",
+    "HCR",
+    "FOR",
+    null,
+    "ENV",
+    "TAR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

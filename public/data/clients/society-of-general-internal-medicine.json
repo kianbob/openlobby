@@ -1,0 +1,27 @@
+{
+  "name": "SOCIETY OF GENERAL INTERNAL MEDICINE",
+  "slug": "society-of-general-internal-medicine",
+  "state": "DC",
+  "totalSpend": 1040000,
+  "filings": 34,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

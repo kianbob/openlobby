@@ -1,0 +1,24 @@
+{
+  "name": "FINANCIAL SERVICES FORUM",
+  "slug": "financial-services-forum",
+  "state": "DC",
+  "totalSpend": 840000,
+  "filings": 18,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "BAN",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

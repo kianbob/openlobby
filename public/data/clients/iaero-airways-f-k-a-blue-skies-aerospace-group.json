@@ -1,0 +1,24 @@
+{
+  "name": "IAERO AIRWAYS (F.K.A. BLUE SKIES AEROSPACE GROUP)",
+  "slug": "iaero-airways-f-k-a-blue-skies-aerospace-group",
+  "state": "FL",
+  "totalSpend": 1110000,
+  "filings": 17,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TRA",
+    "AVI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

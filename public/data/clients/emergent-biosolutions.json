@@ -1,0 +1,25 @@
+{
+  "name": "EMERGENT BIOSOLUTIONS",
+  "slug": "emergent-biosolutions",
+  "state": "DC",
+  "totalSpend": 970000,
+  "filings": 19,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    "DIS",
+    "BUD",
+    "HOM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

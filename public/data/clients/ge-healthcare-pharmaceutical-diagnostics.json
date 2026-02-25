@@ -1,0 +1,21 @@
+{
+  "name": "GE HEALTHCARE PHARMACEUTICAL DIAGNOSTICS",
+  "slug": "ge-healthcare-pharmaceutical-diagnostics",
+  "state": "MA",
+  "totalSpend": 840000,
+  "filings": 12,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "TECHNOLOGY NETWORK AKA TECHNET",
+  "slug": "technology-network-aka-technet",
+  "state": "DC",
+  "totalSpend": 920000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "LBR",
+    "CSP",
+    "CPI",
+    "SCI",
+    null,
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

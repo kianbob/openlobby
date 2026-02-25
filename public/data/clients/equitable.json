@@ -1,0 +1,24 @@
+{
+  "name": "EQUITABLE",
+  "slug": "equitable",
+  "state": "NY",
+  "totalSpend": 850000,
+  "filings": 17,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TAX",
+    "INS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

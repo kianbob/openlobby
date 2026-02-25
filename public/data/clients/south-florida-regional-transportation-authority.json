@@ -1,0 +1,25 @@
+{
+  "name": "SOUTH FLORIDA REGIONAL TRANSPORTATION AUTHORITY",
+  "slug": "south-florida-regional-transportation-authority",
+  "state": "DC",
+  "totalSpend": 970000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

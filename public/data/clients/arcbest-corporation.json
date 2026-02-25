@@ -1,0 +1,25 @@
+{
+  "name": "ARCBEST CORPORATION",
+  "slug": "arcbest-corporation",
+  "state": "AR",
+  "totalSpend": 890000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

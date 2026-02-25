@@ -1,0 +1,28 @@
+{
+  "name": "HAWKEYE 360 INC.",
+  "slug": "hawkeye-360-inc",
+  "state": "VA",
+  "totalSpend": 1210000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "HOM",
+    "INT",
+    null,
+    "BUD",
+    "SCI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

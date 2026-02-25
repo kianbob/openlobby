@@ -1,0 +1,25 @@
+{
+  "name": "AMERICAN SOCIETY FOR RADIATION ONCOLOGY",
+  "slug": "american-society-for-radiation-oncology",
+  "state": "VA",
+  "totalSpend": 970000,
+  "filings": 21,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MED",
+    "HCR",
+    "MMM",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

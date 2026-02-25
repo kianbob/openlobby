@@ -1,0 +1,29 @@
+{
+  "name": "TELEDYNE FLIR (FORMERLY FLIR SYSTEMS INC AND SUBSIDIARIES)",
+  "slug": "teledyne-flir-formerly-flir-systems-inc-and-subsidiaries",
+  "state": "VA",
+  "totalSpend": 1260000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOM",
+    "DEF",
+    "TRA",
+    "BUD",
+    null,
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

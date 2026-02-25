@@ -1,0 +1,31 @@
+{
+  "name": "TUFTS UNIVERSITY",
+  "slug": "tufts-university",
+  "state": "MA",
+  "totalSpend": 1200000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "BUD",
+    "EDU",
+    "SCI",
+    "HCR",
+    "DEF",
+    "FOR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

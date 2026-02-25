@@ -1,0 +1,25 @@
+{
+  "name": "NIRON MAGNETICS",
+  "slug": "niron-magnetics",
+  "state": "MN",
+  "totalSpend": 940000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    null,
+    "TAX",
+    "DEF",
+    "ENG"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "TERRAPOWER, LLC",
+  "slug": "terrapower-llc",
+  "state": "WA",
+  "totalSpend": 870000,
+  "filings": 21,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "BUD",
+    "DEF",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

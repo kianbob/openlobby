@@ -1,0 +1,24 @@
+{
+  "name": "BIZ2CREDIT INC.",
+  "slug": "biz2credit-inc",
+  "state": "NY",
+  "totalSpend": 890649,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SMB",
+    "FIN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

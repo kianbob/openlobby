@@ -1,0 +1,31 @@
+{
+  "name": "MASCO CORPORATION",
+  "slug": "masco-corporation",
+  "state": "MI",
+  "totalSpend": 1080000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAN",
+    "ENG",
+    "TAX",
+    "BUD",
+    "DIS",
+    "ENV",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

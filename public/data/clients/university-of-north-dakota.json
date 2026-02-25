@@ -1,0 +1,30 @@
+{
+  "name": "UNIVERSITY OF NORTH DAKOTA",
+  "slug": "university-of-north-dakota",
+  "state": "ND",
+  "totalSpend": 910000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "VET",
+    "BUD",
+    "AVI",
+    "EDU",
+    "IND",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

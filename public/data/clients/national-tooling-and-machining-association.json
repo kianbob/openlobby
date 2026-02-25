@@ -1,0 +1,29 @@
+{
+  "name": "NATIONAL TOOLING AND MACHINING ASSOCIATION",
+  "slug": "national-tooling-and-machining-association",
+  "state": "MD",
+  "totalSpend": 960000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "LBR",
+    "TAX",
+    "HCR",
+    "BUD",
+    "TRD",
+    "MAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

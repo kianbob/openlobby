@@ -1,0 +1,30 @@
+{
+  "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY",
+  "slug": "american-academy-of-ophthalmology",
+  "state": "CA",
+  "totalSpend": 960000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "VET",
+    "BUD",
+    "MMM",
+    "LAW",
+    "SMB",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

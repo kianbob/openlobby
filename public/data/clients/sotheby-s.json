@@ -1,0 +1,26 @@
+{
+  "name": "SOTHEBY'S",
+  "slug": "sotheby-s",
+  "state": "NY",
+  "totalSpend": 1300000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "CPT",
+    "ART",
+    "TAX",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

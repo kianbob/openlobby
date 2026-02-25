@@ -1,0 +1,27 @@
+{
+  "name": "METRC LLC",
+  "slug": "metrc-llc",
+  "state": "FL",
+  "totalSpend": 1070000,
+  "filings": 21,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "CSP",
+    "BUD",
+    null,
+    "GOV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

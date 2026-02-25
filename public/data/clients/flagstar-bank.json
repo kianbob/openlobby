@@ -1,0 +1,24 @@
+{
+  "name": "FLAGSTAR BANK",
+  "slug": "flagstar-bank",
+  "state": "MI",
+  "totalSpend": 1280000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "BAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BIOGEN",
+  "slug": "biogen",
+  "state": "DC",
+  "totalSpend": 890000,
+  "filings": 19,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "MED",
+    "MMM",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

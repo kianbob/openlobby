@@ -1,0 +1,26 @@
+{
+  "name": "FIRSTENERGY CORP",
+  "slug": "firstenergy-corp",
+  "state": "OH",
+  "totalSpend": 1060000,
+  "filings": 21,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "UTI",
+    "ENG",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

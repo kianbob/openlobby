@@ -1,0 +1,25 @@
+{
+  "name": "ARIZONA MINERALS, INC.",
+  "slug": "arizona-minerals-inc",
+  "state": "AZ",
+  "totalSpend": 920000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "NAT",
+    "ENG",
+    null,
+    "DEF",
+    "BUD",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

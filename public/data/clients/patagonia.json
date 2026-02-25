@@ -1,0 +1,27 @@
+{
+  "name": "PATAGONIA",
+  "slug": "patagonia",
+  "state": "CA",
+  "totalSpend": 860000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "AGR",
+    "ENV",
+    "FAM",
+    "LBR",
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

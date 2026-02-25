@@ -1,0 +1,23 @@
+{
+  "name": "CTC GLOBAL",
+  "slug": "ctc-global",
+  "state": "CA",
+  "totalSpend": 880000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENV",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

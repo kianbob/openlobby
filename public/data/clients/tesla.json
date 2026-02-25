@@ -1,0 +1,26 @@
+{
+  "name": "TESLA",
+  "slug": "tesla",
+  "state": "DC",
+  "totalSpend": 1070000,
+  "filings": 18,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    null,
+    "NAT",
+    "AUT"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

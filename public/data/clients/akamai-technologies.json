@@ -1,0 +1,25 @@
+{
+  "name": "AKAMAI TECHNOLOGIES",
+  "slug": "akamai-technologies",
+  "state": "MA",
+  "totalSpend": 890000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TEC",
+    "COM",
+    "HOM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

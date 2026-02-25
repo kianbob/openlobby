@@ -1,0 +1,30 @@
+{
+  "name": "COLORADO RIVER INDIAN TRIBES",
+  "slug": "colorado-river-indian-tribes",
+  "state": "CO",
+  "totalSpend": 1065000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENV",
+    "ENG",
+    "IND",
+    "NAT",
+    "DIS",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

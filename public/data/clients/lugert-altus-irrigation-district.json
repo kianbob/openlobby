@@ -1,0 +1,25 @@
+{
+  "name": "LUGERT-ALTUS IRRIGATION DISTRICT",
+  "slug": "lugert-altus-irrigation-district",
+  "state": "OK",
+  "totalSpend": 1100000,
+  "filings": 22,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "NAT",
+    "BUD",
+    "ECN",
+    null,
+    "AGR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

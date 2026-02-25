@@ -1,0 +1,25 @@
+{
+  "name": "EMORY UNIVERSITY",
+  "slug": "emory-university",
+  "state": "GA",
+  "totalSpend": 830000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "MMM",
+    "EDU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

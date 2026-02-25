@@ -1,0 +1,27 @@
+{
+  "name": "CARGILL, INCORPORATED",
+  "slug": "cargill-incorporated",
+  "state": "DC",
+  "totalSpend": 1170000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "FOO",
+    "TAX",
+    "ENV",
+    null,
+    "TRA"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,31 @@
+{
+  "name": "CITY OF BUENA PARK",
+  "slug": "city-of-buena-park",
+  "state": "CA",
+  "totalSpend": 961750,
+  "filings": 33,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "HOU",
+    "HOM",
+    "LAW",
+    "TEC",
+    null,
+    "TRA",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

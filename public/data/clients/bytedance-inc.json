@@ -1,0 +1,26 @@
+{
+  "name": "BYTEDANCE INC.",
+  "slug": "bytedance-inc",
+  "state": "CA",
+  "totalSpend": 900000,
+  "filings": 21,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPT",
+    "CPI",
+    null,
+    "TAR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

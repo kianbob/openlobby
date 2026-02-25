@@ -1,0 +1,28 @@
+{
+  "name": "C&S WHOLESALE GROCERS, INC.",
+  "slug": "c-s-wholesale-grocers-inc",
+  "state": "NH",
+  "totalSpend": 860000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "LBR",
+    "TAX",
+    "IMM",
+    null,
+    "MAN"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

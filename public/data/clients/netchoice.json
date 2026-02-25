@@ -1,0 +1,22 @@
+{
+  "name": "NETCHOICE",
+  "slug": "netchoice",
+  "state": "DC",
+  "totalSpend": 920000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

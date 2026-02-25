@@ -1,0 +1,29 @@
+{
+  "name": "ACCURAY INCORPORATED",
+  "slug": "accuray-incorporated",
+  "state": "CA",
+  "totalSpend": 1020000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "TAX",
+    "MAN",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

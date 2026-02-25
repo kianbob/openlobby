@@ -1,0 +1,28 @@
+{
+  "name": "CITY AND BOROUGH OF SITKA",
+  "slug": "city-and-borough-of-sitka",
+  "state": "AK",
+  "totalSpend": 940000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "FIN",
+    "URB",
+    "TRA",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "AMERICAN BURN ASSOCIATION",
+  "slug": "american-burn-association",
+  "state": "IL",
+  "totalSpend": 900000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "CSP",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

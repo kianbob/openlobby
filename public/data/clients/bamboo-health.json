@@ -1,0 +1,24 @@
+{
+  "name": "BAMBOO HEALTH",
+  "slug": "bamboo-health",
+  "state": "KY",
+  "totalSpend": 1110000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "TEC",
+    null,
+    "GOV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

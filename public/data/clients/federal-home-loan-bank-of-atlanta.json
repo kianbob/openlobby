@@ -1,0 +1,24 @@
+{
+  "name": "FEDERAL HOME LOAN BANK OF ATLANTA",
+  "slug": "federal-home-loan-bank-of-atlanta",
+  "state": "GA",
+  "totalSpend": 1180000,
+  "filings": 20,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "BAN",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

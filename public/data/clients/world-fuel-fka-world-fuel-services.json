@@ -1,0 +1,23 @@
+{
+  "name": "WORLD FUEL (FKA WORLD FUEL SERVICES)",
+  "slug": "world-fuel-fka-world-fuel-services",
+  "state": "FL",
+  "totalSpend": 1200000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

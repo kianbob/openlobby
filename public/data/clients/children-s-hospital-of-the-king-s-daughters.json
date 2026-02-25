@@ -1,0 +1,28 @@
+{
+  "name": "CHILDREN'S HOSPITAL OF THE KING'S DAUGHTERS",
+  "slug": "children-s-hospital-of-the-king-s-daughters",
+  "state": "VA",
+  "totalSpend": 1170000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "MMM",
+    "HCR",
+    null,
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

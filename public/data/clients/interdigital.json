@@ -1,0 +1,23 @@
+{
+  "name": "INTERDIGITAL",
+  "slug": "interdigital",
+  "state": "DC",
+  "totalSpend": 930000,
+  "filings": 19,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "CPT",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

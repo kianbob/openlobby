@@ -1,0 +1,27 @@
+{
+  "name": "ADP TOTALSOURCE",
+  "slug": "adp-totalsource",
+  "state": "FL",
+  "totalSpend": 1010000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "RET",
+    "TAX",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

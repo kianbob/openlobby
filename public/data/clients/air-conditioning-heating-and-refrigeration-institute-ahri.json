@@ -1,0 +1,34 @@
+{
+  "name": "AIR CONDITIONING, HEATING AND REFRIGERATION INSTITUTE (AHRI)",
+  "slug": "air-conditioning-heating-and-refrigeration-institute-ahri",
+  "state": "VA",
+  "totalSpend": 830000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SMB",
+    "BUD",
+    "ENV",
+    "TRD",
+    "TAX",
+    "GOV",
+    "ENG",
+    "EDU",
+    "TAR",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "REGIONS FINANCIAL CORP.",
+  "slug": "regions-financial-corp",
+  "state": "DC",
+  "totalSpend": 1100000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

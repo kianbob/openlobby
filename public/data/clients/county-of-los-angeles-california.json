@@ -1,0 +1,27 @@
+{
+  "name": "COUNTY OF LOS ANGELES, CALIFORNIA",
+  "slug": "county-of-los-angeles-california",
+  "state": "CA",
+  "totalSpend": 1040000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "BUD",
+    null,
+    "TEC"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

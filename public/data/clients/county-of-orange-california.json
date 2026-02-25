@@ -1,0 +1,33 @@
+{
+  "name": "COUNTY OF ORANGE, CALIFORNIA",
+  "slug": "county-of-orange-california",
+  "state": "CA",
+  "totalSpend": 900000,
+  "filings": 15,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "ENV",
+    "TRA",
+    "HCR",
+    "VET",
+    "HOU",
+    "BUD",
+    "AVI",
+    "LAW",
+    "NAT",
+    "POS",
+    "IMM",
+    "RES",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

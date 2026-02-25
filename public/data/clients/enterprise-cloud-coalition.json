@@ -1,0 +1,29 @@
+{
+  "name": "ENTERPRISE CLOUD COALITION",
+  "slug": "enterprise-cloud-coalition",
+  "state": "DC",
+  "totalSpend": 870000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPI",
+    "HOM",
+    "TRD",
+    "TEC",
+    "SCI",
+    null,
+    "GOV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

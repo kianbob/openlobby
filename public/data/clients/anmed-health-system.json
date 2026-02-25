@@ -1,0 +1,23 @@
+{
+  "name": "ANMED HEALTH SYSTEM",
+  "slug": "anmed-health-system",
+  "state": "SC",
+  "totalSpend": 1210000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null,
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AIRBUS HELICOPTERS, INC.",
+  "slug": "airbus-helicopters-inc",
+  "state": "TX",
+  "totalSpend": 1000000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AVI",
+    "AER",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

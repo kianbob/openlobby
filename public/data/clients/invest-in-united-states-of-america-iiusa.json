@@ -1,0 +1,25 @@
+{
+  "name": "INVEST IN UNITED STATES OF AMERICA (IIUSA)",
+  "slug": "invest-in-united-states-of-america-iiusa",
+  "state": "DC",
+  "totalSpend": 1050000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "IMM",
+    null,
+    "HOM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

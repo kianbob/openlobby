@@ -1,0 +1,25 @@
+{
+  "name": "COGNOSANTE",
+  "slug": "cognosante",
+  "state": "VA",
+  "totalSpend": 860000,
+  "filings": 14,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    "SMB",
+    "VET",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

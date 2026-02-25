@@ -1,0 +1,26 @@
+{
+  "name": "WORLD ENERGY",
+  "slug": "world-energy",
+  "state": "MA",
+  "totalSpend": 920000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

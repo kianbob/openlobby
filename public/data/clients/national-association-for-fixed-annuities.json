@@ -1,0 +1,29 @@
+{
+  "name": "NATIONAL ASSOCIATION FOR FIXED ANNUITIES",
+  "slug": "national-association-for-fixed-annuities",
+  "state": "WI",
+  "totalSpend": 900000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "RET",
+    "INS",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

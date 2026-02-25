@@ -1,0 +1,28 @@
+{
+  "name": "HIGHMARK WHOLECARE (FORMERLY GATEWAY HEALTH PLAN, LP.)",
+  "slug": "highmark-wholecare-formerly-gateway-health-plan-lp",
+  "state": "PA",
+  "totalSpend": 900000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "BUD",
+    "INS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

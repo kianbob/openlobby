@@ -1,0 +1,26 @@
+{
+  "name": "CITY OF SAN ANTONIO",
+  "slug": "city-of-san-antonio",
+  "state": null,
+  "totalSpend": 860000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    null,
+    "AVI",
+    "BUD",
+    "HOU",
+    "TRA",
+    "GOV",
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

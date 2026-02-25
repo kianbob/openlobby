@@ -1,0 +1,22 @@
+{
+  "name": "CHARLES RIVER LABORATORIES",
+  "slug": "charles-river-laboratories",
+  "state": "MA",
+  "totalSpend": 1110000,
+  "filings": 11,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ANI",
+    "PHA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

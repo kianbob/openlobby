@@ -1,0 +1,34 @@
+{
+  "name": "QUINAULT INDIAN NATION",
+  "slug": "quinault-indian-nation",
+  "state": "WA",
+  "totalSpend": 1017000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "IND",
+    "AGR",
+    "ENV",
+    "TAX",
+    "BUD",
+    "CAW",
+    "MAR",
+    "RES",
+    "ENG",
+    "ANI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

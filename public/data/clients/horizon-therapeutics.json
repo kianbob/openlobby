@@ -1,0 +1,24 @@
+{
+  "name": "HORIZON THERAPEUTICS",
+  "slug": "horizon-therapeutics",
+  "state": "IL",
+  "totalSpend": 860000,
+  "filings": 14,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "BUD",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

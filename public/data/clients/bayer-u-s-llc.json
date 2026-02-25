@@ -1,0 +1,25 @@
+{
+  "name": "BAYER U.S. LLC",
+  "slug": "bayer-u-s-llc",
+  "state": "NJ",
+  "totalSpend": 965000,
+  "filings": 13,
+  "years": [
+    2018,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "PHA",
+    null,
+    "HCR",
+    "AGR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "FINANCIAL ACCOUNTING FOUNDATION",
+  "slug": "financial-accounting-foundation",
+  "state": "CT",
+  "totalSpend": 1080000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "ACC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

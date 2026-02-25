@@ -1,0 +1,33 @@
+{
+  "name": "RECORDING ACADEMY",
+  "slug": "recording-academy",
+  "state": "CA",
+  "totalSpend": 1190000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TEC",
+    "CPT",
+    "EDU",
+    "ART",
+    "TAX",
+    null,
+    "IMM",
+    "TRD",
+    "FOR",
+    "LAW"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

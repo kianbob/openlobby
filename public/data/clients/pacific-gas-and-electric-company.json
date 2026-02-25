@@ -1,0 +1,25 @@
+{
+  "name": "PACIFIC GAS AND ELECTRIC COMPANY",
+  "slug": "pacific-gas-and-electric-company",
+  "state": "CA",
+  "totalSpend": 1010000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "DIS",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

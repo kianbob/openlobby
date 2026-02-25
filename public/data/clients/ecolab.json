@@ -1,0 +1,27 @@
+{
+  "name": "ECOLAB",
+  "slug": "ecolab",
+  "state": "DC",
+  "totalSpend": 1160000,
+  "filings": 20,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DIS",
+    "ENV",
+    "HCR",
+    "TRA",
+    null,
+    "PHA",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

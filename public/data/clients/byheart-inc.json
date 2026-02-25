@@ -1,0 +1,24 @@
+{
+  "name": "BYHEART, INC.",
+  "slug": "byheart-inc",
+  "state": "NY",
+  "totalSpend": 1140000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAN",
+    "FOO",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ALLIANCE FOR AUTOMOTIVE INNOVATION",
+  "slug": "alliance-for-automotive-innovation",
+  "state": "DC",
+  "totalSpend": 1140000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AUT",
+    "ENG",
+    "MAN",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

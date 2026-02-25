@@ -1,0 +1,27 @@
+{
+  "name": "PORT OF OAKLAND",
+  "slug": "port-of-oakland",
+  "state": "CA",
+  "totalSpend": 880000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "AVI",
+    "MAR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

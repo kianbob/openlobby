@@ -1,0 +1,25 @@
+{
+  "name": "KPMG LLP",
+  "slug": "kpmg-llp",
+  "state": "DC",
+  "totalSpend": 1310000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ACC",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

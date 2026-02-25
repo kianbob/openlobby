@@ -1,0 +1,25 @@
+{
+  "name": "DOUGHERTY COUNTY COMMISSION",
+  "slug": "dougherty-county-commission",
+  "state": "GA",
+  "totalSpend": 1000000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "DIS",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

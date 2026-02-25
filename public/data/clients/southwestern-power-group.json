@@ -1,0 +1,25 @@
+{
+  "name": "SOUTHWESTERN POWER GROUP",
+  "slug": "southwestern-power-group",
+  "state": "AZ",
+  "totalSpend": 990000,
+  "filings": 33,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "UTI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

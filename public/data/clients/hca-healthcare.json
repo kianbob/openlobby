@@ -1,0 +1,27 @@
+{
+  "name": "HCA HEALTHCARE",
+  "slug": "hca-healthcare",
+  "state": "TN",
+  "totalSpend": 1100000,
+  "filings": 19,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "INS",
+    null,
+    "BUD",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

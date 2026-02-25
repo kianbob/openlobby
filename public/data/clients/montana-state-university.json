@@ -1,0 +1,34 @@
+{
+  "name": "MONTANA STATE UNIVERSITY",
+  "slug": "montana-state-university",
+  "state": "MT",
+  "totalSpend": 970000,
+  "filings": 33,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "AGR",
+    "HOM",
+    "TRA",
+    "ENG",
+    "AER",
+    "MAR",
+    null,
+    "SCI",
+    "ENV",
+    "LAW"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "CITY OF ST. PAUL",
+  "slug": "city-of-st-paul",
+  "state": "MN",
+  "totalSpend": 915000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "LAW",
+    "BUD",
+    "HOM",
+    "URB",
+    "TRA",
+    "HOU",
+    null,
+    "ENG"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

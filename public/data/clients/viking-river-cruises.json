@@ -1,0 +1,24 @@
+{
+  "name": "VIKING RIVER CRUISES",
+  "slug": "viking-river-cruises",
+  "state": "CA",
+  "totalSpend": 850000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAR",
+    "TAX",
+    null,
+    "TOU"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

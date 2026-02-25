@@ -1,0 +1,24 @@
+{
+  "name": "JP MORGAN CHASE HOLDINGS",
+  "slug": "jp-morgan-chase-holdings",
+  "state": "NY",
+  "totalSpend": 940000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    null,
+    "FIN"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

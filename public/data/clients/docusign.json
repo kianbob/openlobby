@@ -1,0 +1,22 @@
+{
+  "name": "DOCUSIGN",
+  "slug": "docusign",
+  "state": "CA",
+  "totalSpend": 900000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

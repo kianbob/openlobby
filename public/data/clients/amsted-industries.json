@@ -1,0 +1,27 @@
+{
+  "name": "AMSTED INDUSTRIES",
+  "slug": "amsted-industries",
+  "state": "IL",
+  "totalSpend": 1040000,
+  "filings": 21,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ECN",
+    "DEF",
+    "MAN",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

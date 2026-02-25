@@ -1,0 +1,32 @@
+{
+  "name": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+  "slug": "u-s-tire-manufacturers-association",
+  "state": "DC",
+  "totalSpend": 1240000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAN",
+    "TRA",
+    "AUT",
+    "ENV",
+    "CSP",
+    "TRD",
+    "BUD",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

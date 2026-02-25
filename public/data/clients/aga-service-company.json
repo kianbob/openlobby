@@ -1,0 +1,23 @@
+{
+  "name": "AGA SERVICE COMPANY",
+  "slug": "aga-service-company",
+  "state": "VA",
+  "totalSpend": 950000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "INS",
+    null,
+    "AVI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

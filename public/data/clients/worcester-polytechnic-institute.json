@@ -1,0 +1,25 @@
+{
+  "name": "WORCESTER POLYTECHNIC INSTITUTE",
+  "slug": "worcester-polytechnic-institute",
+  "state": "MA",
+  "totalSpend": 900000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

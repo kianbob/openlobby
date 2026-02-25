@@ -1,0 +1,27 @@
+{
+  "name": "PANCREATIC CANCER ACTION NETWORK (PANCAN)",
+  "slug": "pancreatic-cancer-action-network-pancan",
+  "state": null,
+  "totalSpend": 990000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MED",
+    "DEF",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

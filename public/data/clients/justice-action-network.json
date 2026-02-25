@@ -1,0 +1,24 @@
+{
+  "name": "JUSTICE ACTION NETWORK",
+  "slug": "justice-action-network",
+  "state": "DC",
+  "totalSpend": 920000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "LAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

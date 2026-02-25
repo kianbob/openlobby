@@ -1,0 +1,29 @@
+{
+  "name": "RIO TINTO SERVICES INC.",
+  "slug": "rio-tinto-services-inc",
+  "state": "AZ",
+  "totalSpend": 1110000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "TRD",
+    "BUD",
+    "ENG",
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

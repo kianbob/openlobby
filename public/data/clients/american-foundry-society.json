@@ -1,0 +1,38 @@
+{
+  "name": "AMERICAN FOUNDRY SOCIETY",
+  "slug": "american-foundry-society",
+  "state": "IL",
+  "totalSpend": 960000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "MAN",
+    "ENV",
+    "LBR",
+    "TAX",
+    "EDU",
+    "TRA",
+    "BUD",
+    "NAT",
+    "RRR",
+    "ROD",
+    "TRU",
+    "ENG",
+    null,
+    "HOU"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

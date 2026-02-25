@@ -1,0 +1,30 @@
+{
+  "name": "BLUE DIAMOND GROWERS",
+  "slug": "blue-diamond-growers",
+  "state": "MD",
+  "totalSpend": 1160000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TAX",
+    "TRD",
+    "AGR",
+    "BUD",
+    "LBR",
+    "FOO",
+    "IMM",
+    "TOR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

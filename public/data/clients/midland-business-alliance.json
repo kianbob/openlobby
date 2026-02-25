@@ -1,0 +1,24 @@
+{
+  "name": "MIDLAND BUSINESS ALLIANCE",
+  "slug": "midland-business-alliance",
+  "state": "MI",
+  "totalSpend": 940000,
+  "filings": 19,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DIS",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

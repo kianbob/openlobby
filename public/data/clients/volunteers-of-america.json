@@ -1,0 +1,27 @@
+{
+  "name": "VOLUNTEERS OF AMERICA",
+  "slug": "volunteers-of-america",
+  "state": "VA",
+  "totalSpend": 1130000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOU",
+    "HCR",
+    "VET",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

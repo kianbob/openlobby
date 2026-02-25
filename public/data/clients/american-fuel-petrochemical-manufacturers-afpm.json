@@ -1,0 +1,24 @@
+{
+  "name": "AMERICAN FUEL & PETROCHEMICAL MANUFACTURERS (AFPM)",
+  "slug": "american-fuel-petrochemical-manufacturers-afpm",
+  "state": "DC",
+  "totalSpend": 900000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENV",
+    "ENG",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

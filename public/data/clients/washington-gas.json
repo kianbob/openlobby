@@ -1,0 +1,22 @@
+{
+  "name": "WASHINGTON GAS",
+  "slug": "washington-gas",
+  "state": "DC",
+  "totalSpend": 1290000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

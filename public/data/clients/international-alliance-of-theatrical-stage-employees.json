@@ -1,0 +1,29 @@
+{
+  "name": "INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+  "slug": "international-alliance-of-theatrical-stage-employees",
+  "state": "NY",
+  "totalSpend": 1150000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPT",
+    "IMM",
+    "RET",
+    "LBR",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

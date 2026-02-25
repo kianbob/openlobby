@@ -1,0 +1,24 @@
+{
+  "name": "URAC, INC.",
+  "slug": "urac-inc",
+  "state": "DC",
+  "totalSpend": 1040000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    null,
+    "HCR",
+    "LBR",
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

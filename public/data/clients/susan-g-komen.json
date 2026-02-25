@@ -1,0 +1,29 @@
+{
+  "name": "SUSAN G. KOMEN",
+  "slug": "susan-g-komen",
+  "state": "TX",
+  "totalSpend": 972000,
+  "filings": 24,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "HCR",
+    "MMM",
+    "BUD",
+    "INS",
+    "VET",
+    null,
+    "MED"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

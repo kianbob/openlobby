@@ -1,0 +1,23 @@
+{
+  "name": "PARRY LABS",
+  "slug": "parry-labs",
+  "state": "VA",
+  "totalSpend": 915000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

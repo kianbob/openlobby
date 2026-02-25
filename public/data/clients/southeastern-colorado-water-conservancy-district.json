@@ -1,0 +1,27 @@
+{
+  "name": "SOUTHEASTERN COLORADO WATER CONSERVANCY DISTRICT",
+  "slug": "southeastern-colorado-water-conservancy-district",
+  "state": "CO",
+  "totalSpend": 835000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "CAW",
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

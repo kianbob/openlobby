@@ -1,0 +1,28 @@
+{
+  "name": "GLOBAL PAYMENTS INC",
+  "slug": "global-payments-inc",
+  "state": "GA",
+  "totalSpend": 1020000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOM",
+    "FIN",
+    "BUD",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

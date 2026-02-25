@@ -1,0 +1,24 @@
+{
+  "name": "CAPITAL ONE FINANCIAL CORPORATION",
+  "slug": "capital-one-financial-corporation",
+  "state": "VA",
+  "totalSpend": 855000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

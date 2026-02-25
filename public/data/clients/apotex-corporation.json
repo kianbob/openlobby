@@ -1,0 +1,27 @@
+{
+  "name": "APOTEX CORPORATION",
+  "slug": "apotex-corporation",
+  "state": "FL",
+  "totalSpend": 1100000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "HCR",
+    "MAN",
+    null,
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

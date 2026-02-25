@@ -1,0 +1,26 @@
+{
+  "name": "NEXTNAV, LLC",
+  "slug": "nextnav-llc",
+  "state": "CA",
+  "totalSpend": 890000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    "TEC",
+    "HOM",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

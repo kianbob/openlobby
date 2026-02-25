@@ -1,0 +1,24 @@
+{
+  "name": "A PLACE FOR ROVER",
+  "slug": "a-place-for-rover",
+  "state": "WA",
+  "totalSpend": 840000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "ECN",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

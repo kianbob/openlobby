@@ -1,0 +1,24 @@
+{
+  "name": "INTRALOT USA",
+  "slug": "intralot-usa",
+  "state": "GA",
+  "totalSpend": 1110000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "GAM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "TRUIST (FORMERLY SUNTRUST BANK)",
+  "slug": "truist-formerly-suntrust-bank",
+  "state": "NC",
+  "totalSpend": 840000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    "TAX",
+    null,
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

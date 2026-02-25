@@ -1,0 +1,29 @@
+{
+  "name": "MUTUAL OF OMAHA INSURANCE COMPANY",
+  "slug": "mutual-of-omaha-insurance-company",
+  "state": "DC",
+  "totalSpend": 880000,
+  "filings": 34,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "INS",
+    "HCR",
+    "RET",
+    null,
+    "TAX",
+    "HOU"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

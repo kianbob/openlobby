@@ -1,0 +1,27 @@
+{
+  "name": "FERRERO U.S.A., INC.",
+  "slug": "ferrero-u-s-a-inc",
+  "state": "NJ",
+  "totalSpend": 1160000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "FOO",
+    null,
+    "AGR",
+    "ENV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

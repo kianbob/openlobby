@@ -1,0 +1,22 @@
+{
+  "name": "TAXBIT INC.",
+  "slug": "taxbit-inc",
+  "state": "UT",
+  "totalSpend": 1080000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "FIN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

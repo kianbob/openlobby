@@ -1,0 +1,30 @@
+{
+  "name": "THE METROHEALTH SYSTEM",
+  "slug": "the-metrohealth-system",
+  "state": "OH",
+  "totalSpend": 980000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "BUD",
+    "HOU",
+    "TAX",
+    null,
+    "EDU"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

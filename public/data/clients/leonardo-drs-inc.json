@@ -1,0 +1,27 @@
+{
+  "name": "LEONARDO DRS, INC.",
+  "slug": "leonardo-drs-inc",
+  "state": "VA",
+  "totalSpend": 1240000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "GOV",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

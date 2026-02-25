@@ -1,0 +1,23 @@
+{
+  "name": "ARMAMENTS RESEARCH COMPANY",
+  "slug": "armaments-research-company",
+  "state": "MD",
+  "totalSpend": 890000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

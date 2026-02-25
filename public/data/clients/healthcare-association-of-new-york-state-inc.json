@@ -1,0 +1,26 @@
+{
+  "name": "HEALTHCARE ASSOCIATION OF NEW YORK STATE, INC.",
+  "slug": "healthcare-association-of-new-york-state-inc",
+  "state": "NY",
+  "totalSpend": 1170000,
+  "filings": 33,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

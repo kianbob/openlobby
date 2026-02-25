@@ -1,0 +1,28 @@
+{
+  "name": "BEAM SUNTORY",
+  "slug": "beam-suntory",
+  "state": "IL",
+  "totalSpend": 960000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "TRD",
+    "DEF",
+    "FOO",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

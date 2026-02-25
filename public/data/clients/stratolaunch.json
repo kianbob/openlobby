@@ -1,0 +1,22 @@
+{
+  "name": "STRATOLAUNCH",
+  "slug": "stratolaunch",
+  "state": "CA",
+  "totalSpend": 990000,
+  "filings": 17,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

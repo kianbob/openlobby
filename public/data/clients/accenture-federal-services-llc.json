@@ -1,0 +1,23 @@
+{
+  "name": "ACCENTURE FEDERAL SERVICES LLC",
+  "slug": "accenture-federal-services-llc",
+  "state": "VA",
+  "totalSpend": 830000,
+  "filings": 20,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "GOV",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

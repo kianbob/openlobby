@@ -1,0 +1,24 @@
+{
+  "name": "MANAGEYOURID",
+  "slug": "manageyourid",
+  "state": "SC",
+  "totalSpend": 1200000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

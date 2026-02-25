@@ -1,0 +1,21 @@
+{
+  "name": "AMAZON",
+  "slug": "amazon",
+  "state": "DC",
+  "totalSpend": 960000,
+  "filings": 17,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

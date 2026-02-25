@@ -1,0 +1,27 @@
+{
+  "name": "TRANSBAY JOINT POWERS AUTHORITY",
+  "slug": "transbay-joint-powers-authority",
+  "state": "CA",
+  "totalSpend": 960000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOM",
+    "TRA",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

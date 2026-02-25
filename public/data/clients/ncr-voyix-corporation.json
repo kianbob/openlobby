@@ -1,0 +1,30 @@
+{
+  "name": "NCR VOYIX CORPORATION",
+  "slug": "ncr-voyix-corporation",
+  "state": "GA",
+  "totalSpend": 900000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "POS",
+    "CPI",
+    "TRD",
+    "DEF",
+    "BUD",
+    "SMB",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

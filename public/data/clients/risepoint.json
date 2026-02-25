@@ -1,0 +1,23 @@
+{
+  "name": "RISEPOINT",
+  "slug": "risepoint",
+  "state": "DC",
+  "totalSpend": 830000,
+  "filings": 19,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "EDU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

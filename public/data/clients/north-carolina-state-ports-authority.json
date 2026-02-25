@@ -1,0 +1,26 @@
+{
+  "name": "NORTH CAROLINA STATE PORTS AUTHORITY",
+  "slug": "north-carolina-state-ports-authority",
+  "state": "NC",
+  "totalSpend": 1140000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "TRA",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

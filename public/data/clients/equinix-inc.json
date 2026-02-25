@@ -1,0 +1,26 @@
+{
+  "name": "EQUINIX, INC.",
+  "slug": "equinix-inc",
+  "state": "CA",
+  "totalSpend": 1140000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TRD",
+    "TEC",
+    "CPI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

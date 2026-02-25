@@ -1,0 +1,23 @@
+{
+  "name": "TEXTRON INC.",
+  "slug": "textron-inc",
+  "state": "DC",
+  "totalSpend": 850000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "AVI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

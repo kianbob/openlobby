@@ -1,0 +1,27 @@
+{
+  "name": "VF CORPORATION",
+  "slug": "vf-corporation",
+  "state": "NC",
+  "totalSpend": 970000,
+  "filings": 17,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TRD",
+    "BUD",
+    "TAX",
+    "FOR",
+    "HOM",
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

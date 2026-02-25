@@ -1,0 +1,26 @@
+{
+  "name": "EXIGER",
+  "slug": "exiger",
+  "state": "NY",
+  "totalSpend": 980000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPI",
+    "GOV",
+    null,
+    "DEF",
+    "BUD",
+    "SCI",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

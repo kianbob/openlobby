@@ -1,0 +1,26 @@
+{
+  "name": "SEMICONDUCTORS INDUSTRY ASSOCIATION",
+  "slug": "semiconductors-industry-association",
+  "state": "DC",
+  "totalSpend": 1160000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    "MAN",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

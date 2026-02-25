@@ -1,0 +1,30 @@
+{
+  "name": "AMEREN SERVICES COMPANY",
+  "slug": "ameren-services-company",
+  "state": "MO",
+  "totalSpend": 1000000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "ENV",
+    "ENG",
+    "TRA",
+    "TAX",
+    "TEC",
+    "UTI",
+    "GOV",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

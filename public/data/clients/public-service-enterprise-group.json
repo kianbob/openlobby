@@ -1,0 +1,25 @@
+{
+  "name": "PUBLIC SERVICE ENTERPRISE GROUP",
+  "slug": "public-service-enterprise-group",
+  "state": "NJ",
+  "totalSpend": 1020000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "UTI",
+    "TAX",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

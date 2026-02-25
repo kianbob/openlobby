@@ -1,0 +1,24 @@
+{
+  "name": "FOX CORPORATION",
+  "slug": "fox-corporation",
+  "state": "NY",
+  "totalSpend": 885000,
+  "filings": 20,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "COM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

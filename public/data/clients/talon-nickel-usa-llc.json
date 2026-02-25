@@ -1,0 +1,24 @@
+{
+  "name": "TALON NICKEL (USA) LLC",
+  "slug": "talon-nickel-usa-llc",
+  "state": "MN",
+  "totalSpend": 900000,
+  "filings": 12,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "NAT",
+    null,
+    "MAN",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

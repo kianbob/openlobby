@@ -1,0 +1,25 @@
+{
+  "name": "ELECTRICITIES OF NC",
+  "slug": "electricities-of-nc",
+  "state": "NC",
+  "totalSpend": 840000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "UTI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

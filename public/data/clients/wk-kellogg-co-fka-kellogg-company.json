@@ -1,0 +1,21 @@
+{
+  "name": "WK KELLOGG CO (FKA KELLOGG COMPANY)",
+  "slug": "wk-kellogg-co-fka-kellogg-company",
+  "state": "MI",
+  "totalSpend": 950000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FOO",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

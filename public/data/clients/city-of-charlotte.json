@@ -1,0 +1,28 @@
+{
+  "name": "CITY OF CHARLOTTE",
+  "slug": "city-of-charlotte",
+  "state": "NC",
+  "totalSpend": 1300000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "ECN",
+    "BUD",
+    "AVI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

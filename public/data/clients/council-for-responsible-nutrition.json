@@ -1,0 +1,29 @@
+{
+  "name": "COUNCIL FOR RESPONSIBLE NUTRITION",
+  "slug": "council-for-responsible-nutrition",
+  "state": "DC",
+  "totalSpend": 1140000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "TAX",
+    "FOO",
+    "BUD",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

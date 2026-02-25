@@ -1,0 +1,25 @@
+{
+  "name": "SACRAMENTO AREA FLOOD CONTROL AGENCY (SAFCA)",
+  "slug": "sacramento-area-flood-control-agency-safca",
+  "state": "CA",
+  "totalSpend": 840000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "BUD",
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "THE AMALGAMATED SUGAR COMPANY LLC",
+  "slug": "the-amalgamated-sugar-company-llc",
+  "state": "ID",
+  "totalSpend": 1040000,
+  "filings": 21,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CDT",
+    "FOO",
+    "IMM",
+    "AGR",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

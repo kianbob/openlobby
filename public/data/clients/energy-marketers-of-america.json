@@ -1,0 +1,31 @@
+{
+  "name": "ENERGY MARKETERS OF AMERICA",
+  "slug": "energy-marketers-of-america",
+  "state": "VA",
+  "totalSpend": 1095000,
+  "filings": 14,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "FUE",
+    "ENV",
+    "ENG",
+    "HOM",
+    "DIS",
+    "TRU",
+    "CAW",
+    "TRA",
+    "SMB",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

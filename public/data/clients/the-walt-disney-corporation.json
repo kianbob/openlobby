@@ -1,0 +1,22 @@
+{
+  "name": "THE WALT DISNEY CORPORATION",
+  "slug": "the-walt-disney-corporation",
+  "state": "DC",
+  "totalSpend": 940000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ART",
+    null,
+    "COM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

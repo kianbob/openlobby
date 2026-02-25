@@ -1,0 +1,29 @@
+{
+  "name": "MICHIGAN TECHNOLOGICAL UNIVERSITY",
+  "slug": "michigan-technological-university",
+  "state": "MI",
+  "totalSpend": 904000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "EDU",
+    "SCI",
+    "DEF",
+    "ACC",
+    "TRA",
+    "BUD",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

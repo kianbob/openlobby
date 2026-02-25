@@ -1,0 +1,25 @@
+{
+  "name": "LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY",
+  "slug": "los-angeles-county-metropolitan-transportation-authority",
+  "state": "CA",
+  "totalSpend": 830000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

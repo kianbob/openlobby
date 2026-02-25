@@ -1,0 +1,21 @@
+{
+  "name": "WORLD GOLD COUNCIL",
+  "slug": "world-gold-council",
+  "state": "NY",
+  "totalSpend": 977000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ALASKA AIRLINES",
+  "slug": "alaska-airlines",
+  "state": "WA",
+  "totalSpend": 870250,
+  "filings": 16,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AVI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

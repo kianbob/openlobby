@@ -1,0 +1,24 @@
+{
+  "name": "CLEAN AIR TASK FORCE",
+  "slug": "clean-air-task-force",
+  "state": "MA",
+  "totalSpend": 975000,
+  "filings": 14,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TAX",
+    "ENV",
+    "ENG",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

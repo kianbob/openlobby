@@ -1,0 +1,23 @@
+{
+  "name": "CROSS RIVER BANK",
+  "slug": "cross-river-bank",
+  "state": "NJ",
+  "totalSpend": 827000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "MOLINA HEALTHCARE, INC.",
+  "slug": "molina-healthcare-inc",
+  "state": "CA",
+  "totalSpend": 880000,
+  "filings": 15,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    "LBR",
+    "TAX",
+    null,
+    "HCR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

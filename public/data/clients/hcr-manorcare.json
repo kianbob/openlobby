@@ -1,0 +1,23 @@
+{
+  "name": "HCR MANORCARE",
+  "slug": "hcr-manorcare",
+  "state": "OH",
+  "totalSpend": 1080000,
+  "filings": 18,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

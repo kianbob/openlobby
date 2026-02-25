@@ -1,0 +1,32 @@
+{
+  "name": "STILLAGUAMISH TRIBE OF INDIANS",
+  "slug": "stillaguamish-tribe-of-indians",
+  "state": "WA",
+  "totalSpend": 890000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "IND",
+    "BUD",
+    "ENV",
+    "CAW",
+    "LAW",
+    "RES",
+    "ANI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

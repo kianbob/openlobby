@@ -1,0 +1,27 @@
+{
+  "name": "SECURITYSCORECARD",
+  "slug": "securityscorecard",
+  "state": "NY",
+  "totalSpend": 890000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "GOV",
+    "CPI",
+    "HOM",
+    "SCI",
+    "TEC",
+    "CSP",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

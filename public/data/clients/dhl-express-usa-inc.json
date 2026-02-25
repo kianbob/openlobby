@@ -1,0 +1,24 @@
+{
+  "name": "DHL EXPRESS (USA), INC.",
+  "slug": "dhl-express-usa-inc",
+  "state": "DC",
+  "totalSpend": 930000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TRA",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

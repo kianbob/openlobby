@@ -1,0 +1,30 @@
+{
+  "name": "LEXMARK INTERNATIONAL INC",
+  "slug": "lexmark-international-inc",
+  "state": "KY",
+  "totalSpend": 1040000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAN",
+    "WAS",
+    "TAX",
+    "TRD",
+    "HOM",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

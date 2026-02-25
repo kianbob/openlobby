@@ -1,0 +1,30 @@
+{
+  "name": "JM FAMILY ENTERPRISES INC",
+  "slug": "jm-family-enterprises-inc",
+  "state": "FL",
+  "totalSpend": 890000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "TRA",
+    "AUT",
+    "TRD",
+    "COM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

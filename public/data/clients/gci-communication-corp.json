@@ -1,0 +1,27 @@
+{
+  "name": "GCI COMMUNICATION CORP.",
+  "slug": "gci-communication-corp",
+  "state": "AK",
+  "totalSpend": 1300000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    "COM",
+    "BUD",
+    null,
+    "TEC"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DECOMMISSIONING PLANT COALITION",
+  "slug": "decommissioning-plant-coalition",
+  "state": "DC",
+  "totalSpend": 885000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "BUD",
+    "WAS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

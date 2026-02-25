@@ -1,0 +1,33 @@
+{
+  "name": "SARASOTA COUNTY FLORIDA",
+  "slug": "sarasota-county-florida",
+  "state": "FL",
+  "totalSpend": 890000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    "ECN",
+    "HOM",
+    "LAW",
+    "NAT",
+    "AVI",
+    "BUD",
+    "DIS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

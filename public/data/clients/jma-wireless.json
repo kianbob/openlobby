@@ -1,0 +1,26 @@
+{
+  "name": "JMA WIRELESS",
+  "slug": "jma-wireless",
+  "state": "NY",
+  "totalSpend": 1290000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TEC",
+    "MAN",
+    "BUD",
+    null,
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

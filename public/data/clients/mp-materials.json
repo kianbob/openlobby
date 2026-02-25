@@ -1,0 +1,23 @@
+{
+  "name": "MP MATERIALS",
+  "slug": "mp-materials",
+  "state": "NV",
+  "totalSpend": 1050000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

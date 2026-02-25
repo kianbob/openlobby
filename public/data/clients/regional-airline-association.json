@@ -1,0 +1,26 @@
+{
+  "name": "REGIONAL AIRLINE ASSOCIATION",
+  "slug": "regional-airline-association",
+  "state": "DC",
+  "totalSpend": 930000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AVI",
+    null,
+    "EDU",
+    "BUD",
+    "TAR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

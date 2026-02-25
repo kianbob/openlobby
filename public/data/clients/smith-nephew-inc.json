@@ -1,0 +1,30 @@
+{
+  "name": "SMITH & NEPHEW, INC.",
+  "slug": "smith-nephew-inc",
+  "state": "DC",
+  "totalSpend": 1286000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "HCR",
+    "MMM",
+    "TAX",
+    "GOV",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

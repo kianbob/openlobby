@@ -1,0 +1,32 @@
+{
+  "name": "FEDEX",
+  "slug": "fedex",
+  "state": "DC",
+  "totalSpend": 1280000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENV",
+    "AVI",
+    "TRD",
+    "TRA",
+    "TAX",
+    "TRU",
+    null,
+    "LBR",
+    "TAR",
+    "POS"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

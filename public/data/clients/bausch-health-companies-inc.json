@@ -1,0 +1,24 @@
+{
+  "name": "BAUSCH HEALTH COMPANIES INC.",
+  "slug": "bausch-health-companies-inc",
+  "state": "NJ",
+  "totalSpend": 860000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

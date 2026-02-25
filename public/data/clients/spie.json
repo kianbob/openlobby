@@ -1,0 +1,25 @@
+{
+  "name": "SPIE",
+  "slug": "spie",
+  "state": "WA",
+  "totalSpend": 875000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

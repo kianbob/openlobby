@@ -1,0 +1,31 @@
+{
+  "name": "GENERAL ELECTRIC COMPANY",
+  "slug": "general-electric-company",
+  "state": "OH",
+  "totalSpend": 860000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "AVI",
+    "ENG",
+    "TAR",
+    "BUD",
+    "HCR",
+    "TAX",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

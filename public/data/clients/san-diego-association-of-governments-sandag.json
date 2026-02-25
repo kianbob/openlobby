@@ -1,0 +1,26 @@
+{
+  "name": "SAN DIEGO ASSOCIATION OF GOVERNMENTS (SANDAG)",
+  "slug": "san-diego-association-of-governments-sandag",
+  "state": "CA",
+  "totalSpend": 985000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

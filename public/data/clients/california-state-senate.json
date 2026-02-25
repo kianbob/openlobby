@@ -1,0 +1,35 @@
+{
+  "name": "CALIFORNIA STATE SENATE",
+  "slug": "california-state-senate",
+  "state": "CA",
+  "totalSpend": 870000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "HCR",
+    "AGR",
+    "LAW",
+    "IMM",
+    "EDU",
+    "BUD",
+    "DIS",
+    "CSP",
+    "ENG",
+    null,
+    "LBR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

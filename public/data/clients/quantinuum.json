@@ -1,0 +1,21 @@
+{
+  "name": "QUANTINUUM",
+  "slug": "quantinuum",
+  "state": "CT",
+  "totalSpend": 1130000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

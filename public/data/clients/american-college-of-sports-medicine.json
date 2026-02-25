@@ -1,0 +1,27 @@
+{
+  "name": "AMERICAN COLLEGE OF SPORTS MEDICINE",
+  "slug": "american-college-of-sports-medicine",
+  "state": "IN",
+  "totalSpend": 1290000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SPO",
+    "HCR",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

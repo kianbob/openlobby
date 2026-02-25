@@ -1,0 +1,26 @@
+{
+  "name": "GLOBAL ADVANCED METALS",
+  "slug": "global-advanced-metals",
+  "state": "MA",
+  "totalSpend": 850000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

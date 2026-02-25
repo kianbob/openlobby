@@ -1,0 +1,26 @@
+{
+  "name": "INTERNATIONAL FRANCHISE ASSOCIATION (IFA)",
+  "slug": "international-franchise-association-ifa",
+  "state": "DC",
+  "totalSpend": 1070000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPT",
+    "ECN",
+    "SMB",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

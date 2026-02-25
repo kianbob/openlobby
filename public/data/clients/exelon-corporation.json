@@ -1,0 +1,25 @@
+{
+  "name": "EXELON CORPORATION",
+  "slug": "exelon-corporation",
+  "state": "IL",
+  "totalSpend": 850000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOM",
+    "ENG",
+    "TAX",
+    "LBR",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

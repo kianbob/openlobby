@@ -1,0 +1,24 @@
+{
+  "name": "YESHIVA UNIVERSITY",
+  "slug": "yeshiva-university",
+  "state": "NY",
+  "totalSpend": 1035000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "EDU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

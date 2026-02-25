@@ -1,0 +1,29 @@
+{
+  "name": "TENNESSEE VALLEY PUBLIC POWER ASSOCIATION",
+  "slug": "tennessee-valley-public-power-association",
+  "state": "TN",
+  "totalSpend": 1050000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "ENG",
+    "ENV",
+    "TAX",
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

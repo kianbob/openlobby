@@ -1,0 +1,21 @@
+{
+  "name": "TARGA RESOURCES",
+  "slug": "targa-resources",
+  "state": "TX",
+  "totalSpend": 840000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "BOISE STATE UNIVERSITY",
+  "slug": "boise-state-university",
+  "state": "ID",
+  "totalSpend": 1040000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

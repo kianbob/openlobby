@@ -1,0 +1,23 @@
+{
+  "name": "KYNDRYL, INC.",
+  "slug": "kyndryl-inc",
+  "state": "NY",
+  "totalSpend": 860000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPI",
+    null,
+    "LBR",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

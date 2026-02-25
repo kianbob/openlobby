@@ -1,0 +1,29 @@
+{
+  "name": "AMERICAN SOCIETY OF PLANT BIOLOGISTS",
+  "slug": "american-society-of-plant-biologists",
+  "state": "MD",
+  "totalSpend": 1170000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "BUD",
+    "SCI",
+    "IMM",
+    null,
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

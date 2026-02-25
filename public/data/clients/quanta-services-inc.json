@@ -1,0 +1,32 @@
+{
+  "name": "QUANTA SERVICES, INC.",
+  "slug": "quanta-services-inc",
+  "state": "TX",
+  "totalSpend": 990000,
+  "filings": 27,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "LBR",
+    "FUE",
+    "TRD",
+    "ENG",
+    "NAT",
+    "TRA",
+    "HOM",
+    "VET",
+    "AVI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,31 @@
+{
+  "name": "POLICYLINK",
+  "slug": "policylink",
+  "state": null,
+  "totalSpend": 1110000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "BUD",
+    "CAW",
+    "URB",
+    "HOU",
+    null,
+    "CIV",
+    "ENV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

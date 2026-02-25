@@ -1,0 +1,29 @@
+{
+  "name": "FRED HUTCHINSON CANCER CENTER FORMER \"FRED HUTCHISON CANCER RESEARCH CENTER\"",
+  "slug": "fred-hutchinson-cancer-center-former-fred-hutchison-cancer-research-center",
+  "state": "WA",
+  "totalSpend": 1040000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "HCR",
+    "SCI",
+    "IMM",
+    null,
+    "MMM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

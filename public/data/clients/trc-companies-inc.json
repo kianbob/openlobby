@@ -1,0 +1,26 @@
+{
+  "name": "TRC COMPANIES, INC.",
+  "slug": "trc-companies-inc",
+  "state": "MA",
+  "totalSpend": 1080000,
+  "filings": 30,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "ENV",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ORGANON, LLC",
+  "slug": "organon-llc",
+  "state": "DC",
+  "totalSpend": 1000000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    null,
+    "MMM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

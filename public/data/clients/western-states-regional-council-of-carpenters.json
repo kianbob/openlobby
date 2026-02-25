@@ -1,0 +1,27 @@
+{
+  "name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+  "slug": "western-states-regional-council-of-carpenters",
+  "state": "CA",
+  "totalSpend": 1117500,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "ENG",
+    "TOU",
+    "EDU",
+    null,
+    "BUD",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

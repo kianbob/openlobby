@@ -1,0 +1,29 @@
+{
+  "name": "ASSOCIATION OF INDEPENDENT RESEARCH INSTITUTES",
+  "slug": "association-of-independent-research-institutes",
+  "state": "MD",
+  "totalSpend": 1300000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    "SCI",
+    "VET",
+    null,
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

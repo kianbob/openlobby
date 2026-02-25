@@ -1,0 +1,26 @@
+{
+  "name": "MEDGENE LABS",
+  "slug": "medgene-labs",
+  "state": "SD",
+  "totalSpend": 1120000,
+  "filings": 20,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "ANI",
+    "DIS",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

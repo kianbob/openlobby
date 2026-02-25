@@ -1,0 +1,30 @@
+{
+  "name": "PUBLIC SERVICE COMPANY OF NEW MEXICO",
+  "slug": "public-service-company-of-new-mexico",
+  "state": "NM",
+  "totalSpend": 870000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TAX",
+    "ENV",
+    "CAW",
+    "ENG",
+    "TRA",
+    "TEC",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

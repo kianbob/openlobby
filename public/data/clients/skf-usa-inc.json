@@ -1,0 +1,22 @@
+{
+  "name": "SKF USA INC.",
+  "slug": "skf-usa-inc",
+  "state": "PA",
+  "totalSpend": 850000,
+  "filings": 12,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "MAN",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

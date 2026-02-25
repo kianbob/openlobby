@@ -1,0 +1,33 @@
+{
+  "name": "NETFLIX, INC.",
+  "slug": "netflix-inc",
+  "state": "CA",
+  "totalSpend": 1200000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "COM",
+    "TEC",
+    "CPT",
+    "TAX",
+    "TRD",
+    "IMM",
+    "ENV",
+    null,
+    "SCI",
+    "CSP"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

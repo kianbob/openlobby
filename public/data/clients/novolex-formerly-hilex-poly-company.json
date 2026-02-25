@@ -1,0 +1,28 @@
+{
+  "name": "NOVOLEX (FORMERLY HILEX POLY COMPANY)",
+  "slug": "novolex-formerly-hilex-poly-company",
+  "state": "SC",
+  "totalSpend": 1320000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "TRD",
+    "MAN",
+    "FOO",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

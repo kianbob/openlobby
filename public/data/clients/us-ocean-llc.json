@@ -1,0 +1,24 @@
+{
+  "name": "US OCEAN LLC",
+  "slug": "us-ocean-llc",
+  "state": "LA",
+  "totalSpend": 970000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

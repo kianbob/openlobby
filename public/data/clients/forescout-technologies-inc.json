@@ -1,0 +1,27 @@
+{
+  "name": "FORESCOUT TECHNOLOGIES, INC.",
+  "slug": "forescout-technologies-inc",
+  "state": "CA",
+  "totalSpend": 1030000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "CPI",
+    "DEF",
+    "BUD",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "EVONIK CORPORATION",
+  "slug": "evonik-corporation",
+  "state": "NJ",
+  "totalSpend": 1150000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TAR",
+    "HOM",
+    "RRR",
+    "AGR",
+    "TAX",
+    "TRU",
+    "ENV",
+    "CHM",
+    "LBR",
+    "ENG",
+    "BUD",
+    "HCR",
+    "MAN",
+    "TRA",
+    null,
+    "SCI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

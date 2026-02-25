@@ -1,0 +1,23 @@
+{
+  "name": "PHILLIPS 66",
+  "slug": "phillips-66",
+  "state": "DC",
+  "totalSpend": 1160000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "CAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

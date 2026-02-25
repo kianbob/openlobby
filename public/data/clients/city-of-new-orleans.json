@@ -1,0 +1,24 @@
+{
+  "name": "CITY OF NEW ORLEANS",
+  "slug": "city-of-new-orleans",
+  "state": "LA",
+  "totalSpend": 1290000,
+  "filings": 17,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "URB",
+    "LBR",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

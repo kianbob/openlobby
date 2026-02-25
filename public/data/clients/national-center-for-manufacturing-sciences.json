@@ -1,0 +1,23 @@
+{
+  "name": "NATIONAL CENTER FOR MANUFACTURING SCIENCES",
+  "slug": "national-center-for-manufacturing-sciences",
+  "state": "MI",
+  "totalSpend": 900000,
+  "filings": 16,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "MAN",
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DJI TECHNOLOGY",
+  "slug": "dji-technology",
+  "state": "DC",
+  "totalSpend": 955000,
+  "filings": 10,
+  "years": [
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "DEF",
+    "HOM",
+    "DIS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

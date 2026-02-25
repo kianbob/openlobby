@@ -1,0 +1,32 @@
+{
+  "name": "VMWARE LLC (FORMERLY KNOWN AS VMWARE, INC.)",
+  "slug": "vmware-llc-formerly-known-as-vmware-inc",
+  "state": "DC",
+  "totalSpend": 1290000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "CPI",
+    "SCI",
+    "HCR",
+    "TAX",
+    "DEF",
+    "INT",
+    "BUD",
+    "HOM",
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

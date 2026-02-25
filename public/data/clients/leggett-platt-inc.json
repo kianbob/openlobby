@@ -1,0 +1,30 @@
+{
+  "name": "LEGGETT & PLATT, INC.",
+  "slug": "leggett-platt-inc",
+  "state": "MO",
+  "totalSpend": 850000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CSP",
+    "TRD",
+    "FIN",
+    "TAX",
+    "MAN",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

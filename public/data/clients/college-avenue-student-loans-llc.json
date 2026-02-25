@@ -1,0 +1,26 @@
+{
+  "name": "COLLEGE AVENUE STUDENT LOANS LLC",
+  "slug": "college-avenue-student-loans-llc",
+  "state": "DE",
+  "totalSpend": 1220000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "EDU",
+    "FIN",
+    null,
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

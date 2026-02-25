@@ -1,0 +1,25 @@
+{
+  "name": "MICHIGAN RESEARCH INSTITUTE",
+  "slug": "michigan-research-institute",
+  "state": "MI",
+  "totalSpend": 1070000,
+  "filings": 21,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

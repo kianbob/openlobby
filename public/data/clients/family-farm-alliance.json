@@ -1,0 +1,29 @@
+{
+  "name": "FAMILY FARM ALLIANCE",
+  "slug": "family-farm-alliance",
+  "state": "OR",
+  "totalSpend": 1080000,
+  "filings": 36,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "BUD",
+    "AGR",
+    "NAT",
+    "CAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

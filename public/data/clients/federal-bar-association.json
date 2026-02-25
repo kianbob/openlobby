@@ -1,0 +1,25 @@
+{
+  "name": "FEDERAL BAR ASSOCIATION",
+  "slug": "federal-bar-association",
+  "state": "VA",
+  "totalSpend": 840000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "GOV",
+    "IMM",
+    "LAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

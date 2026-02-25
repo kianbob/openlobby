@@ -1,0 +1,27 @@
+{
+  "name": "CYSTIC FIBROSIS FOUNDATION",
+  "slug": "cystic-fibrosis-foundation",
+  "state": "MD",
+  "totalSpend": 960000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MED",
+    "HCR",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

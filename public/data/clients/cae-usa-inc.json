@@ -1,0 +1,28 @@
+{
+  "name": "CAE USA, INC",
+  "slug": "cae-usa-inc",
+  "state": "FL",
+  "totalSpend": 1050000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "HCR",
+    "HOM",
+    null,
+    "AVI",
+    "BUD",
+    "AER",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

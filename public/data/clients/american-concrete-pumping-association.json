@@ -1,0 +1,29 @@
+{
+  "name": "AMERICAN CONCRETE PUMPING ASSOCIATION",
+  "slug": "american-concrete-pumping-association",
+  "state": "OH",
+  "totalSpend": 830000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ROD",
+    "AGR",
+    "TAX",
+    "FUE",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

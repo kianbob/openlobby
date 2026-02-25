@@ -1,0 +1,27 @@
+{
+  "name": "ELANCO ANIMAL HEALTH",
+  "slug": "elanco-animal-health",
+  "state": "IN",
+  "totalSpend": 852500,
+  "filings": 20,
+  "years": [
+    2018,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "TRD",
+    "ANI",
+    "AGR",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

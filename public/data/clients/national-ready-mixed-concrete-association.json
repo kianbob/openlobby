@@ -1,0 +1,31 @@
+{
+  "name": "NATIONAL READY MIXED CONCRETE ASSOCIATION",
+  "slug": "national-ready-mixed-concrete-association",
+  "state": "MD",
+  "totalSpend": 1050000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "AGR",
+    "BUD",
+    "TAX",
+    "TRA",
+    "BAN",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "NETJETS, INC.",
+  "slug": "netjets-inc",
+  "state": "OH",
+  "totalSpend": 1340000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CSP",
+    "AVI",
+    "LBR",
+    "RET",
+    "HCR",
+    "BUD",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

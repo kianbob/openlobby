@@ -1,0 +1,26 @@
+{
+  "name": "HUNTINGTON INGALLS INDUSTRIES INC.",
+  "slug": "huntington-ingalls-industries-inc",
+  "state": "DC",
+  "totalSpend": 860000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "BUD",
+    "ENG",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

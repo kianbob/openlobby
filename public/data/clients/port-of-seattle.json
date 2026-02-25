@@ -1,0 +1,31 @@
+{
+  "name": "PORT OF SEATTLE",
+  "slug": "port-of-seattle",
+  "state": "WA",
+  "totalSpend": 1140000,
+  "filings": 20,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    "MAR",
+    "BUD",
+    "AVI",
+    "CAW",
+    "TAR",
+    null,
+    "TRD",
+    "HOM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

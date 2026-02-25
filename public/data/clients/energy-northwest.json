@@ -1,0 +1,29 @@
+{
+  "name": "ENERGY NORTHWEST",
+  "slug": "energy-northwest",
+  "state": "WA",
+  "totalSpend": 905000,
+  "filings": 38,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "TAX",
+    "ENG",
+    "DEF",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

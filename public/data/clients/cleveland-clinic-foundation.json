@@ -1,0 +1,31 @@
+{
+  "name": "CLEVELAND CLINIC FOUNDATION",
+  "slug": "cleveland-clinic-foundation",
+  "state": "OH",
+  "totalSpend": 1057500,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "BUD",
+    "TAX",
+    "CPT",
+    null,
+    "LAW",
+    "IMM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

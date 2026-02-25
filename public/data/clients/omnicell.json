@@ -1,0 +1,25 @@
+{
+  "name": "OMNICELL",
+  "slug": "omnicell",
+  "state": "PA",
+  "totalSpend": 890000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

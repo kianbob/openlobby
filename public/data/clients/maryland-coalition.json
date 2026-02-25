@@ -1,0 +1,24 @@
+{
+  "name": "MARYLAND+COALITION",
+  "slug": "maryland-coalition",
+  "state": "DC",
+  "totalSpend": 885000,
+  "filings": 19,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

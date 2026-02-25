@@ -1,0 +1,27 @@
+{
+  "name": "INSTITUTE OF INTERNATIONAL EDUCATION (IIE)",
+  "slug": "institute-of-international-education-iie",
+  "state": "NY",
+  "totalSpend": 850000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "DEF",
+    null,
+    "FOR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

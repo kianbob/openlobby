@@ -1,0 +1,32 @@
+{
+  "name": "PBF HOLDING COMPANY LLC",
+  "slug": "pbf-holding-company-llc",
+  "state": "NJ",
+  "totalSpend": 960000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TRA",
+    "ENV",
+    "ENG",
+    "TAX",
+    "RRR",
+    "BUD",
+    "FUE",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

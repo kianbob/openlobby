@@ -1,0 +1,32 @@
+{
+  "name": "EAST BAY MUNICIPAL UTILITY DISTRICT",
+  "slug": "east-bay-municipal-utility-district",
+  "state": "VA",
+  "totalSpend": 830000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "NAT",
+    "BUD",
+    "CAW",
+    "CHM",
+    "DIS",
+    "HCR",
+    null,
+    "TAX",
+    "WAS"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

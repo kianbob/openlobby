@@ -1,0 +1,25 @@
+{
+  "name": "SVB FINANCIAL GROUP",
+  "slug": "svb-financial-group",
+  "state": "CA",
+  "totalSpend": 980000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "BAN",
+    "IMM",
+    "CPI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "BANK POLICY INSTITUTE (FKA THE FINANCIAL SERVICES ROUNDTABLE)",
+  "slug": "bank-policy-institute-fka-the-financial-services-roundtable",
+  "state": "DC",
+  "totalSpend": 1005000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    "SCI",
+    "TAX",
+    "FIN",
+    "SMB",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

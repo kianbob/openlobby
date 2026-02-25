@@ -1,0 +1,28 @@
+{
+  "name": "FLORIDA HOSPITAL ASSOCIATION",
+  "slug": "florida-hospital-association",
+  "state": "FL",
+  "totalSpend": 1050000,
+  "filings": 21,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "IMM",
+    "GOV",
+    null,
+    "TAX",
+    "LAW",
+    "HOM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

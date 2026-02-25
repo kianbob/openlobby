@@ -1,0 +1,30 @@
+{
+  "name": "DIRECTORS GUILD OF AMERICA",
+  "slug": "directors-guild-of-america",
+  "state": "CA",
+  "totalSpend": 1080000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPT",
+    "IMM",
+    "TRD",
+    "TAX",
+    "RET",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

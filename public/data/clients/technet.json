@@ -1,0 +1,22 @@
+{
+  "name": "TECHNET",
+  "slug": "technet",
+  "state": "DC",
+  "totalSpend": 1020000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "STEELCASE, INC.",
+  "slug": "steelcase-inc",
+  "state": "MI",
+  "totalSpend": 1130000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "LAW",
+    "DEF",
+    "ENV",
+    "MAN",
+    "SCI",
+    "BAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

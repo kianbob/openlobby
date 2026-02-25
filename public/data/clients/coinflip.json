@@ -1,0 +1,23 @@
+{
+  "name": "COINFLIP",
+  "slug": "coinflip",
+  "state": "IL",
+  "totalSpend": 960000,
+  "filings": 16,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "BAN"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

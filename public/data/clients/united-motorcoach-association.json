@@ -1,0 +1,32 @@
+{
+  "name": "UNITED MOTORCOACH ASSOCIATION",
+  "slug": "united-motorcoach-association",
+  "state": "VA",
+  "totalSpend": 1180000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "TRA",
+    "RES",
+    "HCR",
+    "ENV",
+    "TAX",
+    "LBR",
+    null,
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

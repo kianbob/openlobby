@@ -1,0 +1,21 @@
+{
+  "name": "MICRON",
+  "slug": "micron",
+  "state": "ID",
+  "totalSpend": 1065000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

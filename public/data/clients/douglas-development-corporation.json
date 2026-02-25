@@ -1,0 +1,24 @@
+{
+  "name": "DOUGLAS DEVELOPMENT CORPORATION",
+  "slug": "douglas-development-corporation",
+  "state": "DC",
+  "totalSpend": 1015000,
+  "filings": 13,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "RES",
+    "ECN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

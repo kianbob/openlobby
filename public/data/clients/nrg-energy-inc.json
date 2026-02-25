@@ -1,0 +1,29 @@
+{
+  "name": "NRG ENERGY, INC.",
+  "slug": "nrg-energy-inc",
+  "state": "CT",
+  "totalSpend": 1210000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    "ENV",
+    null,
+    "DEF",
+    "CSP"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "BAVARIAN NORDIC",
+  "slug": "bavarian-nordic",
+  "state": "DC",
+  "totalSpend": 1280000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

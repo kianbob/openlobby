@@ -1,0 +1,24 @@
+{
+  "name": "DRAFTKINGS",
+  "slug": "draftkings",
+  "state": "MA",
+  "totalSpend": 920000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "SPO",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

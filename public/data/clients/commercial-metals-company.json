@@ -1,0 +1,24 @@
+{
+  "name": "COMMERCIAL METALS COMPANY",
+  "slug": "commercial-metals-company",
+  "state": "TX",
+  "totalSpend": 1320000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

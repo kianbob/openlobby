@@ -1,0 +1,28 @@
+{
+  "name": "DISCOVER FINANCIAL SERVICES, INC.",
+  "slug": "discover-financial-services-inc",
+  "state": "DC",
+  "totalSpend": 850000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "EDU",
+    "BAN",
+    "BUD",
+    "CSP",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

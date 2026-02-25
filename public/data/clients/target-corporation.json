@@ -1,0 +1,27 @@
+{
+  "name": "TARGET CORPORATION",
+  "slug": "target-corporation",
+  "state": "MN",
+  "totalSpend": 880000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "CSP",
+    "FOO",
+    "TRU",
+    "TRD",
+    null,
+    "LBR",
+    "AGR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

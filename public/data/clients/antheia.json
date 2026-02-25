@@ -1,0 +1,23 @@
+{
+  "name": "ANTHEIA",
+  "slug": "antheia",
+  "state": "CA",
+  "totalSpend": 1020000,
+  "filings": 17,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

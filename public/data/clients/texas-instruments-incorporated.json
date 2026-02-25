@@ -1,0 +1,31 @@
+{
+  "name": "TEXAS INSTRUMENTS INCORPORATED",
+  "slug": "texas-instruments-incorporated",
+  "state": "DC",
+  "totalSpend": 1320000,
+  "filings": 33,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "IMM",
+    "TRD",
+    "TAX",
+    "ENV",
+    "MAN",
+    "DEF",
+    null,
+    "TEC"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

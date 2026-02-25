@@ -1,0 +1,22 @@
+{
+  "name": "COINSTAR",
+  "slug": "coinstar",
+  "state": "WA",
+  "totalSpend": 880000,
+  "filings": 19,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2025
+  ],
+  "issues": [
+    "MON"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

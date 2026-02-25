@@ -1,0 +1,25 @@
+{
+  "name": "SI GROUP CLIENT SERVICES (FKA SWISHER)",
+  "slug": "si-group-client-services-fka-swisher",
+  "state": "FL",
+  "totalSpend": 867000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "TOB",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

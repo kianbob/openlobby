@@ -1,0 +1,22 @@
+{
+  "name": "SAN DIEGO COUNTY WATER AUTHORITY",
+  "slug": "san-diego-county-water-authority",
+  "state": "CA",
+  "totalSpend": 830000,
+  "filings": 19,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

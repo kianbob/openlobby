@@ -1,0 +1,25 @@
+{
+  "name": "FAIRBANKS MORSE ENGINE",
+  "slug": "fairbanks-morse-engine",
+  "state": "WI",
+  "totalSpend": 1290000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HOM",
+    "DEF",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

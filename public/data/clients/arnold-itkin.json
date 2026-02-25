@@ -1,0 +1,24 @@
+{
+  "name": "ARNOLD & ITKIN",
+  "slug": "arnold-itkin",
+  "state": "TX",
+  "totalSpend": 1140000,
+  "filings": 19,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "MAR",
+    "CHM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

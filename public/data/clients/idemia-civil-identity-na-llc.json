@@ -1,0 +1,26 @@
+{
+  "name": "IDEMIA CIVIL IDENTITY NA LLC",
+  "slug": "idemia-civil-identity-na-llc",
+  "state": "VA",
+  "totalSpend": 1200000,
+  "filings": 24,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "HOM",
+    "TRA",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

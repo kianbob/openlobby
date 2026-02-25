@@ -1,0 +1,28 @@
+{
+  "name": "PLUG POWER",
+  "slug": "plug-power",
+  "state": "NY",
+  "totalSpend": 1050000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "TAX",
+    "ENG",
+    "MAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

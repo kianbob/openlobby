@@ -1,0 +1,30 @@
+{
+  "name": "CHUGACH ALASKA CORP",
+  "slug": "chugach-alaska-corp",
+  "state": "AK",
+  "totalSpend": 1010000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "TRA",
+    "TAX",
+    "BUD",
+    "IND",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

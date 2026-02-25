@@ -1,0 +1,24 @@
+{
+  "name": "EOG RESOURCES",
+  "slug": "eog-resources",
+  "state": "TX",
+  "totalSpend": 1170000,
+  "filings": 20,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

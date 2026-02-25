@@ -1,0 +1,23 @@
+{
+  "name": "FLOW THERAPY",
+  "slug": "flow-therapy",
+  "state": "TX",
+  "totalSpend": 820000,
+  "filings": 18,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "AFFF LITIGATION CORPORATION",
+  "slug": "afff-litigation-corporation",
+  "state": "NY",
+  "totalSpend": 950000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

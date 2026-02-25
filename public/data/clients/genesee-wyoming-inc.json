@@ -1,0 +1,25 @@
+{
+  "name": "GENESEE & WYOMING INC",
+  "slug": "genesee-wyoming-inc",
+  "state": "PA",
+  "totalSpend": 1200000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

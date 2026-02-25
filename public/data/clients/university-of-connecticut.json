@@ -1,0 +1,33 @@
+{
+  "name": "UNIVERSITY OF CONNECTICUT",
+  "slug": "university-of-connecticut",
+  "state": "CT",
+  "totalSpend": 1040000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "DEF",
+    "AGR",
+    "HCR",
+    "FOR",
+    "EDU",
+    "BUD",
+    "SCI",
+    "CPI",
+    "VET",
+    "ENG",
+    "IMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

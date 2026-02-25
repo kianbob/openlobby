@@ -1,0 +1,26 @@
+{
+  "name": "UNITED FOR MEDICAL RESEARCH",
+  "slug": "united-for-medical-research",
+  "state": "MD",
+  "totalSpend": 1020000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MED",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

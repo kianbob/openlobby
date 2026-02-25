@@ -1,0 +1,31 @@
+{
+  "name": "ASSOCIATION OF INTERNATIONAL CERTIFIED PROFESSIONAL ACCOUNTANTS (AICPA)",
+  "slug": "association-of-international-certified-professional-accountants-aicpa",
+  "state": "DC",
+  "totalSpend": 920000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    "FIN",
+    "GOV",
+    "EDU",
+    "ACC",
+    "DIS",
+    "TAX",
+    "CPT",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

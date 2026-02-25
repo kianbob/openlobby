@@ -1,0 +1,33 @@
+{
+  "name": "BRIGGS & STRATTON LLC",
+  "slug": "briggs-stratton-llc",
+  "state": "WI",
+  "totalSpend": 1200000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "MAN",
+    "CSP",
+    "ENG",
+    "TRD",
+    "IMM",
+    "DIS",
+    "TAX",
+    "ECN",
+    "UTI",
+    "BNK",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

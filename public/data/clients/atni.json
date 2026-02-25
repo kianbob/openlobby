@@ -1,0 +1,25 @@
+{
+  "name": "ATNI",
+  "slug": "atni",
+  "state": "MA",
+  "totalSpend": 1170000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TEC",
+    "DIS",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

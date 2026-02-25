@@ -1,0 +1,24 @@
+{
+  "name": "BIG 12 CONFERENCE",
+  "slug": "big-12-conference",
+  "state": "TX",
+  "totalSpend": 940000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "EDU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

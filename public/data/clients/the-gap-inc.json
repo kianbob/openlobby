@@ -1,0 +1,29 @@
+{
+  "name": "THE GAP, INC.",
+  "slug": "the-gap-inc",
+  "state": "CA",
+  "totalSpend": 850000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TRD",
+    "LBR",
+    "FIN",
+    "TAX",
+    "FOR",
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

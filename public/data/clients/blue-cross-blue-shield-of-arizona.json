@@ -1,0 +1,29 @@
+{
+  "name": "BLUE CROSS BLUE SHIELD OF ARIZONA",
+  "slug": "blue-cross-blue-shield-of-arizona",
+  "state": "AZ",
+  "totalSpend": 1200000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "INS",
+    "HCR",
+    "MMM",
+    "HOM",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

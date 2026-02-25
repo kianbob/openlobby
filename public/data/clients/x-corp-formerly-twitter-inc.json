@@ -1,0 +1,26 @@
+{
+  "name": "X CORP. (FORMERLY TWITTER, INC.)",
+  "slug": "x-corp-formerly-twitter-inc",
+  "state": "DC",
+  "totalSpend": 870000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CSP",
+    "GOV",
+    "CPT",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

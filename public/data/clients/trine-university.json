@@ -1,0 +1,22 @@
+{
+  "name": "TRINE UNIVERSITY",
+  "slug": "trine-university",
+  "state": "IN",
+  "totalSpend": 930000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "EDU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CONTROLLED THERMAL RESOURCES",
+  "slug": "controlled-thermal-resources",
+  "state": "CA",
+  "totalSpend": 870000,
+  "filings": 12,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "ENG",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "FOX REHABILITATION",
+  "slug": "fox-rehabilitation",
+  "state": "NJ",
+  "totalSpend": 1300000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    "HCR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

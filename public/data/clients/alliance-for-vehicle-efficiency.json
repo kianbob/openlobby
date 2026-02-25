@@ -1,0 +1,29 @@
+{
+  "name": "ALLIANCE FOR VEHICLE EFFICIENCY",
+  "slug": "alliance-for-vehicle-efficiency",
+  "state": "DC",
+  "totalSpend": 1160000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "CAW",
+    "AUT",
+    "TAX",
+    "FUE",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

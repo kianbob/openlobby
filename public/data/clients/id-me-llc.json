@@ -1,0 +1,23 @@
+{
+  "name": "ID.ME, LLC",
+  "slug": "id-me-llc",
+  "state": "VA",
+  "totalSpend": 920000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CSP",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

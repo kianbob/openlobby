@@ -1,0 +1,29 @@
+{
+  "name": "SOCIETY FOR INDUSTRIAL AND APPLIED MATHEMATICS",
+  "slug": "society-for-industrial-and-applied-mathematics",
+  "state": "PA",
+  "totalSpend": 930000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    "SCI",
+    "HCR",
+    null,
+    "INT"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

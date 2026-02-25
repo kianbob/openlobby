@@ -1,0 +1,32 @@
+{
+  "name": "MEDIATEK USA INC.",
+  "slug": "mediatek-usa-inc",
+  "state": "CA",
+  "totalSpend": 920000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FOR",
+    "CPI",
+    "SCI",
+    "TRD",
+    "MAN",
+    "DEF",
+    "ENG",
+    "EDU",
+    "BUD",
+    null,
+    "TAX",
+    "TEC"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

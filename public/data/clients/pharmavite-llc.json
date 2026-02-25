@@ -1,0 +1,33 @@
+{
+  "name": "PHARMAVITE LLC",
+  "slug": "pharmavite-llc",
+  "state": "CA",
+  "totalSpend": 1120000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "LAW",
+    "TAX",
+    "AGR",
+    "BUD",
+    "FOO",
+    "CSP",
+    null,
+    "HCR",
+    "TAR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

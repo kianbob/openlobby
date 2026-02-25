@@ -1,0 +1,23 @@
+{
+  "name": "SEIA",
+  "slug": "seia",
+  "state": "DC",
+  "totalSpend": 1140000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

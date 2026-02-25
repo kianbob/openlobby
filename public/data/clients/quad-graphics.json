@@ -1,0 +1,26 @@
+{
+  "name": "QUAD GRAPHICS",
+  "slug": "quad-graphics",
+  "state": "WI",
+  "totalSpend": 830000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "GOV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

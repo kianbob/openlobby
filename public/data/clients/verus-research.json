@@ -1,0 +1,24 @@
+{
+  "name": "VERUS RESEARCH",
+  "slug": "verus-research",
+  "state": "NM",
+  "totalSpend": 890000,
+  "filings": 22,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

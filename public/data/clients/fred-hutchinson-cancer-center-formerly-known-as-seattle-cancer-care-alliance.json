@@ -1,0 +1,25 @@
+{
+  "name": "FRED HUTCHINSON CANCER CENTER (FORMERLY KNOWN AS SEATTLE CANCER CARE ALLIANCE)",
+  "slug": "fred-hutchinson-cancer-center-formerly-known-as-seattle-cancer-care-alliance",
+  "state": "WA",
+  "totalSpend": 1300000,
+  "filings": 19,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null,
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

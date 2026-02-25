@@ -1,0 +1,29 @@
+{
+  "name": "JOHNSON CONTROLS INC.",
+  "slug": "johnson-controls-inc",
+  "state": "WI",
+  "totalSpend": 1050000,
+  "filings": 19,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "ENV",
+    "TRD",
+    "TAX",
+    "ENG",
+    "DEF",
+    "BUD",
+    null,
+    "TRA"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

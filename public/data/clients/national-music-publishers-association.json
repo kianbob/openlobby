@@ -1,0 +1,24 @@
+{
+  "name": "NATIONAL MUSIC PUBLISHERS ASSOCIATION",
+  "slug": "national-music-publishers-association",
+  "state": "DC",
+  "totalSpend": 1000000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "CPT",
+    "SMB",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

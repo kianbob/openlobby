@@ -1,0 +1,21 @@
+{
+  "name": "MEDSTAR HEALTH",
+  "slug": "medstar-health",
+  "state": "MD",
+  "totalSpend": 900000,
+  "filings": 16,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

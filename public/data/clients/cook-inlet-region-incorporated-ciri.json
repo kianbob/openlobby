@@ -1,0 +1,28 @@
+{
+  "name": "COOK INLET REGION INCORPORATED (CIRI)",
+  "slug": "cook-inlet-region-incorporated-ciri",
+  "state": "AK",
+  "totalSpend": 1090000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "ENG",
+    "BUD",
+    "IND",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

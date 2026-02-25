@@ -1,0 +1,29 @@
+{
+  "name": "IRIDIUM COMMUNICATIONS INC (FORMERLY SATELLES, INC.)",
+  "slug": "iridium-communications-inc-formerly-satelles-inc",
+  "state": "CA",
+  "totalSpend": 1100000,
+  "filings": 22,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AVI",
+    "HOM",
+    "DEF",
+    "TRA",
+    "BUD",
+    null,
+    "TEC"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,31 @@
+{
+  "name": "GENERAL AVIATION MANUFACTURERS ASSOCIATION",
+  "slug": "general-aviation-manufacturers-association",
+  "state": "DC",
+  "totalSpend": 1120000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "BUD",
+    "TRD",
+    "DEF",
+    "AVI",
+    "CHM",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

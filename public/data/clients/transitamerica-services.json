@@ -1,0 +1,23 @@
+{
+  "name": "TRANSITAMERICA SERVICES",
+  "slug": "transitamerica-services",
+  "state": "MO",
+  "totalSpend": 1250000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

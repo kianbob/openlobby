@@ -1,0 +1,25 @@
+{
+  "name": "RECKITT BENCKISER LLC",
+  "slug": "reckitt-benckiser-llc",
+  "state": "NJ",
+  "totalSpend": 985000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENV",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

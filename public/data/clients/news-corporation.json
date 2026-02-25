@@ -1,0 +1,26 @@
+{
+  "name": "NEWS CORPORATION",
+  "slug": "news-corporation",
+  "state": "NY",
+  "totalSpend": 1150000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPT",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

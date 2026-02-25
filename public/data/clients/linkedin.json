@@ -1,0 +1,28 @@
+{
+  "name": "LINKEDIN",
+  "slug": "linkedin",
+  "state": "CA",
+  "totalSpend": 1120000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "HOM",
+    "EDU",
+    "LBR",
+    "CPI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

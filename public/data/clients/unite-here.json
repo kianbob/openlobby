@@ -1,0 +1,34 @@
+{
+  "name": "UNITE HERE!",
+  "slug": "unite-here",
+  "state": "NY",
+  "totalSpend": 903252.48,
+  "filings": 11,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "issues": [
+    "RET",
+    "LBR",
+    "TRA",
+    "IND",
+    "TAX",
+    "HCR",
+    "HOU",
+    "IMM",
+    "PHA",
+    "ENG",
+    "INT",
+    "TRD",
+    "CIV",
+    "AVI",
+    "SMB"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

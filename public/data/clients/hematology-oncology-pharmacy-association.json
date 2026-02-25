@@ -1,0 +1,23 @@
+{
+  "name": "HEMATOLOGY ONCOLOGY PHARMACY ASSOCIATION",
+  "slug": "hematology-oncology-pharmacy-association",
+  "state": "WI",
+  "totalSpend": 1050000,
+  "filings": 21,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

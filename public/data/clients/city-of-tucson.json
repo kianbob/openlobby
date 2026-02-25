@@ -1,0 +1,36 @@
+{
+  "name": "CITY OF TUCSON",
+  "slug": "city-of-tucson",
+  "state": "TX",
+  "totalSpend": 1210442,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "POS",
+    "HOU",
+    "DEF",
+    "TRA",
+    "HCR",
+    "BUD",
+    "IMM",
+    "LAW",
+    "NAT",
+    "GOV",
+    "HOM",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

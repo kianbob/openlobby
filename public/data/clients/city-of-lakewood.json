@@ -1,0 +1,43 @@
+{
+  "name": "CITY OF LAKEWOOD",
+  "slug": "city-of-lakewood",
+  "state": "OH",
+  "totalSpend": 990000,
+  "filings": 35,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SMB",
+    "HOU",
+    "BUD",
+    "RRR",
+    "ALC",
+    "ROD",
+    "URB",
+    "UTI",
+    "TRA",
+    "DIS",
+    "ECN",
+    "ENV",
+    "ENG",
+    "HOM",
+    "CAW",
+    "LAW",
+    null,
+    "EDU",
+    "ART",
+    "GOV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

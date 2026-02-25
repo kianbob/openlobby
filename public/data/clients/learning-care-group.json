@@ -1,0 +1,26 @@
+{
+  "name": "LEARNING CARE GROUP",
+  "slug": "learning-care-group",
+  "state": "MI",
+  "totalSpend": 1030000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "EDU",
+    "BUD",
+    "FOO",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

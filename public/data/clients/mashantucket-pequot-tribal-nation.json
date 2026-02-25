@@ -1,0 +1,30 @@
+{
+  "name": "MASHANTUCKET PEQUOT TRIBAL NATION",
+  "slug": "mashantucket-pequot-tribal-nation",
+  "state": "CT",
+  "totalSpend": 1106000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "IND",
+    null,
+    "TAX",
+    "GAM",
+    "POS",
+    "ECN",
+    "LAW"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

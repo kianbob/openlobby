@@ -1,0 +1,27 @@
+{
+  "name": "MEDICAL PLACE",
+  "slug": "medical-place",
+  "state": "AL",
+  "totalSpend": 1190000,
+  "filings": 22,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "VET",
+    "SMB",
+    "TRD",
+    null,
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

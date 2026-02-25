@@ -1,0 +1,28 @@
+{
+  "name": "VAPOR TECHNOLOGY ASSOCIATION",
+  "slug": "vapor-technology-association",
+  "state": "DC",
+  "totalSpend": 1080000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "BUD",
+    "SCI",
+    "HCR",
+    "CSP",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CRESCO LABS",
+  "slug": "cresco-labs",
+  "state": "IL",
+  "totalSpend": 900000,
+  "filings": 15,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "LAW",
+    null,
+    "TAX",
+    "BAN"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

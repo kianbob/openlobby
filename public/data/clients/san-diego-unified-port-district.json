@@ -1,0 +1,29 @@
+{
+  "name": "SAN DIEGO UNIFIED PORT DISTRICT",
+  "slug": "san-diego-unified-port-district",
+  "state": "CA",
+  "totalSpend": 870000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAR",
+    "BUD",
+    "TRA",
+    "ENV",
+    "CAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

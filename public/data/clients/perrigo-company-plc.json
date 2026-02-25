@@ -1,0 +1,22 @@
+{
+  "name": "PERRIGO COMPANY PLC",
+  "slug": "perrigo-company-plc",
+  "state": "MI",
+  "totalSpend": 1200000,
+  "filings": 11,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MAN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

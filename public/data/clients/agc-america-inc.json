@@ -1,0 +1,34 @@
+{
+  "name": "AGC AMERICA, INC.",
+  "slug": "agc-america-inc",
+  "state": null,
+  "totalSpend": 1000000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "ENV",
+    "BUD",
+    "ENG",
+    "IMM",
+    "HCR",
+    "MAN",
+    null,
+    "SCI",
+    "PHA",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

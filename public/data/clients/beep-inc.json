@@ -1,0 +1,25 @@
+{
+  "name": "BEEP, INC.",
+  "slug": "beep-inc",
+  "state": "FL",
+  "totalSpend": 1130000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "URB",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

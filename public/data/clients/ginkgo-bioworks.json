@@ -1,0 +1,28 @@
+{
+  "name": "GINKGO BIOWORKS",
+  "slug": "ginkgo-bioworks",
+  "state": "MA",
+  "totalSpend": 1110000,
+  "filings": 17,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "SCI",
+    "BUD",
+    "EDU",
+    "DEF",
+    "AGR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

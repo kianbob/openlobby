@@ -1,0 +1,24 @@
+{
+  "name": "AMERICA'S VETDOGS",
+  "slug": "america-s-vetdogs",
+  "state": "NY",
+  "totalSpend": 1080000,
+  "filings": 34,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

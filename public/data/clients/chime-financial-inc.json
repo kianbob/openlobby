@@ -1,0 +1,24 @@
+{
+  "name": "CHIME FINANCIAL, INC.",
+  "slug": "chime-financial-inc",
+  "state": "CA",
+  "totalSpend": 910000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "BAN",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CLEMSON UNIVERSITY",
+  "slug": "clemson-university",
+  "state": "SC",
+  "totalSpend": 930000,
+  "filings": 16,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

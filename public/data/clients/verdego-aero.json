@@ -1,0 +1,21 @@
+{
+  "name": "VERDEGO AERO",
+  "slug": "verdego-aero",
+  "state": "FL",
+  "totalSpend": 1077500,
+  "filings": 9,
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    null,
+    "AER",
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

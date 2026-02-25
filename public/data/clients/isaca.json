@@ -1,0 +1,23 @@
+{
+  "name": "ISACA",
+  "slug": "isaca",
+  "state": "IL",
+  "totalSpend": 860000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

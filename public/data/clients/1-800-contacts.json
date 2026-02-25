@@ -1,0 +1,24 @@
+{
+  "name": "1-800 CONTACTS",
+  "slug": "1-800-contacts",
+  "state": "DC",
+  "totalSpend": 940000,
+  "filings": 16,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "CSP",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

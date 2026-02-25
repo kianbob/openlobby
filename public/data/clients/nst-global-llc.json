@@ -1,0 +1,26 @@
+{
+  "name": "NST GLOBAL, LLC",
+  "slug": "nst-global-llc",
+  "state": "FL",
+  "totalSpend": 925000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIR",
+    "VET",
+    "IND",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

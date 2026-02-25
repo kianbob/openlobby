@@ -1,0 +1,31 @@
+{
+  "name": "KENNEWICK IRRIGATION DISTRICT",
+  "slug": "kennewick-irrigation-district",
+  "state": "WA",
+  "totalSpend": 870000,
+  "filings": 34,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "NAT",
+    "BUD",
+    null,
+    "AGR",
+    "CAW",
+    "ENV",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "SPACE EXPLORATION TECHNOLOGIES CORPORATION",
+  "slug": "space-exploration-technologies-corporation",
+  "state": "CA",
+  "totalSpend": 1240000,
+  "filings": 22,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "AER",
+    "BUD",
+    "TEC",
+    "ENV",
+    null,
+    "TRA"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

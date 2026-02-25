@@ -1,0 +1,28 @@
+{
+  "name": "CHILDHELP",
+  "slug": "childhelp",
+  "state": "AZ",
+  "totalSpend": 960000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "WEL",
+    "HCR",
+    "BUD",
+    "FAM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

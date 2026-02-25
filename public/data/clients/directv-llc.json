@@ -1,0 +1,26 @@
+{
+  "name": "DIRECTV, LLC",
+  "slug": "directv-llc",
+  "state": "CA",
+  "totalSpend": 890000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MIA",
+    "COM",
+    "CPT",
+    "CSP",
+    "TEC",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

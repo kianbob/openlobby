@@ -1,0 +1,23 @@
+{
+  "name": "OVERTON LLC",
+  "slug": "overton-llc",
+  "state": "MA",
+  "totalSpend": 830000,
+  "filings": 21,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "GOV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

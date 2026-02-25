@@ -1,0 +1,28 @@
+{
+  "name": "LEIDOS HOLDINGS, INC.",
+  "slug": "leidos-holdings-inc",
+  "state": "VA",
+  "totalSpend": 1000000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    "DEF",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

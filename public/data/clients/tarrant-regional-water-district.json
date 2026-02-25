@@ -1,0 +1,28 @@
+{
+  "name": "TARRANT REGIONAL WATER DISTRICT",
+  "slug": "tarrant-regional-water-district",
+  "state": "TX",
+  "totalSpend": 1150000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "URB",
+    "BUD",
+    "GOV",
+    "UTI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

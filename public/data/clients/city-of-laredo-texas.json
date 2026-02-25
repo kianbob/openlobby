@@ -1,0 +1,32 @@
+{
+  "name": "CITY OF LAREDO, TEXAS",
+  "slug": "city-of-laredo-texas",
+  "state": "TX",
+  "totalSpend": 1180000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "TRA",
+    "TAX",
+    "IMM",
+    "APP",
+    null,
+    "ECN",
+    "VET",
+    "TRD",
+    "ANI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "IAC",
+  "slug": "iac",
+  "state": "NY",
+  "totalSpend": 1230000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DIS",
+    "BUD",
+    null,
+    "CPI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

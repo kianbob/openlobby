@@ -1,0 +1,25 @@
+{
+  "name": "AON SERVICE CORPORATION",
+  "slug": "aon-service-corporation",
+  "state": "IL",
+  "totalSpend": 830000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "FIN",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

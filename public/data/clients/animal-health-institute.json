@@ -1,0 +1,27 @@
+{
+  "name": "ANIMAL HEALTH INSTITUTE",
+  "slug": "animal-health-institute",
+  "state": "DC",
+  "totalSpend": 840000,
+  "filings": 24,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ANI",
+    "TRD",
+    "AGR",
+    "HCR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

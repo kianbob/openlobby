@@ -1,0 +1,23 @@
+{
+  "name": "CABOT CORPORATION",
+  "slug": "cabot-corporation",
+  "state": "MA",
+  "totalSpend": 860000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CHM",
+    null,
+    "ENG",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

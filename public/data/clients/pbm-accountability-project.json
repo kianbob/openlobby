@@ -1,0 +1,21 @@
+{
+  "name": "PBM ACCOUNTABILITY PROJECT",
+  "slug": "pbm-accountability-project",
+  "state": "DC",
+  "totalSpend": 900000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

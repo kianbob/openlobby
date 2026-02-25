@@ -1,0 +1,23 @@
+{
+  "name": "AIS HEALTHCARE",
+  "slug": "ais-healthcare",
+  "state": "TX",
+  "totalSpend": 1060000,
+  "filings": 14,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "THE FEDERATION OF STATE MEDICAL BOARDS",
+  "slug": "the-federation-of-state-medical-boards",
+  "state": "DC",
+  "totalSpend": 860000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "LBR",
+    "MED",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

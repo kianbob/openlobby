@@ -1,0 +1,26 @@
+{
+  "name": "SKYDIO",
+  "slug": "skydio",
+  "state": "CA",
+  "totalSpend": 1070000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "GOV",
+    "HOM",
+    "AVI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

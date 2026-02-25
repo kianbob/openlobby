@@ -1,0 +1,21 @@
+{
+  "name": "BLOOM ENERGY",
+  "slug": "bloom-energy",
+  "state": "CA",
+  "totalSpend": 860000,
+  "filings": 15,
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    null,
+    "TAX",
+    "ENG"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

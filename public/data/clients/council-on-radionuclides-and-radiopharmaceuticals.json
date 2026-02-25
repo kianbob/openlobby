@@ -1,0 +1,28 @@
+{
+  "name": "COUNCIL ON RADIONUCLIDES AND RADIOPHARMACEUTICALS",
+  "slug": "council-on-radionuclides-and-radiopharmaceuticals",
+  "state": "DC",
+  "totalSpend": 940000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "TRD",
+    "TRA",
+    "CHM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OCCIDENTAL PETROLEUM",
+  "slug": "occidental-petroleum",
+  "state": "DC",
+  "totalSpend": 1170000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    "DEF",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

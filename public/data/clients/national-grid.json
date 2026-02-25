@@ -1,0 +1,30 @@
+{
+  "name": "NATIONAL GRID",
+  "slug": "national-grid",
+  "state": "DC",
+  "totalSpend": 1070000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "ENG",
+    "UTI",
+    "TAX",
+    "HOM",
+    "TRA",
+    "BUD",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

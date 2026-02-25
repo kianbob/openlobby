@@ -1,0 +1,29 @@
+{
+  "name": "UNIVERSITY OF LOUISVILLE",
+  "slug": "university-of-louisville",
+  "state": "KY",
+  "totalSpend": 1250000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "EDU",
+    "HCR",
+    "DEF",
+    null,
+    "DIS",
+    "ENV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

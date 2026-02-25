@@ -1,0 +1,28 @@
+{
+  "name": "AEROJET ROCKETDYNE, AN L3HARRIS TECHNOLOGIES CO (FKA AEROJET ROCKETDYNE INC.)",
+  "slug": "aerojet-rocketdyne-an-l3harris-technologies-co-fka-aerojet-rocketdyne-inc",
+  "state": "CA",
+  "totalSpend": 900000,
+  "filings": 21,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "ENV",
+    "DEF",
+    "AER",
+    "BUD",
+    "TRA",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

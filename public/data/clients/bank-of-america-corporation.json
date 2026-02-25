@@ -1,0 +1,23 @@
+{
+  "name": "BANK OF AMERICA CORPORATION",
+  "slug": "bank-of-america-corporation",
+  "state": "DC",
+  "totalSpend": 820000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    "FIN",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

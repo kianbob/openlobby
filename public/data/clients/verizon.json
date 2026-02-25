@@ -1,0 +1,31 @@
+{
+  "name": "VERIZON",
+  "slug": "verizon",
+  "state": "DC",
+  "totalSpend": 1320000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "TEC",
+    "GOV",
+    "HOM",
+    "BUD",
+    "TRA",
+    "VET",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

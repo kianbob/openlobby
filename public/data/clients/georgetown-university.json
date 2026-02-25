@@ -1,0 +1,21 @@
+{
+  "name": "GEORGETOWN UNIVERSITY",
+  "slug": "georgetown-university",
+  "state": "DC",
+  "totalSpend": 870000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

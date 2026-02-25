@@ -1,0 +1,26 @@
+{
+  "name": "INTOXALOCK",
+  "slug": "intoxalock",
+  "state": "IA",
+  "totalSpend": 940000,
+  "filings": 21,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "BUD",
+    "AUT",
+    "LAW",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

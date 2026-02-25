@@ -1,0 +1,20 @@
+{
+  "name": "SUTTER HEALTH",
+  "slug": "sutter-health",
+  "state": "CA",
+  "totalSpend": 840000,
+  "filings": 12,
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    null,
+    "HCR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

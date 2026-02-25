@@ -1,0 +1,32 @@
+{
+  "name": "TNC (US) HOLDINGS, INC. (FORMERLY NIELSEN)",
+  "slug": "tnc-us-holdings-inc-formerly-nielsen",
+  "state": "DC",
+  "totalSpend": 1090000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "COM",
+    "CSP",
+    "TAX",
+    "BUD",
+    "FOO",
+    "IMM",
+    "LAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

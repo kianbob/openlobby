@@ -1,0 +1,24 @@
+{
+  "name": "SOLANO TRANSPORTATION AUTHORITY",
+  "slug": "solano-transportation-authority",
+  "state": "CA",
+  "totalSpend": 900000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

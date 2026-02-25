@@ -1,0 +1,30 @@
+{
+  "name": "CURATORS OF THE UNIVERSITY OF MISSOURI",
+  "slug": "curators-of-the-university-of-missouri",
+  "state": "MO",
+  "totalSpend": 840000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "VET",
+    "BUD",
+    "EDU",
+    "AGR",
+    "DEF",
+    "LAW",
+    "SCI",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

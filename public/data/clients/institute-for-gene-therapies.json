@@ -1,0 +1,23 @@
+{
+  "name": "INSTITUTE FOR GENE THERAPIES",
+  "slug": "institute-for-gene-therapies",
+  "state": "DC",
+  "totalSpend": 1100000,
+  "filings": 24,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PHOENIX TAILINGS",
+  "slug": "phoenix-tailings",
+  "state": "MA",
+  "totalSpend": 1060000,
+  "filings": 16,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "NAT",
+    "ENG",
+    null,
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

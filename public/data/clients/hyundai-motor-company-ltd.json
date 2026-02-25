@@ -1,0 +1,25 @@
+{
+  "name": "HYUNDAI MOTOR COMPANY, LTD.",
+  "slug": "hyundai-motor-company-ltd",
+  "state": "DC",
+  "totalSpend": 1230000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AUT",
+    "TRD",
+    "ENV",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

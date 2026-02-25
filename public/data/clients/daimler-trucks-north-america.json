@@ -1,0 +1,23 @@
+{
+  "name": "DAIMLER TRUCKS NORTH AMERICA",
+  "slug": "daimler-trucks-north-america",
+  "state": "OR",
+  "totalSpend": 1120000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

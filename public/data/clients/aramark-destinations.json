@@ -1,0 +1,24 @@
+{
+  "name": "ARAMARK DESTINATIONS",
+  "slug": "aramark-destinations",
+  "state": "PA",
+  "totalSpend": 1160000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "IMM",
+    "GOV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

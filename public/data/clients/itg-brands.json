@@ -1,0 +1,24 @@
+{
+  "name": "ITG BRANDS",
+  "slug": "itg-brands",
+  "state": "NC",
+  "totalSpend": 1320000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TOB",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

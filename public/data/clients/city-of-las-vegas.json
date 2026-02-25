@@ -1,0 +1,29 @@
+{
+  "name": "CITY OF LAS VEGAS",
+  "slug": "city-of-las-vegas",
+  "state": "NV",
+  "totalSpend": 1190000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "URB",
+    "HOM",
+    "NAT",
+    "TRA",
+    "BUD",
+    "HOU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

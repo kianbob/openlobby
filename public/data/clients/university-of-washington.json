@@ -1,0 +1,26 @@
+{
+  "name": "UNIVERSITY OF WASHINGTON",
+  "slug": "university-of-washington",
+  "state": "DC",
+  "totalSpend": 921000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "EDU",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

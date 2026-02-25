@@ -1,0 +1,25 @@
+{
+  "name": "ACADEMY OF DOCTORS OF AUDIOLOGY",
+  "slug": "academy-of-doctors-of-audiology",
+  "state": "KY",
+  "totalSpend": 1000000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "LAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

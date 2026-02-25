@@ -1,0 +1,21 @@
+{
+  "name": "VIEW",
+  "slug": "view",
+  "state": "CA",
+  "totalSpend": 850000,
+  "filings": 15,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

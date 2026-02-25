@@ -1,0 +1,39 @@
+{
+  "name": "CA STATE ASSEMBLY",
+  "slug": "ca-state-assembly",
+  "state": "CA",
+  "totalSpend": 1210000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "VET",
+    "BAN",
+    "AGR",
+    "TRA",
+    "TAX",
+    "HCR",
+    "HOU",
+    "IMM",
+    "SCI",
+    "SPO",
+    "DIS",
+    "NAT",
+    "COM",
+    null,
+    "TEC",
+    "GOV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

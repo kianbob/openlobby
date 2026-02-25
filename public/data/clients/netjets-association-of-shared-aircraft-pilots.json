@@ -1,0 +1,30 @@
+{
+  "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS",
+  "slug": "netjets-association-of-shared-aircraft-pilots",
+  "state": "OH",
+  "totalSpend": 830000,
+  "filings": 24,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "AVI",
+    "LBR",
+    "HCR",
+    "TAX",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "AVANCI",
+  "slug": "avanci",
+  "state": "TX",
+  "totalSpend": 860000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

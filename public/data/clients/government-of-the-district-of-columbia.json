@@ -1,0 +1,24 @@
+{
+  "name": "GOVERNMENT OF THE DISTRICT OF COLUMBIA",
+  "slug": "government-of-the-district-of-columbia",
+  "state": "DC",
+  "totalSpend": 930000,
+  "filings": 19,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DOC",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

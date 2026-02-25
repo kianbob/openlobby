@@ -1,0 +1,21 @@
+{
+  "name": "US CHAMBER OF COMMERCE",
+  "slug": "us-chamber-of-commerce",
+  "state": "DC",
+  "totalSpend": 1040000,
+  "filings": 16,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "issues": [
+    "GOV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

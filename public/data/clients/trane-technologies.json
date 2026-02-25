@@ -1,0 +1,32 @@
+{
+  "name": "TRANE TECHNOLOGIES",
+  "slug": "trane-technologies",
+  "state": "DC",
+  "totalSpend": 820000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "ENV",
+    "ENG",
+    "TRA",
+    "HCR",
+    "TRU",
+    "BNK",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

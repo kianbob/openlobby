@@ -1,0 +1,23 @@
+{
+  "name": "ASML US, LLC",
+  "slug": "asml-us-llc",
+  "state": "CT",
+  "totalSpend": 1130000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAN",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "STATE FARM",
+  "slug": "state-farm",
+  "state": "DC",
+  "totalSpend": 853000,
+  "filings": 23,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "INS",
+    "LBR",
+    "FIN",
+    "TAX",
+    "DIS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

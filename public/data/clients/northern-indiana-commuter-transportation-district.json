@@ -1,0 +1,28 @@
+{
+  "name": "NORTHERN INDIANA COMMUTER TRANSPORTATION DISTRICT",
+  "slug": "northern-indiana-commuter-transportation-district",
+  "state": "IN",
+  "totalSpend": 840000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "BUD",
+    "HOM",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

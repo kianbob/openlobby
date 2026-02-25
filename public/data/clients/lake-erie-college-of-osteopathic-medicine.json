@@ -1,0 +1,29 @@
+{
+  "name": "LAKE ERIE COLLEGE OF OSTEOPATHIC MEDICINE",
+  "slug": "lake-erie-college-of-osteopathic-medicine",
+  "state": "PA",
+  "totalSpend": 1210000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "BUD",
+    "EDU",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

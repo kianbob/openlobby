@@ -1,0 +1,24 @@
+{
+  "name": "S&P GLOBAL (FORMERLY MCGRAW HILL FINANCIAL)",
+  "slug": "s-p-global-formerly-mcgraw-hill-financial",
+  "state": "NY",
+  "totalSpend": 1115000,
+  "filings": 15,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "issues": [
+    "TRA",
+    "CDT",
+    "BUD",
+    "FIN"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

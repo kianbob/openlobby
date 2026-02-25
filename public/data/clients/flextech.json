@@ -1,0 +1,25 @@
+{
+  "name": "FLEXTECH",
+  "slug": "flextech",
+  "state": "CA",
+  "totalSpend": 937500,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

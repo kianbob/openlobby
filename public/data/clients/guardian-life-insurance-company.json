@@ -1,0 +1,26 @@
+{
+  "name": "GUARDIAN LIFE INSURANCE COMPANY",
+  "slug": "guardian-life-insurance-company",
+  "state": "DC",
+  "totalSpend": 1320000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "CSP",
+    "INS",
+    null,
+    "RET"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

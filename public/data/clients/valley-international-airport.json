@@ -1,0 +1,29 @@
+{
+  "name": "VALLEY INTERNATIONAL AIRPORT",
+  "slug": "valley-international-airport",
+  "state": "TX",
+  "totalSpend": 822000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AVI",
+    "TRA",
+    "HOM",
+    null,
+    "GOV",
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

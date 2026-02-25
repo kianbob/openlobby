@@ -1,0 +1,22 @@
+{
+  "name": "DANAHER CORPORATION",
+  "slug": "danaher-corporation",
+  "state": "DC",
+  "totalSpend": 1000000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    null,
+    "HCR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

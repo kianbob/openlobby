@@ -1,0 +1,25 @@
+{
+  "name": "VENNTEL, INC.",
+  "slug": "venntel-inc",
+  "state": "VA",
+  "totalSpend": 1250000,
+  "filings": 24,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CSP",
+    "CPI",
+    null,
+    "TRA"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "JUUL LABS",
+  "slug": "juul-labs",
+  "state": "DC",
+  "totalSpend": 1150000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

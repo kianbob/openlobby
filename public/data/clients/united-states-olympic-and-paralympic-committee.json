@@ -1,0 +1,32 @@
+{
+  "name": "UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE",
+  "slug": "united-states-olympic-and-paralympic-committee",
+  "state": "CO",
+  "totalSpend": 1150000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TOU",
+    "HOM",
+    "IMM",
+    "SPO",
+    "BUD",
+    "SMB",
+    null,
+    "AGR",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

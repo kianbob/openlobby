@@ -1,0 +1,24 @@
+{
+  "name": "PROVIDENCE ST. JOSEPH HEALTH",
+  "slug": "providence-st-joseph-health",
+  "state": "WA",
+  "totalSpend": 1090000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

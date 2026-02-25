@@ -1,0 +1,25 @@
+{
+  "name": "IPC",
+  "slug": "ipc",
+  "state": "IL",
+  "totalSpend": 830000,
+  "filings": 17,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "issues": [
+    "MAN",
+    "ENV",
+    "TRD",
+    "DEF",
+    "LBR",
+    "EDU"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

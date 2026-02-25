@@ -1,0 +1,23 @@
+{
+  "name": "STERIS CORPORATION",
+  "slug": "steris-corporation",
+  "state": "OH",
+  "totalSpend": 970000,
+  "filings": 20,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "ENV",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

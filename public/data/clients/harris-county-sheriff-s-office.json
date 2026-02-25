@@ -1,0 +1,24 @@
+{
+  "name": "HARRIS COUNTY SHERIFF'S OFFICE",
+  "slug": "harris-county-sheriff-s-office",
+  "state": "TX",
+  "totalSpend": 930000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "DENVER HEALTH AND HOSPITAL AUTHORITY",
+  "slug": "denver-health-and-hospital-authority",
+  "state": "CO",
+  "totalSpend": 1080000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

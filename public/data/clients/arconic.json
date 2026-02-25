@@ -1,0 +1,27 @@
+{
+  "name": "ARCONIC",
+  "slug": "arconic",
+  "state": "PA",
+  "totalSpend": 940000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "ENG",
+    "MAN",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

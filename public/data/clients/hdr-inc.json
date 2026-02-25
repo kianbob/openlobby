@@ -1,0 +1,28 @@
+{
+  "name": "HDR, INC.",
+  "slug": "hdr-inc",
+  "state": "NE",
+  "totalSpend": 1090000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "TAX",
+    "LBR",
+    null,
+    "TRA"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

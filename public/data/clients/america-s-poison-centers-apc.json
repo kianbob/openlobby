@@ -1,0 +1,25 @@
+{
+  "name": "AMERICA'S POISON CENTERS (APC)",
+  "slug": "america-s-poison-centers-apc",
+  "state": "VA",
+  "totalSpend": 1140000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "BLOCK, INC. (FORMERLY REPORTED AS SQUARE, INC.)",
+  "slug": "block-inc-formerly-reported-as-square-inc",
+  "state": "CA",
+  "totalSpend": 1000000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "FIN",
+    "BAN",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

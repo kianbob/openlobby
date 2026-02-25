@@ -1,0 +1,28 @@
+{
+  "name": "METROPOLITAN WATER RECLAMATION DISTRICT OF GREATER CHICAGO",
+  "slug": "metropolitan-water-reclamation-district-of-greater-chicago",
+  "state": "IL",
+  "totalSpend": 1290000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "URB",
+    "BUD",
+    "CAW",
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "COLLIER COUNTY, FLORIDA",
+  "slug": "collier-county-florida",
+  "state": "FL",
+  "totalSpend": 900000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    "HOM",
+    "NAT",
+    "ECN",
+    "AVI",
+    "BUD",
+    "DIS",
+    "VET",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

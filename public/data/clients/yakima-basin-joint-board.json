@@ -1,0 +1,27 @@
+{
+  "name": "YAKIMA BASIN JOINT BOARD",
+  "slug": "yakima-basin-joint-board",
+  "state": "WA",
+  "totalSpend": 1100000,
+  "filings": 35,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "CAW",
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "APIJECT SYSTEMS CORP.",
+  "slug": "apiject-systems-corp",
+  "state": "CT",
+  "totalSpend": 1080000,
+  "filings": 18,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MED",
+    "BUD",
+    null,
+    "HCR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

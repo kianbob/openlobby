@@ -1,0 +1,30 @@
+{
+  "name": "RESNET",
+  "slug": "resnet",
+  "state": "CA",
+  "totalSpend": 850000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SMB",
+    "TAX",
+    "HOU",
+    "ENG",
+    null,
+    "VET",
+    "NAT"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

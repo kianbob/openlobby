@@ -1,0 +1,28 @@
+{
+  "name": "BEER INSTITUTE",
+  "slug": "beer-institute",
+  "state": "DC",
+  "totalSpend": 1130000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "BEV",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

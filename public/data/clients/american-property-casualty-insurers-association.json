@@ -1,0 +1,31 @@
+{
+  "name": "AMERICAN PROPERTY CASUALTY INSURERS ASSOCIATION",
+  "slug": "american-property-casualty-insurers-association",
+  "state": "DC",
+  "totalSpend": 1240000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOU",
+    "INS",
+    "FIN",
+    "TRA",
+    "ROD",
+    null,
+    "TAX",
+    "TOR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

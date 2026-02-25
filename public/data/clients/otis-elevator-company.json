@@ -1,0 +1,24 @@
+{
+  "name": "OTIS ELEVATOR COMPANY",
+  "slug": "otis-elevator-company",
+  "state": "CT",
+  "totalSpend": 1280000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

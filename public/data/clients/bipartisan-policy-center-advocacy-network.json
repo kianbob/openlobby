@@ -1,0 +1,35 @@
+{
+  "name": "BIPARTISAN POLICY CENTER ADVOCACY NETWORK",
+  "slug": "bipartisan-policy-center-advocacy-network",
+  "state": "DC",
+  "totalSpend": 960000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "IMM",
+    "GOV",
+    "SCI",
+    "ENV",
+    "LBR",
+    "TRA",
+    "BUD",
+    "AER",
+    "FOR",
+    "SMB",
+    null,
+    "ENG"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

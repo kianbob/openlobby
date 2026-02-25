@@ -1,0 +1,31 @@
+{
+  "name": "THE SHERWIN-WILLIAMS COMPANY",
+  "slug": "the-sherwin-williams-company",
+  "state": "OH",
+  "totalSpend": 1250000,
+  "filings": 20,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "TAX",
+    "CHM",
+    "LBR",
+    "HOU",
+    "HOM",
+    "TRA",
+    null,
+    "ENV",
+    "DEF",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

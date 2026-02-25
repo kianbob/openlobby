@@ -1,0 +1,23 @@
+{
+  "name": "IRIDIUM COMMUNICATIONS",
+  "slug": "iridium-communications",
+  "state": "VA",
+  "totalSpend": 990000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

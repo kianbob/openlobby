@@ -1,0 +1,26 @@
+{
+  "name": "M&T BANK CORPORATION",
+  "slug": "m-t-bank-corporation",
+  "state": "NY",
+  "totalSpend": 880000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    "FIN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

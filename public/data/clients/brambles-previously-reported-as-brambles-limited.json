@@ -1,0 +1,25 @@
+{
+  "name": "BRAMBLES (PREVIOUSLY REPORTED AS BRAMBLES LIMITED)",
+  "slug": "brambles-previously-reported-as-brambles-limited",
+  "state": "FL",
+  "totalSpend": 925000,
+  "filings": 12,
+  "years": [
+    2018,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FOO",
+    null,
+    "TRU",
+    "LAW",
+    "ENV",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

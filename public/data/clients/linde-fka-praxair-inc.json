@@ -1,0 +1,31 @@
+{
+  "name": "LINDE (FKA PRAXAIR INC )",
+  "slug": "linde-fka-praxair-inc",
+  "state": "CT",
+  "totalSpend": 1040000,
+  "filings": 14,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    "BUD",
+    "ECN",
+    "NAT",
+    "CPT",
+    "HCR",
+    "ENV",
+    "ENG",
+    "DIS",
+    "DEF",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

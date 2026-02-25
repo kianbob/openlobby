@@ -1,0 +1,26 @@
+{
+  "name": "STUBHUB",
+  "slug": "stubhub",
+  "state": "DC",
+  "totalSpend": 830000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPI",
+    "ART",
+    "CSP",
+    null,
+    "LBR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

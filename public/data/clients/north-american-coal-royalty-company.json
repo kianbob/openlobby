@@ -1,0 +1,24 @@
+{
+  "name": "NORTH AMERICAN COAL ROYALTY COMPANY",
+  "slug": "north-american-coal-royalty-company",
+  "state": "ND",
+  "totalSpend": 870000,
+  "filings": 22,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "NAT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

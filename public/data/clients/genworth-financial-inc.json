@@ -1,0 +1,29 @@
+{
+  "name": "GENWORTH FINANCIAL, INC.",
+  "slug": "genworth-financial-inc",
+  "state": "DC",
+  "totalSpend": 870000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BAN",
+    "FIN",
+    "HOU",
+    "INS",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

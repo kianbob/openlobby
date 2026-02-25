@@ -1,0 +1,33 @@
+{
+  "name": "RETAIL INDUSTRY LEADERS ASSOCIATION (RILA)",
+  "slug": "retail-industry-leaders-association-rila",
+  "state": "DC",
+  "totalSpend": 1150000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "LBR",
+    "BUD",
+    "CSP",
+    "INS",
+    "LAW",
+    "GOV",
+    null,
+    "BAN"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

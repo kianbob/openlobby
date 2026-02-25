@@ -1,0 +1,39 @@
+{
+  "name": "CITY OF MESA",
+  "slug": "city-of-mesa",
+  "state": null,
+  "totalSpend": 1310000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "IMM",
+    "URB",
+    "TEC",
+    "HOU",
+    "AVI",
+    "TAX",
+    "BUD",
+    "TRA",
+    "ENG",
+    "ECN",
+    "ENV",
+    "HCR",
+    "RES",
+    "TRD",
+    "HOM",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

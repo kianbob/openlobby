@@ -1,0 +1,31 @@
+{
+  "name": "UI LABS D/B/A MXD",
+  "slug": "ui-labs-d-b-a-mxd",
+  "state": "IL",
+  "totalSpend": 960000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "ECN",
+    "BUD",
+    "SCI",
+    "HCR",
+    "LBR",
+    null,
+    "HOM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

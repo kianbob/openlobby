@@ -1,0 +1,24 @@
+{
+  "name": "DAIICHI SANKYO INC",
+  "slug": "daiichi-sankyo-inc",
+  "state": "NJ",
+  "totalSpend": 1090000,
+  "filings": 24,
+  "years": [
+    2018,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "URANIUM ENERGY CORPORATION",
+  "slug": "uranium-energy-corporation",
+  "state": "TX",
+  "totalSpend": 960000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

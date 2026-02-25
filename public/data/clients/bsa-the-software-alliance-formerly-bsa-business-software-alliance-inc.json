@@ -1,0 +1,37 @@
+{
+  "name": "BSA THE SOFTWARE ALLIANCE (FORMERLY BSA BUSINESS SOFTWARE ALLIANCE INC)",
+  "slug": "bsa-the-software-alliance-formerly-bsa-business-software-alliance-inc",
+  "state": "DC",
+  "totalSpend": 1020000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "CPT",
+    "HOM",
+    "BUD",
+    "CPI",
+    "TAX",
+    "EDU",
+    "SCI",
+    "FIN",
+    "DEF",
+    "IMM",
+    "INT",
+    "LAW",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

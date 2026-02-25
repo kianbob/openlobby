@@ -1,0 +1,26 @@
+{
+  "name": "COLONIAL PIPELINE COMPANY",
+  "slug": "colonial-pipeline-company",
+  "state": "GA",
+  "totalSpend": 1190000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

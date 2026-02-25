@@ -1,0 +1,27 @@
+{
+  "name": "AMERICAN ASSOCIATION OF ORTHODONTISTS",
+  "slug": "american-association-of-orthodontists",
+  "state": "MO",
+  "totalSpend": 910000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "HCR",
+    "SCI",
+    "EDU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

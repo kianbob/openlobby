@@ -1,0 +1,25 @@
+{
+  "name": "TSMC ARIZONA",
+  "slug": "tsmc-arizona",
+  "state": "AZ",
+  "totalSpend": 830000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "CPI",
+    null,
+    "BUD",
+    "ENV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "CALIFORNIA RESOURCES CORPORATION",
+  "slug": "california-resources-corporation",
+  "state": "CA",
+  "totalSpend": 900000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

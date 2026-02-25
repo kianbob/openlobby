@@ -1,0 +1,30 @@
+{
+  "name": "ZOOM VIDEO COMMUNICATION INC.",
+  "slug": "zoom-video-communication-inc",
+  "state": "CA",
+  "totalSpend": 1270000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CSP",
+    "CPI",
+    "TEC",
+    "TRD",
+    "EDU",
+    "HCR",
+    null,
+    "LBR",
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

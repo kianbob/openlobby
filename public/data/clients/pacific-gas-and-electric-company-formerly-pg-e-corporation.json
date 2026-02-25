@@ -1,0 +1,27 @@
+{
+  "name": "PACIFIC GAS AND ELECTRIC COMPANY (FORMERLY PG&E CORPORATION)",
+  "slug": "pacific-gas-and-electric-company-formerly-pg-e-corporation",
+  "state": "DC",
+  "totalSpend": 960000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "UTI",
+    null,
+    "CPI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

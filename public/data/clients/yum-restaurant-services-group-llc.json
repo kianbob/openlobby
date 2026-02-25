@@ -1,0 +1,29 @@
+{
+  "name": "YUM RESTAURANT SERVICES GROUP, LLC",
+  "slug": "yum-restaurant-services-group-llc",
+  "state": "KY",
+  "totalSpend": 950000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FOO",
+    "TAX",
+    "TEC",
+    "ENV",
+    "AGR",
+    "LBR",
+    null,
+    "TRD",
+    "TAR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

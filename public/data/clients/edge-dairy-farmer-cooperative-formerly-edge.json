@@ -1,0 +1,29 @@
+{
+  "name": "EDGE DAIRY FARMER COOPERATIVE (FORMERLY EDGE)",
+  "slug": "edge-dairy-farmer-cooperative-formerly-edge",
+  "state": "WI",
+  "totalSpend": 1190000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "IMM",
+    "AGR",
+    "TRD",
+    "ENV",
+    "FOO",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

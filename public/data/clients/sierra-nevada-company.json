@@ -1,0 +1,27 @@
+{
+  "name": "SIERRA NEVADA COMPANY",
+  "slug": "sierra-nevada-company",
+  "state": "NV",
+  "totalSpend": 1150000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "DEF",
+    "LAW",
+    "HOM",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

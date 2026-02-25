@@ -1,0 +1,25 @@
+{
+  "name": "SOUTHERN AIRWAYS EXPRESS",
+  "slug": "southern-airways-express",
+  "state": "FL",
+  "totalSpend": 1050000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AVI",
+    null,
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

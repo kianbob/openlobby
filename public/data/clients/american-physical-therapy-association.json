@@ -1,0 +1,26 @@
+{
+  "name": "AMERICAN PHYSICAL THERAPY ASSOCIATION",
+  "slug": "american-physical-therapy-association",
+  "state": "VA",
+  "totalSpend": 910000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "SMB",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

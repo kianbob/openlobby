@@ -1,0 +1,26 @@
+{
+  "name": "DIAMOND PET FOODS INC.",
+  "slug": "diamond-pet-foods-inc",
+  "state": "MO",
+  "totalSpend": 1190000,
+  "filings": 21,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FOO",
+    "ANI",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BLUEBIRD BIO",
+  "slug": "bluebird-bio",
+  "state": "DC",
+  "totalSpend": 850000,
+  "filings": 15,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "BUD",
+    "GOV"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

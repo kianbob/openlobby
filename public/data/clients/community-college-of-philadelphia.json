@@ -1,0 +1,24 @@
+{
+  "name": "COMMUNITY COLLEGE OF PHILADELPHIA",
+  "slug": "community-college-of-philadelphia",
+  "state": "PA",
+  "totalSpend": 940000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "EDU",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

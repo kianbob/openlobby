@@ -1,0 +1,27 @@
+{
+  "name": "NUVANCE HEALTH / HEALTH QUEST",
+  "slug": "nuvance-health-health-quest",
+  "state": "NY",
+  "totalSpend": 1266250,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    null,
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

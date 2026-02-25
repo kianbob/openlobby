@@ -1,0 +1,27 @@
+{
+  "name": "PREMIER BANKCARD, LLC",
+  "slug": "premier-bankcard-llc",
+  "state": "SD",
+  "totalSpend": 876000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "TEC",
+    "CSP",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

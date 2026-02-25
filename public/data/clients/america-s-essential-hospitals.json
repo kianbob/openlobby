@@ -1,0 +1,25 @@
+{
+  "name": "AMERICA'S ESSENTIAL HOSPITALS",
+  "slug": "america-s-essential-hospitals",
+  "state": "DC",
+  "totalSpend": 895000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

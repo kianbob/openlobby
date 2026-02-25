@@ -1,0 +1,26 @@
+{
+  "name": "PERMA-FIX ENVIRONMENTAL SERVICES",
+  "slug": "perma-fix-environmental-services",
+  "state": "GA",
+  "totalSpend": 1070000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "WAS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

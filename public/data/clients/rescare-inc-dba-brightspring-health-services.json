@@ -1,0 +1,31 @@
+{
+  "name": "RESCARE INC (DBA BRIGHTSPRING HEALTH SERVICES)",
+  "slug": "rescare-inc-dba-brightspring-health-services",
+  "state": "KY",
+  "totalSpend": 1030000,
+  "filings": 23,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "MMM",
+    "LBR",
+    "VET",
+    "SMB",
+    "HCR",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

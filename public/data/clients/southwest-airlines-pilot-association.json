@@ -1,0 +1,31 @@
+{
+  "name": "SOUTHWEST AIRLINES PILOT ASSOCIATION",
+  "slug": "southwest-airlines-pilot-association",
+  "state": "TX",
+  "totalSpend": 1220000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "LBR",
+    "TRA",
+    "AVI",
+    "TAX",
+    "HCR",
+    "BUD",
+    "HOM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

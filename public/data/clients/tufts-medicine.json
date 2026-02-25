@@ -1,0 +1,23 @@
+{
+  "name": "TUFTS MEDICINE",
+  "slug": "tufts-medicine",
+  "state": "MA",
+  "totalSpend": 1320000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ARDENT MILLS, LLC",
+  "slug": "ardent-mills-llc",
+  "state": "CO",
+  "totalSpend": 1090000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AGR",
+    "FOO",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

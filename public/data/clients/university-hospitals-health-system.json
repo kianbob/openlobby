@@ -1,0 +1,29 @@
+{
+  "name": "UNIVERSITY HOSPITALS HEALTH SYSTEM",
+  "slug": "university-hospitals-health-system",
+  "state": "OH",
+  "totalSpend": 830000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "MMM",
+    "BUD",
+    "MED",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

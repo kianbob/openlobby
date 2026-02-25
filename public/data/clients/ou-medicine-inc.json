@@ -1,0 +1,28 @@
+{
+  "name": "OU MEDICINE, INC.",
+  "slug": "ou-medicine-inc",
+  "state": "OK",
+  "totalSpend": 930000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "AER",
+    "BUD",
+    "HCR",
+    null,
+    "MED",
+    "MMM",
+    "TRA"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

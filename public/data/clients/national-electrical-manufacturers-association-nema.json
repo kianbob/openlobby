@@ -1,0 +1,31 @@
+{
+  "name": "NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION (NEMA)",
+  "slug": "national-electrical-manufacturers-association-nema",
+  "state": "VA",
+  "totalSpend": 1040000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "TRA",
+    "TAX",
+    "ENG",
+    "ENV",
+    "BUD",
+    "HOU",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

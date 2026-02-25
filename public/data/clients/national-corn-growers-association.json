@@ -1,0 +1,27 @@
+{
+  "name": "NATIONAL CORN GROWERS ASSOCIATION",
+  "slug": "national-corn-growers-association",
+  "state": "DC",
+  "totalSpend": 840000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FUE",
+    null,
+    "AGR",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

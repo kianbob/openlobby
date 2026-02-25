@@ -1,0 +1,21 @@
+{
+  "name": "ATA ACTION",
+  "slug": "ata-action",
+  "state": "VA",
+  "totalSpend": 880000,
+  "filings": 13,
+  "years": [
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

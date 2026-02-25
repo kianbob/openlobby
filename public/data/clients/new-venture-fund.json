@@ -1,0 +1,27 @@
+{
+  "name": "NEW VENTURE FUND",
+  "slug": "new-venture-fund",
+  "state": "DC",
+  "totalSpend": 1080000,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "MMM",
+    "FAM",
+    "HCR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

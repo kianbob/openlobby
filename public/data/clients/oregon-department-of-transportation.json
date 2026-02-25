@@ -1,0 +1,27 @@
+{
+  "name": "OREGON DEPARTMENT OF TRANSPORTATION",
+  "slug": "oregon-department-of-transportation",
+  "state": "OR",
+  "totalSpend": 896980,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "BUD",
+    "HOM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

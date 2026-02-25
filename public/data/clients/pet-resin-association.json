@@ -1,0 +1,24 @@
+{
+  "name": "PET RESIN ASSOCIATION",
+  "slug": "pet-resin-association",
+  "state": "NY",
+  "totalSpend": 1290000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "ENV",
+    "WAS",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

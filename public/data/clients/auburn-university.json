@@ -1,0 +1,41 @@
+{
+  "name": "AUBURN UNIVERSITY",
+  "slug": "auburn-university",
+  "state": "AL",
+  "totalSpend": 980000,
+  "filings": 19,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ANI",
+    "DEF",
+    "HCR",
+    "INT",
+    "AER",
+    "MAN",
+    "AGR",
+    "TRA",
+    "SCI",
+    "VET",
+    "MAR",
+    "HOM",
+    "BUD",
+    "ENG",
+    "EDU",
+    null,
+    "ENV",
+    "HOU",
+    "AVI",
+    "RES"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

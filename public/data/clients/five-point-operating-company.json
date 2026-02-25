@@ -1,0 +1,23 @@
+{
+  "name": "FIVE POINT OPERATING COMPANY",
+  "slug": "five-point-operating-company",
+  "state": "CA",
+  "totalSpend": 1005000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ECN",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "FMC CORPORATION",
+  "slug": "fmc-corporation",
+  "state": "DC",
+  "totalSpend": 1070000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "ENV",
+    "TRD",
+    "AGR",
+    "BUD",
+    "HCR",
+    "LBR",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

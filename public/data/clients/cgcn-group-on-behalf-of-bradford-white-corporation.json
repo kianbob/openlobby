@@ -1,0 +1,32 @@
+{
+  "name": "CGCN GROUP ON BEHALF OF BRADFORD WHITE CORPORATION",
+  "slug": "cgcn-group-on-behalf-of-bradford-white-corporation",
+  "state": "DC",
+  "totalSpend": 1180000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "ENV",
+    "TAX",
+    "LBR",
+    "ENG",
+    "MAN",
+    "TRA",
+    "DIS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

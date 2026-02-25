@@ -1,0 +1,29 @@
+{
+  "name": "ASSOCIATION FOR MOLECULAR PATHOLOGY",
+  "slug": "association-for-molecular-pathology",
+  "state": "MD",
+  "totalSpend": 1311000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    "MED",
+    "CPT",
+    "HCR",
+    "CSP",
+    null,
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

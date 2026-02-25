@@ -1,0 +1,30 @@
+{
+  "name": "TULE RIVER TRIBE",
+  "slug": "tule-river-tribe",
+  "state": "CA",
+  "totalSpend": 834060,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "IND",
+    "GOV",
+    "NAT",
+    "GAM",
+    "ENV",
+    "RES",
+    "HCR",
+    null,
+    "DIS"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

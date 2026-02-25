@@ -1,0 +1,30 @@
+{
+  "name": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES",
+  "slug": "national-association-of-mutual-insurance-companies",
+  "state": "DC",
+  "totalSpend": 870000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "TRA",
+    "HOM",
+    "BUD",
+    "INS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "FOOD FIX CAMPAIGN ACTION, INC.",
+  "slug": "food-fix-campaign-action-inc",
+  "state": "IL",
+  "totalSpend": 1300000,
+  "filings": 15,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "AGR",
+    "BUD",
+    null,
+    "DEF"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

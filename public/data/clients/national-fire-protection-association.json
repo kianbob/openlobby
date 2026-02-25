@@ -1,0 +1,23 @@
+{
+  "name": "NATIONAL FIRE PROTECTION ASSOCIATION",
+  "slug": "national-fire-protection-association",
+  "state": "MA",
+  "totalSpend": 960000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "GOV",
+    "CPT",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

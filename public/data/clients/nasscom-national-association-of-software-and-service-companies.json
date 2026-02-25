@@ -1,0 +1,24 @@
+{
+  "name": "NASSCOM (NATIONAL ASSOCIATION OF SOFTWARE AND SERVICE COMPANIES)",
+  "slug": "nasscom-national-association-of-software-and-service-companies",
+  "state": null,
+  "totalSpend": 1300000,
+  "filings": 10,
+  "years": [
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "EDU",
+    "IMM",
+    "SCI",
+    "TRD",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

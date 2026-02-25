@@ -1,0 +1,24 @@
+{
+  "name": "TRIDENT USA HEALTH SERVICES",
+  "slug": "trident-usa-health-services",
+  "state": "CA",
+  "totalSpend": 1150000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

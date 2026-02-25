@@ -1,0 +1,24 @@
+{
+  "name": "AMERICAN BUREAU OF SHIPPING",
+  "slug": "american-bureau-of-shipping",
+  "state": "TX",
+  "totalSpend": 910000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MAR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

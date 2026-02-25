@@ -1,0 +1,34 @@
+{
+  "name": "COVESTRO LLC",
+  "slug": "covestro-llc",
+  "state": "PA",
+  "totalSpend": 920000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "GOV",
+    "ENG",
+    "TAR",
+    "TRD",
+    "TAX",
+    "BUD",
+    "ENV",
+    "CHM",
+    "TRA",
+    "IMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

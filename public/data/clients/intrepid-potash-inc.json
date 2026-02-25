@@ -1,0 +1,24 @@
+{
+  "name": "INTREPID POTASH INC.",
+  "slug": "intrepid-potash-inc",
+  "state": "CO",
+  "totalSpend": 860000,
+  "filings": 20,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "NAT",
+    "FIN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

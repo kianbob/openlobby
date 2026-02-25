@@ -1,0 +1,30 @@
+{
+  "name": "PYXUS INTERNATIONAL, INC.",
+  "slug": "pyxus-international-inc",
+  "state": "NC",
+  "totalSpend": 1260000,
+  "filings": 21,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "POS",
+    "AGR",
+    "IMM",
+    "TOB",
+    "LBR",
+    "TAX",
+    "HCR",
+    "TRD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

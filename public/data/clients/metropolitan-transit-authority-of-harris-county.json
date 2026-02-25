@@ -1,0 +1,26 @@
+{
+  "name": "METROPOLITAN TRANSIT AUTHORITY OF HARRIS COUNTY",
+  "slug": "metropolitan-transit-authority-of-harris-county",
+  "state": "TX",
+  "totalSpend": 1220000,
+  "filings": 25,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "DIS",
+    "TRA",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

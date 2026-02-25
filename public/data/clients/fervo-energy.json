@@ -1,0 +1,23 @@
+{
+  "name": "FERVO ENERGY",
+  "slug": "fervo-energy",
+  "state": "TX",
+  "totalSpend": 1240000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

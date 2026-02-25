@@ -1,0 +1,31 @@
+{
+  "name": "CLACKAMAS COUNTY, OR",
+  "slug": "clackamas-county-or",
+  "state": "OR",
+  "totalSpend": 1310000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOU",
+    "ECN",
+    "MAR",
+    "ENV",
+    "TRA",
+    "NAT",
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

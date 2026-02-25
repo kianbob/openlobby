@@ -1,0 +1,30 @@
+{
+  "name": "RICE UNIVERSITY",
+  "slug": "rice-university",
+  "state": "TX",
+  "totalSpend": 970000,
+  "filings": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    "ENG",
+    "EDU",
+    "DEF",
+    "BUD",
+    "FOR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

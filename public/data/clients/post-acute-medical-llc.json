@@ -1,0 +1,24 @@
+{
+  "name": "POST ACUTE MEDICAL, LLC",
+  "slug": "post-acute-medical-llc",
+  "state": "PA",
+  "totalSpend": 940000,
+  "filings": 15,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

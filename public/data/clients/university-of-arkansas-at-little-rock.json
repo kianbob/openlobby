@@ -1,0 +1,30 @@
+{
+  "name": "UNIVERSITY OF ARKANSAS AT LITTLE ROCK",
+  "slug": "university-of-arkansas-at-little-rock",
+  "state": null,
+  "totalSpend": 960000,
+  "filings": 32,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SMB",
+    "HOM",
+    "DEF",
+    "AGR",
+    "ENG",
+    null,
+    "SCI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

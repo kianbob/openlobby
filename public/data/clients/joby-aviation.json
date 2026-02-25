@@ -1,0 +1,28 @@
+{
+  "name": "JOBY AVIATION",
+  "slug": "joby-aviation",
+  "state": "CA",
+  "totalSpend": 930000,
+  "filings": 19,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "AVI",
+    "ENG",
+    "TRA",
+    "GOV",
+    "BUD",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ACADIA HEALTHCARE",
+  "slug": "acadia-healthcare",
+  "state": "TN",
+  "totalSpend": 840000,
+  "filings": 14,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

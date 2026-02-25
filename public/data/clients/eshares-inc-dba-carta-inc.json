@@ -1,0 +1,25 @@
+{
+  "name": "ESHARES, INC. DBA CARTA, INC.",
+  "slug": "eshares-inc-dba-carta-inc",
+  "state": "CA",
+  "totalSpend": 930000,
+  "filings": 15,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "FIN",
+    "SMB",
+    "TAX",
+    "RET",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

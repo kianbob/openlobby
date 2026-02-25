@@ -1,0 +1,39 @@
+{
+  "name": "ASSOCIATION FOR THE IMPROVEMENT OF AMERICAN INFRASTRUCTURE",
+  "slug": "association-for-the-improvement-of-american-infrastructure",
+  "state": "NY",
+  "totalSpend": 1040000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TAX",
+    "TRA",
+    "BUD",
+    "CAW",
+    "GOV",
+    "AVI",
+    "RRR",
+    "LBR",
+    "VET",
+    "DEF",
+    "ENV",
+    "CIV",
+    "ECN",
+    "ENG",
+    null,
+    "HOU",
+    "EDU"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "THE BROADWAY LEAGUE",
+  "slug": "the-broadway-league",
+  "state": "NY",
+  "totalSpend": 1230000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "ART",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

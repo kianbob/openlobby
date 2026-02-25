@@ -1,0 +1,23 @@
+{
+  "name": "CLECO POWER LLC",
+  "slug": "cleco-power-llc",
+  "state": "LA",
+  "totalSpend": 1260000,
+  "filings": 20,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

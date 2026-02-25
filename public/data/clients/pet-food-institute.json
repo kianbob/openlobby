@@ -1,0 +1,23 @@
+{
+  "name": "PET FOOD INSTITUTE",
+  "slug": "pet-food-institute",
+  "state": "DC",
+  "totalSpend": 1240000,
+  "filings": 16,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "FOO",
+    "ANI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

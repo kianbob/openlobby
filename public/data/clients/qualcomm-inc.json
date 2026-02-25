@@ -1,0 +1,24 @@
+{
+  "name": "QUALCOMM, INC.",
+  "slug": "qualcomm-inc",
+  "state": "DC",
+  "totalSpend": 940000,
+  "filings": 18,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "BUD",
+    null,
+    "CPI"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "NOMI HEALTH",
+  "slug": "nomi-health",
+  "state": "UT",
+  "totalSpend": 1070000,
+  "filings": 13,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

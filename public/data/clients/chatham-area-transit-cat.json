@@ -1,0 +1,26 @@
+{
+  "name": "CHATHAM AREA TRANSIT (CAT)",
+  "slug": "chatham-area-transit-cat",
+  "state": "GA",
+  "totalSpend": 1090000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

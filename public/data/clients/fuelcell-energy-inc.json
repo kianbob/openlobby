@@ -1,0 +1,24 @@
+{
+  "name": "FUELCELL ENERGY, INC.",
+  "slug": "fuelcell-energy-inc",
+  "state": "CT",
+  "totalSpend": 960000,
+  "filings": 25,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "NATIONAL PORK PRODUCERS COUNCIL",
+  "slug": "national-pork-producers-council",
+  "state": "DC",
+  "totalSpend": 1120000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "AGR",
+    "IMM",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "NEW FLYER OF AMERICA INC.",
+  "slug": "new-flyer-of-america-inc",
+  "state": "MN",
+  "totalSpend": 890000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "TRA",
+    "TRD",
+    "MAN",
+    "TAX",
+    null,
+    "TAR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

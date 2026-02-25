@@ -1,0 +1,30 @@
+{
+  "name": "CISCO SYSTEMS",
+  "slug": "cisco-systems",
+  "state": "DC",
+  "totalSpend": 970000,
+  "filings": 20,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPI",
+    "MAN",
+    "TEC",
+    "TAX",
+    "CPT",
+    "DEF",
+    null,
+    "BUD",
+    "SCI",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

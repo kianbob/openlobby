@@ -1,0 +1,23 @@
+{
+  "name": "ADAPTIVE BIOTECHNOLOGIES",
+  "slug": "adaptive-biotechnologies",
+  "state": "WA",
+  "totalSpend": 850000,
+  "filings": 13,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

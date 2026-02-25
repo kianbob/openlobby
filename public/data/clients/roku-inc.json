@@ -1,0 +1,29 @@
+{
+  "name": "ROKU, INC.",
+  "slug": "roku-inc",
+  "state": "CA",
+  "totalSpend": 940000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "COM",
+    "LBR",
+    "TEC",
+    null,
+    "CSP",
+    "CPT",
+    "MIA",
+    "ADV",
+    "TRD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "PLANET LABS PBC (FORMERLY PLANET LABS FEDERAL INC.)",
+  "slug": "planet-labs-pbc-formerly-planet-labs-federal-inc",
+  "state": "DC",
+  "totalSpend": 830000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRA",
+    "BUD",
+    "SCI",
+    "NAT",
+    "AGR",
+    null,
+    "HOM",
+    "DIS"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

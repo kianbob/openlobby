@@ -1,0 +1,29 @@
+{
+  "name": "MORGAN CITY HARBOR AND TERMINAL DISTRICT",
+  "slug": "morgan-city-harbor-and-terminal-district",
+  "state": "LA",
+  "totalSpend": 840000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TRD",
+    "TRU",
+    "ECN",
+    "MAR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

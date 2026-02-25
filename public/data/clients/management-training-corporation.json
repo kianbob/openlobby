@@ -1,0 +1,24 @@
+{
+  "name": "MANAGEMENT & TRAINING CORPORATION",
+  "slug": "management-training-corporation",
+  "state": "UT",
+  "totalSpend": 1330000,
+  "filings": 17,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "GOV",
+    "HOM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

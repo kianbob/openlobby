@@ -1,0 +1,24 @@
+{
+  "name": "AMERICAN TRANSACTION PROCESSORS COALITION",
+  "slug": "american-transaction-processors-coalition",
+  "state": "GA",
+  "totalSpend": 850000,
+  "filings": 20,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "HOM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

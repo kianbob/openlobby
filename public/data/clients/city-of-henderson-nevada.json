@@ -1,0 +1,33 @@
+{
+  "name": "CITY OF HENDERSON, NEVADA",
+  "slug": "city-of-henderson-nevada",
+  "state": "NV",
+  "totalSpend": 1080000,
+  "filings": 38,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "NAT",
+    "URB",
+    "RES",
+    "BUD",
+    "SMB",
+    "TRA",
+    "ENG",
+    null,
+    "TEC",
+    "LBR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SANDVINE",
+  "slug": "sandvine",
+  "state": "TX",
+  "totalSpend": 1060000,
+  "filings": 17,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "SCI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

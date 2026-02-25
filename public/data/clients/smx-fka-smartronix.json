@@ -1,0 +1,27 @@
+{
+  "name": "SMX (FKA SMARTRONIX)",
+  "slug": "smx-fka-smartronix",
+  "state": "MD",
+  "totalSpend": 1230000,
+  "filings": 33,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    "HOM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

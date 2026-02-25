@@ -1,0 +1,32 @@
+{
+  "name": "SMITHS GROUP PLC",
+  "slug": "smiths-group-plc",
+  "state": "DC",
+  "totalSpend": 1140000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MED",
+    "TOR",
+    "TAX",
+    "ENV",
+    "TRD",
+    "DEF",
+    null,
+    "ENG",
+    "HOM"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "EDWARD JONES INVESTMENTS",
+  "slug": "edward-jones-investments",
+  "state": "MO",
+  "totalSpend": 820000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "RET",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

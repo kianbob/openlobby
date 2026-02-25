@@ -1,0 +1,22 @@
+{
+  "name": "AMAG PHARMACEUTICAL",
+  "slug": "amag-pharmaceutical",
+  "state": "MA",
+  "totalSpend": 925000,
+  "filings": 19,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "issues": [
+    "HCR",
+    "PHA"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

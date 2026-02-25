@@ -1,0 +1,22 @@
+{
+  "name": "KEEP US POSTED",
+  "slug": "keep-us-posted",
+  "state": "DC",
+  "totalSpend": 1250000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "POS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

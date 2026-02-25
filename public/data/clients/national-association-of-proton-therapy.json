@@ -1,0 +1,27 @@
+{
+  "name": "NATIONAL ASSOCIATION OF PROTON THERAPY",
+  "slug": "national-association-of-proton-therapy",
+  "state": "DC",
+  "totalSpend": 1300000,
+  "filings": 22,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "BUD",
+    null,
+    "VET"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ZOTEC PARTNERS",
+  "slug": "zotec-partners",
+  "state": "IN",
+  "totalSpend": 1100000,
+  "filings": 22,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

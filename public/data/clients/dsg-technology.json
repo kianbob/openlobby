@@ -1,0 +1,23 @@
+{
+  "name": "DSG TECHNOLOGY",
+  "slug": "dsg-technology",
+  "state": "MD",
+  "totalSpend": 920000,
+  "filings": 21,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

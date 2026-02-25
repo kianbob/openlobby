@@ -1,0 +1,24 @@
+{
+  "name": "ALLY FINANCIAL, INC.",
+  "slug": "ally-financial-inc",
+  "state": "DC",
+  "totalSpend": 900000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

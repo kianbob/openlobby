@@ -1,0 +1,43 @@
+{
+  "name": "BLOCKCHAIN ASSOCIATION",
+  "slug": "blockchain-association",
+  "state": "DC",
+  "totalSpend": 1270000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "CPI",
+    "BAN",
+    "FIN",
+    null,
+    "CDT",
+    "LAW",
+    "SMB",
+    "DEF",
+    "HOM",
+    "INT",
+    "BUD",
+    "TEC",
+    "ACC",
+    "HOU",
+    "INS",
+    "AGR",
+    "FOR",
+    "GOV",
+    "ENG",
+    "RET"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

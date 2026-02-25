@@ -1,0 +1,27 @@
+{
+  "name": "HALLIBURTON ENERGY SERVICES",
+  "slug": "halliburton-energy-services",
+  "state": "TX",
+  "totalSpend": 1167500,
+  "filings": 27,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    "FOR",
+    "FUE",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

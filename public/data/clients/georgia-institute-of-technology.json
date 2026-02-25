@@ -1,0 +1,31 @@
+{
+  "name": "GEORGIA INSTITUTE OF TECHNOLOGY",
+  "slug": "georgia-institute-of-technology",
+  "state": "GA",
+  "totalSpend": 1240000,
+  "filings": 31,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SCI",
+    "EDU",
+    "DEF",
+    "BUD",
+    "AGR",
+    "TAX",
+    null,
+    "HCR"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

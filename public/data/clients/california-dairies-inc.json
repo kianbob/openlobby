@@ -1,0 +1,26 @@
+{
+  "name": "CALIFORNIA DAIRIES, INC.",
+  "slug": "california-dairies-inc",
+  "state": "CA",
+  "totalSpend": 1020000,
+  "filings": 17,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "TRD",
+    "IMM",
+    "AGR",
+    "BUD",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

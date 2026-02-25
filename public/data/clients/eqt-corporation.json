@@ -1,0 +1,25 @@
+{
+  "name": "EQT CORPORATION",
+  "slug": "eqt-corporation",
+  "state": "PA",
+  "totalSpend": 1020000,
+  "filings": 15,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FUE",
+    "ENV",
+    "ENG",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

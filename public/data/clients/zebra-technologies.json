@@ -1,0 +1,36 @@
+{
+  "name": "ZEBRA TECHNOLOGIES",
+  "slug": "zebra-technologies",
+  "state": "IL",
+  "totalSpend": 1010000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    "TRD",
+    "TEC",
+    "CSP",
+    "CPI",
+    "SCI",
+    "INT",
+    "IMM",
+    "VET",
+    "DIS",
+    "HOM",
+    "BUD",
+    "POS",
+    "DEF",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

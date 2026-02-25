@@ -1,0 +1,25 @@
+{
+  "name": "GRAIL LLC",
+  "slug": "grail-llc",
+  "state": "CA",
+  "totalSpend": 1270000,
+  "filings": 23,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

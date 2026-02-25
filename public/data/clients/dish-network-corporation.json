@@ -1,0 +1,25 @@
+{
+  "name": "DISH NETWORK CORPORATION",
+  "slug": "dish-network-corporation",
+  "state": "DC",
+  "totalSpend": 1235000,
+  "filings": 28,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "COM",
+    "TEC",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

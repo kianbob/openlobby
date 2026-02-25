@@ -1,0 +1,26 @@
+{
+  "name": "PERPETUA RESOURCES, CORP.",
+  "slug": "perpetua-resources-corp",
+  "state": "ID",
+  "totalSpend": 830000,
+  "filings": 19,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENV",
+    "NAT",
+    "DEF",
+    null,
+    "ENG",
+    "BAN"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

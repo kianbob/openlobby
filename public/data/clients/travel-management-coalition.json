@@ -1,0 +1,29 @@
+{
+  "name": "TRAVEL MANAGEMENT COALITION",
+  "slug": "travel-management-coalition",
+  "state": "DC",
+  "totalSpend": 1050000,
+  "filings": 22,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "LBR",
+    "TRA",
+    "UNM",
+    "AVI",
+    "GOV",
+    "TOU",
+    "HOM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

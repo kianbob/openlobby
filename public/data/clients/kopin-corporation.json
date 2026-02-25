@@ -1,0 +1,21 @@
+{
+  "name": "KOPIN CORPORATION",
+  "slug": "kopin-corporation",
+  "state": "MA",
+  "totalSpend": 880000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

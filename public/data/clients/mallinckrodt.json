@@ -1,0 +1,27 @@
+{
+  "name": "MALLINCKRODT",
+  "slug": "mallinckrodt",
+  "state": "MO",
+  "totalSpend": 1200000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "MMM",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

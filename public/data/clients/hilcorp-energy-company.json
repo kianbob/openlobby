@@ -1,0 +1,23 @@
+{
+  "name": "HILCORP ENERGY COMPANY",
+  "slug": "hilcorp-energy-company",
+  "state": "TX",
+  "totalSpend": 960000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "ENG",
+    "FUE",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

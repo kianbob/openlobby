@@ -1,0 +1,24 @@
+{
+  "name": "THE TREVOR PROJECT",
+  "slug": "the-trevor-project",
+  "state": "CA",
+  "totalSpend": 870000,
+  "filings": 21,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "TEC",
+    "HCR",
+    "BUD",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

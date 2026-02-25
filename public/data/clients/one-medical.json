@@ -1,0 +1,23 @@
+{
+  "name": "ONE MEDICAL",
+  "slug": "one-medical",
+  "state": "CA",
+  "totalSpend": 1180000,
+  "filings": 15,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "TAX",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

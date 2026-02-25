@@ -1,0 +1,27 @@
+{
+  "name": "BOWLING PROPRIETORS' ASSOCIATION OF AMERICA",
+  "slug": "bowling-proprietors-association-of-america",
+  "state": "TX",
+  "totalSpend": 1060000,
+  "filings": 26,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "SMB",
+    "ART",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

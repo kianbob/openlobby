@@ -1,0 +1,30 @@
+{
+  "name": "CORE NATURAL RESOURCES, INC.",
+  "slug": "core-natural-resources-inc",
+  "state": "PA",
+  "totalSpend": 870000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "LBR",
+    "RET",
+    "ENG",
+    null,
+    "TRD",
+    "NAT",
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

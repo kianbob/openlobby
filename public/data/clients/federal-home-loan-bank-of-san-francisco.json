@@ -1,0 +1,26 @@
+{
+  "name": "FEDERAL HOME LOAN BANK OF SAN FRANCISCO",
+  "slug": "federal-home-loan-bank-of-san-francisco",
+  "state": "CA",
+  "totalSpend": 1290000,
+  "filings": 26,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOU",
+    "BUD",
+    null,
+    "TAX"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

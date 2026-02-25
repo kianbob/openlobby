@@ -1,0 +1,23 @@
+{
+  "name": "AMAZON WEB SERVICES",
+  "slug": "amazon-web-services",
+  "state": "DC",
+  "totalSpend": 920000,
+  "filings": 19,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "issues": [
+    "CPI",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "LILT",
+  "slug": "lilt",
+  "state": "CA",
+  "totalSpend": 880000,
+  "filings": 16,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "BUD",
+    "DEF",
+    "FOR",
+    "SCI",
+    null,
+    "INT",
+    "HOM",
+    "DIS"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

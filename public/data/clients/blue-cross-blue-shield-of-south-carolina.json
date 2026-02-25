@@ -1,0 +1,24 @@
+{
+  "name": "BLUE CROSS BLUE SHIELD OF SOUTH CAROLINA",
+  "slug": "blue-cross-blue-shield-of-south-carolina",
+  "state": "SC",
+  "totalSpend": 960000,
+  "filings": 21,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "MMM",
+    "INS",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

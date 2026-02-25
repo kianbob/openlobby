@@ -1,0 +1,29 @@
+{
+  "name": "THE FIRST CHURCH OF CHRIST, SCIENTIST",
+  "slug": "the-first-church-of-christ-scientist",
+  "state": "MA",
+  "totalSpend": 1050000,
+  "filings": 29,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HCR",
+    "TAX",
+    "DEF",
+    "MMM",
+    "LBR",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

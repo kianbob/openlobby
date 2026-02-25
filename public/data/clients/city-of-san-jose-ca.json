@@ -1,0 +1,35 @@
+{
+  "name": "CITY OF SAN JOSE, CA",
+  "slug": "city-of-san-jose-ca",
+  "state": "CA",
+  "totalSpend": 930000,
+  "filings": 24,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "HOU",
+    "TEC",
+    "ENV",
+    "BUD",
+    "IMM",
+    "POS",
+    "TRA",
+    "LBR",
+    "UTI",
+    "HOM",
+    null,
+    "AVI",
+    "DIS"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

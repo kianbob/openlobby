@@ -1,0 +1,27 @@
+{
+  "name": "DOE RUN COMPANY",
+  "slug": "doe-run-company",
+  "state": null,
+  "totalSpend": 1150000,
+  "filings": 20,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "issues": [
+    "MAN",
+    "CAW",
+    "ENV",
+    "NAT",
+    "RES",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

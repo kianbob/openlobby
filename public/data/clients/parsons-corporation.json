@@ -1,0 +1,22 @@
+{
+  "name": "PARSONS CORPORATION",
+  "slug": "parsons-corporation",
+  "state": "VA",
+  "totalSpend": 860000,
+  "filings": 15,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "DEF",
+    null,
+    "BUD"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

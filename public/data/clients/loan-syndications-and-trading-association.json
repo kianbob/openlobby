@@ -1,0 +1,27 @@
+{
+  "name": "LOAN SYNDICATIONS AND TRADING ASSOCIATION",
+  "slug": "loan-syndications-and-trading-association",
+  "state": "NY",
+  "totalSpend": 1340000,
+  "filings": 23,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "FIN",
+    "BAN",
+    "BNK",
+    null,
+    "RET"
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}

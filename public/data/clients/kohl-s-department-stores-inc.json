@@ -1,0 +1,31 @@
+{
+  "name": "KOHL'S DEPARTMENT STORES, INC.",
+  "slug": "kohl-s-department-stores-inc",
+  "state": "WI",
+  "totalSpend": 1120000,
+  "filings": 28,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "issues": [
+    "CPT",
+    "CSP",
+    "BAN",
+    "TAX",
+    "APP",
+    "TRD",
+    "ECN",
+    null
+  ],
+  "firms": [],
+  "lobbyists": [],
+  "yearlySpending": [],
+  "descriptions": []
+}
