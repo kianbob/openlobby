@@ -49,6 +49,11 @@ const navGroups = [
       { name: 'DOGE vs. The Lobbying Machine', href: '/investigations/doge-vs-lobbying', desc: 'Government efficiency meets $4.4B in lobbying' },
       { name: 'The Revolving Door Exposed', href: '/investigations/revolving-door-exposed', desc: '5,000 former officials now lobby Congress' },
       { name: 'Big Pharma\'s $4.4B Bet', href: '/investigations/big-pharma-lobbying', desc: 'Healthcare industry\'s lobbying empire' },
+      { name: 'Wall Street–Washington Pipeline', href: '/investigations/wall-street-washington-pipeline', desc: 'Finance lobbying shapes regulation' },
+      { name: 'Big Oil\'s Climate Lobby', href: '/investigations/big-oil-climate-lobby', desc: 'Energy sector vs. climate policy' },
+      { name: 'Silicon Valley vs. Antitrust', href: '/investigations/silicon-valley-antitrust', desc: 'Big Tech fights to stay big' },
+      { name: 'Health Insurance Lobby', href: '/investigations/healthcare-insurance-lobby', desc: 'Insurers vs. Medicare expansion' },
+      { name: 'The Lobbying Industrial Complex', href: '/investigations/the-lobbying-industrial-complex', desc: '$15.2B and 650K filings' },
     ],
   },
   {

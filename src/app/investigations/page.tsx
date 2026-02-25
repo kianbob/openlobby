@@ -148,6 +148,41 @@ const investigations = [
     tag: 'Issues',
     date: 'Feb 2026',
   },
+  {
+    slug: 'wall-street-washington-pipeline',
+    title: 'The Wall Street–Washington Pipeline',
+    desc: 'Banks, hedge funds, and financial firms have spent billions lobbying to shape regulation — from Dodd-Frank rollbacks to crypto battles.',
+    tag: 'Finance',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'big-oil-climate-lobby',
+    title: "Big Oil's Climate Lobby",
+    desc: 'ExxonMobil, Chevron, BP, and the American Petroleum Institute have spent hundreds of millions lobbying against climate regulation.',
+    tag: 'Energy',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'silicon-valley-antitrust',
+    title: "Silicon Valley vs. Antitrust: Big Tech's Fight to Stay Big",
+    desc: 'Google, Apple, Amazon, Meta, and Microsoft have spent $150M+ lobbying against antitrust regulation.',
+    tag: 'Tech',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'healthcare-insurance-lobby',
+    title: 'The Health Insurance Lobby',
+    desc: 'UnitedHealth, Cigna, Elevance, and AHIP have spent tens of millions fighting Medicare expansion and drug pricing reform.',
+    tag: 'Healthcare',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'the-lobbying-industrial-complex',
+    title: 'The Lobbying Industrial Complex: $15.2 Billion and 650,000 Filings',
+    desc: 'The definitive overview: 650K filings, $15.2B spent, 29,000+ lobbyists, and the machine that really runs Washington.',
+    tag: 'Analysis',
+    date: 'Feb 2026',
+  },
 ]
 
 const tagColors: Record<string, string> = {
@@ -167,6 +202,8 @@ const tagColors: Record<string, string> = {
   'New Entrants': 'bg-yellow-100 text-yellow-800',
   Geography: 'bg-purple-100 text-purple-800',
   Issues: 'bg-red-100 text-red-800',
+  Finance: 'bg-blue-100 text-blue-800',
+  Energy: 'bg-orange-100 text-orange-800',
 }
 
 export default function InvestigationsPage() {

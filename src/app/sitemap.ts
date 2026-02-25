@@ -10,6 +10,9 @@ const investigations = [
   'what-is-lobbying', 'lobbying-vs-contracts', 'healthcare-3-billion-bet',
   'seasonal-lobbying', 'the-22000-percent-roi', 'first-time-filers-2024',
   'the-revolving-door-premium', 'dc-lobbying-capital', 'issue-arms-race',
+  'wall-street-washington-pipeline', 'big-oil-climate-lobby',
+  'silicon-valley-antitrust', 'healthcare-insurance-lobby',
+  'the-lobbying-industrial-complex',
 ]
 
 function readSlugsFromDir(dirName: string): string[] {
