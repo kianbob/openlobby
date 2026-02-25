@@ -14,14 +14,14 @@ const ResponsiveContainer = dynamic(() => import('recharts').then(m => m.Respons
 
 
 const topSpenders = [
-  { name: 'US Chamber', total: 591.9, trajectory: 'Growing (+46%)' },
-  { name: 'NAR', total: 516.7, trajectory: 'Stable' },
-  { name: 'PhRMA', total: 213.2, trajectory: 'Growing (+38%)' },
-  { name: 'Business Roundtable', total: 198.2, trajectory: 'Growing (+84%)' },
-  { name: 'AHA', total: 178.1, trajectory: 'Growing (+63%)' },
-  { name: 'Meta', total: 154.9, trajectory: 'Exploding (+244%)' },
-  { name: 'SAP America', total: 153.6, trajectory: 'Declining (-48%)' },
-  { name: 'Amazon', total: 147.1, trajectory: 'Exploding (+105%)' },
+  { name: 'US Chamber', total: 591.9, trajectory: 'Growing (+46%)', slug: 'chamber-of-commerce-of-the-u-s-a' },
+  { name: 'NAR', total: 516.7, trajectory: 'Stable', slug: 'national-association-of-realtors' },
+  { name: 'PhRMA', total: 213.2, trajectory: 'Growing (+38%)', slug: 'pharmaceutical-research-manufacturers-of-america-phrma' },
+  { name: 'Business Roundtable', total: 198.2, trajectory: 'Growing (+84%)', slug: 'business-roundtable' },
+  { name: 'AHA', total: 178.1, trajectory: 'Growing (+63%)', slug: 'american-hospital-association' },
+  { name: 'Meta', total: 154.9, trajectory: 'Exploding (+244%)', slug: 'meta-platforms-inc' },
+  { name: 'SAP America', total: 153.6, trajectory: 'Declining (-48%)', slug: 'sap-america-inc' },
+  { name: 'Amazon', total: 147.1, trajectory: 'Exploding (+105%)', slug: 'amazon-com-services-llc' },
 ]
 
 const yearlyData = [
@@ -150,7 +150,7 @@ export default function Page() {
               <tbody>
                 {topSpenders.map(s => (
                   <tr key={s.name} className="border-b border-gray-200">
-                    <td className="py-2 pr-4 font-medium">{s.name}</td>
+                    <td className="py-2 pr-4 font-medium"><Link href={`/clients/${s.slug}`} className="text-indigo-600 hover:underline">{s.name}</Link></td>
                     <td className="text-right py-2 px-3">${s.total}M</td>
                     <td className="text-right py-2 pl-3 text-gray-600">{s.trajectory}</td>
                   </tr>
@@ -161,7 +161,7 @@ export default function Page() {
         </div>
 
         <p>
-          The <strong>US Chamber of Commerce</strong> leads at $591.9 million — nearly $600 million spent
+          The <strong><Link href="/clients/chamber-of-commerce-of-the-u-s-a" className="text-indigo-600 hover:underline">US Chamber of Commerce</Link></strong> leads at $591.9 million — nearly $600 million spent
           lobbying over just eight years. That sounds like a lot until you consider what they&apos;re protecting:
           their 300,000+ member companies collectively represent trillions in annual revenue. Even a marginal
           regulatory change — a delayed EPA rule, a tweaked tax provision — can be worth billions to those members.
@@ -169,7 +169,7 @@ export default function Page() {
         </p>
 
         <p>
-          <strong>Meta Platforms</strong> is perhaps the most telling case. Their lobbying has <em>exploded</em> —
+          <strong><Link href="/clients/meta-platforms-inc" className="text-indigo-600 hover:underline">Meta Platforms</Link></strong> is perhaps the most telling case. Their lobbying has <em>exploded</em> —
           up 244% over our tracking period, reaching $154.9 million total. Why? Because the threats have multiplied.
           Antitrust lawsuits. AI regulation. Privacy bills. Section 230 reform. Content moderation mandates.
           When government has the power to break up your company or regulate your core product, you spend
@@ -177,7 +177,7 @@ export default function Page() {
         </p>
 
         <p>
-          <strong>Amazon</strong> tells the same story — up 105% to $147.1 million. As the company expanded
+          <strong><Link href="/clients/amazon-com-services-llc" className="text-indigo-600 hover:underline">Amazon</Link></strong> tells the same story — up 105% to $147.1 million. As the company expanded
           from e-commerce into cloud computing (AWS serves the Pentagon), healthcare, and logistics, its
           regulatory surface area grew. More government touchpoints means more lobbying.
         </p>

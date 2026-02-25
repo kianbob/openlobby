@@ -89,15 +89,15 @@ export default function DogeVsLobbyingPage() {
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Top Lobbying Sectors (2024)</h3>
           <div className="space-y-3">
             {[
-              { sector: 'Healthcare & Pharma', amount: '$740M+', why: 'Medicare/Medicaid reimbursement rates, drug pricing, FDA regulations' },
-              { sector: 'Technology', amount: '$200M+', why: 'AI regulation, antitrust, Section 230, data privacy' },
-              { sector: 'Finance & Insurance', amount: '$550M+', why: 'Banking regulations, crypto policy, insurance mandates' },
-              { sector: 'Energy & Natural Resources', amount: '$400M+', why: 'Oil leases, renewable subsidies, EPA regulations, pipeline permits' },
-              { sector: 'Defense & Aerospace', amount: '$150M+', why: 'Pentagon contracts, base closures, weapons programs' },
-              { sector: 'Real Estate & Construction', amount: '$130M+', why: 'Housing subsidies, zoning, infrastructure spending' },
+              { sector: 'Healthcare & Pharma', amount: '$740M+', why: 'Medicare/Medicaid reimbursement rates, drug pricing, FDA regulations', href: '/issues/HCR' },
+              { sector: 'Technology', amount: '$200M+', why: 'AI regulation, antitrust, Section 230, data privacy', href: '/issues/TEC' },
+              { sector: 'Finance & Insurance', amount: '$550M+', why: 'Banking regulations, crypto policy, insurance mandates', href: '/issues/BAN' },
+              { sector: 'Energy & Natural Resources', amount: '$400M+', why: 'Oil leases, renewable subsidies, EPA regulations, pipeline permits', href: '/issues/ENG' },
+              { sector: 'Defense & Aerospace', amount: '$150M+', why: 'Pentagon contracts, base closures, weapons programs', href: '/issues/DEF' },
+              { sector: 'Real Estate & Construction', amount: '$130M+', why: 'Housing subsidies, zoning, infrastructure spending', href: '/issues/HOU' },
             ].map(item => (
               <div key={item.sector} className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-4 py-2 border-b border-gray-200 last:border-0">
-                <div className="font-semibold text-gray-900 sm:w-56">{item.sector}</div>
+                <Link href={item.href} className="font-semibold text-gray-900 sm:w-56 hover:text-primary hover:underline">{item.sector}</Link>
                 <div className="text-primary font-bold sm:w-24">{item.amount}</div>
                 <div className="text-sm text-gray-600 flex-1">{item.why}</div>
               </div>
@@ -107,8 +107,8 @@ export default function DogeVsLobbyingPage() {
 
         <p>
           Notice a pattern? These are the same sectors that receive the most federal spending. 
-          Healthcare lobbies because Medicare and Medicaid are $1.5 trillion programs. Defense lobbies 
-          because the Pentagon budget is $886 billion. Energy lobbies because federal land leases 
+          <Link href="/issues/HCR" className="text-primary hover:underline">Healthcare</Link> lobbies because Medicare and Medicaid are $1.5 trillion programs. <Link href="/issues/DEF" className="text-primary hover:underline">Defense</Link> lobbies 
+          because the Pentagon budget is $886 billion. <Link href="/issues/ENG" className="text-primary hover:underline">Energy</Link> lobbies because federal land leases 
           and subsidies are worth hundreds of billions.
         </p>
 

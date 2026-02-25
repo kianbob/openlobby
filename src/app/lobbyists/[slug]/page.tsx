@@ -7,6 +7,7 @@ import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
 import { formatNumber, slugify, toTitleCase } from '@/lib/format'
+import { resolveLobbyistSlug, resolveFirmSlug, resolveClientSlug } from '@/lib/resolveSlug'
 
 interface LobbyistData {
   id: number
@@ -22,8 +23,9 @@ interface LobbyistData {
 }
 
 function getData(slug: string): LobbyistData | null {
+  const resolved = resolveLobbyistSlug(slug)
   try {
-    return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'lobbyists', `${slug}.json`), 'utf-8'))
+    return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'lobbyists', `${resolved}.json`), 'utf-8'))
   } catch { return null }
 }
 
@@ -143,7 +145,7 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
           <div className="space-y-2">
             {d.firms.map(f => (
               <div key={f.name} className="flex justify-between items-center py-2 border-b border-gray-100">
-                <Link href={`/firms/${slugify(f.name)}`} className="text-primary hover:underline">{toTitleCase(f.name)}</Link>
+                <Link href={`/firms/${resolveFirmSlug(f.name)}`} className="text-primary hover:underline">{toTitleCase(f.name)}</Link>
                 <span className="text-sm text-gray-500">{f.filings} filings</span>
               </div>
             ))}
@@ -158,7 +160,7 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
           <div className="space-y-2">
             {d.topClients.slice(0, 20).map(c => (
               <div key={c.name} className="flex justify-between items-center py-2 border-b border-gray-100">
-                <Link href={`/clients/${slugify(c.name)}`} className="text-primary hover:underline">{toTitleCase(c.name)}</Link>
+                <Link href={`/clients/${resolveClientSlug(c.name)}`} className="text-primary hover:underline">{toTitleCase(c.name)}</Link>
                 <span className="text-sm text-gray-500">{c.filings} filings</span>
               </div>
             ))}

@@ -3,6 +3,7 @@
 import { useState, useMemo } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import { slugify } from '@/lib/format'
 
 const contractors = [
   { name: 'TriWest Healthcare Alliance', category: 'Healthcare', lobbying: 270000, contracts: 13374744670, roi: 49536 },
@@ -110,7 +111,7 @@ export default function LobbyingVsContractsAnalysis() {
           {sorted.slice(0, 15).map(c => (
             <div key={c.name}>
               <div className="flex justify-between text-xs mb-0.5">
-                <span className="font-medium truncate mr-2">{c.name}</span>
+                <Link href={`/clients/${slugify(c.name)}`} className="font-medium truncate mr-2 text-primary hover:underline">{c.name}</Link>
                 <span className="text-primary font-bold whitespace-nowrap">{c.roi.toLocaleString()}:1</span>
               </div>
               <div className="relative h-5 bg-gray-100 rounded-full overflow-hidden">
@@ -148,7 +149,7 @@ export default function LobbyingVsContractsAnalysis() {
             <tbody>
               {sorted.map((c, i) => (
                 <tr key={c.name} className={`border-b border-gray-100 hover:bg-gray-50 ${i % 2 ? 'bg-gray-50/50' : ''}`}>
-                  <td className="py-3 px-3 font-medium">{c.name}</td>
+                  <td className="py-3 px-3 font-medium"><Link href={`/clients/${slugify(c.name)}`} className="text-primary hover:underline">{c.name}</Link></td>
                   <td className="py-3 px-3 text-gray-600">{c.category}</td>
                   <td className="py-3 px-3 text-right text-gray-600">{fmt(c.lobbying)}</td>
                   <td className="py-3 px-3 text-right font-semibold">{fmt(c.contracts)}</td>

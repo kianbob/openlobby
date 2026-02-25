@@ -6,6 +6,7 @@ import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
 import { formatCurrency, toTitleCase, slugify } from '@/lib/format'
+import { resolveFirmSlug, resolveClientSlug, resolveLobbyistSlug } from '@/lib/resolveSlug'
 
 interface FirmData {
   name: string
@@ -21,8 +22,9 @@ interface FirmData {
 }
 
 function getFirm(slug: string): FirmData | null {
+  const resolved = resolveFirmSlug(slug)
   try {
-    const filePath = path.join(process.cwd(), 'public', 'data', 'firms', `${slug}.json`)
+    const filePath = path.join(process.cwd(), 'public', 'data', 'firms', `${resolved}.json`)
     return JSON.parse(fs.readFileSync(filePath, 'utf-8'))
   } catch {
     return null
@@ -120,7 +122,7 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
           <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Clients</h2>
           <div className="flex flex-wrap gap-2">
             {firm.clients.slice(0, 50).map(c => (
-              <a key={c} href={`/clients/${slugify(c)}`} className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-indigo-100 hover:text-indigo-700 transition-colors">{toTitleCase(c)}</a>
+              <a key={c} href={`/clients/${resolveClientSlug(c)}`} className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-indigo-100 hover:text-indigo-700 transition-colors">{toTitleCase(c)}</a>
             ))}
             {firm.clients.length > 50 && (
               <span className="px-3 py-1 bg-gray-200 text-gray-500 rounded-full text-sm">+{firm.clients.length - 50} more</span>
@@ -134,7 +136,7 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
           <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Lobbyists</h2>
           <div className="flex flex-wrap gap-2">
             {firm.lobbyists.slice(0, 50).map(l => (
-              <a key={l} href={`/lobbyists/${slugify(l)}`} className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">
+              <a key={l} href={`/lobbyists/${resolveLobbyistSlug(l)}`} className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">
                 {toTitleCase(l)}
               </a>
             ))}

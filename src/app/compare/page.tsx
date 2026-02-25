@@ -3,7 +3,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatCurrency, slugify, toTitleCase } from '@/lib/format'
+import { formatCurrency, toTitleCase } from '@/lib/format'
 
 interface Entity {
   name: string
@@ -167,10 +167,10 @@ export default function ComparePage() {
           </div>
 
           <div className="grid md:grid-cols-2 gap-4">
-            <Link href={`/${mode}/${slugify(entity1.name)}`} className="block p-4 bg-indigo-50 rounded-xl hover:bg-indigo-100 transition-colors text-center">
+            <Link href={`/${mode}/${entity1.slug || entity1.name}`} className="block p-4 bg-indigo-50 rounded-xl hover:bg-indigo-100 transition-colors text-center">
               <div className="font-medium text-indigo-700">View {toTitleCase(entity1.name)} →</div>
             </Link>
-            <Link href={`/${mode}/${slugify(entity2.name)}`} className="block p-4 bg-purple-50 rounded-xl hover:bg-purple-100 transition-colors text-center">
+            <Link href={`/${mode}/${entity2.slug || entity2.name}`} className="block p-4 bg-purple-50 rounded-xl hover:bg-purple-100 transition-colors text-center">
               <div className="font-medium text-purple-700">View {toTitleCase(entity2.name)} →</div>
             </Link>
           </div>

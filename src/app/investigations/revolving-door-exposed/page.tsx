@@ -95,7 +95,7 @@ export default function RevolvingDoorExposedPage() {
         <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Mehlman Machine</h2>
 
         <p>
-          One firm dominates the revolving door rankings: <strong>Mehlman Consulting</strong>. 
+          One firm dominates the revolving door rankings: <strong><Link href="/firms/mehlman-consulting-inc" className="text-primary hover:underline">Mehlman Consulting</Link></strong>. 
           The top six lobbyists by client count all work there. The firm&apos;s founder, Bruce Mehlman, 
           served as Assistant Secretary of Commerce for Technology Policy under George W. Bush and 
           as General Counsel for the House Republican Conference.
@@ -132,7 +132,7 @@ export default function RevolvingDoorExposedPage() {
           </li>
           <li>
             <strong>Nadeam Elshami</strong> (197 clients) — Former Chief of Staff to Speaker Nancy Pelosi. 
-            Now at Brownstein Hyatt Farber Schreck, one of the largest lobbying firms in the country.
+            Now at <Link href="/firms/brownstein-hyatt-farber-schreck-llp" className="text-primary hover:underline">Brownstein Hyatt Farber Schreck</Link>, one of the largest lobbying firms in the country.
           </li>
           <li>
             <strong>David Castagnetti</strong> (161 clients) — Former Chief of Staff to Senator Max Baucus, 

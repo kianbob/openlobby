@@ -40,7 +40,7 @@ export default function RevolvingDoorPage() {
       <Breadcrumbs items={[{ name: 'Revolving Door' }]} />
       <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>The Revolving Door</h1>
       <p className="text-gray-600 mb-6 max-w-3xl">
-        Former government officials who now lobby their old colleagues. These lobbyists disclosed prior government positions 
+        Former government officials who now lobby their old colleagues. These lobbyists disclosed prior government positions
         on their LDA filings — the pipeline from public service to K Street.
       </p>
 
@@ -49,35 +49,37 @@ export default function RevolvingDoorPage() {
           <span className="text-2xl">🤖</span>
           <div>
             <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
-            <p className="text-gray-700 text-sm leading-relaxed">The revolving door between government and K Street is one of the most powerful — and troubling — dynamics in Washington. These 5,000 former officials bring insider knowledge of how agencies work, personal relationships with decision-makers, and expertise that money alone can&apos;t buy. When a former White House advisor or congressional chief of staff becomes a lobbyist, their old colleagues take their calls. This is how influence really works.</p>
+            <p className="text-gray-700 text-sm leading-relaxed">The revolving door between government and K Street is one of the most powerful — and troubling — dynamics in Washington. These former officials bring insider knowledge of how agencies work, personal relationships with decision-makers, and expertise that money alone can&apos;t buy. When a former White House advisor or congressional chief of staff becomes a lobbyist, their old colleagues take their calls. This is how influence really works.</p>
           </div>
         </div>
       </div>
 
-      <div className="bg-amber-50 border-l-4 border-amber-400 p-4 mb-6 rounded-r-lg">
-        <p className="text-sm font-medium text-amber-900">💡 Did you know?</p>
-        <p className="text-sm text-amber-800 mt-1">The average revolving door lobbyist has access to decision-makers that outside lobbyists can only dream of. Former congressional chiefs of staff command premium rates because their old bosses still take their calls.</p>
+      {/* Key Stats */}
+      <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-8">
+        <div className="bg-gray-50 rounded-xl p-4">
+          <div className="text-2xl font-bold text-primary" style={{ fontFamily: 'var(--font-serif)' }}>{formatNumber(lobbyists.length)}</div>
+          <div className="text-xs text-gray-500">Former Officials Now Lobbying</div>
+        </div>
+        <div className="bg-red-50 border border-red-100 rounded-xl p-4">
+          <div className="text-2xl font-bold text-red-700" style={{ fontFamily: 'var(--font-serif)' }}>369%</div>
+          <div className="text-xs text-red-600">Revenue Premium for Firms with Revolving Door Lobbyists</div>
+          <Link href="/revolving-door-premium" className="text-xs font-semibold text-red-700 hover:underline mt-1 inline-block">See analysis →</Link>
+        </div>
+        <div className="bg-amber-50 rounded-xl p-4">
+          <div className="text-sm text-amber-800 leading-relaxed">
+            <strong>💡 Did you know?</strong> Former congressional chiefs of staff command premium rates because their old bosses still take their calls.
+          </div>
+        </div>
       </div>
 
-      <div className="bg-red-50 border border-red-200 rounded-xl p-4 mb-6 flex items-center gap-3">
-        <span className="text-xl">💰</span>
-        <p className="text-sm text-red-900">
-          <strong>New finding:</strong> Firms with revolving door lobbyists earn <strong>369% more revenue</strong>. <Link href="/revolving-door-premium" className="font-bold underline hover:text-red-700">See the full analysis →</Link>
-        </p>
-      </div>
-
-      <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-6">
-        <p className="text-amber-800 text-sm">
-          <strong>🏛️ {formatNumber(lobbyists.length)} lobbyists</strong> in our data disclosed previous government positions. 
-          They leverage inside knowledge and relationships to influence the same agencies they once served.
-        </p>
-      </div>
-
-      <input type="text" placeholder="Search by name or government position..." value={search}
-        onChange={e => { setSearch(e.target.value); setShown(50) }}
-        className="w-full max-w-lg px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none mb-6" />
-
-      <p className="text-sm text-gray-500 mb-4">{formatNumber(filtered.length)} lobbyists with government experience</p>
+      {/* Search */}
+      <section className="mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Search Former Officials</h2>
+        <input type="text" placeholder="Search by name or government position..." value={search}
+          onChange={e => { setSearch(e.target.value); setShown(50) }}
+          className="w-full max-w-lg px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none mb-4" />
+        <p className="text-sm text-gray-500">{formatNumber(filtered.length)} lobbyists with government experience</p>
+      </section>
 
       {lobbyists.length === 0 ? (
         <div className="bg-gray-50 border border-gray-200 rounded-xl p-12 text-center text-gray-500">Loading...</div>
@@ -87,10 +89,10 @@ export default function RevolvingDoorPage() {
             {filtered.slice(0, shown).map(l => (
               <div key={l.id} className="bg-white border border-gray-200 rounded-xl p-4 hover:border-primary/30 transition-colors">
                 <div className="flex items-start justify-between gap-4">
-                  <div>
+                  <div className="min-w-0">
                     <Link href={`/lobbyists/${slugify(l.name)}`} className="text-lg font-semibold text-primary hover:underline">{toTitleCase(l.name)}</Link>
                     <div className="mt-1 space-y-1">
-                      {dedupePositions(l.positions).slice(0, 1).map((pos, i) => (
+                      {dedupePositions(l.positions).slice(0, 2).map((pos, i) => (
                         <p key={i} className="text-sm text-amber-700 bg-amber-50 inline-block px-2 py-0.5 rounded mr-2">🏛️ {pos}</p>
                       ))}
                     </div>
@@ -102,8 +104,16 @@ export default function RevolvingDoorPage() {
                 {l.firms?.length > 0 && (
                   <div className="mt-2 flex flex-wrap gap-1">
                     {l.firms.slice(0, 5).map(f => (
-                      <span key={f} className="text-xs bg-gray-100 px-2 py-0.5 rounded text-gray-600">{f}</span>
+                      <Link key={f} href={`/firms/${slugify(f)}`} className="text-xs bg-gray-100 px-2 py-0.5 rounded text-gray-600 hover:bg-indigo-50 hover:text-indigo-700 transition-colors">{toTitleCase(f)}</Link>
                     ))}
+                  </div>
+                )}
+                {l.clients?.length > 0 && (
+                  <div className="mt-2 flex flex-wrap gap-1">
+                    {l.clients.slice(0, 5).map(c => (
+                      <Link key={c} href={`/clients/${slugify(c)}`} className="text-xs bg-indigo-50 px-2 py-0.5 rounded text-indigo-600 hover:bg-indigo-100 transition-colors">{toTitleCase(c)}</Link>
+                    ))}
+                    {l.clients.length > 5 && <span className="text-xs text-gray-400">+{l.clients.length - 5} more</span>}
                   </div>
                 )}
               </div>
@@ -118,28 +128,14 @@ export default function RevolvingDoorPage() {
           )}
         </>
       )}
-      <section className="mt-8 mb-4">
-        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Reading</h2>
-        <div className="grid md:grid-cols-2 gap-3">
-          <a href="/investigations/revolving-door-exposed" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
-            <div className="font-medium text-sm text-indigo-700">The Revolving Door Exposed</div>
-            <div className="text-xs text-gray-500 mt-1">5,000 former government officials now lobby their old colleagues. The full investigation.</div>
-          </a>
-          <a href="/investigations/foreign-influence" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
-            <div className="font-medium text-sm text-indigo-700">Foreign Governments Are Lobbying Congress</div>
-            <div className="text-xs text-gray-500 mt-1">1,000+ foreign entities from 50+ countries lobby the US government.</div>
-          </a>
-        </div>
-      </section>
 
-      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
-
+      {/* Related */}
       <section className="mt-12 mb-8">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
         <div className="grid md:grid-cols-3 gap-3">
           <Link href="/investigations/revolving-door-exposed" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">🚪 Revolving Door Exposed</div>
-            <div className="text-xs text-gray-500 mt-1">The full investigation</div>
+            <div className="text-xs text-gray-500 mt-1">5,000 former officials now lobby their old colleagues</div>
           </Link>
           <Link href="/investigations/the-revolving-door-premium" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">💵 The Revolving Door Premium</div>
@@ -159,6 +155,8 @@ export default function RevolvingDoorPage() {
           <Link href="/network" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🕸️ Network</Link>
         </div>
       </section>
+
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )
 }

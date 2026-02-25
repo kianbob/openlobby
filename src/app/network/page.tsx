@@ -3,7 +3,7 @@ import { useState, useEffect, useMemo } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import SourceCitation from '@/components/SourceCitation'
-import { formatNumber, toTitleCase } from '@/lib/format'
+import { formatNumber, slugify, toTitleCase } from '@/lib/format'
 
 interface MultiFirmLobbyist {
   id: string
@@ -111,7 +111,7 @@ export default function NetworkPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {data.multiFirmLobbyists.slice(0, showAll ? 77 : 12).map(l => (
             <div key={l.id} className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md transition-shadow">
-              <Link href={`/lobbyists/${l.id}`} className="text-lg font-bold text-indigo-700 hover:text-indigo-900">
+              <Link href={`/lobbyists/${slugify(l.name)}`} className="text-lg font-bold text-indigo-700 hover:text-indigo-900">
                 {toTitleCase(l.name)}
               </Link>
               <div className="flex gap-4 mt-2 text-sm text-gray-500">

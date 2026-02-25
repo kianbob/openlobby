@@ -4,7 +4,7 @@ import dynamic from 'next/dynamic'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import SourceCitation from '@/components/SourceCitation'
-import { formatCurrency, formatNumber, toTitleCase } from '@/lib/format'
+import { formatCurrency, formatNumber, toTitleCase, slugify } from '@/lib/format'
 
 const BarChart = dynamic(() => import('recharts').then(m => m.BarChart), { ssr: false })
 const Bar = dynamic(() => import('recharts').then(m => m.Bar), { ssr: false })
@@ -187,7 +187,7 @@ export default function RevolvingDoorPremiumPage() {
             return (
               <div key={i} className="bg-white border border-gray-200 rounded-xl p-5">
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2 mb-3">
-                  <h3 className="font-bold text-gray-900">{toTitleCase(f.firm)}</h3>
+                  <Link href={`/firms/${slugify(f.firm)}`} className="font-bold text-indigo-700 hover:text-indigo-900">{toTitleCase(f.firm)}</Link>
                   <div className="flex gap-4 text-sm text-gray-500">
                     <span><strong className="text-gray-900">{formatCurrency(f.totalIncome)}</strong> revenue</span>
                     <span><strong className="text-gray-900">{formatNumber(f.clientCount)}</strong> clients</span>
