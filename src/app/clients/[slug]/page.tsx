@@ -468,6 +468,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
           <Link href="/investigations" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🔍 Investigations</Link>
           <Link href="/how-lobbying-works" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📖 How Lobbying Works</Link>
           <Link href="/network" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🕸️ Network Analysis</Link>
+          <Link href="/agencies" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏛️ Agency Pressure</Link>
         </div>
       </section>
 

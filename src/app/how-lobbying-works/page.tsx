@@ -13,8 +13,21 @@ export const metadata: Metadata = {
 }
 
 export default function HowLobbyingWorksPage() {
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      { '@type': 'Question', name: 'What is lobbying?', acceptedAnswer: { '@type': 'Answer', text: 'Lobbying is the act of attempting to influence government officials on behalf of an organization. In the US, professional lobbyists must register under the Lobbying Disclosure Act and file quarterly reports detailing their activities, clients, issues, and income.' } },
+      { '@type': 'Question', name: 'How much money is spent on lobbying?', acceptedAnswer: { '@type': 'Answer', text: 'Between 2018 and 2025, organizations spent $37.7 billion on federal lobbying. In 2025 alone, spending hit $6.0 billion — an all-time record driven by tariff fights, AI regulation, and healthcare policy battles.' } },
+      { '@type': 'Question', name: 'Who are the biggest lobbying spenders?', acceptedAnswer: { '@type': 'Answer', text: 'The U.S. Chamber of Commerce is the largest lobbying spender at over $607 million since 2018. Other top spenders include Business Roundtable, Meta Platforms, and major pharmaceutical and defense companies.' } },
+      { '@type': 'Question', name: 'What is the revolving door in lobbying?', acceptedAnswer: { '@type': 'Answer', text: 'The revolving door refers to the movement of government officials into lobbying careers. Over 5,000 former government officials are now registered lobbyists. Firms employing these former officials charge 369% more than those without, reflecting the value of insider access.' } },
+      { '@type': 'Question', name: 'Is lobbying legal?', acceptedAnswer: { '@type': 'Answer', text: 'Yes. Lobbying is protected by the First Amendment right to petition the government. However, the Lobbying Disclosure Act of 1995 requires lobbyists to register and file quarterly reports disclosing their clients, issues, and income. These public filings are what OpenLobby analyzes.' } },
+    ],
+  }
+
   return (
     <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <header className="mb-12">
         <p className="text-sm font-semibold text-indigo-600 uppercase tracking-wider mb-3">Complete Guide</p>
         <h1 className="text-4xl md:text-5xl font-black mb-6 leading-tight" style={{ fontFamily: 'var(--font-serif)' }}>

@@ -25,8 +25,19 @@ const sisterSites = [
 ]
 
 export default function AboutPage() {
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      { '@type': 'Question', name: 'What is OpenLobby?', acceptedAnswer: { '@type': 'Answer', text: 'OpenLobby is a free, independent data journalism platform that makes federal lobbying data accessible and searchable. We process 726,000+ Senate LDA filings covering $37.7 billion in lobbying spending from 2018-2025.' } },
+      { '@type': 'Question', name: 'Where does OpenLobby data come from?', acceptedAnswer: { '@type': 'Answer', text: 'All data comes from the U.S. Senate Lobbying Disclosure Act (LDA) filings, which are public records. Lobbyists are required by law to file quarterly reports disclosing their clients, spending, issues, and activities.' } },
+      { '@type': 'Question', name: 'Is OpenLobby free?', acceptedAnswer: { '@type': 'Answer', text: 'Yes. OpenLobby has no paywall, no login requirement, and no ads. All processed data is freely downloadable for journalists, researchers, and citizens.' } },
+    ],
+  }
+
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       {/* Hero */}
       <div className="bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 text-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-16">
