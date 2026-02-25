@@ -28,9 +28,8 @@ interface Issue {
 }
 
 export default function AIRegulationFightPage() {
-  const dataDir = path.join(process.cwd(), 'public', 'data')
-  const clients: Client[] = JSON.parse(fs.readFileSync(path.join(dataDir, 'top-clients.json'), 'utf-8'))
-  const issues: Issue[] = JSON.parse(fs.readFileSync(path.join(dataDir, 'issues.json'), 'utf-8'))
+  const clients: Client[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'top-clients.json'), 'utf-8'))
+  const issues: Issue[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'issues.json'), 'utf-8'))
 
   const techMap: Record<string, string[]> = {
     'Google': ['google client services', 'google public sector', 'google cloud'],

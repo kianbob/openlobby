@@ -29,9 +29,8 @@ interface ContractEntry {
 }
 
 export default function DefenseContractorLobbyingPage() {
-  const dataDir = path.join(process.cwd(), 'public', 'data')
-  const clients: Client[] = JSON.parse(fs.readFileSync(path.join(dataDir, 'top-clients.json'), 'utf-8'))
-  const contracts: ContractEntry[] = JSON.parse(fs.readFileSync(path.join(dataDir, 'follow-the-money.json'), 'utf-8'))
+  const clients: Client[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'top-clients.json'), 'utf-8'))
+  const contracts: ContractEntry[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'follow-the-money.json'), 'utf-8'))
 
   const defenseTerms = ['boeing', 'lockheed', 'rtx', 'raytheon', 'northrop', 'general dynamics', 'bae systems', 'huntington ingalls']
   const defenseClients = clients.filter(c => defenseTerms.some(t => c.name.toLowerCase().includes(t)))

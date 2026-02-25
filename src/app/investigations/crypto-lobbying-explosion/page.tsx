@@ -21,8 +21,7 @@ interface Client {
 }
 
 export default function CryptoLobbyingExplosionPage() {
-  const dataDir = path.join(process.cwd(), 'public', 'data')
-  const clients: Client[] = JSON.parse(fs.readFileSync(path.join(dataDir, 'top-clients.json'), 'utf-8'))
+  const clients: Client[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'top-clients.json'), 'utf-8'))
 
   const cryptoTerms = ['coinbase', 'ripple', 'blockchain', 'crypto', 'digital currency', 'bitcoin']
   const cryptoClients = clients.filter(c => cryptoTerms.some(t => c.name.toLowerCase().includes(t)))

@@ -45,9 +45,8 @@ interface TrendYear {
 }
 
 export default function TariffLobbyingSurgePage() {
-  const dataDir = path.join(process.cwd(), 'public', 'data')
-  const surgeData: SurgeData = JSON.parse(fs.readFileSync(path.join(dataDir, 'surge-tracker.json'), 'utf-8'))
-  const trends: TrendYear[] = JSON.parse(fs.readFileSync(path.join(dataDir, 'trends.json'), 'utf-8'))
+  const surgeData: SurgeData = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'surge-tracker.json'), 'utf-8'))
+  const trends: TrendYear[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'trends.json'), 'utf-8'))
 
   const tariffIssue = [...surgeData.surging, ...(surgeData.allIssues || [])].find(i => i.code === 'TAR')
   const tradeIssue = [...surgeData.surging, ...(surgeData.allIssues || [])].find(i => i.code === 'TRD')
