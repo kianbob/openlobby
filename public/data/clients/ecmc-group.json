@@ -1,1 +1,77 @@
-{"id":125527,"name":"ECMC GROUP","slug":"ecmc-group","state":"MN","description":"Nonprofit corporation","totalSpending":2080000,"filings":32,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":270000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":270000},{"year":2025,"income":300000}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["PAUL BOCK","LAUREN MADDOX","TODD WOOTEN","KATHRYN LEHMAN"],"issues":["EDU",null],"sampleDescriptions":["Higher Education issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 125527,
+  "name": "ECMC GROUP",
+  "slug": "ecmc-group",
+  "state": "MN",
+  "description": "Nonprofit corporation",
+  "totalSpending": 2080000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 270000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 270000
+    },
+    {
+      "year": 2025,
+      "income": 300000
+    }
+  ],
+  "firms": [
+    "HOLLAND & KNIGHT LLP"
+  ],
+  "lobbyists": [
+    "PAUL BOCK",
+    "LAUREN MADDOX",
+    "TODD WOOTEN",
+    "KATHRYN LEHMAN"
+  ],
+  "issues": [
+    "EDU",
+    null
+  ],
+  "sampleDescriptions": [
+    "Higher Education issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 7,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 260000,
+  "peakYear": 2025,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1
+}

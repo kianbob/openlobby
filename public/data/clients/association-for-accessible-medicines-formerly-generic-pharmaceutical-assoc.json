@@ -1,1 +1,106 @@
-{"id":165711,"name":"ASSOCIATION FOR ACCESSIBLE MEDICINES (FORMERLY GENERIC PHARMACEUTICAL ASSOC.)","slug":"association-for-accessible-medicines-formerly-generic-pharmaceutical-assoc","state":"DC","description":"National trade organization representing the interests of generic drug manufacturers.","totalSpending":1480000,"filings":32,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":200000},{"year":2020,"income":190000},{"year":2021,"income":160000},{"year":2022,"income":240000},{"year":2023,"income":160000},{"year":2024,"income":200000},{"year":2025,"income":180000}],"firms":["CAPITOL HILL CONSULTING GROUP"],"lobbyists":["BRIAN SUTTER","DAVID EDWARDS","WILLIAM SOUTHERLAND","THOMAS WHARTON","EMILY WILKINSON-HOLLAND","CHRISTOPHER DAVIS","KIMBERLEE TRZECIAK"],"issues":["HCR","TAX","MMM","TRD","PHA",null,"DEF","CPT"],"sampleDescriptions":["- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- FAST Generics Act / CREATES Act of 2017 concerning REMS\n- Issues related to H.R. 1628, the American Health Care Act.\n- Issues related to H.R. 1625, the Consolidated Appropriations Act of 2018","Issues related to tax reform concerning Border Adjustment Tax","Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program. \nIssues related to the Medicare low-income subsidy. \nIssues related to the cost of prescription drugs.\nIssues pertaining to coverage and reimbursement of biosimilars.","- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- FAST Generics Act / CREATES Act of 2017 concerning REMS\n- Issues related to H.R. 1628, the American Health Care Act.","Issues relating to coverage of genetics and biosimilars as part of USMCA","- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- FAST Generics Act / CREATES Act of 2017 concerning REMS \n- Issues related to H.R. 1628, the American Health Care Act.","Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program. \nIssues related to the Medicare low-income subsidy. \nIssues related to the cost of prescription drugs. \nIssues pertaining to coverage and reimbursement of biosimilars.","Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program. \nIssues related to the Medicare low-income subsidy. \nIssues related to the cost of prescription drugs. \nIssues pertaining to coverage and reimbursement of biosimilars.\nIssues related to Part D coverage of generic drugs, including Part D redesign.","- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- FAST Generics Act / CREATES Act of 2017 concerning REMS","Issues relating to coverage of generics and biosimilars as part of USMCA","Issues relating to coverage of generics and biosimilars as part of USMCA. Issues related to Buy American.","- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- Issues relating to the Lower Health Care Costs Act, including 180 day exclusivity for generics.\n- Issues related to coronavirus, including supply chain safety.","Issues related to Buy American.","- Issues relating to the labeling of generic drugs.\n- Issues relating to the 180 day exclusivity for generics.\n- Issues related to coronavirus, including supply chain safety.","Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program.\nIssues related to the Medicare low-income subsidy.\nIssues related to the cost of prescription drugs.\nIssues pertaining to coverage and reimbursement of biosimilars.\nIssues related to Part D coverage of generic drugs, including Part D redesign.","Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program.\nIssues related to the Medicare low-income subsidy.\nIssues related to the cost of prescription drugs.\nIssues pertaining to coverage and reimbursement of biosimilars.\nIssues related to Part D coverage of generic drugs, including Part D redesign.\nIssues relating to the impact of prescription drug negotiation on generic drugs and biosimilars.","- Issues relating to the labeling of generic drugs. - Issues relating to the 180 day exclusivity for generics. - Issues related to coronavirus, including supply chain safety.","Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program. Issues related to the Medicare low-income subsidy. Issues related to the cost of prescription drugs. Issues pertaining to coverage and reimbursement of biosimilars. Issues related to Part D coverage of generic drugs, including Part D redesign. Issues relating to the impact of prescription drug negotiation on generic drugs and biosimilars.","Generic Drug User Fee Amendments (GDUFA)","- Issues relating to the labeling of generic drugs. - Issues relating to the 180 day exclusivity for generics. - Issues related to medical supply chain, including supply chain safety. - Issues related to drug pricing including drug negotiation"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 165711,
+  "name": "ASSOCIATION FOR ACCESSIBLE MEDICINES (FORMERLY GENERIC PHARMACEUTICAL ASSOC.)",
+  "slug": "association-for-accessible-medicines-formerly-generic-pharmaceutical-assoc",
+  "state": "DC",
+  "description": "National trade organization representing the interests of generic drug manufacturers.",
+  "totalSpending": 1480000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 190000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 160000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "CAPITOL HILL CONSULTING GROUP"
+  ],
+  "lobbyists": [
+    "BRIAN SUTTER",
+    "DAVID EDWARDS",
+    "WILLIAM SOUTHERLAND",
+    "THOMAS WHARTON",
+    "EMILY WILKINSON-HOLLAND",
+    "CHRISTOPHER DAVIS",
+    "KIMBERLEE TRZECIAK"
+  ],
+  "issues": [
+    "HCR",
+    "TAX",
+    "MMM",
+    "TRD",
+    "PHA",
+    null,
+    "DEF",
+    "CPT"
+  ],
+  "sampleDescriptions": [
+    "- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- FAST Generics Act / CREATES Act of 2017 concerning REMS\n- Issues related to H.R. 1628, the American Health Care Act.\n- Issues related to H.R. 1625, the Consolidated Appropriations Act of 2018",
+    "Issues related to tax reform concerning Border Adjustment Tax",
+    "Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program. \nIssues related to the Medicare low-income subsidy. \nIssues related to the cost of prescription drugs.\nIssues pertaining to coverage and reimbursement of biosimilars.",
+    "- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- FAST Generics Act / CREATES Act of 2017 concerning REMS\n- Issues related to H.R. 1628, the American Health Care Act.",
+    "Issues relating to coverage of genetics and biosimilars as part of USMCA",
+    "- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- FAST Generics Act / CREATES Act of 2017 concerning REMS \n- Issues related to H.R. 1628, the American Health Care Act.",
+    "Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program. \nIssues related to the Medicare low-income subsidy. \nIssues related to the cost of prescription drugs. \nIssues pertaining to coverage and reimbursement of biosimilars.",
+    "Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program. \nIssues related to the Medicare low-income subsidy. \nIssues related to the cost of prescription drugs. \nIssues pertaining to coverage and reimbursement of biosimilars.\nIssues related to Part D coverage of generic drugs, including Part D redesign.",
+    "- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- FAST Generics Act / CREATES Act of 2017 concerning REMS",
+    "Issues relating to coverage of generics and biosimilars as part of USMCA",
+    "Issues relating to coverage of generics and biosimilars as part of USMCA. Issues related to Buy American.",
+    "- Issues relating to bioequivalence and related administrative procedures. \n- Issues relating to prescription drug abuse. \n- Issues relating to the labeling of generic drugs. \n- Issues relating to the Lower Health Care Costs Act, including 180 day exclusivity for generics.\n- Issues related to coronavirus, including supply chain safety.",
+    "Issues related to Buy American.",
+    "- Issues relating to the labeling of generic drugs.\n- Issues relating to the 180 day exclusivity for generics.\n- Issues related to coronavirus, including supply chain safety.",
+    "Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program.\nIssues related to the Medicare low-income subsidy.\nIssues related to the cost of prescription drugs.\nIssues pertaining to coverage and reimbursement of biosimilars.\nIssues related to Part D coverage of generic drugs, including Part D redesign.",
+    "Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program.\nIssues related to the Medicare low-income subsidy.\nIssues related to the cost of prescription drugs.\nIssues pertaining to coverage and reimbursement of biosimilars.\nIssues related to Part D coverage of generic drugs, including Part D redesign.\nIssues relating to the impact of prescription drug negotiation on generic drugs and biosimilars.",
+    "- Issues relating to the labeling of generic drugs. - Issues relating to the 180 day exclusivity for generics. - Issues related to coronavirus, including supply chain safety.",
+    "Provisions from the Bipartisan Budget Act of 2015 concerning the Medicaid rebate program. Issues related to the Medicare low-income subsidy. Issues related to the cost of prescription drugs. Issues pertaining to coverage and reimbursement of biosimilars. Issues related to Part D coverage of generic drugs, including Part D redesign. Issues relating to the impact of prescription drug negotiation on generic drugs and biosimilars.",
+    "Generic Drug User Fee Amendments (GDUFA)",
+    "- Issues relating to the labeling of generic drugs. - Issues relating to the 180 day exclusivity for generics. - Issues related to medical supply chain, including supply chain safety. - Issues related to drug pricing including drug negotiation"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 185000,
+  "peakYear": 2022,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 7,
+  "industry": "healthcare"
+}

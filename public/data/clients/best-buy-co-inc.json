@@ -1,1 +1,109 @@
-{"id":186670,"name":"BEST BUY CO. INC.","slug":"best-buy-co-inc","state":"MN","description":"Retailer","totalSpending":1700000,"filings":29,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":60000},{"year":2021,"income":260000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":240000}],"firms":["KOUNTOUPES DENHAM CARR & REID, LLC"],"lobbyists":["LORI DENHAM","MARY REID","ROSE SULLIVAN (LISTED IN ERROR)","DAVID PELUSO","JULIE CARR","MJ KENNY","ADAM HECHAVARRIA","DENISE MOUSOURIS","CLAYTON HAYES","MARY BEAL"],"issues":["TRD","TAX","EDU","HCR","CPI","ECN","CSP",null,"FIN"],"sampleDescriptions":["Issues related to international trade and competitiveness.","Issues related to comprehensive tax reform.  Treatment of sales tax collection for online purchases, including S. 976, The Marketplace Fairness Act of 2017 and H. R. 2193, The Remote Transactions Parity Act of 2017.   Issues related to H. R. 1625, the Consolidated Appropriations Act of 2018.","Issues related to international trade and competitiveness including tariffs.","Issues related to comprehensive tax reform.  Treatment of sales tax collection for online purchases, including S. 976, The Marketplace Fairness Act of 2017 and H. R. 2193, The Remote Transactions Parity Act of 2017.","Issues related to STEM education and the role of teen tech centers in preparing students for jobs of the future.","Issues related to international trade and competitiveness, including tariffs.","Issues related to the implementation of The Tax Cuts and Jobs Act of 2017, including the Qualified Improvement Property (QIP) technical correction. Treatment of sales tax collection for online purchases and state implementation of South Dakota V. Wayfair, support for the extension of the Work Opportunity Tax Credit.","Issues related to telehealth and remote patient monitoring.","Issues related to the implementation of The Tax Cuts and Jobs Act of 2017, including the Qualified Improvement Property (QIP) technical correction. Treatment of sales tax collection for online purchases and state implementation of South Dakota V. Wayfair.","Issues related to telehealth and remote patient monitoring. Issues related to mental health benefits.","Issues related to healthcare, technology and tax.","Issues related to product sourcing global supply chains.","Issues related to corporate taxation.","Issues related to digital health and connected healthcare.","Issues related to product sourcing global supply chains and semiconductor shortages.  Issues related to S.1260, the United States Innovation and Competition Act of 2021.","Issues related to the Fiscal Year 2022 budget reconciliation process including corporate taxation.","Issues related to corporate taxation in the Build Back Better Act.","Issues related to global supply chains.","Issues related to corporate taxation in the Fiscal Year 2022 budget reconciliation process, including H.R. 5376, Build Back Better Act.","Issues related to global supply chain. Issues related to H.R. 4996/S. 3580, Ocean Shipping Reform Act. Issues related to S. 1260, the United States Innovation Competition Act of 2021 and H.R. 4521, America COMPETES Act of 2022."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 186670,
+  "name": "BEST BUY CO. INC.",
+  "slug": "best-buy-co-inc",
+  "state": "MN",
+  "description": "Retailer",
+  "totalSpending": 1700000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 60000
+    },
+    {
+      "year": 2021,
+      "income": 260000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "KOUNTOUPES DENHAM CARR & REID, LLC"
+  ],
+  "lobbyists": [
+    "LORI DENHAM",
+    "MARY REID",
+    "ROSE SULLIVAN (LISTED IN ERROR)",
+    "DAVID PELUSO",
+    "JULIE CARR",
+    "MJ KENNY",
+    "ADAM HECHAVARRIA",
+    "DENISE MOUSOURIS",
+    "CLAYTON HAYES",
+    "MARY BEAL"
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "EDU",
+    "HCR",
+    "CPI",
+    "ECN",
+    "CSP",
+    null,
+    "FIN"
+  ],
+  "sampleDescriptions": [
+    "Issues related to international trade and competitiveness.",
+    "Issues related to comprehensive tax reform.  Treatment of sales tax collection for online purchases, including S. 976, The Marketplace Fairness Act of 2017 and H. R. 2193, The Remote Transactions Parity Act of 2017.   Issues related to H. R. 1625, the Consolidated Appropriations Act of 2018.",
+    "Issues related to international trade and competitiveness including tariffs.",
+    "Issues related to comprehensive tax reform.  Treatment of sales tax collection for online purchases, including S. 976, The Marketplace Fairness Act of 2017 and H. R. 2193, The Remote Transactions Parity Act of 2017.",
+    "Issues related to STEM education and the role of teen tech centers in preparing students for jobs of the future.",
+    "Issues related to international trade and competitiveness, including tariffs.",
+    "Issues related to the implementation of The Tax Cuts and Jobs Act of 2017, including the Qualified Improvement Property (QIP) technical correction. Treatment of sales tax collection for online purchases and state implementation of South Dakota V. Wayfair, support for the extension of the Work Opportunity Tax Credit.",
+    "Issues related to telehealth and remote patient monitoring.",
+    "Issues related to the implementation of The Tax Cuts and Jobs Act of 2017, including the Qualified Improvement Property (QIP) technical correction. Treatment of sales tax collection for online purchases and state implementation of South Dakota V. Wayfair.",
+    "Issues related to telehealth and remote patient monitoring. Issues related to mental health benefits.",
+    "Issues related to healthcare, technology and tax.",
+    "Issues related to product sourcing global supply chains.",
+    "Issues related to corporate taxation.",
+    "Issues related to digital health and connected healthcare.",
+    "Issues related to product sourcing global supply chains and semiconductor shortages.  Issues related to S.1260, the United States Innovation and Competition Act of 2021.",
+    "Issues related to the Fiscal Year 2022 budget reconciliation process including corporate taxation.",
+    "Issues related to corporate taxation in the Build Back Better Act.",
+    "Issues related to global supply chains.",
+    "Issues related to corporate taxation in the Fiscal Year 2022 budget reconciliation process, including H.R. 5376, Build Back Better Act.",
+    "Issues related to global supply chain. Issues related to H.R. 4996/S. 3580, Ocean Shipping Reform Act. Issues related to S. 1260, the United States Innovation Competition Act of 2021 and H.R. 4521, America COMPETES Act of 2022."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 212500,
+  "peakYear": 2021,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 8
+}

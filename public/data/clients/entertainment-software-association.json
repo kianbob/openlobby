@@ -1,1 +1,100 @@
-{"id":106700,"name":"ENTERTAINMENT SOFTWARE ASSOCIATION","slug":"entertainment-software-association","state":"DC","description":"Trade association representing companies that publish computer and video games","totalSpending":1400000,"filings":28,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":200000},{"year":2020,"income":100000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["LOREN MONROE","MAYA SEIDEN","WILLIAM CROZER","ANDREW LEWIN","DANIEL MURPHY","JUSTIN RZEPKA","ROBIN COLWELL","ERSKINE WELLS","FRED TURNER","SYD TERRY","JOSEPH LAI","PETER LEWIS"],"issues":["IMM","TRD","TAX","TEC","EDU",null],"sampleDescriptions":["Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy","Strategic guidance and counsel on potential changes to US trade policy","Strategic guidance and counsel on potential corporate tax reform","Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/cyber policy","Strategic guidance and counsel on potential legislative or regulatory actions effecting STEM education","Strategic guidance and counsel on potential legislative or regulatory actions effecting STEM education; Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy;  Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/cyber policy","Strategic guidance and counsel on potential legislative or regulatory actions affecting STEM education; Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy;  Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/cyber policy","Strategic guidance and counsel on potential legislative or regulatory actions affecting STEM education; Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy;  Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/broadband","Strategic guidance and counsel on potential legislative or regulatory actions affecting STEM education; Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy; Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/broadband","Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions affecting technology/broadband","Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/broadband"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 106700,
+  "name": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+  "slug": "entertainment-software-association",
+  "state": "DC",
+  "description": "Trade association representing companies that publish computer and video games",
+  "totalSpending": 1400000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 100000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "LOREN MONROE",
+    "MAYA SEIDEN",
+    "WILLIAM CROZER",
+    "ANDREW LEWIN",
+    "DANIEL MURPHY",
+    "JUSTIN RZEPKA",
+    "ROBIN COLWELL",
+    "ERSKINE WELLS",
+    "FRED TURNER",
+    "SYD TERRY",
+    "JOSEPH LAI",
+    "PETER LEWIS"
+  ],
+  "issues": [
+    "IMM",
+    "TRD",
+    "TAX",
+    "TEC",
+    "EDU",
+    null
+  ],
+  "sampleDescriptions": [
+    "Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy",
+    "Strategic guidance and counsel on potential changes to US trade policy",
+    "Strategic guidance and counsel on potential corporate tax reform",
+    "Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/cyber policy",
+    "Strategic guidance and counsel on potential legislative or regulatory actions effecting STEM education",
+    "Strategic guidance and counsel on potential legislative or regulatory actions effecting STEM education; Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy;  Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/cyber policy",
+    "Strategic guidance and counsel on potential legislative or regulatory actions affecting STEM education; Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy;  Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/cyber policy",
+    "Strategic guidance and counsel on potential legislative or regulatory actions affecting STEM education; Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy;  Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/broadband",
+    "Strategic guidance and counsel on potential legislative or regulatory actions affecting STEM education; Strategic guidance and counsel on potential legislative or regulatory actions to reform immigration policy; Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/broadband",
+    "Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions affecting technology/broadband",
+    "Strategic guidance and counsel on potential changes to US trade policy; Strategic guidance and counsel on potential legislative or regulatory actions effecting technology/broadband"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 175000,
+  "peakYear": 2019,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "technology"
+}

@@ -1,1 +1,87 @@
-{"id":208669,"name":"PELOTON INTERACTIVE, INC.","slug":"peloton-interactive-inc","state":"NY","description":"American exercise equipment and media company.","totalSpending":1410000,"filings":21,"yearlySpending":[{"year":2021,"income":210000},{"year":2022,"income":300000},{"year":2023,"income":240000},{"year":2024,"income":300000},{"year":2025,"income":360000}],"firms":["FORBES-TATE"],"lobbyists":["ZACHARY WILLIAMS","RACHEL MILLER","ELIZABETH GREER","JEFFREY FORBES","JEFFREY STRUNK","FRANKLYN STEINBERG","JEFFREY SADOSKY","RICK MURPHY","STEVEN PALMER","CYNTHIA BROWN","KELLEY WILLIAMS","ADRIENNE SCHWEER","RICHARD LOPEZ","JERRY DRISCOLL","JUSTIN KINTZ","TORI SMITH"],"issues":["TAX","TRD","CSP","SPO","HCR","VET","BUD","DEF",null],"sampleDescriptions":["Issues related to commerce, tax, trade and health.","Issues pertaining to the FY 2023 National Defense Authorization Act, including issues related to service member health and wellness.","Issues pertaining to H.R. 8238 - Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2023, including issues related to health and wellness. Issues related to service member and veteran health and wellness; H.R. 8236 - Department of Defense Appropriations Act, 2023 and H.R. 8238 - Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2023.","Issues related to service member and veteran health and wellness H.R. 8236 - Department of Defense Appropriations Act, 2023.","Issues pertaining to the FY 2023 National Defense Authorization Act (P.L. 117-13), including issues related to service member health and wellness.","Issues related to service member health and wellness.","Issues related to service member and veteran health and wellness, in general."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 208669,
+  "name": "PELOTON INTERACTIVE, INC.",
+  "slug": "peloton-interactive-inc",
+  "state": "NY",
+  "description": "American exercise equipment and media company.",
+  "totalSpending": 1410000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 210000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "FORBES-TATE"
+  ],
+  "lobbyists": [
+    "ZACHARY WILLIAMS",
+    "RACHEL MILLER",
+    "ELIZABETH GREER",
+    "JEFFREY FORBES",
+    "JEFFREY STRUNK",
+    "FRANKLYN STEINBERG",
+    "JEFFREY SADOSKY",
+    "RICK MURPHY",
+    "STEVEN PALMER",
+    "CYNTHIA BROWN",
+    "KELLEY WILLIAMS",
+    "ADRIENNE SCHWEER",
+    "RICHARD LOPEZ",
+    "JERRY DRISCOLL",
+    "JUSTIN KINTZ",
+    "TORI SMITH"
+  ],
+  "issues": [
+    "TAX",
+    "TRD",
+    "CSP",
+    "SPO",
+    "HCR",
+    "VET",
+    "BUD",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to commerce, tax, trade and health.",
+    "Issues pertaining to the FY 2023 National Defense Authorization Act, including issues related to service member health and wellness.",
+    "Issues pertaining to H.R. 8238 - Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2023, including issues related to health and wellness. Issues related to service member and veteran health and wellness; H.R. 8236 - Department of Defense Appropriations Act, 2023 and H.R. 8238 - Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2023.",
+    "Issues related to service member and veteran health and wellness H.R. 8236 - Department of Defense Appropriations Act, 2023.",
+    "Issues pertaining to the FY 2023 National Defense Authorization Act (P.L. 117-13), including issues related to service member health and wellness.",
+    "Issues related to service member health and wellness.",
+    "Issues related to service member and veteran health and wellness, in general."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 71,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 282000,
+  "peakYear": 2025,
+  "lobbyistCount": 16,
+  "firmCount": 1,
+  "issueCount": 8
+}

@@ -1,1 +1,90 @@
-{"id":212937,"name":"NATIONAL ASSOCIATION OF CHILDREN'S HOSPITALS","slug":"national-association-of-children-s-hospitals","state":"DC","description":"National trade association representing childrens hospitals","totalSpending":1460000,"filings":17,"yearlySpending":[{"year":2021,"income":50000},{"year":2022,"income":330000},{"year":2023,"income":360000},{"year":2024,"income":360000},{"year":2025,"income":360000}],"firms":["INVARIANT LLC"],"lobbyists":["BENJAMIN KLEIN","KATHRYN WISE","CHRISTOPHER GILLOTT","STEPHEN WEYLER","DREW GRIFFIN","JESSICA HATCHER","MATTHEW FERY","PAUL ARCANGELI","JACK SCHULER"],"issues":["HCR","MMM",null,"DEF","MED"],"sampleDescriptions":["Health care","Monitor H.R.5376, Build Back Better Act, for issues related to childrens mental and behavioral health, State Childrens Health Insurance Program, CHGME, maternal and new born health. Educate policymakers about childrens mental health care needs.","Monitor H.R.5376, Build Back Better Act for policies to improve childrens Medicaid.","Educate policymakers about childrens mental health care needs; support CHGME and SCHIP, and monitor related legislation including H.R.4944, Helping Kids Cope Act, S.3799 PREVENT Pandemics Act, and H.R.5376, Build Back Better Act.","Educate policymakers about policies to support children's mental health care needs; Support funding for CHGME and SCHIP; Monitor Senate Finance Committee's work on pediatric mental health including S.4472, the Health Care Capacity for Pediatric Mental Health Act of 2022; Monitor related legislation, including H.R.4944, Helping Kids Cope Act, S.3799 PREVENT Pandemics Act, and H.R.5376 Build Back Better Act.","Monitor H.R.5376, Build Back Better Act, for policies to improve children's Medicaid and issues related to Medicaid reimbursement.","Educate policymakers about policies to support children's mental health care needs; Support funding for CHGME and SCHIP; Monitor Senate Finance Committee's work on pediatric mental health, including S. 4472, the Health Care Capacity for Pediatric Mental Health Act of 2022; Monitor related legislation including H.R. 7666, the Restoring Hope for Mental Health and Well-Being Act of 2022.","Monitor policies to improve children's Medicaid and issues related to Medicaid reimbursement.","Educate policymakers about policies to support childrens mental health care needs; Support funding for CHGME; Monitor Senate Finance Committee's work on pediatric mental health, including S.4472, the Health Care Capacity for Pediatric Mental Health Act of 2022; Monitor related legislation, including H.R.7666, the Restoring Hope for Mental Health and Well-Being Act of 2022; Monitor S.2209/ H.R.4128 VALID Act.","Monitor policies to improve childrens Medicaid and issues related to Medicaid reimbursement.","Educate policymakers about policies to support children mental health care needs, including H.R.2412, the Helping Kids Cope Act; support funding for CHGME; monitor House and Senate work on pediatric and adolescent mental health. Advocate for childrens issues in S.2333, the Pandemic and All Hazards Preparedness Act; discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health. Monitor issues related to lab-developed tests.","Educate policymakers about policies to support children mental health care needs, including H.R.2412, the Helping Kids Cope Act; support funding for CHGME; discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health. Monitor issues related to lab-developed tests; discuss policies related to children's mental health, including in H.R.7808, EARLY Minds Act; monitor policy related to AI and privacy; discuss policies related to TRICARE.","Monitor policies to improve children's Medicaid and issues related to Medicaid reimbursement, including H.R.5758, the Accelerating Kids Access to Care Act.","Educate policymakers about policies to support children mental health care needs, including H.R.2412, the Helping Kids Cope Act and H.R.7808, Early Minds Act; support funding for CHGME; monitor House and Senate work on pediatric and adolescent mental health; discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health; educate policymakers on Children's Hospitals Graduate Medical Education (CHGME); monitor issues related to lab-developed tests; monitor AI and health care technology privacy; monitor policies related to the 340B program.","Monitor policies to improve children's Medicaid and issues related to Medicaid reimbursement, including H.R.4758, Accelerating Kids Access to Care Act.","Educate policymakers about policies to support children's mental health care needs, including H.R.2412, the Helping Kids Cope Act; support funding for CHGME; monitor House and Senate work on pediatric and adolescent mental health. Discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health. Monitor issues related to lab-developed tests. Monitor Emergency Medical Services for Kids Reauthorization.","Monitor the final rule on the Defense Health Agencys (DHA) TRICARE; Reimbursement of Ambulatory Surgery Centers and Outpatient Services Provided in Cancer and Childrens Hospitals on military-connected children.","Educate policymakers about policies to support children's mental health care needs; support funding for CHGME; monitor House and Senate work on pediatric and adolescent mental health. Advocate for children's issues in disaster preparedness efforts; discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health. Monitor issues related to lab-developed tests.","Monitor the final rule on the Defense Health Agencys (DHA) TRICARE; Reimbursement of Ambulatory Surgery Centers and Outpatient Services Provided in Cancer and Childrens Hospitals for military-connected children.","Monitor policies to improve children's Medicaid and issues related to Medicaid reimbursement. Support S.752/H.R. 1509, the Accelerating Kids Access to Care Act."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 212937,
+  "name": "NATIONAL ASSOCIATION OF CHILDREN'S HOSPITALS",
+  "slug": "national-association-of-children-s-hospitals",
+  "state": "DC",
+  "description": "National trade association representing childrens hospitals",
+  "totalSpending": 1460000,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 50000
+    },
+    {
+      "year": 2022,
+      "income": 330000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "INVARIANT LLC"
+  ],
+  "lobbyists": [
+    "BENJAMIN KLEIN",
+    "KATHRYN WISE",
+    "CHRISTOPHER GILLOTT",
+    "STEPHEN WEYLER",
+    "DREW GRIFFIN",
+    "JESSICA HATCHER",
+    "MATTHEW FERY",
+    "PAUL ARCANGELI",
+    "JACK SCHULER"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null,
+    "DEF",
+    "MED"
+  ],
+  "sampleDescriptions": [
+    "Health care",
+    "Monitor H.R.5376, Build Back Better Act, for issues related to childrens mental and behavioral health, State Childrens Health Insurance Program, CHGME, maternal and new born health. Educate policymakers about childrens mental health care needs.",
+    "Monitor H.R.5376, Build Back Better Act for policies to improve childrens Medicaid.",
+    "Educate policymakers about childrens mental health care needs; support CHGME and SCHIP, and monitor related legislation including H.R.4944, Helping Kids Cope Act, S.3799 PREVENT Pandemics Act, and H.R.5376, Build Back Better Act.",
+    "Educate policymakers about policies to support children's mental health care needs; Support funding for CHGME and SCHIP; Monitor Senate Finance Committee's work on pediatric mental health including S.4472, the Health Care Capacity for Pediatric Mental Health Act of 2022; Monitor related legislation, including H.R.4944, Helping Kids Cope Act, S.3799 PREVENT Pandemics Act, and H.R.5376 Build Back Better Act.",
+    "Monitor H.R.5376, Build Back Better Act, for policies to improve children's Medicaid and issues related to Medicaid reimbursement.",
+    "Educate policymakers about policies to support children's mental health care needs; Support funding for CHGME and SCHIP; Monitor Senate Finance Committee's work on pediatric mental health, including S. 4472, the Health Care Capacity for Pediatric Mental Health Act of 2022; Monitor related legislation including H.R. 7666, the Restoring Hope for Mental Health and Well-Being Act of 2022.",
+    "Monitor policies to improve children's Medicaid and issues related to Medicaid reimbursement.",
+    "Educate policymakers about policies to support childrens mental health care needs; Support funding for CHGME; Monitor Senate Finance Committee's work on pediatric mental health, including S.4472, the Health Care Capacity for Pediatric Mental Health Act of 2022; Monitor related legislation, including H.R.7666, the Restoring Hope for Mental Health and Well-Being Act of 2022; Monitor S.2209/ H.R.4128 VALID Act.",
+    "Monitor policies to improve childrens Medicaid and issues related to Medicaid reimbursement.",
+    "Educate policymakers about policies to support children mental health care needs, including H.R.2412, the Helping Kids Cope Act; support funding for CHGME; monitor House and Senate work on pediatric and adolescent mental health. Advocate for childrens issues in S.2333, the Pandemic and All Hazards Preparedness Act; discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health. Monitor issues related to lab-developed tests.",
+    "Educate policymakers about policies to support children mental health care needs, including H.R.2412, the Helping Kids Cope Act; support funding for CHGME; discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health. Monitor issues related to lab-developed tests; discuss policies related to children's mental health, including in H.R.7808, EARLY Minds Act; monitor policy related to AI and privacy; discuss policies related to TRICARE.",
+    "Monitor policies to improve children's Medicaid and issues related to Medicaid reimbursement, including H.R.5758, the Accelerating Kids Access to Care Act.",
+    "Educate policymakers about policies to support children mental health care needs, including H.R.2412, the Helping Kids Cope Act and H.R.7808, Early Minds Act; support funding for CHGME; monitor House and Senate work on pediatric and adolescent mental health; discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health; educate policymakers on Children's Hospitals Graduate Medical Education (CHGME); monitor issues related to lab-developed tests; monitor AI and health care technology privacy; monitor policies related to the 340B program.",
+    "Monitor policies to improve children's Medicaid and issues related to Medicaid reimbursement, including H.R.4758, Accelerating Kids Access to Care Act.",
+    "Educate policymakers about policies to support children's mental health care needs, including H.R.2412, the Helping Kids Cope Act; support funding for CHGME; monitor House and Senate work on pediatric and adolescent mental health. Discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health. Monitor issues related to lab-developed tests. Monitor Emergency Medical Services for Kids Reauthorization.",
+    "Monitor the final rule on the Defense Health Agencys (DHA) TRICARE; Reimbursement of Ambulatory Surgery Centers and Outpatient Services Provided in Cancer and Childrens Hospitals on military-connected children.",
+    "Educate policymakers about policies to support children's mental health care needs; support funding for CHGME; monitor House and Senate work on pediatric and adolescent mental health. Advocate for children's issues in disaster preparedness efforts; discuss the impact of pediatric workforce and drug/supply shortages and its impact on child health. Monitor issues related to lab-developed tests.",
+    "Monitor the final rule on the Defense Health Agencys (DHA) TRICARE; Reimbursement of Ambulatory Surgery Centers and Outpatient Services Provided in Cancer and Childrens Hospitals for military-connected children.",
+    "Monitor policies to improve children's Medicaid and issues related to Medicaid reimbursement. Support S.752/H.R. 1509, the Accelerating Kids Access to Care Act."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 620,
+  "trajectory": "exploding",
+  "yearsActive": 5,
+  "avgAnnualSpending": 292000,
+  "peakYear": 2023,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "healthcare"
+}

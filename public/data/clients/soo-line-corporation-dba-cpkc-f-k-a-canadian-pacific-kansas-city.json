@@ -1,1 +1,127 @@
-{"id":175629,"name":"SOO LINE CORPORATION DBA CPKC (F/K/A CANADIAN PACIFIC KANSAS CITY)","slug":"soo-line-corporation-dba-cpkc-f-k-a-canadian-pacific-kansas-city","state":null,"description":"Railway","totalSpending":1415000,"filings":28,"yearlySpending":[{"year":2018,"income":105000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":260000}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["DEAN ROSEN","DAVID THOMAS","ELISE FINLEY PICKERING","DAVID CASTAGNETTI","BRUCE MEHLMAN","CHARLES WOOTERS","SOHINI GUPTA","SAGE EASTMAN","LAUREN ARONSON","MICHAEL ROBINSON","MICHAEL COLLINS","CONSTANTINE HINGSON","STEVE HARO","HELEN TOLAR","NICHOLE DISTEFANO","MCKENZIE BRICE","PAUL THORNELL","STEPHEN COTE","ALEXANDER PERKINS","VICTORIA FLOOD","ROSEMARY GUTIERREZ","ZACHARY MALLOVE","CAITLIN VAN SANT","LISA GOLDMAN","ALYENE MLINAR","ERICA CHABOT","ANNIE WOLF","NAVEEN PARMAR","JON ADAME","JOSEPH BROWN","EARL FLOOD"],"issues":["TRD","TRA","BUD","RRR","HOM",null],"sampleDescriptions":["Rail industry infrastructure and trade.","Fiscal Year 2018 THUD Appropriations.","Rail industry infrastructure and safety.","Fiscal Year 2019 THUD Appropriations.","Rail industry infrastructure and safety and related issues.","Fiscal Year 2020 THUD Appropriations","Issues related to the railroad industry.","USMCA","Issues related to the railroad industry.\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136","Fiscal Year 2021 THUD Appropriations","Transshipment of Food Goods","Issues related to rail infrastructure.","Transshipment of Food Goods.","Fiscal Year 2022 THUD Appropriations.","Issues related to the railroad industry.\nIssues related to proposed CP KS Merger.","Issues related to rail infrastructure.\nH.R. 3684 - Infrastructure Investment and Jobs Act.","Trans-shipment of Food Goods.","Fiscal Year 2022 THUD Appropriations. Fiscal Year 2023 Appropriations.","Issues related to the railroad industry. Issues related to proposed CP KS Merger.","Fiscal Year 2023 Appropriations."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 175629,
+  "name": "SOO LINE CORPORATION DBA CPKC (F/K/A CANADIAN PACIFIC KANSAS CITY)",
+  "slug": "soo-line-corporation-dba-cpkc-f-k-a-canadian-pacific-kansas-city",
+  "state": null,
+  "description": "Railway",
+  "totalSpending": 1415000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 105000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 260000
+    }
+  ],
+  "firms": [
+    "MEHLMAN CONSULTING, INC."
+  ],
+  "lobbyists": [
+    "DEAN ROSEN",
+    "DAVID THOMAS",
+    "ELISE FINLEY PICKERING",
+    "DAVID CASTAGNETTI",
+    "BRUCE MEHLMAN",
+    "CHARLES WOOTERS",
+    "SOHINI GUPTA",
+    "SAGE EASTMAN",
+    "LAUREN ARONSON",
+    "MICHAEL ROBINSON",
+    "MICHAEL COLLINS",
+    "CONSTANTINE HINGSON",
+    "STEVE HARO",
+    "HELEN TOLAR",
+    "NICHOLE DISTEFANO",
+    "MCKENZIE BRICE",
+    "PAUL THORNELL",
+    "STEPHEN COTE",
+    "ALEXANDER PERKINS",
+    "VICTORIA FLOOD",
+    "ROSEMARY GUTIERREZ",
+    "ZACHARY MALLOVE",
+    "CAITLIN VAN SANT",
+    "LISA GOLDMAN",
+    "ALYENE MLINAR",
+    "ERICA CHABOT",
+    "ANNIE WOLF",
+    "NAVEEN PARMAR",
+    "JON ADAME",
+    "JOSEPH BROWN",
+    "EARL FLOOD"
+  ],
+  "issues": [
+    "TRD",
+    "TRA",
+    "BUD",
+    "RRR",
+    "HOM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Rail industry infrastructure and trade.",
+    "Fiscal Year 2018 THUD Appropriations.",
+    "Rail industry infrastructure and safety.",
+    "Fiscal Year 2019 THUD Appropriations.",
+    "Rail industry infrastructure and safety and related issues.",
+    "Fiscal Year 2020 THUD Appropriations",
+    "Issues related to the railroad industry.",
+    "USMCA",
+    "Issues related to the railroad industry.\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136",
+    "Fiscal Year 2021 THUD Appropriations",
+    "Transshipment of Food Goods",
+    "Issues related to rail infrastructure.",
+    "Transshipment of Food Goods.",
+    "Fiscal Year 2022 THUD Appropriations.",
+    "Issues related to the railroad industry.\nIssues related to proposed CP KS Merger.",
+    "Issues related to rail infrastructure.\nH.R. 3684 - Infrastructure Investment and Jobs Act.",
+    "Trans-shipment of Food Goods.",
+    "Fiscal Year 2022 THUD Appropriations. Fiscal Year 2023 Appropriations.",
+    "Issues related to the railroad industry. Issues related to proposed CP KS Merger.",
+    "Fiscal Year 2023 Appropriations."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 148,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 176875,
+  "peakYear": 2025,
+  "lobbyistCount": 31,
+  "firmCount": 1,
+  "issueCount": 5
+}

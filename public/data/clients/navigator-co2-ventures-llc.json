@@ -1,1 +1,63 @@
-{"id":212348,"name":"NAVIGATOR CO2 VENTURES LLC","slug":"navigator-co2-ventures-llc","state":"TX","description":"Energy Infrastructure","totalSpending":2120000,"filings":11,"yearlySpending":[{"year":2021,"income":450000},{"year":2022,"income":950000},{"year":2023,"income":720000}],"firms":["BRACEWELL LLP"],"lobbyists":["ANNA KARAKITSOS","SCOTT SEGAL","JOHN LEE","CHRISTINE WYMAN","LIAM DONOVAN","YASMIN NELSON","EMILY SCHMIDLIN","TIM URBAN","JOSEPH BRAZAUSKAS","IHNA MANGUNDAYAO"],"issues":["ENV","FUE",null],"sampleDescriptions":["Policy issues related to infrastructure for carbon capture and sequestration \nfor biofuels","Policy issues related to the consideration of seabed resources in addressing needs for critical minerals.","Policy issues related to infrastructure for carbon capture and sequestration\nfor biofuels","Policy issues related to infrastructure for carbon capture and sequestration for biofuels","Policy issues related to infrastructure for carbon capture and sequestration for biofuels including Inflation Reduction Act H.R.5367."],"years":[2021,2022,2023]}
+{
+  "id": 212348,
+  "name": "NAVIGATOR CO2 VENTURES LLC",
+  "slug": "navigator-co2-ventures-llc",
+  "state": "TX",
+  "description": "Energy Infrastructure",
+  "totalSpending": 2120000,
+  "filings": 11,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 450000
+    },
+    {
+      "year": 2022,
+      "income": 950000
+    },
+    {
+      "year": 2023,
+      "income": 720000
+    }
+  ],
+  "firms": [
+    "BRACEWELL LLP"
+  ],
+  "lobbyists": [
+    "ANNA KARAKITSOS",
+    "SCOTT SEGAL",
+    "JOHN LEE",
+    "CHRISTINE WYMAN",
+    "LIAM DONOVAN",
+    "YASMIN NELSON",
+    "EMILY SCHMIDLIN",
+    "TIM URBAN",
+    "JOSEPH BRAZAUSKAS",
+    "IHNA MANGUNDAYAO"
+  ],
+  "issues": [
+    "ENV",
+    "FUE",
+    null
+  ],
+  "sampleDescriptions": [
+    "Policy issues related to infrastructure for carbon capture and sequestration \nfor biofuels",
+    "Policy issues related to the consideration of seabed resources in addressing needs for critical minerals.",
+    "Policy issues related to infrastructure for carbon capture and sequestration\nfor biofuels",
+    "Policy issues related to infrastructure for carbon capture and sequestration for biofuels",
+    "Policy issues related to infrastructure for carbon capture and sequestration for biofuels including Inflation Reduction Act H.R.5367."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": 60,
+  "trajectory": "growing",
+  "yearsActive": 3,
+  "avgAnnualSpending": 706667,
+  "peakYear": 2022,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 2
+}

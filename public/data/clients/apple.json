@@ -1,1 +1,88 @@
-{"id":162939,"name":"APPLE","slug":"apple","state":"CA","description":null,"totalSpending":2520000,"filings":28,"yearlySpending":[{"year":2018,"income":360000},{"year":2019,"income":360000},{"year":2020,"income":270000},{"year":2021,"income":360000},{"year":2022,"income":270000},{"year":2023,"income":360000},{"year":2024,"income":270000},{"year":2025,"income":270000}],"firms":["CAPITOL TAX PARTNERS, LLP"],"lobbyists":["JONATHAN TALISMAN","CHRISTOPHER JAVENS","RANDOLPH HERNDON","SARAH SHIVE","JACOB TRIOLO"],"issues":["TAX",null],"sampleDescriptions":["Matters dealing with International Taxation, and H.R. 1, Bill to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 (bill formerly known as the Tax Cuts and Jobs Act).","Matters dealing with International Taxation.","Matters dealing with International Taxation, S. 3933, CHIPS for America Act.","Matters dealing with International Taxation and tax administration.","Matters dealing with international taxation and semiconductor supply chains.","Matters dealing with international taxation and semiconductor supply chains, H.R.1304 - American Innovation and R&D Competitiveness Act of 2021, and S.1159 - A bill to amend the Tariff Act of 1930 to enhance the authority of U.S. Customs and Border Protection to share information with respect to merchandise suspected of violating intellectual property rights with rights holders and other interested parties.","Matters dealing with tax reform, international taxation, and semiconductor supply chains, H.R.1304 - American Innovation and R&D Competitiveness Act of 2021.","Matters dealing with tax reform and international taxation.","Matters dealing with corporate and international taxation.","Matters dealing with corporate and international taxation, P.L. 119-21, and employee health benefits.","Matters dealing with corporate and international taxation and employee health benefits."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 162939,
+  "name": "APPLE",
+  "slug": "apple",
+  "state": "CA",
+  "description": null,
+  "totalSpending": 2520000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 360000
+    },
+    {
+      "year": 2019,
+      "income": 360000
+    },
+    {
+      "year": 2020,
+      "income": 270000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 270000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 270000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "CAPITOL TAX PARTNERS, LLP"
+  ],
+  "lobbyists": [
+    "JONATHAN TALISMAN",
+    "CHRISTOPHER JAVENS",
+    "RANDOLPH HERNDON",
+    "SARAH SHIVE",
+    "JACOB TRIOLO"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Matters dealing with International Taxation, and H.R. 1, Bill to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 (bill formerly known as the Tax Cuts and Jobs Act).",
+    "Matters dealing with International Taxation.",
+    "Matters dealing with International Taxation, S. 3933, CHIPS for America Act.",
+    "Matters dealing with International Taxation and tax administration.",
+    "Matters dealing with international taxation and semiconductor supply chains.",
+    "Matters dealing with international taxation and semiconductor supply chains, H.R.1304 - American Innovation and R&D Competitiveness Act of 2021, and S.1159 - A bill to amend the Tariff Act of 1930 to enhance the authority of U.S. Customs and Border Protection to share information with respect to merchandise suspected of violating intellectual property rights with rights holders and other interested parties.",
+    "Matters dealing with tax reform, international taxation, and semiconductor supply chains, H.R.1304 - American Innovation and R&D Competitiveness Act of 2021.",
+    "Matters dealing with tax reform and international taxation.",
+    "Matters dealing with corporate and international taxation.",
+    "Matters dealing with corporate and international taxation, P.L. 119-21, and employee health benefits.",
+    "Matters dealing with corporate and international taxation and employee health benefits."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 315000,
+  "peakYear": 2018,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1
+}

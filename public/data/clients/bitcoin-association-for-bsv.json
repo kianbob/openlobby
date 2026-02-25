@@ -1,1 +1,74 @@
-{"id":191373,"name":"BITCOIN ASSOCIATION FOR BSV","slug":"bitcoin-association-for-bsv","state":null,"description":"Leading global industry organization focused on growth of Bitcoin commerce","totalSpending":2260000,"filings":23,"yearlySpending":[{"year":2019,"income":80000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":260000},{"year":2023,"income":440000},{"year":2024,"income":400000},{"year":2025,"income":440000}],"firms":["COZEN O'CONNOR PUBLIC STRATEGIES"],"lobbyists":["HOWARD SCHWEITZER","MICHAEL BAIN","PATRICK MARTIN","MADISON SMITH","MEAGAN FOSTER"],"issues":["BAN","FIN",null],"sampleDescriptions":["Development of a regulatory environment that fosters lawful conduct while enabling cryptocurrency and blockchain innovation"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 191373,
+  "name": "BITCOIN ASSOCIATION FOR BSV",
+  "slug": "bitcoin-association-for-bsv",
+  "state": null,
+  "description": "Leading global industry organization focused on growth of Bitcoin commerce",
+  "totalSpending": 2260000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 80000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 260000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 400000
+    },
+    {
+      "year": 2025,
+      "income": 440000
+    }
+  ],
+  "firms": [
+    "COZEN O'CONNOR PUBLIC STRATEGIES"
+  ],
+  "lobbyists": [
+    "HOWARD SCHWEITZER",
+    "MICHAEL BAIN",
+    "PATRICK MARTIN",
+    "MADISON SMITH",
+    "MEAGAN FOSTER"
+  ],
+  "issues": [
+    "BAN",
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Development of a regulatory environment that fosters lawful conduct while enabling cryptocurrency and blockchain innovation"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 450,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 322857,
+  "peakYear": 2023,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2
+}

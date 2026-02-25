@@ -1,1 +1,89 @@
-{"id":202178,"name":"RECURRENT ENERGY, LLC","slug":"recurrent-energy-llc","state":"CA","description":"Utility-scale solar and energy storage project developer.","totalSpending":1430000,"filings":27,"yearlySpending":[{"year":2019,"income":40000},{"year":2020,"income":180000},{"year":2021,"income":200000},{"year":2022,"income":260000},{"year":2023,"income":270000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["LOT SIXTEEN LLC"],"lobbyists":["COLIN HAYES","JOSEPH EAVES","JENNIFER STORIPAN","ELLIE CLANCY","KYLIE FRONCZAK"],"issues":["TRD","TAX",null,"ENG"],"sampleDescriptions":["Solar-related Sec. 201 investigation and associated mid-term review.","Solar-related Sec. 201 Investigation and associated exclusion process.","Safe harbor and direct pay conversion for Solar ITC.","Safe harbor and direct pay conversion for Solar ITC.\nCOVID-19 Relief Advocacy, CARES Act, H.R.748\nThe Moving Forward Act (H.R. 2), direct pay\nLegislation to extend or establish new tax credits for renewable energy, including\nthe GREEN Act and the Moving Forward Act (H.R. 2).","The Moving Forward Act (H.R. 2), on tax credit policy.\nS.4290 - Building Businesses Back Act of 2020\nH.R.7734 - Building Businesses Back Act of 2020","Solar-related Sec. 201 Investigation, midterm review, and associated exclusion process.","The Consolidated Appropriations Act, 2021 (H.R. 133), including provisions related to the Solar ITC","Solar-related Sec. 201 safeguard measure and potential changes to its implementation","Improvements to monetization of clean energy tax credits, including via refundability","clean energy policies","Clean energy policies, including implementation of the Inflation Reduction Act","Issues related to the clean energy tax credits from the Inflation Reduction Act.","Tax policy relating to changes to clean energy tax credits under the Inflation Reduction Act","Permitting and approvals of renewable energy projects on public lands"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202178,
+  "name": "RECURRENT ENERGY, LLC",
+  "slug": "recurrent-energy-llc",
+  "state": "CA",
+  "description": "Utility-scale solar and energy storage project developer.",
+  "totalSpending": 1430000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 40000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 260000
+    },
+    {
+      "year": 2023,
+      "income": 270000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "LOT SIXTEEN LLC"
+  ],
+  "lobbyists": [
+    "COLIN HAYES",
+    "JOSEPH EAVES",
+    "JENNIFER STORIPAN",
+    "ELLIE CLANCY",
+    "KYLIE FRONCZAK"
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    null,
+    "ENG"
+  ],
+  "sampleDescriptions": [
+    "Solar-related Sec. 201 investigation and associated mid-term review.",
+    "Solar-related Sec. 201 Investigation and associated exclusion process.",
+    "Safe harbor and direct pay conversion for Solar ITC.",
+    "Safe harbor and direct pay conversion for Solar ITC.\nCOVID-19 Relief Advocacy, CARES Act, H.R.748\nThe Moving Forward Act (H.R. 2), direct pay\nLegislation to extend or establish new tax credits for renewable energy, including\nthe GREEN Act and the Moving Forward Act (H.R. 2).",
+    "The Moving Forward Act (H.R. 2), on tax credit policy.\nS.4290 - Building Businesses Back Act of 2020\nH.R.7734 - Building Businesses Back Act of 2020",
+    "Solar-related Sec. 201 Investigation, midterm review, and associated exclusion process.",
+    "The Consolidated Appropriations Act, 2021 (H.R. 133), including provisions related to the Solar ITC",
+    "Solar-related Sec. 201 safeguard measure and potential changes to its implementation",
+    "Improvements to monetization of clean energy tax credits, including via refundability",
+    "clean energy policies",
+    "Clean energy policies, including implementation of the Inflation Reduction Act",
+    "Issues related to the clean energy tax credits from the Inflation Reduction Act.",
+    "Tax policy relating to changes to clean energy tax credits under the Inflation Reduction Act",
+    "Permitting and approvals of renewable energy projects on public lands"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 500,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 204286,
+  "peakYear": 2023,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "energy"
+}

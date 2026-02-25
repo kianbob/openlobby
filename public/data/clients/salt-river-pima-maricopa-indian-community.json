@@ -1,1 +1,104 @@
-{"id":135916,"name":"SALT RIVER PIMA MARICOPA INDIAN COMMUNITY","slug":"salt-river-pima-maricopa-indian-community","state":"AZ","description":"Non-Profit","totalSpending":1895000,"filings":31,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":420000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":250000},{"year":2024,"income":260000},{"year":2025,"income":65000}],"firms":["PACE, LLP"],"lobbyists":["JAMES WISE","SCOTT DACEY","LAUREN WILSON","DEVIN RHINERSON","KEVIN EASTMAN","ROSS ARNETT"],"issues":["ENV","IND","TRA","TAX","HCR","DIS","AGR",null],"sampleDescriptions":["Endangered Species Act\nResources Conservation & Recovery Act\nDoT Reauthorization Act, TIGER Grants/ARRA\nEconomic Stimulus Legislation","Health Care Issues\nLand Use\nTribal Residential Leasing Regulation\nUSDA Programming\nFee to Trust Reform\nSelf Governance Legislation\nFederal Communication Issues","Department of Transportation Appropriations Bill","DoT Reauthorization Act, TIGER Grants/ARRA\nEconomic Stimulus Legislation","Opportunity Zone Program","Health Care Issues\nLand Use\nTribal Residential Leasing Regulation\nUSDA Programming\nFee to Trust Reform\nSelf Governance Legislation\nBIA Road and Transportation issues","Health Care Issues\nLand Use\nTribal Residential Leasing Regulation\nUSDA Programming\nFee to Trust Reform\nSelf Governance Legislation\nBIA Road and Transportation issues\nCOVID Response\nCOVID Economic Assistances issues","COVID response","COVID Related Issues\nCOVID Economic Response Issues","Health Care Issues\nLand Use\nTribal Residential Leasing Regulation\nUSDA Programming\nFee to Trust Reform\nSelf Governance Legislation\nBIA Road and Transportation issues\nCOVID Response","Dual Taxation on Tribal Governments","COVID Related Issues\nCOVID Economic Response Issues\nTribal Consultation--US Forest Service","Tribal Consultation - US Forest Service","Tax Parity\nDual Taxation","COVID 19 Emergency","IHS Construction","Tax Parity Dual Taxation","IHS Construction Sacred Site Protection","IHS Construction Native American Voting Rights Act Tribal jurisdiction","IHS Construction Native American Voting Rights Act Tribal jurisdiction Strengthening Tribal Families Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 135916,
+  "name": "SALT RIVER PIMA MARICOPA INDIAN COMMUNITY",
+  "slug": "salt-river-pima-maricopa-indian-community",
+  "state": "AZ",
+  "description": "Non-Profit",
+  "totalSpending": 1895000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 420000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 260000
+    },
+    {
+      "year": 2025,
+      "income": 65000
+    }
+  ],
+  "firms": [
+    "PACE, LLP"
+  ],
+  "lobbyists": [
+    "JAMES WISE",
+    "SCOTT DACEY",
+    "LAUREN WILSON",
+    "DEVIN RHINERSON",
+    "KEVIN EASTMAN",
+    "ROSS ARNETT"
+  ],
+  "issues": [
+    "ENV",
+    "IND",
+    "TRA",
+    "TAX",
+    "HCR",
+    "DIS",
+    "AGR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Endangered Species Act\nResources Conservation & Recovery Act\nDoT Reauthorization Act, TIGER Grants/ARRA\nEconomic Stimulus Legislation",
+    "Health Care Issues\nLand Use\nTribal Residential Leasing Regulation\nUSDA Programming\nFee to Trust Reform\nSelf Governance Legislation\nFederal Communication Issues",
+    "Department of Transportation Appropriations Bill",
+    "DoT Reauthorization Act, TIGER Grants/ARRA\nEconomic Stimulus Legislation",
+    "Opportunity Zone Program",
+    "Health Care Issues\nLand Use\nTribal Residential Leasing Regulation\nUSDA Programming\nFee to Trust Reform\nSelf Governance Legislation\nBIA Road and Transportation issues",
+    "Health Care Issues\nLand Use\nTribal Residential Leasing Regulation\nUSDA Programming\nFee to Trust Reform\nSelf Governance Legislation\nBIA Road and Transportation issues\nCOVID Response\nCOVID Economic Assistances issues",
+    "COVID response",
+    "COVID Related Issues\nCOVID Economic Response Issues",
+    "Health Care Issues\nLand Use\nTribal Residential Leasing Regulation\nUSDA Programming\nFee to Trust Reform\nSelf Governance Legislation\nBIA Road and Transportation issues\nCOVID Response",
+    "Dual Taxation on Tribal Governments",
+    "COVID Related Issues\nCOVID Economic Response Issues\nTribal Consultation--US Forest Service",
+    "Tribal Consultation - US Forest Service",
+    "Tax Parity\nDual Taxation",
+    "COVID 19 Emergency",
+    "IHS Construction",
+    "Tax Parity Dual Taxation",
+    "IHS Construction Sacred Site Protection",
+    "IHS Construction Native American Voting Rights Act Tribal jurisdiction",
+    "IHS Construction Native American Voting Rights Act Tribal jurisdiction Strengthening Tribal Families Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -73,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 236875,
+  "peakYear": 2020,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 7
+}

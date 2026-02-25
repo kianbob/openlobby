@@ -1,1 +1,73 @@
-{"id":184284,"name":"TANIUM INC.","slug":"tanium-inc","state":"CA","description":"IT Security and System management","totalSpending":2210000,"filings":20,"yearlySpending":[{"year":2018,"income":390000},{"year":2019,"income":390000},{"year":2020,"income":330000},{"year":2021,"income":640000},{"year":2022,"income":460000}],"firms":["J.A. GREEN AND COMPANY"],"lobbyists":["JEFFERY GREEN","JUSTIN BROWER"],"issues":["DEF","HOM"],"sampleDescriptions":["National Defense Authorization Act for Fiscal Year 2019; IT Security and System Management in the Department of Defense & Department of Homeland Security","IT Security and System Management in the Department of Defense & Department of Homeland Security","IT Security and System Management in DoD and DHS, National Defense Authorization Act FY20","IT Security and System Management in DoD and DHS, National Defense Authorization Act FY20 - H.R. 2500, S. 1215, Defense Appropriations FY20 - H.R. 2968, S. XXXX","IT Security and System Management in DoD and DHS, National Defense Authorization Act FY20 - H.R. 2500, S. 1215","IT Security and System Management in DoD and DHS, National Defense Authorization Act FY20 - H.R. 2500, S. 1215, Defense Appropriations FY20 - H.R. 2968, S. 2474","IT Security and System Management in DoD and DHS, HR 4237, S. 2318","Issues relating to Information Technology Acquisition; FY21 NDAA","Issues relating to Information Technology Acquisition; NDAA FY21 - H.R. 6395, S. 4049","Issues relating to Information Technology Acquisition; FY22 Defense Appropriations, FY22 NDAA","Issues relating to endpoint detection response time and zero trust network architecture; FY22 NDAA","Issues relating to endpoint detection response time and zero trust network architecture; FY22 NDAA, H.R. 4350, S. 2792","Issues relating to endpoint detection response time and zero trust network architecture; FY23 NDAA","Issues relating to endpoint detection response time and zero trust network architecture"],"years":[2018,2019,2020,2021,2022]}
+{
+  "id": 184284,
+  "name": "TANIUM INC.",
+  "slug": "tanium-inc",
+  "state": "CA",
+  "description": "IT Security and System management",
+  "totalSpending": 2210000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 390000
+    },
+    {
+      "year": 2019,
+      "income": 390000
+    },
+    {
+      "year": 2020,
+      "income": 330000
+    },
+    {
+      "year": 2021,
+      "income": 640000
+    },
+    {
+      "year": 2022,
+      "income": 460000
+    }
+  ],
+  "firms": [
+    "J.A. GREEN AND COMPANY"
+  ],
+  "lobbyists": [
+    "JEFFERY GREEN",
+    "JUSTIN BROWER"
+  ],
+  "issues": [
+    "DEF",
+    "HOM"
+  ],
+  "sampleDescriptions": [
+    "National Defense Authorization Act for Fiscal Year 2019; IT Security and System Management in the Department of Defense & Department of Homeland Security",
+    "IT Security and System Management in the Department of Defense & Department of Homeland Security",
+    "IT Security and System Management in DoD and DHS, National Defense Authorization Act FY20",
+    "IT Security and System Management in DoD and DHS, National Defense Authorization Act FY20 - H.R. 2500, S. 1215, Defense Appropriations FY20 - H.R. 2968, S. XXXX",
+    "IT Security and System Management in DoD and DHS, National Defense Authorization Act FY20 - H.R. 2500, S. 1215",
+    "IT Security and System Management in DoD and DHS, National Defense Authorization Act FY20 - H.R. 2500, S. 1215, Defense Appropriations FY20 - H.R. 2968, S. 2474",
+    "IT Security and System Management in DoD and DHS, HR 4237, S. 2318",
+    "Issues relating to Information Technology Acquisition; FY21 NDAA",
+    "Issues relating to Information Technology Acquisition; NDAA FY21 - H.R. 6395, S. 4049",
+    "Issues relating to Information Technology Acquisition; FY22 Defense Appropriations, FY22 NDAA",
+    "Issues relating to endpoint detection response time and zero trust network architecture; FY22 NDAA",
+    "Issues relating to endpoint detection response time and zero trust network architecture; FY22 NDAA, H.R. 4350, S. 2792",
+    "Issues relating to endpoint detection response time and zero trust network architecture; FY23 NDAA",
+    "Issues relating to endpoint detection response time and zero trust network architecture"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "growthRate": 18,
+  "trajectory": "stable",
+  "yearsActive": 5,
+  "avgAnnualSpending": 442000,
+  "peakYear": 2021,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 2
+}

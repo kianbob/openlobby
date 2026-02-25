@@ -1,1 +1,82 @@
-{"id":195041,"name":"AIRLINES FOR AMERICA (FORMERLY AIR TRANSPORT ASSOCIATION OF AMERICA INC.)","slug":"airlines-for-america-formerly-air-transport-association-of-america-inc","state":"DC","description":"aviation industry","totalSpending":2260000,"filings":32,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":320000},{"year":2020,"income":280000},{"year":2021,"income":240000},{"year":2022,"income":270000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":270000}],"firms":["ROBERTI GLOBAL (F/K/A ROBERTI WHITE, LLC)"],"lobbyists":["VINCENT ROBERTI, SR.","STEVEN IRIZARRY","DREW COLE"],"issues":["AVI",null],"sampleDescriptions":["- Aviation, aircraft and airline issues\n- FAA Reauthorization regarding ATC reform","- Aviation, aircraft and airline issues\n- FAA Reauthorization regarding ATC reform\n- Issues related to the Coronavirus response; H.R. 748 (CARES Act)","- Aviation, aircraft, and airline issues\n- FAA Reauthorization regarding ATC reform\n- Issues related to the Coronavirus response; H.R. 748 (CARES Act)","- Aviation, aircraft, and airline issues - FAA Reauthorization regarding ATC reform - Issues related to the Coronavirus response; H.R. 748 (CARES Act)","- Aviation, aircraft, and airline issues - FAA Reauthorization regarding ATC reform","Aviation, aircraft, and airline issues FAA Reauthorization regarding ATC reform"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 195041,
+  "name": "AIRLINES FOR AMERICA (FORMERLY AIR TRANSPORT ASSOCIATION OF AMERICA INC.)",
+  "slug": "airlines-for-america-formerly-air-transport-association-of-america-inc",
+  "state": "DC",
+  "description": "aviation industry",
+  "totalSpending": 2260000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 270000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "ROBERTI GLOBAL (F/K/A ROBERTI WHITE, LLC)"
+  ],
+  "lobbyists": [
+    "VINCENT ROBERTI, SR.",
+    "STEVEN IRIZARRY",
+    "DREW COLE"
+  ],
+  "issues": [
+    "AVI",
+    null
+  ],
+  "sampleDescriptions": [
+    "- Aviation, aircraft and airline issues\n- FAA Reauthorization regarding ATC reform",
+    "- Aviation, aircraft and airline issues\n- FAA Reauthorization regarding ATC reform\n- Issues related to the Coronavirus response; H.R. 748 (CARES Act)",
+    "- Aviation, aircraft, and airline issues\n- FAA Reauthorization regarding ATC reform\n- Issues related to the Coronavirus response; H.R. 748 (CARES Act)",
+    "- Aviation, aircraft, and airline issues - FAA Reauthorization regarding ATC reform - Issues related to the Coronavirus response; H.R. 748 (CARES Act)",
+    "- Aviation, aircraft, and airline issues - FAA Reauthorization regarding ATC reform",
+    "Aviation, aircraft, and airline issues FAA Reauthorization regarding ATC reform"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 13,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 282500,
+  "peakYear": 2019,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

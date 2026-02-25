@@ -1,1 +1,72 @@
-{"id":205425,"name":"DARDEN RESTAURANTS, INC.","slug":"darden-restaurants-inc","state":"FL","description":"full service restaurant corporation","totalSpending":1385000,"filings":23,"yearlySpending":[{"year":2020,"income":165000},{"year":2021,"income":150000},{"year":2022,"income":150000},{"year":2023,"income":250000},{"year":2024,"income":310000},{"year":2025,"income":360000}],"firms":["GUIDEPOSTSTRATEGIES, LLC"],"lobbyists":["LARISSA MARTIN","PHIL COX","JENNIFER POERSCH","LAINE STRIEGEL","KATE BEAULIEU"],"issues":["SMB","TAX","LBR"],"sampleDescriptions":["COVID-19 response language","Employee retention tax credit","Workforce issues. Minimum wage legislation.","Tax issues impacting Darden Restaurants."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 205425,
+  "name": "DARDEN RESTAURANTS, INC.",
+  "slug": "darden-restaurants-inc",
+  "state": "FL",
+  "description": "full service restaurant corporation",
+  "totalSpending": 1385000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 165000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 310000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "GUIDEPOSTSTRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "LARISSA MARTIN",
+    "PHIL COX",
+    "JENNIFER POERSCH",
+    "LAINE STRIEGEL",
+    "KATE BEAULIEU"
+  ],
+  "issues": [
+    "SMB",
+    "TAX",
+    "LBR"
+  ],
+  "sampleDescriptions": [
+    "COVID-19 response language",
+    "Employee retention tax credit",
+    "Workforce issues. Minimum wage legislation.",
+    "Tax issues impacting Darden Restaurants."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 118,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 230833,
+  "peakYear": 2025,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 3
+}

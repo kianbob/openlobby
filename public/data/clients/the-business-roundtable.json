@@ -1,1 +1,116 @@
-{"id":204735,"name":"THE BUSINESS ROUNDTABLE","slug":"the-business-roundtable","state":"DC","description":"Public policy","totalSpending":1460000,"filings":25,"yearlySpending":[{"year":2020,"income":200000},{"year":2021,"income":240000},{"year":2022,"income":300000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["DEAN ROSEN","ELISE FINLEY PICKERING","BRUCE MEHLMAN","SAGE EASTMAN","STEVE HARO","DAVID CASTAGNETTI","DAVID THOMAS","LAUREN ARONSON","MICHAEL ROBINSON","CONSTANTINE HINGSON","HELEN TOLAR","NICHOLE DISTEFANO","MCKENZIE BRICE","PAUL THORNELL","STEPHEN COTE","ALEXANDER PERKINS","VICTORIA FLOOD","ROSEMARY GUTIERREZ","ZACHARY MALLOVE","LISA GOLDMAN","NAVEEN PARMAR"],"issues":["DIS","TAX","CIV","LBR","ECN","ROD","TRA","TRD","SCI",null,"ENG","FIN","BUD","CSP","ENV"],"sampleDescriptions":["H.R. 6074, the Coronavirus Preparedness and Response Supplemental Appropriations Act - Public Law No: 116-123\n\nH.R. 6201, the Families First Coronavirus Response Act - Public Law No: 116-127\n\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136","Corporate tax rates; provisions impacting multi-national companies.","H.R. 1280 George Floyd Justice in Policing Act","Issues related to diversity and inclusion in the workplace.","H.R. 1280 George Floyd Justice in Policing Act.\nVoting Rights.","H.R. 3684 - Infrastructure Investment and Jobs Act.","The Build Back Better Act, A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S. Con. Res. 14.","Corporate tax rates; provisions impacting multi-national companies.\nThe Build Back Better Act, A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S. Con. Res. 14.","H.R. 5376 - Build Back Better Act.\nS.1260 - U.S. Innovation and Competition Act.","Corporate tax rates; provisions impacting multi-national companies.\nH.R. 5376 - Build Back Better Act.","H.R. 3684 - Infrastructure Investment and Jobs Act.\nH.R. 5376 - Build Back Better Act.","Issues related to diversity and inclusion in the workplace.\nH.R. 5376 - Build Back Better Act.","H.R. 5376 - Build Back Better Act.","H.R. 1280 - George Floyd Justice in Policing Act.\nVoting Rights.\nS.4263 - John Lewis Voting Rights Advancement Act.\nS. 2747 - Freedom to Vote Act.","Corporate tax rates; provisions impacting multi-national companies. H.R. 5376 - Build Back Better Act.","H.R. 1280 - George Floyd Justice in Policing Act. Voting Rights. S.4263 - John Lewis Voting Rights Advancement Act. S. 2747 - Freedom to Vote Act.","Monitoring U.S. Trade Policy, U.S. - China trade issues. S.1260 - U.S. Innovation and Competition Act of 2021. H.R.4521 - America COMPETES Act of 2022. Russia sanctions. H.R. 7108 - Suspending Normal Trade Relations with Russia and Belarus Act.","H.R. 3684 - Infrastructure Investment and Jobs Act. H.R. 5376 - Build Back Better Act.","Monitoring Russian sanctions. Monitoring H.R. 7108 - Suspending Normal Trade Relations with Russia and Belarus Act.","Monitoring Russian sanctions. Monitoring H.R. 7108 - Suspending Normal Trade Relations with Russia and Belarus Act. Suspending Normal Trade Relations with Russia and Belarus Act. Bipartisan Innovation Conference - S. 1260/H.R. 4521."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 204735,
+  "name": "THE BUSINESS ROUNDTABLE",
+  "slug": "the-business-roundtable",
+  "state": "DC",
+  "description": "Public policy",
+  "totalSpending": 1460000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "MEHLMAN CONSULTING, INC."
+  ],
+  "lobbyists": [
+    "DEAN ROSEN",
+    "ELISE FINLEY PICKERING",
+    "BRUCE MEHLMAN",
+    "SAGE EASTMAN",
+    "STEVE HARO",
+    "DAVID CASTAGNETTI",
+    "DAVID THOMAS",
+    "LAUREN ARONSON",
+    "MICHAEL ROBINSON",
+    "CONSTANTINE HINGSON",
+    "HELEN TOLAR",
+    "NICHOLE DISTEFANO",
+    "MCKENZIE BRICE",
+    "PAUL THORNELL",
+    "STEPHEN COTE",
+    "ALEXANDER PERKINS",
+    "VICTORIA FLOOD",
+    "ROSEMARY GUTIERREZ",
+    "ZACHARY MALLOVE",
+    "LISA GOLDMAN",
+    "NAVEEN PARMAR"
+  ],
+  "issues": [
+    "DIS",
+    "TAX",
+    "CIV",
+    "LBR",
+    "ECN",
+    "ROD",
+    "TRA",
+    "TRD",
+    "SCI",
+    null,
+    "ENG",
+    "FIN",
+    "BUD",
+    "CSP",
+    "ENV"
+  ],
+  "sampleDescriptions": [
+    "H.R. 6074, the Coronavirus Preparedness and Response Supplemental Appropriations Act - Public Law No: 116-123\n\nH.R. 6201, the Families First Coronavirus Response Act - Public Law No: 116-127\n\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136",
+    "Corporate tax rates; provisions impacting multi-national companies.",
+    "H.R. 1280 George Floyd Justice in Policing Act",
+    "Issues related to diversity and inclusion in the workplace.",
+    "H.R. 1280 George Floyd Justice in Policing Act.\nVoting Rights.",
+    "H.R. 3684 - Infrastructure Investment and Jobs Act.",
+    "The Build Back Better Act, A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S. Con. Res. 14.",
+    "Corporate tax rates; provisions impacting multi-national companies.\nThe Build Back Better Act, A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S. Con. Res. 14.",
+    "H.R. 5376 - Build Back Better Act.\nS.1260 - U.S. Innovation and Competition Act.",
+    "Corporate tax rates; provisions impacting multi-national companies.\nH.R. 5376 - Build Back Better Act.",
+    "H.R. 3684 - Infrastructure Investment and Jobs Act.\nH.R. 5376 - Build Back Better Act.",
+    "Issues related to diversity and inclusion in the workplace.\nH.R. 5376 - Build Back Better Act.",
+    "H.R. 5376 - Build Back Better Act.",
+    "H.R. 1280 - George Floyd Justice in Policing Act.\nVoting Rights.\nS.4263 - John Lewis Voting Rights Advancement Act.\nS. 2747 - Freedom to Vote Act.",
+    "Corporate tax rates; provisions impacting multi-national companies. H.R. 5376 - Build Back Better Act.",
+    "H.R. 1280 - George Floyd Justice in Policing Act. Voting Rights. S.4263 - John Lewis Voting Rights Advancement Act. S. 2747 - Freedom to Vote Act.",
+    "Monitoring U.S. Trade Policy, U.S. - China trade issues. S.1260 - U.S. Innovation and Competition Act of 2021. H.R.4521 - America COMPETES Act of 2022. Russia sanctions. H.R. 7108 - Suspending Normal Trade Relations with Russia and Belarus Act.",
+    "H.R. 3684 - Infrastructure Investment and Jobs Act. H.R. 5376 - Build Back Better Act.",
+    "Monitoring Russian sanctions. Monitoring H.R. 7108 - Suspending Normal Trade Relations with Russia and Belarus Act.",
+    "Monitoring Russian sanctions. Monitoring H.R. 7108 - Suspending Normal Trade Relations with Russia and Belarus Act. Suspending Normal Trade Relations with Russia and Belarus Act. Bipartisan Innovation Conference - S. 1260/H.R. 4521."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 20,
+  "trajectory": "stable",
+  "yearsActive": 6,
+  "avgAnnualSpending": 243333,
+  "peakYear": 2022,
+  "lobbyistCount": 21,
+  "firmCount": 1,
+  "issueCount": 14
+}

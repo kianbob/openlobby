@@ -1,0 +1,434 @@
+{
+  "industry": "energy",
+  "totalSpending": 3717166570.2999997,
+  "totalFilings": 47669,
+  "clientCount": 3268,
+  "topClients": [
+    {
+      "name": "SOUTHERN COMPANY",
+      "state": "DC",
+      "spending": 97555000,
+      "filings": 224,
+      "desc": "producer of electricity"
+    },
+    {
+      "name": "OCCIDENTAL PETROLEUM CORPORATION",
+      "state": "DC",
+      "spending": 90656526,
+      "filings": 103,
+      "desc": null
+    },
+    {
+      "name": "EDISON ELECTRIC INSTITUTE",
+      "state": "DC",
+      "spending": 81131866,
+      "filings": 339,
+      "desc": "Association of share-holder owned electric companies."
+    },
+    {
+      "name": "BUSINESS ROUNDTABLE INC",
+      "state": "DC",
+      "spending": 71570000,
+      "filings": 10,
+      "desc": null
+    },
+    {
+      "name": "EXXON MOBIL CORP",
+      "state": "TX",
+      "spending": 64050000,
+      "filings": 75,
+      "desc": "Oil and gas production and related businesses"
+    },
+    {
+      "name": "CHEVRON U.S.A. INC.",
+      "state": "CA",
+      "spending": 63010000,
+      "filings": 36,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN ELECTRIC POWER COMPANY, INC. AND AFFILIATED CORPORATIONS",
+      "state": "DC",
+      "spending": 57914642,
+      "filings": 32,
+      "desc": null
+    },
+    {
+      "name": "DUKE ENERGY CORPORATION",
+      "state": "DC",
+      "spending": 56996611,
+      "filings": 132,
+      "desc": "Work on Energy and Environmental Issues."
+    },
+    {
+      "name": "CONOCOPHILLIPS",
+      "state": "DC",
+      "spending": 56561800,
+      "filings": 132,
+      "desc": "Discovery , development and sale of energy resources such as oil and natural gas."
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF REALTORS",
+      "state": "DC",
+      "spending": 53640000,
+      "filings": 3,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN PETROLEUM INSTITUTE",
+      "state": "DC",
+      "spending": 52140500,
+      "filings": 148,
+      "desc": "U.S. trade association for the oil and natural gas industry"
+    },
+    {
+      "name": "SHELL USA, INC. (FKA SHELL OIL COMPANY)",
+      "state": "DC",
+      "spending": 51160000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "NEXTERA ENERGY INC",
+      "state": "FL",
+      "spending": 48127140,
+      "filings": 92,
+      "desc": "electric utility and energy project developer"
+    },
+    {
+      "name": "GENERAL ELECTRIC COMPANY (INCLUDING SUBSIDIARIES)",
+      "state": "DC",
+      "spending": 47500000,
+      "filings": 45,
+      "desc": null
+    },
+    {
+      "name": "DOW CHEMICAL COMPANY DBA DOW",
+      "state": "DC",
+      "spending": 43860000,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF MANUFACTURERS",
+      "state": "DC",
+      "spending": 42072000,
+      "filings": 16,
+      "desc": null
+    },
+    {
+      "name": "FRIENDS COMMITTEE ON NATIONAL LEGISLATION",
+      "state": "DC",
+      "spending": 41000000,
+      "filings": 42,
+      "desc": null
+    },
+    {
+      "name": "PACIFIC GAS AND ELECTRIC COMPANY",
+      "state": "CA",
+      "spending": 40940000,
+      "filings": 108,
+      "desc": "energy based products and services"
+    },
+    {
+      "name": "FORD MOTOR COMPANY",
+      "state": "DC",
+      "spending": 37057974,
+      "filings": 36,
+      "desc": null
+    },
+    {
+      "name": "BP AMERICA, INC",
+      "state": "DC",
+      "spending": 36670000,
+      "filings": 32,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF HOME BUILDERS",
+      "state": "DC",
+      "spending": 33943160,
+      "filings": 40,
+      "desc": null
+    },
+    {
+      "name": "PHILLIPS 66",
+      "state": "DC",
+      "spending": 31440000,
+      "filings": 67,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION",
+      "state": "VA",
+      "spending": 29580000,
+      "filings": 121,
+      "desc": null
+    },
+    {
+      "name": "MARATHON PETROLEUM COMPANY LP",
+      "state": "DC",
+      "spending": 26750000,
+      "filings": 100,
+      "desc": "Refining, Marketing and Transporting Petroleum Products"
+    },
+    {
+      "name": "SEMPRA",
+      "state": "DC",
+      "spending": 24680000,
+      "filings": 33,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
+      "state": "DC",
+      "spending": 24097684.35,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+      "state": "VA",
+      "spending": 22834751,
+      "filings": 58,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES",
+      "state": "VA",
+      "spending": 22820000,
+      "filings": 40,
+      "desc": null
+    },
+    {
+      "name": "DOMINION ENERGY INC",
+      "state": "DC",
+      "spending": 22560000,
+      "filings": 35,
+      "desc": null
+    },
+    {
+      "name": "CONSTELLATION ENERGY GENERATION, LLC",
+      "state": "PA",
+      "spending": 22320000,
+      "filings": 140,
+      "desc": "Energy Generation"
+    },
+    {
+      "name": "LYONDELL CHEMICAL COMPANY",
+      "state": "TX",
+      "spending": 21750000,
+      "filings": 19,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL MINING ASSOCIATION",
+      "state": "DC",
+      "spending": 20695137,
+      "filings": 175,
+      "desc": "National trade organization that represents the interests of mining."
+    },
+    {
+      "name": "NUCOR CORPORATION",
+      "state": "DC",
+      "spending": 20650000,
+      "filings": 50,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN FOREST & PAPER ASSOCIATION",
+      "state": "DC",
+      "spending": 20070000,
+      "filings": 35,
+      "desc": null
+    },
+    {
+      "name": "ENTERGY SERVICES LLC",
+      "state": "DC",
+      "spending": 19240000,
+      "filings": 178,
+      "desc": "Energy Company"
+    },
+    {
+      "name": "INTERNATIONAL PAPER",
+      "state": "TN",
+      "spending": 19154000,
+      "filings": 25,
+      "desc": null
+    },
+    {
+      "name": "CHENIERE ENERGY INC.",
+      "state": "DC",
+      "spending": 19065000,
+      "filings": 48,
+      "desc": null
+    },
+    {
+      "name": "RTX CORPORATION AND AFFILIATES",
+      "state": "VA",
+      "spending": 18410000,
+      "filings": 6,
+      "desc": null
+    },
+    {
+      "name": "SOLAR ENERGY INDUSTRIES ASSOCIATION",
+      "state": "DC",
+      "spending": 18230000,
+      "filings": 122,
+      "desc": "Association for solar energy and related businesses"
+    },
+    {
+      "name": "ARCHER DANIELS MIDLAND COMPANY",
+      "state": "DC",
+      "spending": 17590000,
+      "filings": 23,
+      "desc": null
+    },
+    {
+      "name": "GROWTH ENERGY INC",
+      "state": "DC",
+      "spending": 16860000,
+      "filings": 35,
+      "desc": null
+    },
+    {
+      "name": "VALERO ENERGY CORPORATION",
+      "state": "TX",
+      "spending": 16675000,
+      "filings": 94,
+      "desc": "manufacturer and marketer of transportation fuels, other petrochemical products and power"
+    },
+    {
+      "name": "FIRSTENERGY CORP",
+      "state": "OH",
+      "spending": 16554660,
+      "filings": 58,
+      "desc": null
+    },
+    {
+      "name": "NORD STREAM 2 AG",
+      "state": null,
+      "spending": 15930000,
+      "filings": 33,
+      "desc": "Natural gas pipeline planning and construction."
+    },
+    {
+      "name": "XCEL ENERGY INC",
+      "state": "DC",
+      "spending": 15710000,
+      "filings": 55,
+      "desc": null
+    },
+    {
+      "name": "INVENERGY LLC",
+      "state": "IL",
+      "spending": 15490000,
+      "filings": 70,
+      "desc": "Electric power and wind energy company"
+    },
+    {
+      "name": "NUCLEAR ENERGY INSTITUTE, INC",
+      "state": "DC",
+      "spending": 15200000,
+      "filings": 33,
+      "desc": "No change in address.  Just a lobbyist update"
+    },
+    {
+      "name": "PUBLIC SERVICE ENTERPRISE GROUP",
+      "state": "DC",
+      "spending": 14890000,
+      "filings": 47,
+      "desc": "Energy Company"
+    },
+    {
+      "name": "AMERICAN CLEAN POWER ASSOCIATION",
+      "state": "DC",
+      "spending": 14872000,
+      "filings": 126,
+      "desc": "Renewable Energy"
+    },
+    {
+      "name": "SIEMENS CORPORATION",
+      "state": "DC",
+      "spending": 14700000,
+      "filings": 17,
+      "desc": null
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 439838234.95000005
+    },
+    {
+      "year": 2019,
+      "spending": 373010218
+    },
+    {
+      "year": 2020,
+      "spending": 403036854.13000005
+    },
+    {
+      "year": 2021,
+      "spending": 394717382.59
+    },
+    {
+      "year": 2022,
+      "spending": 452619016.38
+    },
+    {
+      "year": 2023,
+      "spending": 545765201.48
+    },
+    {
+      "year": 2024,
+      "spending": 486477083.57
+    },
+    {
+      "year": 2025,
+      "spending": 621702579.1999999
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "ENG",
+      "count": 26704
+    },
+    {
+      "code": "TAX",
+      "count": 14449
+    },
+    {
+      "code": "ENV",
+      "count": 11025
+    },
+    {
+      "code": "BUD",
+      "count": 8103
+    },
+    {
+      "code": "TRD",
+      "count": 5849
+    },
+    {
+      "code": "NAT",
+      "count": 5222
+    },
+    {
+      "code": "TRA",
+      "count": 5116
+    },
+    {
+      "code": "FUE",
+      "count": 4237
+    },
+    {
+      "code": "DEF",
+      "count": 3157
+    },
+    {
+      "code": "CAW",
+      "count": 2891
+    }
+  ]
+}

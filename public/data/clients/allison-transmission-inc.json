@@ -1,1 +1,78 @@
-{"id":122591,"name":"ALLISON TRANSMISSION, INC.","slug":"allison-transmission-inc","state":"IN","description":"Manufacturer of motor vehicle transmissions.","totalSpending":2140000,"filings":24,"yearlySpending":[{"year":2019,"income":180000},{"year":2020,"income":250000},{"year":2021,"income":270000},{"year":2022,"income":360000},{"year":2023,"income":360000},{"year":2024,"income":360000},{"year":2025,"income":360000}],"firms":["GREENBERG TRAURIG, LLP"],"lobbyists":["ROBERT JONES","MICHAEL ROGERS","RODNEY FRELINGHUYSEN","LAKEITHA ANDERSON"],"issues":["TRA","DEF",null],"sampleDescriptions":["Administrative and legislative monitoring and outreach on issues related to transmission technologies. \nAdministrative and legislative monitoring and outreach related to the Department of Defense Appropriations Act. \nAdministrative and legislative monitoring and outreach related to the National Defense Authorization Act.","Administrative and legislative monitoring and outreach on issues related to transmission and electric driver technologies. \nAdministrative and legislative monitoring and outreach related to the Department of Defense Appropriations Act.\nAdministrative and legislative monitoring and outreach related to the National Defense Authorization Act.","Administrative and legislative monitoring and outreach related to the Department of Defense Appropriations Act.\nAdministrative and legislative monitoring and outreach related to the National Defense Authorization Act.","Administrative and legislative monitoring and outreach on issues related to transmission and electric driver technologies.","Administrative and legislative monitoring and outreach related to the Department of Defense Appropriations Act. Administrative and legislative monitoring and outreach related to the National Defense Authorization Act.","Administrative and legislative monitoring and outreach on issues related to transmission"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 122591,
+  "name": "ALLISON TRANSMISSION, INC.",
+  "slug": "allison-transmission-inc",
+  "state": "IN",
+  "description": "Manufacturer of motor vehicle transmissions.",
+  "totalSpending": 2140000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 270000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "GREENBERG TRAURIG, LLP"
+  ],
+  "lobbyists": [
+    "ROBERT JONES",
+    "MICHAEL ROGERS",
+    "RODNEY FRELINGHUYSEN",
+    "LAKEITHA ANDERSON"
+  ],
+  "issues": [
+    "TRA",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "Administrative and legislative monitoring and outreach on issues related to transmission technologies. \nAdministrative and legislative monitoring and outreach related to the Department of Defense Appropriations Act. \nAdministrative and legislative monitoring and outreach related to the National Defense Authorization Act.",
+    "Administrative and legislative monitoring and outreach on issues related to transmission and electric driver technologies. \nAdministrative and legislative monitoring and outreach related to the Department of Defense Appropriations Act.\nAdministrative and legislative monitoring and outreach related to the National Defense Authorization Act.",
+    "Administrative and legislative monitoring and outreach related to the Department of Defense Appropriations Act.\nAdministrative and legislative monitoring and outreach related to the National Defense Authorization Act.",
+    "Administrative and legislative monitoring and outreach on issues related to transmission and electric driver technologies.",
+    "Administrative and legislative monitoring and outreach related to the Department of Defense Appropriations Act. Administrative and legislative monitoring and outreach related to the National Defense Authorization Act.",
+    "Administrative and legislative monitoring and outreach on issues related to transmission"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 305714,
+  "peakYear": 2022,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 2
+}

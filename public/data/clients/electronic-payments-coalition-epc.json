@@ -1,1 +1,100 @@
-{"id":109921,"name":"ELECTRONIC PAYMENTS COALITION (EPC)","slug":"electronic-payments-coalition-epc","state":"DC","description":"Coalition dedicated to protecting consumer choice and competition in payments","totalSpending":1890000,"filings":28,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":120000},{"year":2022,"income":240000},{"year":2023,"income":320000},{"year":2024,"income":270000},{"year":2025,"income":280000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["WILLIAM MOSCHELLA","ZACHARY PFISTER","BRIAN MCKEON","TRAVIS NORTON","BRIAN MCGUIRE","ANDREW LITTMAN","ANDREW USYK","CARMENCITA WHONDER","GREGORY SUNSTRUM","SOHIL KHURANA","ANNMARIE CONBOY-DEPASQUALE","MATT GRINNEY","JOHN REISING"],"issues":["BAN","LBR",null],"sampleDescriptions":["Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security, including transition to EMV \"chip\" cards\nH.R. 10 - Financial Choice Act of 2017\nS. 2155 - Economic Growth, Regulatory Relief, and Consumer Protection Act","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security, including transition to EMV \"chip\" cards\nH.R. 10 - Financial Choice Act of 2017\nS. 2155 - Economic Growth, Regulatory Relief, and Consumer Protection Act \nH.R. 2 - Agriculture Improvement Act of 2018, provisions relating to nutrition assistance\nS. 3042 - Agriculture Improvement Act of 2018, provisions relating to nutrition assistance","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security, including transition to EMV \"chip\" cards\nS. 2155 - Economic Growth, Regulatory Relief, and Consumer Protection Act \nH.R. 2 - Agriculture Improvement Act of 2018, provisions relating to nutrition assistance\nS. 3042 - Agriculture Improvement Act of 2018, provisions relating to nutrition assistance","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security\nIssues related to privacy and data security","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security\nIssues related to privacy and data security \nIssues related to the Federal Reserve's Service Payments Initiative","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security\nIssues related to privacy and data security\nIssues related to the Federal Reserve's Service Payments Initiative","Competition issues related to electronic payments","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to privacy and data security Issues related to the Federal Reserve's Service Payments Initiative Issues related to the routing of electronic payments","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to privacy and data security Issues related to the Federal Reserve's Service Payments Initiative Issues related to the routing of electronic payments S:4674 - Credit Card Competition Act of 2022 HR: 8874 - Credit Card Competition Act of 2022","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to privacy and data security Issues related to the Federal Reserve's Service Payments Initiative Issues related to the routing of electronic payments S:4674/HR:8874 Credit Card Competition Act","Issues related to funding for emergency nursing S.1346 Improving Mental Health Access from the Emergency Department Act of 2023 H.R. 7153 Dr. Lorna Breen Health Care Provider Protection Reauthorization Act Healthcare work shortages H.R.2584/ S.2768 SAVE Act H.R.6960/ S.3765 Reauthorization of the Emergency Medical Services for Children Act","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to privacy and data security Issues related to the Federal Reserve's Service Payments Initiative Issues related to the routing of electronic payments H.R.3881 /S.1838 Credit Card Competition Act 2023","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to the routing of electronic payments Credit Card Competition Act Interchange issues","Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to the routing of electronic payments Credit Card Competition Act Interchange issues Possible amendment SA 2230 of Credit Card Competition Act to the Genius Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 109921,
+  "name": "ELECTRONIC PAYMENTS COALITION (EPC)",
+  "slug": "electronic-payments-coalition-epc",
+  "state": "DC",
+  "description": "Coalition dedicated to protecting consumer choice and competition in payments",
+  "totalSpending": 1890000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 270000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "WILLIAM MOSCHELLA",
+    "ZACHARY PFISTER",
+    "BRIAN MCKEON",
+    "TRAVIS NORTON",
+    "BRIAN MCGUIRE",
+    "ANDREW LITTMAN",
+    "ANDREW USYK",
+    "CARMENCITA WHONDER",
+    "GREGORY SUNSTRUM",
+    "SOHIL KHURANA",
+    "ANNMARIE CONBOY-DEPASQUALE",
+    "MATT GRINNEY",
+    "JOHN REISING"
+  ],
+  "issues": [
+    "BAN",
+    "LBR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security, including transition to EMV \"chip\" cards\nH.R. 10 - Financial Choice Act of 2017\nS. 2155 - Economic Growth, Regulatory Relief, and Consumer Protection Act",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security, including transition to EMV \"chip\" cards\nH.R. 10 - Financial Choice Act of 2017\nS. 2155 - Economic Growth, Regulatory Relief, and Consumer Protection Act \nH.R. 2 - Agriculture Improvement Act of 2018, provisions relating to nutrition assistance\nS. 3042 - Agriculture Improvement Act of 2018, provisions relating to nutrition assistance",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security, including transition to EMV \"chip\" cards\nS. 2155 - Economic Growth, Regulatory Relief, and Consumer Protection Act \nH.R. 2 - Agriculture Improvement Act of 2018, provisions relating to nutrition assistance\nS. 3042 - Agriculture Improvement Act of 2018, provisions relating to nutrition assistance",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security\nIssues related to privacy and data security",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security\nIssues related to privacy and data security \nIssues related to the Federal Reserve's Service Payments Initiative",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment\nIssues related to payment card security\nIssues related to privacy and data security\nIssues related to the Federal Reserve's Service Payments Initiative",
+    "Competition issues related to electronic payments",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to privacy and data security Issues related to the Federal Reserve's Service Payments Initiative Issues related to the routing of electronic payments",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to privacy and data security Issues related to the Federal Reserve's Service Payments Initiative Issues related to the routing of electronic payments S:4674 - Credit Card Competition Act of 2022 HR: 8874 - Credit Card Competition Act of 2022",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to privacy and data security Issues related to the Federal Reserve's Service Payments Initiative Issues related to the routing of electronic payments S:4674/HR:8874 Credit Card Competition Act",
+    "Issues related to funding for emergency nursing S.1346 Improving Mental Health Access from the Emergency Department Act of 2023 H.R. 7153 Dr. Lorna Breen Health Care Provider Protection Reauthorization Act Healthcare work shortages H.R.2584/ S.2768 SAVE Act H.R.6960/ S.3765 Reauthorization of the Emergency Medical Services for Children Act",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to privacy and data security Issues related to the Federal Reserve's Service Payments Initiative Issues related to the routing of electronic payments H.R.3881 /S.1838 Credit Card Competition Act 2023",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to the routing of electronic payments Credit Card Competition Act Interchange issues",
+    "Issues related to financial transaction processing fees, Regulation II, and the Durbin Amendment Issues related to payment card security Issues related to the routing of electronic payments Credit Card Competition Act Interchange issues Possible amendment SA 2230 of Credit Card Competition Act to the Genius Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 17,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 236250,
+  "peakYear": 2023,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 2
+}

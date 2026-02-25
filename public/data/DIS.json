@@ -1,1 +1,557 @@
-{"code":"DIS","name":"Disaster Planning/Emergencies","totalSpending":195948344.97,"totalFilings":9881,"yearlySpending":[{"year":2018,"income":15950945,"filings":806},{"year":2019,"income":15963440,"filings":809},{"year":2020,"income":40249252.97,"filings":2058},{"year":2021,"income":29048583,"filings":1519},{"year":2022,"income":24816782,"filings":1268},{"year":2023,"income":21860873,"filings":1148},{"year":2024,"income":19689572,"filings":1040},{"year":2025,"income":28368897,"filings":1233}],"topClients":[{"name":"GOVERNMENT OF U.S. VIRGIN ISLANDS","income":4070000},{"name":"EMERGENT BIOSOLUTIONS INC.","income":3300000},{"name":"NATIONAL WATER RESOURCES ASSOCIATION","income":2640000},{"name":"THE BUILDSTRONG COALITION","income":1760000},{"name":"NOVA SOUTHEASTERN UNIVERSITY","income":1620000},{"name":"STATE OF CALIFORNIA","income":1520000},{"name":"CITY OF OAKLAND","income":1497492},{"name":"CITY OF INDIANAPOLIS","income":1440000},{"name":"AMERICAN FLOOD COALITION ACTION INC","income":1380000},{"name":"ATNI","income":1320000},{"name":"DRAGOS","income":1295000},{"name":"LOUISIANA COASTAL PROTECTION AND RESTORATION AUTHORITY","income":1295000},{"name":"TAYLOR FARMS","income":1280000},{"name":"FINANCIAL OVERSIGHT AND MANAGEMENT BOARD FOR PUERTO RICO","income":1175200},{"name":"CALIFORNIA STATE ASSOCIATION OF COUNTIES","income":1170000},{"name":"ASHBRITT, INC.","income":1120000},{"name":"KANSAS DEPARTMENT OF COMMERCE","income":1110000},{"name":"MEDGENE LABS","income":1100000},{"name":"BAY AREA RAPID TRANSIT DISTRICT","income":1080000},{"name":"CDR MAGUIRE INC.","income":1080000},{"name":"GARNER ENVIRONMENTAL SERVICES","income":1060000},{"name":"THE AMERICAN INSTITUTE OF ARCHITECTS","income":1020000},{"name":"PACIFIC GAS AND ELECTRIC COMPANY","income":1010000},{"name":"SAN DIEGO ZOO GLOBAL","income":1010000},{"name":"DOUGHERTY COUNTY COMMISSION","income":1000000},{"name":"AECOM","income":1000000},{"name":"STATE OF INDIANA","income":985800},{"name":"EMERGENT BIOSOLUTIONS","income":970000},{"name":"WOOLPERT","income":960000},{"name":"DJI TECHNOLOGY","income":955000},{"name":"CITY OF HOUSTON","income":950000},{"name":"MIDLAND BUSINESS ALLIANCE","income":940000},{"name":"HARRIS COUNTY","income":940000},{"name":"THE CITY OF FORT WORTH","income":930000},{"name":"IAC","income":930000},{"name":"AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION FKA PROPERTY CASUALTY INSURERS","income":911040},{"name":"CGCN GROUP ON BEHALF OF BRADFORD WHITE CORPORATION","income":900000},{"name":"HERBERT J. THOMAS MEMORIAL HOSPITAL ASSOCIATION (FKA THOMAS HEALTH)","income":870000},{"name":"GOVERNMENT OF PUERTO RICO","income":870000},{"name":"GOTENNA","income":810000},{"name":"TEXAS STATE UNIVERSITY SYSTEM","income":800000},{"name":"FLUOR CORPORATION","income":780000},{"name":"INTERNATIONAL ASSOCIATION OF EMERGENCY MANAGERS","income":769500},{"name":"CONSTELLATION BRANDS","income":730000},{"name":"ALLSTATE INSURANCE COMPANY","income":720000},{"name":"SHINGLE SPRINGS RANCHERIA","income":720000},{"name":"STATE OF NEVADA","income":720000},{"name":"AICPA ASSOCIATION OF INTERNATIONAL CERTIFIED PROFESSIONAL ACCOUNTANTS","income":710000},{"name":"CRUISE LINES INTERNATIONAL ASSOCIATION","income":710000},{"name":"BALDWIN COUNTY COMMISSION","income":700000}],"topFirms":[{"name":"SQUIRE PATTON BOGGS","income":8610000},{"name":"THE NORMANDY GROUP, LLC","income":5472000},{"name":"CJ LAKE, LLC","income":5446500},{"name":"VAN SCOYOC ASSOCIATES","income":5270000},{"name":"NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)","income":4480000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":4240000},{"name":"BALLARD PARTNERS","income":4050000},{"name":"PACE, LLP","income":3745000},{"name":"INVARIANT LLC","income":3660000},{"name":"CGCN GROUP, LLC","income":3429340},{"name":"FEDERAL HALL POLICY ADVISORS, LLC","income":3220000},{"name":"PARAGON GOVERNMENT RELATIONS","income":3170000},{"name":"MILLER STRATEGIES, LLC","income":2980000},{"name":"THE FERGUSON GROUP","income":2963950},{"name":"WATER STRATEGIES, LLC","income":2950000},{"name":"TOWNSEND PUBLIC AFFAIRS, INC","income":2874992},{"name":"SIGNAL GROUP CONSULTING, LLC","income":2340000},{"name":"POWERS PYLES SUTTER & VERVILLE, P.C.","income":2195000},{"name":"HOLLAND & KNIGHT LLP","income":2150000},{"name":"MCALLISTER & QUINN, LLC","income":2125000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":2080000},{"name":"THE PICARD GROUP, LLC","income":2060000},{"name":"CONTINENTAL STRATEGY, LLC","income":2052500},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":1980000},{"name":"ALIGNMENT GOVERNMENT STRATEGIES","income":1890000},{"name":"BOSE PUBLIC AFFAIRS GROUP","income":1830000},{"name":"ALCALDE & FAY","income":1770000},{"name":"CARTWRIGHT & RILEY, INC.","income":1620000},{"name":"MEHLMAN CONSULTING, INC.","income":1570000},{"name":"EVOLVE STRATEGIES LLC","income":1520000}],"sampleDescriptions":["Offshore One Call Notification Center Pipeline Safety","funding sources\nInfrastructure funding","Disaster recovery issues related to rebuilding the telecom network. H.R. 4667","Promotion of Puerto Rico disaster recovery and energy system modernization policies","issues related to geospatial imaging and mapping","Advance issues pertaining to infrastructure construction, disaster recovery, and job training/veteran job training.","Biodefense, Biomedical Advanced Research and Development Authority funding, vaccine research, development, manufacturing and marketing, infectious diseases, cancer, PAHPA, Labor-HHS Appropriations bil","FEMA reimbursement, coastal restoration, dredging, and hurricane protection.","Issues related to storm drainage and debris removal.","Disaster Recovery","DISASTER-RESILIENT CONSTRUCTION. DISASTER DEDUCTIBLE CONCEPT, ALSO AMENDING FEDERAL COST SHARING IN RELATION TO ADOPTION AND ENFORCEMENT OF MODEL BUILDING CODES. REQUIRING STATES TO ADOPT AND ENFORCE ","Emergency/Disaster Funding\nMedicaid issues for territories following disasters","Disaster supplemental Appropriations","Catastrophic Regional Planning Grants; Emergency preparedness funding.","Monitoring of Federal disaster relief contracting operations","Advocated for flood protection measures, specifically levee systems and issues related to the upcoming NFIP reauthorization.","International Humanitarian and Disaster Relief","PAHPRA and funding for recovery efforts for Hurricane Irma, Harvey and Maria","FEMA; Funding for Disaster preparedness grants; NWS","Lobbied for issues related to disaster planning."]}
+{
+  "code": "DIS",
+  "name": "Disaster Planning/Emergencies",
+  "totalSpending": 195948344.97,
+  "totalFilings": 9881,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 15950945,
+      "filings": 806
+    },
+    {
+      "year": 2019,
+      "income": 15963440,
+      "filings": 809
+    },
+    {
+      "year": 2020,
+      "income": 40249252.97,
+      "filings": 2058
+    },
+    {
+      "year": 2021,
+      "income": 29048583,
+      "filings": 1519
+    },
+    {
+      "year": 2022,
+      "income": 24816782,
+      "filings": 1268
+    },
+    {
+      "year": 2023,
+      "income": 21860873,
+      "filings": 1148
+    },
+    {
+      "year": 2024,
+      "income": 19689572,
+      "filings": 1040
+    },
+    {
+      "year": 2025,
+      "income": 28368897,
+      "filings": 1233
+    }
+  ],
+  "topClients": [
+    {
+      "name": "GOVERNMENT OF U.S. VIRGIN ISLANDS",
+      "income": 4070000
+    },
+    {
+      "name": "EMERGENT BIOSOLUTIONS INC.",
+      "income": 3300000
+    },
+    {
+      "name": "NATIONAL WATER RESOURCES ASSOCIATION",
+      "income": 2640000
+    },
+    {
+      "name": "THE BUILDSTRONG COALITION",
+      "income": 1760000
+    },
+    {
+      "name": "NOVA SOUTHEASTERN UNIVERSITY",
+      "income": 1620000
+    },
+    {
+      "name": "STATE OF CALIFORNIA",
+      "income": 1520000
+    },
+    {
+      "name": "CITY OF OAKLAND",
+      "income": 1497492
+    },
+    {
+      "name": "CITY OF INDIANAPOLIS",
+      "income": 1440000
+    },
+    {
+      "name": "AMERICAN FLOOD COALITION ACTION INC",
+      "income": 1380000
+    },
+    {
+      "name": "ATNI",
+      "income": 1320000
+    },
+    {
+      "name": "DRAGOS",
+      "income": 1295000
+    },
+    {
+      "name": "LOUISIANA COASTAL PROTECTION AND RESTORATION AUTHORITY",
+      "income": 1295000
+    },
+    {
+      "name": "TAYLOR FARMS",
+      "income": 1280000
+    },
+    {
+      "name": "FINANCIAL OVERSIGHT AND MANAGEMENT BOARD FOR PUERTO RICO",
+      "income": 1175200
+    },
+    {
+      "name": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
+      "income": 1170000
+    },
+    {
+      "name": "ASHBRITT, INC.",
+      "income": 1120000
+    },
+    {
+      "name": "KANSAS DEPARTMENT OF COMMERCE",
+      "income": 1110000
+    },
+    {
+      "name": "MEDGENE LABS",
+      "income": 1100000
+    },
+    {
+      "name": "BAY AREA RAPID TRANSIT DISTRICT",
+      "income": 1080000
+    },
+    {
+      "name": "CDR MAGUIRE INC.",
+      "income": 1080000
+    },
+    {
+      "name": "GARNER ENVIRONMENTAL SERVICES",
+      "income": 1060000
+    },
+    {
+      "name": "THE AMERICAN INSTITUTE OF ARCHITECTS",
+      "income": 1020000
+    },
+    {
+      "name": "PACIFIC GAS AND ELECTRIC COMPANY",
+      "income": 1010000
+    },
+    {
+      "name": "SAN DIEGO ZOO GLOBAL",
+      "income": 1010000
+    },
+    {
+      "name": "DOUGHERTY COUNTY COMMISSION",
+      "income": 1000000
+    },
+    {
+      "name": "AECOM",
+      "income": 1000000
+    },
+    {
+      "name": "STATE OF INDIANA",
+      "income": 985800
+    },
+    {
+      "name": "EMERGENT BIOSOLUTIONS",
+      "income": 970000
+    },
+    {
+      "name": "WOOLPERT",
+      "income": 960000
+    },
+    {
+      "name": "DJI TECHNOLOGY",
+      "income": 955000
+    },
+    {
+      "name": "CITY OF HOUSTON",
+      "income": 950000
+    },
+    {
+      "name": "MIDLAND BUSINESS ALLIANCE",
+      "income": 940000
+    },
+    {
+      "name": "HARRIS COUNTY",
+      "income": 940000
+    },
+    {
+      "name": "THE CITY OF FORT WORTH",
+      "income": 930000
+    },
+    {
+      "name": "IAC",
+      "income": 930000
+    },
+    {
+      "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION FKA PROPERTY CASUALTY INSURERS",
+      "income": 911040
+    },
+    {
+      "name": "CGCN GROUP ON BEHALF OF BRADFORD WHITE CORPORATION",
+      "income": 900000
+    },
+    {
+      "name": "HERBERT J. THOMAS MEMORIAL HOSPITAL ASSOCIATION (FKA THOMAS HEALTH)",
+      "income": 870000
+    },
+    {
+      "name": "GOVERNMENT OF PUERTO RICO",
+      "income": 870000
+    },
+    {
+      "name": "GOTENNA",
+      "income": 810000
+    },
+    {
+      "name": "TEXAS STATE UNIVERSITY SYSTEM",
+      "income": 800000
+    },
+    {
+      "name": "FLUOR CORPORATION",
+      "income": 780000
+    },
+    {
+      "name": "INTERNATIONAL ASSOCIATION OF EMERGENCY MANAGERS",
+      "income": 769500
+    },
+    {
+      "name": "CONSTELLATION BRANDS",
+      "income": 730000
+    },
+    {
+      "name": "ALLSTATE INSURANCE COMPANY",
+      "income": 720000
+    },
+    {
+      "name": "SHINGLE SPRINGS RANCHERIA",
+      "income": 720000
+    },
+    {
+      "name": "STATE OF NEVADA",
+      "income": 720000
+    },
+    {
+      "name": "AICPA ASSOCIATION OF INTERNATIONAL CERTIFIED PROFESSIONAL ACCOUNTANTS",
+      "income": 710000
+    },
+    {
+      "name": "CRUISE LINES INTERNATIONAL ASSOCIATION",
+      "income": 710000
+    },
+    {
+      "name": "BALDWIN COUNTY COMMISSION",
+      "income": 700000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "SQUIRE PATTON BOGGS",
+      "income": 8610000
+    },
+    {
+      "name": "THE NORMANDY GROUP, LLC",
+      "income": 5472000
+    },
+    {
+      "name": "CJ LAKE, LLC",
+      "income": 5446500
+    },
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 5270000
+    },
+    {
+      "name": "NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",
+      "income": 4480000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 4240000
+    },
+    {
+      "name": "BALLARD PARTNERS",
+      "income": 4050000
+    },
+    {
+      "name": "PACE, LLP",
+      "income": 3745000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 3660000
+    },
+    {
+      "name": "CGCN GROUP, LLC",
+      "income": 3429340
+    },
+    {
+      "name": "FEDERAL HALL POLICY ADVISORS, LLC",
+      "income": 3220000
+    },
+    {
+      "name": "PARAGON GOVERNMENT RELATIONS",
+      "income": 3170000
+    },
+    {
+      "name": "MILLER STRATEGIES, LLC",
+      "income": 2980000
+    },
+    {
+      "name": "THE FERGUSON GROUP",
+      "income": 2963950
+    },
+    {
+      "name": "WATER STRATEGIES, LLC",
+      "income": 2950000
+    },
+    {
+      "name": "TOWNSEND PUBLIC AFFAIRS, INC",
+      "income": 2874992
+    },
+    {
+      "name": "SIGNAL GROUP CONSULTING, LLC",
+      "income": 2340000
+    },
+    {
+      "name": "POWERS PYLES SUTTER & VERVILLE, P.C.",
+      "income": 2195000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 2150000
+    },
+    {
+      "name": "MCALLISTER & QUINN, LLC",
+      "income": 2125000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 2080000
+    },
+    {
+      "name": "THE PICARD GROUP, LLC",
+      "income": 2060000
+    },
+    {
+      "name": "CONTINENTAL STRATEGY, LLC",
+      "income": 2052500
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 1980000
+    },
+    {
+      "name": "ALIGNMENT GOVERNMENT STRATEGIES",
+      "income": 1890000
+    },
+    {
+      "name": "BOSE PUBLIC AFFAIRS GROUP",
+      "income": 1830000
+    },
+    {
+      "name": "ALCALDE & FAY",
+      "income": 1770000
+    },
+    {
+      "name": "CARTWRIGHT & RILEY, INC.",
+      "income": 1620000
+    },
+    {
+      "name": "MEHLMAN CONSULTING, INC.",
+      "income": 1570000
+    },
+    {
+      "name": "EVOLVE STRATEGIES LLC",
+      "income": 1520000
+    }
+  ],
+  "sampleDescriptions": [
+    "Offshore One Call Notification Center Pipeline Safety",
+    "funding sources\nInfrastructure funding",
+    "Disaster recovery issues related to rebuilding the telecom network. H.R. 4667",
+    "Promotion of Puerto Rico disaster recovery and energy system modernization policies",
+    "issues related to geospatial imaging and mapping",
+    "Advance issues pertaining to infrastructure construction, disaster recovery, and job training/veteran job training.",
+    "Biodefense, Biomedical Advanced Research and Development Authority funding, vaccine research, development, manufacturing and marketing, infectious diseases, cancer, PAHPA, Labor-HHS Appropriations bil",
+    "FEMA reimbursement, coastal restoration, dredging, and hurricane protection.",
+    "Issues related to storm drainage and debris removal.",
+    "Disaster Recovery",
+    "DISASTER-RESILIENT CONSTRUCTION. DISASTER DEDUCTIBLE CONCEPT, ALSO AMENDING FEDERAL COST SHARING IN RELATION TO ADOPTION AND ENFORCEMENT OF MODEL BUILDING CODES. REQUIRING STATES TO ADOPT AND ENFORCE ",
+    "Emergency/Disaster Funding\nMedicaid issues for territories following disasters",
+    "Disaster supplemental Appropriations",
+    "Catastrophic Regional Planning Grants; Emergency preparedness funding.",
+    "Monitoring of Federal disaster relief contracting operations",
+    "Advocated for flood protection measures, specifically levee systems and issues related to the upcoming NFIP reauthorization.",
+    "International Humanitarian and Disaster Relief",
+    "PAHPRA and funding for recovery efforts for Hurricane Irma, Harvey and Maria",
+    "FEMA; Funding for Disaster preparedness grants; NWS",
+    "Lobbied for issues related to disaster planning."
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 208,
+      "spending": 4615375.463917909
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 193,
+      "spending": 2972907.638525796
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 196,
+      "spending": 4072463.7772590755
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 209,
+      "spending": 5576774.977091428
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 185,
+      "spending": 4057950.65631313
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 219,
+      "spending": 3750743.2266678293
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 202,
+      "spending": 3771565.077733838
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 203,
+      "spending": 3293496.630514025
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 455,
+      "spending": 8711689.764544204
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 494,
+      "spending": 9516265.168005941
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 592,
+      "spending": 10643531.985750204
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 517,
+      "spending": 10165593.840030402
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 373,
+      "spending": 7143967.056216184
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 366,
+      "spending": 7667390.393726378
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 402,
+      "spending": 7485577.927308802
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 378,
+      "spending": 6816755.9685344845
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 323,
+      "spending": 7712905.401102946
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 319,
+      "spending": 7258176.79219002
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 317,
+      "spending": 6959977.112090218
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 309,
+      "spending": 8123673.097702399
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 288,
+      "spending": 6264033.753156099
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 291,
+      "spending": 4226495.743350943
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 282,
+      "spending": 4823183.95023013
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 287,
+      "spending": 4023608.47827571
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 247,
+      "spending": 3229799.5355015644
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 291,
+      "spending": 4202213.542019461
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 228,
+      "spending": 3578148.806294798
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 274,
+      "spending": 3421208.2467724346
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 257,
+      "spending": 5205763.58968773
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 318,
+      "spending": 6031779.964671616
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 310,
+      "spending": 6735091.7323243385
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 348,
+      "spending": 6014586.223548122
+    }
+  ],
+  "totalEstimatedSpending": 188072696
+}

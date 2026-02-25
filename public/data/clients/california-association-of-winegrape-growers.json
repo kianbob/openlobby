@@ -1,1 +1,82 @@
-{"id":168047,"name":"CALIFORNIA ASSOCIATION OF WINEGRAPE GROWERS","slug":"california-association-of-winegrape-growers","state":"CA","description":"Government Relations","totalSpending":1390000,"filings":30,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":120000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":210000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["LOUIE PERRY","ALICE GOMEZ","LAVERNE HUBERT","THOMAS SHIPMAN","JOSEPH BISCHOFF","FRED CLARK","PRESCOTT MARTIN","RONALD STORHAUG"],"issues":["AGR","TRD",null],"sampleDescriptions":["Agricultural and trade issues related to the California winegrape growers"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 168047,
+  "name": "CALIFORNIA ASSOCIATION OF WINEGRAPE GROWERS",
+  "slug": "california-association-of-winegrape-growers",
+  "state": "CA",
+  "description": "Government Relations",
+  "totalSpending": 1390000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 210000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "LOUIE PERRY",
+    "ALICE GOMEZ",
+    "LAVERNE HUBERT",
+    "THOMAS SHIPMAN",
+    "JOSEPH BISCHOFF",
+    "FRED CLARK",
+    "PRESCOTT MARTIN",
+    "RONALD STORHAUG"
+  ],
+  "issues": [
+    "AGR",
+    "TRD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Agricultural and trade issues related to the California winegrape growers"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 31,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 173750,
+  "peakYear": 2025,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 2
+}

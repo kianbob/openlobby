@@ -1,1 +1,96 @@
-{"id":202443,"name":"WIGGINS CHILDS PANTAZIS FISHER GOLDFARB","slug":"wiggins-childs-pantazis-fisher-goldfarb","state":"AL","description":"Law firm representing victims of 9/11 terrorism with claims against Iran.","totalSpending":1510000,"filings":28,"yearlySpending":[{"year":2019,"income":140000},{"year":2020,"income":240000},{"year":2021,"income":110000},{"year":2022,"income":300000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["KLEIN/JOHNSON GROUP"],"lobbyists":["ISRAEL KLEIN","MATTHEW JOHNSON","BRIAN GREER","NORMAN LENT","IAN RAYDER","KATE LYNCH","KELLI BRIGGS"],"issues":["LAW","BUD","DEF",null],"sampleDescriptions":["- Amendment to NDAA and Intelligence Authorization bills to hold Iran accountable for acts of terrorism.\n- Victims of State Sponsored Terrorism Act","- Continuing Resolution/Spending Bill, H.R. 3055","- Victims of State Sponsored Terrorism Act","- NDAA\n- Victims of State Sponsored Terrorism Act","- Victims of State Sponsored Terrorism Act; issues around Sudan bilateral agreement","- Victims of State Sponsored Terrorism Act; issues around Sudan bilateral agreement; H.R. 1865\n- Further Consolidated Appropriations Act, 2020","Victims of State Sponsored Terrorism Act","Victims of State Sponsored Terrorism Act; issues around Sudan bilateral agreement.","Victims of State Sponsored Terrorism Act; HR 2471 Consolidated Appropriations Act, 2022","Victims of State Sponsored Terrorism Act.","Victims of State Sponsored Terrorism Act; National Defense Authorization Act.","Victims of State Sponsored Terrorism Fund; Fairness for 9/11 Families Act (H.R. 8987); H.R. 8667 (amending the Justice for United States Victims of State Sponsored Terrorism Act); Justice for American Victims of Terrorism Act of 2022 (H.R. 8219)","Victims of State Sponsored Terrorism Fund; National Defense Authorization Act; Fairness for 9/11 Families Act (H.R. 8987); Amending the Justice for United States Victims of State Sponsored Terrorism Act (H.R. 8667)","Victims of State Sponsored Terrorism Fund; Fairness for 9/11 Families Act (H.R. 8987); Amending the Justice for United States Victims of State Sponsored Terrorism Act (H.R. 8667)","Victims of State Sponsored Terrorism Fund; Fairness for 9/11 Families Act (H.R. 8987), Fairness for 9/11 Families Act (S. 5045); H.R. 8667 (amending the Justice for United States Victims of State Sponsored Terrorism Act); Justice for American Victims of Terrorism Act of 2022 (H.R. 8219); Consolidated Appropriations Act, 2023 (H.R. 2617.)","Victims of State Sponsored Terrorism Fund; National Defense Authorization Act; Fairness for 9/11 Families Act (H.R. 8987), Fairness for 9/11 Families Act (S. 5045); H.R. 8667 (amending the Justice for United States Victims of State Sponsored Terrorism Act.)","Victims of State Sponsored Terrorism Fund; Fairness for 9/11 Families Act (H.R. 8987), Fairness for 9/11 Families Act (S. 5045); H.R. 8667 (amending the Justice for United States Victims of State Sponsored Terrorism Act); Consolidated Appropriations Act, 2023 (H.R. 2617.)","Issues related to the Victims of State Sponsored Terrorism Fund; Implementation of the Fairness for 9/11 Families Act; Fairness for 9/11 Families Technical Fix Act (H.R. 6624).","Issues related to the Victims of State Sponsored Terrorism Fund.","Issues related to the Victims of State Sponsored Terrorism Fund; Implementation of the Fairness for 9/11 Families Act; Fairness for 9/11 Families Technical Fix Act (H.R. 6624). Justice for United States Victims of State Sponsored Terrorism Act (S. 5413)."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202443,
+  "name": "WIGGINS CHILDS PANTAZIS FISHER GOLDFARB",
+  "slug": "wiggins-childs-pantazis-fisher-goldfarb",
+  "state": "AL",
+  "description": "Law firm representing victims of 9/11 terrorism with claims against Iran.",
+  "totalSpending": 1510000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 140000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 110000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "KLEIN/JOHNSON GROUP"
+  ],
+  "lobbyists": [
+    "ISRAEL KLEIN",
+    "MATTHEW JOHNSON",
+    "BRIAN GREER",
+    "NORMAN LENT",
+    "IAN RAYDER",
+    "KATE LYNCH",
+    "KELLI BRIGGS"
+  ],
+  "issues": [
+    "LAW",
+    "BUD",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "- Amendment to NDAA and Intelligence Authorization bills to hold Iran accountable for acts of terrorism.\n- Victims of State Sponsored Terrorism Act",
+    "- Continuing Resolution/Spending Bill, H.R. 3055",
+    "- Victims of State Sponsored Terrorism Act",
+    "- NDAA\n- Victims of State Sponsored Terrorism Act",
+    "- Victims of State Sponsored Terrorism Act; issues around Sudan bilateral agreement",
+    "- Victims of State Sponsored Terrorism Act; issues around Sudan bilateral agreement; H.R. 1865\n- Further Consolidated Appropriations Act, 2020",
+    "Victims of State Sponsored Terrorism Act",
+    "Victims of State Sponsored Terrorism Act; issues around Sudan bilateral agreement.",
+    "Victims of State Sponsored Terrorism Act; HR 2471 Consolidated Appropriations Act, 2022",
+    "Victims of State Sponsored Terrorism Act.",
+    "Victims of State Sponsored Terrorism Act; National Defense Authorization Act.",
+    "Victims of State Sponsored Terrorism Fund; Fairness for 9/11 Families Act (H.R. 8987); H.R. 8667 (amending the Justice for United States Victims of State Sponsored Terrorism Act); Justice for American Victims of Terrorism Act of 2022 (H.R. 8219)",
+    "Victims of State Sponsored Terrorism Fund; National Defense Authorization Act; Fairness for 9/11 Families Act (H.R. 8987); Amending the Justice for United States Victims of State Sponsored Terrorism Act (H.R. 8667)",
+    "Victims of State Sponsored Terrorism Fund; Fairness for 9/11 Families Act (H.R. 8987); Amending the Justice for United States Victims of State Sponsored Terrorism Act (H.R. 8667)",
+    "Victims of State Sponsored Terrorism Fund; Fairness for 9/11 Families Act (H.R. 8987), Fairness for 9/11 Families Act (S. 5045); H.R. 8667 (amending the Justice for United States Victims of State Sponsored Terrorism Act); Justice for American Victims of Terrorism Act of 2022 (H.R. 8219); Consolidated Appropriations Act, 2023 (H.R. 2617.)",
+    "Victims of State Sponsored Terrorism Fund; National Defense Authorization Act; Fairness for 9/11 Families Act (H.R. 8987), Fairness for 9/11 Families Act (S. 5045); H.R. 8667 (amending the Justice for United States Victims of State Sponsored Terrorism Act.)",
+    "Victims of State Sponsored Terrorism Fund; Fairness for 9/11 Families Act (H.R. 8987), Fairness for 9/11 Families Act (S. 5045); H.R. 8667 (amending the Justice for United States Victims of State Sponsored Terrorism Act); Consolidated Appropriations Act, 2023 (H.R. 2617.)",
+    "Issues related to the Victims of State Sponsored Terrorism Fund; Implementation of the Fairness for 9/11 Families Act; Fairness for 9/11 Families Technical Fix Act (H.R. 6624).",
+    "Issues related to the Victims of State Sponsored Terrorism Fund.",
+    "Issues related to the Victims of State Sponsored Terrorism Fund; Implementation of the Fairness for 9/11 Families Act; Fairness for 9/11 Families Technical Fix Act (H.R. 6624). Justice for United States Victims of State Sponsored Terrorism Act (S. 5413)."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 71,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 215714,
+  "peakYear": 2022,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 3
+}

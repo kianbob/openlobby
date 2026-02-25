@@ -1,1 +1,94 @@
-{"id":111642,"name":"THE UNIVERSITY OF CHICAGO MEDICAL CENTER","slug":"the-university-of-chicago-medical-center","state":"IL","description":"Healthcare","totalSpending":1583000,"filings":27,"yearlySpending":[{"year":2018,"income":153000},{"year":2019,"income":216000},{"year":2020,"income":152000},{"year":2021,"income":190000},{"year":2022,"income":230000},{"year":2023,"income":241000},{"year":2024,"income":129000},{"year":2025,"income":272000}],"firms":["CARMEN GROUP INCORPORATED"],"lobbyists":["WILLIAM SIGNER"],"issues":["HCR",null],"sampleDescriptions":["Medicare, Medicaid, NIH Funding Medical Education Funding Hospital Outpatient Department, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B, American Health Care Act of 2017 (AHCA); Better Care Reconciliation Act (BCRA)","Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B","Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B; HR 4392","Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 3408; HR 4392; Drug Pricing","Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 3408; HR 4392; Drug Pricing; Surprise Billing","Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 3408; HR 4392; Drug Pricing; Surprise Billing; H.R. 3","Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B; HR 4392; Drug Pricing; Surprise Billing; H.R. 3; Hospital Outpatient Reimbursement","Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B; HR 4392; Drug Pricing; Surprise Billing; H.R. 3; Hospital Outpatient Reimbursement; CARES act","Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B; HR 4392; Drug Pricing; Surprise Billing; H.R. 3; Hospital Outpatient Reimbursement; CARES act; The HEROS Act; HR 133","Medicare, Medicaid, NIH Funding; Medical Education Funding; Helping Hospital Improve Patient Care Act; Medicare Redesigns; 340B; HR 4392; Drug Pricing; Surprise Billing; HR 3; Hospital Outpatient Reimbursement; FY 2021 Omnibus Appropriations and Coronavirus Relief Bill HR 133","Medicare, Medicaid, NIH Funding; Medical Education Funding; Helping Hospital Improve Patient Care Act; Medicare Redesigns; 340B; HR 4392; Drug Pricing; Surprise Billing; HR 3; Hospital Outpatient Reimbursement; FY 2021 Omnibus Appropriations; Extension of Telehealth COVID-19 rules","Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; HR 4392; Drug Pricing; Surprise Billing; HR 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - The CONNECT for Health of 2021 HR 2903;","Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; HR 4392; Drug Pricing; HR 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - The CONNECT for Health of 2021 HR 2903; VALID Act","Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; HR 4392; Drug Pricing; HR 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - The CONNECT for Health of 2021 HR 2903; VALID Act; Salsa Act H.R. 8188 / S.4449","Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing; H.R. 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - Telehealths; VALID Act; Salsa Act H.R. 1835; Pending FDA regulation of LDTs","Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing; H.R. 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - Telehealth; VALID Act; Salsa Act H.R. 1835; Pending FDA regulation of LDTs","Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing; H.R. 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - Telehealth; VALID Act; Salsa Act H.R. 1835; Pending FDA regulation of LDTS","Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing; H.R. 3; Hospital Outpatient Reimbursement; FY 2026 Appropriations; Extension of Telehealth COVID-19 rules - Telehealth; Salsa Act; Pending FDA regulation of LDTS; One Big Beautiful Bill","Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing;Hospital Outpatient Reimbursement; FY 2026 Appropriations; Extension of Telehealth COVID-19 rules - Telehealth; Pending FDA regulation of LDTS","Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing;Hospital Outpatient Reimbursement; FY 2026 Appropriations"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 111642,
+  "name": "THE UNIVERSITY OF CHICAGO MEDICAL CENTER",
+  "slug": "the-university-of-chicago-medical-center",
+  "state": "IL",
+  "description": "Healthcare",
+  "totalSpending": 1583000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 153000
+    },
+    {
+      "year": 2019,
+      "income": 216000
+    },
+    {
+      "year": 2020,
+      "income": 152000
+    },
+    {
+      "year": 2021,
+      "income": 190000
+    },
+    {
+      "year": 2022,
+      "income": 230000
+    },
+    {
+      "year": 2023,
+      "income": 241000
+    },
+    {
+      "year": 2024,
+      "income": 129000
+    },
+    {
+      "year": 2025,
+      "income": 272000
+    }
+  ],
+  "firms": [
+    "CARMEN GROUP INCORPORATED"
+  ],
+  "lobbyists": [
+    "WILLIAM SIGNER"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Medicare, Medicaid, NIH Funding Medical Education Funding Hospital Outpatient Department, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B, American Health Care Act of 2017 (AHCA); Better Care Reconciliation Act (BCRA)",
+    "Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B",
+    "Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B; HR 4392",
+    "Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 3408; HR 4392; Drug Pricing",
+    "Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 3408; HR 4392; Drug Pricing; Surprise Billing",
+    "Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 3408; HR 4392; Drug Pricing; Surprise Billing; H.R. 3",
+    "Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B; HR 4392; Drug Pricing; Surprise Billing; H.R. 3; Hospital Outpatient Reimbursement",
+    "Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B; HR 4392; Drug Pricing; Surprise Billing; H.R. 3; Hospital Outpatient Reimbursement; CARES act",
+    "Medicare, Medicaid, NIH Funding Medical Education Funding, Helping Hospital Improve Patient Care Act HR 5273, Funding FY 2019 Budget, Medicare Redesign; 340B; HR 4392; Drug Pricing; Surprise Billing; H.R. 3; Hospital Outpatient Reimbursement; CARES act; The HEROS Act; HR 133",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; Helping Hospital Improve Patient Care Act; Medicare Redesigns; 340B; HR 4392; Drug Pricing; Surprise Billing; HR 3; Hospital Outpatient Reimbursement; FY 2021 Omnibus Appropriations and Coronavirus Relief Bill HR 133",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; Helping Hospital Improve Patient Care Act; Medicare Redesigns; 340B; HR 4392; Drug Pricing; Surprise Billing; HR 3; Hospital Outpatient Reimbursement; FY 2021 Omnibus Appropriations; Extension of Telehealth COVID-19 rules",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; HR 4392; Drug Pricing; Surprise Billing; HR 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - The CONNECT for Health of 2021 HR 2903;",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; HR 4392; Drug Pricing; HR 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - The CONNECT for Health of 2021 HR 2903; VALID Act",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; HR 4392; Drug Pricing; HR 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - The CONNECT for Health of 2021 HR 2903; VALID Act; Salsa Act H.R. 8188 / S.4449",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing; H.R. 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - Telehealths; VALID Act; Salsa Act H.R. 1835; Pending FDA regulation of LDTs",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing; H.R. 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - Telehealth; VALID Act; Salsa Act H.R. 1835; Pending FDA regulation of LDTs",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing; H.R. 3; Hospital Outpatient Reimbursement; FY 2022 Omnibus Appropriations; Extension of Telehealth COVID-19 rules - Telehealth; VALID Act; Salsa Act H.R. 1835; Pending FDA regulation of LDTS",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing; H.R. 3; Hospital Outpatient Reimbursement; FY 2026 Appropriations; Extension of Telehealth COVID-19 rules - Telehealth; Salsa Act; Pending FDA regulation of LDTS; One Big Beautiful Bill",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing;Hospital Outpatient Reimbursement; FY 2026 Appropriations; Extension of Telehealth COVID-19 rules - Telehealth; Pending FDA regulation of LDTS",
+    "Medicare, Medicaid, NIH Funding; Medical Education Funding; 340B; Drug Pricing;Hospital Outpatient Reimbursement; FY 2026 Appropriations"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 78,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 197875,
+  "peakYear": 2025,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

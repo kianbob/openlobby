@@ -1,1 +1,106 @@
-{"id":196542,"name":"AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION","slug":"american-college-of-radiology-association","state":"VA","description":"Organization of radiologists, radiologist oncologists &amp; clinical medical physicists in US","totalSpending":1450000,"filings":29,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["FORBES-TATE"],"lobbyists":["JEFFREY STRUNK","JEFFREY FORBES","ZACHARY WILLIAMS","ELIZABETH GREER","JERRY DRISCOLL","DERRICK WHITE","BARRETT THORNHILL","MICHAEL WILLIAMS","KRISTINA DUNKLIN"],"issues":["MMM","MED","FIN","HCR","BUD",null],"sampleDescriptions":["Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging.","Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Protect Access to Medicare Act (PAMA) (Pub.L. 113-93); Issues related to Appropriate Use Criteria (AUC).","Issues related to surprise billing.","Issues related to H.R. 925 - The Heroes Act.","Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC).","Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC). Issues related to prior authorization in Medicare and Medicaid: S.4532/H.R. 870- Improving Seniors Timely Access to Care Act of 2024.","Issues related to surprise billing. Issues related to prior authorization in Medicare and Medicaid: S.4532/H.R. 8702 - Improving Seniors Timely Access to Care Act of 2024.","Issues related to proposed cuts in the CY 2025 Medicare Physician Fee Schedule proposed rule; H.R. 2474 - Strengthening Medicare for Patients and Providers Act; H.R. 6371 - Provider Reimbursement Stability Act of 2023; S. 4935 - Physician Fee Stabilization Act.","Issues related to surprise billing; Issues related to prior authorization in Medicare and Medicaid: S.4532/H.R. 8702 - Improving Seniors Timely Access to Care Act of 2024.","Issues related to the CY 2025 Medicare Physician Fee Schedule proposed rule; Issues related to H.R. 879 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act.","Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC); Issues related to prior authorization in Medicare and Medicaid; Issues related to H.R. 639 - Doctor Knows Best Act of 2025; Issues related to H.R. 879 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act.","Issues related to proposed cuts in the CY 2025 Medicare Physician Fee Schedule proposed rule; Issues related to H.R. 2474 - Strengthening Medicare for Patients and Providers Act; Issues related to H.R. 6371 - Provider Reimbursement Stability Act of 2023; Issues related to S. 4935 - Physician Fee Stabilization Act.","Issues related to surprise billing; Issues related to prior authorization in Medicare and Medicaid; Issues related to H.R. 8702/S. 4532 - Improving Seniors Timely Access to Care Act of 2024.","Issues related to the CY 2025 Medicare Physician Fee Schedule proposed rule; Issues related to H.R. 879/S. 1640 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act.","Issues related to proposed cuts in the CY 2025 Medicare Physician Fee Schedule proposed rule; Issues related to Medicare physician fee schedule.","Issues related to surprise billing; Issues related to prior authorization in Medicare and Medicaid.","Issues related to the Medicare Physician Fee Schedule and Authorized Use Criteria (AUC) in H.R. 1 - One Big Beautiful Bill Act.","Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC); Issues related to prior authorization in Medicare and Medicaid; Issues related to H.R. 639 - Doctor Knows Best Act of 2025; Issues related to H.R. 879/S. 1640 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act; Issues related to S. 1692 - Radiology Outpatient Ordering Transmission (ROOT) Act.","Issues related to the Medicare Physician Fee Schedule and Authorized Use Criteria (AUC) in the One Big Beautiful Bill Act (PL 119-21).","Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC); Issues related to prior authorization in Medicare and Medicaid; Issues related to H.R. 639 - Doctor Knows Best Act of 2025; Issues related to H.R. 879/S. 1640 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act; Issues related to H.R. 5737/S. 1692 - Radiology Outpatient Ordering Transmission (ROOT) Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 196542,
+  "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION",
+  "slug": "american-college-of-radiology-association",
+  "state": "VA",
+  "description": "Organization of radiologists, radiologist oncologists &amp; clinical medical physicists in US",
+  "totalSpending": 1450000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "FORBES-TATE"
+  ],
+  "lobbyists": [
+    "JEFFREY STRUNK",
+    "JEFFREY FORBES",
+    "ZACHARY WILLIAMS",
+    "ELIZABETH GREER",
+    "JERRY DRISCOLL",
+    "DERRICK WHITE",
+    "BARRETT THORNHILL",
+    "MICHAEL WILLIAMS",
+    "KRISTINA DUNKLIN"
+  ],
+  "issues": [
+    "MMM",
+    "MED",
+    "FIN",
+    "HCR",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging.",
+    "Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Protect Access to Medicare Act (PAMA) (Pub.L. 113-93); Issues related to Appropriate Use Criteria (AUC).",
+    "Issues related to surprise billing.",
+    "Issues related to H.R. 925 - The Heroes Act.",
+    "Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC).",
+    "Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC). Issues related to prior authorization in Medicare and Medicaid: S.4532/H.R. 870- Improving Seniors Timely Access to Care Act of 2024.",
+    "Issues related to surprise billing. Issues related to prior authorization in Medicare and Medicaid: S.4532/H.R. 8702 - Improving Seniors Timely Access to Care Act of 2024.",
+    "Issues related to proposed cuts in the CY 2025 Medicare Physician Fee Schedule proposed rule; H.R. 2474 - Strengthening Medicare for Patients and Providers Act; H.R. 6371 - Provider Reimbursement Stability Act of 2023; S. 4935 - Physician Fee Stabilization Act.",
+    "Issues related to surprise billing; Issues related to prior authorization in Medicare and Medicaid: S.4532/H.R. 8702 - Improving Seniors Timely Access to Care Act of 2024.",
+    "Issues related to the CY 2025 Medicare Physician Fee Schedule proposed rule; Issues related to H.R. 879 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act.",
+    "Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC); Issues related to prior authorization in Medicare and Medicaid; Issues related to H.R. 639 - Doctor Knows Best Act of 2025; Issues related to H.R. 879 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act.",
+    "Issues related to proposed cuts in the CY 2025 Medicare Physician Fee Schedule proposed rule; Issues related to H.R. 2474 - Strengthening Medicare for Patients and Providers Act; Issues related to H.R. 6371 - Provider Reimbursement Stability Act of 2023; Issues related to S. 4935 - Physician Fee Stabilization Act.",
+    "Issues related to surprise billing; Issues related to prior authorization in Medicare and Medicaid; Issues related to H.R. 8702/S. 4532 - Improving Seniors Timely Access to Care Act of 2024.",
+    "Issues related to the CY 2025 Medicare Physician Fee Schedule proposed rule; Issues related to H.R. 879/S. 1640 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act.",
+    "Issues related to proposed cuts in the CY 2025 Medicare Physician Fee Schedule proposed rule; Issues related to Medicare physician fee schedule.",
+    "Issues related to surprise billing; Issues related to prior authorization in Medicare and Medicaid.",
+    "Issues related to the Medicare Physician Fee Schedule and Authorized Use Criteria (AUC) in H.R. 1 - One Big Beautiful Bill Act.",
+    "Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC); Issues related to prior authorization in Medicare and Medicaid; Issues related to H.R. 639 - Doctor Knows Best Act of 2025; Issues related to H.R. 879/S. 1640 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act; Issues related to S. 1692 - Radiology Outpatient Ordering Transmission (ROOT) Act.",
+    "Issues related to the Medicare Physician Fee Schedule and Authorized Use Criteria (AUC) in the One Big Beautiful Bill Act (PL 119-21).",
+    "Issues related to Medicare and Medicaid payments to physicians; Issues related to medical imaging; Issues related to Appropriate Use Criteria (AUC); Issues related to prior authorization in Medicare and Medicaid; Issues related to H.R. 639 - Doctor Knows Best Act of 2025; Issues related to H.R. 879/S. 1640 - Medicare Patient Access and Practice Stabilization Act of 2025; Issues related to S. 891 - Bipartisan Health Care Act; Issues related to H.R. 5737/S. 1692 - Radiology Outpatient Ordering Transmission (ROOT) Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 181250,
+  "peakYear": 2018,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "healthcare"
+}

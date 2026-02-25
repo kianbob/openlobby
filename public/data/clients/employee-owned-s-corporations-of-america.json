@@ -1,1 +1,110 @@
-{"id":162684,"name":"EMPLOYEE-OWNED S CORPORATIONS OF AMERICA","slug":"employee-owned-s-corporations-of-america","state":"DC","description":null,"totalSpending":8720000,"filings":29,"yearlySpending":[{"year":2018,"income":1680000},{"year":2019,"income":1720000},{"year":2020,"income":830000},{"year":2021,"income":420000},{"year":2022,"income":660000},{"year":2023,"income":1090000},{"year":2024,"income":1160000},{"year":2025,"income":1160000}],"firms":["VENN STRATEGIES"],"lobbyists":["NOELLE MONTANO","STEPHANIE SILVERMAN","MATTHEW PEARCE","ANNALISE JOHNSON","DIANDRA BRENNAN","MONICA FARROW","MATTHEW GIACONA","KELSEY STAPP","ELISE TOLLEFSON","DOUG MACGILLIVRAY","CARLY GOOD","JONATHAN PYATT","SAMUEL GOODSTEIN","ALLISON EVERTON","JUSTIN LIVESEY","ANDREW SIGMON","JOSHUA THARRINGTON","JAKARA EASON","KEVIN DOWLING","BENNETT RESNIK","JOHN RICHTER","MATTHEW SCOTT","AUDREY SIMS","CHRISTOPHER FOX","KATE MARKS","MARGARET FRENCH","EMMA BISHOP","GARRETT LUKKEN","CHARLES LEVINGS","GRAHAM ROY","MICHAEL SPIRA","JENNIFER TAFT","CLAIRE ONYECHI","NOAH SCHLOEGEL"],"issues":["TAX",null],"sampleDescriptions":["Tax and pension policy related to ESOPs and S Corporations.","Tax and pension policy related to ESOP and S Corporations.","Legislation impacting S Corporation ESOPs.","Legislation and other proposed policy change impacting S Corporation ESOPs."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 162684,
+  "name": "EMPLOYEE-OWNED S CORPORATIONS OF AMERICA",
+  "slug": "employee-owned-s-corporations-of-america",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 8720000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 1680000
+    },
+    {
+      "year": 2019,
+      "income": 1720000
+    },
+    {
+      "year": 2020,
+      "income": 830000
+    },
+    {
+      "year": 2021,
+      "income": 420000
+    },
+    {
+      "year": 2022,
+      "income": 660000
+    },
+    {
+      "year": 2023,
+      "income": 1090000
+    },
+    {
+      "year": 2024,
+      "income": 1160000
+    },
+    {
+      "year": 2025,
+      "income": 1160000
+    }
+  ],
+  "firms": [
+    "VENN STRATEGIES"
+  ],
+  "lobbyists": [
+    "NOELLE MONTANO",
+    "STEPHANIE SILVERMAN",
+    "MATTHEW PEARCE",
+    "ANNALISE JOHNSON",
+    "DIANDRA BRENNAN",
+    "MONICA FARROW",
+    "MATTHEW GIACONA",
+    "KELSEY STAPP",
+    "ELISE TOLLEFSON",
+    "DOUG MACGILLIVRAY",
+    "CARLY GOOD",
+    "JONATHAN PYATT",
+    "SAMUEL GOODSTEIN",
+    "ALLISON EVERTON",
+    "JUSTIN LIVESEY",
+    "ANDREW SIGMON",
+    "JOSHUA THARRINGTON",
+    "JAKARA EASON",
+    "KEVIN DOWLING",
+    "BENNETT RESNIK",
+    "JOHN RICHTER",
+    "MATTHEW SCOTT",
+    "AUDREY SIMS",
+    "CHRISTOPHER FOX",
+    "KATE MARKS",
+    "MARGARET FRENCH",
+    "EMMA BISHOP",
+    "GARRETT LUKKEN",
+    "CHARLES LEVINGS",
+    "GRAHAM ROY",
+    "MICHAEL SPIRA",
+    "JENNIFER TAFT",
+    "CLAIRE ONYECHI",
+    "NOAH SCHLOEGEL"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Tax and pension policy related to ESOPs and S Corporations.",
+    "Tax and pension policy related to ESOP and S Corporations.",
+    "Legislation impacting S Corporation ESOPs.",
+    "Legislation and other proposed policy change impacting S Corporation ESOPs."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -31,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 1090000,
+  "peakYear": 2019,
+  "lobbyistCount": 34,
+  "firmCount": 1,
+  "issueCount": 1
+}

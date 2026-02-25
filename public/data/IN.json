@@ -1,1 +1,329 @@
-{"abbreviation":"IN","name":"Indiana","totalSpending":146217737.84,"totalFilings":7337,"clientCount":438,"yearlySpending":[{"year":2018,"income":13074247},{"year":2019,"income":12209817},{"year":2020,"income":13678974.97},{"year":2021,"income":14352866},{"year":2022,"income":17737885.7},{"year":2023,"income":35487674.2},{"year":2024,"income":17708550},{"year":2025,"income":21967722.97}],"topClients":[{"name":"LILLY USA, LLC","income":3625000},{"name":"ELEVANCE HEALTH, INC.","income":3600000},{"name":"ELI LILLY AND COMPANY","income":3040000},{"name":"ELEVANCE HEALTH, INC (F.K.A. ANTHEM, INC. & WELLPOINT, INC.)","income":2880000},{"name":"CENTERPOINT ENERGY","income":2800000},{"name":"NISOURCE INC.","income":2800000},{"name":"ALLISON TRANSMISSION, INC.","income":2590000},{"name":"AM GENERAL LLC","income":2590000},{"name":"CORTEVA AGRISCIENCE LLC (FKA CORTEVA AGRISCIENCE)","income":2520000},{"name":"THE TRUSTEES OF PURDUE UNIVERSITY","income":2345200},{"name":"CITY OF INDIANAPOLIS","income":2310000},{"name":"STATE OF INDIANA","income":2187222},{"name":"ONEMAIN FINANCIAL GROUP, LLC","income":2110000},{"name":"AMERIQUAL GROUP, LLC","income":1720000},{"name":"CREA","income":1720000},{"name":"INNOVAS INDIANA LLC","income":1700000},{"name":"ELANCO ANIMAL HEALTH","income":1662500},{"name":"UNIVERSITY OF NOTRE DAME","income":1660000},{"name":"HEALTH AND HOSPITAL CORPORATION OF MARION COUNTY INDIANA","income":1650000},{"name":"ACADEMY OF MODEL AERONAUTICS","income":1620000},{"name":"ZOTEC PARTNERS","income":1580000},{"name":"FRATERNAL GOVERNMENT RELATIONS COALITION","income":1580000},{"name":"ONEMAIN HOLDINGS INC.","income":1560000},{"name":"AMERICAN COLLEGE OF SPORTS MEDICINE","income":1540000},{"name":"CORTEVA AGRISCIENCE","income":1460000},{"name":"REGAL BELOIT AMERICA, INC.","income":1420000},{"name":"COUNTRYMARK COOPERATIVE","income":1410000},{"name":"ZIMMER BIOMET","income":1390000},{"name":"ROCHE DIAGNOSTICS CORPORATION","income":1380000},{"name":"COMMUNITY HEALTH NETWORK, INC. INDIANAPOLIS","income":1364000},{"name":"PURDUE UNIVERSITY","income":1340000},{"name":"INDIANA UNIVERSITY HEALTH INC","income":1208400},{"name":"AMERICAN CAMP ASSOCIATION","income":1185000},{"name":"TRINE UNIVERSITY","income":1170000},{"name":"SUBURBAN HEALTH ORGANIZATION","income":1169000},{"name":"ROCHE DIAGNOSTICS","income":1100000},{"name":"CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.","income":1060000},{"name":"TRIMEDX, LLC","income":1026753},{"name":"CITIZENS ENERGY GROUP","income":960000},{"name":"NORTHERN INDIANA COMMUTER TRANSPORTATION DISTRICT","income":960000},{"name":"ELANCO US INC","income":926000},{"name":"BUILD INDIANA COUNCIL","income":920000},{"name":"BOSMA ENTERPRISES","income":919000},{"name":"CUMMINS INC","income":870000},{"name":"AEROCORE TECHNOLOGIES LLC","income":860000},{"name":"PARKVIEW HEALTH SYSTEM","income":829000},{"name":"REPUBLIC AIRLINES, INC.","income":820000},{"name":"AAPAN","income":820000},{"name":"3CHI CORPORATION","income":770000},{"name":"TACOMA WASHINGTON","income":766237.7}],"topIssues":[{"code":"BUD","income":29845231.07},{"code":"HCR","income":28183283.04},{"code":"TRA","income":19974586.77},{"code":"MMM","income":17461738},{"code":"DEF","income":16614592},{"code":"TAX","income":16295063.969999999},{"code":"ENG","income":14457373},{"code":"EDU","income":10516900},{"code":"AGR","income":8578824},{"code":"ECN","income":7208701.97},{"code":"ENV","income":6406136},{"code":"GOV","income":6302431.97},{"code":"UTI","income":5716614},{"code":"TRD","income":4655800},{"code":"FUE","income":4455000},{"code":"HOM","income":4371512.97},{"code":"SCI","income":4026685},{"code":"DIS","income":3967473.9699999997},{"code":"HOU","income":3921768.8},{"code":"FIN","income":3846843}]}
+{
+  "abbreviation": "IN",
+  "name": "Indiana",
+  "totalSpending": 146217737.84,
+  "totalFilings": 7337,
+  "clientCount": 438,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 13074247
+    },
+    {
+      "year": 2019,
+      "income": 12209817
+    },
+    {
+      "year": 2020,
+      "income": 13678974.97
+    },
+    {
+      "year": 2021,
+      "income": 14352866
+    },
+    {
+      "year": 2022,
+      "income": 17737885.7
+    },
+    {
+      "year": 2023,
+      "income": 35487674.2
+    },
+    {
+      "year": 2024,
+      "income": 17708550
+    },
+    {
+      "year": 2025,
+      "income": 21967722.97
+    }
+  ],
+  "topClients": [
+    {
+      "name": "LILLY USA, LLC",
+      "income": 3625000
+    },
+    {
+      "name": "ELEVANCE HEALTH, INC.",
+      "income": 3600000
+    },
+    {
+      "name": "ELI LILLY AND COMPANY",
+      "income": 3040000
+    },
+    {
+      "name": "ELEVANCE HEALTH, INC (F.K.A. ANTHEM, INC. & WELLPOINT, INC.)",
+      "income": 2880000
+    },
+    {
+      "name": "CENTERPOINT ENERGY",
+      "income": 2800000
+    },
+    {
+      "name": "NISOURCE INC.",
+      "income": 2800000
+    },
+    {
+      "name": "ALLISON TRANSMISSION, INC.",
+      "income": 2590000
+    },
+    {
+      "name": "AM GENERAL LLC",
+      "income": 2590000
+    },
+    {
+      "name": "CORTEVA AGRISCIENCE LLC (FKA CORTEVA AGRISCIENCE)",
+      "income": 2520000
+    },
+    {
+      "name": "THE TRUSTEES OF PURDUE UNIVERSITY",
+      "income": 2345200
+    },
+    {
+      "name": "CITY OF INDIANAPOLIS",
+      "income": 2310000
+    },
+    {
+      "name": "STATE OF INDIANA",
+      "income": 2187222
+    },
+    {
+      "name": "ONEMAIN FINANCIAL GROUP, LLC",
+      "income": 2110000
+    },
+    {
+      "name": "AMERIQUAL GROUP, LLC",
+      "income": 1720000
+    },
+    {
+      "name": "CREA",
+      "income": 1720000
+    },
+    {
+      "name": "INNOVAS INDIANA LLC",
+      "income": 1700000
+    },
+    {
+      "name": "ELANCO ANIMAL HEALTH",
+      "income": 1662500
+    },
+    {
+      "name": "UNIVERSITY OF NOTRE DAME",
+      "income": 1660000
+    },
+    {
+      "name": "HEALTH AND HOSPITAL CORPORATION OF MARION COUNTY INDIANA",
+      "income": 1650000
+    },
+    {
+      "name": "ACADEMY OF MODEL AERONAUTICS",
+      "income": 1620000
+    },
+    {
+      "name": "ZOTEC PARTNERS",
+      "income": 1580000
+    },
+    {
+      "name": "FRATERNAL GOVERNMENT RELATIONS COALITION",
+      "income": 1580000
+    },
+    {
+      "name": "ONEMAIN HOLDINGS INC.",
+      "income": 1560000
+    },
+    {
+      "name": "AMERICAN COLLEGE OF SPORTS MEDICINE",
+      "income": 1540000
+    },
+    {
+      "name": "CORTEVA AGRISCIENCE",
+      "income": 1460000
+    },
+    {
+      "name": "REGAL BELOIT AMERICA, INC.",
+      "income": 1420000
+    },
+    {
+      "name": "COUNTRYMARK COOPERATIVE",
+      "income": 1410000
+    },
+    {
+      "name": "ZIMMER BIOMET",
+      "income": 1390000
+    },
+    {
+      "name": "ROCHE DIAGNOSTICS CORPORATION",
+      "income": 1380000
+    },
+    {
+      "name": "COMMUNITY HEALTH NETWORK, INC. INDIANAPOLIS",
+      "income": 1364000
+    },
+    {
+      "name": "PURDUE UNIVERSITY",
+      "income": 1340000
+    },
+    {
+      "name": "INDIANA UNIVERSITY HEALTH INC",
+      "income": 1208400
+    },
+    {
+      "name": "AMERICAN CAMP ASSOCIATION",
+      "income": 1185000
+    },
+    {
+      "name": "TRINE UNIVERSITY",
+      "income": 1170000
+    },
+    {
+      "name": "SUBURBAN HEALTH ORGANIZATION",
+      "income": 1169000
+    },
+    {
+      "name": "ROCHE DIAGNOSTICS",
+      "income": 1100000
+    },
+    {
+      "name": "CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",
+      "income": 1060000
+    },
+    {
+      "name": "TRIMEDX, LLC",
+      "income": 1026753
+    },
+    {
+      "name": "CITIZENS ENERGY GROUP",
+      "income": 960000
+    },
+    {
+      "name": "NORTHERN INDIANA COMMUTER TRANSPORTATION DISTRICT",
+      "income": 960000
+    },
+    {
+      "name": "ELANCO US INC",
+      "income": 926000
+    },
+    {
+      "name": "BUILD INDIANA COUNCIL",
+      "income": 920000
+    },
+    {
+      "name": "BOSMA ENTERPRISES",
+      "income": 919000
+    },
+    {
+      "name": "CUMMINS INC",
+      "income": 870000
+    },
+    {
+      "name": "AEROCORE TECHNOLOGIES LLC",
+      "income": 860000
+    },
+    {
+      "name": "PARKVIEW HEALTH SYSTEM",
+      "income": 829000
+    },
+    {
+      "name": "REPUBLIC AIRLINES, INC.",
+      "income": 820000
+    },
+    {
+      "name": "AAPAN",
+      "income": 820000
+    },
+    {
+      "name": "3CHI CORPORATION",
+      "income": 770000
+    },
+    {
+      "name": "TACOMA WASHINGTON",
+      "income": 766237.7
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 29845231.07
+    },
+    {
+      "code": "HCR",
+      "income": 28183283.04
+    },
+    {
+      "code": "TRA",
+      "income": 19974586.77
+    },
+    {
+      "code": "MMM",
+      "income": 17461738
+    },
+    {
+      "code": "DEF",
+      "income": 16614592
+    },
+    {
+      "code": "TAX",
+      "income": 16295063.969999999
+    },
+    {
+      "code": "ENG",
+      "income": 14457373
+    },
+    {
+      "code": "EDU",
+      "income": 10516900
+    },
+    {
+      "code": "AGR",
+      "income": 8578824
+    },
+    {
+      "code": "ECN",
+      "income": 7208701.97
+    },
+    {
+      "code": "ENV",
+      "income": 6406136
+    },
+    {
+      "code": "GOV",
+      "income": 6302431.97
+    },
+    {
+      "code": "UTI",
+      "income": 5716614
+    },
+    {
+      "code": "TRD",
+      "income": 4655800
+    },
+    {
+      "code": "FUE",
+      "income": 4455000
+    },
+    {
+      "code": "HOM",
+      "income": 4371512.97
+    },
+    {
+      "code": "SCI",
+      "income": 4026685
+    },
+    {
+      "code": "DIS",
+      "income": 3967473.9699999997
+    },
+    {
+      "code": "HOU",
+      "income": 3921768.8
+    },
+    {
+      "code": "FIN",
+      "income": 3846843
+    }
+  ],
+  "perCapita": 24.55,
+  "population": 6862199,
+  "nationalRank": 25,
+  "perCapitaRank": 39
+}

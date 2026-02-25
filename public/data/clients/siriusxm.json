@@ -1,1 +1,68 @@
-{"id":202747,"name":"SIRIUSXM","slug":"siriusxm","state":"DC","description":"Satellite Radio","totalSpending":1560000,"filings":19,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":270000},{"year":2020,"income":360000},{"year":2021,"income":360000},{"year":2022,"income":360000},{"year":2023,"income":90000}],"firms":["SLAIMAN CONSULTING LLC"],"lobbyists":["GARY SLAIMAN"],"issues":["ART","CPT",null],"sampleDescriptions":["Copyright,  S. 2393, H.R. 3301 (The CLASSICS)","CLASSICS, S. 2334","music licensing, competition","music licensing and competition policy"],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 202747,
+  "name": "SIRIUSXM",
+  "slug": "siriusxm",
+  "state": "DC",
+  "description": "Satellite Radio",
+  "totalSpending": 1560000,
+  "filings": 19,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 120000
+    },
+    {
+      "year": 2019,
+      "income": 270000
+    },
+    {
+      "year": 2020,
+      "income": 360000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 90000
+    }
+  ],
+  "firms": [
+    "SLAIMAN CONSULTING LLC"
+  ],
+  "lobbyists": [
+    "GARY SLAIMAN"
+  ],
+  "issues": [
+    "ART",
+    "CPT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Copyright,  S. 2393, H.R. 3301 (The CLASSICS)",
+    "CLASSICS, S. 2334",
+    "music licensing, competition",
+    "music licensing and competition policy"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 260000,
+  "peakYear": 2020,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 2
+}

@@ -1,1 +1,48 @@
-{"id":59800,"name":"THE BLACKSTONE GROUP","slug":"the-blackstone-group","state":"NY","description":"Global Investment and Advisory Firm","totalSpending":2060000,"filings":9,"yearlySpending":[{"year":2024,"income":800000},{"year":2025,"income":1260000}],"firms":["COLTON STREET GROUP"],"lobbyists":["JOHN O'NEILL"],"issues":["TAX","FIN","CPT"],"sampleDescriptions":["Financial Services and Policy Issues. Business tax issues. Issues related to music policy.","Financial Services and Policy Issues.","Business tax issues.","Issues related to music policy."],"years":[2024,2025]}
+{
+  "id": 59800,
+  "name": "THE BLACKSTONE GROUP",
+  "slug": "the-blackstone-group",
+  "state": "NY",
+  "description": "Global Investment and Advisory Firm",
+  "totalSpending": 2060000,
+  "filings": 9,
+  "yearlySpending": [
+    {
+      "year": 2024,
+      "income": 800000
+    },
+    {
+      "year": 2025,
+      "income": 1260000
+    }
+  ],
+  "firms": [
+    "COLTON STREET GROUP"
+  ],
+  "lobbyists": [
+    "JOHN O'NEILL"
+  ],
+  "issues": [
+    "TAX",
+    "FIN",
+    "CPT"
+  ],
+  "sampleDescriptions": [
+    "Financial Services and Policy Issues. Business tax issues. Issues related to music policy.",
+    "Financial Services and Policy Issues.",
+    "Business tax issues.",
+    "Issues related to music policy."
+  ],
+  "years": [
+    2024,
+    2025
+  ],
+  "growthRate": 57,
+  "trajectory": "growing",
+  "yearsActive": 2,
+  "avgAnnualSpending": 1030000,
+  "peakYear": 2025,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 3
+}

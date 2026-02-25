@@ -1,1 +1,90 @@
-{"id":207036,"name":"CARDINAL HEALTH (F.K.A. THE GLOVER PARK GROUP)","slug":"cardinal-health-f-k-a-the-glover-park-group","state":"DC","description":"Legislative and public affairs","totalSpending":1580000,"filings":22,"yearlySpending":[{"year":2020,"income":80000},{"year":2021,"income":480000},{"year":2022,"income":200000},{"year":2023,"income":260000},{"year":2024,"income":320000},{"year":2025,"income":240000}],"firms":["TARPLIN, DOWNS & YOUNG, LLC"],"lobbyists":["RAISSA DOWNS","JENNIFER YOUNG","MICHELLE EASTON","ELIZABETH MURRAY","CHARLOTTE IVANCIC","PAMELA SMITH","EMILY MURRY","KIMBERLY BRANDT","MARGARET JOSEPH","PETER FISE","LAURA FRIEDEL","PARICK CARROLL"],"issues":["MMM","HCR","BUD",null],"sampleDescriptions":["Pandemic response and preparedness, health care distribution system","covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nH.R. 133 - Consolidated Appropriations Act, 2021","covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nsupply chain\nH.R. 1319, American Rescue Plan of 2021","covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nsupply chain\nH.R. 1319, American Rescue Plan of 2021 implementation","covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nsupply chain\nH.R. 1319, American Rescue Plan of 2021 implementation\nH.R. 3, The Lower Drug Costs Now Act","covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nsupply chain\nH.R. 1319, American Rescue Plan of 2021 implementation\nH.R. 5376, the Build Back Better Act","covid-19 vaccine distribution, pandemic response, stockpile, supply chain H.R. 1319, American Rescue Plan of 2021 implementation H.R. 5376, the Build Back Better Act","H.R. 1319, American Rescue Plan of 2021 implementation H.R. 5376, the Build Back Better Act covid-19 vaccine distribution, pandemic response, stockpile, supply chain","H.R. 5376, the Inflation Reduction Act H.R.2617, Consolidated Appropriations Act, 2023 covid-19 vaccine distribution, pandemic response, stockpile, supply chain","General Issues Related to Drug Shortages","federal budget issues","General issues related to drug shortages, supply chain","Federal budget issues"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 207036,
+  "name": "CARDINAL HEALTH (F.K.A. THE GLOVER PARK GROUP)",
+  "slug": "cardinal-health-f-k-a-the-glover-park-group",
+  "state": "DC",
+  "description": "Legislative and public affairs",
+  "totalSpending": 1580000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 80000
+    },
+    {
+      "year": 2021,
+      "income": 480000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 260000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "TARPLIN, DOWNS & YOUNG, LLC"
+  ],
+  "lobbyists": [
+    "RAISSA DOWNS",
+    "JENNIFER YOUNG",
+    "MICHELLE EASTON",
+    "ELIZABETH MURRAY",
+    "CHARLOTTE IVANCIC",
+    "PAMELA SMITH",
+    "EMILY MURRY",
+    "KIMBERLY BRANDT",
+    "MARGARET JOSEPH",
+    "PETER FISE",
+    "LAURA FRIEDEL",
+    "PARICK CARROLL"
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Pandemic response and preparedness, health care distribution system",
+    "covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nH.R. 133 - Consolidated Appropriations Act, 2021",
+    "covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nsupply chain\nH.R. 1319, American Rescue Plan of 2021",
+    "covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nsupply chain\nH.R. 1319, American Rescue Plan of 2021 implementation",
+    "covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nsupply chain\nH.R. 1319, American Rescue Plan of 2021 implementation\nH.R. 3, The Lower Drug Costs Now Act",
+    "covid-19 vaccine distribution\nOperation Warp Speed, pandemic response, stockpile\nsupply chain\nH.R. 1319, American Rescue Plan of 2021 implementation\nH.R. 5376, the Build Back Better Act",
+    "covid-19 vaccine distribution, pandemic response, stockpile, supply chain H.R. 1319, American Rescue Plan of 2021 implementation H.R. 5376, the Build Back Better Act",
+    "H.R. 1319, American Rescue Plan of 2021 implementation H.R. 5376, the Build Back Better Act covid-19 vaccine distribution, pandemic response, stockpile, supply chain",
+    "H.R. 5376, the Inflation Reduction Act H.R.2617, Consolidated Appropriations Act, 2023 covid-19 vaccine distribution, pandemic response, stockpile, supply chain",
+    "General Issues Related to Drug Shortages",
+    "federal budget issues",
+    "General issues related to drug shortages, supply chain",
+    "Federal budget issues"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 200,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 263333,
+  "peakYear": 2021,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "healthcare"
+}

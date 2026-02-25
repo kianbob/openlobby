@@ -1,1 +1,92 @@
-{"id":182541,"name":"MOTOROLA SOLUTIONS","slug":"motorola-solutions","state":"IL","description":"Mission-critical communications products, services and solutions","totalSpending":1540000,"filings":30,"yearlySpending":[{"year":2018,"income":170000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":250000},{"year":2022,"income":200000},{"year":2023,"income":220000},{"year":2024,"income":60000},{"year":2025,"income":240000}],"firms":["POLARIS GOVERNMENT RELATIONS, LLC"],"lobbyists":["JON GANS","DANIEL GANS","BRYAN CUNNINGHAM"],"issues":["TAX","BUD","IMM","CIV",null],"sampleDescriptions":["H.R. 1, To provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2018 (Tax Cuts and Jobs Act).","Budget and Appropriations for Client Product/Services, generally.","Immigration Matters Affecting Multi-national employers.","Federal budget for fiscal years 2019 and 2020","Budget and Appropriations for Client Product/Services, generally; NDAA Supply Chain;","S. 847 Commercial Facial Recognition Privacy Act; Privacy Issues, generally.","Federal budget for fiscal year 2021","Federal budget for fiscal year 2022","Federal budget for fiscal year 2022, generally;","Budget and Appropriations for Client Product/Services, generally; NDAA Supply Chain; Facial recognition legislation.","Federal budget for fiscal year 2022, generally.","Federal budget for fiscal year 2023, generally.","Federal budget for fiscal year 2026, generally.","Commercial Facial Recognition Privacy Act; Privacy Issues, generally."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 182541,
+  "name": "MOTOROLA SOLUTIONS",
+  "slug": "motorola-solutions",
+  "state": "IL",
+  "description": "Mission-critical communications products, services and solutions",
+  "totalSpending": 1540000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 170000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 250000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 220000
+    },
+    {
+      "year": 2024,
+      "income": 60000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "POLARIS GOVERNMENT RELATIONS, LLC"
+  ],
+  "lobbyists": [
+    "JON GANS",
+    "DANIEL GANS",
+    "BRYAN CUNNINGHAM"
+  ],
+  "issues": [
+    "TAX",
+    "BUD",
+    "IMM",
+    "CIV",
+    null
+  ],
+  "sampleDescriptions": [
+    "H.R. 1, To provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2018 (Tax Cuts and Jobs Act).",
+    "Budget and Appropriations for Client Product/Services, generally.",
+    "Immigration Matters Affecting Multi-national employers.",
+    "Federal budget for fiscal years 2019 and 2020",
+    "Budget and Appropriations for Client Product/Services, generally; NDAA Supply Chain;",
+    "S. 847 Commercial Facial Recognition Privacy Act; Privacy Issues, generally.",
+    "Federal budget for fiscal year 2021",
+    "Federal budget for fiscal year 2022",
+    "Federal budget for fiscal year 2022, generally;",
+    "Budget and Appropriations for Client Product/Services, generally; NDAA Supply Chain; Facial recognition legislation.",
+    "Federal budget for fiscal year 2022, generally.",
+    "Federal budget for fiscal year 2023, generally.",
+    "Federal budget for fiscal year 2026, generally.",
+    "Commercial Facial Recognition Privacy Act; Privacy Issues, generally."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 41,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 192500,
+  "peakYear": 2021,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 4
+}

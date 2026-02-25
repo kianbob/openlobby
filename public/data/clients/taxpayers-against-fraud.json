@@ -1,1 +1,96 @@
-{"id":194229,"name":"TAXPAYERS AGAINST FRAUD","slug":"taxpayers-against-fraud","state":"DC","description":"Public Interest/Government Contract Reform","totalSpending":1420000,"filings":26,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":120000},{"year":2025,"income":120000}],"firms":["NORTH SOUTH GOVERNMENT STRATEGIES, FKA JDM PUBLIC STRATEGIES, LLC"],"lobbyists":["JOHN MCMICKLE"],"issues":["CON","TAX","GOV",null],"sampleDescriptions":["Issues related to False Claims Act litigation","Issues related to the taxation of whistleblower rewards; HR 1 and HR 1625","Issues related to fraud in government programs","Issues related to the taxation of whistleblower rewards","Issues related to False Claims Act litigation; H.R. 5883","Issues related to the taxation of whistleblower rewards;Taxpayer First Act of 2018","Issues related to False Claims Act litigation; H.R. 5993","Issues related to fraud in government programs; HR 5992","Issues related to private right of action for civil fraud enforcement","Issues related to whistleblower office operations; HR 3151","Issues related to government civil fraud enforcement; HR 2515","Issues related to government civil fraud enforcement; HR 2515; S 2529 WPIA","Issues related to whistleblower office operations; SEC and CFTC whistleblower programs","Issues related to government civil fraud enforcement; HR 2515; S 2529 WPIA; IG issues","Issues related to government civil fraud enforcement; HR 2515; S 2529 WPIA; IG issues; COVID relief legislation","Issues related to anti-fraud statutes and the effect of court decisions","Issues related to fraud in government contracting and SEC/CFTC rewards programs","Issues related to the IRS rewards program","Issues related to fraud in government contracting and SEC/CFTC rewards programs, S2428 and S2429","Issues related to anti-fraud statutes and the effect of recent court decisions"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 194229,
+  "name": "TAXPAYERS AGAINST FRAUD",
+  "slug": "taxpayers-against-fraud",
+  "state": "DC",
+  "description": "Public Interest/Government Contract Reform",
+  "totalSpending": 1420000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "NORTH SOUTH GOVERNMENT STRATEGIES, FKA JDM PUBLIC STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "JOHN MCMICKLE"
+  ],
+  "issues": [
+    "CON",
+    "TAX",
+    "GOV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to False Claims Act litigation",
+    "Issues related to the taxation of whistleblower rewards; HR 1 and HR 1625",
+    "Issues related to fraud in government programs",
+    "Issues related to the taxation of whistleblower rewards",
+    "Issues related to False Claims Act litigation; H.R. 5883",
+    "Issues related to the taxation of whistleblower rewards;Taxpayer First Act of 2018",
+    "Issues related to False Claims Act litigation; H.R. 5993",
+    "Issues related to fraud in government programs; HR 5992",
+    "Issues related to private right of action for civil fraud enforcement",
+    "Issues related to whistleblower office operations; HR 3151",
+    "Issues related to government civil fraud enforcement; HR 2515",
+    "Issues related to government civil fraud enforcement; HR 2515; S 2529 WPIA",
+    "Issues related to whistleblower office operations; SEC and CFTC whistleblower programs",
+    "Issues related to government civil fraud enforcement; HR 2515; S 2529 WPIA; IG issues",
+    "Issues related to government civil fraud enforcement; HR 2515; S 2529 WPIA; IG issues; COVID relief legislation",
+    "Issues related to anti-fraud statutes and the effect of court decisions",
+    "Issues related to fraud in government contracting and SEC/CFTC rewards programs",
+    "Issues related to the IRS rewards program",
+    "Issues related to fraud in government contracting and SEC/CFTC rewards programs, S2428 and S2429",
+    "Issues related to anti-fraud statutes and the effect of recent court decisions"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -40,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 177500,
+  "peakYear": 2022,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

@@ -1,1 +1,114 @@
-{"id":100526,"name":"MOTION PICTURE ASSOCIATION OF AMERICA","slug":"motion-picture-association-of-america","state":"DC","description":"Trade association for motion picture industry","totalSpending":1530000,"filings":30,"yearlySpending":[{"year":2018,"income":40000},{"year":2019,"income":80000},{"year":2020,"income":300000},{"year":2021,"income":240000},{"year":2022,"income":300000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":150000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["JUSTIN MCCARTHY","BRIAN POMPER","LAUREN O'BRIEN","JAMES TUCKER","GEOFF VERHOFF","HANS RICKHOFF","ED PAGANO","CHRISTINA HALEY","GORDON BATES","ARSHI SIDDIQUI","RYAN THOMPSON","CARYN LESTER","VIRGIL MILLER","JOSHUA TEITELBAUM","GALEN ROEHL","BRENDAN DUNN","FILEMON VELA","CASEY HIGGINS"],"issues":["TRD","CPT","TOR","TEC","CSP",null],"sampleDescriptions":["online platform responsibility.","Online platform responsibility.","Intellectual property provisions in trade agreements","liability reforms regarding COVID-19","Intellectual property and market access issues in China.","Issues related to FCC activity and broadband policy.","Liability reforms regarding COVID-19.","Intellectual property and market access issues.","Issues related to copyright and digital piracy.","Issues related to the Summit of the Americas","HR7703, Commercial Advertisement Loudness Mitigation Modernization Act of 2022","American Innovation and Choice Online Act, S. 2992.","S.3663 - Kids Online Safety Act; American Innovation and Choice Online Act, S. 2992","American Innovation and Choice Online Act, S. 2992; Kids Online Safety Act (S.3663) and the Children and Teens Online Privacy Protection Act (S.1628).","American Innovation and Choice Online Act, S. 2992; S.3663 - Kids Online Safety Act.","Issues related to children's privacy legislation; S. 1409 - Kids Online Safety Act; S. 1418 - Children and Teens Online Privacy Protection Act.","S. 1409 - Kids Online Safety Act; S. 1418 - Children and Teens Online Privacy Protection Act.","Issues related to children's privacy legislation; H.R.7891/S. 1409 - Kids Online Safety Act; H.R.7890/S. 1418 - Children and Teens Online Privacy Protection Act.","Issues related to children's privacy legislation; H.R. 7891/ S. 1409 - Kids Online Safety Act; H.R. 7890/ S.1418 - Children and Teens Online Privacy Protection Act.","issue related to protecting the voice, image, and likeness of individuals from being used in unauthorized commercial ways."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 100526,
+  "name": "MOTION PICTURE ASSOCIATION OF AMERICA",
+  "slug": "motion-picture-association-of-america",
+  "state": "DC",
+  "description": "Trade association for motion picture industry",
+  "totalSpending": 1530000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 40000
+    },
+    {
+      "year": 2019,
+      "income": 80000
+    },
+    {
+      "year": 2020,
+      "income": 300000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "JUSTIN MCCARTHY",
+    "BRIAN POMPER",
+    "LAUREN O'BRIEN",
+    "JAMES TUCKER",
+    "GEOFF VERHOFF",
+    "HANS RICKHOFF",
+    "ED PAGANO",
+    "CHRISTINA HALEY",
+    "GORDON BATES",
+    "ARSHI SIDDIQUI",
+    "RYAN THOMPSON",
+    "CARYN LESTER",
+    "VIRGIL MILLER",
+    "JOSHUA TEITELBAUM",
+    "GALEN ROEHL",
+    "BRENDAN DUNN",
+    "FILEMON VELA",
+    "CASEY HIGGINS"
+  ],
+  "issues": [
+    "TRD",
+    "CPT",
+    "TOR",
+    "TEC",
+    "CSP",
+    null
+  ],
+  "sampleDescriptions": [
+    "online platform responsibility.",
+    "Online platform responsibility.",
+    "Intellectual property provisions in trade agreements",
+    "liability reforms regarding COVID-19",
+    "Intellectual property and market access issues in China.",
+    "Issues related to FCC activity and broadband policy.",
+    "Liability reforms regarding COVID-19.",
+    "Intellectual property and market access issues.",
+    "Issues related to copyright and digital piracy.",
+    "Issues related to the Summit of the Americas",
+    "HR7703, Commercial Advertisement Loudness Mitigation Modernization Act of 2022",
+    "American Innovation and Choice Online Act, S. 2992.",
+    "S.3663 - Kids Online Safety Act; American Innovation and Choice Online Act, S. 2992",
+    "American Innovation and Choice Online Act, S. 2992; Kids Online Safety Act (S.3663) and the Children and Teens Online Privacy Protection Act (S.1628).",
+    "American Innovation and Choice Online Act, S. 2992; S.3663 - Kids Online Safety Act.",
+    "Issues related to children's privacy legislation; S. 1409 - Kids Online Safety Act; S. 1418 - Children and Teens Online Privacy Protection Act.",
+    "S. 1409 - Kids Online Safety Act; S. 1418 - Children and Teens Online Privacy Protection Act.",
+    "Issues related to children's privacy legislation; H.R.7891/S. 1409 - Kids Online Safety Act; H.R.7890/S. 1418 - Children and Teens Online Privacy Protection Act.",
+    "Issues related to children's privacy legislation; H.R. 7891/ S. 1409 - Kids Online Safety Act; H.R. 7890/ S.1418 - Children and Teens Online Privacy Protection Act.",
+    "issue related to protecting the voice, image, and likeness of individuals from being used in unauthorized commercial ways."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 275,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 191250,
+  "peakYear": 2020,
+  "lobbyistCount": 18,
+  "firmCount": 1,
+  "issueCount": 5
+}

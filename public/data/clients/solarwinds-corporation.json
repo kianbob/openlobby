@@ -1,1 +1,65 @@
-{"id":208081,"name":"SOLARWINDS CORPORATION","slug":"solarwinds-corporation","state":"TX","description":"Provider of IT infrastructure management software.","totalSpending":2120000,"filings":7,"yearlySpending":[{"year":2020,"income":130000},{"year":2021,"income":1660000},{"year":2022,"income":330000}],"firms":["DLA PIPER LLP (US)"],"lobbyists":["STEVEN PHILLIPS","MATTHEW BERNSTEIN","IGNACIO SANCHEZ","JOHN MERRIGAN","NATHANIEL BELL","CHARLES DENT","TONY SAMP","STEPHANIE JEBEYLI","SAXBY CHAMBLISS","VICTORIA BUSCH","LIZ ALBERTINE"],"issues":["CPI",null],"sampleDescriptions":["Provide information to Congress regarding the \"Sunburst\" cyberattack on SolarWinds.","Provide information to policymakers and cooperate with hearings and oversight regarding the cyberattack on SolarWinds.","Engage with policymakers on legislation and policies regarding cybersecurity.\nH.R. 5440, Cyber Incident Reporting for Critical Infrastructure Act of 2021.\nS. 2875, Cyber Incident Reporting Act of 2021.\nH.R. 4350/S. 1605, National Defense Authorization Act for FY 2022, provisions regarding cyber incident reporting.\nFederal Information Security Modernization Act of 2022 (draft legislation).","Engage with policymakers on legislation and policies regarding cybersecurity. H.R. 5440, Cyber Incident Reporting for Critical Infrastructure Act of 2021. S. 2875, Cyber Incident Reporting Act of 2021. H.R. 6497, Federal Information Security Modernization Act of 2022. S. 3600, Strengthening American Cybersecurity Act 2022. H.R. 2471, Consolidated Appropriations Act, FY2022, provisions regarding cyber incident reporting.","Engage with policymakers on legislation and policies regarding cybersecurity. H.R. 6497, Federal Information Security Modernization Act of 2022. H.R. 8254, Financial Services and General Government Appropriations Act for FY2023, provisions regarding IT funding. H.R. 8257, Department of Homeland Security Appropriations Act for FY2023, provisions regarding IT funding.","Engage with policymakers on legislation and policies regarding cybersecurity. H.R. 8257, Department of Homeland Security Appropriations Act for FY2023, provisions regarding IT funding. H.R. 7900, National Defense Authorization Act for FY2023, cyber provisions."],"years":[2020,2021,2022]}
+{
+  "id": 208081,
+  "name": "SOLARWINDS CORPORATION",
+  "slug": "solarwinds-corporation",
+  "state": "TX",
+  "description": "Provider of IT infrastructure management software.",
+  "totalSpending": 2120000,
+  "filings": 7,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 130000
+    },
+    {
+      "year": 2021,
+      "income": 1660000
+    },
+    {
+      "year": 2022,
+      "income": 330000
+    }
+  ],
+  "firms": [
+    "DLA PIPER LLP (US)"
+  ],
+  "lobbyists": [
+    "STEVEN PHILLIPS",
+    "MATTHEW BERNSTEIN",
+    "IGNACIO SANCHEZ",
+    "JOHN MERRIGAN",
+    "NATHANIEL BELL",
+    "CHARLES DENT",
+    "TONY SAMP",
+    "STEPHANIE JEBEYLI",
+    "SAXBY CHAMBLISS",
+    "VICTORIA BUSCH",
+    "LIZ ALBERTINE"
+  ],
+  "issues": [
+    "CPI",
+    null
+  ],
+  "sampleDescriptions": [
+    "Provide information to Congress regarding the \"Sunburst\" cyberattack on SolarWinds.",
+    "Provide information to policymakers and cooperate with hearings and oversight regarding the cyberattack on SolarWinds.",
+    "Engage with policymakers on legislation and policies regarding cybersecurity.\nH.R. 5440, Cyber Incident Reporting for Critical Infrastructure Act of 2021.\nS. 2875, Cyber Incident Reporting Act of 2021.\nH.R. 4350/S. 1605, National Defense Authorization Act for FY 2022, provisions regarding cyber incident reporting.\nFederal Information Security Modernization Act of 2022 (draft legislation).",
+    "Engage with policymakers on legislation and policies regarding cybersecurity. H.R. 5440, Cyber Incident Reporting for Critical Infrastructure Act of 2021. S. 2875, Cyber Incident Reporting Act of 2021. H.R. 6497, Federal Information Security Modernization Act of 2022. S. 3600, Strengthening American Cybersecurity Act 2022. H.R. 2471, Consolidated Appropriations Act, FY2022, provisions regarding cyber incident reporting.",
+    "Engage with policymakers on legislation and policies regarding cybersecurity. H.R. 6497, Federal Information Security Modernization Act of 2022. H.R. 8254, Financial Services and General Government Appropriations Act for FY2023, provisions regarding IT funding. H.R. 8257, Department of Homeland Security Appropriations Act for FY2023, provisions regarding IT funding.",
+    "Engage with policymakers on legislation and policies regarding cybersecurity. H.R. 8257, Department of Homeland Security Appropriations Act for FY2023, provisions regarding IT funding. H.R. 7900, National Defense Authorization Act for FY2023, cyber provisions."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022
+  ],
+  "growthRate": 154,
+  "trajectory": "exploding",
+  "yearsActive": 3,
+  "avgAnnualSpending": 706667,
+  "peakYear": 2021,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "energy"
+}

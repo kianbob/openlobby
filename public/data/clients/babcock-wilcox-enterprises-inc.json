@@ -1,1 +1,92 @@
-{"id":205634,"name":"BABCOCK & WILCOX ENTERPRISES, INC.","slug":"babcock-wilcox-enterprises-inc","state":"OH","description":"Energy and enviro technologies and services provider for power and industrial markets.","totalSpending":1490000,"filings":22,"yearlySpending":[{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":260000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["ELEVATE GOVERNMENT AFFAIRS, LLC"],"lobbyists":["JEFFREY MARKEY","SAMUEL WHITEHORN","JULIE HRDLICKA","ROBERT CHAMBERLIN","KELLY LUGAR","TYLER HARDY","DAVID MARTEN","ALLISON NYHOLM"],"issues":["ENV","ENG","BUD",null],"sampleDescriptions":["Energy Policy","Examined federal partnership opportunities.","CARES Act (P.L. 116-136) relief for impacted businesses. HEROES Act (H.R. 6800).","CARES Act (P.L. 116-136) relief for impacted businesses. HEROES Act (H.R. 6800). Revised HEROES Act (H.R. 8406).","CARES Act (P.L. 116-136) relief for impacted businesses. HEROES Act (H.R. 6800). Revised HEROES Act (H.R. 8406). Consolidated Appropriations Act, 2021 (P.L. 116-260).","American Rescue Plan (H.R. 1319 - P.L 117-2.) relief for impacted businesses. Implementation of Consolidated Appropriations Act, 2021 (P.L. 116-260).","Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151); Methane Waste Prevention Act (H.R.1492); Manufacturing our Future Act (H.R.2263).","Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151); Methane Waste Prevention Act (H.R.1492); Manufacturing our Future Act (H.R.2263); Clean Energy for America Act (S.1298).","American Rescue Plan (H.R. 1319 - P.L 117-2.) relief for impacted businesses. Implementation of Consolidated Appropriations Act, 2021 (P.L. 116-260). FY22 House Energy and Water Appropriations (H.R.7613). FY22 Senate Energy and Water Appropriations.","American Rescue Plan (H.R. 1319 - P.L 117-2.) relief for impacted businesses. Implementation of Consolidated Appropriations Act, 2021 (P.L. 116-260). FY22 House Energy and Water Appropriations (H.R.7613). FY22 Senate Energy and Water Appropriations (S.2605).","Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151); Methane Waste Prevention Act (H.R.1492); Manufacturing our Future Act (H.R.2263); Clean Energy for America Act (S.1298). INVEST in America Act/Infrastructure Investment and Jobs Act (H.R. 3684). Build Back Better Act (H.R. 5376). FY22 Senate Energy and Water Appropriations (S.2605). FY22 House Energy and Water Appropriations (H.R.7613).","Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151); Methane Waste Prevention Act (H.R.1492); Manufacturing our Future Act (H.R.2263); Clean Energy for America Act (S.1298). Infrastructure Investment and Jobs Act (P.L. 117-58). Build Back Better Act (H.R. 5376). FY22 Senate Energy and Water Appropriations (S.2605). FY22 House Energy and Water Appropriations (H.R.7613).","Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151). Clean Energy for America Act (S.1298). Infrastructure Investment and Jobs Act (P.L. 117-58). Build Back Better Act (H.R. 5376). FY22 Senate Energy and Water Appropriations (S.2605). FY22 House Energy and Water Appropriations (H.R.7613). Issues related to hydrogen. Opportunities with the DOE Loan Programs Office. FY23 Energy and Water Appropriations.","American Rescue Plan (H.R. 1319 - P.L 117-2.) relief for impacted businesses. Consolidated Appropriations Act 2022 (P.L. 117-103). FY23 Energy and Water Appropriations (H.R. 8255).","Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151). Clean Energy for America Act (S.1298). Infrastructure Investment and Jobs Act (P.L. 117-58). Build Back Better Act (H.R. 5376). Issues related to hydrogen. Opportunities with the DOE Loan Programs Office. FY23 Energy and Water Appropriations (H.R. 8255).","Consolidated Appropriations Act 2022 (P.L. 117-103). FY23 Energy and Water Appropriations (H.R. 8255/S.4660). Inflation Reduction Act (P.L. 117-169).","Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). Infrastructure Investment and Jobs Act (P.L. 117-58). Issues related to hydrogen. Opportunities with the DOE Loan Programs Office. FY23 Energy and Water Appropriations (H.R. 8255/S.4660). Inflation Reduction Act (P.L. 117-169).","Inflation Reduction Act (P.L. 117-169). Consolidated Appropriations Act, 2023 (H.R.2617 - P.L. 117-328).","Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). Infrastructure Investment and Jobs Act (P.L. 117-58). Issues related to hydrogen. Opportunities with the DOE Loan Programs Office. Inflation Reduction Act (P.L. 117-169). Consolidated Appropriations Act, 2023 (H.R.2617 - P.L. 117-328).","Implementation of the Consolidated Appropriations Act, 2023 (H.R.2617 - P.L. 117-328). Issues related to Chemical Looping Processes. Issues related to Department of Energy funding deployment. H.R.4366 - Consolidated Appropriations Act, 2024 (P.L. 118-42). Fiscal Year 2025 Appropriations. Issues related to funding from the Export-Import Bank of the US. The Fiscal Year 2025 Energy and Water Development and Related Agencies Appropriations Act (H.R.8897)."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 205634,
+  "name": "BABCOCK & WILCOX ENTERPRISES, INC.",
+  "slug": "babcock-wilcox-enterprises-inc",
+  "state": "OH",
+  "description": "Energy and enviro technologies and services provider for power and industrial markets.",
+  "totalSpending": 1490000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 260000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "ELEVATE GOVERNMENT AFFAIRS, LLC"
+  ],
+  "lobbyists": [
+    "JEFFREY MARKEY",
+    "SAMUEL WHITEHORN",
+    "JULIE HRDLICKA",
+    "ROBERT CHAMBERLIN",
+    "KELLY LUGAR",
+    "TYLER HARDY",
+    "DAVID MARTEN",
+    "ALLISON NYHOLM"
+  ],
+  "issues": [
+    "ENV",
+    "ENG",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Energy Policy",
+    "Examined federal partnership opportunities.",
+    "CARES Act (P.L. 116-136) relief for impacted businesses. HEROES Act (H.R. 6800).",
+    "CARES Act (P.L. 116-136) relief for impacted businesses. HEROES Act (H.R. 6800). Revised HEROES Act (H.R. 8406).",
+    "CARES Act (P.L. 116-136) relief for impacted businesses. HEROES Act (H.R. 6800). Revised HEROES Act (H.R. 8406). Consolidated Appropriations Act, 2021 (P.L. 116-260).",
+    "American Rescue Plan (H.R. 1319 - P.L 117-2.) relief for impacted businesses. Implementation of Consolidated Appropriations Act, 2021 (P.L. 116-260).",
+    "Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151); Methane Waste Prevention Act (H.R.1492); Manufacturing our Future Act (H.R.2263).",
+    "Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151); Methane Waste Prevention Act (H.R.1492); Manufacturing our Future Act (H.R.2263); Clean Energy for America Act (S.1298).",
+    "American Rescue Plan (H.R. 1319 - P.L 117-2.) relief for impacted businesses. Implementation of Consolidated Appropriations Act, 2021 (P.L. 116-260). FY22 House Energy and Water Appropriations (H.R.7613). FY22 Senate Energy and Water Appropriations.",
+    "American Rescue Plan (H.R. 1319 - P.L 117-2.) relief for impacted businesses. Implementation of Consolidated Appropriations Act, 2021 (P.L. 116-260). FY22 House Energy and Water Appropriations (H.R.7613). FY22 Senate Energy and Water Appropriations (S.2605).",
+    "Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151); Methane Waste Prevention Act (H.R.1492); Manufacturing our Future Act (H.R.2263); Clean Energy for America Act (S.1298). INVEST in America Act/Infrastructure Investment and Jobs Act (H.R. 3684). Build Back Better Act (H.R. 5376). FY22 Senate Energy and Water Appropriations (S.2605). FY22 House Energy and Water Appropriations (H.R.7613).",
+    "Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151); Methane Waste Prevention Act (H.R.1492); Manufacturing our Future Act (H.R.2263); Clean Energy for America Act (S.1298). Infrastructure Investment and Jobs Act (P.L. 117-58). Build Back Better Act (H.R. 5376). FY22 Senate Energy and Water Appropriations (S.2605). FY22 House Energy and Water Appropriations (H.R.7613).",
+    "Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151). Clean Energy for America Act (S.1298). Infrastructure Investment and Jobs Act (P.L. 117-58). Build Back Better Act (H.R. 5376). FY22 Senate Energy and Water Appropriations (S.2605). FY22 House Energy and Water Appropriations (H.R.7613). Issues related to hydrogen. Opportunities with the DOE Loan Programs Office. FY23 Energy and Water Appropriations.",
+    "American Rescue Plan (H.R. 1319 - P.L 117-2.) relief for impacted businesses. Consolidated Appropriations Act 2022 (P.L. 117-103). FY23 Energy and Water Appropriations (H.R. 8255).",
+    "Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). CLEAN Future Act (H.R. 151). Clean Energy for America Act (S.1298). Infrastructure Investment and Jobs Act (P.L. 117-58). Build Back Better Act (H.R. 5376). Issues related to hydrogen. Opportunities with the DOE Loan Programs Office. FY23 Energy and Water Appropriations (H.R. 8255).",
+    "Consolidated Appropriations Act 2022 (P.L. 117-103). FY23 Energy and Water Appropriations (H.R. 8255/S.4660). Inflation Reduction Act (P.L. 117-169).",
+    "Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). Infrastructure Investment and Jobs Act (P.L. 117-58). Issues related to hydrogen. Opportunities with the DOE Loan Programs Office. FY23 Energy and Water Appropriations (H.R. 8255/S.4660). Inflation Reduction Act (P.L. 117-169).",
+    "Inflation Reduction Act (P.L. 117-169). Consolidated Appropriations Act, 2023 (H.R.2617 - P.L. 117-328).",
+    "Issues related to energy infrastructure, carbon capture technologies, methane emissions, clean energy standards and Global Warming Potential (GWP). Infrastructure Investment and Jobs Act (P.L. 117-58). Issues related to hydrogen. Opportunities with the DOE Loan Programs Office. Inflation Reduction Act (P.L. 117-169). Consolidated Appropriations Act, 2023 (H.R.2617 - P.L. 117-328).",
+    "Implementation of the Consolidated Appropriations Act, 2023 (H.R.2617 - P.L. 117-328). Issues related to Chemical Looping Processes. Issues related to Department of Energy funding deployment. H.R.4366 - Consolidated Appropriations Act, 2024 (P.L. 118-42). Fiscal Year 2025 Appropriations. Issues related to funding from the Export-Import Bank of the US. The Fiscal Year 2025 Energy and Water Development and Related Agencies Appropriations Act (H.R.8897)."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 113,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 248333,
+  "peakYear": 2023,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 3
+}

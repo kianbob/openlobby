@@ -1,1 +1,93 @@
-{"id":207033,"name":"TOYOTA","slug":"toyota","state":"DC","description":"automotive company","totalSpending":1440000,"filings":24,"yearlySpending":[{"year":2020,"income":180000},{"year":2021,"income":420000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":120000},{"year":2025,"income":240000}],"firms":["H&M STRATEGIES LLP"],"lobbyists":["RALPH HELLMANN","NICOLE MORTIER","KRISTEN BAUTZ","DANIEL CHEEVER","SARAH WALTER"],"issues":["AUT","TRD","TRA","TAX","ENV","SCI",null,"BUD"],"sampleDescriptions":["General issues impacting the auto industry","monitoring federal legislation, regulatory, and Administration actions","general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology","general corporate tax issues","general trade issues and semiconductor chips","general environmental issues impacting OEMs, including fuel emissions","general trade issues and semiconductor chips, CHIPS Act, Endless Frontiers Act/USICA","general trade issues and semiconductor chips, CHIPS Act (House and Senate versions), Endless Frontiers Act/USICA, National Defense Authorization Act 2022","general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues","general environmental issues impacting OEMs, including fuel emissions\nElectric Vehicle tax credits (EVs), hybrid electric vehicles, hydrogen fuel cell vehicles","general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues, and electric vehicle tax credits in the Build Back Better Act","general corporate tax issues and the Build Back Better Act","general trade issues and semiconductor chips, CHIPS Act (House and Senate versions), Endless Frontiers Act/USICA, National Defense Authorization Act 2022, and the Build Back Better Act","general technology issues impacting automotive industry","general corporate tax issues, electric vehicle tax credit and the Build Back Better Act and US Innovation and Competition Act (USICA)","general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues, and electric vehicle tax credits in the Build Back Better Act; issues pertaining to catalytic converter theft and the PART Act","general trade issues impacting OEMs","general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues, and electric vehicle tax credits; issues pertaining to catalytic converter theft and the PART Act (HR 6394)","general corporate tax issues, electric vehicle tax credits and continued implementation of Build Back Better Act","general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues, and electrification of vehicles; issues pertaining to catalytic converter theft and the PART Act (HR 6394) and S 5024"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 207033,
+  "name": "TOYOTA",
+  "slug": "toyota",
+  "state": "DC",
+  "description": "automotive company",
+  "totalSpending": 1440000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 420000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "H&M STRATEGIES LLP"
+  ],
+  "lobbyists": [
+    "RALPH HELLMANN",
+    "NICOLE MORTIER",
+    "KRISTEN BAUTZ",
+    "DANIEL CHEEVER",
+    "SARAH WALTER"
+  ],
+  "issues": [
+    "AUT",
+    "TRD",
+    "TRA",
+    "TAX",
+    "ENV",
+    "SCI",
+    null,
+    "BUD"
+  ],
+  "sampleDescriptions": [
+    "General issues impacting the auto industry",
+    "monitoring federal legislation, regulatory, and Administration actions",
+    "general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology",
+    "general corporate tax issues",
+    "general trade issues and semiconductor chips",
+    "general environmental issues impacting OEMs, including fuel emissions",
+    "general trade issues and semiconductor chips, CHIPS Act, Endless Frontiers Act/USICA",
+    "general trade issues and semiconductor chips, CHIPS Act (House and Senate versions), Endless Frontiers Act/USICA, National Defense Authorization Act 2022",
+    "general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues",
+    "general environmental issues impacting OEMs, including fuel emissions\nElectric Vehicle tax credits (EVs), hybrid electric vehicles, hydrogen fuel cell vehicles",
+    "general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues, and electric vehicle tax credits in the Build Back Better Act",
+    "general corporate tax issues and the Build Back Better Act",
+    "general trade issues and semiconductor chips, CHIPS Act (House and Senate versions), Endless Frontiers Act/USICA, National Defense Authorization Act 2022, and the Build Back Better Act",
+    "general technology issues impacting automotive industry",
+    "general corporate tax issues, electric vehicle tax credit and the Build Back Better Act and US Innovation and Competition Act (USICA)",
+    "general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues, and electric vehicle tax credits in the Build Back Better Act; issues pertaining to catalytic converter theft and the PART Act",
+    "general trade issues impacting OEMs",
+    "general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues, and electric vehicle tax credits; issues pertaining to catalytic converter theft and the PART Act (HR 6394)",
+    "general corporate tax issues, electric vehicle tax credits and continued implementation of Build Back Better Act",
+    "general educational meetings on issues impacting OEMs including privacy, cybersecurity, and technology, and software/data access issues, and electrification of vehicles; issues pertaining to catalytic converter theft and the PART Act (HR 6394) and S 5024"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 240000,
+  "peakYear": 2021,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 7
+}

@@ -1,1 +1,91 @@
-{"id":162695,"name":"ELI LILLY AND COMPANY","slug":"eli-lilly-and-company","state":"DC","description":"Pharmaceutical company","totalSpending":1420000,"filings":30,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":190000},{"year":2020,"income":70000},{"year":2021,"income":150000},{"year":2022,"income":130000},{"year":2023,"income":270000},{"year":2024,"income":200000},{"year":2025,"income":170000}],"firms":["VENN STRATEGIES"],"lobbyists":["MELISSA FRANCIS (FORMERLY BONICELLI)","STEPHANIE SILVERMAN","NATASCHA CUMBERLIDGE","MICHAEL SPIRA","AUSTIN ROBERTS","CLAIRE ONYECHI","BROOKS KEEFER","ELISE TOLLEFSON","SKYLAR BORCHARDT","EMILIA DISANTO","SAMUEL GOODSTEIN","JONATHAN PYATT"],"issues":["TAX","HCR","CPT",null],"sampleDescriptions":["General tax issues pertaining to Eli Lilly, including but not limited to tax reform.","General Healthcare Issues pertaining to Eli Lilly and Company, including but not limited to drug pricing, importation and innovation policies.","General Healthcare Issues pertaining to Eli Lilly and Company, including but not limited to drug pricing, importation, and innovation policies.","Proposals on patent policy impacting biopharmaceutical innovation.","General Healthcare issues, including drug accessibility, importation and innovation policies."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 162695,
+  "name": "ELI LILLY AND COMPANY",
+  "slug": "eli-lilly-and-company",
+  "state": "DC",
+  "description": "Pharmaceutical company",
+  "totalSpending": 1420000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 190000
+    },
+    {
+      "year": 2020,
+      "income": 70000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 130000
+    },
+    {
+      "year": 2023,
+      "income": 270000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 170000
+    }
+  ],
+  "firms": [
+    "VENN STRATEGIES"
+  ],
+  "lobbyists": [
+    "MELISSA FRANCIS (FORMERLY BONICELLI)",
+    "STEPHANIE SILVERMAN",
+    "NATASCHA CUMBERLIDGE",
+    "MICHAEL SPIRA",
+    "AUSTIN ROBERTS",
+    "CLAIRE ONYECHI",
+    "BROOKS KEEFER",
+    "ELISE TOLLEFSON",
+    "SKYLAR BORCHARDT",
+    "EMILIA DISANTO",
+    "SAMUEL GOODSTEIN",
+    "JONATHAN PYATT"
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "CPT",
+    null
+  ],
+  "sampleDescriptions": [
+    "General tax issues pertaining to Eli Lilly, including but not limited to tax reform.",
+    "General Healthcare Issues pertaining to Eli Lilly and Company, including but not limited to drug pricing, importation and innovation policies.",
+    "General Healthcare Issues pertaining to Eli Lilly and Company, including but not limited to drug pricing, importation, and innovation policies.",
+    "Proposals on patent policy impacting biopharmaceutical innovation.",
+    "General Healthcare issues, including drug accessibility, importation and innovation policies."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -29,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 177500,
+  "peakYear": 2023,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 3
+}

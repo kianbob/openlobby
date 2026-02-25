@@ -1,1 +1,114 @@
-{"id":100469,"name":"AT&T SERVICES, INC. (FKA AT&T)","slug":"at-t-services-inc-fka-at-t","state":"TX","description":null,"totalSpending":2610000,"filings":32,"yearlySpending":[{"year":2018,"income":370000},{"year":2019,"income":400000},{"year":2020,"income":320000},{"year":2021,"income":240000},{"year":2022,"income":400000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["JEFF MCMILLEN","SMITH DAVIS","VIC FAZIO","ED PAGANO","JOEL JANKOWSKY","GORDON BATES","CARYN LESTER","SEAN D'ARCY","ZACHARY RUDISILL","GALEN ROEHL","VALERIE WHITE","VIRGIL MILLER","SAM OLSWANGER","CHRISTINA HALEY","BRENDAN DUNN","JOSE BORJON","ARSHI SIDDIQUI","DAVID SCHWIETERT"],"issues":["TAX","COM","CSP","TEC",null,"IND"],"sampleDescriptions":["implementation of tax reform, including interest expense.","Legislation and regulation concerning telecommunications policy, wireless communication, cyber-security, broadband policy reform, net neutrality, spectrum assignment and other issues concerning wireless communication; monitor antitrust, arbitration, compensation and corporate governance issues; budget resolution amendment (mobile workforce).","implementation of tax reform, including interest expense and international provisions.","Legislation and regulation concerning telecommunications policy, wireless communication, cyber-security, broadband policy reform, net neutrality, spectrum assignment and other issues concerning wireless communication; monitor antitrust, arbitration, compensation and corporate governance issues.","Implementation of The Tax Cuts & Jobs Act of 2017, including but not limited to interest expense and international provisions.","Issues related to privacy legislation.","Legislation and regulation concerning telecommunications policy, wireless communication, cyber-security, broadband policy reform, net neutrality, and other issues concerning wireless communication; monitor antitrust, arbitration, compensation and corporate governance issues.","Advise on the nature and status of various COVID-19 proposals.","Legislation and regulation concerning telecommunications policy, wireless communication, cyber-security, broadband policy reform, net neutrality, and other issues concerning wireless communication; monitor antitrust, arbitration, compensation and corporate governance issues; advise on the nature and status of various COVID-19 proposals.","Implementation of The Tax Cuts & Jobs Act of 2017, including but not limited to interest expense and international provisions. Tax issues related to COVID-19.","Issues related to international tax reform.","Legislation and regulation concerning telecommunications policy, wireless communication, broadband policy reform and other issues concerning wireless communication including antitrust, arbitration, compensation and corporate governance issues.","Issues related to tax reform.","Legislation and regulation concerning telecommunications policy.","Legislation and regulation concerning telecommunications policy, wireless communication, broadband policy reform and other issues concerning wireless communication including antitrust, arbitration, compensation and corporate governance issues; Inflation Reduction Act (H.R. 5376).","Legislation and regulation concerning telecommunications policy, wireless communication, broadband policy reform and other issues concerning wireless communication including antitrust, arbitration, compensation and corporate governance issues; Inflation Reduction Act of 2022 (PL 117-169).","Issues related to tax reform and corporate AMT; Tax issues related to Build Back Better/Inflation Reduction Act (PL 117-169), including book minimum tax.","Issues related to general telecommunications policy, broadband policy, and internet regulation.","Legislation and regulation concerning telecommunications policy, wireless communication, and broadband policy reform, including an extension of the Affordable Connectivity Program.","Issues related to tax extenders, corporate AMT, and stock buyback tax."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 100469,
+  "name": "AT&T SERVICES, INC. (FKA AT&T)",
+  "slug": "at-t-services-inc-fka-at-t",
+  "state": "TX",
+  "description": null,
+  "totalSpending": 2610000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 370000
+    },
+    {
+      "year": 2019,
+      "income": 400000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 400000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "JEFF MCMILLEN",
+    "SMITH DAVIS",
+    "VIC FAZIO",
+    "ED PAGANO",
+    "JOEL JANKOWSKY",
+    "GORDON BATES",
+    "CARYN LESTER",
+    "SEAN D'ARCY",
+    "ZACHARY RUDISILL",
+    "GALEN ROEHL",
+    "VALERIE WHITE",
+    "VIRGIL MILLER",
+    "SAM OLSWANGER",
+    "CHRISTINA HALEY",
+    "BRENDAN DUNN",
+    "JOSE BORJON",
+    "ARSHI SIDDIQUI",
+    "DAVID SCHWIETERT"
+  ],
+  "issues": [
+    "TAX",
+    "COM",
+    "CSP",
+    "TEC",
+    null,
+    "IND"
+  ],
+  "sampleDescriptions": [
+    "implementation of tax reform, including interest expense.",
+    "Legislation and regulation concerning telecommunications policy, wireless communication, cyber-security, broadband policy reform, net neutrality, spectrum assignment and other issues concerning wireless communication; monitor antitrust, arbitration, compensation and corporate governance issues; budget resolution amendment (mobile workforce).",
+    "implementation of tax reform, including interest expense and international provisions.",
+    "Legislation and regulation concerning telecommunications policy, wireless communication, cyber-security, broadband policy reform, net neutrality, spectrum assignment and other issues concerning wireless communication; monitor antitrust, arbitration, compensation and corporate governance issues.",
+    "Implementation of The Tax Cuts & Jobs Act of 2017, including but not limited to interest expense and international provisions.",
+    "Issues related to privacy legislation.",
+    "Legislation and regulation concerning telecommunications policy, wireless communication, cyber-security, broadband policy reform, net neutrality, and other issues concerning wireless communication; monitor antitrust, arbitration, compensation and corporate governance issues.",
+    "Advise on the nature and status of various COVID-19 proposals.",
+    "Legislation and regulation concerning telecommunications policy, wireless communication, cyber-security, broadband policy reform, net neutrality, and other issues concerning wireless communication; monitor antitrust, arbitration, compensation and corporate governance issues; advise on the nature and status of various COVID-19 proposals.",
+    "Implementation of The Tax Cuts & Jobs Act of 2017, including but not limited to interest expense and international provisions. Tax issues related to COVID-19.",
+    "Issues related to international tax reform.",
+    "Legislation and regulation concerning telecommunications policy, wireless communication, broadband policy reform and other issues concerning wireless communication including antitrust, arbitration, compensation and corporate governance issues.",
+    "Issues related to tax reform.",
+    "Legislation and regulation concerning telecommunications policy.",
+    "Legislation and regulation concerning telecommunications policy, wireless communication, broadband policy reform and other issues concerning wireless communication including antitrust, arbitration, compensation and corporate governance issues; Inflation Reduction Act (H.R. 5376).",
+    "Legislation and regulation concerning telecommunications policy, wireless communication, broadband policy reform and other issues concerning wireless communication including antitrust, arbitration, compensation and corporate governance issues; Inflation Reduction Act of 2022 (PL 117-169).",
+    "Issues related to tax reform and corporate AMT; Tax issues related to Build Back Better/Inflation Reduction Act (PL 117-169), including book minimum tax.",
+    "Issues related to general telecommunications policy, broadband policy, and internet regulation.",
+    "Legislation and regulation concerning telecommunications policy, wireless communication, and broadband policy reform, including an extension of the Affordable Connectivity Program.",
+    "Issues related to tax extenders, corporate AMT, and stock buyback tax."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -14,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 326250,
+  "peakYear": 2019,
+  "lobbyistCount": 18,
+  "firmCount": 1,
+  "issueCount": 5
+}

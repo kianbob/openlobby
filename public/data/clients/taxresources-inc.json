@@ -1,1 +1,78 @@
-{"id":177472,"name":"TAXRESOURCES INC","slug":"taxresources-inc","state":"CA","description":null,"totalSpending":1413000,"filings":23,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":270000},{"year":2020,"income":360000},{"year":2021,"income":210000},{"year":2022,"income":120000},{"year":2023,"income":160000},{"year":2024,"income":13000}],"firms":["BOCKORNY GROUP, INC."],"lobbyists":["MARTIN DEPOY"],"issues":["TAX","FIN",null],"sampleDescriptions":["Issues related to restricting income tax audit protection services and IRS reform\nIssues related to the IRS regulation of paid tax preparers","H.R.1957 - Taxpayer First Act of 2019","monitoring issues related to tax audits/preparation","H.R. 748 CARES Act \nIssues related to the schedule for tax payments and IRA required minimum distributions (RMDs) during the pandemic crisis.","Monitoring issues related to tax audits/preparation","Issues related to COVID-19 legislative packages\nIssues related to the schedule for tax payments and IRA required minimum distributions (RMDs) during the pandemic crisis.","Monitoring issues related to tax audits/preparation \nCommunication regarding recommendation letters for IRS position appointment","Monitoring issues related to tax audits/preparation\nIRS funding","Monitoring issues related to tax audits/preparation IRS funding"],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 177472,
+  "name": "TAXRESOURCES INC",
+  "slug": "taxresources-inc",
+  "state": "CA",
+  "description": null,
+  "totalSpending": 1413000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 270000
+    },
+    {
+      "year": 2020,
+      "income": 360000
+    },
+    {
+      "year": 2021,
+      "income": 210000
+    },
+    {
+      "year": 2022,
+      "income": 120000
+    },
+    {
+      "year": 2023,
+      "income": 160000
+    },
+    {
+      "year": 2024,
+      "income": 13000
+    }
+  ],
+  "firms": [
+    "BOCKORNY GROUP, INC."
+  ],
+  "lobbyists": [
+    "MARTIN DEPOY"
+  ],
+  "issues": [
+    "TAX",
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to restricting income tax audit protection services and IRS reform\nIssues related to the IRS regulation of paid tax preparers",
+    "H.R.1957 - Taxpayer First Act of 2019",
+    "monitoring issues related to tax audits/preparation",
+    "H.R. 748 CARES Act \nIssues related to the schedule for tax payments and IRA required minimum distributions (RMDs) during the pandemic crisis.",
+    "Monitoring issues related to tax audits/preparation",
+    "Issues related to COVID-19 legislative packages\nIssues related to the schedule for tax payments and IRA required minimum distributions (RMDs) during the pandemic crisis.",
+    "Monitoring issues related to tax audits/preparation \nCommunication regarding recommendation letters for IRS position appointment",
+    "Monitoring issues related to tax audits/preparation\nIRS funding",
+    "Monitoring issues related to tax audits/preparation IRS funding"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -95,
+  "trajectory": "declining",
+  "yearsActive": 7,
+  "avgAnnualSpending": 201857,
+  "peakYear": 2020,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 2
+}

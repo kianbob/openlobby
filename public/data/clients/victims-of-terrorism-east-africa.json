@@ -1,1 +1,49 @@
-{"id":103725,"name":"VICTIMS OF TERRORISM - EAST AFRICA","slug":"victims-of-terrorism-east-africa","state":"IL","description":"Victims of Terrorism","totalSpending":1830000,"filings":5,"yearlySpending":[{"year":2020,"income":250000},{"year":2022,"income":1110000},{"year":2023,"income":470000}],"firms":["MORRIS J. AMITAY, PC"],"lobbyists":["MORRIS AMITAY"],"issues":["LAW"],"sampleDescriptions":["Secure compensation for United States Government Employees killed and injured in Bombing of U.S. Embassies in Africa in 1998","H.R. 8419 American Victims of Terrorism Compensation Act"],"years":[2020,2022,2023]}
+{
+  "id": 103725,
+  "name": "VICTIMS OF TERRORISM - EAST AFRICA",
+  "slug": "victims-of-terrorism-east-africa",
+  "state": "IL",
+  "description": "Victims of Terrorism",
+  "totalSpending": 1830000,
+  "filings": 5,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2022,
+      "income": 1110000
+    },
+    {
+      "year": 2023,
+      "income": 470000
+    }
+  ],
+  "firms": [
+    "MORRIS J. AMITAY, PC"
+  ],
+  "lobbyists": [
+    "MORRIS AMITAY"
+  ],
+  "issues": [
+    "LAW"
+  ],
+  "sampleDescriptions": [
+    "Secure compensation for United States Government Employees killed and injured in Bombing of U.S. Embassies in Africa in 1998",
+    "H.R. 8419 American Victims of Terrorism Compensation Act"
+  ],
+  "years": [
+    2020,
+    2022,
+    2023
+  ],
+  "growthRate": 88,
+  "trajectory": "growing",
+  "yearsActive": 3,
+  "avgAnnualSpending": 610000,
+  "peakYear": 2022,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1
+}

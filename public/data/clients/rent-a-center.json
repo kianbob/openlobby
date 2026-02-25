@@ -1,1 +1,77 @@
-{"id":142168,"name":"RENT-A-CENTER","slug":"rent-a-center","state":"TX","description":null,"totalSpending":1550000,"filings":31,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":100000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":250000},{"year":2023,"income":250000},{"year":2024,"income":250000},{"year":2025,"income":150000}],"firms":["THE ROYER LAW FIRM (FORMERLY ROYER & BROOKS)"],"lobbyists":["ROBERT ROYER"],"issues":["BAN",null],"sampleDescriptions":["No Specif Issue","Banking","Issues related to rent to own","General Banking issues"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 142168,
+  "name": "RENT-A-CENTER",
+  "slug": "rent-a-center",
+  "state": "TX",
+  "description": null,
+  "totalSpending": 1550000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 100000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 250000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 250000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "THE ROYER LAW FIRM (FORMERLY ROYER & BROOKS)"
+  ],
+  "lobbyists": [
+    "ROBERT ROYER"
+  ],
+  "issues": [
+    "BAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "No Specif Issue",
+    "Banking",
+    "Issues related to rent to own",
+    "General Banking issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 193750,
+  "peakYear": 2022,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1
+}

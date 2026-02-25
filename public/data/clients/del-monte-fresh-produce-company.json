@@ -1,1 +1,86 @@
-{"id":110331,"name":"DEL MONTE FRESH PRODUCE COMPANY","slug":"del-monte-fresh-produce-company","state":"FL","description":"Food products","totalSpending":1600000,"filings":19,"yearlySpending":[{"year":2019,"income":80000},{"year":2020,"income":270000},{"year":2021,"income":770000},{"year":2022,"income":360000},{"year":2023,"income":120000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["DOUGLAS MAGUIRE","JEROME MURRAY","CARMENCITA WHONDER","MILAN DALAL","EDWARD ROYCE","RUSSELL SULLIVAN","ELIZABETH MAIER","DANIEL JOSEPH","SAMANTHA CARL-YODER","HAROLD HANCOCK","MARK WARREN","MARCKIA HAYES"],"issues":["FOR","GOV","TAX","AGR",null],"sampleDescriptions":["International relations","International relations issues","HR 748 CARES Act - issues related to COVID-19 relief","Issues related to COVID-19 relief","Transfer pricing issues","Issues related to agriculture and food safety","Transfer pricing issues\nInternational tax issues\nH.R.5376 - Build Back Better Act","Transfer pricing issues International tax issues H.R.5376 - Build Back Better Act","International markets and regulatory issues","Transfer pricing issues International corporate tax and tax agriculture issues H.R.5376 Inflation Reduction Act of 2022","International Relations issues relating to international tax regimes","Land settlement issues","Issues related to OECD tax guidelines","Issues OECD tax guidelines"],"years":[2019,2020,2021,2022,2023]}
+{
+  "id": 110331,
+  "name": "DEL MONTE FRESH PRODUCE COMPANY",
+  "slug": "del-monte-fresh-produce-company",
+  "state": "FL",
+  "description": "Food products",
+  "totalSpending": 1600000,
+  "filings": 19,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 80000
+    },
+    {
+      "year": 2020,
+      "income": 270000
+    },
+    {
+      "year": 2021,
+      "income": 770000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "DOUGLAS MAGUIRE",
+    "JEROME MURRAY",
+    "CARMENCITA WHONDER",
+    "MILAN DALAL",
+    "EDWARD ROYCE",
+    "RUSSELL SULLIVAN",
+    "ELIZABETH MAIER",
+    "DANIEL JOSEPH",
+    "SAMANTHA CARL-YODER",
+    "HAROLD HANCOCK",
+    "MARK WARREN",
+    "MARCKIA HAYES"
+  ],
+  "issues": [
+    "FOR",
+    "GOV",
+    "TAX",
+    "AGR",
+    null
+  ],
+  "sampleDescriptions": [
+    "International relations",
+    "International relations issues",
+    "HR 748 CARES Act - issues related to COVID-19 relief",
+    "Issues related to COVID-19 relief",
+    "Transfer pricing issues",
+    "Issues related to agriculture and food safety",
+    "Transfer pricing issues\nInternational tax issues\nH.R.5376 - Build Back Better Act",
+    "Transfer pricing issues International tax issues H.R.5376 - Build Back Better Act",
+    "International markets and regulatory issues",
+    "Transfer pricing issues International corporate tax and tax agriculture issues H.R.5376 Inflation Reduction Act of 2022",
+    "International Relations issues relating to international tax regimes",
+    "Land settlement issues",
+    "Issues related to OECD tax guidelines",
+    "Issues OECD tax guidelines"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": 50,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 320000,
+  "peakYear": 2021,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 4
+}

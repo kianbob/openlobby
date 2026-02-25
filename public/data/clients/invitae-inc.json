@@ -1,1 +1,91 @@
-{"id":203259,"name":"INVITAE INC.","slug":"invitae-inc","state":"CA","description":"Company that provides clinical genetic testing services.","totalSpending":1500500,"filings":21,"yearlySpending":[{"year":2019,"income":175500},{"year":2020,"income":245000},{"year":2021,"income":245000},{"year":2022,"income":450000},{"year":2023,"income":360000},{"year":2024,"income":25000}],"firms":["IPOLICY SOLUTIONS"],"lobbyists":["JENNIFER LEIB","MEGAN ANDERSON BROOKS","JAY QIU","LINDSEY TRISCHLER"],"issues":["BUD","MED","MMM","CPT","HCR","CSP",null],"sampleDescriptions":["No bill #, Labor, HHS, Education and Related Agencies Appropriations FY20","No bill #, Verifying Accurate Leading-Edge IVCT Development (VALID) Act","Medicare coverage of next generation sequencing based tests for cancer","No bill #, reform Sec. 101 of the Patent Act","Medicare coverage of next generation sequencing based tests for cancer\nH.R.4393 - Advancing Access to Precision Medicine Act","Medicare coverage of next generation sequencing based tests for cancer\nH.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019","No bill #, Labor, HHS, Education and Related Agencies Appropriations FY20\nNo bill #, Labor, HHS, Education and Related Agencies Appropriations FY21","H.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019","No bill #, Labor, HHS, Education and Related Agencies Appropriations FY21","H.R.6102/S.3404, Verifying Accurate Leading-Edge IVCT Development (VALID) Act","Electronic medical record interoperability","H.R.2740 Labor, Health and Human Services, Education, Defense, State, Foreign Operations, and Energy and Water Development Appropriations Act, 2020/ Senate: No bill number","H.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019\nS. 2741/H.R. 4932 CONNECT for Health Act","H.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019\nS. 2741/H.R. 4932 CONNECT for Health Act\nScope of practice for non-physician providers","Electronic medical record interoperability\nHealth data privacy","U.S. Patent Act Sec. 101 reform","H.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019\nS. 2741/H.R. 4932 CONNECT for Health Act\nScope of practice for non-physician providers\nCoding practices for molecular diagnostics","Electronic medical record interoperability\nNo bill number, 21st Century Cures 2.0 Act","S1685 Preventive Health Savings Act","Pharmacogenomic testing\nCDC Advanced Molecular Detection Program"],"years":[2019,2020,2021,2022,2023,2024]}
+{
+  "id": 203259,
+  "name": "INVITAE INC.",
+  "slug": "invitae-inc",
+  "state": "CA",
+  "description": "Company that provides clinical genetic testing services.",
+  "totalSpending": 1500500,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 175500
+    },
+    {
+      "year": 2020,
+      "income": 245000
+    },
+    {
+      "year": 2021,
+      "income": 245000
+    },
+    {
+      "year": 2022,
+      "income": 450000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 25000
+    }
+  ],
+  "firms": [
+    "IPOLICY SOLUTIONS"
+  ],
+  "lobbyists": [
+    "JENNIFER LEIB",
+    "MEGAN ANDERSON BROOKS",
+    "JAY QIU",
+    "LINDSEY TRISCHLER"
+  ],
+  "issues": [
+    "BUD",
+    "MED",
+    "MMM",
+    "CPT",
+    "HCR",
+    "CSP",
+    null
+  ],
+  "sampleDescriptions": [
+    "No bill #, Labor, HHS, Education and Related Agencies Appropriations FY20",
+    "No bill #, Verifying Accurate Leading-Edge IVCT Development (VALID) Act",
+    "Medicare coverage of next generation sequencing based tests for cancer",
+    "No bill #, reform Sec. 101 of the Patent Act",
+    "Medicare coverage of next generation sequencing based tests for cancer\nH.R.4393 - Advancing Access to Precision Medicine Act",
+    "Medicare coverage of next generation sequencing based tests for cancer\nH.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019",
+    "No bill #, Labor, HHS, Education and Related Agencies Appropriations FY20\nNo bill #, Labor, HHS, Education and Related Agencies Appropriations FY21",
+    "H.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019",
+    "No bill #, Labor, HHS, Education and Related Agencies Appropriations FY21",
+    "H.R.6102/S.3404, Verifying Accurate Leading-Edge IVCT Development (VALID) Act",
+    "Electronic medical record interoperability",
+    "H.R.2740 Labor, Health and Human Services, Education, Defense, State, Foreign Operations, and Energy and Water Development Appropriations Act, 2020/ Senate: No bill number",
+    "H.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019\nS. 2741/H.R. 4932 CONNECT for Health Act",
+    "H.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019\nS. 2741/H.R. 4932 CONNECT for Health Act\nScope of practice for non-physician providers",
+    "Electronic medical record interoperability\nHealth data privacy",
+    "U.S. Patent Act Sec. 101 reform",
+    "H.R.4393 - Advancing Access to Precision Medicine Act\nH.R.3235 - Access to Genetic Counselor Services Act of 2019\nS. 2741/H.R. 4932 CONNECT for Health Act\nScope of practice for non-physician providers\nCoding practices for molecular diagnostics",
+    "Electronic medical record interoperability\nNo bill number, 21st Century Cures 2.0 Act",
+    "S1685 Preventive Health Savings Act",
+    "Pharmacogenomic testing\nCDC Advanced Molecular Detection Program"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -86,
+  "trajectory": "declining",
+  "yearsActive": 6,
+  "avgAnnualSpending": 250083,
+  "peakYear": 2022,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 6
+}

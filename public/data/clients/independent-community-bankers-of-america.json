@@ -1,1 +1,76 @@
-{"id":159903,"name":"INDEPENDENT COMMUNITY BANKERS OF AMERICA","slug":"independent-community-bankers-of-america","state":"DC","description":null,"totalSpending":4710000,"filings":23,"yearlySpending":[{"year":2018,"income":720000},{"year":2019,"income":840000},{"year":2020,"income":840000},{"year":2021,"income":630000},{"year":2022,"income":840000},{"year":2023,"income":840000}],"firms":["TIMOTHY R. RUPLI & ASSOCIATES, INC."],"lobbyists":["TIMOTHY RUPLI","LINDA RUPLI"],"issues":["BAN",null],"sampleDescriptions":["Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155, mortgage lending reform and tax relief for community banks. Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks. Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief. Senate confirmation of financial regulators.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks.  Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief.  Senate confirmation of financial regulators.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments,  Senate confirmation of financial regulators.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments,  Senate confirmation of financial regulators.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments,  Senate confirmation of financial regulators. Financial services provisions of CARES Act.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments,  Senate confirmation of financial regulators. Financial services provisions of CARES Act. Payroll Protection Program.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending too big to fail, GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments, Senate confirmation of financial regulators.  Financial services provisions of CARES Act.  Payroll Protection Program.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending too big to fail, GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments, Senate confirmation of financial regulators.  Financial services provisions of CARES Act.  Payroll Protection Program. Banking provisions of infrastructure and budget reconciliation, banking regulatory nominees.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending too big to fail, GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments, Senate confirmation of financial regulators. Financial services provisions of CARES Act. Payroll Protection Program. Banking provisions of infrastructure and budget reconciliation, banking regulatory nominees.","Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending too big to fail, GSE reform, capital requirements, regulatory relief for community banks, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments, Senate confirmation of financial regulators. Financial services provisions of CARES Act. Payroll Protection Program. Banking provisions of infrastructure and budget reconciliation, banking regulatory nominees."],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 159903,
+  "name": "INDEPENDENT COMMUNITY BANKERS OF AMERICA",
+  "slug": "independent-community-bankers-of-america",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 4710000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 720000
+    },
+    {
+      "year": 2019,
+      "income": 840000
+    },
+    {
+      "year": 2020,
+      "income": 840000
+    },
+    {
+      "year": 2021,
+      "income": 630000
+    },
+    {
+      "year": 2022,
+      "income": 840000
+    },
+    {
+      "year": 2023,
+      "income": 840000
+    }
+  ],
+  "firms": [
+    "TIMOTHY R. RUPLI & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "TIMOTHY RUPLI",
+    "LINDA RUPLI"
+  ],
+  "issues": [
+    "BAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155, mortgage lending reform and tax relief for community banks. Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks. Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief. Senate confirmation of financial regulators.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks.  Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief.  Senate confirmation of financial regulators.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments,  Senate confirmation of financial regulators.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments,  Senate confirmation of financial regulators.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments,  Senate confirmation of financial regulators. Financial services provisions of CARES Act.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending \"too big to fail\", GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments,  Senate confirmation of financial regulators. Financial services provisions of CARES Act. Payroll Protection Program.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending too big to fail, GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments, Senate confirmation of financial regulators.  Financial services provisions of CARES Act.  Payroll Protection Program.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending too big to fail, GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments, Senate confirmation of financial regulators.  Financial services provisions of CARES Act.  Payroll Protection Program. Banking provisions of infrastructure and budget reconciliation, banking regulatory nominees.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending too big to fail, GSE reform, capital requirements, regulatory relief for community banks including S. 2155 implementation, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments, Senate confirmation of financial regulators. Financial services provisions of CARES Act. Payroll Protection Program. Banking provisions of infrastructure and budget reconciliation, banking regulatory nominees.",
+    "Implementation and reform of the Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), Consumer Financial Protection Bureau (CFPB) reform, systemic risk, industrial loan companies, ending too big to fail, GSE reform, capital requirements, regulatory relief for community banks, mortgage lending reform and tax relief for community banks, Financial Services Authorization and Financial Services and General Government Appropriations bills, Sub-Chapter S tax relief, real time payments, Senate confirmation of financial regulators. Financial services provisions of CARES Act. Payroll Protection Program. Banking provisions of infrastructure and budget reconciliation, banking regulatory nominees."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": 17,
+  "trajectory": "stable",
+  "yearsActive": 6,
+  "avgAnnualSpending": 785000,
+  "peakYear": 2019,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

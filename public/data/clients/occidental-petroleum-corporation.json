@@ -1,1 +1,72 @@
-{"id":209973,"name":"OCCIDENTAL PETROLEUM CORPORATION","slug":"occidental-petroleum-corporation","state":"TX","description":"Energy/chemical company","totalSpending":1400000,"filings":13,"yearlySpending":[{"year":2021,"income":160000},{"year":2022,"income":330000},{"year":2023,"income":440000},{"year":2024,"income":330000},{"year":2025,"income":140000}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["DIMITRIOS KARAKITSOS","RICHARD GOLD","TODD WOOTEN","BETH VIOLA","TAITE MCDONALD","ANDREW SIRACUSE"],"issues":["ENG",null,"CHM","TAX"],"sampleDescriptions":["Energy development on federal lands; climate change; carbon capture and storage; direct air capture technologies.","Energy development on federal lands; climate change; carbon capture and storage; direct air capture technologies; chemicals policy.","Chemicals policy.","Department of Energy contracts.","Chemicals policy around TSCA Risk Evaluation; Implementation of Frank R. Lautenberg Chemical Safety for the 21st Century Act (Public Law No: 114-182).","Energy tax regulations and guidance."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 209973,
+  "name": "OCCIDENTAL PETROLEUM CORPORATION",
+  "slug": "occidental-petroleum-corporation",
+  "state": "TX",
+  "description": "Energy/chemical company",
+  "totalSpending": 1400000,
+  "filings": 13,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 330000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 330000
+    },
+    {
+      "year": 2025,
+      "income": 140000
+    }
+  ],
+  "firms": [
+    "HOLLAND & KNIGHT LLP"
+  ],
+  "lobbyists": [
+    "DIMITRIOS KARAKITSOS",
+    "RICHARD GOLD",
+    "TODD WOOTEN",
+    "BETH VIOLA",
+    "TAITE MCDONALD",
+    "ANDREW SIRACUSE"
+  ],
+  "issues": [
+    "ENG",
+    null,
+    "CHM",
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "Energy development on federal lands; climate change; carbon capture and storage; direct air capture technologies.",
+    "Energy development on federal lands; climate change; carbon capture and storage; direct air capture technologies; chemicals policy.",
+    "Chemicals policy.",
+    "Department of Energy contracts.",
+    "Chemicals policy around TSCA Risk Evaluation; Implementation of Frank R. Lautenberg Chemical Safety for the 21st Century Act (Public Law No: 114-182).",
+    "Energy tax regulations and guidance."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -12,
+  "trajectory": "stable",
+  "yearsActive": 5,
+  "avgAnnualSpending": 280000,
+  "peakYear": 2023,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "energy"
+}

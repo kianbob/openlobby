@@ -1,1 +1,557 @@
-{"code":"MAR","name":"Marine/Maritime/Boating/Fisheries","totalSpending":228166516.5,"totalFilings":10884,"yearlySpending":[{"year":2018,"income":23540216,"filings":1259},{"year":2019,"income":25504458.5,"filings":1271},{"year":2020,"income":25715044,"filings":1309},{"year":2021,"income":23877083,"filings":1243},{"year":2022,"income":30783165,"filings":1456},{"year":2023,"income":34284544,"filings":1579},{"year":2024,"income":30245695,"filings":1353},{"year":2025,"income":34216311,"filings":1414}],"topClients":[{"name":"AMERICAN MARITIME PARTNERSHIP","income":8200000},{"name":"LAKE CARRIERS ASSOCIATION","income":6620000},{"name":"LIBERTY MARITIME CORPORATION","income":4460000},{"name":"CRUISE LINES INTERNATIONAL ASSOCIATION","income":4460000},{"name":"TRANSPORTATION INSTITUTE","income":4170000},{"name":"MATSON NAVIGATION","income":2980000},{"name":"DAYBROOK HOLDINGS, INC.","income":2440000},{"name":"EDISON CHOUEST OFFSHORE","income":2335000},{"name":"CROWLEY MARITIME CORPORATION","income":2175000},{"name":"INTERNATIONAL LONGSHORE AND WAREHOUSE UNION","income":2115000},{"name":"SOUTH FLORIDA ADMIRALTY TRIAL LAWYERS ASSOCIATION","income":1980000},{"name":"INTERNATIONAL MARINE CONTRACTORS ASSOCIATION","income":1970000},{"name":"NATIONAL ASSOCIATION OF WATERFRONT EMPLOYERS","income":1868000},{"name":"THE VUCCI LAW GROUP, P.A.","income":1840000},{"name":"OVERSEAS SHIPHOLDING GROUP, INC.","income":1830000},{"name":"NOVA SOUTHEASTERN UNIVERSITY","income":1800000},{"name":"ENVIRONMENTAL DEFENSE ACTION FUND","income":1665000},{"name":"OCEAN AERO, INC.","income":1520000},{"name":"PORT OF SEATTLE","income":1500000},{"name":"THE NORTHWEST SEAPORT ALLIANCE","income":1450000},{"name":"KIRBY CORPORATION","income":1450000},{"name":"OCEAN CONSERVANCY, INC.","income":1400000},{"name":"AUBURN UNIVERSITY","income":1380000},{"name":"AMERICAN ROLL-ON ROLL-OFF CARRIER GROUP, INC.","income":1360000},{"name":"NATIONAL MARINE MANUFACTURERS ASSOCIATION","income":1350000},{"name":"MAZZETTA COMPANY LLC","income":1350000},{"name":"PORT OF PORTLAND","income":1350000},{"name":"AMERICAN MARITIME OFFICERS SERVICE (AMOS)","income":1320000},{"name":"MIAMI-DADE COUNTY","income":1310000},{"name":"CONSORTIUM OF STATE MARITIME ACADEMIES","income":1290000},{"name":"AMERICAN CLEAN POWER ASSOCIATION","income":1230000},{"name":"GREAT LAKES DREDGE & DOCK CORPORATION","income":1210000},{"name":"PORT OF NEW ORLEANS","income":1200000},{"name":"AMERICAN PETROLEUM INSTITUTE","income":1200000},{"name":"WATERWAYS COUNCIL INC","income":1160000},{"name":"DNV USA INC.","income":1160000},{"name":"AMERICAN MARITIME OFFICERS","income":1160000},{"name":"WWF","income":1130000},{"name":"INSTITUTE OF INTERNATIONAL CONTAINER LESSORS","income":1130000},{"name":"SPACEX","income":1120000},{"name":"SSA MARINE","income":1120000},{"name":"LOS ANGELES COUNTY","income":1080000},{"name":"ARNOLD & ITKIN","income":1080000},{"name":"LPA ENVIRONMENTAL FUND, LLC","income":1070000},{"name":"CONSUMER BRANDS ASSOCIATION","income":1060000},{"name":"SUBCOM LLC","income":1050000},{"name":"AMERICAN GREAT LAKES PORTS ASSOCIATION","income":1040000},{"name":"SEA GRANT ASSOCIATION","income":1030000},{"name":"OLD HARBOR NATIVE CORPORATION","income":1030000},{"name":"WATERWAYS COUNCIL INC.","income":980000}],"topFirms":[{"name":"K&L GATES, LLP","income":28930000},{"name":"BLANK ROME GOVERNMENT RELATIONS","income":11100000},{"name":"JONES WALKER, LLP","income":6910000},{"name":"ALCALDE & FAY","income":6810000},{"name":"SQUIRE PATTON BOGGS","income":5800000},{"name":"VAN SCOYOC ASSOCIATES","income":4820000},{"name":"WINSTON & STRAWN LLP","income":4580000},{"name":"CROSSROADS STRATEGIES, LLC","income":4560000},{"name":"ROBERTSON, MONAGLE & EASTAUGH LLC","income":4056562},{"name":"FORBES-TATE","income":3900000},{"name":"SCONSET STRATEGIES, LLC","income":3820000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":3810000},{"name":"ADAMS AND REESE, LLP","income":3766500},{"name":"CARPI & CLAY, INC","income":3695000},{"name":"ELEVATE GOVERNMENT AFFAIRS, LLC","income":3500000},{"name":"FEDERAL SCIENCE PARTNERS LLC","income":3045000},{"name":"CASSIDY & ASSOCIATES, INC.","income":2870000},{"name":"BREAUX LOTT LEADERSHIP GROUP","income":2850000},{"name":"OWEN EVANS INGOLS","income":2695000},{"name":"ESP ADVISORS, LLC","income":2588000},{"name":"OTTERSON LLC","income":2480000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":2450000},{"name":"HOLLAND & KNIGHT LLP","income":2430000},{"name":"HB STRATEGIES","income":2265000},{"name":"BGR GOVERNMENT AFFAIRS","income":2130000},{"name":"CAPITOL HILL POLICY GROUP LLC","income":2120000},{"name":"OGR","income":2060000},{"name":"CAPITOL COUNSEL LLC","income":2030000},{"name":"RICK MALDONADO & ASSOCIATES INC.","income":1951639},{"name":"ROSEMONT GROUP","income":1915000}],"sampleDescriptions":["Offshore One Call Notification Center Pipeline Safety","Monitor and evaluate federal initiatives, both authorizing and appropriations, and regulatory matters regarding: International and Foreign Assistance funding; the Arctic Region; Illegal, unreported an","Strict enforcement of the Jones Act, monitoring of all relevant federal legislative and regulatory activities, federal policy research and analysis, and representation of Client before the U.S. Congre","Port development","Issues related to infrastructure policy.","Fishery regulation H.R. 200; Magnuson-Stevens Act; maritime regulation, Coast Guard authorization S.1129, H.R. 1726","Magnuson-Stevens Act; Seafood certification legislation; H.R. 200, legislative issues related to international fisheries; Coast Guard legislation, S. 1129, H.R. 1726","Magnuson Stevens Act; Endangered Species Act; treaty fishing rights; 2018 Farm Bill","Magnuson-Stevens Fishery Conservation and Management Act Reauthorization, H.R. 200","Federal legislative and regulatory matters related to fisheries, including Magnuson-Stevens Act Reauthorization, seafood certification and Coast Guard Authorization.","Federal legislative and regulatory matters related to pollack fisheries in the North Pacific.","Federal legislative and regulatory matters related to fisheries, including Magnuson-Stevens Act Reauthorization, Fishery Regulation, Maritime Regulation, and Coast Guard Authorization.","Legislation to promote seafood marketing.","Legislation impacting cruise industry operations","Ice breakers, MODUs, Portable Accommodation Modules, Floating Offshore Structures","FEMA reimbursement, coastal restoration, dredging, and hurricane protection.","Dredging, hurricane protection, and infrastructure.","Levee modifications and Section 408","Supporting passage of VIDA","Benefits of the marina industry"]}
+{
+  "code": "MAR",
+  "name": "Marine/Maritime/Boating/Fisheries",
+  "totalSpending": 228166516.5,
+  "totalFilings": 10884,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 23540216,
+      "filings": 1259
+    },
+    {
+      "year": 2019,
+      "income": 25504458.5,
+      "filings": 1271
+    },
+    {
+      "year": 2020,
+      "income": 25715044,
+      "filings": 1309
+    },
+    {
+      "year": 2021,
+      "income": 23877083,
+      "filings": 1243
+    },
+    {
+      "year": 2022,
+      "income": 30783165,
+      "filings": 1456
+    },
+    {
+      "year": 2023,
+      "income": 34284544,
+      "filings": 1579
+    },
+    {
+      "year": 2024,
+      "income": 30245695,
+      "filings": 1353
+    },
+    {
+      "year": 2025,
+      "income": 34216311,
+      "filings": 1414
+    }
+  ],
+  "topClients": [
+    {
+      "name": "AMERICAN MARITIME PARTNERSHIP",
+      "income": 8200000
+    },
+    {
+      "name": "LAKE CARRIERS ASSOCIATION",
+      "income": 6620000
+    },
+    {
+      "name": "LIBERTY MARITIME CORPORATION",
+      "income": 4460000
+    },
+    {
+      "name": "CRUISE LINES INTERNATIONAL ASSOCIATION",
+      "income": 4460000
+    },
+    {
+      "name": "TRANSPORTATION INSTITUTE",
+      "income": 4170000
+    },
+    {
+      "name": "MATSON NAVIGATION",
+      "income": 2980000
+    },
+    {
+      "name": "DAYBROOK HOLDINGS, INC.",
+      "income": 2440000
+    },
+    {
+      "name": "EDISON CHOUEST OFFSHORE",
+      "income": 2335000
+    },
+    {
+      "name": "CROWLEY MARITIME CORPORATION",
+      "income": 2175000
+    },
+    {
+      "name": "INTERNATIONAL LONGSHORE AND WAREHOUSE UNION",
+      "income": 2115000
+    },
+    {
+      "name": "SOUTH FLORIDA ADMIRALTY TRIAL LAWYERS ASSOCIATION",
+      "income": 1980000
+    },
+    {
+      "name": "INTERNATIONAL MARINE CONTRACTORS ASSOCIATION",
+      "income": 1970000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF WATERFRONT EMPLOYERS",
+      "income": 1868000
+    },
+    {
+      "name": "THE VUCCI LAW GROUP, P.A.",
+      "income": 1840000
+    },
+    {
+      "name": "OVERSEAS SHIPHOLDING GROUP, INC.",
+      "income": 1830000
+    },
+    {
+      "name": "NOVA SOUTHEASTERN UNIVERSITY",
+      "income": 1800000
+    },
+    {
+      "name": "ENVIRONMENTAL DEFENSE ACTION FUND",
+      "income": 1665000
+    },
+    {
+      "name": "OCEAN AERO, INC.",
+      "income": 1520000
+    },
+    {
+      "name": "PORT OF SEATTLE",
+      "income": 1500000
+    },
+    {
+      "name": "THE NORTHWEST SEAPORT ALLIANCE",
+      "income": 1450000
+    },
+    {
+      "name": "KIRBY CORPORATION",
+      "income": 1450000
+    },
+    {
+      "name": "OCEAN CONSERVANCY, INC.",
+      "income": 1400000
+    },
+    {
+      "name": "AUBURN UNIVERSITY",
+      "income": 1380000
+    },
+    {
+      "name": "AMERICAN ROLL-ON ROLL-OFF CARRIER GROUP, INC.",
+      "income": 1360000
+    },
+    {
+      "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
+      "income": 1350000
+    },
+    {
+      "name": "MAZZETTA COMPANY LLC",
+      "income": 1350000
+    },
+    {
+      "name": "PORT OF PORTLAND",
+      "income": 1350000
+    },
+    {
+      "name": "AMERICAN MARITIME OFFICERS SERVICE (AMOS)",
+      "income": 1320000
+    },
+    {
+      "name": "MIAMI-DADE COUNTY",
+      "income": 1310000
+    },
+    {
+      "name": "CONSORTIUM OF STATE MARITIME ACADEMIES",
+      "income": 1290000
+    },
+    {
+      "name": "AMERICAN CLEAN POWER ASSOCIATION",
+      "income": 1230000
+    },
+    {
+      "name": "GREAT LAKES DREDGE & DOCK CORPORATION",
+      "income": 1210000
+    },
+    {
+      "name": "PORT OF NEW ORLEANS",
+      "income": 1200000
+    },
+    {
+      "name": "AMERICAN PETROLEUM INSTITUTE",
+      "income": 1200000
+    },
+    {
+      "name": "WATERWAYS COUNCIL INC",
+      "income": 1160000
+    },
+    {
+      "name": "DNV USA INC.",
+      "income": 1160000
+    },
+    {
+      "name": "AMERICAN MARITIME OFFICERS",
+      "income": 1160000
+    },
+    {
+      "name": "WWF",
+      "income": 1130000
+    },
+    {
+      "name": "INSTITUTE OF INTERNATIONAL CONTAINER LESSORS",
+      "income": 1130000
+    },
+    {
+      "name": "SPACEX",
+      "income": 1120000
+    },
+    {
+      "name": "SSA MARINE",
+      "income": 1120000
+    },
+    {
+      "name": "LOS ANGELES COUNTY",
+      "income": 1080000
+    },
+    {
+      "name": "ARNOLD & ITKIN",
+      "income": 1080000
+    },
+    {
+      "name": "LPA ENVIRONMENTAL FUND, LLC",
+      "income": 1070000
+    },
+    {
+      "name": "CONSUMER BRANDS ASSOCIATION",
+      "income": 1060000
+    },
+    {
+      "name": "SUBCOM LLC",
+      "income": 1050000
+    },
+    {
+      "name": "AMERICAN GREAT LAKES PORTS ASSOCIATION",
+      "income": 1040000
+    },
+    {
+      "name": "SEA GRANT ASSOCIATION",
+      "income": 1030000
+    },
+    {
+      "name": "OLD HARBOR NATIVE CORPORATION",
+      "income": 1030000
+    },
+    {
+      "name": "WATERWAYS COUNCIL INC.",
+      "income": 980000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "K&L GATES, LLP",
+      "income": 28930000
+    },
+    {
+      "name": "BLANK ROME GOVERNMENT RELATIONS",
+      "income": 11100000
+    },
+    {
+      "name": "JONES WALKER, LLP",
+      "income": 6910000
+    },
+    {
+      "name": "ALCALDE & FAY",
+      "income": 6810000
+    },
+    {
+      "name": "SQUIRE PATTON BOGGS",
+      "income": 5800000
+    },
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 4820000
+    },
+    {
+      "name": "WINSTON & STRAWN LLP",
+      "income": 4580000
+    },
+    {
+      "name": "CROSSROADS STRATEGIES, LLC",
+      "income": 4560000
+    },
+    {
+      "name": "ROBERTSON, MONAGLE & EASTAUGH LLC",
+      "income": 4056562
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 3900000
+    },
+    {
+      "name": "SCONSET STRATEGIES, LLC",
+      "income": 3820000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 3810000
+    },
+    {
+      "name": "ADAMS AND REESE, LLP",
+      "income": 3766500
+    },
+    {
+      "name": "CARPI & CLAY, INC",
+      "income": 3695000
+    },
+    {
+      "name": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+      "income": 3500000
+    },
+    {
+      "name": "FEDERAL SCIENCE PARTNERS LLC",
+      "income": 3045000
+    },
+    {
+      "name": "CASSIDY & ASSOCIATES, INC.",
+      "income": 2870000
+    },
+    {
+      "name": "BREAUX LOTT LEADERSHIP GROUP",
+      "income": 2850000
+    },
+    {
+      "name": "OWEN EVANS INGOLS",
+      "income": 2695000
+    },
+    {
+      "name": "ESP ADVISORS, LLC",
+      "income": 2588000
+    },
+    {
+      "name": "OTTERSON LLC",
+      "income": 2480000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 2450000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 2430000
+    },
+    {
+      "name": "HB STRATEGIES",
+      "income": 2265000
+    },
+    {
+      "name": "BGR GOVERNMENT AFFAIRS",
+      "income": 2130000
+    },
+    {
+      "name": "CAPITOL HILL POLICY GROUP LLC",
+      "income": 2120000
+    },
+    {
+      "name": "OGR",
+      "income": 2060000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 2030000
+    },
+    {
+      "name": "RICK MALDONADO & ASSOCIATES INC.",
+      "income": 1951639
+    },
+    {
+      "name": "ROSEMONT GROUP",
+      "income": 1915000
+    }
+  ],
+  "sampleDescriptions": [
+    "Offshore One Call Notification Center Pipeline Safety",
+    "Monitor and evaluate federal initiatives, both authorizing and appropriations, and regulatory matters regarding: International and Foreign Assistance funding; the Arctic Region; Illegal, unreported an",
+    "Strict enforcement of the Jones Act, monitoring of all relevant federal legislative and regulatory activities, federal policy research and analysis, and representation of Client before the U.S. Congre",
+    "Port development",
+    "Issues related to infrastructure policy.",
+    "Fishery regulation H.R. 200; Magnuson-Stevens Act; maritime regulation, Coast Guard authorization S.1129, H.R. 1726",
+    "Magnuson-Stevens Act; Seafood certification legislation; H.R. 200, legislative issues related to international fisheries; Coast Guard legislation, S. 1129, H.R. 1726",
+    "Magnuson Stevens Act; Endangered Species Act; treaty fishing rights; 2018 Farm Bill",
+    "Magnuson-Stevens Fishery Conservation and Management Act Reauthorization, H.R. 200",
+    "Federal legislative and regulatory matters related to fisheries, including Magnuson-Stevens Act Reauthorization, seafood certification and Coast Guard Authorization.",
+    "Federal legislative and regulatory matters related to pollack fisheries in the North Pacific.",
+    "Federal legislative and regulatory matters related to fisheries, including Magnuson-Stevens Act Reauthorization, Fishery Regulation, Maritime Regulation, and Coast Guard Authorization.",
+    "Legislation to promote seafood marketing.",
+    "Legislation impacting cruise industry operations",
+    "Ice breakers, MODUs, Portable Accommodation Modules, Floating Offshore Structures",
+    "FEMA reimbursement, coastal restoration, dredging, and hurricane protection.",
+    "Dredging, hurricane protection, and infrastructure.",
+    "Levee modifications and Section 408",
+    "Supporting passage of VIDA",
+    "Benefits of the marina industry"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 288,
+      "spending": 5386976.064300079
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 330,
+      "spending": 5955316.121420737
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 306,
+      "spending": 5803597.897265362
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 335,
+      "spending": 6011336.8838058505
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 295,
+      "spending": 5670448.90945166
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 343,
+      "spending": 6541263.288989901
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 306,
+      "spending": 5710272.017808334
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 327,
+      "spending": 6125942.679602559
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 288,
+      "spending": 5589119.740537241
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 321,
+      "spending": 5610770.944516596
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 363,
+      "spending": 6093139.892550584
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 337,
+      "spending": 5408802.998040848
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 264,
+      "spending": 4330294.662970361
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 332,
+      "spending": 6476063.26832762
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 311,
+      "spending": 5751383.477413522
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 336,
+      "spending": 5598773.3205320835
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 337,
+      "spending": 7540218.869492012
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 380,
+      "spending": 7610816.477401497
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 358,
+      "spending": 7125798.5083295135
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 381,
+      "spending": 7721880.15672614
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 403,
+      "spending": 8932644.040330227
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 384,
+      "spending": 8566163.559665501
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 405,
+      "spending": 8309351.099022832
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 387,
+      "spending": 8092804.850326672
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 310,
+      "spending": 6467049.353675693
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 369,
+      "spending": 7640019.629051753
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 322,
+      "spending": 6912213.815218853
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 352,
+      "spending": 6976127.602163712
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 298,
+      "spending": 6947411.721366216
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 391,
+      "spending": 8478409.891744368
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 354,
+      "spending": 7800898.8023683205
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 371,
+      "spending": 7856611.373429935
+    }
+  ],
+  "totalEstimatedSpending": 215041922
+}

@@ -1,1 +1,81 @@
-{"id":180286,"name":"CORRECTIONAL VENDORS ASSOCIATION","slug":"correctional-vendors-association","state":"DC","description":null,"totalSpending":1890000,"filings":27,"yearlySpending":[{"year":2018,"income":230000},{"year":2019,"income":360000},{"year":2020,"income":200000},{"year":2021,"income":170000},{"year":2022,"income":180000},{"year":2023,"income":280000},{"year":2024,"income":200000},{"year":2025,"income":270000}],"firms":["THE LEONARD GROUP"],"lobbyists":["MARCEL VAN ROBAEYS","KATHLEEN LEONARD"],"issues":["LAW",null],"sampleDescriptions":["Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 2019 Appropriations Bills; FY 2019 National Defense Authorization Act.","Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 2020 Appropriations Bills; FY 2020 National Defense Authorization Act.","Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 2021 Appropriations Bills; FY 2021 National Defense Authorization Act.","Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 2021/22 Appropriations Bills; FY 2021/22 National Defense Authorization Act.","Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 22 Appropriations Bills; FY 2022 National Defense Authorization Act.","Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 25 Appropriations Bills; FY 2025 National Defense Authorization Act.","Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 26 Appropriations Bills; FY 2026 National Defense Authorization Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 180286,
+  "name": "CORRECTIONAL VENDORS ASSOCIATION",
+  "slug": "correctional-vendors-association",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 1890000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 230000
+    },
+    {
+      "year": 2019,
+      "income": 360000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 170000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "THE LEONARD GROUP"
+  ],
+  "lobbyists": [
+    "MARCEL VAN ROBAEYS",
+    "KATHLEEN LEONARD"
+  ],
+  "issues": [
+    "LAW",
+    null
+  ],
+  "sampleDescriptions": [
+    "Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 2019 Appropriations Bills; FY 2019 National Defense Authorization Act.",
+    "Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 2020 Appropriations Bills; FY 2020 National Defense Authorization Act.",
+    "Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 2021 Appropriations Bills; FY 2021 National Defense Authorization Act.",
+    "Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 2021/22 Appropriations Bills; FY 2021/22 National Defense Authorization Act.",
+    "Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 22 Appropriations Bills; FY 2022 National Defense Authorization Act.",
+    "Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 25 Appropriations Bills; FY 2025 National Defense Authorization Act.",
+    "Federal Prison Industries related issues, generally, and the provisions for such in the following pieces of specific legislation: All FY 26 Appropriations Bills; FY 2026 National Defense Authorization Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 17,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 236250,
+  "peakYear": 2019,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 1
+}

@@ -1,1 +1,76 @@
-{"id":205980,"name":"CONSUMER ACCESS TO REPAIR (CAR) COALITION","slug":"consumer-access-to-repair-car-coalition","state":"DC","description":"&#226;€‹Coalition representing automotive collision parts industry","totalSpending":2060000,"filings":19,"yearlySpending":[{"year":2020,"income":300000},{"year":2021,"income":440000},{"year":2022,"income":220000},{"year":2023,"income":440000},{"year":2024,"income":330000},{"year":2025,"income":330000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["BILL VINEY","JENNIFER LUKAWSKI","JONATHAN MANTZ","ERSKINE WELLS","ANDREW LEWIN","JUSTIN RZEPKA","JOSEPH LAI","PETE LANDRUM","ROBIN COLWELL","SYD TERRY","PETER LEWIS"],"issues":["TRA","AUT",null],"sampleDescriptions":["Provide strategic counsel to preserve consumer choice and affordable repair in the automotive collision parts industry"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 205980,
+  "name": "CONSUMER ACCESS TO REPAIR (CAR) COALITION",
+  "slug": "consumer-access-to-repair-car-coalition",
+  "state": "DC",
+  "description": "&#226;€‹Coalition representing automotive collision parts industry",
+  "totalSpending": 2060000,
+  "filings": 19,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 300000
+    },
+    {
+      "year": 2021,
+      "income": 440000
+    },
+    {
+      "year": 2022,
+      "income": 220000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 330000
+    },
+    {
+      "year": 2025,
+      "income": 330000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "BILL VINEY",
+    "JENNIFER LUKAWSKI",
+    "JONATHAN MANTZ",
+    "ERSKINE WELLS",
+    "ANDREW LEWIN",
+    "JUSTIN RZEPKA",
+    "JOSEPH LAI",
+    "PETE LANDRUM",
+    "ROBIN COLWELL",
+    "SYD TERRY",
+    "PETER LEWIS"
+  ],
+  "issues": [
+    "TRA",
+    "AUT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Provide strategic counsel to preserve consumer choice and affordable repair in the automotive collision parts industry"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 10,
+  "trajectory": "stable",
+  "yearsActive": 6,
+  "avgAnnualSpending": 343333,
+  "peakYear": 2021,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "technology"
+}

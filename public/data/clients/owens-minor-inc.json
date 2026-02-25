@@ -1,1 +1,90 @@
-{"id":208799,"name":"OWENS & MINOR, INC.","slug":"owens-minor-inc","state":"VA","description":"Global healthcare solutions company.","totalSpending":1460000,"filings":18,"yearlySpending":[{"year":2021,"income":200000},{"year":2022,"income":300000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":320000}],"firms":["NVG, LLC"],"lobbyists":["JANE LOEWENSON","LISA FOSTER","BONNIE HOGUE DUFFY","BRADY KING","JOSHUA HURVITZ"],"issues":["HCR","MAN","BUD","DEF","MAR","HOM","MMM",null,"GOV","VET"],"sampleDescriptions":["Issues related to pandemic response and preparedness, the Strategic National Stockpile, and supply chain related to personal protective equipment (PPE).","Issues related to the Strategic National Stockpile and pandemic preparedness; \nStrengthening the Strategic National Stockpile Act (H.R.3635, S. 1974);\nMedical Supplies for Pandemics Act (H.R. 3463/S. 1693);\nImplementation of American Rescue Plan provisions related to personal protective equipment.","National Defense Authorization Act for Fiscal Year 2022: Issues related to personal protective equipment (PPE).","Issues related to port congestion pertaining to the supply chain and personal protective equipment (PPE).","FY22 LHHS and DHS report language on personal protective equipment (PPE).","Make PPE in America Act (included in the United States Innovation and Competition Act).","Issues related to the Strategic National Stockpile and pandemic preparedness; \nStrengthening the Strategic National Stockpile Act (H.R. 3635/S. 1974);\nMedical Supplies for Pandemics Act (H.R. 3463/S. 1693);\nProtecting Providers Everywhere (PPE) in America Act (H.R. 1436/S. 308);\nImplementation of American Rescue Plan provisions related to personal protective equipment (PPE);\nIssues related to supply chain for personal protective equipment (PPE);\nIssues related to pandemic preparedness.","National Defense Authorization Act for Fiscal Year 2022: Issues related to health care personal protective equipment (PPE).","Make PPE in America Act (included in the United States Innovation and Competition Act and the Infrastructure Investment and Jobs Act).","National Defense Authorization Act for FY 2022: Issues related to health care personal protective equipment (PPE).","Issues related to the Strategic National Stockpile and pandemic preparedness; \nStrengthening the Strategic National Stockpile Act (H.R. 3635/S. 1974);\nMedical Supplies for Pandemics Act (H.R. 3463/S. 1693);\nProtecting Providers Everywhere (PPE) in America Act (H.R. 1436/S. 308);\nIssues related to supply chain for personal protective equipment (PPE);\nIssues related to personal protective equipment (PPE) and pandemic preparedness.","Make PPE in America Act, included in the Infrastructure Investment and Jobs Act (P.L 117-58);\nProtecting American Heroes Act (S. 4368; 116).","FY 2022 LHHS and DHS report language on personal protective equipment (PPE).","Issues related to the Strategic National Stockpile and pandemic preparedness. H.R.3635/S.1974 - Strengthening America's Strategic National Stockpile Act of 2021. H.R.3463/S.1693 - Medical Supplies for Pandemics Act of 2021. Issues related to supply chain for personal protective equipment (PPE). Issues related to personal protective equipment (PPE) and pandemic preparedness. S.3799 - PREVENT Pandemics Act.","Issues related to health care personal protective equipment (PPE). H.R.4350/S.1605 - National Defense Authorization Act for Fiscal Year 2022.","Procurement of personal protectective equipment by federal agencies. S.1260 - United States Innovation and Competition Act of 2021. H.R.4521 - America COMPETES Act of 2022.","FY 2023 VA and LHHS appropriations language related to personal protective equipment.","Procurement of Personal Protective Equipment (S.1260 - United States Innovation and Competition Act of 2021 and H.R.4521 - America COMPETES Act of 2022).","CY 2023 OPPS proposed rule related to payment adjustment for domestic N95 respirators. Issues related to the Medicare home oxygen therapy benefit. Issues related to competitive bidding for durable medical equipment, including H.R.6641 - DRA of 2022. Payment and documentation issues related to Public Health Emergency (PHE) flexibilities.","Issues related to the Strategic National Stockpile and pandemic preparedness. H.R.3635/S.1974 - Strengthening America's Strategic National Stockpile Act of 2021. Issues related to pandemic preparedness in P.L. 117-328 Consolidated Appropriations Act, 2023. S.3799 - PREVENT Pandemics Act."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 208799,
+  "name": "OWENS & MINOR, INC.",
+  "slug": "owens-minor-inc",
+  "state": "VA",
+  "description": "Global healthcare solutions company.",
+  "totalSpending": 1460000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "NVG, LLC"
+  ],
+  "lobbyists": [
+    "JANE LOEWENSON",
+    "LISA FOSTER",
+    "BONNIE HOGUE DUFFY",
+    "BRADY KING",
+    "JOSHUA HURVITZ"
+  ],
+  "issues": [
+    "HCR",
+    "MAN",
+    "BUD",
+    "DEF",
+    "MAR",
+    "HOM",
+    "MMM",
+    null,
+    "GOV",
+    "VET"
+  ],
+  "sampleDescriptions": [
+    "Issues related to pandemic response and preparedness, the Strategic National Stockpile, and supply chain related to personal protective equipment (PPE).",
+    "Issues related to the Strategic National Stockpile and pandemic preparedness; \nStrengthening the Strategic National Stockpile Act (H.R.3635, S. 1974);\nMedical Supplies for Pandemics Act (H.R. 3463/S. 1693);\nImplementation of American Rescue Plan provisions related to personal protective equipment.",
+    "National Defense Authorization Act for Fiscal Year 2022: Issues related to personal protective equipment (PPE).",
+    "Issues related to port congestion pertaining to the supply chain and personal protective equipment (PPE).",
+    "FY22 LHHS and DHS report language on personal protective equipment (PPE).",
+    "Make PPE in America Act (included in the United States Innovation and Competition Act).",
+    "Issues related to the Strategic National Stockpile and pandemic preparedness; \nStrengthening the Strategic National Stockpile Act (H.R. 3635/S. 1974);\nMedical Supplies for Pandemics Act (H.R. 3463/S. 1693);\nProtecting Providers Everywhere (PPE) in America Act (H.R. 1436/S. 308);\nImplementation of American Rescue Plan provisions related to personal protective equipment (PPE);\nIssues related to supply chain for personal protective equipment (PPE);\nIssues related to pandemic preparedness.",
+    "National Defense Authorization Act for Fiscal Year 2022: Issues related to health care personal protective equipment (PPE).",
+    "Make PPE in America Act (included in the United States Innovation and Competition Act and the Infrastructure Investment and Jobs Act).",
+    "National Defense Authorization Act for FY 2022: Issues related to health care personal protective equipment (PPE).",
+    "Issues related to the Strategic National Stockpile and pandemic preparedness; \nStrengthening the Strategic National Stockpile Act (H.R. 3635/S. 1974);\nMedical Supplies for Pandemics Act (H.R. 3463/S. 1693);\nProtecting Providers Everywhere (PPE) in America Act (H.R. 1436/S. 308);\nIssues related to supply chain for personal protective equipment (PPE);\nIssues related to personal protective equipment (PPE) and pandemic preparedness.",
+    "Make PPE in America Act, included in the Infrastructure Investment and Jobs Act (P.L 117-58);\nProtecting American Heroes Act (S. 4368; 116).",
+    "FY 2022 LHHS and DHS report language on personal protective equipment (PPE).",
+    "Issues related to the Strategic National Stockpile and pandemic preparedness. H.R.3635/S.1974 - Strengthening America's Strategic National Stockpile Act of 2021. H.R.3463/S.1693 - Medical Supplies for Pandemics Act of 2021. Issues related to supply chain for personal protective equipment (PPE). Issues related to personal protective equipment (PPE) and pandemic preparedness. S.3799 - PREVENT Pandemics Act.",
+    "Issues related to health care personal protective equipment (PPE). H.R.4350/S.1605 - National Defense Authorization Act for Fiscal Year 2022.",
+    "Procurement of personal protectective equipment by federal agencies. S.1260 - United States Innovation and Competition Act of 2021. H.R.4521 - America COMPETES Act of 2022.",
+    "FY 2023 VA and LHHS appropriations language related to personal protective equipment.",
+    "Procurement of Personal Protective Equipment (S.1260 - United States Innovation and Competition Act of 2021 and H.R.4521 - America COMPETES Act of 2022).",
+    "CY 2023 OPPS proposed rule related to payment adjustment for domestic N95 respirators. Issues related to the Medicare home oxygen therapy benefit. Issues related to competitive bidding for durable medical equipment, including H.R.6641 - DRA of 2022. Payment and documentation issues related to Public Health Emergency (PHE) flexibilities.",
+    "Issues related to the Strategic National Stockpile and pandemic preparedness. H.R.3635/S.1974 - Strengthening America's Strategic National Stockpile Act of 2021. Issues related to pandemic preparedness in P.L. 117-328 Consolidated Appropriations Act, 2023. S.3799 - PREVENT Pandemics Act."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 60,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 292000,
+  "peakYear": 2023,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 9
+}

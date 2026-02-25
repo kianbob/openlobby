@@ -1,1 +1,111 @@
-{"id":183679,"name":"COUNTY OF ALAMEDA CALIFORNIA","slug":"county-of-alameda-california","state":"CA","description":null,"totalSpending":1450000,"filings":29,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["CJ LAKE, LLC"],"lobbyists":["EMILY BACQUE DA SILVA","LYNNETTE JACQUEZ","ANDREW LUND","PATRICK BYRNE","CHRISTOPHER SCHULTE","CURTIS ERDMANN","JOHN ASSINI","KEVIN FORGETT","NADIAH COOPER"],"issues":["ENG","AGR","HCR","LBR","LAW","HOU","IMM","WEL","BUD","DIS",null,"MMM"],"sampleDescriptions":["Support EV Everywhere Program, support development of Green Jobs.","Oppose any cuts to the SNAP program, oppose proposed changes to school nutrition standards in FY18 (HR 1625) and FY19 Agriculture Appropriations.","Support funding for foster care and after school programs; support funding for Substance Abuse and Mental Health Services Administration. Oppose proposal to block grant Medicaid, curtail or eliminate Medicaid Provider taxes; oppose potential cuts to public health funds and cuts to PATH and SAMHSA in FY18 Labor HHS FY18 appropriations (HR 1625) and FY19. Support Medicare State Insurance Assistance Program; support Senior Community Service Employment Program, and support assets for Independence Program. Support Longterm reauthorization of CHIP and Community Health Center. Oppose elimination of Social Security Block Grant.","Support workforce development initiatives, support youth jobs, support peer to peer mentoring for re-entry population in FY18 Department of Labor workforce development initiatives.","FY18 Appropriations Bill (HR 1625) and FY19 appropriations: Departments of Commerce, Justice & Science. Support funding for law enforcement interoperable communications equipment; support funding for prisoner re-entry programs; support funding for COPS hiring program. Support creation of Multi-Agency Public Safety Task Force; support funding to address rape kit backlog. Oppose cuts in the President's FY18 budget related to state and local Justice programs. Oppose recession of DACA.","FY18 Appropriations bill (HR 1625) and FY19 appropriations: Transportation HUD, Support funding for housing programs including Community Development Block Grants; Shelter Plus Care program and homeless assistance, support funding for senior housing, support funding for HOME program, oppose proposed cuts to HOME program, support funding for lead abatement programs. Oppose FY18 budget proposal to cut CDBG funding.","Support workforce development initiatives, support youth jobs, support peer to peer mentoring for re-entry population in FY19 Department of Labor workforce development initiatives and worker retraining.","Oppose any cuts to the SNAP program in House Farm Bill (HR 2), oppose proposed changes to school nutrition standards in FY19 (HR 5961) Agriculture Appropriations.","Support funding for foster care and after school programs; support funding for Substance Abuse and Mental Health Services Administration. Oppose proposal to block grant Medicaid, curtail or eliminate Medicaid Provider taxes; oppose potential cuts to public health funds and cuts to PATH and SAMHSA in FY19 Labor HHS appropriations. Support Medicare State Insurance Assistance Program; support Senior Community Service Employment Program, and support assets for Independence Program. Oppose elimination of Social Security Block Grant.","FY19 Appropriations bill (HR 6072): Transportation HUD, Support funding for housing programs including Community Development Block Grants; Shelter Plus Care program and homeless assistance, support funding for senior housing, support funding for HOME program, oppose proposed cuts to HOME program, support funding for lead abatement programs. Oppose FY19 budget proposal to cut CDBG funding.","FY19 appropriations (HR 5952): Departments of Commerce, Justice & Science. Support funding for law enforcement interoperable communications equipment; support funding for prisoner re-entry programs; support funding for COPS hiring program. Support creation of Multi-Agency Public Safety Task Force; support funding to address rape kit backlog. Oppose cuts in the President's FY19 budget related to state and local Justice programs. Oppose rescission of DACA. Oppose zero tolerance and family separation policy.","FY19 Appropriations bill (HR 6147): Transportation HUD, Support funding for housing programs including Community Development Block Grants; Shelter Plus Care program and homeless assistance, support funding for senior housing, support funding for HOME program, oppose proposed cuts to HOME program, support funding for lead abatement programs. Oppose FY19 budget proposal to cut CDBG funding.","Oppose any cuts to the SNAP program in House Farm Bill (HR 2), oppose proposed changes to school nutrition standards in FY19 (HR 6147) Agriculture Appropriations.","Support funding for foster care and after school programs; support funding for Substance Abuse and Mental Health Services Administration. Oppose proposal to block grant Medicaid, curtail or eliminate Medicaid Provider taxes; oppose potential cuts to public health funds and cuts to PATH and SAMHSA in FY19 (HR 6157) Labor HHS appropriations. Support Medicare State Insurance Assistance Program; support Senior Community Service Employment Program, and support assets for Independence Program. Oppose elimination of Social Security Block Grant.","Oppose rescission of DACA. Oppose zero tolerance and family separation policy. Oppose draft and proposed rule entitled, \"Inadmissibility on Public Charge Grounds.\"","Support workforce development initiatives, support youth jobs, support peer to peer mentoring for re-entry population in FY19 (HR 6157)\nDepartment of Labor workforce development initiatives and worker retraining.","FY19 appropriations (HR 5952): Departments of Commerce, Justice & Science. Support funding for law enforcement interoperable communications equipment; support funding for prisoner re-entry programs; support funding for COPS hiring program. Support creation of Multi-Agency Public Safety Task Force; support funding to address rape kit backlog. Oppose cuts in the President's FY19 budget related to state and local Justice programs.","Oppose rescission of DACA. Oppose zero tolerance and family separation policy. Oppose draft and proposed rule entitled, \"Inadmissibility on Public Charge Grounds.\" Oppose changes to visa fee waiver eligibility criteria form.","Support extension of Title IV-E waiver and S. 107, State Flexibility for Family First Transition Act.","FY20 appropriations bills: Transportation-HUD, support funding for housing programs including Community Development Block Grants; Shelter Plus Care program and homeless assistance, support funding for senior housing, support funding for HOME program, oppose proposed cuts to HOME program, support funding for lead abatement programs. Oppose FY20 budget proposal to cut CDBG funding."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 183679,
+  "name": "COUNTY OF ALAMEDA CALIFORNIA",
+  "slug": "county-of-alameda-california",
+  "state": "CA",
+  "description": null,
+  "totalSpending": 1450000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CJ LAKE, LLC"
+  ],
+  "lobbyists": [
+    "EMILY BACQUE DA SILVA",
+    "LYNNETTE JACQUEZ",
+    "ANDREW LUND",
+    "PATRICK BYRNE",
+    "CHRISTOPHER SCHULTE",
+    "CURTIS ERDMANN",
+    "JOHN ASSINI",
+    "KEVIN FORGETT",
+    "NADIAH COOPER"
+  ],
+  "issues": [
+    "ENG",
+    "AGR",
+    "HCR",
+    "LBR",
+    "LAW",
+    "HOU",
+    "IMM",
+    "WEL",
+    "BUD",
+    "DIS",
+    null,
+    "MMM"
+  ],
+  "sampleDescriptions": [
+    "Support EV Everywhere Program, support development of Green Jobs.",
+    "Oppose any cuts to the SNAP program, oppose proposed changes to school nutrition standards in FY18 (HR 1625) and FY19 Agriculture Appropriations.",
+    "Support funding for foster care and after school programs; support funding for Substance Abuse and Mental Health Services Administration. Oppose proposal to block grant Medicaid, curtail or eliminate Medicaid Provider taxes; oppose potential cuts to public health funds and cuts to PATH and SAMHSA in FY18 Labor HHS FY18 appropriations (HR 1625) and FY19. Support Medicare State Insurance Assistance Program; support Senior Community Service Employment Program, and support assets for Independence Program. Support Longterm reauthorization of CHIP and Community Health Center. Oppose elimination of Social Security Block Grant.",
+    "Support workforce development initiatives, support youth jobs, support peer to peer mentoring for re-entry population in FY18 Department of Labor workforce development initiatives.",
+    "FY18 Appropriations Bill (HR 1625) and FY19 appropriations: Departments of Commerce, Justice & Science. Support funding for law enforcement interoperable communications equipment; support funding for prisoner re-entry programs; support funding for COPS hiring program. Support creation of Multi-Agency Public Safety Task Force; support funding to address rape kit backlog. Oppose cuts in the President's FY18 budget related to state and local Justice programs. Oppose recession of DACA.",
+    "FY18 Appropriations bill (HR 1625) and FY19 appropriations: Transportation HUD, Support funding for housing programs including Community Development Block Grants; Shelter Plus Care program and homeless assistance, support funding for senior housing, support funding for HOME program, oppose proposed cuts to HOME program, support funding for lead abatement programs. Oppose FY18 budget proposal to cut CDBG funding.",
+    "Support workforce development initiatives, support youth jobs, support peer to peer mentoring for re-entry population in FY19 Department of Labor workforce development initiatives and worker retraining.",
+    "Oppose any cuts to the SNAP program in House Farm Bill (HR 2), oppose proposed changes to school nutrition standards in FY19 (HR 5961) Agriculture Appropriations.",
+    "Support funding for foster care and after school programs; support funding for Substance Abuse and Mental Health Services Administration. Oppose proposal to block grant Medicaid, curtail or eliminate Medicaid Provider taxes; oppose potential cuts to public health funds and cuts to PATH and SAMHSA in FY19 Labor HHS appropriations. Support Medicare State Insurance Assistance Program; support Senior Community Service Employment Program, and support assets for Independence Program. Oppose elimination of Social Security Block Grant.",
+    "FY19 Appropriations bill (HR 6072): Transportation HUD, Support funding for housing programs including Community Development Block Grants; Shelter Plus Care program and homeless assistance, support funding for senior housing, support funding for HOME program, oppose proposed cuts to HOME program, support funding for lead abatement programs. Oppose FY19 budget proposal to cut CDBG funding.",
+    "FY19 appropriations (HR 5952): Departments of Commerce, Justice & Science. Support funding for law enforcement interoperable communications equipment; support funding for prisoner re-entry programs; support funding for COPS hiring program. Support creation of Multi-Agency Public Safety Task Force; support funding to address rape kit backlog. Oppose cuts in the President's FY19 budget related to state and local Justice programs. Oppose rescission of DACA. Oppose zero tolerance and family separation policy.",
+    "FY19 Appropriations bill (HR 6147): Transportation HUD, Support funding for housing programs including Community Development Block Grants; Shelter Plus Care program and homeless assistance, support funding for senior housing, support funding for HOME program, oppose proposed cuts to HOME program, support funding for lead abatement programs. Oppose FY19 budget proposal to cut CDBG funding.",
+    "Oppose any cuts to the SNAP program in House Farm Bill (HR 2), oppose proposed changes to school nutrition standards in FY19 (HR 6147) Agriculture Appropriations.",
+    "Support funding for foster care and after school programs; support funding for Substance Abuse and Mental Health Services Administration. Oppose proposal to block grant Medicaid, curtail or eliminate Medicaid Provider taxes; oppose potential cuts to public health funds and cuts to PATH and SAMHSA in FY19 (HR 6157) Labor HHS appropriations. Support Medicare State Insurance Assistance Program; support Senior Community Service Employment Program, and support assets for Independence Program. Oppose elimination of Social Security Block Grant.",
+    "Oppose rescission of DACA. Oppose zero tolerance and family separation policy. Oppose draft and proposed rule entitled, \"Inadmissibility on Public Charge Grounds.\"",
+    "Support workforce development initiatives, support youth jobs, support peer to peer mentoring for re-entry population in FY19 (HR 6157)\nDepartment of Labor workforce development initiatives and worker retraining.",
+    "FY19 appropriations (HR 5952): Departments of Commerce, Justice & Science. Support funding for law enforcement interoperable communications equipment; support funding for prisoner re-entry programs; support funding for COPS hiring program. Support creation of Multi-Agency Public Safety Task Force; support funding to address rape kit backlog. Oppose cuts in the President's FY19 budget related to state and local Justice programs.",
+    "Oppose rescission of DACA. Oppose zero tolerance and family separation policy. Oppose draft and proposed rule entitled, \"Inadmissibility on Public Charge Grounds.\" Oppose changes to visa fee waiver eligibility criteria form.",
+    "Support extension of Title IV-E waiver and S. 107, State Flexibility for Family First Transition Act.",
+    "FY20 appropriations bills: Transportation-HUD, support funding for housing programs including Community Development Block Grants; Shelter Plus Care program and homeless assistance, support funding for senior housing, support funding for HOME program, oppose proposed cuts to HOME program, support funding for lead abatement programs. Oppose FY20 budget proposal to cut CDBG funding."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 181250,
+  "peakYear": 2018,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 11
+}

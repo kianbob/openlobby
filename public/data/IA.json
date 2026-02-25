@@ -1,1 +1,329 @@
-{"abbreviation":"IA","name":"Iowa","totalSpending":47062035,"totalFilings":2564,"clientCount":143,"yearlySpending":[{"year":2018,"income":3991300},{"year":2019,"income":4602400},{"year":2020,"income":4202400},{"year":2021,"income":4509600},{"year":2022,"income":5260100},{"year":2023,"income":13156000},{"year":2024,"income":4555372},{"year":2025,"income":6784863}],"topClients":[{"name":"RENEWABLE ENERGY GROUP, INC.","income":2690000},{"name":"BERKSHIRE HATHAWAY ENERGY","income":2690000},{"name":"INNOVATION REFUNDS LLC","income":1613500},{"name":"SAC & FOX TRIBE OF THE MISSISSIPPI IN IOWA","income":1550000},{"name":"WOODBERRY ASSOCIATES LLC ON BEHALF OF COLORADO STATE UNIVERSITY FOUNDATION","income":1450000},{"name":"RAIN AND HAIL LLC","income":1395000},{"name":"PURFOODS, LLC","income":1360000},{"name":"WORKIVA","income":1360000},{"name":"POLK COUNTY, IOWA","income":1355000},{"name":"CITY OF DAVENPORT","income":1320000},{"name":"FIDELITY AND GUARANTY LIFE","income":1250000},{"name":"HNI CORPORATION","income":1235235},{"name":"PERPETUA RESOURCES","income":1200000},{"name":"IOWA INTERSTATE RAILROAD, LTD","income":1185000},{"name":"IOWA CONFLUENCE WATER TRAILS (FORMERLY CENTRAL IOWA WATER TRAILS)","income":970000},{"name":"INTOXALOCK","income":960000},{"name":"UNITY POINT HEALTH","income":850000},{"name":"TRANSAMERICA LIFE INSURANCE COMPANY","income":790000},{"name":"FEDERAL HOME LOAN BANK OF DES MOINES (FORMERLY KNOWN AS SEATTLE/DES MOINES)","income":750000},{"name":"SOO GREEN HVDC LINK","income":675000},{"name":"CITY OF CEDAR RAPIDS, IOWA","income":660000},{"name":"ALASKA RAILROAD","income":650000},{"name":"SOUTHEASTERN COMMUNITY COLLEGE","income":630000},{"name":"WELLMAN DYNAMICS","income":610000},{"name":"FIDELITY & GUARANTY LIFE INSURANCE COMPANY","income":590000},{"name":"IOWA STUDENT LOAN LIQUIDITY CORPORATION","income":546300},{"name":"THE BUS COALITION","income":540000},{"name":"BRALE INC.","income":540000},{"name":"UNITYPOINT HEALTH","income":530000},{"name":"AMERICAN EQUITY INVESTMENT LIFE HOLDING COMPANY","income":520000},{"name":"CITY OF DES MOINES","income":500000},{"name":"MCI, LC","income":480000},{"name":"MERCY MEDICAL CENTER","income":480000},{"name":"CEDAR VALLEY MEDICAL SPECIALISTS, P.C.","income":445000},{"name":"MCCORD HEALTH INC","income":440000},{"name":"DIGITAL DIAGNOSTICS INC (FKA: IDX TECHNOLOGIES INC.)","income":420000},{"name":"SCOLA","income":410000},{"name":"DES MOINES WATER WORKS","income":400000},{"name":"CARDIOLOGY ADVOCACY ALLIANCE","income":371000},{"name":"WORKIVA (FORMERLY WEBFILINGS / WEBFILINGS)","income":360000},{"name":"THE GREAT OUTDOORS FOUNDATION","income":360000},{"name":"NATIONAL CO+OP GROCERS","income":340000},{"name":"BOYD GAMING CORPORATION","income":340000},{"name":"WAYNE COUNTY HOSPITAL","income":340000},{"name":"DES MOINES AREA REGIONAL TRANSIT AUTHORITY (DART)","income":335000},{"name":"MERCHANTS BONDING COMPANY","income":332500},{"name":"WORKIVA, INC","income":330000},{"name":"PIVOT BIO","income":330000},{"name":"MOMS MEALS","income":330000},{"name":"ACT, INC.","income":325000}],"topIssues":[{"code":"BUD","income":10332500},{"code":"TAX","income":9347642},{"code":"HCR","income":6251000},{"code":"TRA","income":5435000},{"code":"AGR","income":4580000},{"code":"MMM","income":4213000},{"code":"DEF","income":2950000},{"code":"FIN","income":2910000},{"code":"ENG","income":2285000},{"code":"BAN","income":2260000},{"code":"ENV","income":1857235},{"code":"IND","income":1640000},{"code":"INS","income":1592500},{"code":"RRR","income":1575000},{"code":"EDU","income":1265300},{"code":"RET","income":1140000},{"code":"NAT","income":1080000},{"code":"URB","income":1070000},{"code":"SMB","income":1053500},{"code":"ROD","income":960000}]}
+{
+  "abbreviation": "IA",
+  "name": "Iowa",
+  "totalSpending": 47062035,
+  "totalFilings": 2564,
+  "clientCount": 143,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 3991300
+    },
+    {
+      "year": 2019,
+      "income": 4602400
+    },
+    {
+      "year": 2020,
+      "income": 4202400
+    },
+    {
+      "year": 2021,
+      "income": 4509600
+    },
+    {
+      "year": 2022,
+      "income": 5260100
+    },
+    {
+      "year": 2023,
+      "income": 13156000
+    },
+    {
+      "year": 2024,
+      "income": 4555372
+    },
+    {
+      "year": 2025,
+      "income": 6784863
+    }
+  ],
+  "topClients": [
+    {
+      "name": "RENEWABLE ENERGY GROUP, INC.",
+      "income": 2690000
+    },
+    {
+      "name": "BERKSHIRE HATHAWAY ENERGY",
+      "income": 2690000
+    },
+    {
+      "name": "INNOVATION REFUNDS LLC",
+      "income": 1613500
+    },
+    {
+      "name": "SAC & FOX TRIBE OF THE MISSISSIPPI IN IOWA",
+      "income": 1550000
+    },
+    {
+      "name": "WOODBERRY ASSOCIATES LLC ON BEHALF OF COLORADO STATE UNIVERSITY FOUNDATION",
+      "income": 1450000
+    },
+    {
+      "name": "RAIN AND HAIL LLC",
+      "income": 1395000
+    },
+    {
+      "name": "PURFOODS, LLC",
+      "income": 1360000
+    },
+    {
+      "name": "WORKIVA",
+      "income": 1360000
+    },
+    {
+      "name": "POLK COUNTY, IOWA",
+      "income": 1355000
+    },
+    {
+      "name": "CITY OF DAVENPORT",
+      "income": 1320000
+    },
+    {
+      "name": "FIDELITY AND GUARANTY LIFE",
+      "income": 1250000
+    },
+    {
+      "name": "HNI CORPORATION",
+      "income": 1235235
+    },
+    {
+      "name": "PERPETUA RESOURCES",
+      "income": 1200000
+    },
+    {
+      "name": "IOWA INTERSTATE RAILROAD, LTD",
+      "income": 1185000
+    },
+    {
+      "name": "IOWA CONFLUENCE WATER TRAILS (FORMERLY CENTRAL IOWA WATER TRAILS)",
+      "income": 970000
+    },
+    {
+      "name": "INTOXALOCK",
+      "income": 960000
+    },
+    {
+      "name": "UNITY POINT HEALTH",
+      "income": 850000
+    },
+    {
+      "name": "TRANSAMERICA LIFE INSURANCE COMPANY",
+      "income": 790000
+    },
+    {
+      "name": "FEDERAL HOME LOAN BANK OF DES MOINES (FORMERLY KNOWN AS SEATTLE/DES MOINES)",
+      "income": 750000
+    },
+    {
+      "name": "SOO GREEN HVDC LINK",
+      "income": 675000
+    },
+    {
+      "name": "CITY OF CEDAR RAPIDS, IOWA",
+      "income": 660000
+    },
+    {
+      "name": "ALASKA RAILROAD",
+      "income": 650000
+    },
+    {
+      "name": "SOUTHEASTERN COMMUNITY COLLEGE",
+      "income": 630000
+    },
+    {
+      "name": "WELLMAN DYNAMICS",
+      "income": 610000
+    },
+    {
+      "name": "FIDELITY & GUARANTY LIFE INSURANCE COMPANY",
+      "income": 590000
+    },
+    {
+      "name": "IOWA STUDENT LOAN LIQUIDITY CORPORATION",
+      "income": 546300
+    },
+    {
+      "name": "THE BUS COALITION",
+      "income": 540000
+    },
+    {
+      "name": "BRALE INC.",
+      "income": 540000
+    },
+    {
+      "name": "UNITYPOINT HEALTH",
+      "income": 530000
+    },
+    {
+      "name": "AMERICAN EQUITY INVESTMENT LIFE HOLDING COMPANY",
+      "income": 520000
+    },
+    {
+      "name": "CITY OF DES MOINES",
+      "income": 500000
+    },
+    {
+      "name": "MCI, LC",
+      "income": 480000
+    },
+    {
+      "name": "MERCY MEDICAL CENTER",
+      "income": 480000
+    },
+    {
+      "name": "CEDAR VALLEY MEDICAL SPECIALISTS, P.C.",
+      "income": 445000
+    },
+    {
+      "name": "MCCORD HEALTH INC",
+      "income": 440000
+    },
+    {
+      "name": "DIGITAL DIAGNOSTICS INC (FKA: IDX TECHNOLOGIES INC.)",
+      "income": 420000
+    },
+    {
+      "name": "SCOLA",
+      "income": 410000
+    },
+    {
+      "name": "DES MOINES WATER WORKS",
+      "income": 400000
+    },
+    {
+      "name": "CARDIOLOGY ADVOCACY ALLIANCE",
+      "income": 371000
+    },
+    {
+      "name": "WORKIVA (FORMERLY WEBFILINGS / WEBFILINGS)",
+      "income": 360000
+    },
+    {
+      "name": "THE GREAT OUTDOORS FOUNDATION",
+      "income": 360000
+    },
+    {
+      "name": "NATIONAL CO+OP GROCERS",
+      "income": 340000
+    },
+    {
+      "name": "BOYD GAMING CORPORATION",
+      "income": 340000
+    },
+    {
+      "name": "WAYNE COUNTY HOSPITAL",
+      "income": 340000
+    },
+    {
+      "name": "DES MOINES AREA REGIONAL TRANSIT AUTHORITY (DART)",
+      "income": 335000
+    },
+    {
+      "name": "MERCHANTS BONDING COMPANY",
+      "income": 332500
+    },
+    {
+      "name": "WORKIVA, INC",
+      "income": 330000
+    },
+    {
+      "name": "PIVOT BIO",
+      "income": 330000
+    },
+    {
+      "name": "MOMS MEALS",
+      "income": 330000
+    },
+    {
+      "name": "ACT, INC.",
+      "income": 325000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 10332500
+    },
+    {
+      "code": "TAX",
+      "income": 9347642
+    },
+    {
+      "code": "HCR",
+      "income": 6251000
+    },
+    {
+      "code": "TRA",
+      "income": 5435000
+    },
+    {
+      "code": "AGR",
+      "income": 4580000
+    },
+    {
+      "code": "MMM",
+      "income": 4213000
+    },
+    {
+      "code": "DEF",
+      "income": 2950000
+    },
+    {
+      "code": "FIN",
+      "income": 2910000
+    },
+    {
+      "code": "ENG",
+      "income": 2285000
+    },
+    {
+      "code": "BAN",
+      "income": 2260000
+    },
+    {
+      "code": "ENV",
+      "income": 1857235
+    },
+    {
+      "code": "IND",
+      "income": 1640000
+    },
+    {
+      "code": "INS",
+      "income": 1592500
+    },
+    {
+      "code": "RRR",
+      "income": 1575000
+    },
+    {
+      "code": "EDU",
+      "income": 1265300
+    },
+    {
+      "code": "RET",
+      "income": 1140000
+    },
+    {
+      "code": "NAT",
+      "income": 1080000
+    },
+    {
+      "code": "URB",
+      "income": 1070000
+    },
+    {
+      "code": "SMB",
+      "income": 1053500
+    },
+    {
+      "code": "ROD",
+      "income": 960000
+    }
+  ],
+  "perCapita": 16.63,
+  "population": 3207004,
+  "nationalRank": 40,
+  "perCapitaRank": 48
+}

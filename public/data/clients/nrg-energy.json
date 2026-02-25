@@ -1,1 +1,100 @@
-{"id":202173,"name":"NRG ENERGY","slug":"nrg-energy","state":"NJ","description":"electricity generation and retail electricity sales","totalSpending":1830000,"filings":34,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":210000},{"year":2020,"income":240000},{"year":2021,"income":300000},{"year":2022,"income":150000},{"year":2023,"income":300000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["LOT SIXTEEN LLC"],"lobbyists":["COLIN HAYES","JOSEPH EAVES","KELLIE DONNELLY","ELLIE CLANCY"],"issues":["ENG","TAX","BUD",null,"DEF"],"sampleDescriptions":["Energy policy, infrastructure, and power generation.\nImplementation of the Federal Power Act.\nClean Coal Power Initiative support for carbon capture and sequestration and enhanced oil recovery demonstration project.","Energy policy, infrastructure, and power generation.\nImplementation of the Federal Power Act.\nClean Coal Power Initiative support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interiors Competitive Leasing Rule.","Energy, infrastructure, and power generation policy.\nImplementation of the Federal Power Act.\nDOE support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interiors Competitive Leasing Rule.","Energy, infrastructure, and power generation policy.\nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy.","Implementation of 45Q tax credit for carbon dioxide sequestration.","S. 903 Nuclear Energy Leadership Act.\nEnergy, infrastructure, and power generation policy.\nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy, including Forward Clean Energy Market concept.","Implementation of 45Q tax credit for carbon dioxide sequestration.\nS. 1327, S. 1405 and H.R. 2622 to amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.","Department of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.","S. 903 Nuclear Energy Leadership Act.\nEnergy, infrastructure, and power generation policy.\nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy, including Forward Clean Energy Market concept.\nS. 2556 cybersecurity legislation.\nS. 1602 energy storage legislation.","The American Energy Innovation Act, including advanced nuclear, energy storage, and cybersecurity provisions (S. 2657). \nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy, including Forward Clean Energy Market concept and the draft CLEAN Future Act (House draft bill).\nUtility shut-off moratoria as proposed for inclusion in the Coronavirus Aid, Relief, and Economic Security Act (H.R. 748) and related measures.","Department of Energy support for carbon capture and sequestration and enhanced oil recovery.","The American Energy Innovation Act, including advanced nuclear, energy storage, and cybersecurity provisions (S. 2657). \nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy, including Forward Clean Energy Market concept and the draft CLEAN Future Act (House draft bill) as well as the H.R.7516, a bill to advance innovation in and deployment of zero-emission electricity technology, and for other purposes.\nUtility shut-off moratoria as proposed for inclusion in the Coronavirus Aid, Relief, and Economic Security Act (H.R. 748) and related measures.\n[Kellie Donnelly is in her 'cooling off' period as a former U.S. Senate employee and, accordingly, has not lobbied anyone in the U.S. Senate.]","The Consolidated Appropriations Act, 2021 (H.R. 133)","The Consolidated Appropriations Act, 2021 (H.R. 133)\nImplementation of 45Q tax credit for carbon dioxide sequestration.","The Consolidated Appropriations Act, 2021 (H.R. 133)\nThe American Energy Innovation Act, including advanced nuclear, energy storage, and cybersecurity provisions (S. 2657). \nImplementation of the Federal Power Act, including market reforms to increase competition.\nClimate change policy, including Forward Clean Energy Market concept and the draft CLEAN Future Act (House draft bill) as well as the H.R.7516, a bill to advance innovation in and deployment of zero-emission electricity technology, and for other purposes.\nUtility shut-off moratoria as proposed for inclusion in the Coronavirus Aid, Relief, and Economic Security Act (H.R. 748) and related measures.\n[Kellie Donnelly is in her 'cooling off' period as a former U.S. Senate employee and, accordingly, has not lobbied anyone in the U.S. Senate.]","Electricity markets policy, including efforts to ensure and/or expand competitive wholesale markets.","Modifications to the 45Q tax credit for carbon capture, utilization and storage.","Funding levels for energy-related RD&D programs.","Electricity markets policy, including efforts to ensure and/or expand competitive wholesale markets. \nEnergy Infrastructure Act (an original bill considered in the Senate Energy & Natural Resources Committee)","Electricity markets policy, including efforts to ensure and/or expand competitive wholesale markets. Energy Infrastructure Act (an original bill considered in the Senate Energy & Natural Resources Committee)"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202173,
+  "name": "NRG ENERGY",
+  "slug": "nrg-energy",
+  "state": "NJ",
+  "description": "electricity generation and retail electricity sales",
+  "totalSpending": 1830000,
+  "filings": 34,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 210000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 300000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "LOT SIXTEEN LLC"
+  ],
+  "lobbyists": [
+    "COLIN HAYES",
+    "JOSEPH EAVES",
+    "KELLIE DONNELLY",
+    "ELLIE CLANCY"
+  ],
+  "issues": [
+    "ENG",
+    "TAX",
+    "BUD",
+    null,
+    "DEF"
+  ],
+  "sampleDescriptions": [
+    "Energy policy, infrastructure, and power generation.\nImplementation of the Federal Power Act.\nClean Coal Power Initiative support for carbon capture and sequestration and enhanced oil recovery demonstration project.",
+    "Energy policy, infrastructure, and power generation.\nImplementation of the Federal Power Act.\nClean Coal Power Initiative support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interiors Competitive Leasing Rule.",
+    "Energy, infrastructure, and power generation policy.\nImplementation of the Federal Power Act.\nDOE support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interiors Competitive Leasing Rule.",
+    "Energy, infrastructure, and power generation policy.\nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy.",
+    "Implementation of 45Q tax credit for carbon dioxide sequestration.",
+    "S. 903 Nuclear Energy Leadership Act.\nEnergy, infrastructure, and power generation policy.\nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy, including Forward Clean Energy Market concept.",
+    "Implementation of 45Q tax credit for carbon dioxide sequestration.\nS. 1327, S. 1405 and H.R. 2622 to amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.",
+    "Department of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.",
+    "S. 903 Nuclear Energy Leadership Act.\nEnergy, infrastructure, and power generation policy.\nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy, including Forward Clean Energy Market concept.\nS. 2556 cybersecurity legislation.\nS. 1602 energy storage legislation.",
+    "The American Energy Innovation Act, including advanced nuclear, energy storage, and cybersecurity provisions (S. 2657). \nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery demonstration project.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy, including Forward Clean Energy Market concept and the draft CLEAN Future Act (House draft bill).\nUtility shut-off moratoria as proposed for inclusion in the Coronavirus Aid, Relief, and Economic Security Act (H.R. 748) and related measures.",
+    "Department of Energy support for carbon capture and sequestration and enhanced oil recovery.",
+    "The American Energy Innovation Act, including advanced nuclear, energy storage, and cybersecurity provisions (S. 2657). \nImplementation of the Federal Power Act, including market reforms to increase competition.\nDepartment of Energy support for carbon capture and sequestration and enhanced oil recovery.\nDepartment of the Interior Competitive Leasing Rule.\nClimate change policy, including Forward Clean Energy Market concept and the draft CLEAN Future Act (House draft bill) as well as the H.R.7516, a bill to advance innovation in and deployment of zero-emission electricity technology, and for other purposes.\nUtility shut-off moratoria as proposed for inclusion in the Coronavirus Aid, Relief, and Economic Security Act (H.R. 748) and related measures.\n[Kellie Donnelly is in her 'cooling off' period as a former U.S. Senate employee and, accordingly, has not lobbied anyone in the U.S. Senate.]",
+    "The Consolidated Appropriations Act, 2021 (H.R. 133)",
+    "The Consolidated Appropriations Act, 2021 (H.R. 133)\nImplementation of 45Q tax credit for carbon dioxide sequestration.",
+    "The Consolidated Appropriations Act, 2021 (H.R. 133)\nThe American Energy Innovation Act, including advanced nuclear, energy storage, and cybersecurity provisions (S. 2657). \nImplementation of the Federal Power Act, including market reforms to increase competition.\nClimate change policy, including Forward Clean Energy Market concept and the draft CLEAN Future Act (House draft bill) as well as the H.R.7516, a bill to advance innovation in and deployment of zero-emission electricity technology, and for other purposes.\nUtility shut-off moratoria as proposed for inclusion in the Coronavirus Aid, Relief, and Economic Security Act (H.R. 748) and related measures.\n[Kellie Donnelly is in her 'cooling off' period as a former U.S. Senate employee and, accordingly, has not lobbied anyone in the U.S. Senate.]",
+    "Electricity markets policy, including efforts to ensure and/or expand competitive wholesale markets.",
+    "Modifications to the 45Q tax credit for carbon capture, utilization and storage.",
+    "Funding levels for energy-related RD&D programs.",
+    "Electricity markets policy, including efforts to ensure and/or expand competitive wholesale markets. \nEnergy Infrastructure Act (an original bill considered in the Senate Energy & Natural Resources Committee)",
+    "Electricity markets policy, including efforts to ensure and/or expand competitive wholesale markets. Energy Infrastructure Act (an original bill considered in the Senate Energy & Natural Resources Committee)"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -46,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 228750,
+  "peakYear": 2021,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "energy"
+}

@@ -1,1 +1,103 @@
-{"id":202455,"name":"OUTDOOR AMUSEMENT BUSINESS ASSOCIATION","slug":"outdoor-amusement-business-association","state":"FL","description":"To promote the preservation and growth of the outdoor amusement industry.","totalSpending":1400000,"filings":29,"yearlySpending":[{"year":2018,"income":100000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":195000},{"year":2024,"income":185000},{"year":2025,"income":170000}],"firms":["HB STRATEGIES"],"lobbyists":["GREGG HARTLEY","WILLIAM FOX","JOHN ARIALE","ERIC LAUSTEN","RUSSELL ORBAN","BRADLEY COOPER"],"issues":["BUD","IMM","LBR","TRA","TAX","AGR",null],"sampleDescriptions":["Issues related to the H2B visa program.","FY 19 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program. \n\nAuthorizing legislation to reform H2B program. Including HR 2004, HR 4207 and S. 792","FY 19 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program. \n\nAuthorizing legislation to reform H2B program. Including HR 2004, HR 4207 and S. 792\n\nPromote housing reform measures for mobile entertainment industry.","Issues related to truck fuel tax","Mobile Workforce Tax Bill HR 1393 and S.540","FY 20 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program; support policy initiatives that provide cap relief to H2B employers.","FY 20 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program. \n\nAuthorizing legislation to reform H2B program. \n\nPromote housing reform measures for mobile entertainment industry.","Advocate and support efforts to introduce a revised Mobile Workforce Tax Bill.","Advocate and support efforts to introduce a revised Mobile Workforce Tax Bill, monitor and promote initiatives related to heavy vehicle truck tax.","Monitor, track and advocate for legislation reforming H2B and guest visa programs.","Advocate and support initiatives related to heavy vehicle truck tax; expansion of the Shuttered Venue Grant Program, and H.R. 1319, American Rescue Plan Act of 2021.","FY 22 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program; support policy initiatives that provide cap relief to H2B employers.","Explore FY 22 Appropriations language prohibiting federal funding to enforce program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program.  Reforming visa opportunities for guest workers. Authorizing legislation to reform H2B program.\nPromote housing reform measures for mobile entertainment industry.","Advocate and support initiatives related to provide relief to the carnival and fairs industry, including the Agricultural Fairs Rescue Act of 2021.","Explore FY 22 Appropriations language prohibiting federal funding to enforce program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program. Reforming visa opportunities for guest workers. Authorizing legislation to reform H2B program. Promote housing reform measures for mobile entertainment industry.","Explore Appropriations language prohibiting federal funding to enforce program and wage rules. Issues related to returning worker exemption and H2B program. Issues related to visa opportunities for guest workers. Reformation of H2B program. Housing reform measures for mobile entertainment industry.","FY 23 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program; support policy initiatives that provide cap relief to H2B employers.","Advocate and support initiatives related to heavy vehicle truck tax.","Advocate and support initiatives to provide relief to the carnival and fairs industry.","FY 25 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program; support policy initiatives that provide cap relief to H2B employers."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202455,
+  "name": "OUTDOOR AMUSEMENT BUSINESS ASSOCIATION",
+  "slug": "outdoor-amusement-business-association",
+  "state": "FL",
+  "description": "To promote the preservation and growth of the outdoor amusement industry.",
+  "totalSpending": 1400000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 100000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 195000
+    },
+    {
+      "year": 2024,
+      "income": 185000
+    },
+    {
+      "year": 2025,
+      "income": 170000
+    }
+  ],
+  "firms": [
+    "HB STRATEGIES"
+  ],
+  "lobbyists": [
+    "GREGG HARTLEY",
+    "WILLIAM FOX",
+    "JOHN ARIALE",
+    "ERIC LAUSTEN",
+    "RUSSELL ORBAN",
+    "BRADLEY COOPER"
+  ],
+  "issues": [
+    "BUD",
+    "IMM",
+    "LBR",
+    "TRA",
+    "TAX",
+    "AGR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to the H2B visa program.",
+    "FY 19 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program. \n\nAuthorizing legislation to reform H2B program. Including HR 2004, HR 4207 and S. 792",
+    "FY 19 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program. \n\nAuthorizing legislation to reform H2B program. Including HR 2004, HR 4207 and S. 792\n\nPromote housing reform measures for mobile entertainment industry.",
+    "Issues related to truck fuel tax",
+    "Mobile Workforce Tax Bill HR 1393 and S.540",
+    "FY 20 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program; support policy initiatives that provide cap relief to H2B employers.",
+    "FY 20 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program. \n\nAuthorizing legislation to reform H2B program. \n\nPromote housing reform measures for mobile entertainment industry.",
+    "Advocate and support efforts to introduce a revised Mobile Workforce Tax Bill.",
+    "Advocate and support efforts to introduce a revised Mobile Workforce Tax Bill, monitor and promote initiatives related to heavy vehicle truck tax.",
+    "Monitor, track and advocate for legislation reforming H2B and guest visa programs.",
+    "Advocate and support initiatives related to heavy vehicle truck tax; expansion of the Shuttered Venue Grant Program, and H.R. 1319, American Rescue Plan Act of 2021.",
+    "FY 22 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program; support policy initiatives that provide cap relief to H2B employers.",
+    "Explore FY 22 Appropriations language prohibiting federal funding to enforce program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program.  Reforming visa opportunities for guest workers. Authorizing legislation to reform H2B program.\nPromote housing reform measures for mobile entertainment industry.",
+    "Advocate and support initiatives related to provide relief to the carnival and fairs industry, including the Agricultural Fairs Rescue Act of 2021.",
+    "Explore FY 22 Appropriations language prohibiting federal funding to enforce program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program. Reforming visa opportunities for guest workers. Authorizing legislation to reform H2B program. Promote housing reform measures for mobile entertainment industry.",
+    "Explore Appropriations language prohibiting federal funding to enforce program and wage rules. Issues related to returning worker exemption and H2B program. Issues related to visa opportunities for guest workers. Reformation of H2B program. Housing reform measures for mobile entertainment industry.",
+    "FY 23 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program; support policy initiatives that provide cap relief to H2B employers.",
+    "Advocate and support initiatives related to heavy vehicle truck tax.",
+    "Advocate and support initiatives to provide relief to the carnival and fairs industry.",
+    "FY 25 Appropriations language prohibiting federal funding to enforce existing onerous program and wage rules. Codifying Returning worker exemption. Reforming the current H2B program; support policy initiatives that provide cap relief to H2B employers."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 70,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 175000,
+  "peakYear": 2019,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 6
+}

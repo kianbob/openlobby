@@ -1,0 +1,434 @@
+{
+  "industry": "agriculture",
+  "totalSpending": 766564968.9300002,
+  "totalFilings": 14425,
+  "clientCount": 1080,
+  "topClients": [
+    {
+      "name": "ANHEUSER-BUSCH COMPANIES",
+      "state": "DC",
+      "spending": 28977647.77,
+      "filings": 23,
+      "desc": null
+    },
+    {
+      "name": "MCDONALD'S CORPORATION",
+      "state": "IL",
+      "spending": 21170000,
+      "filings": 128,
+      "desc": "Restaurant, food services"
+    },
+    {
+      "name": "U.S. BEET SUGAR ASSOCIATION",
+      "state": "DC",
+      "spending": 20690000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "MOLSON COORS BEVERAGE COMPANY USA LLC",
+      "state": "DC",
+      "spending": 18912000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "CROPLIFE AMERICA",
+      "state": "VA",
+      "spending": 18690260,
+      "filings": 113,
+      "desc": "Trade association representing the manufacturers of agriculture chemicals"
+    },
+    {
+      "name": "NATIONAL PORK PRODUCERS COUNCIL",
+      "state": "DC",
+      "spending": 16812000,
+      "filings": 79,
+      "desc": "Agriculture, Animals"
+    },
+    {
+      "name": "MARS, INCORPORATED",
+      "state": "VA",
+      "spending": 15040000,
+      "filings": 54,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN FARM BUREAU FED",
+      "state": "DC",
+      "spending": 14583839,
+      "filings": 26,
+      "desc": null
+    },
+    {
+      "name": "TYSON FOODS, INC",
+      "state": "DC",
+      "spending": 14216018,
+      "filings": 38,
+      "desc": null
+    },
+    {
+      "name": "CONSUMER BRANDS ASSOCIATION (PKA: GROCERY MANUFACTURERS ASSOCIATION)",
+      "state": "VA",
+      "spending": 13181257,
+      "filings": 15,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL COUNCIL OF FARMER COOPERATIVES",
+      "state": "DC",
+      "spending": 12278000,
+      "filings": 69,
+      "desc": null
+    },
+    {
+      "name": "PEPSICO INC",
+      "state": "NY",
+      "spending": 11250000,
+      "filings": 12,
+      "desc": null
+    },
+    {
+      "name": "WALMART INC",
+      "state": "AR",
+      "spending": 9340000,
+      "filings": 6,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL MILK PRODUCERS FEDERATION",
+      "state": "VA",
+      "spending": 8976408,
+      "filings": 41,
+      "desc": "Develop and carries out policies that advance the well-being of dairy producers and co-ops"
+    },
+    {
+      "name": "FLORIDA CRYSTALS CORPORATION",
+      "state": "DC",
+      "spending": 8840000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "FOOD MARKETPLACE INC",
+      "state": "VA",
+      "spending": 8760000,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "TEXAS FARM BUREAU",
+      "state": "TX",
+      "spending": 8490000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "KRAFT HEINZ COMPANY",
+      "state": "DC",
+      "spending": 8310000,
+      "filings": 35,
+      "desc": null
+    },
+    {
+      "name": "DAIRY FARMERS OF AMERICA INC",
+      "state": null,
+      "spending": 8094614,
+      "filings": 44,
+      "desc": null
+    },
+    {
+      "name": "LAND O'LAKES INC",
+      "state": "MN",
+      "spending": 7820000,
+      "filings": 38,
+      "desc": null
+    },
+    {
+      "name": "ALBERTSONS COMPANIES, INC.",
+      "state": "ID",
+      "spending": 7800000,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "INTERNATIONAL FRESH PRODUCE ASSOCIATION (FKA UNITED FRESH PRODUCE ASSOCIATION)",
+      "state": "DC",
+      "spending": 7636000,
+      "filings": 31,
+      "desc": "fresh produce"
+    },
+    {
+      "name": "AMERICAN BEVERAGE ASSOCIATION",
+      "state": "DC",
+      "spending": 7580000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "INTERNATIONAL DAIRY FOODS ASSOCIATION",
+      "state": "DC",
+      "spending": 7406129,
+      "filings": 66,
+      "desc": null
+    },
+    {
+      "name": "KELLANOVA",
+      "state": "DC",
+      "spending": 7360000,
+      "filings": 39,
+      "desc": null
+    },
+    {
+      "name": "NESTLE USA",
+      "state": "VA",
+      "spending": 6993173,
+      "filings": 36,
+      "desc": "food and beverage manufacturing"
+    },
+    {
+      "name": "PEPSICO, INC.",
+      "state": "DC",
+      "spending": 6940000,
+      "filings": 79,
+      "desc": "Food and beverage company"
+    },
+    {
+      "name": "INTERNATIONAL FOODSERVICE DISTRIBUTORS ASSOCIATION",
+      "state": "VA",
+      "spending": 6682425,
+      "filings": 62,
+      "desc": "Trade Association"
+    },
+    {
+      "name": "COCA-COLA COMPANY",
+      "state": "GA",
+      "spending": 6330000,
+      "filings": 4,
+      "desc": null
+    },
+    {
+      "name": "RENEWABLE FUELS ASSOCIATION",
+      "state": "DC",
+      "spending": 6110043,
+      "filings": 19,
+      "desc": null
+    },
+    {
+      "name": "SMITHFIELD FOODS, INC.",
+      "state": "DC",
+      "spending": 5790000,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION",
+      "state": "DC",
+      "spending": 5670000,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "HORMEL FOODS CORPORATION",
+      "state": "MN",
+      "spending": 5646000,
+      "filings": 61,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL FISHERIES INSTITUTE",
+      "state": "VA",
+      "spending": 5600000,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "FEEDING AMERICA",
+      "state": "IL",
+      "spending": 5472778,
+      "filings": 40,
+      "desc": null
+    },
+    {
+      "name": "UNILEVER UNITED STATES, INC.",
+      "state": "DC",
+      "spending": 5200000,
+      "filings": 16,
+      "desc": null
+    },
+    {
+      "name": "DANONE NORTH AMERICA, PBC",
+      "state": "NY",
+      "spending": 5010000,
+      "filings": 24,
+      "desc": null
+    },
+    {
+      "name": "BUNGE NORTH AMERICA, INC",
+      "state": "DC",
+      "spending": 4470000,
+      "filings": 24,
+      "desc": null
+    },
+    {
+      "name": "NORTH CAROLINA FARM BUREAU FEDERATION",
+      "state": "NC",
+      "spending": 4185046,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "FARMERS GROUP INC",
+      "state": "DC",
+      "spending": 4180000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "ARCHER DANIELS MIDLAND COMPANY",
+      "state": "DC",
+      "spending": 3930000,
+      "filings": 15,
+      "desc": null
+    },
+    {
+      "name": "DUPONT DE NEMOURS, INC.",
+      "state": "DC",
+      "spending": 3820000,
+      "filings": 8,
+      "desc": null
+    },
+    {
+      "name": "MEAT INSTITUTE (FKA NORTH AMERICAN MEAT INSTITUTE)",
+      "state": "DC",
+      "spending": 3486285.3200000003,
+      "filings": 47,
+      "desc": null
+    },
+    {
+      "name": "ANIMAL WELLNESS ACTION",
+      "state": "DC",
+      "spending": 3460000,
+      "filings": 50,
+      "desc": null
+    },
+    {
+      "name": "CORN REFINERS ASSOCIATION",
+      "state": "DC",
+      "spending": 3410000,
+      "filings": 24,
+      "desc": null
+    },
+    {
+      "name": "HERSHEY COMPANY",
+      "state": "DC",
+      "spending": 3343000,
+      "filings": 39,
+      "desc": null
+    },
+    {
+      "name": "ASSOCIATION OF FOOD AND DAIRY RETAILERS, WHOLESALERS AND MANUFACTURERS",
+      "state": "IL",
+      "spending": 3320000,
+      "filings": 27,
+      "desc": "Participation in legislative effort to amend pension rules regarding multiemployer plans"
+    },
+    {
+      "name": "CARGILL INC",
+      "state": "MN",
+      "spending": 3255000,
+      "filings": 33,
+      "desc": "Producer and marketer of food, agricultural,financial and industrial products and services"
+    },
+    {
+      "name": "NATIONAL CHICKEN COUNCIL",
+      "state": "DC",
+      "spending": 3080000,
+      "filings": 52,
+      "desc": "Association for the Poultry Industry"
+    },
+    {
+      "name": "JBS USA FOOD COMPANY HOLDINGS (PREVIOUSLY REGISTERED AS JBS USA FOOD COMPANY)",
+      "state": "CO",
+      "spending": 2984000,
+      "filings": 15,
+      "desc": null
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 81983513.68
+    },
+    {
+      "year": 2019,
+      "spending": 78134303.3
+    },
+    {
+      "year": 2020,
+      "spending": 84982650
+    },
+    {
+      "year": 2021,
+      "spending": 75016210.29
+    },
+    {
+      "year": 2022,
+      "spending": 93718349.55000001
+    },
+    {
+      "year": 2023,
+      "spending": 122394465.67999999
+    },
+    {
+      "year": 2024,
+      "spending": 103294580.48
+    },
+    {
+      "year": 2025,
+      "spending": 127040895.94999999
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "AGR",
+      "count": 9191
+    },
+    {
+      "code": "FOO",
+      "count": 4907
+    },
+    {
+      "code": "TRD",
+      "count": 3648
+    },
+    {
+      "code": "BUD",
+      "count": 3060
+    },
+    {
+      "code": "TAX",
+      "count": 2110
+    },
+    {
+      "code": "ENV",
+      "count": 1954
+    },
+    {
+      "code": "LBR",
+      "count": 1675
+    },
+    {
+      "code": "IMM",
+      "count": 1609
+    },
+    {
+      "code": "TRA",
+      "count": 1506
+    },
+    {
+      "code": "ANI",
+      "count": 1392
+    }
+  ]
+}

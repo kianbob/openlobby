@@ -1,1 +1,97 @@
-{"id":179518,"name":"CROP INSURANCE AND REINSURANCE BUREAU","slug":"crop-insurance-and-reinsurance-bureau","state":"KS","description":null,"totalSpending":2840000,"filings":32,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":240000},{"year":2022,"income":340000},{"year":2023,"income":600000},{"year":2024,"income":300000},{"year":2025,"income":400000}],"firms":["TORREY ADVISORY GROUP (FORMERLY MICHAEL TORREY ASSOCIATES, LLC)"],"lobbyists":["MICHAEL TORREY","TARA SMITH","SARAH HUBBART","KERRY LYNCH","BARBARA PATTERSON","TREY FORSYTH","JACQUELINE MUHAMMAD","DANIELLE NELSON","ASHLEY SMITH","HEATH BRANDT","EDEN LAMBERT"],"issues":["AGR",null],"sampleDescriptions":["Discussions on 2018 Farm Bill.\nAg Appropriations legislation.\nMatters impacting the financial integrity of the risk management system.\nBudget.","2018 Farm Bill.\nAg Appropriations legislation.\nMatters impacting the financial integrity of the risk management system.","Farm Bill Implementation.\nAg Appropriations Legislation.\nMatters impacting the financial integrity of the risk management system.","Farm Bill implementation relating to crop insurance.\nIssues related to Ag Appropriations legislation impacting crop insurance.\nMatters impacting the financial integrity of the risk management system.","Farm Bill implementation relating to crop insurance.\nIssues related to Ag Appropriations legislation impacting crop insurance.\nMatters impacting the financial integrity of the risk management system.\nH.R. 3183: Feed Emergency Enhancement During Disasters Act","Farm Bill implementation relating to crop insurance.\nIssues related to Ag Appropriations legislation impacting crop insurance.\nMatters impacting the financial integrity of the risk management system.\nH.R. 3183: Feed Emergency Enhancement During Disasters Act.\nS. 3479: Cover Crop Flexibility Act.\nCOVID-19 response.","Farm Bill implementation relating to crop insurance.\nIssues related to Ag Appropriations legislation impacting crop insurance.\nMatters impacting the financial integrity of the risk management system.\nH.R. 3183: Feed Emergency Enhancement During Disasters Act.\nS. 3479: Cover Crop Flexibility Act.\nIssues related to COVID-19.","Issues related to Ag Appropriations and budget legislation impacting crop insurance. \nMatters impacting the financial integrity of the risk management system. \nH.R. 1240 and S. 359: Feed Emergency Enhancement During Disasters Act. \nWork on Cover Crop Flexibility.\nIssues related to COVID-19.\nIssues pertaining to climate and its impact in the agriculture, food, and forestry sectors.\nIssues related to standing disaster program.","Issues related to Ag Appropriations and budget legislation impacting crop insurance. \nMatters impacting the financial integrity of the risk management system. \nH.R. 1240 and S. 359: Feed Emergency Enhancement During Disasters Act. \nWork on Cover Crop Flexibility.\nIssues related to COVID-19.\nIssues pertaining to climate and its impact in the agriculture, food, and forestry sectors.\nIssues related to standing disaster program.\nA precision ag loan program.","Issues related to Ag Appropriations and budget legislation impacting crop insurance. Matters impacting the financial integrity of the risk management system. H.R. 1240 and S. 359: Feed Emergency Enhancement During Disasters Act. Work on Cover Crop Flexibility. Issues related to COVID-19. Issues pertaining to climate and its impact in the agriculture, food, and forestry sectors. Issues related to standing disaster program. A precision ag loan program.","Issues related to Ag Appropriations and budget legislation impacting crop insurance. Matters impacting the financial integrity of the risk management system. Work on Cover Crop Flexibility. Issues pertaining to climate and its impact in the agriculture, food, and forestry sectors. Issues related to standing disaster program.","Issues related to Ag Appropriations and budget legislation impacting crop insurance. Issues related to the farm bill and crop insurance. Matters impacting the financial integrity of the risk management system. Issues pertaining to climate and crop insurance.","Issues related to Ag Appropriations and budget legislation impacting crop insurance. Issues related to the farm bill and crop insurance. Matters impacting the financial integrity of the risk management system. Crop insurance components of the reconciliation bill."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 179518,
+  "name": "CROP INSURANCE AND REINSURANCE BUREAU",
+  "slug": "crop-insurance-and-reinsurance-bureau",
+  "state": "KS",
+  "description": null,
+  "totalSpending": 2840000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 340000
+    },
+    {
+      "year": 2023,
+      "income": 600000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 400000
+    }
+  ],
+  "firms": [
+    "TORREY ADVISORY GROUP (FORMERLY MICHAEL TORREY ASSOCIATES, LLC)"
+  ],
+  "lobbyists": [
+    "MICHAEL TORREY",
+    "TARA SMITH",
+    "SARAH HUBBART",
+    "KERRY LYNCH",
+    "BARBARA PATTERSON",
+    "TREY FORSYTH",
+    "JACQUELINE MUHAMMAD",
+    "DANIELLE NELSON",
+    "ASHLEY SMITH",
+    "HEATH BRANDT",
+    "EDEN LAMBERT"
+  ],
+  "issues": [
+    "AGR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Discussions on 2018 Farm Bill.\nAg Appropriations legislation.\nMatters impacting the financial integrity of the risk management system.\nBudget.",
+    "2018 Farm Bill.\nAg Appropriations legislation.\nMatters impacting the financial integrity of the risk management system.",
+    "Farm Bill Implementation.\nAg Appropriations Legislation.\nMatters impacting the financial integrity of the risk management system.",
+    "Farm Bill implementation relating to crop insurance.\nIssues related to Ag Appropriations legislation impacting crop insurance.\nMatters impacting the financial integrity of the risk management system.",
+    "Farm Bill implementation relating to crop insurance.\nIssues related to Ag Appropriations legislation impacting crop insurance.\nMatters impacting the financial integrity of the risk management system.\nH.R. 3183: Feed Emergency Enhancement During Disasters Act",
+    "Farm Bill implementation relating to crop insurance.\nIssues related to Ag Appropriations legislation impacting crop insurance.\nMatters impacting the financial integrity of the risk management system.\nH.R. 3183: Feed Emergency Enhancement During Disasters Act.\nS. 3479: Cover Crop Flexibility Act.\nCOVID-19 response.",
+    "Farm Bill implementation relating to crop insurance.\nIssues related to Ag Appropriations legislation impacting crop insurance.\nMatters impacting the financial integrity of the risk management system.\nH.R. 3183: Feed Emergency Enhancement During Disasters Act.\nS. 3479: Cover Crop Flexibility Act.\nIssues related to COVID-19.",
+    "Issues related to Ag Appropriations and budget legislation impacting crop insurance. \nMatters impacting the financial integrity of the risk management system. \nH.R. 1240 and S. 359: Feed Emergency Enhancement During Disasters Act. \nWork on Cover Crop Flexibility.\nIssues related to COVID-19.\nIssues pertaining to climate and its impact in the agriculture, food, and forestry sectors.\nIssues related to standing disaster program.",
+    "Issues related to Ag Appropriations and budget legislation impacting crop insurance. \nMatters impacting the financial integrity of the risk management system. \nH.R. 1240 and S. 359: Feed Emergency Enhancement During Disasters Act. \nWork on Cover Crop Flexibility.\nIssues related to COVID-19.\nIssues pertaining to climate and its impact in the agriculture, food, and forestry sectors.\nIssues related to standing disaster program.\nA precision ag loan program.",
+    "Issues related to Ag Appropriations and budget legislation impacting crop insurance. Matters impacting the financial integrity of the risk management system. H.R. 1240 and S. 359: Feed Emergency Enhancement During Disasters Act. Work on Cover Crop Flexibility. Issues related to COVID-19. Issues pertaining to climate and its impact in the agriculture, food, and forestry sectors. Issues related to standing disaster program. A precision ag loan program.",
+    "Issues related to Ag Appropriations and budget legislation impacting crop insurance. Matters impacting the financial integrity of the risk management system. Work on Cover Crop Flexibility. Issues pertaining to climate and its impact in the agriculture, food, and forestry sectors. Issues related to standing disaster program.",
+    "Issues related to Ag Appropriations and budget legislation impacting crop insurance. Issues related to the farm bill and crop insurance. Matters impacting the financial integrity of the risk management system. Issues pertaining to climate and crop insurance.",
+    "Issues related to Ag Appropriations and budget legislation impacting crop insurance. Issues related to the farm bill and crop insurance. Matters impacting the financial integrity of the risk management system. Crop insurance components of the reconciliation bill."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 25,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 355000,
+  "peakYear": 2023,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

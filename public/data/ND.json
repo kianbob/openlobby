@@ -1,1 +1,329 @@
-{"abbreviation":"ND","name":"North Dakota","totalSpending":18460672.78,"totalFilings":1296,"clientCount":75,"yearlySpending":[{"year":2018,"income":1397700},{"year":2019,"income":1134200},{"year":2020,"income":1484500},{"year":2021,"income":1691625},{"year":2022,"income":2340078},{"year":2023,"income":4330760},{"year":2024,"income":2590000},{"year":2025,"income":3491809.78}],"topClients":[{"name":"MINN-DAK FARMERS COOPERATIVE","income":1930000},{"name":"UNIVERSITY OF NORTH DAKOTA","income":1050000},{"name":"NORTH AMERICAN COAL ROYALTY COMPANY","income":1030000},{"name":"DOOSAN BOBCAT NORTH AMERICA, INC.","income":990000},{"name":"GARRISON DIVERSION CONSERVANCY DISTRICT","income":940000},{"name":"NORTH DAKOTA GRAIN GROWERS ASSOCIATION","income":870000},{"name":"NORTH DAKOTA STATE UNIVERSITY (NDSU)","income":815000},{"name":"NORTH DAKOTA STATE UNIVERSITY","income":800000},{"name":"RED RIVER VALLEY & WESTERN RAILROAD COMPANY","income":770000},{"name":"GENOVAC, LLC","income":620000},{"name":"DELTA WATERFOWL","income":565000},{"name":"NATIONAL SUNFLOWER ASSOCIATION","income":513000},{"name":"STANDING ROCK SIOUX TRIBE","income":482749.78},{"name":"LIGNITE ENERGY COUNCIL","income":450000},{"name":"NORTH DAKOTA CORN GROWERS ASSOCIATION","income":380000},{"name":"BAKKEN ENERGY","income":340000},{"name":"WBI ENERGY TRANSMISSION, INC.","income":330000},{"name":"MANDAN, HIDATSA & ARIKARA NATION","income":320000},{"name":"RAINBOW ENERGY CENTER","income":320000},{"name":"MIDWEST DRY BEAN COALITION","income":300000},{"name":"MANDAN, HIDATSA, AND ARIKARA NATION","income":290000},{"name":"TECHNOLOGY APPLICATIONS GROUP, INC.","income":270000},{"name":"THEODORE ROOSEVELT PRESIDENTIAL LIBRARY FOUNDATION","income":250000},{"name":"U.S. DURUM GROWERS ASSOCIATION","income":226000},{"name":"FT. ABRAHAM LINCOLN FOUNDATION","income":200000},{"name":"NORTH DAKOTA HOSPITAL ASSOCIATION","income":194043},{"name":"ELINOR COATINGS LLC","income":185000},{"name":"STEFFES LLC","income":166000},{"name":"MINNKOTA POWER COOPERATIVE","income":165000},{"name":"DOOSAN BOBCAT NORTH AMERICA","income":160000},{"name":"INDEXED ANNUITY LEADERSHIP COUNCIL","income":150000},{"name":"IDEAL AEROSMITH, INC.","income":150000},{"name":"THREE AFFILIATED TRIBES","income":140000},{"name":"LINCOLN THERAPEUTICS","income":140000},{"name":"FISHER SAND & GRAVEL CO.","income":130000},{"name":"MANDAN, HIDATSA AND ARIKARA NATION","income":130000},{"name":"BISMARCK STATE COLLEGE","income":128250},{"name":"NORTHERN PLAINS UNMANNED SYSTEMS AUTHORITY","income":120000},{"name":"SAFETYSPECT","income":120000},{"name":"THRIXEN","income":120000},{"name":"IDEAL AEROSMITH","income":115000},{"name":"CLARK EQUIPMENT COMPANY","income":110000},{"name":"STANDING ROCK HOUSING AUTHORITY","income":99069},{"name":"SPIRIT LAKE TRIBE","income":90000},{"name":"THE THREE AFFILIATED TRIBES OF NORTH DAKOTA","income":85000},{"name":"FLOWCORE SYSTEMS","income":70000},{"name":"TURTLE MOUNTAIN BAND OF CHIPPEWA GAMING COMMISSION","income":70000},{"name":"CORVENT MEDICAL","income":70000},{"name":"THERATEC, INC.","income":60000},{"name":"SENIOR HEALTHCARE INNOVATION CONSORTIUM, INC.","income":55000}],"topIssues":[{"code":"BUD","income":5877293},{"code":"AGR","income":4714250},{"code":"NAT","income":2425000},{"code":"TRD","income":2420000},{"code":"DEF","income":2319500},{"code":"EDU","income":1953250},{"code":"IND","income":1913499.78},{"code":"IMM","income":1812250},{"code":"TAX","income":1493000},{"code":"SCI","income":1195000},{"code":"MAN","income":1122500},{"code":"ENG","income":1105000},{"code":"HCR","income":1095250},{"code":"ENV","income":1070000},{"code":"TRA","income":730000},{"code":"RRR","income":690000},{"code":"AVI","income":580000},{"code":"GOV","income":340000},{"code":"HOM","income":280000},{"code":"AER","income":250000}]}
+{
+  "abbreviation": "ND",
+  "name": "North Dakota",
+  "totalSpending": 18460672.78,
+  "totalFilings": 1296,
+  "clientCount": 75,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 1397700
+    },
+    {
+      "year": 2019,
+      "income": 1134200
+    },
+    {
+      "year": 2020,
+      "income": 1484500
+    },
+    {
+      "year": 2021,
+      "income": 1691625
+    },
+    {
+      "year": 2022,
+      "income": 2340078
+    },
+    {
+      "year": 2023,
+      "income": 4330760
+    },
+    {
+      "year": 2024,
+      "income": 2590000
+    },
+    {
+      "year": 2025,
+      "income": 3491809.78
+    }
+  ],
+  "topClients": [
+    {
+      "name": "MINN-DAK FARMERS COOPERATIVE",
+      "income": 1930000
+    },
+    {
+      "name": "UNIVERSITY OF NORTH DAKOTA",
+      "income": 1050000
+    },
+    {
+      "name": "NORTH AMERICAN COAL ROYALTY COMPANY",
+      "income": 1030000
+    },
+    {
+      "name": "DOOSAN BOBCAT NORTH AMERICA, INC.",
+      "income": 990000
+    },
+    {
+      "name": "GARRISON DIVERSION CONSERVANCY DISTRICT",
+      "income": 940000
+    },
+    {
+      "name": "NORTH DAKOTA GRAIN GROWERS ASSOCIATION",
+      "income": 870000
+    },
+    {
+      "name": "NORTH DAKOTA STATE UNIVERSITY (NDSU)",
+      "income": 815000
+    },
+    {
+      "name": "NORTH DAKOTA STATE UNIVERSITY",
+      "income": 800000
+    },
+    {
+      "name": "RED RIVER VALLEY & WESTERN RAILROAD COMPANY",
+      "income": 770000
+    },
+    {
+      "name": "GENOVAC, LLC",
+      "income": 620000
+    },
+    {
+      "name": "DELTA WATERFOWL",
+      "income": 565000
+    },
+    {
+      "name": "NATIONAL SUNFLOWER ASSOCIATION",
+      "income": 513000
+    },
+    {
+      "name": "STANDING ROCK SIOUX TRIBE",
+      "income": 482749.78
+    },
+    {
+      "name": "LIGNITE ENERGY COUNCIL",
+      "income": 450000
+    },
+    {
+      "name": "NORTH DAKOTA CORN GROWERS ASSOCIATION",
+      "income": 380000
+    },
+    {
+      "name": "BAKKEN ENERGY",
+      "income": 340000
+    },
+    {
+      "name": "WBI ENERGY TRANSMISSION, INC.",
+      "income": 330000
+    },
+    {
+      "name": "MANDAN, HIDATSA & ARIKARA NATION",
+      "income": 320000
+    },
+    {
+      "name": "RAINBOW ENERGY CENTER",
+      "income": 320000
+    },
+    {
+      "name": "MIDWEST DRY BEAN COALITION",
+      "income": 300000
+    },
+    {
+      "name": "MANDAN, HIDATSA, AND ARIKARA NATION",
+      "income": 290000
+    },
+    {
+      "name": "TECHNOLOGY APPLICATIONS GROUP, INC.",
+      "income": 270000
+    },
+    {
+      "name": "THEODORE ROOSEVELT PRESIDENTIAL LIBRARY FOUNDATION",
+      "income": 250000
+    },
+    {
+      "name": "U.S. DURUM GROWERS ASSOCIATION",
+      "income": 226000
+    },
+    {
+      "name": "FT. ABRAHAM LINCOLN FOUNDATION",
+      "income": 200000
+    },
+    {
+      "name": "NORTH DAKOTA HOSPITAL ASSOCIATION",
+      "income": 194043
+    },
+    {
+      "name": "ELINOR COATINGS LLC",
+      "income": 185000
+    },
+    {
+      "name": "STEFFES LLC",
+      "income": 166000
+    },
+    {
+      "name": "MINNKOTA POWER COOPERATIVE",
+      "income": 165000
+    },
+    {
+      "name": "DOOSAN BOBCAT NORTH AMERICA",
+      "income": 160000
+    },
+    {
+      "name": "INDEXED ANNUITY LEADERSHIP COUNCIL",
+      "income": 150000
+    },
+    {
+      "name": "IDEAL AEROSMITH, INC.",
+      "income": 150000
+    },
+    {
+      "name": "THREE AFFILIATED TRIBES",
+      "income": 140000
+    },
+    {
+      "name": "LINCOLN THERAPEUTICS",
+      "income": 140000
+    },
+    {
+      "name": "FISHER SAND & GRAVEL CO.",
+      "income": 130000
+    },
+    {
+      "name": "MANDAN, HIDATSA AND ARIKARA NATION",
+      "income": 130000
+    },
+    {
+      "name": "BISMARCK STATE COLLEGE",
+      "income": 128250
+    },
+    {
+      "name": "NORTHERN PLAINS UNMANNED SYSTEMS AUTHORITY",
+      "income": 120000
+    },
+    {
+      "name": "SAFETYSPECT",
+      "income": 120000
+    },
+    {
+      "name": "THRIXEN",
+      "income": 120000
+    },
+    {
+      "name": "IDEAL AEROSMITH",
+      "income": 115000
+    },
+    {
+      "name": "CLARK EQUIPMENT COMPANY",
+      "income": 110000
+    },
+    {
+      "name": "STANDING ROCK HOUSING AUTHORITY",
+      "income": 99069
+    },
+    {
+      "name": "SPIRIT LAKE TRIBE",
+      "income": 90000
+    },
+    {
+      "name": "THE THREE AFFILIATED TRIBES OF NORTH DAKOTA",
+      "income": 85000
+    },
+    {
+      "name": "FLOWCORE SYSTEMS",
+      "income": 70000
+    },
+    {
+      "name": "TURTLE MOUNTAIN BAND OF CHIPPEWA GAMING COMMISSION",
+      "income": 70000
+    },
+    {
+      "name": "CORVENT MEDICAL",
+      "income": 70000
+    },
+    {
+      "name": "THERATEC, INC.",
+      "income": 60000
+    },
+    {
+      "name": "SENIOR HEALTHCARE INNOVATION CONSORTIUM, INC.",
+      "income": 55000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 5877293
+    },
+    {
+      "code": "AGR",
+      "income": 4714250
+    },
+    {
+      "code": "NAT",
+      "income": 2425000
+    },
+    {
+      "code": "TRD",
+      "income": 2420000
+    },
+    {
+      "code": "DEF",
+      "income": 2319500
+    },
+    {
+      "code": "EDU",
+      "income": 1953250
+    },
+    {
+      "code": "IND",
+      "income": 1913499.78
+    },
+    {
+      "code": "IMM",
+      "income": 1812250
+    },
+    {
+      "code": "TAX",
+      "income": 1493000
+    },
+    {
+      "code": "SCI",
+      "income": 1195000
+    },
+    {
+      "code": "MAN",
+      "income": 1122500
+    },
+    {
+      "code": "ENG",
+      "income": 1105000
+    },
+    {
+      "code": "HCR",
+      "income": 1095250
+    },
+    {
+      "code": "ENV",
+      "income": 1070000
+    },
+    {
+      "code": "TRA",
+      "income": 730000
+    },
+    {
+      "code": "RRR",
+      "income": 690000
+    },
+    {
+      "code": "AVI",
+      "income": 580000
+    },
+    {
+      "code": "GOV",
+      "income": 340000
+    },
+    {
+      "code": "HOM",
+      "income": 280000
+    },
+    {
+      "code": "AER",
+      "income": 250000
+    }
+  ],
+  "perCapita": 21.07,
+  "population": 783926,
+  "nationalRank": 49,
+  "perCapitaRank": 42
+}

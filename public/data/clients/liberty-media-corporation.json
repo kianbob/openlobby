@@ -1,1 +1,73 @@
-{"id":208846,"name":"LIBERTY MEDIA CORPORATION","slug":"liberty-media-corporation","state":"CO","description":"Media services","totalSpending":1450000,"filings":19,"yearlySpending":[{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":250000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["HALEY BARBOUR","ROBERT WOOD","DANIEL MURPHY","JENNIFER LUKAWSKI","ANDREW LEWIN","JUSTIN RZEPKA","JOSEPH LAI","CACHAVIOUS ENGLISH","BILL VINEY","SYD TERRY","FRED TURNER","MAYA SEIDEN"],"issues":["TAX","TEC","CPT","CSP",null],"sampleDescriptions":["Provide strategic counsel and advocacy on issues related to corporate taxation, intellectual property, telecommunications and other issues impacting Liberty Media Corporation."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 208846,
+  "name": "LIBERTY MEDIA CORPORATION",
+  "slug": "liberty-media-corporation",
+  "state": "CO",
+  "description": "Media services",
+  "totalSpending": 1450000,
+  "filings": 19,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 250000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "HALEY BARBOUR",
+    "ROBERT WOOD",
+    "DANIEL MURPHY",
+    "JENNIFER LUKAWSKI",
+    "ANDREW LEWIN",
+    "JUSTIN RZEPKA",
+    "JOSEPH LAI",
+    "CACHAVIOUS ENGLISH",
+    "BILL VINEY",
+    "SYD TERRY",
+    "FRED TURNER",
+    "MAYA SEIDEN"
+  ],
+  "issues": [
+    "TAX",
+    "TEC",
+    "CPT",
+    "CSP",
+    null
+  ],
+  "sampleDescriptions": [
+    "Provide strategic counsel and advocacy on issues related to corporate taxation, intellectual property, telecommunications and other issues impacting Liberty Media Corporation."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -22,
+  "trajectory": "reducing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 290000,
+  "peakYear": 2021,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 4
+}

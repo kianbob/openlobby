@@ -1,1 +1,74 @@
-{"id":207667,"name":"AM GENERAL LLC","slug":"am-general-llc","state":"IN","description":"Military vehicle manufacturer","totalSpending":1570000,"filings":18,"yearlySpending":[{"year":2020,"income":40000},{"year":2021,"income":270000},{"year":2022,"income":360000},{"year":2023,"income":360000},{"year":2024,"income":360000},{"year":2025,"income":180000}],"firms":["TIDES GROUP, LLC"],"lobbyists":["EVAN KNISELY"],"issues":["BUD","DEF",null],"sampleDescriptions":["Issues involving light tactical wheeled vehicles","H.R. 133, Consolidated Appropriations Act FY2021- Issues involving light tactical wheeled vehicles.","Issues involving light tactical wheeled vehicles.","Department of Defense Appropriations Act FY2022, Issues involving light tactical wheeled vehicles.","Department of Defense Appropriations Act FY2022, Issues involving light tactical wheeled vehicles and soft recoil technology. Ukraine Supplemental Appropriations Act FY2022, Emergency supplemental appropriations.","Department of Defense Appropriations Act FY2023, Issues involving light tactical wheeled vehicles and soft recoil technology. Ukraine Supplemental Appropriations Act FY2022, Emergency supplemental appropriations.","Department of Defense Appropriations Act FY2023, Issues involving light tactical wheeled vehicles and soft recoil technology. Issues related to foreign military sales.","Department of Defense Appropriations Act FY2024, issues involving light tactical wheeled vehicles, soft recoil technology, and foreign military sales.","Department of Defense Appropriations Act FY2025, issues involving light tactical wheeled vehicles, soft recoil technology, and foreign military sales.","Department of Defense Appropriations Act FY2026, issues involving light tactical wheeled vehicles, soft recoil technology, and foreign military sales."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 207667,
+  "name": "AM GENERAL LLC",
+  "slug": "am-general-llc",
+  "state": "IN",
+  "description": "Military vehicle manufacturer",
+  "totalSpending": 1570000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 40000
+    },
+    {
+      "year": 2021,
+      "income": 270000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "TIDES GROUP, LLC"
+  ],
+  "lobbyists": [
+    "EVAN KNISELY"
+  ],
+  "issues": [
+    "BUD",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues involving light tactical wheeled vehicles",
+    "H.R. 133, Consolidated Appropriations Act FY2021- Issues involving light tactical wheeled vehicles.",
+    "Issues involving light tactical wheeled vehicles.",
+    "Department of Defense Appropriations Act FY2022, Issues involving light tactical wheeled vehicles.",
+    "Department of Defense Appropriations Act FY2022, Issues involving light tactical wheeled vehicles and soft recoil technology. Ukraine Supplemental Appropriations Act FY2022, Emergency supplemental appropriations.",
+    "Department of Defense Appropriations Act FY2023, Issues involving light tactical wheeled vehicles and soft recoil technology. Ukraine Supplemental Appropriations Act FY2022, Emergency supplemental appropriations.",
+    "Department of Defense Appropriations Act FY2023, Issues involving light tactical wheeled vehicles and soft recoil technology. Issues related to foreign military sales.",
+    "Department of Defense Appropriations Act FY2024, issues involving light tactical wheeled vehicles, soft recoil technology, and foreign military sales.",
+    "Department of Defense Appropriations Act FY2025, issues involving light tactical wheeled vehicles, soft recoil technology, and foreign military sales.",
+    "Department of Defense Appropriations Act FY2026, issues involving light tactical wheeled vehicles, soft recoil technology, and foreign military sales."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 350,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 261667,
+  "peakYear": 2022,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 2
+}

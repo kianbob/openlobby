@@ -1,1 +1,82 @@
-{"id":196227,"name":"S&P GLOBAL INC (FORMERLY MCGRAW HILL FINANCIAL)","slug":"s-p-global-inc-formerly-mcgraw-hill-financial","state":"DC","description":"Credit rating agency","totalSpending":2510000,"filings":31,"yearlySpending":[{"year":2018,"income":400000},{"year":2019,"income":320000},{"year":2020,"income":180000},{"year":2021,"income":330000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":320000}],"firms":["DALY CONSULTING GROUP"],"lobbyists":["JUSTIN DALY","ERIK JOHNSON","JASON GOGGINS","BRIDGET CULLEN"],"issues":["FIN",null],"sampleDescriptions":["Financial reform legislation (not yet introduced)","Issues related to financial services","Credit rating agency regulation","Issues related to the capital markets.","Issues related to credit rating agencies, and other securities issues"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 196227,
+  "name": "S&P GLOBAL INC (FORMERLY MCGRAW HILL FINANCIAL)",
+  "slug": "s-p-global-inc-formerly-mcgraw-hill-financial",
+  "state": "DC",
+  "description": "Credit rating agency",
+  "totalSpending": 2510000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 400000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 330000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "DALY CONSULTING GROUP"
+  ],
+  "lobbyists": [
+    "JUSTIN DALY",
+    "ERIK JOHNSON",
+    "JASON GOGGINS",
+    "BRIDGET CULLEN"
+  ],
+  "issues": [
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Financial reform legislation (not yet introduced)",
+    "Issues related to financial services",
+    "Credit rating agency regulation",
+    "Issues related to the capital markets.",
+    "Issues related to credit rating agencies, and other securities issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 313750,
+  "peakYear": 2018,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

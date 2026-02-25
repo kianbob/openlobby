@@ -1,1 +1,83 @@
-{"id":212161,"name":"ARCHER AVIATION INC.","slug":"archer-aviation-inc","state":"CA","description":"Electric vertical takeoff and landing air mobility","totalSpending":1590000,"filings":15,"yearlySpending":[{"year":2021,"income":150000},{"year":2022,"income":220000},{"year":2023,"income":430000},{"year":2024,"income":440000},{"year":2025,"income":350000}],"firms":["INVARIANT LLC"],"lobbyists":["BENJAMIN KLEIN","KATHRYN WISE","TIMOTHY MARTIN","CHRISTOPHER GILLOTT","MAX FRANKEL","JOSEPH BUSHONG","LANE COBERLY"],"issues":["AVI","SMB",null,"ENG","BUD"],"sampleDescriptions":["Educate policymakers about eVTOL","Educate policymakers about Archer and eVTOL.","Educate policymakers on importance of small businesses and American innovation.","Educate policymakers about Archer and eVTOL aircraft technology.","Educate policymakers about Archer and eVTOL aircraft technology. Monitor and advocate for provisions in the House and Senate FAA reauthorization process (H.R.3935 and S.1939).","Monitor Department of Energy funding and loan opportunities directed toward battery manufacturing.","Advocate for programs related to eVTOL aircraft, infrastructure, and supply chains in the FY25 Transportation, Housing and Urban Development, and related agencies appropriations bill.","Educate policymakers about Archer and eVTOL aircraft technology. Advocate for provisions in the H.R.3935 / S.1939, House and Senate FAA reauthorization process. Educate on implementation of P.L.188-63, FAA Reauthorization.","Monitoring DOE funding and loan opportunities directed toward battery manufacturing.","Educate policymakers about Archer and eVTOL aircraft technology. Monitor implementation of the FAA Reauthorization of 2024 (P.L. 118-63).","Advocate for programs related to eVTOL aircraft, infrastructure and supply chains in the FY25 Transportation, Housing and Urban Development, and related agencies appropriations bill.","Monitoring DOE funding and loan opportunities directed towards battery manufacturing.","Educate policymakers on the importance of small businesses and American innovation.","Advocate for programs related to eVTOL aircraft, infrastructure and supply chains in H.R.4552/S.2465, the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026.","Monitor DOE funding and loan opportunities directed toward battery manufacturing."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 212161,
+  "name": "ARCHER AVIATION INC.",
+  "slug": "archer-aviation-inc",
+  "state": "CA",
+  "description": "Electric vertical takeoff and landing air mobility",
+  "totalSpending": 1590000,
+  "filings": 15,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 220000
+    },
+    {
+      "year": 2023,
+      "income": 430000
+    },
+    {
+      "year": 2024,
+      "income": 440000
+    },
+    {
+      "year": 2025,
+      "income": 350000
+    }
+  ],
+  "firms": [
+    "INVARIANT LLC"
+  ],
+  "lobbyists": [
+    "BENJAMIN KLEIN",
+    "KATHRYN WISE",
+    "TIMOTHY MARTIN",
+    "CHRISTOPHER GILLOTT",
+    "MAX FRANKEL",
+    "JOSEPH BUSHONG",
+    "LANE COBERLY"
+  ],
+  "issues": [
+    "AVI",
+    "SMB",
+    null,
+    "ENG",
+    "BUD"
+  ],
+  "sampleDescriptions": [
+    "Educate policymakers about eVTOL",
+    "Educate policymakers about Archer and eVTOL.",
+    "Educate policymakers on importance of small businesses and American innovation.",
+    "Educate policymakers about Archer and eVTOL aircraft technology.",
+    "Educate policymakers about Archer and eVTOL aircraft technology. Monitor and advocate for provisions in the House and Senate FAA reauthorization process (H.R.3935 and S.1939).",
+    "Monitor Department of Energy funding and loan opportunities directed toward battery manufacturing.",
+    "Advocate for programs related to eVTOL aircraft, infrastructure, and supply chains in the FY25 Transportation, Housing and Urban Development, and related agencies appropriations bill.",
+    "Educate policymakers about Archer and eVTOL aircraft technology. Advocate for provisions in the H.R.3935 / S.1939, House and Senate FAA reauthorization process. Educate on implementation of P.L.188-63, FAA Reauthorization.",
+    "Monitoring DOE funding and loan opportunities directed toward battery manufacturing.",
+    "Educate policymakers about Archer and eVTOL aircraft technology. Monitor implementation of the FAA Reauthorization of 2024 (P.L. 118-63).",
+    "Advocate for programs related to eVTOL aircraft, infrastructure and supply chains in the FY25 Transportation, Housing and Urban Development, and related agencies appropriations bill.",
+    "Monitoring DOE funding and loan opportunities directed towards battery manufacturing.",
+    "Educate policymakers on the importance of small businesses and American innovation.",
+    "Advocate for programs related to eVTOL aircraft, infrastructure and supply chains in H.R.4552/S.2465, the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026.",
+    "Monitor DOE funding and loan opportunities directed toward battery manufacturing."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 133,
+  "trajectory": "exploding",
+  "yearsActive": 5,
+  "avgAnnualSpending": 318000,
+  "peakYear": 2024,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "transportation"
+}

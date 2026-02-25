@@ -1,1 +1,97 @@
-{"id":184540,"name":"AMERICAN FRATERNAL ALLIANCE","slug":"american-fraternal-alliance","state":"IL","description":"Trade Association for fraternal benefit societies","totalSpending":1650000,"filings":32,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":210000},{"year":2025,"income":240000}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["AARON COHEN","DREW GOESL","JENN FOGEL-BUBLICK","JAMES MCCRERY","WARREN TRYON","JOHN RAFFAELLI","DAVID OLANDER","JOSEPH EANNELLO","MONIQUE FRAZIER","ANN JABLON","DAVID BRIDGES"],"issues":["FIN","TAX","INS",null],"sampleDescriptions":["Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.","Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.  Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.","Issues related to taxation of insurance companies and their products; regulation of insurance companies and insurance products; and  issues related to fraternal benefit societies.","Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.  Education and advocacy around taxation of fraternal benefit societies and S.Con.Res10. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.","Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.  Education and advocacy around taxation of fraternal benefit societies and S.Con.Res.10. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.","Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.  Education and advocacy around taxation of fraternal benefit societies, S.Con.Res.10 and H.Con.Res.65. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.","Issues related to taxation of insurance companies and their products; regulation of insurance companies and insurance products; and issues related to fraternal benefit societies.","Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies, S.Con.Res.10 and H.Con.Res.65. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.","Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies. Advocacy related to S.Con.Res.8 and H.Con.Res.28.","Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies. Advocacy related to S.Con.Res.6 and H.Con.Res.4; monitor issues related to Tax Cuts and Jobs Act (TCJA) P.L. 115-97.","Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies. Advocacy related to S.Con.Res.6 and H.Con.Res.4; monitor issues related to Tax Cuts and Jobs Act (TCJA) P.L. 115-97 and H.R. 1, the One Big Beautiful Bill Act (OBBB) P.L. 119-21.","Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies. Advocacy related to S.Con.Res.6 and H.Con.Res.4. Monitor issues related to H.R. 1, the One Big Beautiful Bill Act (OBBB) P.L. 119-21."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184540,
+  "name": "AMERICAN FRATERNAL ALLIANCE",
+  "slug": "american-fraternal-alliance",
+  "state": "IL",
+  "description": "Trade Association for fraternal benefit societies",
+  "totalSpending": 1650000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 210000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "CAPITOL COUNSEL LLC"
+  ],
+  "lobbyists": [
+    "AARON COHEN",
+    "DREW GOESL",
+    "JENN FOGEL-BUBLICK",
+    "JAMES MCCRERY",
+    "WARREN TRYON",
+    "JOHN RAFFAELLI",
+    "DAVID OLANDER",
+    "JOSEPH EANNELLO",
+    "MONIQUE FRAZIER",
+    "ANN JABLON",
+    "DAVID BRIDGES"
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "INS",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.",
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.  Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.",
+    "Issues related to taxation of insurance companies and their products; regulation of insurance companies and insurance products; and  issues related to fraternal benefit societies.",
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.  Education and advocacy around taxation of fraternal benefit societies and S.Con.Res10. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.",
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.  Education and advocacy around taxation of fraternal benefit societies and S.Con.Res.10. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.",
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products.  Education and advocacy around taxation of fraternal benefit societies, S.Con.Res.10 and H.Con.Res.65. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.",
+    "Issues related to taxation of insurance companies and their products; regulation of insurance companies and insurance products; and issues related to fraternal benefit societies.",
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies, S.Con.Res.10 and H.Con.Res.65. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies.",
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies. Advocacy related to S.Con.Res.8 and H.Con.Res.28.",
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies. Advocacy related to S.Con.Res.6 and H.Con.Res.4; monitor issues related to Tax Cuts and Jobs Act (TCJA) P.L. 115-97.",
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies. Advocacy related to S.Con.Res.6 and H.Con.Res.4; monitor issues related to Tax Cuts and Jobs Act (TCJA) P.L. 115-97 and H.R. 1, the One Big Beautiful Bill Act (OBBB) P.L. 119-21.",
+    "Issues related to taxation of insurance companies and their products, and regulation of insurance companies and insurance products. Education and advocacy around taxation of fraternal benefit societies. Taxation of life insurance and advocacy around 501(c)(8) fraternal benefit societies. Advocacy related to S.Con.Res.6 and H.Con.Res.4. Monitor issues related to H.R. 1, the One Big Beautiful Bill Act (OBBB) P.L. 119-21."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 206250,
+  "peakYear": 2025,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 3
+}

@@ -1,1 +1,104 @@
-{"id":198971,"name":"NUTRIEN US LLC","slug":"nutrien-us-llc","state":"CO","description":"&#226;€‹Agriculture","totalSpending":1640000,"filings":26,"yearlySpending":[{"year":2019,"income":200000},{"year":2020,"income":300000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)"],"lobbyists":["ROBERT HOBART","RASHID HALLAWAY","BENJAMIN QUAYLE","DAVID NATONSKI"],"issues":["MAN","AGR","CDT","TRA","FOR","CAW","CHM","LBR","TRD","NAT","ECN","TEC","ENV","BUD",null],"sampleDescriptions":["All aspects of agricultural issues related to transportation, mining, environmental, trade issues, and intellectual property.","All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), disaster relief legislation, agricultural trade, and ethanol.","All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), disaster relief legislation, agricultural trade, ethanol, climate and sustainability policies.","Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), and H.R.748, CARES Act (P.L.116-136).","All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate and sustainability policies.","Rural broadband issues.","Levee operation and maintenance and port dredging issues.","All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate, sustainability policies, pesticide policy and pesticide registration issues.","Levee operation and maintenance and port dredging issues.\nClean Air Act regulatory matters.","Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), H.R.748, CARES Act (P.L.116-136), and additional COVID-19 legislative proposals.","Issues related to the agriculture sector; FY21 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act (H.R.7610), FY21 Consolidated Appropriations Act (H.R.7608), and H.R.8337, Continuing Appropriations Act, 2021 and Other Extensions Act.","Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), H.R.748, CARES Act (P.L.116-136), additional COVID-19 legislative proposals, and H.R.133, Making consolidated appropriations for the fiscal year ending September 30, 2021, providing coronavirus emergency response and relief, and for other purposes (P.L.116-260).","Issues related to the agriculture sector; FY21 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act (H.R.7610), FY21 Consolidated Appropriations Act (H.R.7608), H.R.8337, Continuing Appropriations Act, 2021 and Other Extensions Act, and H.R.133, Making consolidated appropriations for the fiscal year ending September 30, 2021, providing coronavirus emergency response and relief, and for other purposes (P.L.116-260).","Monitored economic impact of the COVID-19 pandemic to include response efforts and monitored infrastructure issues; H.R.748, CARES Act (P.L.116-136) implementation; H.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation; H.R.1319, American Rescue Plan Act of 2021 (P.L.117-2).","All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate policy, sustainability policy, pesticide policy and pesticide registration issues.","Issues related to the agriculture sector; H.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation;  H.R.1319, American Rescue Plan Act of 2021 (P.L.117-2); FY22 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act.","Issues related to the agriculture sector; H.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation; H.R.1319, American Rescue Plan Act of 2021 (P.L.117-2); FY22 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act.","All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate policy, sustainability policy, pesticide policy, pesticide registration, and monitored infrastructure issues; S.1251, Growing Climate Solutions Act of 2021.","All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate policy, sustainability policy, pesticide policy, pesticide registration, and monitored infrastructure issues; S.1251, Growing Climate Solutions Act of 2021; H.R.3684, Infrastructure Investment and Jobs Act (P.L.117-58).","Issues related to the agriculture sector; FY22 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act (H.R.4356, S.2599, H.R.4502); FY22 Budget Reconciliation (S.Con.Res.14, H.R.5376)."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 198971,
+  "name": "NUTRIEN US LLC",
+  "slug": "nutrien-us-llc",
+  "state": "CO",
+  "description": "&#226;€‹Agriculture",
+  "totalSpending": 1640000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 300000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)"
+  ],
+  "lobbyists": [
+    "ROBERT HOBART",
+    "RASHID HALLAWAY",
+    "BENJAMIN QUAYLE",
+    "DAVID NATONSKI"
+  ],
+  "issues": [
+    "MAN",
+    "AGR",
+    "CDT",
+    "TRA",
+    "FOR",
+    "CAW",
+    "CHM",
+    "LBR",
+    "TRD",
+    "NAT",
+    "ECN",
+    "TEC",
+    "ENV",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "All aspects of agricultural issues related to transportation, mining, environmental, trade issues, and intellectual property.",
+    "All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), disaster relief legislation, agricultural trade, and ethanol.",
+    "All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), disaster relief legislation, agricultural trade, ethanol, climate and sustainability policies.",
+    "Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), and H.R.748, CARES Act (P.L.116-136).",
+    "All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate and sustainability policies.",
+    "Rural broadband issues.",
+    "Levee operation and maintenance and port dredging issues.",
+    "All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate, sustainability policies, pesticide policy and pesticide registration issues.",
+    "Levee operation and maintenance and port dredging issues.\nClean Air Act regulatory matters.",
+    "Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), H.R.748, CARES Act (P.L.116-136), and additional COVID-19 legislative proposals.",
+    "Issues related to the agriculture sector; FY21 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act (H.R.7610), FY21 Consolidated Appropriations Act (H.R.7608), and H.R.8337, Continuing Appropriations Act, 2021 and Other Extensions Act.",
+    "Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), H.R.748, CARES Act (P.L.116-136), additional COVID-19 legislative proposals, and H.R.133, Making consolidated appropriations for the fiscal year ending September 30, 2021, providing coronavirus emergency response and relief, and for other purposes (P.L.116-260).",
+    "Issues related to the agriculture sector; FY21 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act (H.R.7610), FY21 Consolidated Appropriations Act (H.R.7608), H.R.8337, Continuing Appropriations Act, 2021 and Other Extensions Act, and H.R.133, Making consolidated appropriations for the fiscal year ending September 30, 2021, providing coronavirus emergency response and relief, and for other purposes (P.L.116-260).",
+    "Monitored economic impact of the COVID-19 pandemic to include response efforts and monitored infrastructure issues; H.R.748, CARES Act (P.L.116-136) implementation; H.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation; H.R.1319, American Rescue Plan Act of 2021 (P.L.117-2).",
+    "All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate policy, sustainability policy, pesticide policy and pesticide registration issues.",
+    "Issues related to the agriculture sector; H.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation;  H.R.1319, American Rescue Plan Act of 2021 (P.L.117-2); FY22 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act.",
+    "Issues related to the agriculture sector; H.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation; H.R.1319, American Rescue Plan Act of 2021 (P.L.117-2); FY22 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act.",
+    "All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate policy, sustainability policy, pesticide policy, pesticide registration, and monitored infrastructure issues; S.1251, Growing Climate Solutions Act of 2021.",
+    "All aspects of agricultural issues including implementation of the Agriculture Improvement Act of 2018 (P.L.115-334), agricultural and cross-border trade with Canada, ethanol, climate policy, sustainability policy, pesticide policy, pesticide registration, and monitored infrastructure issues; S.1251, Growing Climate Solutions Act of 2021; H.R.3684, Infrastructure Investment and Jobs Act (P.L.117-58).",
+    "Issues related to the agriculture sector; FY22 Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act (H.R.4356, S.2599, H.R.4502); FY22 Budget Reconciliation (S.Con.Res.14, H.R.5376)."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 20,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 234286,
+  "peakYear": 2020,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 14
+}

@@ -1,1 +1,103 @@
-{"id":152057,"name":"GOVERNMENT OF THE U.S. VIRGIN ISLANDS","slug":"government-of-the-u-s-virgin-islands","state":"VI","description":null,"totalSpending":2370000,"filings":27,"yearlySpending":[{"year":2018,"income":340000},{"year":2019,"income":40000},{"year":2020,"income":250000},{"year":2021,"income":320000},{"year":2022,"income":240000},{"year":2023,"income":230000},{"year":2024,"income":570000},{"year":2025,"income":380000}],"firms":["WINSTON & STRAWN LLP"],"lobbyists":["PETER HIEBERT","JOHN FEHRENBACH","GEOFFREY EATON","BRYANT GARDNER","SHIZA ARSHAD","JADE BAKER"],"issues":["TRA","HCR","IMM","TAX","BUD","ENV",null],"sampleDescriptions":["Legislation to increase funding for the Territorial Highway Program and other infrastructure programs.","Legislation on health care issues, including increases in Medicaid, SCHIP and hospital funding for the U.S. Virgin Islands, eligibility for participation in health insurance exchange(s).","In support of legislation authorizing a special visa waiver program for the U.S. Virgin Islands.","In support of (1) legislation to extend temporary cover-over rate, and eliminate the cap on the amount, of federal rum taxes returned to the Virgin Islands under 26 U.S.C. Section 7652; (2) legislation and administrative agreement with the U.S. IRS to authorize cost-sharing or reimbursement with respect to the Earned Income Tax Credit Program in the Virgin Islands; (3) legislation to clarify the application of the statute of limitations to Virgin Islands taxpayers; (4) legislation to clarify residency and source of income rules for Virgin Islands economic development program (American Jobs Creation Act of 2004) and implementing regulations by the U.S. Treasury; (5) in support of tax-related economic growth incentives for Virgin Islands in tax reform legislation.","In support of increased federal assistance for the Government of the U.S. Virgin Islands in FY 2017 and FY 2018 appropriations, including FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.","In support of (1) legislation to extend temporary cover-over rate, and eliminate the cap on the amount of federal rum taxes returned to the Virgin Islands under 26 U.S.C. Section 7652; (2) legislation and admnistrative agreement with the U.S. IRS to authorize cost-sharing or reimbursement with respect to the Earned Income Tax Credit Program in the Virgin Islands; (3) legislation to clarify the application of the statute of limitations to Virgin Islands taxpayers; (4) legislation to clarify residency and source of income rules for Virgin Islands economic development program (American Jobs Creation Act of 2004) and implementing regulations by the U.S. Treasury; (5) in support of tax-related economic growth incentives for Virgin Islands in tax reform legislation.","In support of increased federal assistance for the Government of the U.S. Virgin Islands in FY 2017 and FY 2018 appropriations, including FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure fundng, transportation funding, and law enforcement funding.","Interface with Congress and U.S. EPA concerning environmental requirements regarding oil refinery and terminal operations in the USVI.","In support of increased federal assistance for the Government of the U.S. Virgin Islands in FY 2019 and FY 2020 appropriations, including coronavirus funding, FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure fundng, transportation funding, and law enforcement funding.","In support of (1) emergency coronavirus aid legislation; (2) legislation to extend temporary cover-over rate, and eliminate the cap on the amount of federal rum taxes returned to the Virgin Islands under 26 U.S.C. Section 7652; (3) legislation and admnistrative agreement with the U.S. IRS to authorize cost-sharing or reimbursement with respect to the Earned Income Tax Credit Program in the Virgin Islands; (4) legislation to clarify the application of the statute of limitations to Virgin Islands taxpayers; (5) legislation to clarify residency and source of income rules for Virgin Islands economic development program (American Jobs Creation Act of 2004) and implementing regulations by the U.S. Treasury; (6) in support of tax-related economic growth incentives for Virgin Islands in tax reform legislation.","In support of (1) emergency coronavirus aid legislation; (2) legislation to extend temporary cover-over rate, and eliminate the cap on the amount of federal rum taxes returned to the Virgin Islands under 26 U.S.C. Section 7652; (3) legislation and administrative agreement with the U.S. IRS to authorize cost-sharing or reimbursement with respect to the Earned Income Tax Credit Program in the Virgin Islands; (4) legislation to clarify the application of the statute of limitations to Virgin Islands taxpayers; (5) legislation to clarify residency and source of income rules for Virgin Islands economic development program (American Jobs Creation Act of 2004) and implementing regulations by the U.S. Treasury; (6) in support of tax-related economic growth incentives for Virgin Islands in tax reform legislation.","In support of increased federal assistance for the Government of the U.S. Virgin Islands in FY 2020 and FY 2021 appropriations, including coronavirus funding, FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.","In support of legislation to increase funding for the Territorial Highway Program and other infrastructure programs.","In support of (1) emergency coronavirus aid legislation; (2) legislation providing for reimbursement of Child Tax Credit; (3) legislation providing for reimbursement of Earned Income Tax Credit; (4) legislation to eliminate or mitigate effects of GILTI tax on territorial enterprises; (5) legislation to clarify residency and source income rules for USVI economic development program; (6) legislation creating tax-related economic growth incentives.","In support of legislation on health care issues, including increases in Medicaid and hospital funding for the USVI.","In support of increased federal assistance for the Government of the US Virgin Islands in FY2021 appropriations, including COVID-19 funding, FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.","In support of increased federal assistance for the Government of the US Virgin Islands in FY2022 appropriations, including COVID-19 funding, FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.","In support of increased federal assistance for the Government of the US Virgin Islands in FY2022 appropriations, including FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.","In support of (1) USVI community project funding requests; (2) legislation providing for reimbursement of Child Tax Credit; (3) legislation providing for reimbursement of Earned Income Tax Credit; (4) legislation to eliminate or mitigate effects of GILTI tax on territorial enterprises; (5) legislation to clarify residency and source income rules for USVI economic development program; (6) legislation creating tax-related economic growth incentives.","In support of increased federal assistance for the Government of the US Virgin Islands, including FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 152057,
+  "name": "GOVERNMENT OF THE U.S. VIRGIN ISLANDS",
+  "slug": "government-of-the-u-s-virgin-islands",
+  "state": "VI",
+  "description": null,
+  "totalSpending": 2370000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 340000
+    },
+    {
+      "year": 2019,
+      "income": 40000
+    },
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 230000
+    },
+    {
+      "year": 2024,
+      "income": 570000
+    },
+    {
+      "year": 2025,
+      "income": 380000
+    }
+  ],
+  "firms": [
+    "WINSTON & STRAWN LLP"
+  ],
+  "lobbyists": [
+    "PETER HIEBERT",
+    "JOHN FEHRENBACH",
+    "GEOFFREY EATON",
+    "BRYANT GARDNER",
+    "SHIZA ARSHAD",
+    "JADE BAKER"
+  ],
+  "issues": [
+    "TRA",
+    "HCR",
+    "IMM",
+    "TAX",
+    "BUD",
+    "ENV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislation to increase funding for the Territorial Highway Program and other infrastructure programs.",
+    "Legislation on health care issues, including increases in Medicaid, SCHIP and hospital funding for the U.S. Virgin Islands, eligibility for participation in health insurance exchange(s).",
+    "In support of legislation authorizing a special visa waiver program for the U.S. Virgin Islands.",
+    "In support of (1) legislation to extend temporary cover-over rate, and eliminate the cap on the amount, of federal rum taxes returned to the Virgin Islands under 26 U.S.C. Section 7652; (2) legislation and administrative agreement with the U.S. IRS to authorize cost-sharing or reimbursement with respect to the Earned Income Tax Credit Program in the Virgin Islands; (3) legislation to clarify the application of the statute of limitations to Virgin Islands taxpayers; (4) legislation to clarify residency and source of income rules for Virgin Islands economic development program (American Jobs Creation Act of 2004) and implementing regulations by the U.S. Treasury; (5) in support of tax-related economic growth incentives for Virgin Islands in tax reform legislation.",
+    "In support of increased federal assistance for the Government of the U.S. Virgin Islands in FY 2017 and FY 2018 appropriations, including FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.",
+    "In support of (1) legislation to extend temporary cover-over rate, and eliminate the cap on the amount of federal rum taxes returned to the Virgin Islands under 26 U.S.C. Section 7652; (2) legislation and admnistrative agreement with the U.S. IRS to authorize cost-sharing or reimbursement with respect to the Earned Income Tax Credit Program in the Virgin Islands; (3) legislation to clarify the application of the statute of limitations to Virgin Islands taxpayers; (4) legislation to clarify residency and source of income rules for Virgin Islands economic development program (American Jobs Creation Act of 2004) and implementing regulations by the U.S. Treasury; (5) in support of tax-related economic growth incentives for Virgin Islands in tax reform legislation.",
+    "In support of increased federal assistance for the Government of the U.S. Virgin Islands in FY 2017 and FY 2018 appropriations, including FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure fundng, transportation funding, and law enforcement funding.",
+    "Interface with Congress and U.S. EPA concerning environmental requirements regarding oil refinery and terminal operations in the USVI.",
+    "In support of increased federal assistance for the Government of the U.S. Virgin Islands in FY 2019 and FY 2020 appropriations, including coronavirus funding, FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure fundng, transportation funding, and law enforcement funding.",
+    "In support of (1) emergency coronavirus aid legislation; (2) legislation to extend temporary cover-over rate, and eliminate the cap on the amount of federal rum taxes returned to the Virgin Islands under 26 U.S.C. Section 7652; (3) legislation and admnistrative agreement with the U.S. IRS to authorize cost-sharing or reimbursement with respect to the Earned Income Tax Credit Program in the Virgin Islands; (4) legislation to clarify the application of the statute of limitations to Virgin Islands taxpayers; (5) legislation to clarify residency and source of income rules for Virgin Islands economic development program (American Jobs Creation Act of 2004) and implementing regulations by the U.S. Treasury; (6) in support of tax-related economic growth incentives for Virgin Islands in tax reform legislation.",
+    "In support of (1) emergency coronavirus aid legislation; (2) legislation to extend temporary cover-over rate, and eliminate the cap on the amount of federal rum taxes returned to the Virgin Islands under 26 U.S.C. Section 7652; (3) legislation and administrative agreement with the U.S. IRS to authorize cost-sharing or reimbursement with respect to the Earned Income Tax Credit Program in the Virgin Islands; (4) legislation to clarify the application of the statute of limitations to Virgin Islands taxpayers; (5) legislation to clarify residency and source of income rules for Virgin Islands economic development program (American Jobs Creation Act of 2004) and implementing regulations by the U.S. Treasury; (6) in support of tax-related economic growth incentives for Virgin Islands in tax reform legislation.",
+    "In support of increased federal assistance for the Government of the U.S. Virgin Islands in FY 2020 and FY 2021 appropriations, including coronavirus funding, FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.",
+    "In support of legislation to increase funding for the Territorial Highway Program and other infrastructure programs.",
+    "In support of (1) emergency coronavirus aid legislation; (2) legislation providing for reimbursement of Child Tax Credit; (3) legislation providing for reimbursement of Earned Income Tax Credit; (4) legislation to eliminate or mitigate effects of GILTI tax on territorial enterprises; (5) legislation to clarify residency and source income rules for USVI economic development program; (6) legislation creating tax-related economic growth incentives.",
+    "In support of legislation on health care issues, including increases in Medicaid and hospital funding for the USVI.",
+    "In support of increased federal assistance for the Government of the US Virgin Islands in FY2021 appropriations, including COVID-19 funding, FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.",
+    "In support of increased federal assistance for the Government of the US Virgin Islands in FY2022 appropriations, including COVID-19 funding, FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.",
+    "In support of increased federal assistance for the Government of the US Virgin Islands in FY2022 appropriations, including FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding.",
+    "In support of (1) USVI community project funding requests; (2) legislation providing for reimbursement of Child Tax Credit; (3) legislation providing for reimbursement of Earned Income Tax Credit; (4) legislation to eliminate or mitigate effects of GILTI tax on territorial enterprises; (5) legislation to clarify residency and source income rules for USVI economic development program; (6) legislation creating tax-related economic growth incentives.",
+    "In support of increased federal assistance for the Government of the US Virgin Islands, including FEMA and hurricane recovery funding, environmental and other infrastructure projects, increased Medicaid and health care infrastructure funding, transportation funding, and law enforcement funding."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 12,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 296250,
+  "peakYear": 2024,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 6
+}

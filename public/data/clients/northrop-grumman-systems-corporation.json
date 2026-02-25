@@ -1,1 +1,105 @@
-{"id":117737,"name":"NORTHROP GRUMMAN SYSTEMS CORPORATION","slug":"northrop-grumman-systems-corporation","state":"VA","description":"Aerospace and defense technology","totalSpending":1472000,"filings":27,"yearlySpending":[{"year":2018,"income":87000},{"year":2019,"income":160000},{"year":2020,"income":120000},{"year":2021,"income":165000},{"year":2022,"income":260000},{"year":2023,"income":280000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["THE DUBERSTEIN GROUP INC."],"lobbyists":["BRIAN GRIFFIN","DANIEL MEYER","DAVID SCHIAPPA","ANNE WALL","ANNE BRADBURY","KATHERINE KEATING","BENJAMIN HOWARD","ELIZABETH KELLEY"],"issues":["BUD","DEF","SCI","TAX","MAN",null],"sampleDescriptions":["Budget issues","H.R.2500 (Smith) - National Defense Authorization Act for Fiscal Year 2020; S.1790 (Inhofe) - National Defense Authorization Act for Fiscal Year 2020","Budget & Appropriations","S.4049 (Inhofe) - National Defense Authorization Act For Fiscal Year 2021\n\nGround Based Strategic Deterrent (GBSD) \n\nIssues related to COVID-19: H.R.748 - CARES Act","S.4049 (Inhofe) - National Defense Authorization Act For Fiscal Year 2021\n\nIssues related to COVID-19: H.R.748 - CARES Act","S.4049 (Inhofe) - National Defense Authorization Act For Fiscal Year 2021\n\nH.R.6395 (Smith, A.) - National Defense Authorization Act for Fiscal Year 2021\n\nIssues related to COVID-19: H.R.133 - Consolidated Appropriations Act, 2021","Covid Relief Package and Omnibus Appropriations: H.R.133 - Consolidated Appropriations Act, 2021","Issues related to Ground Based Strategic Deterrent (GBSD) system","Issues related to Covid-19 and H.R.1319 (Yarmuth) - American Rescue Plan Act\n\nAppropriations Issues","Appropriations Issues","Issues related to microelectronics and semiconductors","Issues related to tax","Issues related to Ground Based Strategic Deterrent (GBSD) system\n\nGeneral outreach to offices","United States Innovation and Competition Act (S 1260); America Creating Opportunities for Manufacturing, Pre-Eminence in Technology and Economic Strength Act of 2022 (HR 4521); CHIPS Act","Issues related to appropriations","FY23 NDAA and Ground Based Strategic Deterrent (GBSD)","Issues related to tax Issues related to R&D","Issues related to defense appropriations","Issues related to NDAA","Issues related to NDAA General introductions"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 117737,
+  "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+  "slug": "northrop-grumman-systems-corporation",
+  "state": "VA",
+  "description": "Aerospace and defense technology",
+  "totalSpending": 1472000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 87000
+    },
+    {
+      "year": 2019,
+      "income": 160000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 165000
+    },
+    {
+      "year": 2022,
+      "income": 260000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "THE DUBERSTEIN GROUP INC."
+  ],
+  "lobbyists": [
+    "BRIAN GRIFFIN",
+    "DANIEL MEYER",
+    "DAVID SCHIAPPA",
+    "ANNE WALL",
+    "ANNE BRADBURY",
+    "KATHERINE KEATING",
+    "BENJAMIN HOWARD",
+    "ELIZABETH KELLEY"
+  ],
+  "issues": [
+    "BUD",
+    "DEF",
+    "SCI",
+    "TAX",
+    "MAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Budget issues",
+    "H.R.2500 (Smith) - National Defense Authorization Act for Fiscal Year 2020; S.1790 (Inhofe) - National Defense Authorization Act for Fiscal Year 2020",
+    "Budget & Appropriations",
+    "S.4049 (Inhofe) - National Defense Authorization Act For Fiscal Year 2021\n\nGround Based Strategic Deterrent (GBSD) \n\nIssues related to COVID-19: H.R.748 - CARES Act",
+    "S.4049 (Inhofe) - National Defense Authorization Act For Fiscal Year 2021\n\nIssues related to COVID-19: H.R.748 - CARES Act",
+    "S.4049 (Inhofe) - National Defense Authorization Act For Fiscal Year 2021\n\nH.R.6395 (Smith, A.) - National Defense Authorization Act for Fiscal Year 2021\n\nIssues related to COVID-19: H.R.133 - Consolidated Appropriations Act, 2021",
+    "Covid Relief Package and Omnibus Appropriations: H.R.133 - Consolidated Appropriations Act, 2021",
+    "Issues related to Ground Based Strategic Deterrent (GBSD) system",
+    "Issues related to Covid-19 and H.R.1319 (Yarmuth) - American Rescue Plan Act\n\nAppropriations Issues",
+    "Appropriations Issues",
+    "Issues related to microelectronics and semiconductors",
+    "Issues related to tax",
+    "Issues related to Ground Based Strategic Deterrent (GBSD) system\n\nGeneral outreach to offices",
+    "United States Innovation and Competition Act (S 1260); America Creating Opportunities for Manufacturing, Pre-Eminence in Technology and Economic Strength Act of 2022 (HR 4521); CHIPS Act",
+    "Issues related to appropriations",
+    "FY23 NDAA and Ground Based Strategic Deterrent (GBSD)",
+    "Issues related to tax Issues related to R&D",
+    "Issues related to defense appropriations",
+    "Issues related to NDAA",
+    "Issues related to NDAA General introductions"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 130,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 184000,
+  "peakYear": 2023,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "defense"
+}

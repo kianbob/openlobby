@@ -1,1 +1,79 @@
-{"id":112650,"name":"DISH NETWORK","slug":"dish-network","state":"DC","description":"Satellite Service Provider","totalSpending":1370000,"filings":26,"yearlySpending":[{"year":2019,"income":90000},{"year":2020,"income":90000},{"year":2021,"income":290000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":180000}],"firms":["CASSIDY & ASSOCIATES, INC."],"lobbyists":["KAI ANDERSON","JULIE EDDY ROKALA","ANDREW FORBES","MICHELLE GREENE","SUSANN EDWARDS","KELLEY HUDAK","CHARLES SYDNOR","JORDAN BERNSTEIN","HAWLEY STANTON"],"issues":["TEC",null],"sampleDescriptions":["Issues relating to satellite broadband, infrastructure, STELAR, retransmission consent","Issues related to satellite broadband, infrastructure, SteLAR, retransmission consent","Issues related to satellite broadband, infrastructure, SteLAR, retransmission consent."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 112650,
+  "name": "DISH NETWORK",
+  "slug": "dish-network",
+  "state": "DC",
+  "description": "Satellite Service Provider",
+  "totalSpending": 1370000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 90000
+    },
+    {
+      "year": 2020,
+      "income": 90000
+    },
+    {
+      "year": 2021,
+      "income": 290000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "CASSIDY & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "KAI ANDERSON",
+    "JULIE EDDY ROKALA",
+    "ANDREW FORBES",
+    "MICHELLE GREENE",
+    "SUSANN EDWARDS",
+    "KELLEY HUDAK",
+    "CHARLES SYDNOR",
+    "JORDAN BERNSTEIN",
+    "HAWLEY STANTON"
+  ],
+  "issues": [
+    "TEC",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues relating to satellite broadband, infrastructure, STELAR, retransmission consent",
+    "Issues related to satellite broadband, infrastructure, SteLAR, retransmission consent",
+    "Issues related to satellite broadband, infrastructure, SteLAR, retransmission consent."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 195714,
+  "peakYear": 2021,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 1
+}

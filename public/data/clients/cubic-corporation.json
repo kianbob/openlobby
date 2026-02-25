@@ -1,1 +1,102 @@
-{"id":168075,"name":"CUBIC CORPORATION","slug":"cubic-corporation","state":"VA","description":"Government Relations","totalSpending":1980000,"filings":31,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":180000},{"year":2020,"income":250000},{"year":2021,"income":280000},{"year":2022,"income":290000},{"year":2023,"income":380000},{"year":2024,"income":240000},{"year":2025,"income":180000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["JOHN LEGGIERI","JOHN KEAST","ANTHONY LAZARSKI","ERIC TOBER","JOHN BOHANAN","TODD WEBSTER","JAMES RICHARDS","ALEXANDRA VICTOR","MICHAEL GOODMAN","WILLIAM TODD","WILLIAM SMITH","HEATHER MOLINO","SHANETTA PASKEL","MATT SCHNAPPAUF","LOUIE PERRY","RICK ZAMPELLI"],"issues":["DEF","TRA","BUD",null],"sampleDescriptions":["House and Senate Defense Authorization, NDAA","Promote Cubic transportation technology solutionas","House and Senate Defense Appropriations","Promote Cubic transportation technology solutions","Promote Cubic transportation technology solutions, transportation appropriations issues","Promote Cubic transportation technology solutions, transportation appropriations issues and reauthorization of federal surface transportation programs","Promote Cubic transportation technology solutions, transportation appropriations issues and reauthorization of federal surface transportation programs, H.R. 3684, The Infrastructure Investment & Jobs Act.","House and Senate Defense Authorization, National Defense Authorization Act","Transportation Appropriations for FY2023 (H.R. 8294, S. 4670).","House and Senate Defense Authorization; National Defense Authorization Act","House and Senate Defense Authorization; National Defense Authorization Act.","House and Senate Defense Appropriations."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 168075,
+  "name": "CUBIC CORPORATION",
+  "slug": "cubic-corporation",
+  "state": "VA",
+  "description": "Government Relations",
+  "totalSpending": 1980000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 280000
+    },
+    {
+      "year": 2022,
+      "income": 290000
+    },
+    {
+      "year": 2023,
+      "income": 380000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "JOHN LEGGIERI",
+    "JOHN KEAST",
+    "ANTHONY LAZARSKI",
+    "ERIC TOBER",
+    "JOHN BOHANAN",
+    "TODD WEBSTER",
+    "JAMES RICHARDS",
+    "ALEXANDRA VICTOR",
+    "MICHAEL GOODMAN",
+    "WILLIAM TODD",
+    "WILLIAM SMITH",
+    "HEATHER MOLINO",
+    "SHANETTA PASKEL",
+    "MATT SCHNAPPAUF",
+    "LOUIE PERRY",
+    "RICK ZAMPELLI"
+  ],
+  "issues": [
+    "DEF",
+    "TRA",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "House and Senate Defense Authorization, NDAA",
+    "Promote Cubic transportation technology solutionas",
+    "House and Senate Defense Appropriations",
+    "Promote Cubic transportation technology solutions",
+    "Promote Cubic transportation technology solutions, transportation appropriations issues",
+    "Promote Cubic transportation technology solutions, transportation appropriations issues and reauthorization of federal surface transportation programs",
+    "Promote Cubic transportation technology solutions, transportation appropriations issues and reauthorization of federal surface transportation programs, H.R. 3684, The Infrastructure Investment & Jobs Act.",
+    "House and Senate Defense Authorization, National Defense Authorization Act",
+    "Transportation Appropriations for FY2023 (H.R. 8294, S. 4670).",
+    "House and Senate Defense Authorization; National Defense Authorization Act",
+    "House and Senate Defense Authorization; National Defense Authorization Act.",
+    "House and Senate Defense Appropriations."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 247500,
+  "peakYear": 2023,
+  "lobbyistCount": 16,
+  "firmCount": 1,
+  "issueCount": 3
+}

@@ -1,1 +1,68 @@
-{"id":205291,"name":"FIRST QUANTUM MINERALS LTD.","slug":"first-quantum-minerals-ltd","state":null,"description":"Global copper company","totalSpending":3965000,"filings":19,"yearlySpending":[{"year":2020,"income":225000},{"year":2021,"income":630000},{"year":2022,"income":810000},{"year":2023,"income":1070000},{"year":2024,"income":920000},{"year":2025,"income":310000}],"firms":["MCLARTY INBOUND LLC"],"lobbyists":["RICHARD BURT","STEPHEN DONEHOO"],"issues":["FOR","NAT",null],"sampleDescriptions":["Advise on US-Panama relations and promotion of mining operations in Panama.","Advise and educate on US business interests in Panama, particularly related to mining operations","Advise and educate on US business interests in Panama, particularly related to mining operations."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 205291,
+  "name": "FIRST QUANTUM MINERALS LTD.",
+  "slug": "first-quantum-minerals-ltd",
+  "state": null,
+  "description": "Global copper company",
+  "totalSpending": 3965000,
+  "filings": 19,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 225000
+    },
+    {
+      "year": 2021,
+      "income": 630000
+    },
+    {
+      "year": 2022,
+      "income": 810000
+    },
+    {
+      "year": 2023,
+      "income": 1070000
+    },
+    {
+      "year": 2024,
+      "income": 920000
+    },
+    {
+      "year": 2025,
+      "income": 310000
+    }
+  ],
+  "firms": [
+    "MCLARTY INBOUND LLC"
+  ],
+  "lobbyists": [
+    "RICHARD BURT",
+    "STEPHEN DONEHOO"
+  ],
+  "issues": [
+    "FOR",
+    "NAT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Advise on US-Panama relations and promotion of mining operations in Panama.",
+    "Advise and educate on US business interests in Panama, particularly related to mining operations",
+    "Advise and educate on US business interests in Panama, particularly related to mining operations."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 38,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 660833,
+  "peakYear": 2023,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 2
+}

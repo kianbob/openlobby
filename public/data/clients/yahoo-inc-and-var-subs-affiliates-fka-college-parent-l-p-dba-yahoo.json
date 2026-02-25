@@ -1,1 +1,93 @@
-{"id":205812,"name":"YAHOO INC, AND VAR. SUBS/AFFILIATES (FKA COLLEGE PARENT, L.P. DBA \"YAHOO\")","slug":"yahoo-inc-and-var-subs-affiliates-fka-college-parent-l-p-dba-yahoo","state":"VA","description":"Internet/search/online ad technology company","totalSpending":1560000,"filings":26,"yearlySpending":[{"year":2020,"income":180000},{"year":2021,"income":300000},{"year":2022,"income":300000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":300000}],"firms":["H&M STRATEGIES LLP"],"lobbyists":["NICOLE MORTIER","RALPH HELLMANN","SARAH WALTER","KRISTEN O'NEILL","KRISTEN BAUTZ","DANIEL CHEEVER"],"issues":["MIA","LAW","ADV",null,"CSP","CPI"],"sampleDescriptions":["online user speech liability issues and Sec 230 of the Communications Decency Act","S. 3398 - EARN IT Act; online user speech liability issues and Sec 230 of the Communications Decency Act; encrypted communications and law enforcement access to data","online advertising issues and interest-based advertising models; online commercial privacy legislation; online user speech liability issues and Sec 230 of the Communications Decency Act","online advertising issues and interest-based advertising models; online commercial privacy legislation; online user speech liability issues and Sec 230 of the Communications Decency Act; EARN IT Act S.3398","online advertising issues and interest-based advertising models; online commercial privacy legislation; online user speech liability issues and Sec 230 of the Communications Decency Act; EARN IT Act S.3398; PACT Act","General informational/educational meetings and issues relating to online advertising and consumer privacy reform legislation and policies and competition in the digital advertising industry.  General informational/educational meetings on online publishing platforms and related policy issues, including liability reform/Sec 230 of the Communications Decency Act and reform legislation and proposals.","General informational/educational meetings and issues relating to online advertising and consumer privacy reform legislation and policies and competition in the digital advertising industry. General informational/educational meetings on online publishing platforms and related policy issues, including liability reform/Sec 230 of the Communications Decency Act and reform legislation and proposals.","General informational meetings on online publishing platforms and related policy issues, including liability reform","General informational meetings on online advertising issues and consumer privacy","General informational/educational meetings and issues relating to online advertising and consumer privacy reform legislation and policies, including the Information Transparency & Personal Data Control Act (H.R. 1816) and competition in the digital advertising industry, including ACCESS Act of 2021 (HR 3849).","General informational meetings on online publishing platforms and related policy issues, including liability reform/Section 230 reform legislation and proposals.","Issues relating to online advertising and consumer privacy reform legislation and policies, including H.R. 8152, the American Data Privacy and Protection Act, as well as competition in the digital advertising industry, including S. 4258, Competition and Transparency in Digital Advertising Act.","Issues relating to online advertising and consumer privacy reform legislation and policies, including H.R. 8152, the American Data Privacy and Protection Act, as well as competition in the digital advertising industry.","Issues relating to online publishing platforms and related policy issues, including Section 230 liability reform legislation and proposals.","Issues relating to online publishing platforms and related policy issues, including Section 230 liability reform legislation and proposals and the Communications Decency Act","Issues related to online advertising and consumer privacy reform legislation and policies, including the American Data Privacy and Protection Act (no bill number).","Issues related to online publishing platforms and related policy issues, including reform legislation and proposals pertaining to Section 230 of the Communications Decency Act.","Issues related to childrens privacy and safety, including S. 1207, Eliminating Abusive and Rampant Neglect of Interactive Technologies (EARN IT) Act; S. 1409, Kids Online Safety Act; S. 1418, Children and Teens Online Privacy Protection 2.0 Reform Act; S. 1199, Strengthening Transparency and Obligations to Protect Children Suffering from Abuse and Mistreatment Act (STOP CSAM Act).","Issues related to privacy, Federal privacy legislation, including the American Data Privacy and Protection Act (no bill number), and childrens privacy and safety, and cybersecurity","Issues related to privacy, Federal privacy legislation, including the American Data Privacy and Protection Act (HR 8818), and childrens privacy and safety, and cybersecurity"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 205812,
+  "name": "YAHOO INC, AND VAR. SUBS/AFFILIATES (FKA COLLEGE PARENT, L.P. DBA \"YAHOO\")",
+  "slug": "yahoo-inc-and-var-subs-affiliates-fka-college-parent-l-p-dba-yahoo",
+  "state": "VA",
+  "description": "Internet/search/online ad technology company",
+  "totalSpending": 1560000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 300000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 300000
+    }
+  ],
+  "firms": [
+    "H&M STRATEGIES LLP"
+  ],
+  "lobbyists": [
+    "NICOLE MORTIER",
+    "RALPH HELLMANN",
+    "SARAH WALTER",
+    "KRISTEN O'NEILL",
+    "KRISTEN BAUTZ",
+    "DANIEL CHEEVER"
+  ],
+  "issues": [
+    "MIA",
+    "LAW",
+    "ADV",
+    null,
+    "CSP",
+    "CPI"
+  ],
+  "sampleDescriptions": [
+    "online user speech liability issues and Sec 230 of the Communications Decency Act",
+    "S. 3398 - EARN IT Act; online user speech liability issues and Sec 230 of the Communications Decency Act; encrypted communications and law enforcement access to data",
+    "online advertising issues and interest-based advertising models; online commercial privacy legislation; online user speech liability issues and Sec 230 of the Communications Decency Act",
+    "online advertising issues and interest-based advertising models; online commercial privacy legislation; online user speech liability issues and Sec 230 of the Communications Decency Act; EARN IT Act S.3398",
+    "online advertising issues and interest-based advertising models; online commercial privacy legislation; online user speech liability issues and Sec 230 of the Communications Decency Act; EARN IT Act S.3398; PACT Act",
+    "General informational/educational meetings and issues relating to online advertising and consumer privacy reform legislation and policies and competition in the digital advertising industry.  General informational/educational meetings on online publishing platforms and related policy issues, including liability reform/Sec 230 of the Communications Decency Act and reform legislation and proposals.",
+    "General informational/educational meetings and issues relating to online advertising and consumer privacy reform legislation and policies and competition in the digital advertising industry. General informational/educational meetings on online publishing platforms and related policy issues, including liability reform/Sec 230 of the Communications Decency Act and reform legislation and proposals.",
+    "General informational meetings on online publishing platforms and related policy issues, including liability reform",
+    "General informational meetings on online advertising issues and consumer privacy",
+    "General informational/educational meetings and issues relating to online advertising and consumer privacy reform legislation and policies, including the Information Transparency & Personal Data Control Act (H.R. 1816) and competition in the digital advertising industry, including ACCESS Act of 2021 (HR 3849).",
+    "General informational meetings on online publishing platforms and related policy issues, including liability reform/Section 230 reform legislation and proposals.",
+    "Issues relating to online advertising and consumer privacy reform legislation and policies, including H.R. 8152, the American Data Privacy and Protection Act, as well as competition in the digital advertising industry, including S. 4258, Competition and Transparency in Digital Advertising Act.",
+    "Issues relating to online advertising and consumer privacy reform legislation and policies, including H.R. 8152, the American Data Privacy and Protection Act, as well as competition in the digital advertising industry.",
+    "Issues relating to online publishing platforms and related policy issues, including Section 230 liability reform legislation and proposals.",
+    "Issues relating to online publishing platforms and related policy issues, including Section 230 liability reform legislation and proposals and the Communications Decency Act",
+    "Issues related to online advertising and consumer privacy reform legislation and policies, including the American Data Privacy and Protection Act (no bill number).",
+    "Issues related to online publishing platforms and related policy issues, including reform legislation and proposals pertaining to Section 230 of the Communications Decency Act.",
+    "Issues related to childrens privacy and safety, including S. 1207, Eliminating Abusive and Rampant Neglect of Interactive Technologies (EARN IT) Act; S. 1409, Kids Online Safety Act; S. 1418, Children and Teens Online Privacy Protection 2.0 Reform Act; S. 1199, Strengthening Transparency and Obligations to Protect Children Suffering from Abuse and Mistreatment Act (STOP CSAM Act).",
+    "Issues related to privacy, Federal privacy legislation, including the American Data Privacy and Protection Act (no bill number), and childrens privacy and safety, and cybersecurity",
+    "Issues related to privacy, Federal privacy legislation, including the American Data Privacy and Protection Act (HR 8818), and childrens privacy and safety, and cybersecurity"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 67,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 260000,
+  "peakYear": 2021,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "technology"
+}

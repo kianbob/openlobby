@@ -1,1 +1,82 @@
-{"id":109722,"name":"VECTOR GROUP LTD","slug":"vector-group-ltd","state":"FL","description":null,"totalSpending":2210000,"filings":28,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":50000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["NORMAN BROWNSTEIN","MICHAEL LEVY","BRIAN MCGUIRE","ANDREW LITTMAN"],"issues":["TAX","TOB",null,"GOV"],"sampleDescriptions":["Issues relating to tax and regulatory equalization of tobacco products\nIssues relating to the implementation of tobacco deeming and substantial equivalence regulations","Legislation and regulatory issues pertaining to tobacco","Issues relating to tax and regulatory equalization of tobacco products Issues relating to the implementation of tobacco deeming and substantial equivalence regulations","Issues related to sales of illegal vaping devices"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 109722,
+  "name": "VECTOR GROUP LTD",
+  "slug": "vector-group-ltd",
+  "state": "FL",
+  "description": null,
+  "totalSpending": 2210000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 50000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "NORMAN BROWNSTEIN",
+    "MICHAEL LEVY",
+    "BRIAN MCGUIRE",
+    "ANDREW LITTMAN"
+  ],
+  "issues": [
+    "TAX",
+    "TOB",
+    null,
+    "GOV"
+  ],
+  "sampleDescriptions": [
+    "Issues relating to tax and regulatory equalization of tobacco products\nIssues relating to the implementation of tobacco deeming and substantial equivalence regulations",
+    "Legislation and regulatory issues pertaining to tobacco",
+    "Issues relating to tax and regulatory equalization of tobacco products Issues relating to the implementation of tobacco deeming and substantial equivalence regulations",
+    "Issues related to sales of illegal vaping devices"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -79,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 276250,
+  "peakYear": 2019,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 3
+}

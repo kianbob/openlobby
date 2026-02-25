@@ -1,1 +1,84 @@
-{"id":193918,"name":"SERCO INC.","slug":"serco-inc","state":"VA","description":"Professional, technology, and managed services focused on the federal government","totalSpending":1530000,"filings":27,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":120000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":200000},{"year":2025,"income":130000}],"firms":["BLUESTONE STRATEGIES, LLC"],"lobbyists":["CHRISTOPHER LONG","BEHRENDS FOSTER","CHRIS HUCKLEBERRY"],"issues":["HCR","AVI","DEF",null],"sampleDescriptions":["Serco contract and contracting opportunities with the Department of Health and Human Services.","FAA Contract Tower Program","Serco contract and contracting opportunities with the Department of Defense","FAA Contract Tower Program and federal funding related to it","Serco contract and contracting opportunities with the Department of Defense including the NOMARS program and FY25 appropriations","FAA Contract Tower Program and federal funding and staffing issues related to it","Serco contract and contracting opportunities with the Department of Defense including the NOMARS program and FY26 NDAA authorization and FY26 appropriations."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 193918,
+  "name": "SERCO INC.",
+  "slug": "serco-inc",
+  "state": "VA",
+  "description": "Professional, technology, and managed services focused on the federal government",
+  "totalSpending": 1530000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 130000
+    }
+  ],
+  "firms": [
+    "BLUESTONE STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "CHRISTOPHER LONG",
+    "BEHRENDS FOSTER",
+    "CHRIS HUCKLEBERRY"
+  ],
+  "issues": [
+    "HCR",
+    "AVI",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "Serco contract and contracting opportunities with the Department of Health and Human Services.",
+    "FAA Contract Tower Program",
+    "Serco contract and contracting opportunities with the Department of Defense",
+    "FAA Contract Tower Program and federal funding related to it",
+    "Serco contract and contracting opportunities with the Department of Defense including the NOMARS program and FY25 appropriations",
+    "FAA Contract Tower Program and federal funding and staffing issues related to it",
+    "Serco contract and contracting opportunities with the Department of Defense including the NOMARS program and FY26 NDAA authorization and FY26 appropriations."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -28,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 191250,
+  "peakYear": 2020,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 3
+}

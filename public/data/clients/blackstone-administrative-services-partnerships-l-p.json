@@ -1,1 +1,101 @@
-{"id":201412,"name":"BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIPS L.P.","slug":"blackstone-administrative-services-partnerships-l-p","state":"DC","description":"Investment firm","totalSpending":2790000,"filings":23,"yearlySpending":[{"year":2019,"income":50000},{"year":2020,"income":590000},{"year":2021,"income":240000},{"year":2022,"income":390000},{"year":2023,"income":480000},{"year":2024,"income":240000},{"year":2025,"income":800000}],"firms":["MILLER STRATEGIES, LLC"],"lobbyists":["JEFFREY MILLER","ASHLEY GUNN","GEORGE CARAM","JONATHAN HILER","JESSICA MANDEL","JAMES MIN"],"issues":["GOV","ENG","DIS","ECN","FIN","HCR","TRD",null,"AVI","MAR"],"sampleDescriptions":["General monitoring of legislative issues as they relate to the federal government, including nuclear energy.","Issues as they relate to energy production, including nuclear energy.","Issues as they relate to COVID-19 financial relief legislation, including H.R. 748, Coronavirus Aid, Relief, and Economic Security (CARES) Act","General monitoring of legislative issues as they relate to the federal government","General issues related to corporate finance","General healthcare issues related to COVID-19 research and diagnostics","Issues as they relate to energy production, including nuclear energy","General healthcare issues including; COVID-19 and Operation Warp Speed.","General issues related to corporate finance.","General monitoring of legislative issues as they relate to the federal government.","Issues as they relate to energy production, including renewable energy.","General trade issues related to the import and export of goods.","General healthcare issues including; COVID-19 research and diagnostics.","Issues as they relate to energy production, including renewable energy","General healthcare issues including; COVID-19 research and diagnostics","General trade issues related to the import and export of goods","Reached out to members to address concerns about potential amendments in FAA reauthorization process","General healthcare issues","General issues related to FAA reauthorization process.","General issues related to The Jones Act."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 201412,
+  "name": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIPS L.P.",
+  "slug": "blackstone-administrative-services-partnerships-l-p",
+  "state": "DC",
+  "description": "Investment firm",
+  "totalSpending": 2790000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 50000
+    },
+    {
+      "year": 2020,
+      "income": 590000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 390000
+    },
+    {
+      "year": 2023,
+      "income": 480000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 800000
+    }
+  ],
+  "firms": [
+    "MILLER STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "JEFFREY MILLER",
+    "ASHLEY GUNN",
+    "GEORGE CARAM",
+    "JONATHAN HILER",
+    "JESSICA MANDEL",
+    "JAMES MIN"
+  ],
+  "issues": [
+    "GOV",
+    "ENG",
+    "DIS",
+    "ECN",
+    "FIN",
+    "HCR",
+    "TRD",
+    null,
+    "AVI",
+    "MAR"
+  ],
+  "sampleDescriptions": [
+    "General monitoring of legislative issues as they relate to the federal government, including nuclear energy.",
+    "Issues as they relate to energy production, including nuclear energy.",
+    "Issues as they relate to COVID-19 financial relief legislation, including H.R. 748, Coronavirus Aid, Relief, and Economic Security (CARES) Act",
+    "General monitoring of legislative issues as they relate to the federal government",
+    "General issues related to corporate finance",
+    "General healthcare issues related to COVID-19 research and diagnostics",
+    "Issues as they relate to energy production, including nuclear energy",
+    "General healthcare issues including; COVID-19 and Operation Warp Speed.",
+    "General issues related to corporate finance.",
+    "General monitoring of legislative issues as they relate to the federal government.",
+    "Issues as they relate to energy production, including renewable energy.",
+    "General trade issues related to the import and export of goods.",
+    "General healthcare issues including; COVID-19 research and diagnostics.",
+    "Issues as they relate to energy production, including renewable energy",
+    "General healthcare issues including; COVID-19 research and diagnostics",
+    "General trade issues related to the import and export of goods",
+    "Reached out to members to address concerns about potential amendments in FAA reauthorization process",
+    "General healthcare issues",
+    "General issues related to FAA reauthorization process.",
+    "General issues related to The Jones Act."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 1500,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 398571,
+  "peakYear": 2025,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 9
+}

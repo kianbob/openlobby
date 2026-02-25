@@ -1,1 +1,86 @@
-{"id":195052,"name":"GENERAL MOTORS, LLC","slug":"general-motors-llc","state":"DC","description":"Automotive industry","totalSpending":2400000,"filings":30,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":400000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":80000}],"firms":["ROBERTI GLOBAL (F/K/A ROBERTI WHITE, LLC)"],"lobbyists":["VINCENT ROBERTI, SR.","LYDIA STRUNK","DREW COLE"],"issues":["AUT","ENV","TEC",null],"sampleDescriptions":["- General automotive industry issues\n- Issues relating to autonomous vehicles, education and communication\n- Cyber security issues \n- Safety\n- Tax","- Fuel economy, sustainability","- General global communications issues","- General automotive industry issues\n- Issues relating to autonomous vehicles, education and communication\n- Cyber security issues \n- Safety\n- Tax\n- Issues related to the Coronavirus response; H.R. 748 (CARES Act)","- General automotive industry issues\n- Issues relating to autonomous vehicles, education, and communication\n- Cybersecurity issues\n- Safety\n- Tax","- General automotive industry issues - Issues relating to autonomous vehicles, education, and communication - Cybersecurity issues - Safety - Tax","Fuel economy, sustainability","General automotive industry issues Issues relating to autonomous vehicles, education, and communication Cybersecurity issues Safety Tax","General automotive industry issues Issues relating to autonomous vehicles, education, and communication Safety Tax"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 195052,
+  "name": "GENERAL MOTORS, LLC",
+  "slug": "general-motors-llc",
+  "state": "DC",
+  "description": "Automotive industry",
+  "totalSpending": 2400000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 400000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 80000
+    }
+  ],
+  "firms": [
+    "ROBERTI GLOBAL (F/K/A ROBERTI WHITE, LLC)"
+  ],
+  "lobbyists": [
+    "VINCENT ROBERTI, SR.",
+    "LYDIA STRUNK",
+    "DREW COLE"
+  ],
+  "issues": [
+    "AUT",
+    "ENV",
+    "TEC",
+    null
+  ],
+  "sampleDescriptions": [
+    "- General automotive industry issues\n- Issues relating to autonomous vehicles, education and communication\n- Cyber security issues \n- Safety\n- Tax",
+    "- Fuel economy, sustainability",
+    "- General global communications issues",
+    "- General automotive industry issues\n- Issues relating to autonomous vehicles, education and communication\n- Cyber security issues \n- Safety\n- Tax\n- Issues related to the Coronavirus response; H.R. 748 (CARES Act)",
+    "- General automotive industry issues\n- Issues relating to autonomous vehicles, education, and communication\n- Cybersecurity issues\n- Safety\n- Tax",
+    "- General automotive industry issues - Issues relating to autonomous vehicles, education, and communication - Cybersecurity issues - Safety - Tax",
+    "Fuel economy, sustainability",
+    "General automotive industry issues Issues relating to autonomous vehicles, education, and communication Cybersecurity issues Safety Tax",
+    "General automotive industry issues Issues relating to autonomous vehicles, education, and communication Safety Tax"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -75,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 300000,
+  "peakYear": 2022,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 3
+}

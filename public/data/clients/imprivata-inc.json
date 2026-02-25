@@ -1,1 +1,93 @@
-{"id":192578,"name":"IMPRIVATA INC","slug":"imprivata-inc","state":"MA","description":"&#226;€‹IT security company","totalSpending":1420000,"filings":31,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":230000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":120000},{"year":2024,"income":120000},{"year":2025,"income":120000}],"firms":["THORN RUN PARTNERS"],"lobbyists":["STUART CHAPMAN","GARY PALMQUIST","WILLIAM LAMOND"],"issues":["HCR",null],"sampleDescriptions":["Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nH.R.3528/S.2460, Every Prescription Conveyed Securely Act; Electronic Prescribing of Controlled Substances issues. \nCybersecurity issues. \nHealth Information Technology issues.","Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nH.R.3528/S.2460, Every Prescription Conveyed Securely Act; Electronic Prescribing of Controlled Substances issues. \nCybersecurity issues. \nHealth Information Technology issues.\nH.R.6, SUPPORT for Patients and Communities Act.","Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nH.R.3528/S.2460, Every Prescription Conveyed Securely Act; Electronic Prescribing of Controlled Substances issues. \nCybersecurity issues. \nHealth Information Technology issues.\nH.R.6, SUPPORT for Patients and Communities Act (P.L.115-271).","Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nCybersecurity issues.\nHealth Information Technology issues.\nFY 2020 Department of Labor and HHS Education appropriations bill.","Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nCybersecurity issues.\nHealth Information Technology issues.\nH.R.2740, Labor, Health and Human Services, Education, Defense, State, Foreign Operations, and Energy and Water Development Appropriations Act, 2020","Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nH.R.2740, Labor, Health and Human Services, Education, Defense, State, Foreign Operations, and Energy and Water Development Appropriations Act, 2020.","Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nH.R. 7614, Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2021.\nH.R. 2, The Moving Forward Act. \nThe Cares Act ,Public Law 116-136.\nH.R. 6800, Health and Economic Recovery Omnibus Emergency Solutions Act or the HEROES Act.\nSenate COVID-19 response legislation.","Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nH.R. 7614, Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2021.\nH.R. 2, The Moving Forward Act. \nThe Cares Act (P.L. 116-136).\nH.R. 6800, Health and Economic Recovery Omnibus Emergency Solutions Act or the HEROES Act.\nH.R. 295, the Heroes Act. \nSenate COVID-19 response legislation. \nH.R. 5184/S. 1624, HEALS Act.\nH.R. 8215, Improving Digital Identity Act of 2020.","Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nH.R. 7614, Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2021.\nH.R. 2, The Moving Forward Act. \nH.R. 133, Consolidating Appropriations Act, 2021.\nH.R. 295, the Heroes Act. \nH.R. 8215, Improving Digital Identity Act of 2020.","Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nLabor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022.\nImproving Digital Identity Act.","Implementation of the 21st Century Cures Act (P.L.114-255); \nImplementation of the EPCS Act.\nIssues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nLabor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022.\nH.R. 4258, Improving Digital Identity Act of 2021\nIssues pertaining to the Provider Relief Fund.","Implementation of the 21st Century Cures Act (P.L.114-255); Implementation of the EPCS Act. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022. H.R. 4258, Improving Digital Identity Act of 2021 Issues pertaining to the Provider Relief Fund.","Implementation of the 21st Century Cures Act (P.L.114-255); Implementation of the EPCS Act. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022. H.R. 4258, Improving Digital Identity Act of 2021 Issues pertaining to the Provider Relief Fund. Legislation regarding the very Every Prescription Conveyed Securely Act","Implementation of the 21st Century Cures Act (P.L.114-255). Implementation of the EPCS Act. H.R.8988 - EPCS 2.0 Act. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022. H.R.4258 - Improving Digital Identity Act of 2021. Issues pertaining to the Provider Relief Fund. Legislation regarding the very Every Prescription Conveyed Securely Act.","Electronic Prescribing of Controlled Substances (EPCS) legislation. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. S.2666/H.R.7312 - EPCS 2.0 Act. Patient Matching.","Electronic Prescribing of Controlled Substances (EPCS) legislation. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. H.R.7312 - Electronic Prescribing for Controlled Substances Act. H.R.7379 - Patient Matching And Transparency in Certified Health IT Act of 2024.","Electronic Prescribing of Controlled Substances (EPCS) legislation. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. H.R.2002 - MATCH IT Act of 2025.","Electronic Prescribing of Controlled Substances (EPCS) legislation. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. H.R.2002 - MATCH IT Act of 2025. H.R.2404 - Remote Opioid Monitoring Act of 2025."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 192578,
+  "name": "IMPRIVATA INC",
+  "slug": "imprivata-inc",
+  "state": "MA",
+  "description": "&#226;€‹IT security company",
+  "totalSpending": 1420000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 230000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 120000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "THORN RUN PARTNERS"
+  ],
+  "lobbyists": [
+    "STUART CHAPMAN",
+    "GARY PALMQUIST",
+    "WILLIAM LAMOND"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nH.R.3528/S.2460, Every Prescription Conveyed Securely Act; Electronic Prescribing of Controlled Substances issues. \nCybersecurity issues. \nHealth Information Technology issues.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nH.R.3528/S.2460, Every Prescription Conveyed Securely Act; Electronic Prescribing of Controlled Substances issues. \nCybersecurity issues. \nHealth Information Technology issues.\nH.R.6, SUPPORT for Patients and Communities Act.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nH.R.3528/S.2460, Every Prescription Conveyed Securely Act; Electronic Prescribing of Controlled Substances issues. \nCybersecurity issues. \nHealth Information Technology issues.\nH.R.6, SUPPORT for Patients and Communities Act (P.L.115-271).",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nCybersecurity issues.\nHealth Information Technology issues.\nFY 2020 Department of Labor and HHS Education appropriations bill.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Patient Matching issues.\nCybersecurity issues.\nHealth Information Technology issues.\nH.R.2740, Labor, Health and Human Services, Education, Defense, State, Foreign Operations, and Energy and Water Development Appropriations Act, 2020",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nH.R.2740, Labor, Health and Human Services, Education, Defense, State, Foreign Operations, and Energy and Water Development Appropriations Act, 2020.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nH.R. 7614, Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2021.\nH.R. 2, The Moving Forward Act. \nThe Cares Act ,Public Law 116-136.\nH.R. 6800, Health and Economic Recovery Omnibus Emergency Solutions Act or the HEROES Act.\nSenate COVID-19 response legislation.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nH.R. 7614, Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2021.\nH.R. 2, The Moving Forward Act. \nThe Cares Act (P.L. 116-136).\nH.R. 6800, Health and Economic Recovery Omnibus Emergency Solutions Act or the HEROES Act.\nH.R. 295, the Heroes Act. \nSenate COVID-19 response legislation. \nH.R. 5184/S. 1624, HEALS Act.\nH.R. 8215, Improving Digital Identity Act of 2020.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nH.R. 7614, Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2021.\nH.R. 2, The Moving Forward Act. \nH.R. 133, Consolidating Appropriations Act, 2021.\nH.R. 295, the Heroes Act. \nH.R. 8215, Improving Digital Identity Act of 2020.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Issues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nLabor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022.\nImproving Digital Identity Act.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); \nImplementation of the EPCS Act.\nIssues relating to patient identification.\nIssues pertaining to Cybersecurity.\nHealth Information Technology issues.\nLabor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022.\nH.R. 4258, Improving Digital Identity Act of 2021\nIssues pertaining to the Provider Relief Fund.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Implementation of the EPCS Act. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022. H.R. 4258, Improving Digital Identity Act of 2021 Issues pertaining to the Provider Relief Fund.",
+    "Implementation of the 21st Century Cures Act (P.L.114-255); Implementation of the EPCS Act. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022. H.R. 4258, Improving Digital Identity Act of 2021 Issues pertaining to the Provider Relief Fund. Legislation regarding the very Every Prescription Conveyed Securely Act",
+    "Implementation of the 21st Century Cures Act (P.L.114-255). Implementation of the EPCS Act. H.R.8988 - EPCS 2.0 Act. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 2022. H.R.4258 - Improving Digital Identity Act of 2021. Issues pertaining to the Provider Relief Fund. Legislation regarding the very Every Prescription Conveyed Securely Act.",
+    "Electronic Prescribing of Controlled Substances (EPCS) legislation. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. S.2666/H.R.7312 - EPCS 2.0 Act. Patient Matching.",
+    "Electronic Prescribing of Controlled Substances (EPCS) legislation. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. H.R.7312 - Electronic Prescribing for Controlled Substances Act. H.R.7379 - Patient Matching And Transparency in Certified Health IT Act of 2024.",
+    "Electronic Prescribing of Controlled Substances (EPCS) legislation. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. H.R.2002 - MATCH IT Act of 2025.",
+    "Electronic Prescribing of Controlled Substances (EPCS) legislation. Issues relating to patient identification. Issues pertaining to Cybersecurity. Health Information Technology issues. H.R.2002 - MATCH IT Act of 2025. H.R.2404 - Remote Opioid Monitoring Act of 2025."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -50,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 177500,
+  "peakYear": 2018,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

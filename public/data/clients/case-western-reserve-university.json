@@ -1,1 +1,84 @@
-{"id":125434,"name":"CASE WESTERN RESERVE UNIVERSITY","slug":"case-western-reserve-university","state":"OH","description":"Private Higher Learning Institution","totalSpending":1430000,"filings":26,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":160000},{"year":2020,"income":120000},{"year":2021,"income":180000},{"year":2022,"income":170000},{"year":2023,"income":320000},{"year":2024,"income":80000},{"year":2025,"income":240000}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["JENNIFER MCGEE","ROBERT BRADNER","RONALD KLEIN","DANIEL SENNOTT","MISHA LEHRER","CHRISTOPHER ARMSTRONG"],"issues":["BUD",null,"EDU"],"sampleDescriptions":["Healthcare and energy grants and federal funding.","FY24 and FY25 appropriations for research (Department of Defense, Department of Veterans Affairs, Centers for Disease Control, NASA); FY24 appropriations for research equipment (Department of Commerce/NIST); Work to obtain federal support for a long-term longitudinal study of health impacts potentially arising from the Norfolk Southern train derailment in East Palestine, OH.","FY 2026 Appropriations for research (Department of Defense, Department of Veterans Affairs, Centers for Disease Control, NASA, National Institutes of Health, National Science Foundation); Work to obtain federal support for a long-term longitudinal study of health impacts potentially arising from the Norfolk Southern train derailment in East Palestine, OH.","Department of Education anti-Semitism enforcement issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 125434,
+  "name": "CASE WESTERN RESERVE UNIVERSITY",
+  "slug": "case-western-reserve-university",
+  "state": "OH",
+  "description": "Private Higher Learning Institution",
+  "totalSpending": 1430000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 160000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 170000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 80000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "HOLLAND & KNIGHT LLP"
+  ],
+  "lobbyists": [
+    "JENNIFER MCGEE",
+    "ROBERT BRADNER",
+    "RONALD KLEIN",
+    "DANIEL SENNOTT",
+    "MISHA LEHRER",
+    "CHRISTOPHER ARMSTRONG"
+  ],
+  "issues": [
+    "BUD",
+    null,
+    "EDU"
+  ],
+  "sampleDescriptions": [
+    "Healthcare and energy grants and federal funding.",
+    "FY24 and FY25 appropriations for research (Department of Defense, Department of Veterans Affairs, Centers for Disease Control, NASA); FY24 appropriations for research equipment (Department of Commerce/NIST); Work to obtain federal support for a long-term longitudinal study of health impacts potentially arising from the Norfolk Southern train derailment in East Palestine, OH.",
+    "FY 2026 Appropriations for research (Department of Defense, Department of Veterans Affairs, Centers for Disease Control, NASA, National Institutes of Health, National Science Foundation); Work to obtain federal support for a long-term longitudinal study of health impacts potentially arising from the Norfolk Southern train derailment in East Palestine, OH.",
+    "Department of Education anti-Semitism enforcement issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 50,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 178750,
+  "peakYear": 2023,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "education"
+}

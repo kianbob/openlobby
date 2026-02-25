@@ -1,1 +1,101 @@
-{"id":101308,"name":"SOUTHWEST RESEARCH INSTITUTE","slug":"southwest-research-institute","state":"TX","description":"Applied Research Institute","totalSpending":1360000,"filings":25,"yearlySpending":[{"year":2019,"income":60000},{"year":2020,"income":120000},{"year":2021,"income":120000},{"year":2022,"income":180000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["HANS RICKHOFF","RYAN THOMPSON","LAMAR SMITH","ED PAGANO","CHRISTOPHER TREANOR","SAM OLSWANGER","RACHEL ROBINSON","VIRGIL MILLER"],"issues":["AER","TRA","ENG","FUE","SCI","APP","BUD",null,"DEF"],"sampleDescriptions":["Issues related to applied research.","Issues related to applied research institutions","Issues related to applied research institutions; FY2021 appropriations; NDAA.","Issues related to applied research institutions; FY2022 appropriations; NDAA.","Issues related to applied research institutions; FY2023 appropriations; NDAA.","Issues related to applied research institutions and NRC contracting.","Issues related to applied research institutions; FY2023 appropriations; NDAA.; FY2023 appropriations and NDAA.","Issues related to applied research institutions, including fiscal year 2024 and fiscal year 2025 appropriations and National Defense Authorization Act for fiscal year 2025.","Issues related to applied research institutions, including fiscal year 2024 appropriations and National Defense Authorization Act for fiscal year 2024.","Issues related to applied research institutions, including Fiscal Year 2024 and Fiscal Year 2025 appropriations and H.R.8070/S.4638 - National Defense Authorization Act for Fiscal Year 2025.","Issues related to applied research institutions, including Fiscal Year 2024 appropriations and H.R.2670- National Defense Authorization Act for Fiscal Year 2024; Issues related to applied research institutions, including Fiscal Year 2025 appropriations and H.R.8070/S.4638 - National Defense Authorization Act for Fiscal Year 2025.","Issues related to applied research institutions, including Fiscal Year 2025 appropriations and H.R.8070/S.4638 - National Defense Authorization Act for Fiscal Year 2025.","Issues related to applied research institutions, including Fiscal Year 2025 and Fiscal Year 2026 appropriations.","Issues related to applied research institutions, including Fiscal Year 2025 appropriations and the Fiscal Year 2025 National Defense Authorization Act.","Issues related to applied research institutions, including Fiscal Year 2026 appropriations.","Issues related to applied research institutions, including Fiscal Year 2026 appropriations and the Fiscal Year 2026 National Defense Authorization Act.","Issues related to applied research institutions, including Fiscal Year 2026 appropriations and H.R. 3838/S. 2296 - National Defense Authorization Act for Fiscal Year 2026.","Issues related to applied research institutions, including Fiscal Year 2026 appropriations and National Defense Authorization Act for Fiscal Year 2026 (P.L. 119-60).","Issues related to applied research institutions, including Fiscal Year 2026 appropriations, proposed changes to how institutions are reimbursed for indirect costs associated with research awards, and matters regarding ongoing research awards."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 101308,
+  "name": "SOUTHWEST RESEARCH INSTITUTE",
+  "slug": "southwest-research-institute",
+  "state": "TX",
+  "description": "Applied Research Institute",
+  "totalSpending": 1360000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 60000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "HANS RICKHOFF",
+    "RYAN THOMPSON",
+    "LAMAR SMITH",
+    "ED PAGANO",
+    "CHRISTOPHER TREANOR",
+    "SAM OLSWANGER",
+    "RACHEL ROBINSON",
+    "VIRGIL MILLER"
+  ],
+  "issues": [
+    "AER",
+    "TRA",
+    "ENG",
+    "FUE",
+    "SCI",
+    "APP",
+    "BUD",
+    null,
+    "DEF"
+  ],
+  "sampleDescriptions": [
+    "Issues related to applied research.",
+    "Issues related to applied research institutions",
+    "Issues related to applied research institutions; FY2021 appropriations; NDAA.",
+    "Issues related to applied research institutions; FY2022 appropriations; NDAA.",
+    "Issues related to applied research institutions; FY2023 appropriations; NDAA.",
+    "Issues related to applied research institutions and NRC contracting.",
+    "Issues related to applied research institutions; FY2023 appropriations; NDAA.; FY2023 appropriations and NDAA.",
+    "Issues related to applied research institutions, including fiscal year 2024 and fiscal year 2025 appropriations and National Defense Authorization Act for fiscal year 2025.",
+    "Issues related to applied research institutions, including fiscal year 2024 appropriations and National Defense Authorization Act for fiscal year 2024.",
+    "Issues related to applied research institutions, including Fiscal Year 2024 and Fiscal Year 2025 appropriations and H.R.8070/S.4638 - National Defense Authorization Act for Fiscal Year 2025.",
+    "Issues related to applied research institutions, including Fiscal Year 2024 appropriations and H.R.2670- National Defense Authorization Act for Fiscal Year 2024; Issues related to applied research institutions, including Fiscal Year 2025 appropriations and H.R.8070/S.4638 - National Defense Authorization Act for Fiscal Year 2025.",
+    "Issues related to applied research institutions, including Fiscal Year 2025 appropriations and H.R.8070/S.4638 - National Defense Authorization Act for Fiscal Year 2025.",
+    "Issues related to applied research institutions, including Fiscal Year 2025 and Fiscal Year 2026 appropriations.",
+    "Issues related to applied research institutions, including Fiscal Year 2025 appropriations and the Fiscal Year 2025 National Defense Authorization Act.",
+    "Issues related to applied research institutions, including Fiscal Year 2026 appropriations.",
+    "Issues related to applied research institutions, including Fiscal Year 2026 appropriations and the Fiscal Year 2026 National Defense Authorization Act.",
+    "Issues related to applied research institutions, including Fiscal Year 2026 appropriations and H.R. 3838/S. 2296 - National Defense Authorization Act for Fiscal Year 2026.",
+    "Issues related to applied research institutions, including Fiscal Year 2026 appropriations and National Defense Authorization Act for Fiscal Year 2026 (P.L. 119-60).",
+    "Issues related to applied research institutions, including Fiscal Year 2026 appropriations, proposed changes to how institutions are reimbursed for indirect costs associated with research awards, and matters regarding ongoing research awards."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 433,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 194286,
+  "peakYear": 2023,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 8
+}

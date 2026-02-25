@@ -1,1 +1,100 @@
-{"id":201121,"name":"RAI SERVICES COMPANY","slug":"rai-services-company","state":"DC","description":"RAI Services Company is a holding company for organizations in the tobacco industry.","totalSpending":1375000,"filings":28,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":95000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["ROWLAND STRATEGY GROUP LLC"],"lobbyists":["JAMES ROWLAND"],"issues":["AGR","TAX","TOB","PHA","TRD","ECN","TRA",null],"sampleDescriptions":["Agriculture, Rural Development, and Food and Drug Administration appropriations","Federal excise taxes; Implementation of the Tax Cuts and Jobs Act","FDA regulation and oversight","Agriculture, Rural Development and Food and Drug Administration appropriations provisions related to the predicate date in the FDA's deeming regulation.","Federal excise taxes","Issues surrounding implementation of the Tobacco Control Act","Agriculture, Rural Development and Food and Drug Administration appropriations provisions related to the predicate date in the FDA's deeming regulation and reporting requirements of the Center for Tobacco Products.","Departments of Labor, Health and Human Services, and Related Agencies appropriations; provisions\nrelated to innovative response platforms for vaccines and drugs.","Issues surrounding tariffs, duties, and customs.","Food and Drug Administration regulation of tobacco.","Tax reform.  Federal excise tax.","HR 2339; Food and Drug Administration regulation of tobacco.","Congressional economic recovery responses to COVID pandemic.","Congressional tax policy responses to COVID pandemic.","General monitoring.","HEROES Act, CARES Act, tobacco excise taxes.","Congressional economic recovery responses to COVID-19 pandemic, CARES Act, HEROES Act,\nHEALS Act.","Modified risk tobacco products; general monitoring.","Tobacco excise tax; Consolidated Appropriations Act; Bipartisan Bicameral Omnibus Covid Relief","Congressional economic recovery responses to COVID-19 pandemic; Consolidated Appropriations Act, 2021; Bipartisan Bicameral Omnibus Covid Relief"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 201121,
+  "name": "RAI SERVICES COMPANY",
+  "slug": "rai-services-company",
+  "state": "DC",
+  "description": "RAI Services Company is a holding company for organizations in the tobacco industry.",
+  "totalSpending": 1375000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 95000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "ROWLAND STRATEGY GROUP LLC"
+  ],
+  "lobbyists": [
+    "JAMES ROWLAND"
+  ],
+  "issues": [
+    "AGR",
+    "TAX",
+    "TOB",
+    "PHA",
+    "TRD",
+    "ECN",
+    "TRA",
+    null
+  ],
+  "sampleDescriptions": [
+    "Agriculture, Rural Development, and Food and Drug Administration appropriations",
+    "Federal excise taxes; Implementation of the Tax Cuts and Jobs Act",
+    "FDA regulation and oversight",
+    "Agriculture, Rural Development and Food and Drug Administration appropriations provisions related to the predicate date in the FDA's deeming regulation.",
+    "Federal excise taxes",
+    "Issues surrounding implementation of the Tobacco Control Act",
+    "Agriculture, Rural Development and Food and Drug Administration appropriations provisions related to the predicate date in the FDA's deeming regulation and reporting requirements of the Center for Tobacco Products.",
+    "Departments of Labor, Health and Human Services, and Related Agencies appropriations; provisions\nrelated to innovative response platforms for vaccines and drugs.",
+    "Issues surrounding tariffs, duties, and customs.",
+    "Food and Drug Administration regulation of tobacco.",
+    "Tax reform.  Federal excise tax.",
+    "HR 2339; Food and Drug Administration regulation of tobacco.",
+    "Congressional economic recovery responses to COVID pandemic.",
+    "Congressional tax policy responses to COVID pandemic.",
+    "General monitoring.",
+    "HEROES Act, CARES Act, tobacco excise taxes.",
+    "Congressional economic recovery responses to COVID-19 pandemic, CARES Act, HEROES Act,\nHEALS Act.",
+    "Modified risk tobacco products; general monitoring.",
+    "Tobacco excise tax; Consolidated Appropriations Act; Bipartisan Bicameral Omnibus Covid Relief",
+    "Congressional economic recovery responses to COVID-19 pandemic; Consolidated Appropriations Act, 2021; Bipartisan Bicameral Omnibus Covid Relief"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 11,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 171875,
+  "peakYear": 2020,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 7,
+  "industry": "technology"
+}

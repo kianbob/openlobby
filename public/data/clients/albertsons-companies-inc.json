@@ -1,1 +1,84 @@
-{"id":213437,"name":"ALBERTSONS COMPANIES INC.","slug":"albertsons-companies-inc","state":"ID","description":"National food and drug retailer","totalSpending":1560000,"filings":14,"yearlySpending":[{"year":2022,"income":180000},{"year":2023,"income":640000},{"year":2024,"income":300000},{"year":2025,"income":440000}],"firms":["COGENT STRATEGIES LLC"],"lobbyists":["DAVID OXNER","EDDA COLLINS COLEMAN","ANDREW KAUDERS","CLAUDIA JAMES","RANDALL GERARD","SHELLIE PURVIS","TAYLOR HOOVER","REGINA MAHONY","KIMBERLEY FRITTS"],"issues":["FOO",null,"AGR","HCR","LAW","TRD","BUD","SCI"],"sampleDescriptions":["General issues related to the food industry including supply chain issues.","General issues related to the food industry including supply chain and competition issues.","- Monitor issues related to food industry including supply chain and competition.","- 2024 Farm Bill Reauthorization","- Monitor proposed pharmacy legislation.","- Monitor proposed pharmacy legislation. - Issues related to PBM reform.","- Monitor issues related to food industry including supply chain. - Issues related to Food is Medicine programs.","- Issues related to H.R.10545 - American Relief Act, 2025","- Issues related to PBM reform. - S.526 - Pharmacy Benefit Manager Transparency Act of 2025. - Issues related to Food is Medicine programs.","- Issues related to combatting organized crime.","- Issues related to tariffs.","- Monitor issues related to food industry including supply chain - Issues related to Food is Medicine programs -Issues related to Sincerely Health -Issues related to SNAP","- Issues related to H.R.10545 - American Relief Act, 2025 - Issues related to SNAP","- Issues related to PBM reform - Issues related to Food is Medicine - Issues related to Sincerely Health","- H.R.2853, S.1401, Combatting Organized Retail Crime Act","- Issues related to Labor, Health and Human Services, Education and Related Agencies appropriations - Issues related to the MAHA Initiative - Issues related to the Rural Health Transformation Program","- Issues related to AI and data privacy"],"years":[2022,2023,2024,2025]}
+{
+  "id": 213437,
+  "name": "ALBERTSONS COMPANIES INC.",
+  "slug": "albertsons-companies-inc",
+  "state": "ID",
+  "description": "National food and drug retailer",
+  "totalSpending": 1560000,
+  "filings": 14,
+  "yearlySpending": [
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 640000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 440000
+    }
+  ],
+  "firms": [
+    "COGENT STRATEGIES LLC"
+  ],
+  "lobbyists": [
+    "DAVID OXNER",
+    "EDDA COLLINS COLEMAN",
+    "ANDREW KAUDERS",
+    "CLAUDIA JAMES",
+    "RANDALL GERARD",
+    "SHELLIE PURVIS",
+    "TAYLOR HOOVER",
+    "REGINA MAHONY",
+    "KIMBERLEY FRITTS"
+  ],
+  "issues": [
+    "FOO",
+    null,
+    "AGR",
+    "HCR",
+    "LAW",
+    "TRD",
+    "BUD",
+    "SCI"
+  ],
+  "sampleDescriptions": [
+    "General issues related to the food industry including supply chain issues.",
+    "General issues related to the food industry including supply chain and competition issues.",
+    "- Monitor issues related to food industry including supply chain and competition.",
+    "- 2024 Farm Bill Reauthorization",
+    "- Monitor proposed pharmacy legislation.",
+    "- Monitor proposed pharmacy legislation. - Issues related to PBM reform.",
+    "- Monitor issues related to food industry including supply chain. - Issues related to Food is Medicine programs.",
+    "- Issues related to H.R.10545 - American Relief Act, 2025",
+    "- Issues related to PBM reform. - S.526 - Pharmacy Benefit Manager Transparency Act of 2025. - Issues related to Food is Medicine programs.",
+    "- Issues related to combatting organized crime.",
+    "- Issues related to tariffs.",
+    "- Monitor issues related to food industry including supply chain - Issues related to Food is Medicine programs -Issues related to Sincerely Health -Issues related to SNAP",
+    "- Issues related to H.R.10545 - American Relief Act, 2025 - Issues related to SNAP",
+    "- Issues related to PBM reform - Issues related to Food is Medicine - Issues related to Sincerely Health",
+    "- H.R.2853, S.1401, Combatting Organized Retail Crime Act",
+    "- Issues related to Labor, Health and Human Services, Education and Related Agencies appropriations - Issues related to the MAHA Initiative - Issues related to the Rural Health Transformation Program",
+    "- Issues related to AI and data privacy"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 144,
+  "trajectory": "exploding",
+  "yearsActive": 4,
+  "avgAnnualSpending": 390000,
+  "peakYear": 2023,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 7
+}

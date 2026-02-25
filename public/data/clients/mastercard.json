@@ -1,1 +1,110 @@
-{"id":127087,"name":"MASTERCARD","slug":"mastercard","state":"DC","description":null,"totalSpending":2080000,"filings":28,"yearlySpending":[{"year":2018,"income":140000},{"year":2019,"income":210000},{"year":2020,"income":250000},{"year":2021,"income":320000},{"year":2022,"income":390000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":210000}],"firms":["TIBER CREEK GROUP"],"lobbyists":["JEFFREY SHAPIRO","JAMES HEIMBACH","JOHN GONZALEZ","LINDSEY LEDWIN","TIMOTHY MOLINO","KRISTEN HARPER","DREW CANTOR","EMILY KIRLIN","JENNIFER OLSON","JONATHON JONES","JAN BEUKELMAN"],"issues":["TRD","BAN","FIN","AGR","TAX","HOM","FOR","LBR",null],"sampleDescriptions":["electronic payment services, international trade negotiations","Interchange fees, data breach, identity theft, mobile payments, EMV implementation.","Fintech issues. H.R. 4311/S. 2098 Foreign Investment Risk Review and Modernization Act of 2017, and H.R. 5040 Export Control Reform Act of 2018.","Issues related to SNAP and Farm Bill reauthorization. H.R. 2/S. 3042 - Agriculture Improvement Act of 2018.","Issues related to implementation of the Tax Cuts and Jobs Act of 2017, Public Law 115-97.","General cybersecurity issues, general data breach issues and 3rd party notification, general IoT issues. General issues on cyber fusion centers; DHS Cybersecurity Summit details. General Artificial Intelligence issues; General cybersecurity supply chain issues","Electronic payment services, international trade negotiations, digital services tax proposals","Issues involving payment cards, interchange fees, card issuer practices, the regulation of consumer financial products, and payment transactions initiated with or through a mobile device; Issues pertaining to payment cards usage and the payment networks role as it relates to the disbursement of public benefits or payroll benefits through the use of a prepaid card; Issues pertaining to payment card usage and the payment networks role as it relates to the disbursement of Title IV funds through the use of a debit or prepaid card;Issues involving payment cards, payment systems, virtual currencies, and electronic payment transactions; Issues pertaining to payment card usage and the payments network roles as it relates to the use of prepaid cards; Issues pertaining to payment card usage and the payment networks role as it relates to network data security initiatives, EMV, privacy, and cybersecurity; Issues pertaining to payment card usage and the adverse potential impacts of global regulations on US institutions; Issues related to International trade; Issues related to financial inclusion participation program; Issues related to tax reform, Trade Sanctions; Issues pertaining to e-commerce as it relations to digital identity services; Issues related to faster payments; Issues related to cannabis banking; Issues related to counterfeit goods.","Issues related to implementation of the Foreign Investment Risk Review and Modernization Act (Pub. L. 115-232)","Issues related to implementation of digital services taxes.","General cybersecurity issues, general data breach issues and 3rd party notification, general digital identity issues, general privacy issues, S.734 Internet of Things Cybersecurity Improvement Act of 2019, matters related to supply chain, blockchain, and artificial intelligence","S 482: Defending American Security from Kremlin Aggression Act of 2019","Electronic payment services, international trade negotiations, digital services tax proposals. H.R. 5430 / S. 3052 United States-Mexico-Canada Agreement Implementation Act","Issues involving payment cards, interchange fees, card issuer practices, the regulation of consumer financial products, and payment transactions initiated with or through a mobile device; Issues pertaining to payment cards usage and the payment networks role as it relates to the disbursement of public benefits or payroll benefits through the use of a prepaid card; Issues pertaining to payment card usage and the payment networks role as it relates to the disbursement of Title IV funds through the use of a debit or prepaid card;Issues involving payment cards, payment systems, virtual currencies, and electronic payment transactions; Issues pertaining to payment card usage and the payments network roles as it relates to the use of prepaid cards; Issues pertaining to payment card usage and the payment networks role as it relates to network data security initiatives, EMV, privacy, and cybersecurity; Issues pertaining to payment card usage and the adverse potential impacts of global regulations on US institutions; Issues related to International trade; Issues related to financial inclusion participation program; Issues related to tax reform, Trade Sanctions; Issues pertaining to e-commerce as it relations to digital identity services; Issues related to faster payments; Issues related to cannabis banking; Issues related to counterfeit goods; Issues concerning congressional response to COVID-19, CARES Act - S 3548 / HR 748 (Public Law 116-136).","Issues related to implementation of the Foreign Investment Risk Review and Modernization Act (Pub. L. 115-232); Issues concerning congressional response to COVID-19, CARES Act - S 3548 / HR 748 (Public Law 116-136).","General cybersecurity issues, general data breach issues and 3rd party notification, general digital identity issues, general privacy issues, matters related to supply chain","Issues involving payment cards, interchange fees, card issuer practices, the regulation of consumer financial products, and payment transactions initiated with or through a mobile device; Issues pertaining to payment cards usage and the payment networks role as it relates to the disbursement of public benefits or payroll benefits through the use of a prepaid card; Issues pertaining to payment card usage and the payment networks role as it relates to the disbursement of Title IV funds through the use of a debit or prepaid card;Issues involving payment cards, payment systems, virtual currencies, and electronic payment transactions; Issues pertaining to payment card usage and the payments network roles as it relates to the use of prepaid cards; Issues pertaining to payment card usage and the payment networks role as it relates to network data security initiatives, EMV, privacy, and cybersecurity; Issues pertaining to payment card usage and the adverse potential impacts of global regulations on US institutions; Issues related to International trade; Issues related to financial inclusion participation program; Issues related to tax reform, Trade Sanctions; Issues pertaining to e-commerce as it relations to digital identity services; Issues related to faster payments; Issues related to cannabis banking; Issues related to counterfeit goods; Issues related to implementing Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law No. 116-136).","Issues related to implementing Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law No. 116-136)","General cybersecurity issues, general data breach issues and 3rd party notification, general digital identity issues and artificial intelligence, general privacy issues, matters related to supply chain","Electronic payment services, international trade negotiations, digital services tax proposals."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 127087,
+  "name": "MASTERCARD",
+  "slug": "mastercard",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 2080000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 140000
+    },
+    {
+      "year": 2019,
+      "income": 210000
+    },
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 390000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 210000
+    }
+  ],
+  "firms": [
+    "TIBER CREEK GROUP"
+  ],
+  "lobbyists": [
+    "JEFFREY SHAPIRO",
+    "JAMES HEIMBACH",
+    "JOHN GONZALEZ",
+    "LINDSEY LEDWIN",
+    "TIMOTHY MOLINO",
+    "KRISTEN HARPER",
+    "DREW CANTOR",
+    "EMILY KIRLIN",
+    "JENNIFER OLSON",
+    "JONATHON JONES",
+    "JAN BEUKELMAN"
+  ],
+  "issues": [
+    "TRD",
+    "BAN",
+    "FIN",
+    "AGR",
+    "TAX",
+    "HOM",
+    "FOR",
+    "LBR",
+    null
+  ],
+  "sampleDescriptions": [
+    "electronic payment services, international trade negotiations",
+    "Interchange fees, data breach, identity theft, mobile payments, EMV implementation.",
+    "Fintech issues. H.R. 4311/S. 2098 Foreign Investment Risk Review and Modernization Act of 2017, and H.R. 5040 Export Control Reform Act of 2018.",
+    "Issues related to SNAP and Farm Bill reauthorization. H.R. 2/S. 3042 - Agriculture Improvement Act of 2018.",
+    "Issues related to implementation of the Tax Cuts and Jobs Act of 2017, Public Law 115-97.",
+    "General cybersecurity issues, general data breach issues and 3rd party notification, general IoT issues. General issues on cyber fusion centers; DHS Cybersecurity Summit details. General Artificial Intelligence issues; General cybersecurity supply chain issues",
+    "Electronic payment services, international trade negotiations, digital services tax proposals",
+    "Issues involving payment cards, interchange fees, card issuer practices, the regulation of consumer financial products, and payment transactions initiated with or through a mobile device; Issues pertaining to payment cards usage and the payment networks role as it relates to the disbursement of public benefits or payroll benefits through the use of a prepaid card; Issues pertaining to payment card usage and the payment networks role as it relates to the disbursement of Title IV funds through the use of a debit or prepaid card;Issues involving payment cards, payment systems, virtual currencies, and electronic payment transactions; Issues pertaining to payment card usage and the payments network roles as it relates to the use of prepaid cards; Issues pertaining to payment card usage and the payment networks role as it relates to network data security initiatives, EMV, privacy, and cybersecurity; Issues pertaining to payment card usage and the adverse potential impacts of global regulations on US institutions; Issues related to International trade; Issues related to financial inclusion participation program; Issues related to tax reform, Trade Sanctions; Issues pertaining to e-commerce as it relations to digital identity services; Issues related to faster payments; Issues related to cannabis banking; Issues related to counterfeit goods.",
+    "Issues related to implementation of the Foreign Investment Risk Review and Modernization Act (Pub. L. 115-232)",
+    "Issues related to implementation of digital services taxes.",
+    "General cybersecurity issues, general data breach issues and 3rd party notification, general digital identity issues, general privacy issues, S.734 Internet of Things Cybersecurity Improvement Act of 2019, matters related to supply chain, blockchain, and artificial intelligence",
+    "S 482: Defending American Security from Kremlin Aggression Act of 2019",
+    "Electronic payment services, international trade negotiations, digital services tax proposals. H.R. 5430 / S. 3052 United States-Mexico-Canada Agreement Implementation Act",
+    "Issues involving payment cards, interchange fees, card issuer practices, the regulation of consumer financial products, and payment transactions initiated with or through a mobile device; Issues pertaining to payment cards usage and the payment networks role as it relates to the disbursement of public benefits or payroll benefits through the use of a prepaid card; Issues pertaining to payment card usage and the payment networks role as it relates to the disbursement of Title IV funds through the use of a debit or prepaid card;Issues involving payment cards, payment systems, virtual currencies, and electronic payment transactions; Issues pertaining to payment card usage and the payments network roles as it relates to the use of prepaid cards; Issues pertaining to payment card usage and the payment networks role as it relates to network data security initiatives, EMV, privacy, and cybersecurity; Issues pertaining to payment card usage and the adverse potential impacts of global regulations on US institutions; Issues related to International trade; Issues related to financial inclusion participation program; Issues related to tax reform, Trade Sanctions; Issues pertaining to e-commerce as it relations to digital identity services; Issues related to faster payments; Issues related to cannabis banking; Issues related to counterfeit goods; Issues concerning congressional response to COVID-19, CARES Act - S 3548 / HR 748 (Public Law 116-136).",
+    "Issues related to implementation of the Foreign Investment Risk Review and Modernization Act (Pub. L. 115-232); Issues concerning congressional response to COVID-19, CARES Act - S 3548 / HR 748 (Public Law 116-136).",
+    "General cybersecurity issues, general data breach issues and 3rd party notification, general digital identity issues, general privacy issues, matters related to supply chain",
+    "Issues involving payment cards, interchange fees, card issuer practices, the regulation of consumer financial products, and payment transactions initiated with or through a mobile device; Issues pertaining to payment cards usage and the payment networks role as it relates to the disbursement of public benefits or payroll benefits through the use of a prepaid card; Issues pertaining to payment card usage and the payment networks role as it relates to the disbursement of Title IV funds through the use of a debit or prepaid card;Issues involving payment cards, payment systems, virtual currencies, and electronic payment transactions; Issues pertaining to payment card usage and the payments network roles as it relates to the use of prepaid cards; Issues pertaining to payment card usage and the payment networks role as it relates to network data security initiatives, EMV, privacy, and cybersecurity; Issues pertaining to payment card usage and the adverse potential impacts of global regulations on US institutions; Issues related to International trade; Issues related to financial inclusion participation program; Issues related to tax reform, Trade Sanctions; Issues pertaining to e-commerce as it relations to digital identity services; Issues related to faster payments; Issues related to cannabis banking; Issues related to counterfeit goods; Issues related to implementing Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law No. 116-136).",
+    "Issues related to implementing Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law No. 116-136)",
+    "General cybersecurity issues, general data breach issues and 3rd party notification, general digital identity issues and artificial intelligence, general privacy issues, matters related to supply chain",
+    "Electronic payment services, international trade negotiations, digital services tax proposals."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 50,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 260000,
+  "peakYear": 2022,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 8
+}

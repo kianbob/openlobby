@@ -1,1 +1,76 @@
-{"id":145737,"name":"MEDICAID AND MEDICARE ADVANTAGE PRODUCTS ASSOCIATION OF PUERTO RICO","slug":"medicaid-and-medicare-advantage-products-association-of-puerto-rico","state":"PR","description":"Health Care Trade Association","totalSpending":1630000,"filings":24,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":280000},{"year":2020,"income":280000},{"year":2021,"income":140000},{"year":2022,"income":280000},{"year":2023,"income":350000},{"year":2024,"income":20000}],"firms":["STEPTOE LLP"],"lobbyists":["LUIS FORTUNO","JAMES BARNETTE","LESLIE BELCHER","LISA WALTZMAN","ROWAN BOST","MEREDITH COOLIDGE","CHLOE BEAUMONT-SMITH"],"issues":["MMM",null],"sampleDescriptions":["Issues relating to Puerto Rico health care coverage."],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 145737,
+  "name": "MEDICAID AND MEDICARE ADVANTAGE PRODUCTS ASSOCIATION OF PUERTO RICO",
+  "slug": "medicaid-and-medicare-advantage-products-association-of-puerto-rico",
+  "state": "PR",
+  "description": "Health Care Trade Association",
+  "totalSpending": 1630000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 280000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 140000
+    },
+    {
+      "year": 2022,
+      "income": 280000
+    },
+    {
+      "year": 2023,
+      "income": 350000
+    },
+    {
+      "year": 2024,
+      "income": 20000
+    }
+  ],
+  "firms": [
+    "STEPTOE LLP"
+  ],
+  "lobbyists": [
+    "LUIS FORTUNO",
+    "JAMES BARNETTE",
+    "LESLIE BELCHER",
+    "LISA WALTZMAN",
+    "ROWAN BOST",
+    "MEREDITH COOLIDGE",
+    "CHLOE BEAUMONT-SMITH"
+  ],
+  "issues": [
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues relating to Puerto Rico health care coverage."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -93,
+  "trajectory": "declining",
+  "yearsActive": 7,
+  "avgAnnualSpending": 232857,
+  "peakYear": 2023,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

@@ -1,1 +1,95 @@
-{"id":145628,"name":"SOCIETY OF INDEPENDENT GASOLINE MARKETERS OF AMERICA","slug":"society-of-independent-gasoline-marketers-of-america","state":null,"description":null,"totalSpending":1370000,"filings":14,"yearlySpending":[{"year":2018,"income":400000},{"year":2019,"income":400000},{"year":2020,"income":400000},{"year":2021,"income":170000}],"firms":["STEPTOE LLP"],"lobbyists":["R COLUMBUS","LESLIE BELCHER","JESSICA FREND","KATE JENSEN","LISA WALTZMAN","EVA RIGAMONTI","DOUGLAS KANTOR","JAMES BARNETTE","ELIZABETH BURKS","CHRISTOPHER CARON","DARRYL NIRENBERG","JASON ABEL","MICHAELA CAMPBELL","LEEANN GOHEEN","ASHLEY STEWART","ALLISON NYHOLM"],"issues":["TRA","TEC","TAX","GAM","ENV","ENG","FOO","BAN","ROD","TOB"],"sampleDescriptions":["Issues of interest to motor fuel marketers including renewable fuels, underground storage tanks, and wetlines.","Issues related to data security.","Issues relating to federal taxation of motor fuels, including tax credits, and convenience store properties.","Issues related to online gaming.","Issues relating to interior appropriations legislation, climate change, underground storage tanks and renewable fuels.","Issues relating to motor fuels marketing.","Issues relating to the reauthorization of the supplemental nutrition assistance program; Issues relating to Food Safety and Menu Labeling.","Issues related to banking and financial services reform legislation.","Reauthorization of highway trust fund including commercialization of interstate rest areas.","Issues relating to sales of tobacco products.","Issues related to data security and privacy.","Issues relating to motor fuels marketing.  Issues related to electric vehicles.","Issues related to motor fuels marketing and electric vehicles.","Issues related to motor fuel marketers including renewable fuels, underground storage tanks, and wetlines.","Issues related to food safety, menu labeling and the reauthorization of the Supplemental Nutrition Assistance Program.","Issues related to sales of tobacco products.","Issues related to interior appropriations legislation, climate change, underground storage tanks and renewable fuels.","Issues related to federal taxation of motor fuels, including tax credits, and convenience store properties."],"years":[2018,2019,2020,2021]}
+{
+  "id": 145628,
+  "name": "SOCIETY OF INDEPENDENT GASOLINE MARKETERS OF AMERICA",
+  "slug": "society-of-independent-gasoline-marketers-of-america",
+  "state": null,
+  "description": null,
+  "totalSpending": 1370000,
+  "filings": 14,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 400000
+    },
+    {
+      "year": 2019,
+      "income": 400000
+    },
+    {
+      "year": 2020,
+      "income": 400000
+    },
+    {
+      "year": 2021,
+      "income": 170000
+    }
+  ],
+  "firms": [
+    "STEPTOE LLP"
+  ],
+  "lobbyists": [
+    "R COLUMBUS",
+    "LESLIE BELCHER",
+    "JESSICA FREND",
+    "KATE JENSEN",
+    "LISA WALTZMAN",
+    "EVA RIGAMONTI",
+    "DOUGLAS KANTOR",
+    "JAMES BARNETTE",
+    "ELIZABETH BURKS",
+    "CHRISTOPHER CARON",
+    "DARRYL NIRENBERG",
+    "JASON ABEL",
+    "MICHAELA CAMPBELL",
+    "LEEANN GOHEEN",
+    "ASHLEY STEWART",
+    "ALLISON NYHOLM"
+  ],
+  "issues": [
+    "TRA",
+    "TEC",
+    "TAX",
+    "GAM",
+    "ENV",
+    "ENG",
+    "FOO",
+    "BAN",
+    "ROD",
+    "TOB"
+  ],
+  "sampleDescriptions": [
+    "Issues of interest to motor fuel marketers including renewable fuels, underground storage tanks, and wetlines.",
+    "Issues related to data security.",
+    "Issues relating to federal taxation of motor fuels, including tax credits, and convenience store properties.",
+    "Issues related to online gaming.",
+    "Issues relating to interior appropriations legislation, climate change, underground storage tanks and renewable fuels.",
+    "Issues relating to motor fuels marketing.",
+    "Issues relating to the reauthorization of the supplemental nutrition assistance program; Issues relating to Food Safety and Menu Labeling.",
+    "Issues related to banking and financial services reform legislation.",
+    "Reauthorization of highway trust fund including commercialization of interstate rest areas.",
+    "Issues relating to sales of tobacco products.",
+    "Issues related to data security and privacy.",
+    "Issues relating to motor fuels marketing.  Issues related to electric vehicles.",
+    "Issues related to motor fuels marketing and electric vehicles.",
+    "Issues related to motor fuel marketers including renewable fuels, underground storage tanks, and wetlines.",
+    "Issues related to food safety, menu labeling and the reauthorization of the Supplemental Nutrition Assistance Program.",
+    "Issues related to sales of tobacco products.",
+    "Issues related to interior appropriations legislation, climate change, underground storage tanks and renewable fuels.",
+    "Issues related to federal taxation of motor fuels, including tax credits, and convenience store properties."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "growthRate": -57,
+  "trajectory": "declining",
+  "yearsActive": 4,
+  "avgAnnualSpending": 342500,
+  "peakYear": 2018,
+  "lobbyistCount": 16,
+  "firmCount": 1,
+  "issueCount": 10,
+  "industry": "energy"
+}

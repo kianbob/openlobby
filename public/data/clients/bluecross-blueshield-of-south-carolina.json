@@ -1,1 +1,94 @@
-{"id":198488,"name":"BLUECROSS BLUESHIELD OF SOUTH CAROLINA","slug":"bluecross-blueshield-of-south-carolina","state":"SC","description":"healthcare insurer","totalSpending":1450000,"filings":29,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["ALIGNMENT GOVERNMENT STRATEGIES"],"lobbyists":["REBECCA ANDERSON","MICHAEL BEER","BERT CARP","JENNY DIJAMES","LEO JARDOT","PATRICK PETTEY","DAVID RUDD","TRACY TAYLOR"],"issues":["TAX","HCR","INS",null],"sampleDescriptions":["health-care reform; issues related to tax reform","health-care issues","health-care issues; surprise medical bills","health-care issues; H.R. 748 CARES Act and S. 3548 CARES Act","health-care issues; surprise medical bills; H.R. 748 CARES Act and S. 3548 CARES Act","health-care issues; H.R. 748 CARES Act and S. 3548 CARES Act; COVID relief issues","health-care issues; surprise medical bills; H.R. 748 CARES Act and S. 3548 CARES Act; COVID relief issues","health-care issues; surprise medical bills; COVID relief issues; American Rescue Plan and American Jobs Plan","health-care issues; COVID relief issues; American Rescue Plan and American Jobs Plan","health-care issues; COVID relief issues; American Jobs Plan; budget reconciliation; bipartisan infrastructure legislation","health-care issues; COVID relief issues; budget reconciliation","health-care issues; COVID relief issues"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 198488,
+  "name": "BLUECROSS BLUESHIELD OF SOUTH CAROLINA",
+  "slug": "bluecross-blueshield-of-south-carolina",
+  "state": "SC",
+  "description": "healthcare insurer",
+  "totalSpending": 1450000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "ALIGNMENT GOVERNMENT STRATEGIES"
+  ],
+  "lobbyists": [
+    "REBECCA ANDERSON",
+    "MICHAEL BEER",
+    "BERT CARP",
+    "JENNY DIJAMES",
+    "LEO JARDOT",
+    "PATRICK PETTEY",
+    "DAVID RUDD",
+    "TRACY TAYLOR"
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "INS",
+    null
+  ],
+  "sampleDescriptions": [
+    "health-care reform; issues related to tax reform",
+    "health-care issues",
+    "health-care issues; surprise medical bills",
+    "health-care issues; H.R. 748 CARES Act and S. 3548 CARES Act",
+    "health-care issues; surprise medical bills; H.R. 748 CARES Act and S. 3548 CARES Act",
+    "health-care issues; H.R. 748 CARES Act and S. 3548 CARES Act; COVID relief issues",
+    "health-care issues; surprise medical bills; H.R. 748 CARES Act and S. 3548 CARES Act; COVID relief issues",
+    "health-care issues; surprise medical bills; COVID relief issues; American Rescue Plan and American Jobs Plan",
+    "health-care issues; COVID relief issues; American Rescue Plan and American Jobs Plan",
+    "health-care issues; COVID relief issues; American Jobs Plan; budget reconciliation; bipartisan infrastructure legislation",
+    "health-care issues; COVID relief issues; budget reconciliation",
+    "health-care issues; COVID relief issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 181250,
+  "peakYear": 2018,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 3
+}

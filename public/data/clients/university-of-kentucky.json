@@ -1,1 +1,93 @@
-{"id":168093,"name":"UNIVERSITY OF KENTUCKY","slug":"university-of-kentucky","state":"KY","description":"University - Education","totalSpending":1450000,"filings":29,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":100000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["SUSAN SWEAT","JOHN LEGGIERI","ERIK FATEMI","TIMOTHY WOLFMEYER","WILLIAM SMITH","ANTHONY LAZARSKI","MARK MIODUSKI","JOSEPH BARTON","JONATHAN MILLER","CARLOS JACKSON"],"issues":["EDU","BUD",null],"sampleDescriptions":["Advancement of university research and development goals","Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2019 appropriations","Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2020 appropriations","Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2021 appropriations","Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2022 appropriations","Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2023 appropriations","Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2025 appropriations","Advancement of university research and development goals and monitor congressional developments regarding budget reconciliation.","Advancement of university research and development goals through the FY26 Department of Defense Appropriations Act, the FY26 Commerce, Justice, Science Appropriations Act, the FY26 Energy and Water Development Appropriations Act, and the FY26 Labor, Health and Human Services and Education Appropriations Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 168093,
+  "name": "UNIVERSITY OF KENTUCKY",
+  "slug": "university-of-kentucky",
+  "state": "KY",
+  "description": "University - Education",
+  "totalSpending": 1450000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 100000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "SUSAN SWEAT",
+    "JOHN LEGGIERI",
+    "ERIK FATEMI",
+    "TIMOTHY WOLFMEYER",
+    "WILLIAM SMITH",
+    "ANTHONY LAZARSKI",
+    "MARK MIODUSKI",
+    "JOSEPH BARTON",
+    "JONATHAN MILLER",
+    "CARLOS JACKSON"
+  ],
+  "issues": [
+    "EDU",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Advancement of university research and development goals",
+    "Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2019 appropriations",
+    "Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2020 appropriations",
+    "Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2021 appropriations",
+    "Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2022 appropriations",
+    "Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2023 appropriations",
+    "Advancement of university research and development goals, monitor congressional developments of Fiscal Year 2025 appropriations",
+    "Advancement of university research and development goals and monitor congressional developments regarding budget reconciliation.",
+    "Advancement of university research and development goals through the FY26 Department of Defense Appropriations Act, the FY26 Commerce, Justice, Science Appropriations Act, the FY26 Energy and Water Development Appropriations Act, and the FY26 Labor, Health and Human Services and Education Appropriations Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 181250,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "education"
+}

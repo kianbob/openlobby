@@ -1,1 +1,81 @@
-{"id":153965,"name":"BIOGEN INC.","slug":"biogen-inc","state":"MA","description":"Global biotechnology company","totalSpending":1450000,"filings":29,"yearlySpending":[{"year":2019,"income":148000},{"year":2020,"income":216000},{"year":2021,"income":216000},{"year":2022,"income":216000},{"year":2023,"income":204000},{"year":2024,"income":250000},{"year":2025,"income":200000}],"firms":["JEFFREY J. KIMBELL & ASSOCIATES, INC."],"lobbyists":["JEFFREY KIMBELL","JODIE LOCKHART","KEITH STUDDARD","KENNETH HODGE","JOHN RAY","DAVID RUDLOFF","JOHN HERZOG","KELSEY CARLSON","LAURA KEMPER","BRETT MEEKS"],"issues":["HCR","MMM",null],"sampleDescriptions":["Issues related to the biopharmaceutical industry and Medicare reimbursement issues","Issues related to the pharmaceutical industry","Issues related to Medicare Part B and Part D"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 153965,
+  "name": "BIOGEN INC.",
+  "slug": "biogen-inc",
+  "state": "MA",
+  "description": "Global biotechnology company",
+  "totalSpending": 1450000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 148000
+    },
+    {
+      "year": 2020,
+      "income": 216000
+    },
+    {
+      "year": 2021,
+      "income": 216000
+    },
+    {
+      "year": 2022,
+      "income": 216000
+    },
+    {
+      "year": 2023,
+      "income": 204000
+    },
+    {
+      "year": 2024,
+      "income": 250000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "JEFFREY J. KIMBELL & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "JEFFREY KIMBELL",
+    "JODIE LOCKHART",
+    "KEITH STUDDARD",
+    "KENNETH HODGE",
+    "JOHN RAY",
+    "DAVID RUDLOFF",
+    "JOHN HERZOG",
+    "KELSEY CARLSON",
+    "LAURA KEMPER",
+    "BRETT MEEKS"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to the biopharmaceutical industry and Medicare reimbursement issues",
+    "Issues related to the pharmaceutical industry",
+    "Issues related to Medicare Part B and Part D"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 35,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 207143,
+  "peakYear": 2024,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 2
+}

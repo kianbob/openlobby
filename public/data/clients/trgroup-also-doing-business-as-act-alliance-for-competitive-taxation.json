@@ -1,1 +1,81 @@
-{"id":114631,"name":"TRGROUP (ALSO DOING BUSINESS AS ACT - ALLIANCE FOR COMPETITIVE TAXATION)","slug":"trgroup-also-doing-business-as-act-alliance-for-competitive-taxation","state":"DC","description":"Trade association","totalSpending":1870000,"filings":24,"yearlySpending":[{"year":2018,"income":550000},{"year":2020,"income":10000},{"year":2021,"income":300000},{"year":2022,"income":410000},{"year":2023,"income":140000},{"year":2024,"income":120000},{"year":2025,"income":340000}],"firms":["PRICEWATERHOUSECOOPERS"],"lobbyists":["ROHIT KUMAR","PETER MERRILL","PATRICK BROWN","JANICE MAYS","PAMELA OLSON","MARK PRATER","ANDREW LYON","TODD METCALF","WILLIAM MORRIS"],"issues":["TAX",null],"sampleDescriptions":["Technical issues related to tax reform","Technical issues related to international taxation.","Technical issues related to tax reform and OECD/G20 Inclusive Framework Pillar One and Pillar Two proposals.","Technical issues related to tax reform, Treasury Greenbook FY 24 tax proposals, and OECD/G20 Inclusive Framework Pillar One and Pillar Two proposals.","Technical issues related to reg reform and CAMT guidance."],"years":[2018,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 114631,
+  "name": "TRGROUP (ALSO DOING BUSINESS AS ACT - ALLIANCE FOR COMPETITIVE TAXATION)",
+  "slug": "trgroup-also-doing-business-as-act-alliance-for-competitive-taxation",
+  "state": "DC",
+  "description": "Trade association",
+  "totalSpending": 1870000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 550000
+    },
+    {
+      "year": 2020,
+      "income": 10000
+    },
+    {
+      "year": 2021,
+      "income": 300000
+    },
+    {
+      "year": 2022,
+      "income": 410000
+    },
+    {
+      "year": 2023,
+      "income": 140000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 340000
+    }
+  ],
+  "firms": [
+    "PRICEWATERHOUSECOOPERS"
+  ],
+  "lobbyists": [
+    "ROHIT KUMAR",
+    "PETER MERRILL",
+    "PATRICK BROWN",
+    "JANICE MAYS",
+    "PAMELA OLSON",
+    "MARK PRATER",
+    "ANDREW LYON",
+    "TODD METCALF",
+    "WILLIAM MORRIS"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Technical issues related to tax reform",
+    "Technical issues related to international taxation.",
+    "Technical issues related to tax reform and OECD/G20 Inclusive Framework Pillar One and Pillar Two proposals.",
+    "Technical issues related to tax reform, Treasury Greenbook FY 24 tax proposals, and OECD/G20 Inclusive Framework Pillar One and Pillar Two proposals.",
+    "Technical issues related to reg reform and CAMT guidance."
+  ],
+  "years": [
+    2018,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -38,
+  "trajectory": "reducing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 267143,
+  "peakYear": 2018,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 1
+}

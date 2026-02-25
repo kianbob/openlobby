@@ -1,1 +1,118 @@
-{"id":151300,"name":"PFIZER","slug":"pfizer","state":"DC","description":null,"totalSpending":1560000,"filings":23,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":320000},{"year":2020,"income":80000},{"year":2021,"income":60000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":120000},{"year":2025,"income":240000}],"firms":["WILLIAMS AND JENSEN, PLLC"],"lobbyists":["SUSAN HIRSCHMANN","KARINA LYNCH","CHRISTOPHER HATCHER","ERIN MULLEN","MATTHEW HOEKSTRA","GEORGE OLSEN","CHERYL JAEGER","ANDREW JONES","MELINDA MAXFIELD","MARTI THOMAS","ANN MARIE BUERKLE","CHRISTOPHER WILCOX","GRANT BARBOSA","DANIEL ZIEGLER","JEANNE HAGGERTY","ALEC ARAMANDA","KURT SCHRADER","JOSHUA FENDRICK","ROBERT BUTORA"],"issues":["TRD","MMM","BUD","TAX","HCR","DEF","CPT","LAW",null],"sampleDescriptions":["IP protections related to trade agreements; trade policies impacting pharmaceutical development.","Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D. CMMI Medicare Part B Demonstration.","Labor- H.H.S Appropriations FY 2019;  Policies impacting Medicare Part D, H.R. 1625, Consolidated Appropriations Act.  H.R. 1892, the Bipartisan Budget Act of 2018.","Tax issues affecting the pharmaceutical industry including international tax.  Revenue proposals on international tax. Implementing of H.R. 1, Tax Cuts and Jobs Act.","General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages; H.R. 1628, American Health Care Act of 2017.  H.R. 1625, Consolidated Appropriations Act of 2018.","Tax issues affecting the pharmaceutical industry including international tax.  Implementing of H.R. 1, Tax Cuts and Jobs Act.","General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages; H.R. 1625, Consolidated Appropriations Act of 2018.","Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D. CMMI Medicare Part B Demonstration; H.R. 6, Support for Patients and Communities Act.","Labor- H.H.S Appropriations FY 2019;  Policies impacting Medicare Part D;  H.R. 6157, FY 2019 Appropriations.","Tax issues affecting the pharmaceutical industry including international tax.  Implementing of H.R. 1, Tax Cuts and Jobs Act, (P.L. 115-97).","General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages;  H.R. 6157 FY 2019 Appropriations.","Tax issues affecting the pharmaceutical industry including international tax.  Implementation of the Tax Cuts and Jobs Act (P.L. 115-97).","Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D.  CMMI Medicare Part B Demonstration.","Labor - HHS Appropriations FY 2020; Policies impacting Medicare Part D.","General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages.","Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D.  101 drug pricing.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.","General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.","General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.  H.R. 1865, Further Consolidation Appropriations Act 2020.","Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D.  101 drug pricing.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.  H.R. 1865, Further Consolidation Appropriations Act 2020.","General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.  Policies impacting U.S. address to the Covid-19 pandemic, including H.R. 604 Coronavirus Preparedness and Response Supplemental Appropriations Act, Public Law No: 116-123.; H. R . 6201  Families First Coronavirus Response Act, Public Law No: 116-127; and H. R. 748  CARES Act, Public Law No: 116-136.   Education regarding Executive Orders impacting drug pricing including Medicare rebate reform, the 340 B program, \"buy America\" proposals, and proposals to impose \"most favored nation\" pricing on Medicare Part B and D.   H.R. 133, Consolidated  Appropriations Act, 2021, Public Law No: 116-260."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 151300,
+  "name": "PFIZER",
+  "slug": "pfizer",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 1560000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 80000
+    },
+    {
+      "year": 2021,
+      "income": 60000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "WILLIAMS AND JENSEN, PLLC"
+  ],
+  "lobbyists": [
+    "SUSAN HIRSCHMANN",
+    "KARINA LYNCH",
+    "CHRISTOPHER HATCHER",
+    "ERIN MULLEN",
+    "MATTHEW HOEKSTRA",
+    "GEORGE OLSEN",
+    "CHERYL JAEGER",
+    "ANDREW JONES",
+    "MELINDA MAXFIELD",
+    "MARTI THOMAS",
+    "ANN MARIE BUERKLE",
+    "CHRISTOPHER WILCOX",
+    "GRANT BARBOSA",
+    "DANIEL ZIEGLER",
+    "JEANNE HAGGERTY",
+    "ALEC ARAMANDA",
+    "KURT SCHRADER",
+    "JOSHUA FENDRICK",
+    "ROBERT BUTORA"
+  ],
+  "issues": [
+    "TRD",
+    "MMM",
+    "BUD",
+    "TAX",
+    "HCR",
+    "DEF",
+    "CPT",
+    "LAW",
+    null
+  ],
+  "sampleDescriptions": [
+    "IP protections related to trade agreements; trade policies impacting pharmaceutical development.",
+    "Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D. CMMI Medicare Part B Demonstration.",
+    "Labor- H.H.S Appropriations FY 2019;  Policies impacting Medicare Part D, H.R. 1625, Consolidated Appropriations Act.  H.R. 1892, the Bipartisan Budget Act of 2018.",
+    "Tax issues affecting the pharmaceutical industry including international tax.  Revenue proposals on international tax. Implementing of H.R. 1, Tax Cuts and Jobs Act.",
+    "General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages; H.R. 1628, American Health Care Act of 2017.  H.R. 1625, Consolidated Appropriations Act of 2018.",
+    "Tax issues affecting the pharmaceutical industry including international tax.  Implementing of H.R. 1, Tax Cuts and Jobs Act.",
+    "General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages; H.R. 1625, Consolidated Appropriations Act of 2018.",
+    "Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D. CMMI Medicare Part B Demonstration; H.R. 6, Support for Patients and Communities Act.",
+    "Labor- H.H.S Appropriations FY 2019;  Policies impacting Medicare Part D;  H.R. 6157, FY 2019 Appropriations.",
+    "Tax issues affecting the pharmaceutical industry including international tax.  Implementing of H.R. 1, Tax Cuts and Jobs Act, (P.L. 115-97).",
+    "General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages;  H.R. 6157 FY 2019 Appropriations.",
+    "Tax issues affecting the pharmaceutical industry including international tax.  Implementation of the Tax Cuts and Jobs Act (P.L. 115-97).",
+    "Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D.  CMMI Medicare Part B Demonstration.",
+    "Labor - HHS Appropriations FY 2020; Policies impacting Medicare Part D.",
+    "General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages.",
+    "Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D.  101 drug pricing.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.",
+    "General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.",
+    "General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.  H.R. 1865, Further Consolidation Appropriations Act 2020.",
+    "Medicare payment issues including the Independent Payment Advisory Board (IPAB) and Medicaid issues.  Medicare Part D.  101 drug pricing.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.  H.R. 1865, Further Consolidation Appropriations Act 2020.",
+    "General education about policies impacting pharmaceutical development, approval and reimbursement;  Drug safety and drug counterfeiting; Medicare Part D; Federal preemption for prescription drugs; drug importation; and drug shortages.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019.  Policies impacting U.S. address to the Covid-19 pandemic, including H.R. 604 Coronavirus Preparedness and Response Supplemental Appropriations Act, Public Law No: 116-123.; H. R . 6201  Families First Coronavirus Response Act, Public Law No: 116-127; and H. R. 748  CARES Act, Public Law No: 116-136.   Education regarding Executive Orders impacting drug pricing including Medicare rebate reform, the 340 B program, \"buy America\" proposals, and proposals to impose \"most favored nation\" pricing on Medicare Part B and D.   H.R. 133, Consolidated  Appropriations Act, 2021, Public Law No: 116-260."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 195000,
+  "peakYear": 2018,
+  "lobbyistCount": 19,
+  "firmCount": 1,
+  "issueCount": 8
+}

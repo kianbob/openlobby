@@ -1,1 +1,64 @@
-{"id":201312,"name":"ALDEN TORCH FINANCIAL, LLC","slug":"alden-torch-financial-llc","state":"CO","description":"Real Estate Property Developer","totalSpending":1360000,"filings":17,"yearlySpending":[{"year":2019,"income":160000},{"year":2020,"income":320000},{"year":2021,"income":240000},{"year":2022,"income":320000},{"year":2023,"income":320000}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","REBECCA BENN","PAMELA BONDI"],"issues":["TAX",null],"sampleDescriptions":["Low income housing tax credit; S. 1703 and H.R. 3077, \"The Affordable Housing Tax Credit Improvement Act\".","Low income housing tax credit."],"years":[2019,2020,2021,2022,2023]}
+{
+  "id": 201312,
+  "name": "ALDEN TORCH FINANCIAL, LLC",
+  "slug": "alden-torch-financial-llc",
+  "state": "CO",
+  "description": "Real Estate Property Developer",
+  "totalSpending": 1360000,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 160000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "BALLARD PARTNERS"
+  ],
+  "lobbyists": [
+    "BRIAN BALLARD",
+    "SYLVESTER LUKIS",
+    "REBECCA BENN",
+    "PAMELA BONDI"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Low income housing tax credit; S. 1703 and H.R. 3077, \"The Affordable Housing Tax Credit Improvement Act\".",
+    "Low income housing tax credit."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 272000,
+  "peakYear": 2020,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

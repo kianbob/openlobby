@@ -1,1 +1,109 @@
-{"id":104670,"name":"SOCIETY OF NUCLEAR MEDICINE AND MOLECULAR IMAGING","slug":"society-of-nuclear-medicine-and-molecular-imaging","state":"VA","description":"Membership association for nuclear medicine and molecular imaging.","totalSpending":1390000,"filings":25,"yearlySpending":[{"year":2018,"income":50000},{"year":2019,"income":160000},{"year":2020,"income":130000},{"year":2021,"income":110000},{"year":2022,"income":190000},{"year":2023,"income":330000},{"year":2024,"income":180000},{"year":2025,"income":240000}],"firms":["ARNOLD & PORTER KAYE SCHOLER LLP"],"lobbyists":["DANA WEEKES","KRISTINE BLACKWOOD","PARI MODY","EUGENIA PIERSON","CJ MAHLER","MICKAYLA STOGSDILL","CASEY BROUHARD","GRACE BANFIELD","NATALIE TIETJEN","KATIE BROWN","PETER DUYSHART","CAROLINE OLIVER"],"issues":["HCR","MMM","ENG","BUD",null,"TAR"],"sampleDescriptions":["Issues related to access, coverage, payment for cancer drugs.","Issues related to coverage and payment for radiopharmaceuticals","Medicare reimbursement of radiopharmaceuticals and nuclear medicine.","Energy issues regarding nuclear medicine, including domestic supply of Molybdenum-99 and the Nuclear Regulatory Commission.","Medicare reimbursement of radiopharmaceuticals and nuclear medicine. The Medicare Diagnostic Radiopharmaceutical Payment Equity Act of 2019 (H.R. 3772). Medicare reimbursement of cardiac PET scans.","Medicare reimbursement of radiopharmaceuticals and nuclear medicine. Medicare reimbursement of cardiac PET scans.","Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 4479/S. 2609). Senate Energy & Water Development Committee Appropriations report language on re-evaluation of nuclear medicine event reporting.","Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 4479/S. 2609).","Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 4479/S. 2609). Senate and House Energy & Water Development Committee Appropriations report language on re-evaluation of nuclear medicine event reporting.","Senate and House Energy & Water Development Committee Appropriations report language on nuclear medicine event reporting.","Senate and House Appropriations Committees report language on nuclear medicine event reporting.","Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 1199 / S. 1544).","Senate and House Appropriations Committees report language on nuclear medicine event reporting. Issues related to the Department of Defense Congressionally Directed Medical Research Programs' Peer-Reviewed Cancer Research Program.","Issues pertaining to the utility and role of nuclear medicine as it relates to the goals of the White House's Cancer Moonshot. Additionally, issues related to coverage of molecular breast imaging (MBI), including under the Find It Early Act (H.R. 3086).","Issues related to the Nuclear Regulatory Commission's preliminary proposed rule titled, \"Reporting Nuclear Medicine Injection Extravasations as Medical Events\" (10 CFR 35).","Issues related to Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 1199 / S. 1544).","Issues related to Senate and House Appropriations Committees report language on nuclear medicine event reporting. Issues related to the Department of Defense Congressionally Directed Medical Research Programs' Peer-Reviewed Cancer Research Program.","Issues related to the Nuclear Regulatory Commission's preliminary proposed rule titled, \"Reporting Nuclear Medicine Injection Extravasations as Medical Events\" (10 CFR 35). Issues related to the Nuclear Medicine Clarification Act (H.R. 6815).","Issues related to coverage of molecular breast imaging (MBI), including under the Find It Early Act (H.R. 3086/S. 5141, 118th Congress).","Issues related to Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 1199 / S. 1544, 118th Congress)."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 104670,
+  "name": "SOCIETY OF NUCLEAR MEDICINE AND MOLECULAR IMAGING",
+  "slug": "society-of-nuclear-medicine-and-molecular-imaging",
+  "state": "VA",
+  "description": "Membership association for nuclear medicine and molecular imaging.",
+  "totalSpending": 1390000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 50000
+    },
+    {
+      "year": 2019,
+      "income": 160000
+    },
+    {
+      "year": 2020,
+      "income": 130000
+    },
+    {
+      "year": 2021,
+      "income": 110000
+    },
+    {
+      "year": 2022,
+      "income": 190000
+    },
+    {
+      "year": 2023,
+      "income": 330000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "ARNOLD & PORTER KAYE SCHOLER LLP"
+  ],
+  "lobbyists": [
+    "DANA WEEKES",
+    "KRISTINE BLACKWOOD",
+    "PARI MODY",
+    "EUGENIA PIERSON",
+    "CJ MAHLER",
+    "MICKAYLA STOGSDILL",
+    "CASEY BROUHARD",
+    "GRACE BANFIELD",
+    "NATALIE TIETJEN",
+    "KATIE BROWN",
+    "PETER DUYSHART",
+    "CAROLINE OLIVER"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "ENG",
+    "BUD",
+    null,
+    "TAR"
+  ],
+  "sampleDescriptions": [
+    "Issues related to access, coverage, payment for cancer drugs.",
+    "Issues related to coverage and payment for radiopharmaceuticals",
+    "Medicare reimbursement of radiopharmaceuticals and nuclear medicine.",
+    "Energy issues regarding nuclear medicine, including domestic supply of Molybdenum-99 and the Nuclear Regulatory Commission.",
+    "Medicare reimbursement of radiopharmaceuticals and nuclear medicine. The Medicare Diagnostic Radiopharmaceutical Payment Equity Act of 2019 (H.R. 3772). Medicare reimbursement of cardiac PET scans.",
+    "Medicare reimbursement of radiopharmaceuticals and nuclear medicine. Medicare reimbursement of cardiac PET scans.",
+    "Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 4479/S. 2609). Senate Energy & Water Development Committee Appropriations report language on re-evaluation of nuclear medicine event reporting.",
+    "Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 4479/S. 2609).",
+    "Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 4479/S. 2609). Senate and House Energy & Water Development Committee Appropriations report language on re-evaluation of nuclear medicine event reporting.",
+    "Senate and House Energy & Water Development Committee Appropriations report language on nuclear medicine event reporting.",
+    "Senate and House Appropriations Committees report language on nuclear medicine event reporting.",
+    "Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 1199 / S. 1544).",
+    "Senate and House Appropriations Committees report language on nuclear medicine event reporting. Issues related to the Department of Defense Congressionally Directed Medical Research Programs' Peer-Reviewed Cancer Research Program.",
+    "Issues pertaining to the utility and role of nuclear medicine as it relates to the goals of the White House's Cancer Moonshot. Additionally, issues related to coverage of molecular breast imaging (MBI), including under the Find It Early Act (H.R. 3086).",
+    "Issues related to the Nuclear Regulatory Commission's preliminary proposed rule titled, \"Reporting Nuclear Medicine Injection Extravasations as Medical Events\" (10 CFR 35).",
+    "Issues related to Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 1199 / S. 1544).",
+    "Issues related to Senate and House Appropriations Committees report language on nuclear medicine event reporting. Issues related to the Department of Defense Congressionally Directed Medical Research Programs' Peer-Reviewed Cancer Research Program.",
+    "Issues related to the Nuclear Regulatory Commission's preliminary proposed rule titled, \"Reporting Nuclear Medicine Injection Extravasations as Medical Events\" (10 CFR 35). Issues related to the Nuclear Medicine Clarification Act (H.R. 6815).",
+    "Issues related to coverage of molecular breast imaging (MBI), including under the Find It Early Act (H.R. 3086/S. 5141, 118th Congress).",
+    "Issues related to Medicare reimbursement of radiopharmaceuticals and nuclear medicine and Medicare reimbursement of cardiac PET scans, including the Facilitating Innovative Nuclear Diagnostics (FIND) Act (H.R. 1199 / S. 1544, 118th Congress)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 380,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 173750,
+  "peakYear": 2023,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "energy"
+}

@@ -1,1 +1,81 @@
-{"id":203266,"name":"IVANTI","slug":"ivanti","state":"UT","description":"Information Technology Software Company","totalSpending":1390000,"filings":22,"yearlySpending":[{"year":2019,"income":200000},{"year":2020,"income":50000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":270000},{"year":2024,"income":120000},{"year":2025,"income":270000}],"firms":["BRIDGE PUBLIC AFFAIRS, LLC"],"lobbyists":["TODD WOMACK","BRENT WILES","JOHN GOETZ","MICAH JOHNSON","TIM GEHRING"],"issues":["CPI","FOR",null],"sampleDescriptions":["Discussions related to IT software including cybersecurity and information security.","Discussions related to IT software including cybersecurity and information security;\nH.R.3941, FedRAMP Authorization Act.","Discussions related to IT software including cybersecurity and information security; H.R.3941, FedRAMP Authorization Act.","Issues related to Russia sanctions.","Discussions related to IT software including cybersecurity and information security; H.R.8956, FedRAMP Authorization Act, FY2023 National Defense Authorization Act (H.R.7900); H.R.8152, American Data Privacy and Protection Act.","Discussions related to IT software including cybersecurity, information security, data privacy, and artificial intelligence (AI); H.R.8818, American Privacy Rights Act of 2024.","Discussions related to IT software including cybersecurity, information security, data privacy, and artificial intelligence (AI)."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 203266,
+  "name": "IVANTI",
+  "slug": "ivanti",
+  "state": "UT",
+  "description": "Information Technology Software Company",
+  "totalSpending": 1390000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 50000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 270000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "BRIDGE PUBLIC AFFAIRS, LLC"
+  ],
+  "lobbyists": [
+    "TODD WOMACK",
+    "BRENT WILES",
+    "JOHN GOETZ",
+    "MICAH JOHNSON",
+    "TIM GEHRING"
+  ],
+  "issues": [
+    "CPI",
+    "FOR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Discussions related to IT software including cybersecurity and information security.",
+    "Discussions related to IT software including cybersecurity and information security;\nH.R.3941, FedRAMP Authorization Act.",
+    "Discussions related to IT software including cybersecurity and information security; H.R.3941, FedRAMP Authorization Act.",
+    "Issues related to Russia sanctions.",
+    "Discussions related to IT software including cybersecurity and information security; H.R.8956, FedRAMP Authorization Act, FY2023 National Defense Authorization Act (H.R.7900); H.R.8152, American Data Privacy and Protection Act.",
+    "Discussions related to IT software including cybersecurity, information security, data privacy, and artificial intelligence (AI); H.R.8818, American Privacy Rights Act of 2024.",
+    "Discussions related to IT software including cybersecurity, information security, data privacy, and artificial intelligence (AI)."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 35,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 198571,
+  "peakYear": 2023,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "technology"
+}

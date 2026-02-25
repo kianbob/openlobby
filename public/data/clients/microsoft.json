@@ -1,1 +1,83 @@
-{"id":190567,"name":"MICROSOFT","slug":"microsoft","state":"DC","description":"Software company that manufacturers, licenses and supports computer products.","totalSpending":1500000,"filings":25,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000}],"firms":["POLARIS-HUTTON GROUP, LLC"],"lobbyists":["DAN GANS","BRYAN CUNNINGHAM","MICHAEL HUTTON","JON GANS"],"issues":["IMM","TEC","LBR","CSP",null],"sampleDescriptions":["Comprehensive Immigration Reform, Generally.","Competition issues, cross border data issues, the Electronic Communications Privacy Act (no bill number yet);","Antitrust issues, generally.","Privacy Issues, generally; No specific legislation.","Competition issues, cross border data issues, the Electronic Communications Privacy Act (no bill number yet); Broadband Funding","Comprehensive Immigration Reform, generally.","Antitrust issues, generally;","Privacy Issues, generally; No specific legislation; data security & cybersecurity issues","Antitrust issues, generally"],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 190567,
+  "name": "MICROSOFT",
+  "slug": "microsoft",
+  "state": "DC",
+  "description": "Software company that manufacturers, licenses and supports computer products.",
+  "totalSpending": 1500000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "POLARIS-HUTTON GROUP, LLC"
+  ],
+  "lobbyists": [
+    "DAN GANS",
+    "BRYAN CUNNINGHAM",
+    "MICHAEL HUTTON",
+    "JON GANS"
+  ],
+  "issues": [
+    "IMM",
+    "TEC",
+    "LBR",
+    "CSP",
+    null
+  ],
+  "sampleDescriptions": [
+    "Comprehensive Immigration Reform, Generally.",
+    "Competition issues, cross border data issues, the Electronic Communications Privacy Act (no bill number yet);",
+    "Antitrust issues, generally.",
+    "Privacy Issues, generally; No specific legislation.",
+    "Competition issues, cross border data issues, the Electronic Communications Privacy Act (no bill number yet); Broadband Funding",
+    "Comprehensive Immigration Reform, generally.",
+    "Antitrust issues, generally;",
+    "Privacy Issues, generally; No specific legislation; data security & cybersecurity issues",
+    "Antitrust issues, generally"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 214286,
+  "peakYear": 2019,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 4
+}

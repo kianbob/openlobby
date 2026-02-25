@@ -1,1 +1,86 @@
-{"id":194104,"name":"COWEN GROUP","slug":"cowen-group","state":"NY","description":"Diversified financial services company.","totalSpending":1620000,"filings":27,"yearlySpending":[{"year":2018,"income":60000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":300000},{"year":2024,"income":240000},{"year":2025,"income":180000}],"firms":["DC STRATEGIES GROUP, LLC"],"lobbyists":["ROY DELOACH","MICHAEL CHAPMAN","JEFF KRAMER"],"issues":["BAN",null],"sampleDescriptions":["Middle Market IPO Underwriting Cost Act, (HR 6324)  requires the SEC in consultation with FINRA to study the impacts on fees associated with the IPO process involving small and mid-cap companies within a year of enactment.   Incorporated in  HR2155.","IPO middle market costs - no legislation at this point.","Impact of pre- and post IPO costs on middle market initial public offerings.","Impact of pre- and post IPO costs on middle market initial public offerings.\nLicense issuance from OFAC","Impact of pre- and post IPO costs on middle market initial public offerings.\nLicense issuance from OFAC\n Capital formation and other financial services for cannabis.","Capital markets access in various cannabis legalization legislation. Safe Banking Act, States Act, and other comprehensive legalization bills.","Capital Markets. Cannabis Reform. Cryptocurrency. Health Care/Biotech Issues. Build Back Better.","Capital Markets. Cannabis Reform. Cryptocurrency. Health Care/Biotech. Build Back Better.","Capital Markets. Cannabis Reform. Cryptocurrency. Health Care/Biotech. Budget Reconciliation.","Capital Formation for Small and Middle Market Companies","Capital formation legislation and regulation."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 194104,
+  "name": "COWEN GROUP",
+  "slug": "cowen-group",
+  "state": "NY",
+  "description": "Diversified financial services company.",
+  "totalSpending": 1620000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 60000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "DC STRATEGIES GROUP, LLC"
+  ],
+  "lobbyists": [
+    "ROY DELOACH",
+    "MICHAEL CHAPMAN",
+    "JEFF KRAMER"
+  ],
+  "issues": [
+    "BAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Middle Market IPO Underwriting Cost Act, (HR 6324)  requires the SEC in consultation with FINRA to study the impacts on fees associated with the IPO process involving small and mid-cap companies within a year of enactment.   Incorporated in  HR2155.",
+    "IPO middle market costs - no legislation at this point.",
+    "Impact of pre- and post IPO costs on middle market initial public offerings.",
+    "Impact of pre- and post IPO costs on middle market initial public offerings.\nLicense issuance from OFAC",
+    "Impact of pre- and post IPO costs on middle market initial public offerings.\nLicense issuance from OFAC\n Capital formation and other financial services for cannabis.",
+    "Capital markets access in various cannabis legalization legislation. Safe Banking Act, States Act, and other comprehensive legalization bills.",
+    "Capital Markets. Cannabis Reform. Cryptocurrency. Health Care/Biotech Issues. Build Back Better.",
+    "Capital Markets. Cannabis Reform. Cryptocurrency. Health Care/Biotech. Build Back Better.",
+    "Capital Markets. Cannabis Reform. Cryptocurrency. Health Care/Biotech. Budget Reconciliation.",
+    "Capital Formation for Small and Middle Market Companies",
+    "Capital formation legislation and regulation."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 200,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 202500,
+  "peakYear": 2023,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

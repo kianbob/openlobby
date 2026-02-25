@@ -1,1 +1,113 @@
-{"id":199142,"name":"AMERICAN FOREST & PAPER ASSOCIATION","slug":"american-forest-paper-association","state":"DC","description":"Trade Association","totalSpending":1550000,"filings":31,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["FIERCE GOVERNMENT RELATIONS"],"lobbyists":["WILLIAM BLALOCK","KIRSTEN CHADWICK","MICHAEL CHAPPELL","ALEIX JARVIS","KATE HULL","WILLIAM PIPER","TYLER STEPHENS","ERIC ZULKOSKY","PATRICK CLIFTON","JACOBUS VREEBURG"],"issues":["ENV","ENG","TRD","AGR","POS","TRA","GOV","TRU","MAN","RET",null,"TAX","LBR"],"sampleDescriptions":["Carbon Neutrality of Biomass, National Ambient Air Quality Standard, Human Health Water Quality Standards","Public Utility Regulatory Policies Act","NAFTA, Investor State Dispute Settlements","Paper and Packaging Board","Postal Reform","Carbon Neutrality of Biomass, National Ambient Air Quality Standard, Human Health Water Quality Standards, Environmental Sustainability","Public Utility Regulatory Policies Act, H.R. 4476- PURPA Modernization Act of 2017","Paper and Packaging Board, H.R. 2- Agriculture Improvement Act of 2018- Check Off Program","Truck Weights","Carbon Neutrality of Biomass","S. 2296- GOOD Act","Investor State Dispute Settlements","Carbon Neutrality of Biomass, Recycling, Disaster Relief Efforts, Biobased Programs","Postal Reform, U.S. Treasury Task Force report on the United States Postal System","REMADE Institute","Postal Reform, U.S. Treasury Task Force report on the United State Postal System","Carbon Neutrality of Biomass, Recycling, PURPA","Carbon Neutrality of Biomass, Recycling, PFAS, Save Our Seas 2.0, Climate Change, S. 1790- National Defense Authorization Act for Fiscal Year 2020, H.R. 2500-National Defense Authorization Act for Fiscal Year 2020, S. 2137- Energy Savings and Industrial Competitiveness Act of 2019","USMCA/ISDS","Postal Reform, Nominations"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199142,
+  "name": "AMERICAN FOREST & PAPER ASSOCIATION",
+  "slug": "american-forest-paper-association",
+  "state": "DC",
+  "description": "Trade Association",
+  "totalSpending": 1550000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "FIERCE GOVERNMENT RELATIONS"
+  ],
+  "lobbyists": [
+    "WILLIAM BLALOCK",
+    "KIRSTEN CHADWICK",
+    "MICHAEL CHAPPELL",
+    "ALEIX JARVIS",
+    "KATE HULL",
+    "WILLIAM PIPER",
+    "TYLER STEPHENS",
+    "ERIC ZULKOSKY",
+    "PATRICK CLIFTON",
+    "JACOBUS VREEBURG"
+  ],
+  "issues": [
+    "ENV",
+    "ENG",
+    "TRD",
+    "AGR",
+    "POS",
+    "TRA",
+    "GOV",
+    "TRU",
+    "MAN",
+    "RET",
+    null,
+    "TAX",
+    "LBR"
+  ],
+  "sampleDescriptions": [
+    "Carbon Neutrality of Biomass, National Ambient Air Quality Standard, Human Health Water Quality Standards",
+    "Public Utility Regulatory Policies Act",
+    "NAFTA, Investor State Dispute Settlements",
+    "Paper and Packaging Board",
+    "Postal Reform",
+    "Carbon Neutrality of Biomass, National Ambient Air Quality Standard, Human Health Water Quality Standards, Environmental Sustainability",
+    "Public Utility Regulatory Policies Act, H.R. 4476- PURPA Modernization Act of 2017",
+    "Paper and Packaging Board, H.R. 2- Agriculture Improvement Act of 2018- Check Off Program",
+    "Truck Weights",
+    "Carbon Neutrality of Biomass",
+    "S. 2296- GOOD Act",
+    "Investor State Dispute Settlements",
+    "Carbon Neutrality of Biomass, Recycling, Disaster Relief Efforts, Biobased Programs",
+    "Postal Reform, U.S. Treasury Task Force report on the United States Postal System",
+    "REMADE Institute",
+    "Postal Reform, U.S. Treasury Task Force report on the United State Postal System",
+    "Carbon Neutrality of Biomass, Recycling, PURPA",
+    "Carbon Neutrality of Biomass, Recycling, PFAS, Save Our Seas 2.0, Climate Change, S. 1790- National Defense Authorization Act for Fiscal Year 2020, H.R. 2500-National Defense Authorization Act for Fiscal Year 2020, S. 2137- Energy Savings and Industrial Competitiveness Act of 2019",
+    "USMCA/ISDS",
+    "Postal Reform, Nominations"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 193750,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 12
+}

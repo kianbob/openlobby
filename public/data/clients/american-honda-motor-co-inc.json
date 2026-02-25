@@ -1,1 +1,118 @@
-{"id":196514,"name":"AMERICAN HONDA MOTOR CO., INC.","slug":"american-honda-motor-co-inc","state":"DC","description":"Automobile manufacturing","totalSpending":1950000,"filings":30,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":220000},{"year":2020,"income":300000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":210000},{"year":2025,"income":280000}],"firms":["FORBES-TATE"],"lobbyists":["RACHEL MILLER","DANIEL TATE","JERRY DRISCOLL","JEFFREY STRUNK","CYNTHIA BROWN","FRANKLYN STEINBERG","RICK MURPHY","ADRIENNE SCHWEER","RICHARD LOPEZ","MICHAEL WILLIAMS","ARTHUR SIDNEY","TORI SMITH"],"issues":["TAX","TRD","TRA","ENV","SCI","ENG","BUD","AVI","AUT","TEC","CPT","EDU","MAN","CSP",null,"FIN"],"sampleDescriptions":["Issues related to the implementation of H.R.1 Tax Cuts and Jobs Act; S. 2256, Tax Extenders Act, 30B and 30C; H.R. 1892, Bipartisan Budget Act, Tax Extenders, 30B and 30C.","Issues related to NAFTA.","Mid-term review of the corporate average fuel economy (CAFE) standards; Issues related to S. 1885, AV START Act, all provisions; Issues related to hydrogen refueling infrastructure.","Issues related to the implementation of H.R.1 Tax Cuts and Jobs Act; S. 2256, Tax Extenders Act, 30B and 30C; and Tax Extenders, 30B and 30C.","Issues related to NAFTA; Issues related to Foreign Agents Registration Act (FARA).","Issues related to NAFTA; Issues related to Foreign Agents Registration Act (FARA); Issues related to Section 232 tariffs; investigation into imported autos and auto parts.","Issues related to NAFTA and USMCA; Issues related to Foreign Agents Registration Act (FARA); Issues related to Section 232 tariffs, steel and aluminum tariffs; investigation into imported autos and auto parts; Issues related to 301 China Tariffs; Issues related to S. 3329, Trade Security Act of 2018; Issues related to S. 3266, Automotive Jobs Act of 2018; Issues related to H.R. 6923, Promoting Responsible and Free Trade Act.","Issues related to S. 1885, AV START Act, all provisions; Issues related to hydrogen refueling infrastructure.","Issues related to the implementation of H.R.1 Tax Cuts and Jobs Act; S. 2256, Tax Extenders Act, 30B and 30C; and Tax Extenders, 30B and 30C; Issues related to S. 3582/H.R. 7065, a bill to amend the Internal Revenue Code of 1986 to establish a new phaseout of the credit for plug-in electric drive motor vehicles; Issues related to S. 3449, Electric CARS Act of 2018.","Issues related to 232 Steel & Aluminum Tariffs, 301 China Tariffs, 232 Investigation into imported auto and auto parts, US-Japan Bilateral Negotiations, HR 940/S 287, Bicameral Congressional Trade Authority Act, HR 1008/S365, Trade Security Act, HR 1710/S121, Automotive Jobs Act, US-UK Bilateral Negotiations, NAFTA/USMCA.","Issues related to Fuel Economy and Greenhouse Gas Standards.","Issues related to S.674 Clean Corridors Act of 2019.\nIssues related to Autonomous Vehicles, in general\nIssues related to Connected Vehicles, in general","Issues related to Autonomous Vehicles, in general\nIssues related to Connected Vehicles, in general","Issues related to 30B, 30C & 30D Tax Credits\nS.617, Tax Extender, and Disaster Relief Act, 30B & 30C Extension\nImplementation of HR 1, Tax Cuts & Jobs Act, Corporate Tax Provisions","Issues related to 232 Steel & Aluminum Tariffs, 301 China Tariffs, 232 Investigation into imported autos and auto parts, US-Japan Bilateral Negotiations, US-UK Bilateral Negotiations, and NAFTA/USMCA; H.R. 940/S. 287 - Bicameral Congressional Trade Authority Act of 2019; H.R. 1008/S. 365 - Trade Security Act of 2019; H.R. 1710/S. 121 - Automotive Jobs Act of 2019; Presidential proclamation on 232 imported autos and parts; H.R. 3477 - Reclaiming Congressional Trade Authority Act of 2019.","H.R. 2616/S. 674 - Clean Corridors Act of 2019; Issues related to autonomous vehicles, in general; Issues related to connected vehicles, in general; S. 1939 - Moving and Fostering Innovation to Revolutionize Smarter Transportation Act; Issues related to electric vehicles and infrastructure, in general.","Issues related to 30B, 30C & 30D Tax Credits; S. 617 - Tax Extender and Disaster Relief Act of 2019, re 30B & 30C extension; Implementation of H.R. 1 (115th Congress) - Tax Cuts & Jobs Act, re corporate tax provisions; H.R. 2256/S. 1094 - Driving America Forward Act; H.R. 2042/S. 993 - Electric CARS Act of 2019.","Issues related to autonomous vehicles, in general; Issues related to connected vehicles, in general.","Issues related to 232 Steel & Aluminum Tariffs, 301 China Tariffs, 232 Investigation into imported autos and auto parts, US-Japan Bilateral Negotiations, US-UK Bilateral Negotiations, and NAFTA/USMCA; H.R. 940/S. 287 - Bicameral Congressional Trade Authority Act of 2019; H.R. 1008/S. 365 - Trade Security Act of 2019; H.R. 1710/S. 121 - Automotive Jobs Act of 2019; Presidential proclamation on 232 imported autos and parts; H.R. 3477 - Reclaiming Congressional Trade Authority Act of 2019; Issues related to the United States Mexico Canada Act (USMCA); Issues related to Export-Import Bank Reauthorization.","Issues related to the Growing Renewable Energy and Efficiency Now Act (GREEN Act) Discussion Draft."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 196514,
+  "name": "AMERICAN HONDA MOTOR CO., INC.",
+  "slug": "american-honda-motor-co-inc",
+  "state": "DC",
+  "description": "Automobile manufacturing",
+  "totalSpending": 1950000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 220000
+    },
+    {
+      "year": 2020,
+      "income": 300000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 210000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "FORBES-TATE"
+  ],
+  "lobbyists": [
+    "RACHEL MILLER",
+    "DANIEL TATE",
+    "JERRY DRISCOLL",
+    "JEFFREY STRUNK",
+    "CYNTHIA BROWN",
+    "FRANKLYN STEINBERG",
+    "RICK MURPHY",
+    "ADRIENNE SCHWEER",
+    "RICHARD LOPEZ",
+    "MICHAEL WILLIAMS",
+    "ARTHUR SIDNEY",
+    "TORI SMITH"
+  ],
+  "issues": [
+    "TAX",
+    "TRD",
+    "TRA",
+    "ENV",
+    "SCI",
+    "ENG",
+    "BUD",
+    "AVI",
+    "AUT",
+    "TEC",
+    "CPT",
+    "EDU",
+    "MAN",
+    "CSP",
+    null,
+    "FIN"
+  ],
+  "sampleDescriptions": [
+    "Issues related to the implementation of H.R.1 Tax Cuts and Jobs Act; S. 2256, Tax Extenders Act, 30B and 30C; H.R. 1892, Bipartisan Budget Act, Tax Extenders, 30B and 30C.",
+    "Issues related to NAFTA.",
+    "Mid-term review of the corporate average fuel economy (CAFE) standards; Issues related to S. 1885, AV START Act, all provisions; Issues related to hydrogen refueling infrastructure.",
+    "Issues related to the implementation of H.R.1 Tax Cuts and Jobs Act; S. 2256, Tax Extenders Act, 30B and 30C; and Tax Extenders, 30B and 30C.",
+    "Issues related to NAFTA; Issues related to Foreign Agents Registration Act (FARA).",
+    "Issues related to NAFTA; Issues related to Foreign Agents Registration Act (FARA); Issues related to Section 232 tariffs; investigation into imported autos and auto parts.",
+    "Issues related to NAFTA and USMCA; Issues related to Foreign Agents Registration Act (FARA); Issues related to Section 232 tariffs, steel and aluminum tariffs; investigation into imported autos and auto parts; Issues related to 301 China Tariffs; Issues related to S. 3329, Trade Security Act of 2018; Issues related to S. 3266, Automotive Jobs Act of 2018; Issues related to H.R. 6923, Promoting Responsible and Free Trade Act.",
+    "Issues related to S. 1885, AV START Act, all provisions; Issues related to hydrogen refueling infrastructure.",
+    "Issues related to the implementation of H.R.1 Tax Cuts and Jobs Act; S. 2256, Tax Extenders Act, 30B and 30C; and Tax Extenders, 30B and 30C; Issues related to S. 3582/H.R. 7065, a bill to amend the Internal Revenue Code of 1986 to establish a new phaseout of the credit for plug-in electric drive motor vehicles; Issues related to S. 3449, Electric CARS Act of 2018.",
+    "Issues related to 232 Steel & Aluminum Tariffs, 301 China Tariffs, 232 Investigation into imported auto and auto parts, US-Japan Bilateral Negotiations, HR 940/S 287, Bicameral Congressional Trade Authority Act, HR 1008/S365, Trade Security Act, HR 1710/S121, Automotive Jobs Act, US-UK Bilateral Negotiations, NAFTA/USMCA.",
+    "Issues related to Fuel Economy and Greenhouse Gas Standards.",
+    "Issues related to S.674 Clean Corridors Act of 2019.\nIssues related to Autonomous Vehicles, in general\nIssues related to Connected Vehicles, in general",
+    "Issues related to Autonomous Vehicles, in general\nIssues related to Connected Vehicles, in general",
+    "Issues related to 30B, 30C & 30D Tax Credits\nS.617, Tax Extender, and Disaster Relief Act, 30B & 30C Extension\nImplementation of HR 1, Tax Cuts & Jobs Act, Corporate Tax Provisions",
+    "Issues related to 232 Steel & Aluminum Tariffs, 301 China Tariffs, 232 Investigation into imported autos and auto parts, US-Japan Bilateral Negotiations, US-UK Bilateral Negotiations, and NAFTA/USMCA; H.R. 940/S. 287 - Bicameral Congressional Trade Authority Act of 2019; H.R. 1008/S. 365 - Trade Security Act of 2019; H.R. 1710/S. 121 - Automotive Jobs Act of 2019; Presidential proclamation on 232 imported autos and parts; H.R. 3477 - Reclaiming Congressional Trade Authority Act of 2019.",
+    "H.R. 2616/S. 674 - Clean Corridors Act of 2019; Issues related to autonomous vehicles, in general; Issues related to connected vehicles, in general; S. 1939 - Moving and Fostering Innovation to Revolutionize Smarter Transportation Act; Issues related to electric vehicles and infrastructure, in general.",
+    "Issues related to 30B, 30C & 30D Tax Credits; S. 617 - Tax Extender and Disaster Relief Act of 2019, re 30B & 30C extension; Implementation of H.R. 1 (115th Congress) - Tax Cuts & Jobs Act, re corporate tax provisions; H.R. 2256/S. 1094 - Driving America Forward Act; H.R. 2042/S. 993 - Electric CARS Act of 2019.",
+    "Issues related to autonomous vehicles, in general; Issues related to connected vehicles, in general.",
+    "Issues related to 232 Steel & Aluminum Tariffs, 301 China Tariffs, 232 Investigation into imported autos and auto parts, US-Japan Bilateral Negotiations, US-UK Bilateral Negotiations, and NAFTA/USMCA; H.R. 940/S. 287 - Bicameral Congressional Trade Authority Act of 2019; H.R. 1008/S. 365 - Trade Security Act of 2019; H.R. 1710/S. 121 - Automotive Jobs Act of 2019; Presidential proclamation on 232 imported autos and parts; H.R. 3477 - Reclaiming Congressional Trade Authority Act of 2019; Issues related to the United States Mexico Canada Act (USMCA); Issues related to Export-Import Bank Reauthorization.",
+    "Issues related to the Growing Renewable Energy and Efficiency Now Act (GREEN Act) Discussion Draft."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 243750,
+  "peakYear": 2020,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 15
+}

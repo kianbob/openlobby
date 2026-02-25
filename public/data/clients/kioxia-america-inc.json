@@ -1,1 +1,65 @@
-{"id":209572,"name":"KIOXIA AMERICA, INC.","slug":"kioxia-america-inc","state":"CA","description":"Flash memory","totalSpending":1840000,"filings":14,"yearlySpending":[{"year":2021,"income":450000},{"year":2022,"income":600000},{"year":2023,"income":490000},{"year":2024,"income":300000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["SEAN CALLAHAN","EDWARD ROYCE","MARC LAMPKIN","DOUGLAS MAGUIRE","ARI ZIMMERMAN","SAMANTHA CARL-YODER","GRETA JOYNES","TRAVIS NORTON","ZACHARY MARSHALL","NADEAM ELSHAMI","GREGORY SUNSTRUM","BRANDT ANDERSON"],"issues":["TRD",null],"sampleDescriptions":["Semiconductor and storage related trade issues and proceedings"],"years":[2021,2022,2023,2024]}
+{
+  "id": 209572,
+  "name": "KIOXIA AMERICA, INC.",
+  "slug": "kioxia-america-inc",
+  "state": "CA",
+  "description": "Flash memory",
+  "totalSpending": 1840000,
+  "filings": 14,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 450000
+    },
+    {
+      "year": 2022,
+      "income": 600000
+    },
+    {
+      "year": 2023,
+      "income": 490000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "SEAN CALLAHAN",
+    "EDWARD ROYCE",
+    "MARC LAMPKIN",
+    "DOUGLAS MAGUIRE",
+    "ARI ZIMMERMAN",
+    "SAMANTHA CARL-YODER",
+    "GRETA JOYNES",
+    "TRAVIS NORTON",
+    "ZACHARY MARSHALL",
+    "NADEAM ELSHAMI",
+    "GREGORY SUNSTRUM",
+    "BRANDT ANDERSON"
+  ],
+  "issues": [
+    "TRD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Semiconductor and storage related trade issues and proceedings"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -33,
+  "trajectory": "reducing",
+  "yearsActive": 4,
+  "avgAnnualSpending": 460000,
+  "peakYear": 2022,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 1
+}

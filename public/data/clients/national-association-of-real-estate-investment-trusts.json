@@ -1,1 +1,78 @@
-{"id":166459,"name":"NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS","slug":"national-association-of-real-estate-investment-trusts","state":"DC","description":null,"totalSpending":1560000,"filings":26,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":60000}],"firms":["FEDERAL POLICY GROUP, LLC"],"lobbyists":["KENNETH KIES","JAY HEFLIN","DON SNYDER","AHARON FRIEDMAN"],"issues":["TAX",null],"sampleDescriptions":["Tax reform and tax code provisions relating to real estate investment trusts"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 166459,
+  "name": "NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS",
+  "slug": "national-association-of-real-estate-investment-trusts",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 1560000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 60000
+    }
+  ],
+  "firms": [
+    "FEDERAL POLICY GROUP, LLC"
+  ],
+  "lobbyists": [
+    "KENNETH KIES",
+    "JAY HEFLIN",
+    "DON SNYDER",
+    "AHARON FRIEDMAN"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Tax reform and tax code provisions relating to real estate investment trusts"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -67,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 195000,
+  "peakYear": 2020,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

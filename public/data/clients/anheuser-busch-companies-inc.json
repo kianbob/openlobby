@@ -1,1 +1,112 @@
-{"id":140600,"name":"ANHEUSER-BUSCH COMPANIES INC","slug":"anheuser-busch-companies-inc","state":"MO","description":null,"totalSpending":1460000,"filings":29,"yearlySpending":[{"year":2018,"income":60000},{"year":2019,"income":30000},{"year":2020,"income":110000},{"year":2021,"income":210000},{"year":2022,"income":280000},{"year":2023,"income":350000},{"year":2024,"income":210000},{"year":2025,"income":210000}],"firms":["PUBLIC STRATEGIES WASHINGTON, INC."],"lobbyists":["JOSEPH O'NEILL","PATRICK O'NEILL","STEVEN EICHENAUER","COLTON HOTARY","MICHELLE KINZER","THOMAS NAGLE","A.J. WOJCIAK","ALISON MCGUIGAN","CHUCK BRAIN","ANGELA ZIMMERMAN","SARAH DURR","AARON SUNTAG","RICKY COOKS","ABBIE SORRENDINO"],"issues":["TRD","TAX","TRU","BUD","LBR",null,"BEV","FOO"],"sampleDescriptions":["Monitor international trade activity: TPA, NAFTA, Section 232 and 301 trade cases, excise tax duty drawback","Corrections to tax reform legislation\nCraft Beverage Modernization Tax Reform Act","FY18 Transportation Appropriations","FY18 Consolidated Appropriations\nFY19 Appropriations","Corrections to tax reform legislation","FY19 Transportation Appropriations","FY19 Appropriations","Monitor international trade activity: TPA, NAFTA, Section 232 and 301 trade cases, excise tax duty drawback.\n\nH.R.6927- APEX Act","Clarifications to tax reform legislation","Monitor international trade activity: TPA, NAFTA, Section 232 and 301 trade cases, excise tax duty drawback\nAPEX Act","FY20 appropriations","Clarifications to tax reform legislation\nTax extenders\nCraft Beverage Modernization and Tax Reform Act","Tax extenders\nCraft Beverage Modernization and Tax Reform Act","Issues related to competition policy","Appropriations","Tax extenders\nCraft Beverage Modernization and Tax Reform Act and other alcohol tax related policies","Monitor international trade and tariff activity","FY21 Appropriations","Tax extenders\nCraft Beverage Modernization and Tax Reform Act and other alcohol tax related policies\nProposals related to corporate tax issues","Tax extenders\nProposals relating to corporate tax issues and alcohol tax related policies\nIssues relating to 163(j) and COVID-19 relief packages"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 140600,
+  "name": "ANHEUSER-BUSCH COMPANIES INC",
+  "slug": "anheuser-busch-companies-inc",
+  "state": "MO",
+  "description": null,
+  "totalSpending": 1460000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 60000
+    },
+    {
+      "year": 2019,
+      "income": 30000
+    },
+    {
+      "year": 2020,
+      "income": 110000
+    },
+    {
+      "year": 2021,
+      "income": 210000
+    },
+    {
+      "year": 2022,
+      "income": 280000
+    },
+    {
+      "year": 2023,
+      "income": 350000
+    },
+    {
+      "year": 2024,
+      "income": 210000
+    },
+    {
+      "year": 2025,
+      "income": 210000
+    }
+  ],
+  "firms": [
+    "PUBLIC STRATEGIES WASHINGTON, INC."
+  ],
+  "lobbyists": [
+    "JOSEPH O'NEILL",
+    "PATRICK O'NEILL",
+    "STEVEN EICHENAUER",
+    "COLTON HOTARY",
+    "MICHELLE KINZER",
+    "THOMAS NAGLE",
+    "A.J. WOJCIAK",
+    "ALISON MCGUIGAN",
+    "CHUCK BRAIN",
+    "ANGELA ZIMMERMAN",
+    "SARAH DURR",
+    "AARON SUNTAG",
+    "RICKY COOKS",
+    "ABBIE SORRENDINO"
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "TRU",
+    "BUD",
+    "LBR",
+    null,
+    "BEV",
+    "FOO"
+  ],
+  "sampleDescriptions": [
+    "Monitor international trade activity: TPA, NAFTA, Section 232 and 301 trade cases, excise tax duty drawback",
+    "Corrections to tax reform legislation\nCraft Beverage Modernization Tax Reform Act",
+    "FY18 Transportation Appropriations",
+    "FY18 Consolidated Appropriations\nFY19 Appropriations",
+    "Corrections to tax reform legislation",
+    "FY19 Transportation Appropriations",
+    "FY19 Appropriations",
+    "Monitor international trade activity: TPA, NAFTA, Section 232 and 301 trade cases, excise tax duty drawback.\n\nH.R.6927- APEX Act",
+    "Clarifications to tax reform legislation",
+    "Monitor international trade activity: TPA, NAFTA, Section 232 and 301 trade cases, excise tax duty drawback\nAPEX Act",
+    "FY20 appropriations",
+    "Clarifications to tax reform legislation\nTax extenders\nCraft Beverage Modernization and Tax Reform Act",
+    "Tax extenders\nCraft Beverage Modernization and Tax Reform Act",
+    "Issues related to competition policy",
+    "Appropriations",
+    "Tax extenders\nCraft Beverage Modernization and Tax Reform Act and other alcohol tax related policies",
+    "Monitor international trade and tariff activity",
+    "FY21 Appropriations",
+    "Tax extenders\nCraft Beverage Modernization and Tax Reform Act and other alcohol tax related policies\nProposals related to corporate tax issues",
+    "Tax extenders\nProposals relating to corporate tax issues and alcohol tax related policies\nIssues relating to 163(j) and COVID-19 relief packages"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 250,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 182500,
+  "peakYear": 2023,
+  "lobbyistCount": 14,
+  "firmCount": 1,
+  "issueCount": 7
+}

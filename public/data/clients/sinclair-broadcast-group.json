@@ -1,1 +1,72 @@
-{"id":151857,"name":"SINCLAIR BROADCAST GROUP","slug":"sinclair-broadcast-group","state":"MD","description":"Television broadcasting company","totalSpending":3300000,"filings":25,"yearlySpending":[{"year":2019,"income":560000},{"year":2020,"income":280000},{"year":2021,"income":420000},{"year":2022,"income":560000},{"year":2023,"income":560000},{"year":2024,"income":420000},{"year":2025,"income":500000}],"firms":["WILMER CUTLER PICKERING HALE AND DORR LLP"],"lobbyists":["ROBERT LEHMAN","PHILIP BESHARA","JEFFREY WIEAND"],"issues":["COM",null],"sampleDescriptions":["Competition issues"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 151857,
+  "name": "SINCLAIR BROADCAST GROUP",
+  "slug": "sinclair-broadcast-group",
+  "state": "MD",
+  "description": "Television broadcasting company",
+  "totalSpending": 3300000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 560000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 420000
+    },
+    {
+      "year": 2022,
+      "income": 560000
+    },
+    {
+      "year": 2023,
+      "income": 560000
+    },
+    {
+      "year": 2024,
+      "income": 420000
+    },
+    {
+      "year": 2025,
+      "income": 500000
+    }
+  ],
+  "firms": [
+    "WILMER CUTLER PICKERING HALE AND DORR LLP"
+  ],
+  "lobbyists": [
+    "ROBERT LEHMAN",
+    "PHILIP BESHARA",
+    "JEFFREY WIEAND"
+  ],
+  "issues": [
+    "COM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Competition issues"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -11,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 471429,
+  "peakYear": 2019,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

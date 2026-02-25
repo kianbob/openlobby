@@ -1,1 +1,82 @@
-{"id":167888,"name":"MICROSOFT CORPORATION","slug":"microsoft-corporation","state":"DC","description":null,"totalSpending":1350000,"filings":15,"yearlySpending":[{"year":2018,"income":360000},{"year":2019,"income":360000},{"year":2020,"income":270000},{"year":2021,"income":360000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["CAMPBELL KAUFMAN","MICHAEL SMITH","THOMAS SHIPMAN","JOHN KEAST","JAMES RICHARDS","HEATHER MOLINO","CHRISTOPHER SARLEY","WILLIAM SMITH","TODD WEBSTER","DOYLE CHOI","ANTHONY LAZARSKI","JOHN LEGGIERI","MICHAEL GOODMAN","TIMOTHY WOLFMEYER","SUSAN SWEAT","STACY RICH"],"issues":["TEC","DEF","TAX","IMM","BUD"],"sampleDescriptions":["Privacy, cybersecurity, law enforcement access to data, appropriations, rural broadband; appropriations language regarding information technology, CLOUD Act","Defense authorization","Comprehensive tax reform","General representation, LEADS Act; ECPA, Immigration, Broadband, CLOUD Act","General representation, LEADS Act; ECPA, Immigration, Broadband, CLOUD Act, NDAA","General representation, Immigration, Broadband,","Privacy, cybersecurity, law enforcement access to data, appropriations, rural broadband; appropriations language regarding information technology,","General representation, Immigration,","General representation, Immigration","Privacy, cybersecurity, appropriations, rural broadband; appropriations language regarding information technology,","Privacy, cybersecurity, appropriations, rural broadband; appropriations language regarding information technology"],"years":[2018,2019,2020,2021]}
+{
+  "id": 167888,
+  "name": "MICROSOFT CORPORATION",
+  "slug": "microsoft-corporation",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 1350000,
+  "filings": 15,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 360000
+    },
+    {
+      "year": 2019,
+      "income": 360000
+    },
+    {
+      "year": 2020,
+      "income": 270000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "CAMPBELL KAUFMAN",
+    "MICHAEL SMITH",
+    "THOMAS SHIPMAN",
+    "JOHN KEAST",
+    "JAMES RICHARDS",
+    "HEATHER MOLINO",
+    "CHRISTOPHER SARLEY",
+    "WILLIAM SMITH",
+    "TODD WEBSTER",
+    "DOYLE CHOI",
+    "ANTHONY LAZARSKI",
+    "JOHN LEGGIERI",
+    "MICHAEL GOODMAN",
+    "TIMOTHY WOLFMEYER",
+    "SUSAN SWEAT",
+    "STACY RICH"
+  ],
+  "issues": [
+    "TEC",
+    "DEF",
+    "TAX",
+    "IMM",
+    "BUD"
+  ],
+  "sampleDescriptions": [
+    "Privacy, cybersecurity, law enforcement access to data, appropriations, rural broadband; appropriations language regarding information technology, CLOUD Act",
+    "Defense authorization",
+    "Comprehensive tax reform",
+    "General representation, LEADS Act; ECPA, Immigration, Broadband, CLOUD Act",
+    "General representation, LEADS Act; ECPA, Immigration, Broadband, CLOUD Act, NDAA",
+    "General representation, Immigration, Broadband,",
+    "Privacy, cybersecurity, law enforcement access to data, appropriations, rural broadband; appropriations language regarding information technology,",
+    "General representation, Immigration,",
+    "General representation, Immigration",
+    "Privacy, cybersecurity, appropriations, rural broadband; appropriations language regarding information technology,",
+    "Privacy, cybersecurity, appropriations, rural broadband; appropriations language regarding information technology"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 4,
+  "avgAnnualSpending": 337500,
+  "peakYear": 2018,
+  "lobbyistCount": 16,
+  "firmCount": 1,
+  "issueCount": 5
+}

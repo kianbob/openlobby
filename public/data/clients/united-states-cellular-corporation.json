@@ -1,1 +1,103 @@
-{"id":101927,"name":"UNITED STATES CELLULAR CORPORATION","slug":"united-states-cellular-corporation","state":"IL","description":null,"totalSpending":2030000,"filings":29,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":280000},{"year":2020,"income":280000},{"year":2021,"income":350000},{"year":2022,"income":140000},{"year":2023,"income":280000},{"year":2024,"income":210000},{"year":2025,"income":210000}],"firms":["ALPINE GROUP PARTNERS, LLC."],"lobbyists":["RHOD SHAW","ANSLEY ERDEL","JARED WEAVER","NEAL PATEL","CURTIS PHILIP","ALISON GRAAB","JENNIFER FORREST","PATRICK SATALIN"],"issues":["TEC","COM","SCI",null,"BUD"],"sampleDescriptions":["Spectrum policy\nUniversal service fund policy","Spectrum\nUniversal Service Fund/mobility fund\nInterteroperability\nData Roaming\nCommunications Act update\nSpectrum Auctions","Spectrum\nUniversal Service Fund/mobility fund\nInterteroperability\nData Roaming\nCommunications Act update\nSpectrum Auctions\nH.R. 3994 Access Broadband Act \nNTIA reauthorization","Spectrum\nUniversal Service Fund/mobility fund\nSpectrum Auctions\nH.R. 3994 Access Broadband Act \nNTIA re-authorization\n5G Infrastructure","5G policy","5g policy\nSpectrum policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage","5g policy\nSpectrum policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage \nS. 1822 Broadband DATA Act","5g policy\nSpectrum policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage \nS. 1822 Broadband DATA Act\nC-Band","5G policy\nSpectrum policy","5g policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage \nS. 1822 Broadband DATA Act\nC-Band\nIssues related to COVID 19 impact on wireless services","5g policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage \nC-Band\nIssues related to COVID 19 impact on wireless services","Policy related to spectrum auctions.\nLegislative and regulatory policy affecting broadband deployment and adoption including COVID-19 relief packages and broader infrastructure packages.","Policy related to spectrum auctions.\nLegislative and regulatory policy affecting broadband deployment and adoption including COVID-19 relief packages and broader infrastructure packages","Policy related to spectrum auctions.\nLegislative and regulatory policy affecting broadband deployment and adoption including COVID-19 relief packages and broader infrastructure packages. \nLegislation impacting broadband deployment","Policy related to spectrum auctions.\nLegislative and regulatory policy affecting broadband deployment and adoption including COVID-19 relief packages and broader infrastructure packages\nLegislation impacting broadband deployment","Policy related to spectrum auctions.\n Legislation impacting broadband deployment","Policy related to spectrum auctions.","Policy related to spectrum auctions.\nLegislation impacting broadband deployment","Policy related to spectrum auctions.\nLegislation impacting broadband deployment\nBipartisan Infrastructure Deal\nReconciliation","Policy related to spectrum auctions.\nBipartisan Infrastructure Deal\nReconciliation"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 101927,
+  "name": "UNITED STATES CELLULAR CORPORATION",
+  "slug": "united-states-cellular-corporation",
+  "state": "IL",
+  "description": null,
+  "totalSpending": 2030000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 280000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 350000
+    },
+    {
+      "year": 2022,
+      "income": 140000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 210000
+    },
+    {
+      "year": 2025,
+      "income": 210000
+    }
+  ],
+  "firms": [
+    "ALPINE GROUP PARTNERS, LLC."
+  ],
+  "lobbyists": [
+    "RHOD SHAW",
+    "ANSLEY ERDEL",
+    "JARED WEAVER",
+    "NEAL PATEL",
+    "CURTIS PHILIP",
+    "ALISON GRAAB",
+    "JENNIFER FORREST",
+    "PATRICK SATALIN"
+  ],
+  "issues": [
+    "TEC",
+    "COM",
+    "SCI",
+    null,
+    "BUD"
+  ],
+  "sampleDescriptions": [
+    "Spectrum policy\nUniversal service fund policy",
+    "Spectrum\nUniversal Service Fund/mobility fund\nInterteroperability\nData Roaming\nCommunications Act update\nSpectrum Auctions",
+    "Spectrum\nUniversal Service Fund/mobility fund\nInterteroperability\nData Roaming\nCommunications Act update\nSpectrum Auctions\nH.R. 3994 Access Broadband Act \nNTIA reauthorization",
+    "Spectrum\nUniversal Service Fund/mobility fund\nSpectrum Auctions\nH.R. 3994 Access Broadband Act \nNTIA re-authorization\n5G Infrastructure",
+    "5G policy",
+    "5g policy\nSpectrum policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage",
+    "5g policy\nSpectrum policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage \nS. 1822 Broadband DATA Act",
+    "5g policy\nSpectrum policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage \nS. 1822 Broadband DATA Act\nC-Band",
+    "5G policy\nSpectrum policy",
+    "5g policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage \nS. 1822 Broadband DATA Act\nC-Band\nIssues related to COVID 19 impact on wireless services",
+    "5g policy\nUniversal Service Fund\nIssues related to mapping wireless service coverage \nC-Band\nIssues related to COVID 19 impact on wireless services",
+    "Policy related to spectrum auctions.\nLegislative and regulatory policy affecting broadband deployment and adoption including COVID-19 relief packages and broader infrastructure packages.",
+    "Policy related to spectrum auctions.\nLegislative and regulatory policy affecting broadband deployment and adoption including COVID-19 relief packages and broader infrastructure packages",
+    "Policy related to spectrum auctions.\nLegislative and regulatory policy affecting broadband deployment and adoption including COVID-19 relief packages and broader infrastructure packages. \nLegislation impacting broadband deployment",
+    "Policy related to spectrum auctions.\nLegislative and regulatory policy affecting broadband deployment and adoption including COVID-19 relief packages and broader infrastructure packages\nLegislation impacting broadband deployment",
+    "Policy related to spectrum auctions.\n Legislation impacting broadband deployment",
+    "Policy related to spectrum auctions.",
+    "Policy related to spectrum auctions.\nLegislation impacting broadband deployment",
+    "Policy related to spectrum auctions.\nLegislation impacting broadband deployment\nBipartisan Infrastructure Deal\nReconciliation",
+    "Policy related to spectrum auctions.\nBipartisan Infrastructure Deal\nReconciliation"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 253750,
+  "peakYear": 2021,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 4
+}

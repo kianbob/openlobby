@@ -1,1 +1,92 @@
-{"id":211551,"name":"AMAZON.COM SERVICES LLC","slug":"amazon-com-services-llc","state":"DC","description":"E-commerce","totalSpending":1350000,"filings":18,"yearlySpending":[{"year":2021,"income":150000},{"year":2022,"income":300000},{"year":2023,"income":300000},{"year":2024,"income":300000},{"year":2025,"income":300000}],"firms":["THE DUBERSTEIN GROUP INC."],"lobbyists":["BRIAN GRIFFIN","DAVID SCHIAPPA","KATHERINE KEATING","BENJAMIN HOWARD","ELIZABETH KELLEY"],"issues":["TEC","BUD","TRD","FIN","TAX","LBR","CSP","GOV","MAN","POS",null,"CPT"],"sampleDescriptions":["Issues related to technology, trade, and consumer safety.","Issues related to trade","Issues related to government procurement and NDAA: H.R.4350 (Smith, A.) - National Defense Authorization Act for Fiscal Year 2022","Issues related to competition\n\nIssues related to small business and competition legislation","Issues related to electric vehicles and tax credits","General outreach","General introductions\n\nIssues related to competition\n\nH.R. 5502 (Schakowsky, J.) - INFORM Consumers Act\n\nAntitrust Legislation: S.2992 (Klobuchar) - American Innovation and Choice Online Act","Issues related to competition Antitrust legislation Issues related to competition and small business","Bipartisan Innovation Act","Postal reform","Issues related to competition INFORM Consumers Act (H.R. 5502/S. 936)","Issues related to the Bipartisan Innovation Act","General introductions","Issues related to competition","Issues related to the Digital Markets Act","Issues related to R&D tax","Issues related to worker safety Issues related to delivery service partner drivers H.R. 8818 - American Privacy Rights Act of 2024","Issues related to trade policy","Issues related to worker safety Issues related to delivery service partner drivers","Issues related to patents"],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 211551,
+  "name": "AMAZON.COM SERVICES LLC",
+  "slug": "amazon-com-services-llc",
+  "state": "DC",
+  "description": "E-commerce",
+  "totalSpending": 1350000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 300000
+    }
+  ],
+  "firms": [
+    "THE DUBERSTEIN GROUP INC."
+  ],
+  "lobbyists": [
+    "BRIAN GRIFFIN",
+    "DAVID SCHIAPPA",
+    "KATHERINE KEATING",
+    "BENJAMIN HOWARD",
+    "ELIZABETH KELLEY"
+  ],
+  "issues": [
+    "TEC",
+    "BUD",
+    "TRD",
+    "FIN",
+    "TAX",
+    "LBR",
+    "CSP",
+    "GOV",
+    "MAN",
+    "POS",
+    null,
+    "CPT"
+  ],
+  "sampleDescriptions": [
+    "Issues related to technology, trade, and consumer safety.",
+    "Issues related to trade",
+    "Issues related to government procurement and NDAA: H.R.4350 (Smith, A.) - National Defense Authorization Act for Fiscal Year 2022",
+    "Issues related to competition\n\nIssues related to small business and competition legislation",
+    "Issues related to electric vehicles and tax credits",
+    "General outreach",
+    "General introductions\n\nIssues related to competition\n\nH.R. 5502 (Schakowsky, J.) - INFORM Consumers Act\n\nAntitrust Legislation: S.2992 (Klobuchar) - American Innovation and Choice Online Act",
+    "Issues related to competition Antitrust legislation Issues related to competition and small business",
+    "Bipartisan Innovation Act",
+    "Postal reform",
+    "Issues related to competition INFORM Consumers Act (H.R. 5502/S. 936)",
+    "Issues related to the Bipartisan Innovation Act",
+    "General introductions",
+    "Issues related to competition",
+    "Issues related to the Digital Markets Act",
+    "Issues related to R&D tax",
+    "Issues related to worker safety Issues related to delivery service partner drivers H.R. 8818 - American Privacy Rights Act of 2024",
+    "Issues related to trade policy",
+    "Issues related to worker safety Issues related to delivery service partner drivers",
+    "Issues related to patents"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 270000,
+  "peakYear": 2022,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 11
+}

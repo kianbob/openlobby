@@ -1,1 +1,329 @@
-{"abbreviation":"ID","name":"Idaho","totalSpending":42725384,"totalFilings":2318,"clientCount":119,"yearlySpending":[{"year":2018,"income":2471600},{"year":2019,"income":2260000},{"year":2020,"income":2202784},{"year":2021,"income":3785000},{"year":2022,"income":5486000},{"year":2023,"income":13872000},{"year":2024,"income":5642500},{"year":2025,"income":7005500}],"topClients":[{"name":"MICRON TECHNOLOGY, INC.","income":6050000},{"name":"ALBERTSONS COMPANIES INC.","income":2200000},{"name":"ALBERTSONS COMPANIES, INC.","income":1770000},{"name":"KORE POWER, INC.","income":1550000},{"name":"THE AMALGAMATED SUGAR COMPANY LLC","income":1520000},{"name":"MICRON","income":1505000},{"name":"UNIVERSITY OF IDAHO","income":1440000},{"name":"BOISE STATE UNIVERSITY","income":1255000},{"name":"SHOSHONE-BANNOCK TRIBES","income":1170000},{"name":"ADVANCED THERMOPLASTIC COMPOSITES","income":1140000},{"name":"REPUBLIC SERVICES, FORMERLY REPORTED AS U.S. ECOLOGY","income":1090000},{"name":"J.R. SIMPLOT COMPANY","income":1060000},{"name":"PERPETUA RESOURCES, CORP.","income":1030000},{"name":"THE PACIFIC COMPANIES","income":770000},{"name":"IDAHO SCIENTIFIC CORP.","income":760000},{"name":"CITY OF POCATELLO IDAHO","income":720000},{"name":"IDAHO WATER RESOURCE BOARD","income":660000},{"name":"AGRI BEEF CO","income":660000},{"name":"IDAHO FOREST GROUP","income":635000},{"name":"KOOTENAI TRIBE OF IDAHO","income":630000},{"name":"IDAHO DAIRYMEN'S ASSOCIATION","income":625000},{"name":"POWER ENGINEERS, INC.","income":620000},{"name":"WESTERN STATES TOURISM POLICY COUNCIL","income":620000},{"name":"IDAHO FOREST GROUP, LLC","income":610000},{"name":"ENCORE ENERGY CORP.","income":567000},{"name":"CITY OF BOISE","income":560000},{"name":"ALBERTSONS COMPANIES, INC","income":550000},{"name":"CLENERA, LLC","income":535000},{"name":"IDAHO STATE UNIVERSITY","income":470000},{"name":"MICRON TECHNOLOGIES, INC.","income":442000},{"name":"TAMARACK AEROSPACE GROUP","income":420000},{"name":"ALBERTSONS","income":420000},{"name":"EYE SAFETY SYSTEMS (ESS)","income":410000},{"name":"COEUR D' ALENE TRIBE","income":400000},{"name":"USA DRY PEA & LENTIL COUNCIL","income":352500},{"name":"IDAHO FALLS REGIONAL AIRPORT, ID","income":352000},{"name":"HECLA MINING COMPANY","income":350000},{"name":"SAINT LUKES HEALTH SYSTEM (FKA ST LUKES REGIONAL MEDICAL CENTER LTD)","income":340000},{"name":"PEREGRINE FUND","income":320000},{"name":"A10 CAPITAL","income":315000},{"name":"SORENSON ENGINEERING, INC.","income":290000},{"name":"UNIVERSITY OF IDAHO COLLEGE OF ENGINEERING","income":290000},{"name":"CITY OF IDAHO FALLS, ID","income":280000},{"name":"PERPETUA RESOURCES","income":270000},{"name":"CITY OF BURLEY, ID","income":260000},{"name":"IDAHO WATER USERS ASSOCIATION","income":245000},{"name":"FARES","income":215784},{"name":"MICRON TECHNOLOGY INC","income":200000},{"name":"CAT CREEK ENERGY, LLC","income":180000},{"name":"FALL RIVER RURAL ELECTRIC COOPERATIVE, INC","income":170000}],"topIssues":[{"code":"BUD","income":10664500},{"code":"AGR","income":6718000},{"code":"NAT","income":6332100},{"code":"FOO","income":5135000},{"code":"TAX","income":4787000},{"code":"TRD","income":4760000},{"code":"SCI","income":4720000},{"code":"DEF","income":4684000},{"code":"ENG","income":4165500},{"code":"MAN","income":3262000},{"code":"ENV","income":3042884},{"code":"HCR","income":2815000},{"code":"IND","income":1810000},{"code":"IMM","income":1745000},{"code":"LBR","income":1420000},{"code":"CPI","income":1390000},{"code":"TRA","income":1325500},{"code":"EDU","income":1325000},{"code":"CDT","income":1320000},{"code":"FOR","income":1010000}]}
+{
+  "abbreviation": "ID",
+  "name": "Idaho",
+  "totalSpending": 42725384,
+  "totalFilings": 2318,
+  "clientCount": 119,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 2471600
+    },
+    {
+      "year": 2019,
+      "income": 2260000
+    },
+    {
+      "year": 2020,
+      "income": 2202784
+    },
+    {
+      "year": 2021,
+      "income": 3785000
+    },
+    {
+      "year": 2022,
+      "income": 5486000
+    },
+    {
+      "year": 2023,
+      "income": 13872000
+    },
+    {
+      "year": 2024,
+      "income": 5642500
+    },
+    {
+      "year": 2025,
+      "income": 7005500
+    }
+  ],
+  "topClients": [
+    {
+      "name": "MICRON TECHNOLOGY, INC.",
+      "income": 6050000
+    },
+    {
+      "name": "ALBERTSONS COMPANIES INC.",
+      "income": 2200000
+    },
+    {
+      "name": "ALBERTSONS COMPANIES, INC.",
+      "income": 1770000
+    },
+    {
+      "name": "KORE POWER, INC.",
+      "income": 1550000
+    },
+    {
+      "name": "THE AMALGAMATED SUGAR COMPANY LLC",
+      "income": 1520000
+    },
+    {
+      "name": "MICRON",
+      "income": 1505000
+    },
+    {
+      "name": "UNIVERSITY OF IDAHO",
+      "income": 1440000
+    },
+    {
+      "name": "BOISE STATE UNIVERSITY",
+      "income": 1255000
+    },
+    {
+      "name": "SHOSHONE-BANNOCK TRIBES",
+      "income": 1170000
+    },
+    {
+      "name": "ADVANCED THERMOPLASTIC COMPOSITES",
+      "income": 1140000
+    },
+    {
+      "name": "REPUBLIC SERVICES, FORMERLY REPORTED AS U.S. ECOLOGY",
+      "income": 1090000
+    },
+    {
+      "name": "J.R. SIMPLOT COMPANY",
+      "income": 1060000
+    },
+    {
+      "name": "PERPETUA RESOURCES, CORP.",
+      "income": 1030000
+    },
+    {
+      "name": "THE PACIFIC COMPANIES",
+      "income": 770000
+    },
+    {
+      "name": "IDAHO SCIENTIFIC CORP.",
+      "income": 760000
+    },
+    {
+      "name": "CITY OF POCATELLO IDAHO",
+      "income": 720000
+    },
+    {
+      "name": "IDAHO WATER RESOURCE BOARD",
+      "income": 660000
+    },
+    {
+      "name": "AGRI BEEF CO",
+      "income": 660000
+    },
+    {
+      "name": "IDAHO FOREST GROUP",
+      "income": 635000
+    },
+    {
+      "name": "KOOTENAI TRIBE OF IDAHO",
+      "income": 630000
+    },
+    {
+      "name": "IDAHO DAIRYMEN'S ASSOCIATION",
+      "income": 625000
+    },
+    {
+      "name": "POWER ENGINEERS, INC.",
+      "income": 620000
+    },
+    {
+      "name": "WESTERN STATES TOURISM POLICY COUNCIL",
+      "income": 620000
+    },
+    {
+      "name": "IDAHO FOREST GROUP, LLC",
+      "income": 610000
+    },
+    {
+      "name": "ENCORE ENERGY CORP.",
+      "income": 567000
+    },
+    {
+      "name": "CITY OF BOISE",
+      "income": 560000
+    },
+    {
+      "name": "ALBERTSONS COMPANIES, INC",
+      "income": 550000
+    },
+    {
+      "name": "CLENERA, LLC",
+      "income": 535000
+    },
+    {
+      "name": "IDAHO STATE UNIVERSITY",
+      "income": 470000
+    },
+    {
+      "name": "MICRON TECHNOLOGIES, INC.",
+      "income": 442000
+    },
+    {
+      "name": "TAMARACK AEROSPACE GROUP",
+      "income": 420000
+    },
+    {
+      "name": "ALBERTSONS",
+      "income": 420000
+    },
+    {
+      "name": "EYE SAFETY SYSTEMS (ESS)",
+      "income": 410000
+    },
+    {
+      "name": "COEUR D' ALENE TRIBE",
+      "income": 400000
+    },
+    {
+      "name": "USA DRY PEA & LENTIL COUNCIL",
+      "income": 352500
+    },
+    {
+      "name": "IDAHO FALLS REGIONAL AIRPORT, ID",
+      "income": 352000
+    },
+    {
+      "name": "HECLA MINING COMPANY",
+      "income": 350000
+    },
+    {
+      "name": "SAINT LUKES HEALTH SYSTEM (FKA ST LUKES REGIONAL MEDICAL CENTER LTD)",
+      "income": 340000
+    },
+    {
+      "name": "PEREGRINE FUND",
+      "income": 320000
+    },
+    {
+      "name": "A10 CAPITAL",
+      "income": 315000
+    },
+    {
+      "name": "SORENSON ENGINEERING, INC.",
+      "income": 290000
+    },
+    {
+      "name": "UNIVERSITY OF IDAHO COLLEGE OF ENGINEERING",
+      "income": 290000
+    },
+    {
+      "name": "CITY OF IDAHO FALLS, ID",
+      "income": 280000
+    },
+    {
+      "name": "PERPETUA RESOURCES",
+      "income": 270000
+    },
+    {
+      "name": "CITY OF BURLEY, ID",
+      "income": 260000
+    },
+    {
+      "name": "IDAHO WATER USERS ASSOCIATION",
+      "income": 245000
+    },
+    {
+      "name": "FARES",
+      "income": 215784
+    },
+    {
+      "name": "MICRON TECHNOLOGY INC",
+      "income": 200000
+    },
+    {
+      "name": "CAT CREEK ENERGY, LLC",
+      "income": 180000
+    },
+    {
+      "name": "FALL RIVER RURAL ELECTRIC COOPERATIVE, INC",
+      "income": 170000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 10664500
+    },
+    {
+      "code": "AGR",
+      "income": 6718000
+    },
+    {
+      "code": "NAT",
+      "income": 6332100
+    },
+    {
+      "code": "FOO",
+      "income": 5135000
+    },
+    {
+      "code": "TAX",
+      "income": 4787000
+    },
+    {
+      "code": "TRD",
+      "income": 4760000
+    },
+    {
+      "code": "SCI",
+      "income": 4720000
+    },
+    {
+      "code": "DEF",
+      "income": 4684000
+    },
+    {
+      "code": "ENG",
+      "income": 4165500
+    },
+    {
+      "code": "MAN",
+      "income": 3262000
+    },
+    {
+      "code": "ENV",
+      "income": 3042884
+    },
+    {
+      "code": "HCR",
+      "income": 2815000
+    },
+    {
+      "code": "IND",
+      "income": 1810000
+    },
+    {
+      "code": "IMM",
+      "income": 1745000
+    },
+    {
+      "code": "LBR",
+      "income": 1420000
+    },
+    {
+      "code": "CPI",
+      "income": 1390000
+    },
+    {
+      "code": "TRA",
+      "income": 1325500
+    },
+    {
+      "code": "EDU",
+      "income": 1325000
+    },
+    {
+      "code": "CDT",
+      "income": 1320000
+    },
+    {
+      "code": "FOR",
+      "income": 1010000
+    }
+  ],
+  "perCapita": 36.68,
+  "population": 2001619,
+  "nationalRank": 36,
+  "perCapitaRank": 25
+}

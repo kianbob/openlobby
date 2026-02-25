@@ -1,1 +1,90 @@
-{"id":200415,"name":"LIVE NATION ENTERTAINMENT","slug":"live-nation-entertainment","state":"CA","description":"Artist and concert promotion","totalSpending":1480000,"filings":34,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":130000},{"year":2020,"income":160000},{"year":2021,"income":290000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["FARRAGUT PARTNERS LLP"],"lobbyists":["JEFFERY MORTIER","JEFF MACKINNON","JOSEPH VASAPOLI","JODY GALE","SARAH WALTER","J WALSH","EDWARD WHITFIELD","KRISTEN O'NEILL","WILLIAM KRIEGER","DYLAN MOORE"],"issues":["CSP","ART","TAX","LBR",null],"sampleDescriptions":["Consumer protection and legislation related to the primary ticketing market","Issues related to tax provisions in COVID-19 stimulus legislation","Monitoring antitrust legislation","Monitoring competition legislation"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 200415,
+  "name": "LIVE NATION ENTERTAINMENT",
+  "slug": "live-nation-entertainment",
+  "state": "CA",
+  "description": "Artist and concert promotion",
+  "totalSpending": 1480000,
+  "filings": 34,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 130000
+    },
+    {
+      "year": 2020,
+      "income": 160000
+    },
+    {
+      "year": 2021,
+      "income": 290000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "FARRAGUT PARTNERS LLP"
+  ],
+  "lobbyists": [
+    "JEFFERY MORTIER",
+    "JEFF MACKINNON",
+    "JOSEPH VASAPOLI",
+    "JODY GALE",
+    "SARAH WALTER",
+    "J WALSH",
+    "EDWARD WHITFIELD",
+    "KRISTEN O'NEILL",
+    "WILLIAM KRIEGER",
+    "DYLAN MOORE"
+  ],
+  "issues": [
+    "CSP",
+    "ART",
+    "TAX",
+    "LBR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Consumer protection and legislation related to the primary ticketing market",
+    "Issues related to tax provisions in COVID-19 stimulus legislation",
+    "Monitoring antitrust legislation",
+    "Monitoring competition legislation"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 185000,
+  "peakYear": 2021,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "technology"
+}

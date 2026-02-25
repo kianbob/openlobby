@@ -1,1 +1,98 @@
-{"id":125463,"name":"THE CHEMOURS COMPANY","slug":"the-chemours-company","state":"DE","description":"Chemical products company","totalSpending":1830000,"filings":29,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":280000},{"year":2024,"income":400000},{"year":2025,"income":300000}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["RICHARD GOLD","DIMITRIOS KARAKITSOS","MARISSA SERAFINO","GREGORY LOUER","NICHOLAS LEIBHAM","TAITE MCDONALD","DENNIS POTTER","CHRISTOPHER ARMSTRONG","ALISON WRIGHT","ED PERLMUTTER","PARKER REYNOLDS","KARL KOCH","KATHERINE SPEECE"],"issues":["ENV",null,"TAX","SCI","ENG"],"sampleDescriptions":["Toxic substances; Superfund; Clean Air Act.","Issues related to Section 48D of the Internal Revenue Code and Section 107 of the Chips and Science Act.","Issues related to implementation of P.L. 117-167 - the Chips and Science Act.","Greenhouse Gas Emissions/Decarbonization.","Toxic substances; Superfund; Clean Air Act; PFAS water regulations.","Issues related to Section 48D of the Internal Revenue Code and Section 107 of the Chips and Science Act; S. 1642 (Strengthening Essential Manufacturing and Industrial Investment Act); H.R. 1 - One Big Beautiful Bill Act.","Critical minerals.","Superfund; Clean Air Act; PFAS water regulations; Implementation of Public Law No: 114-182 - Frank R. Lautenberg Chemical Safety for the 21st Century Act.","Issues related to Section 48D of the Internal Revenue Code and Section 107 of the Chips and Science Act; S. 1642 (Strengthening Essential Manufacturing and Industrial Investment Act); Implementation of P.L. No: 119-21: One Big Beautiful Bill Act.","Critical minerals; Department of Energy funding; H.R. 5332 - the Liquid Cooling for AI Act of 2025."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 125463,
+  "name": "THE CHEMOURS COMPANY",
+  "slug": "the-chemours-company",
+  "state": "DE",
+  "description": "Chemical products company",
+  "totalSpending": 1830000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 400000
+    },
+    {
+      "year": 2025,
+      "income": 300000
+    }
+  ],
+  "firms": [
+    "HOLLAND & KNIGHT LLP"
+  ],
+  "lobbyists": [
+    "RICHARD GOLD",
+    "DIMITRIOS KARAKITSOS",
+    "MARISSA SERAFINO",
+    "GREGORY LOUER",
+    "NICHOLAS LEIBHAM",
+    "TAITE MCDONALD",
+    "DENNIS POTTER",
+    "CHRISTOPHER ARMSTRONG",
+    "ALISON WRIGHT",
+    "ED PERLMUTTER",
+    "PARKER REYNOLDS",
+    "KARL KOCH",
+    "KATHERINE SPEECE"
+  ],
+  "issues": [
+    "ENV",
+    null,
+    "TAX",
+    "SCI",
+    "ENG"
+  ],
+  "sampleDescriptions": [
+    "Toxic substances; Superfund; Clean Air Act.",
+    "Issues related to Section 48D of the Internal Revenue Code and Section 107 of the Chips and Science Act.",
+    "Issues related to implementation of P.L. 117-167 - the Chips and Science Act.",
+    "Greenhouse Gas Emissions/Decarbonization.",
+    "Toxic substances; Superfund; Clean Air Act; PFAS water regulations.",
+    "Issues related to Section 48D of the Internal Revenue Code and Section 107 of the Chips and Science Act; S. 1642 (Strengthening Essential Manufacturing and Industrial Investment Act); H.R. 1 - One Big Beautiful Bill Act.",
+    "Critical minerals.",
+    "Superfund; Clean Air Act; PFAS water regulations; Implementation of Public Law No: 114-182 - Frank R. Lautenberg Chemical Safety for the 21st Century Act.",
+    "Issues related to Section 48D of the Internal Revenue Code and Section 107 of the Chips and Science Act; S. 1642 (Strengthening Essential Manufacturing and Industrial Investment Act); Implementation of P.L. No: 119-21: One Big Beautiful Bill Act.",
+    "Critical minerals; Department of Energy funding; H.R. 5332 - the Liquid Cooling for AI Act of 2025."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 228750,
+  "peakYear": 2024,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 4
+}

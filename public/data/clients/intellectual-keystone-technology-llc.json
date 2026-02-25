@@ -1,1 +1,58 @@
-{"id":54230,"name":"INTELLECTUAL KEYSTONE TECHNOLOGY LLC","slug":"intellectual-keystone-technology-llc","state":"DE","description":"Ownership and administration of patents for display and solar power technology","totalSpending":2020000,"filings":11,"yearlySpending":[{"year":2023,"income":910000},{"year":2024,"income":510000},{"year":2025,"income":600000}],"firms":["COVINGTON & BURLING LLP"],"lobbyists":["STEPHEN RADEMAKER","CHRISTOPHER ADAMS","SOOAN CHOI","LISA JOHNSON","STEPHANIE BARNA","MICHELE PEARCE","JAMES SMITH"],"issues":[null,"CPI","CPT","TRD"],"sampleDescriptions":["Raise awareness of intellectual property, supply chain, and public policy issues in the display industry."],"years":[2023,2024,2025]}
+{
+  "id": 54230,
+  "name": "INTELLECTUAL KEYSTONE TECHNOLOGY LLC",
+  "slug": "intellectual-keystone-technology-llc",
+  "state": "DE",
+  "description": "Ownership and administration of patents for display and solar power technology",
+  "totalSpending": 2020000,
+  "filings": 11,
+  "yearlySpending": [
+    {
+      "year": 2023,
+      "income": 910000
+    },
+    {
+      "year": 2024,
+      "income": 510000
+    },
+    {
+      "year": 2025,
+      "income": 600000
+    }
+  ],
+  "firms": [
+    "COVINGTON & BURLING LLP"
+  ],
+  "lobbyists": [
+    "STEPHEN RADEMAKER",
+    "CHRISTOPHER ADAMS",
+    "SOOAN CHOI",
+    "LISA JOHNSON",
+    "STEPHANIE BARNA",
+    "MICHELE PEARCE",
+    "JAMES SMITH"
+  ],
+  "issues": [
+    null,
+    "CPI",
+    "CPT",
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "Raise awareness of intellectual property, supply chain, and public policy issues in the display industry."
+  ],
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -34,
+  "trajectory": "reducing",
+  "yearsActive": 3,
+  "avgAnnualSpending": 673333,
+  "peakYear": 2023,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

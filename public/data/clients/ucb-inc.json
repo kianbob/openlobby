@@ -1,1 +1,106 @@
-{"id":178545,"name":"UCB, INC.","slug":"ucb-inc","state":"GA","description":"Biopharmaceutical company","totalSpending":1567500,"filings":26,"yearlySpending":[{"year":2018,"income":127500},{"year":2019,"income":180000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":180000}],"firms":["THE NICKLES GROUP, LLC"],"lobbyists":["STACEY HUGHES","EMILY PORTER","KATHERINE RAAB","GREG D'ANGELO","RACHEL JONES HENSLER","MARY SAVARY TAYLOR","BRETT BAKER"],"issues":["VET","MMM","HCR","BUD","CPT","TAX","GOV",null,"TRD"],"sampleDescriptions":["Issues related to Epilepsy Centers of Excellence.","Issues related to value based purchasing; issues related to reimbursement of Part B and D drugs; issues related to drug pricing.","H.R. 6, SUPPORT for Patients and Communities Act of 2018 and S. 2680 Opioid Crisis Response Act of 2018 and issues related to prescription drug monitoring; issues related to clinical trials; monitored issus related to prescription drug pricing.","Monitored H.R. 6157, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act and Continuing Appropriations Act. Monitored H.R. 695, Further Additional Continuing Appropriations Act.","H.R. 6, SUPPORT for Patients and Communities Act of 2018 and S. 2680 Opioid Crisis Response Act of 2018 and issues related to prescription drug monitoring.","Issues related to the reimbursement of Part B and D drugs; issues related to drug pricing.","Issues related to S. 1895, Lower Health Care Costs Act of 2019; issues related to the STAR Act.","Monitor issues on S. 1416, Affordable Prescriptions for Patients Act of 2019.","Issues related to the reimbursement of Part B and D drugs; issues related to drug pricing; issues related to the six protected classes; issues related to the safe harbor protection.","Issues related to S. 1895, Lower Health Care Costs Act of 2019; issues related to H.R. 2296, The METRIC Act; issues related to fall prevention.","S. 2543, Prescription Drug Pricing Reduction Act of 2019 and issues related to the reimbursement of Part B and D drugs; issues related to the six protected classes.","S. 2543, Prescription Drug Pricing Reduction Act of 2019 and issues related to the reimbursement of Part B and D drugs; and H.R. 3, Elijah E. Cummings Lower Drug Costs Now Act.","Issues related to S. 1895, Lower Health Care Costs Act of 2019; issues related to H.R. 2296, The METRIC Act.","S. 2543, Prescription Drug Pricing Reduction Act of 2019 and issues related to the reimbursement of Part B and D drugs; issues related to the implementation of  P.L. 116-136, Coronavirus Aid, Response, and Economic Security Act (CARES Act); issues related to the COVID-19 access to Part B drugs.","Issues related to the implementation of P.L. 116-136, Coronavirus Aid, Response, and Economic Security Act (CARES Act); issues related to the COVID-19 access to Part B drugs; issues related to the Executive Order on Lowering Drug Prices by Putting America First; issues related to the importation of prescription drugs.","H.R. 133, the Consolidated Appropriations Act of 2021, as it relates to reimbursement of self-administered drugs.","Issues related to the implementation of P.L. 116-136, Coronavirus Aid, Response, and Economic Security Act (CARES Act); issues related to the COVID-19 access to Part B drugs; issues related to the Most Favored Nation (MFN) and rebate rule; H.R. 133, the Consolidated Appropriations Act of 2021, issues related to reimbursement of self-administered drugs; issues related to the importation of prescription drugs.","Monitor implementation of The Tax Cut and Jobs Act, as it relates to multinational corporations. H.R. 133, the Consolidated Appropriations Act of 2021, as it relates to corporate taxes.","Issues related to reimbursement of self-administered drugs; issues related to Part D drugs and protected classes. Monitored P.L. 117-2, the American Rescue Plan and issues related to drug pricing. Monitored H.R. 1868, Medicare Sequester Bill and S. 748, Medicare Sequester Relief Act.","Monitored FY'21 Budget Resolution."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 178545,
+  "name": "UCB, INC.",
+  "slug": "ucb-inc",
+  "state": "GA",
+  "description": "Biopharmaceutical company",
+  "totalSpending": 1567500,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 127500
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "THE NICKLES GROUP, LLC"
+  ],
+  "lobbyists": [
+    "STACEY HUGHES",
+    "EMILY PORTER",
+    "KATHERINE RAAB",
+    "GREG D'ANGELO",
+    "RACHEL JONES HENSLER",
+    "MARY SAVARY TAYLOR",
+    "BRETT BAKER"
+  ],
+  "issues": [
+    "VET",
+    "MMM",
+    "HCR",
+    "BUD",
+    "CPT",
+    "TAX",
+    "GOV",
+    null,
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "Issues related to Epilepsy Centers of Excellence.",
+    "Issues related to value based purchasing; issues related to reimbursement of Part B and D drugs; issues related to drug pricing.",
+    "H.R. 6, SUPPORT for Patients and Communities Act of 2018 and S. 2680 Opioid Crisis Response Act of 2018 and issues related to prescription drug monitoring; issues related to clinical trials; monitored issus related to prescription drug pricing.",
+    "Monitored H.R. 6157, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act and Continuing Appropriations Act. Monitored H.R. 695, Further Additional Continuing Appropriations Act.",
+    "H.R. 6, SUPPORT for Patients and Communities Act of 2018 and S. 2680 Opioid Crisis Response Act of 2018 and issues related to prescription drug monitoring.",
+    "Issues related to the reimbursement of Part B and D drugs; issues related to drug pricing.",
+    "Issues related to S. 1895, Lower Health Care Costs Act of 2019; issues related to the STAR Act.",
+    "Monitor issues on S. 1416, Affordable Prescriptions for Patients Act of 2019.",
+    "Issues related to the reimbursement of Part B and D drugs; issues related to drug pricing; issues related to the six protected classes; issues related to the safe harbor protection.",
+    "Issues related to S. 1895, Lower Health Care Costs Act of 2019; issues related to H.R. 2296, The METRIC Act; issues related to fall prevention.",
+    "S. 2543, Prescription Drug Pricing Reduction Act of 2019 and issues related to the reimbursement of Part B and D drugs; issues related to the six protected classes.",
+    "S. 2543, Prescription Drug Pricing Reduction Act of 2019 and issues related to the reimbursement of Part B and D drugs; and H.R. 3, Elijah E. Cummings Lower Drug Costs Now Act.",
+    "Issues related to S. 1895, Lower Health Care Costs Act of 2019; issues related to H.R. 2296, The METRIC Act.",
+    "S. 2543, Prescription Drug Pricing Reduction Act of 2019 and issues related to the reimbursement of Part B and D drugs; issues related to the implementation of  P.L. 116-136, Coronavirus Aid, Response, and Economic Security Act (CARES Act); issues related to the COVID-19 access to Part B drugs.",
+    "Issues related to the implementation of P.L. 116-136, Coronavirus Aid, Response, and Economic Security Act (CARES Act); issues related to the COVID-19 access to Part B drugs; issues related to the Executive Order on Lowering Drug Prices by Putting America First; issues related to the importation of prescription drugs.",
+    "H.R. 133, the Consolidated Appropriations Act of 2021, as it relates to reimbursement of self-administered drugs.",
+    "Issues related to the implementation of P.L. 116-136, Coronavirus Aid, Response, and Economic Security Act (CARES Act); issues related to the COVID-19 access to Part B drugs; issues related to the Most Favored Nation (MFN) and rebate rule; H.R. 133, the Consolidated Appropriations Act of 2021, issues related to reimbursement of self-administered drugs; issues related to the importation of prescription drugs.",
+    "Monitor implementation of The Tax Cut and Jobs Act, as it relates to multinational corporations. H.R. 133, the Consolidated Appropriations Act of 2021, as it relates to corporate taxes.",
+    "Issues related to reimbursement of self-administered drugs; issues related to Part D drugs and protected classes. Monitored P.L. 117-2, the American Rescue Plan and issues related to drug pricing. Monitored H.R. 1868, Medicare Sequester Bill and S. 748, Medicare Sequester Relief Act.",
+    "Monitored FY'21 Budget Resolution."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 41,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 195938,
+  "peakYear": 2021,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 8
+}

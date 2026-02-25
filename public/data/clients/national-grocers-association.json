@@ -1,1 +1,64 @@
-{"id":207195,"name":"NATIONAL GROCERS ASSOCIATION","slug":"national-grocers-association","state":"VA","description":"Retail and wholesale grocers association","totalSpending":1600000,"filings":18,"yearlySpending":[{"year":2020,"income":60000},{"year":2021,"income":300000},{"year":2022,"income":580000},{"year":2023,"income":560000},{"year":2024,"income":100000}],"firms":["WILMER CUTLER PICKERING HALE AND DORR LLP"],"lobbyists":["JONATHAN YAROWSKY","ROBERT LEHMAN","BRIAN SKRETNY","JONATHAN BLUM","JEFFREY WIEAND"],"issues":["LBR",null],"sampleDescriptions":["Supply chain issues during the COVID-19 pandemic","Antitrust issues"],"years":[2020,2021,2022,2023,2024]}
+{
+  "id": 207195,
+  "name": "NATIONAL GROCERS ASSOCIATION",
+  "slug": "national-grocers-association",
+  "state": "VA",
+  "description": "Retail and wholesale grocers association",
+  "totalSpending": 1600000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 60000
+    },
+    {
+      "year": 2021,
+      "income": 300000
+    },
+    {
+      "year": 2022,
+      "income": 580000
+    },
+    {
+      "year": 2023,
+      "income": 560000
+    },
+    {
+      "year": 2024,
+      "income": 100000
+    }
+  ],
+  "firms": [
+    "WILMER CUTLER PICKERING HALE AND DORR LLP"
+  ],
+  "lobbyists": [
+    "JONATHAN YAROWSKY",
+    "ROBERT LEHMAN",
+    "BRIAN SKRETNY",
+    "JONATHAN BLUM",
+    "JEFFREY WIEAND"
+  ],
+  "issues": [
+    "LBR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Supply chain issues during the COVID-19 pandemic",
+    "Antitrust issues"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": 67,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 320000,
+  "peakYear": 2022,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1
+}

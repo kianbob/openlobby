@@ -1,1 +1,329 @@
-{"abbreviation":"CT","name":"Connecticut","totalSpending":166721333.57999998,"totalFilings":6121,"clientCount":372,"yearlySpending":[{"year":2018,"income":16389000},{"year":2019,"income":15405333},{"year":2020,"income":15356582},{"year":2021,"income":17181414},{"year":2022,"income":18844998},{"year":2023,"income":40217000},{"year":2024,"income":18891756.58},{"year":2025,"income":24435250}],"topClients":[{"name":"PITNEY BOWES","income":7900000},{"name":"CHARTER COMMUNICATIONS, INC.","income":7500000},{"name":"SYNCHRONY FINANCIAL","income":4570000},{"name":"BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.","income":3780000},{"name":"EQUINOR WIND US LLC","income":3460000},{"name":"THE TRAVELERS COMPANIES, INC. AND SUBSIDIARIES","income":3222500},{"name":"ULTRA MARITIME LLC (FORMERLY REPORTED AS ULTRA ELECTRONICS DEFENSE INC)","income":3100000},{"name":"GENERAL ELECTRIC COMPANY","income":2760000},{"name":"GE AEROSPACE","income":2630000},{"name":"VANTAGESCORE SOLUTIONS, LLC","income":2400000},{"name":"ATHENE USA","income":2320000},{"name":"FUELCELL ENERGY, INC.","income":2290000},{"name":"THE MOHEGAN TRIBE","income":2140000},{"name":"FREEPOINT COMMODITIES LLC","income":2010000},{"name":"HARTFORD FINANCIAL SERVICES GROUP","income":1960000},{"name":"UNIVERSITY OF CONNECTICUT","income":1930000},{"name":"RTX CORPORATION (FKA RAYTHEON TECHNOLOGIES CORPORATION AND AFFILIATES)","income":1920000},{"name":"NATIONAL SHOOTING SPORTS FOUNDATION","income":1900000},{"name":"THE HARTFORD FINANCIAL SERVICES GROUP, INC.","income":1890000},{"name":"GRAMERCY FUNDS MANAGEMENT, LLC","income":1810000},{"name":"BOEHRINGER INGELHEIM USA CORPORATION","income":1810000},{"name":"TRAVELERS COMPANIES INC AND SUBSIDIARIES (WAS THE TRAVELERS COMPANIES INC","income":1650000},{"name":"ELDRIDGE BUSINESS SERVICES, LLC","income":1650000},{"name":"STANLEY BLACK & DECKER INC","income":1630000},{"name":"WEX HEALTH","income":1550000},{"name":"QUANTINUUM","income":1500000},{"name":"OTIS ELEVATOR COMPANY","income":1480000},{"name":"LOUIS DREYFUS COMPANY, LLC","income":1440000},{"name":"NRG ENERGY, INC.","income":1410000},{"name":"ASML US, LLC","income":1410000},{"name":"NATIONAL SHOOTING SPORTS FOUNDATION, INC.","income":1390000},{"name":"SANDY HOOK PROMISE ACTION FUND (FKA SANDY HOOK PROMISE (SHP)","income":1380000},{"name":"NITRON GROUP LLC","income":1330000},{"name":"MASHANTUCKET PEQUOT TRIBAL NATION","income":1326000},{"name":"APIJECT SYSTEMS CORP.","income":1320000},{"name":"BLUETRITON BRANDS, INC. (NESTLE WATERS NORTH AMERICA)","income":1300000},{"name":"METROPOLITAN DISTRICT COMMISSION OF CONNECTICUT","income":1290000},{"name":"FERMAT CAPITAL MANAGEMENT","income":1230000},{"name":"HALSTEAD NEW ENGLAND CORPORATION","income":1230000},{"name":"GERALD METALS LLC","income":1098256.58},{"name":"FINANCIAL ACCOUNTING FOUNDATION","income":1090000},{"name":"CITY OF STAMFORD, CT","income":1090000},{"name":"TRAVELERS COMPANIES, INC. AND SUBSIDIARIES","income":1090000},{"name":"HEXCEL CORPORATION","income":1080000},{"name":"LINDE (FKA PRAXAIR INC )","income":1040000},{"name":"NATIONAL ASSOCIATION OF LONG TERM HOSPITALS","income":1020000},{"name":"ASML US LLC","income":1020000},{"name":"H.Q. ENERGY SERVICES (U.S.) INC.","income":1020000},{"name":"SIGNIFY (F.K.A. REMEDY BPCI PARTNERS, LLC)","income":1010000},{"name":"IQVIA","income":990000}],"topIssues":[{"code":"TAX","income":30853750},{"code":"BUD","income":21619000},{"code":"HCR","income":18437500},{"code":"DEF","income":16744500},{"code":"FIN","income":15712500},{"code":"ENG","income":13090000},{"code":"TRD","income":12496000},{"code":"INS","income":11387500},{"code":"ENV","income":8923327},{"code":"MMM","income":7361000},{"code":"POS","income":7270000},{"code":"TEC","income":7197500},{"code":"SCI","income":6710000},{"code":"BAN","income":6454000},{"code":"AGR","income":6270000},{"code":"MAN","income":5302000},{"code":"EDU","income":5195000},{"code":"LAW","income":4090000},{"code":"COM","income":4082500},{"code":"LBR","income":3905000}]}
+{
+  "abbreviation": "CT",
+  "name": "Connecticut",
+  "totalSpending": 166721333.57999998,
+  "totalFilings": 6121,
+  "clientCount": 372,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 16389000
+    },
+    {
+      "year": 2019,
+      "income": 15405333
+    },
+    {
+      "year": 2020,
+      "income": 15356582
+    },
+    {
+      "year": 2021,
+      "income": 17181414
+    },
+    {
+      "year": 2022,
+      "income": 18844998
+    },
+    {
+      "year": 2023,
+      "income": 40217000
+    },
+    {
+      "year": 2024,
+      "income": 18891756.58
+    },
+    {
+      "year": 2025,
+      "income": 24435250
+    }
+  ],
+  "topClients": [
+    {
+      "name": "PITNEY BOWES",
+      "income": 7900000
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS, INC.",
+      "income": 7500000
+    },
+    {
+      "name": "SYNCHRONY FINANCIAL",
+      "income": 4570000
+    },
+    {
+      "name": "BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.",
+      "income": 3780000
+    },
+    {
+      "name": "EQUINOR WIND US LLC",
+      "income": 3460000
+    },
+    {
+      "name": "THE TRAVELERS COMPANIES, INC. AND SUBSIDIARIES",
+      "income": 3222500
+    },
+    {
+      "name": "ULTRA MARITIME LLC (FORMERLY REPORTED AS ULTRA ELECTRONICS DEFENSE INC)",
+      "income": 3100000
+    },
+    {
+      "name": "GENERAL ELECTRIC COMPANY",
+      "income": 2760000
+    },
+    {
+      "name": "GE AEROSPACE",
+      "income": 2630000
+    },
+    {
+      "name": "VANTAGESCORE SOLUTIONS, LLC",
+      "income": 2400000
+    },
+    {
+      "name": "ATHENE USA",
+      "income": 2320000
+    },
+    {
+      "name": "FUELCELL ENERGY, INC.",
+      "income": 2290000
+    },
+    {
+      "name": "THE MOHEGAN TRIBE",
+      "income": 2140000
+    },
+    {
+      "name": "FREEPOINT COMMODITIES LLC",
+      "income": 2010000
+    },
+    {
+      "name": "HARTFORD FINANCIAL SERVICES GROUP",
+      "income": 1960000
+    },
+    {
+      "name": "UNIVERSITY OF CONNECTICUT",
+      "income": 1930000
+    },
+    {
+      "name": "RTX CORPORATION (FKA RAYTHEON TECHNOLOGIES CORPORATION AND AFFILIATES)",
+      "income": 1920000
+    },
+    {
+      "name": "NATIONAL SHOOTING SPORTS FOUNDATION",
+      "income": 1900000
+    },
+    {
+      "name": "THE HARTFORD FINANCIAL SERVICES GROUP, INC.",
+      "income": 1890000
+    },
+    {
+      "name": "GRAMERCY FUNDS MANAGEMENT, LLC",
+      "income": 1810000
+    },
+    {
+      "name": "BOEHRINGER INGELHEIM USA CORPORATION",
+      "income": 1810000
+    },
+    {
+      "name": "TRAVELERS COMPANIES INC AND SUBSIDIARIES (WAS THE TRAVELERS COMPANIES INC",
+      "income": 1650000
+    },
+    {
+      "name": "ELDRIDGE BUSINESS SERVICES, LLC",
+      "income": 1650000
+    },
+    {
+      "name": "STANLEY BLACK & DECKER INC",
+      "income": 1630000
+    },
+    {
+      "name": "WEX HEALTH",
+      "income": 1550000
+    },
+    {
+      "name": "QUANTINUUM",
+      "income": 1500000
+    },
+    {
+      "name": "OTIS ELEVATOR COMPANY",
+      "income": 1480000
+    },
+    {
+      "name": "LOUIS DREYFUS COMPANY, LLC",
+      "income": 1440000
+    },
+    {
+      "name": "NRG ENERGY, INC.",
+      "income": 1410000
+    },
+    {
+      "name": "ASML US, LLC",
+      "income": 1410000
+    },
+    {
+      "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
+      "income": 1390000
+    },
+    {
+      "name": "SANDY HOOK PROMISE ACTION FUND (FKA SANDY HOOK PROMISE (SHP)",
+      "income": 1380000
+    },
+    {
+      "name": "NITRON GROUP LLC",
+      "income": 1330000
+    },
+    {
+      "name": "MASHANTUCKET PEQUOT TRIBAL NATION",
+      "income": 1326000
+    },
+    {
+      "name": "APIJECT SYSTEMS CORP.",
+      "income": 1320000
+    },
+    {
+      "name": "BLUETRITON BRANDS, INC. (NESTLE WATERS NORTH AMERICA)",
+      "income": 1300000
+    },
+    {
+      "name": "METROPOLITAN DISTRICT COMMISSION OF CONNECTICUT",
+      "income": 1290000
+    },
+    {
+      "name": "FERMAT CAPITAL MANAGEMENT",
+      "income": 1230000
+    },
+    {
+      "name": "HALSTEAD NEW ENGLAND CORPORATION",
+      "income": 1230000
+    },
+    {
+      "name": "GERALD METALS LLC",
+      "income": 1098256.58
+    },
+    {
+      "name": "FINANCIAL ACCOUNTING FOUNDATION",
+      "income": 1090000
+    },
+    {
+      "name": "CITY OF STAMFORD, CT",
+      "income": 1090000
+    },
+    {
+      "name": "TRAVELERS COMPANIES, INC. AND SUBSIDIARIES",
+      "income": 1090000
+    },
+    {
+      "name": "HEXCEL CORPORATION",
+      "income": 1080000
+    },
+    {
+      "name": "LINDE (FKA PRAXAIR INC )",
+      "income": 1040000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF LONG TERM HOSPITALS",
+      "income": 1020000
+    },
+    {
+      "name": "ASML US LLC",
+      "income": 1020000
+    },
+    {
+      "name": "H.Q. ENERGY SERVICES (U.S.) INC.",
+      "income": 1020000
+    },
+    {
+      "name": "SIGNIFY (F.K.A. REMEDY BPCI PARTNERS, LLC)",
+      "income": 1010000
+    },
+    {
+      "name": "IQVIA",
+      "income": 990000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "TAX",
+      "income": 30853750
+    },
+    {
+      "code": "BUD",
+      "income": 21619000
+    },
+    {
+      "code": "HCR",
+      "income": 18437500
+    },
+    {
+      "code": "DEF",
+      "income": 16744500
+    },
+    {
+      "code": "FIN",
+      "income": 15712500
+    },
+    {
+      "code": "ENG",
+      "income": 13090000
+    },
+    {
+      "code": "TRD",
+      "income": 12496000
+    },
+    {
+      "code": "INS",
+      "income": 11387500
+    },
+    {
+      "code": "ENV",
+      "income": 8923327
+    },
+    {
+      "code": "MMM",
+      "income": 7361000
+    },
+    {
+      "code": "POS",
+      "income": 7270000
+    },
+    {
+      "code": "TEC",
+      "income": 7197500
+    },
+    {
+      "code": "SCI",
+      "income": 6710000
+    },
+    {
+      "code": "BAN",
+      "income": 6454000
+    },
+    {
+      "code": "AGR",
+      "income": 6270000
+    },
+    {
+      "code": "MAN",
+      "income": 5302000
+    },
+    {
+      "code": "EDU",
+      "income": 5195000
+    },
+    {
+      "code": "LAW",
+      "income": 4090000
+    },
+    {
+      "code": "COM",
+      "income": 4082500
+    },
+    {
+      "code": "LBR",
+      "income": 3905000
+    }
+  ],
+  "perCapita": 92.38,
+  "population": 3617176,
+  "nationalRank": 15,
+  "perCapitaRank": 7
+}

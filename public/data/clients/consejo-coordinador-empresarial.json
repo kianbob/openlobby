@@ -1,1 +1,70 @@
-{"id":203434,"name":"CONSEJO COORDINADOR EMPRESARIAL","slug":"consejo-coordinador-empresarial","state":null,"description":"Business Council","totalSpending":1600000,"filings":23,"yearlySpending":[{"year":2019,"income":180000},{"year":2021,"income":90000},{"year":2022,"income":120000},{"year":2023,"income":230000},{"year":2024,"income":560000},{"year":2025,"income":420000}],"firms":["IQOM STRATEGIC ADVISORS, LLC"],"lobbyists":["DAVID ZABLUDOWSKY","SERGIO GOMEZ LORA","LAURA DIETZ-MARTINEZ"],"issues":["TRD",null],"sampleDescriptions":["USMCA US-Mexico Bilateral Trade","USMCA\nUS-Mexico bilateral trade issues","US-Mexico bilateral trade issues","Promotion of US Mexico trade relationship","Promoting US-Mexico trade relationship"],"years":[2019,2021,2022,2023,2024,2025]}
+{
+  "id": 203434,
+  "name": "CONSEJO COORDINADOR EMPRESARIAL",
+  "slug": "consejo-coordinador-empresarial",
+  "state": null,
+  "description": "Business Council",
+  "totalSpending": 1600000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 90000
+    },
+    {
+      "year": 2022,
+      "income": 120000
+    },
+    {
+      "year": 2023,
+      "income": 230000
+    },
+    {
+      "year": 2024,
+      "income": 560000
+    },
+    {
+      "year": 2025,
+      "income": 420000
+    }
+  ],
+  "firms": [
+    "IQOM STRATEGIC ADVISORS, LLC"
+  ],
+  "lobbyists": [
+    "DAVID ZABLUDOWSKY",
+    "SERGIO GOMEZ LORA",
+    "LAURA DIETZ-MARTINEZ"
+  ],
+  "issues": [
+    "TRD",
+    null
+  ],
+  "sampleDescriptions": [
+    "USMCA US-Mexico Bilateral Trade",
+    "USMCA\nUS-Mexico bilateral trade issues",
+    "US-Mexico bilateral trade issues",
+    "Promotion of US Mexico trade relationship",
+    "Promoting US-Mexico trade relationship"
+  ],
+  "years": [
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 133,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 266667,
+  "peakYear": 2024,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

@@ -1,1 +1,81 @@
-{"id":132924,"name":"AMERICAN FIDELITY CORPORATION","slug":"american-fidelity-corporation","state":"OK","description":"Life insurance","totalSpending":2940000,"filings":26,"yearlySpending":[{"year":2018,"income":310000},{"year":2019,"income":80000},{"year":2020,"income":320000},{"year":2021,"income":180000},{"year":2022,"income":440000},{"year":2023,"income":580000},{"year":2024,"income":430000},{"year":2025,"income":600000}],"firms":["MILLER & CHEVALIER CHARTERED"],"lobbyists":["MARC GERSON","LEONARD BICKWIT","GEORGE HANI","JORGE CASTRO"],"issues":["FIN","CIV","TAX",null],"sampleDescriptions":["Legislation affecting financial services issues.","Judicial confirmations.","Legislation affecting employee benefits."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 132924,
+  "name": "AMERICAN FIDELITY CORPORATION",
+  "slug": "american-fidelity-corporation",
+  "state": "OK",
+  "description": "Life insurance",
+  "totalSpending": 2940000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 310000
+    },
+    {
+      "year": 2019,
+      "income": 80000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 440000
+    },
+    {
+      "year": 2023,
+      "income": 580000
+    },
+    {
+      "year": 2024,
+      "income": 430000
+    },
+    {
+      "year": 2025,
+      "income": 600000
+    }
+  ],
+  "firms": [
+    "MILLER & CHEVALIER CHARTERED"
+  ],
+  "lobbyists": [
+    "MARC GERSON",
+    "LEONARD BICKWIT",
+    "GEORGE HANI",
+    "JORGE CASTRO"
+  ],
+  "issues": [
+    "FIN",
+    "CIV",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislation affecting financial services issues.",
+    "Judicial confirmations.",
+    "Legislation affecting employee benefits."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 94,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 367500,
+  "peakYear": 2025,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 3
+}

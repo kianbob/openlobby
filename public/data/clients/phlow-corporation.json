@@ -1,1 +1,69 @@
-{"id":210224,"name":"PHLOW CORPORATION","slug":"phlow-corporation","state":"VA","description":"Pharmaceutical company.","totalSpending":1550000,"filings":18,"yearlySpending":[{"year":2021,"income":220000},{"year":2022,"income":350000},{"year":2023,"income":350000},{"year":2024,"income":360000},{"year":2025,"income":270000}],"firms":["TIBER CREEK GROUP"],"lobbyists":["JOHN GONZALEZ","ANDREW MCKECHNIE","MATTHEW LEFFINGWELL","BRYANT HALL","COREY MALMGREN","DANIEL ZAWITOSKI","EMILY KIRLIN"],"issues":["HCR",null,"BUD"],"sampleDescriptions":["Issues relating to Domestic API production.","S. 2740 - PREPARE Act, issues relating to Domestic API production.","Issues related to domestic pharmaceutical production.","Issues related to H.R. 5304/S. 2587 - Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2026; Issues related to H.R. 4016/S. 2572 - Department of Defense Appropriations Act, 2026; Issues related to the National Defense Authorization Act for Fiscal Year 2026 (PL 119-60); Issues related to H.R. 4191/S. 1784 - MAPS Act; Issues related to H.R. 3955/S. 2062 - RAPID Reserve Act."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 210224,
+  "name": "PHLOW CORPORATION",
+  "slug": "phlow-corporation",
+  "state": "VA",
+  "description": "Pharmaceutical company.",
+  "totalSpending": 1550000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 220000
+    },
+    {
+      "year": 2022,
+      "income": 350000
+    },
+    {
+      "year": 2023,
+      "income": 350000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "TIBER CREEK GROUP"
+  ],
+  "lobbyists": [
+    "JOHN GONZALEZ",
+    "ANDREW MCKECHNIE",
+    "MATTHEW LEFFINGWELL",
+    "BRYANT HALL",
+    "COREY MALMGREN",
+    "DANIEL ZAWITOSKI",
+    "EMILY KIRLIN"
+  ],
+  "issues": [
+    "HCR",
+    null,
+    "BUD"
+  ],
+  "sampleDescriptions": [
+    "Issues relating to Domestic API production.",
+    "S. 2740 - PREPARE Act, issues relating to Domestic API production.",
+    "Issues related to domestic pharmaceutical production.",
+    "Issues related to H.R. 5304/S. 2587 - Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2026; Issues related to H.R. 4016/S. 2572 - Department of Defense Appropriations Act, 2026; Issues related to the National Defense Authorization Act for Fiscal Year 2026 (PL 119-60); Issues related to H.R. 4191/S. 1784 - MAPS Act; Issues related to H.R. 3955/S. 2062 - RAPID Reserve Act."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 23,
+  "trajectory": "stable",
+  "yearsActive": 5,
+  "avgAnnualSpending": 310000,
+  "peakYear": 2024,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 2
+}

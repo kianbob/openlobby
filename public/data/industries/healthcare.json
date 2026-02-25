@@ -1,0 +1,434 @@
+{
+  "industry": "healthcare",
+  "totalSpending": 6876738403.010003,
+  "totalFilings": 94723,
+  "clientCount": 5861,
+  "topClients": [
+    {
+      "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
+      "state": "DC",
+      "spending": 243515000,
+      "filings": 622,
+      "desc": "Trade association for the pharmaceutical product discovery and development industry."
+    },
+    {
+      "name": "AMERICAN HOSPITAL ASSOCIATION",
+      "state": "DC",
+      "spending": 188582000,
+      "filings": 197,
+      "desc": null
+    },
+    {
+      "name": "PFIZER INC.",
+      "state": "DC",
+      "spending": 146670000,
+      "filings": 157,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN MEDICAL ASSOCIATION",
+      "state": "IL",
+      "spending": 135700000,
+      "filings": 142,
+      "desc": "represent nation's physicians"
+    },
+    {
+      "name": "AARP",
+      "state": "DC",
+      "spending": 106555000,
+      "filings": 51,
+      "desc": "Advocacy on behalf of Americans ages 50 and over."
+    },
+    {
+      "name": "AMGEN INC",
+      "state": "DC",
+      "spending": 99710000,
+      "filings": 80,
+      "desc": null
+    },
+    {
+      "name": "AMERICA'S HEALTH INSURANCE PLANS INC (AHIP)",
+      "state": "DC",
+      "spending": 85450000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "ELI LILLY AND COMPANY",
+      "state": "DC",
+      "spending": 82688210,
+      "filings": 209,
+      "desc": null
+    },
+    {
+      "name": "CVS HEALTH (AND SUBSIDIARIES)",
+      "state": "DC",
+      "spending": 75425000,
+      "filings": 70,
+      "desc": "Health Care"
+    },
+    {
+      "name": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION",
+      "state": "DC",
+      "spending": 73554413.73,
+      "filings": 78,
+      "desc": "National association representing America's pharmacy benefit managers."
+    },
+    {
+      "name": "BIOTECHNOLOGY INNOVATION ORGANIZATION",
+      "state": "DC",
+      "spending": 67560000,
+      "filings": 140,
+      "desc": "Biotech trade organization"
+    },
+    {
+      "name": "THE CIGNA GROUP AND SUBSIDIARIES (FORMERLY CIGNA CORPORATION AND SUBSIDIARIES)",
+      "state": "DC",
+      "spending": 61600000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "MERCK & CO INC",
+      "state": "DC",
+      "spending": 60630000,
+      "filings": 51,
+      "desc": null
+    },
+    {
+      "name": "UNITEDHEALTH GROUP INC",
+      "state": "DC",
+      "spending": 56500000,
+      "filings": 99,
+      "desc": "Health Care Services"
+    },
+    {
+      "name": "ABBOTT LABORATORIES",
+      "state": "IL",
+      "spending": 53087496,
+      "filings": 275,
+      "desc": "manufacturer of pharmaceutical and medical device products"
+    },
+    {
+      "name": "GILEAD SCIENCES INC",
+      "state": "CA",
+      "spending": 52710000,
+      "filings": 34,
+      "desc": "Pharmaceutical Manufacturer"
+    },
+    {
+      "name": "FRESENIUS MEDICAL CARE NORTH AMERICA",
+      "state": "DC",
+      "spending": 52371326,
+      "filings": 245,
+      "desc": "health care company"
+    },
+    {
+      "name": "ELEVANCE HEALTH, INC.",
+      "state": "IN",
+      "spending": 52067500,
+      "filings": 104,
+      "desc": "Health benefits company."
+    },
+    {
+      "name": "HEALTH CARE SERVICE CORPORATION, A MUTUAL LEGAL RESERVE COMPANY (HCSC)",
+      "state": "IL",
+      "spending": 52030000,
+      "filings": 55,
+      "desc": null
+    },
+    {
+      "name": "BLUE CROSS AND BLUE SHIELD ASSOCIATION",
+      "state": "DC",
+      "spending": 51604000,
+      "filings": 105,
+      "desc": null
+    },
+    {
+      "name": "BAYER CORPORATION (CONSOLIDATED REPORT)",
+      "state": "DC",
+      "spending": 51140000,
+      "filings": 24,
+      "desc": null
+    },
+    {
+      "name": "ABBVIE INC.",
+      "state": "IL",
+      "spending": 48890000,
+      "filings": 133,
+      "desc": "Pharmaceutical company"
+    },
+    {
+      "name": "AMERICAN CANCER SOCIETY CANCER ACTION NETWORK INC",
+      "state": "DC",
+      "spending": 48746150,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "NOVARTIS",
+      "state": "DC",
+      "spending": 44148000,
+      "filings": 140,
+      "desc": "Pharmaceutical product discovery and development."
+    },
+    {
+      "name": "BRISTOL-MYERS SQUIBB COMPANY",
+      "state": "DC",
+      "spending": 42480000,
+      "filings": 60,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN HEALTH CARE ASSOCIATION",
+      "state": "DC",
+      "spending": 42386125,
+      "filings": 288,
+      "desc": "Trade Association"
+    },
+    {
+      "name": "NOVO NORDISK INC.",
+      "state": "DC",
+      "spending": 41267215,
+      "filings": 172,
+      "desc": null
+    },
+    {
+      "name": "CENTENE CORPORATION",
+      "state": "MO",
+      "spending": 39944000,
+      "filings": 228,
+      "desc": "Provider of managed care services to individuals enrolled in Medicaid &amp; other programs."
+    },
+    {
+      "name": "U S CHAMBER INSTITUTE FOR LEGAL REFORM",
+      "state": "DC",
+      "spending": 37810000,
+      "filings": 8,
+      "desc": null
+    },
+    {
+      "name": "SANOFI US SERVICES INC",
+      "state": "DC",
+      "spending": 37422000,
+      "filings": 43,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS",
+      "state": "KS",
+      "spending": 36893354,
+      "filings": 57,
+      "desc": null
+    },
+    {
+      "name": "ASTRAZENECA PHARMACEUTICALS LP",
+      "state": "DC",
+      "spending": 36810000,
+      "filings": 111,
+      "desc": "&#226;€‹Pharmaceuticals"
+    },
+    {
+      "name": "DAVITA INC",
+      "state": "DC",
+      "spending": 36780000,
+      "filings": 89,
+      "desc": null
+    },
+    {
+      "name": "GSK (FKA GLAXOSMITHKLINE INC.)",
+      "state": "DC",
+      "spending": 35750000,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "ALKERMES, INC.",
+      "state": "MA",
+      "spending": 35385000,
+      "filings": 253,
+      "desc": "Global biopharmaceutical company"
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF CHILDREN'S HOSPITALS (N.A.C.H.)",
+      "state": "DC",
+      "spending": 34565000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "TAKEDA PHARMACEUTICALS AMERICA INC",
+      "state": "DC",
+      "spending": 34530000,
+      "filings": 36,
+      "desc": null
+    },
+    {
+      "name": "HUMANA INC",
+      "state": "KY",
+      "spending": 33140000,
+      "filings": 39,
+      "desc": null
+    },
+    {
+      "name": "HORIZON THERAPEUTICS USA, INC. (FKA HORIZON PHARMA USA, INC.)",
+      "state": "IL",
+      "spending": 31530000,
+      "filings": 45,
+      "desc": "Pharmaceuticals"
+    },
+    {
+      "name": "ASSOCIATION OF AMERICAN MEDICAL COLLEGES",
+      "state": "DC",
+      "spending": 31419134,
+      "filings": 148,
+      "desc": "Non-profit assoc. comprised of medical schools, teaching hospitals and academic societies."
+    },
+    {
+      "name": "FEDERATION OF AMERICAN HOSPITALS",
+      "state": "DC",
+      "spending": 30457000,
+      "filings": 207,
+      "desc": null
+    },
+    {
+      "name": "BOEHRINGER INGELHEIM USA CORPORATION",
+      "state": "DC",
+      "spending": 29595000,
+      "filings": 81,
+      "desc": "Lobbyists"
+    },
+    {
+      "name": "BIOGEN",
+      "state": "DC",
+      "spending": 28026680,
+      "filings": 60,
+      "desc": null
+    },
+    {
+      "name": "VERTEX PHARMACEUTICALS INCORPORATED",
+      "state": "MA",
+      "spending": 27225000,
+      "filings": 191,
+      "desc": "Global biotechnology company"
+    },
+    {
+      "name": "ASSOCIATION FOR ACCESSIBLE MEDICINES",
+      "state": "DC",
+      "spending": 26820000,
+      "filings": 85,
+      "desc": "Generic Pharmaceutical Trade Association"
+    },
+    {
+      "name": "KAISER FOUNDATION HEALTH PLAN INC",
+      "state": "CA",
+      "spending": 26140000,
+      "filings": 35,
+      "desc": null
+    },
+    {
+      "name": "ADVANCED MEDICAL TECHNOLOGY ASSN",
+      "state": "DC",
+      "spending": 24034386,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "TEVA PHARMACEUTICALS USA INC",
+      "state": "NJ",
+      "spending": 23510000,
+      "filings": 36,
+      "desc": null
+    },
+    {
+      "name": "HCA HEALTHCARE, INC.",
+      "state": "TN",
+      "spending": 22910000,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "MCKESSON CORPORATION & AFFILIATES U.S. ONCOLOGY AND RX SAVINGS SOLUTIONS",
+      "state": "TX",
+      "spending": 21475000,
+      "filings": 36,
+      "desc": null
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 711770046.3399998
+    },
+    {
+      "year": 2019,
+      "spending": 730517370.4499999
+    },
+    {
+      "year": 2020,
+      "spending": 784298821.1800001
+    },
+    {
+      "year": 2021,
+      "spending": 822345209.6
+    },
+    {
+      "year": 2022,
+      "spending": 917141094.19
+    },
+    {
+      "year": 2023,
+      "spending": 990593347.5699999
+    },
+    {
+      "year": 2024,
+      "spending": 875283310.13
+    },
+    {
+      "year": 2025,
+      "spending": 1044789203.5500002
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "HCR",
+      "count": 62755
+    },
+    {
+      "code": "MMM",
+      "count": 39207
+    },
+    {
+      "code": "BUD",
+      "count": 18519
+    },
+    {
+      "code": "TAX",
+      "count": 7873
+    },
+    {
+      "code": "PHA",
+      "count": 7812
+    },
+    {
+      "code": "MED",
+      "count": 5706
+    },
+    {
+      "code": "VET",
+      "count": 4265
+    },
+    {
+      "code": "DEF",
+      "count": 3487
+    },
+    {
+      "code": "TRD",
+      "count": 3272
+    },
+    {
+      "code": "LBR",
+      "count": 2593
+    }
+  ]
+}

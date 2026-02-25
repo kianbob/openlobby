@@ -1,1 +1,112 @@
-{"id":184390,"name":"INTUIT, INC. AND AFFILIATES","slug":"intuit-inc-and-affiliates","state":"DC","description":"Financial and tax preparation software and related services.","totalSpending":1870000,"filings":32,"yearlySpending":[{"year":2018,"income":370000},{"year":2019,"income":250000},{"year":2020,"income":170000},{"year":2021,"income":250000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":230000}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["DREW GOESL","JOSH KARDON","CHARLES FRENCH","DAVID OLANDER","JENNIFER DEBES BANG","CHARLES BOUSTANY","DAVID JONES","SHANNON FINLEY","ROBERT DIAMOND","WARREN TRYON","MONIQUE FRAZIER","JACK CAMPBELL","JONATHAN KOTT","JOSEPH EANNELLO","ANN JABLON","DAVID BRIDGES","ADAM CARASSO"],"issues":["FIN","TAX","SMB","BUD",null],"sampleDescriptions":["Support FINTECH innovation and consumer protections; promote financial health and literacy for small businesses.","Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: H.R.439 - Stolen Identity Refund Fraud Prevention Act of 2017;  HR 3641, The Free File Permanence Act of 2017; H.R. 1, An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018; FY2018 and FY2019 Appropriations.","Promote small business development and growth;  support small business regulatory modernization; support small business and sharing economy financial literacy.","Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers; FY2018 and FY2019 Appropriations.","Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: H.R. 2901: Volunteer Income Tax Assistance Permanence Act of 2017; HR 3641: The Free File Permanence Act of 2017; HR 5444, The Taxpayer First Act; HR 5445, The 21st Century IRS Act; H.R. 1: Tax Cuts and Jobs Act (TAX) (P.L. 115-97).","Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers; FY2018 and FY2019 Appropriations.  Legislation: HR 6258; S.1307; FSGG Appropriations.","Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: H.R. 2901: Volunteer Income Tax Assistance Permanence Act of 2017; HR 3641: The Free File Permanence Act of 2017; HR 5444, The Taxpayer First Act; HR 5445, The 21st Century IRS Act; H.R. 1: Tax Cuts and Jobs Act (TAX) (P.L. 115-97); S.3278 Protecting Taxpayers Act; S. 3246 Taxpayer First.","Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers; FY2018 and FY2019 Appropriations.  Legislation: HR 6258; S.1307; H.R. 6147 FSGG Appropriations.","Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: HR 6258; S.1307; H.R.6147 FSGG Appropriations.","Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: H.R. 2901: Volunteer Income Tax Assistance Permanence Act of 2017; HR 3641: The Free File Permanence Act of 2017; HR 5444, The Taxpayer First Act;  HR 5445, The 21st Century IRS Act; H.R. 7227: Taxpayer First Act of 2018; H.R. 88: Retirement Savings and Other Tax Relief Act of 2018; S.3278 Protecting Taxpayers Act; S.3246 Taxpayers First; S. 3781: Retirement Security and Savings Act of 2018.","Enhance Tax Administration & tax system integrity; Support Tax Simplification and Voluntary Compliance; Support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers. H.R. 1957: Taxpayer First Act of 2019.","Support FINTECH innovation and consumer protections; Promote financial health and literacy for small businesses.","Promote small business development and growth; Support small business regulatory modernization; Support small business and sharing economy financial literacy.","Enhance Tax Administration & tax system integrity; Support Tax Simplification and Voluntary Compliance; Support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers.","Support FINTECH innovation and consumer protections; Promote financial health and literacy for small businesses; HR 4813 - Keep Big Tech out of Finance Act.","Support FINTECH innovation and consumer protections; Promote financial health and literacy for small businesses; HR 4813 - Keep Big Tech out of Finance Act. H.R. 748, S. 3548 CARES Act.","Enhance Tax Administration & tax system integrity; Support Tax Simplification and Voluntary Compliance; Support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers. S. 3535, Tax Relief for America Act; H. Res 810, Expressing the sense of the House of Representatives that the Free File program has made vital contributions to the public.","Promote small business development and growth; Support small business regulatory modernization; Support small business and sharing economy financial literacy. H.R. 748, S. 3548 CARES Act.","Support FINTECH innovation and consumer protections; Promote financial health and literacy for small businesses. Support implementation of CARES Act (PL 116-136).","Enhance Tax Administration & tax system integrity; Support Tax Simplification and Voluntary Compliance; Support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers.  H. Res 810, Expressing the sense of the House of Representatives that the Free File program has made vital contributions to the public."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184390,
+  "name": "INTUIT, INC. AND AFFILIATES",
+  "slug": "intuit-inc-and-affiliates",
+  "state": "DC",
+  "description": "Financial and tax preparation software and related services.",
+  "totalSpending": 1870000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 370000
+    },
+    {
+      "year": 2019,
+      "income": 250000
+    },
+    {
+      "year": 2020,
+      "income": 170000
+    },
+    {
+      "year": 2021,
+      "income": 250000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 230000
+    }
+  ],
+  "firms": [
+    "CAPITOL COUNSEL LLC"
+  ],
+  "lobbyists": [
+    "DREW GOESL",
+    "JOSH KARDON",
+    "CHARLES FRENCH",
+    "DAVID OLANDER",
+    "JENNIFER DEBES BANG",
+    "CHARLES BOUSTANY",
+    "DAVID JONES",
+    "SHANNON FINLEY",
+    "ROBERT DIAMOND",
+    "WARREN TRYON",
+    "MONIQUE FRAZIER",
+    "JACK CAMPBELL",
+    "JONATHAN KOTT",
+    "JOSEPH EANNELLO",
+    "ANN JABLON",
+    "DAVID BRIDGES",
+    "ADAM CARASSO"
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "SMB",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Support FINTECH innovation and consumer protections; promote financial health and literacy for small businesses.",
+    "Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: H.R.439 - Stolen Identity Refund Fraud Prevention Act of 2017;  HR 3641, The Free File Permanence Act of 2017; H.R. 1, An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018; FY2018 and FY2019 Appropriations.",
+    "Promote small business development and growth;  support small business regulatory modernization; support small business and sharing economy financial literacy.",
+    "Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers; FY2018 and FY2019 Appropriations.",
+    "Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: H.R. 2901: Volunteer Income Tax Assistance Permanence Act of 2017; HR 3641: The Free File Permanence Act of 2017; HR 5444, The Taxpayer First Act; HR 5445, The 21st Century IRS Act; H.R. 1: Tax Cuts and Jobs Act (TAX) (P.L. 115-97).",
+    "Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers; FY2018 and FY2019 Appropriations.  Legislation: HR 6258; S.1307; FSGG Appropriations.",
+    "Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: H.R. 2901: Volunteer Income Tax Assistance Permanence Act of 2017; HR 3641: The Free File Permanence Act of 2017; HR 5444, The Taxpayer First Act; HR 5445, The 21st Century IRS Act; H.R. 1: Tax Cuts and Jobs Act (TAX) (P.L. 115-97); S.3278 Protecting Taxpayers Act; S. 3246 Taxpayer First.",
+    "Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers; FY2018 and FY2019 Appropriations.  Legislation: HR 6258; S.1307; H.R. 6147 FSGG Appropriations.",
+    "Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: HR 6258; S.1307; H.R.6147 FSGG Appropriations.",
+    "Enhance Tax Administration & tax system integrity; support Tax Simplification and Voluntary Compliance; support IRS Taxpayer Assistance Programs, VITA and Free File; support strengthening anti-cyberfraud protections for tax system and taxpayers. Legislation: H.R. 2901: Volunteer Income Tax Assistance Permanence Act of 2017; HR 3641: The Free File Permanence Act of 2017; HR 5444, The Taxpayer First Act;  HR 5445, The 21st Century IRS Act; H.R. 7227: Taxpayer First Act of 2018; H.R. 88: Retirement Savings and Other Tax Relief Act of 2018; S.3278 Protecting Taxpayers Act; S.3246 Taxpayers First; S. 3781: Retirement Security and Savings Act of 2018.",
+    "Enhance Tax Administration & tax system integrity; Support Tax Simplification and Voluntary Compliance; Support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers. H.R. 1957: Taxpayer First Act of 2019.",
+    "Support FINTECH innovation and consumer protections; Promote financial health and literacy for small businesses.",
+    "Promote small business development and growth; Support small business regulatory modernization; Support small business and sharing economy financial literacy.",
+    "Enhance Tax Administration & tax system integrity; Support Tax Simplification and Voluntary Compliance; Support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers.",
+    "Support FINTECH innovation and consumer protections; Promote financial health and literacy for small businesses; HR 4813 - Keep Big Tech out of Finance Act.",
+    "Support FINTECH innovation and consumer protections; Promote financial health and literacy for small businesses; HR 4813 - Keep Big Tech out of Finance Act. H.R. 748, S. 3548 CARES Act.",
+    "Enhance Tax Administration & tax system integrity; Support Tax Simplification and Voluntary Compliance; Support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers. S. 3535, Tax Relief for America Act; H. Res 810, Expressing the sense of the House of Representatives that the Free File program has made vital contributions to the public.",
+    "Promote small business development and growth; Support small business regulatory modernization; Support small business and sharing economy financial literacy. H.R. 748, S. 3548 CARES Act.",
+    "Support FINTECH innovation and consumer protections; Promote financial health and literacy for small businesses. Support implementation of CARES Act (PL 116-136).",
+    "Enhance Tax Administration & tax system integrity; Support Tax Simplification and Voluntary Compliance; Support IRS Taxpayer Assistance Programs, VITA and Free File; Support strengthening anti-cyberfraud protections for tax system and taxpayers.  H. Res 810, Expressing the sense of the House of Representatives that the Free File program has made vital contributions to the public."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -38,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 233750,
+  "peakYear": 2018,
+  "lobbyistCount": 17,
+  "firmCount": 1,
+  "issueCount": 4
+}

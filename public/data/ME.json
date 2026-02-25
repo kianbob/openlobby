@@ -1,1 +1,329 @@
-{"abbreviation":"ME","name":"Maine","totalSpending":21607472,"totalFilings":1284,"clientCount":85,"yearlySpending":[{"year":2018,"income":1877000},{"year":2019,"income":1770000},{"year":2020,"income":1780000},{"year":2021,"income":1855000},{"year":2022,"income":2197900},{"year":2023,"income":5791000},{"year":2024,"income":2898072},{"year":2025,"income":3438500}],"topClients":[{"name":"TWIN RIVERS PAPER COMPANY","income":2740000},{"name":"MARTIN'S POINT HEALTH CARE","income":2120000},{"name":"AMERICAN RHEINMETALL SYSTEMS, LLC","income":1570000},{"name":"BIOMASS POWER ASSOCIATION","income":1390000},{"name":"PENOBSCOT NATION","income":990000},{"name":"UNUM GROUP","income":930000},{"name":"HOWELL LABORATORIES, INC.","income":870000},{"name":"AVANGRID MANAGEMENT COMPANY, LLC","income":850000},{"name":"UNIVERSITY OF MAINE SYSTEM","income":800000},{"name":"AMERICAN BRAIN COALITION","income":750000},{"name":"LIFE MOLECULAR IMAGING (F/K/A PIRAMAL IMAGING LIMITED)","income":700000},{"name":"WEX INC.","income":700000},{"name":"COMPOTECH, INC.","income":560000},{"name":"RUNNING TIDE","income":550000},{"name":"UNIVERSITY OF MAINE","income":545000},{"name":"STATE OF MAINE-DEPARTMENT OF MARINE RESOURCES","income":400000},{"name":"GLOBAL SECURE SHIPPING","income":390000},{"name":"GELSIGHT, INC.","income":380000},{"name":"COUNCIL ON INTERNATIONAL EDUCATIONAL EXCHANGE (CIEE)","income":270000},{"name":"LIHC INVESTMENT CORP","income":260000},{"name":"ASCEND ELEMENTS","income":240000},{"name":"COLBY COLLEGE","income":220000},{"name":"IDEXX","income":200000},{"name":"THE WISHCAMPER COMPANIES","income":200000},{"name":"ADC TECH INC.","income":200000},{"name":"STARC SYSTEMS","income":195000},{"name":"CENTRAL MAINE POWER COMPANY","income":180000},{"name":"TIMBERHP","income":180000},{"name":"ON THE DOT LLC","income":177072},{"name":"AUBURN MANUFACTURING INC.","income":130000},{"name":"THE JACKSON LABORATORY","income":125000},{"name":"BIGELOW LABORATORY FOR OCEAN SCIENCES","income":124000},{"name":"NETWORK FOR REGIONAL HEALTHCARE IMPROVEMENT","income":120000},{"name":"OGUNQUIT PLAYHOUSE","income":120000},{"name":"PORTLAND RECOVERY COMMUNITY CENTER","income":120000},{"name":"MARTINS POINT HEALTH CARE, INC.","income":120000},{"name":"MAINE DAIRY INDUSTRY ASSOCIATION","income":117900},{"name":"LOADSPRING SOLUTIONS, INC.","income":100000},{"name":"RUNNING TIDE TECHNOLOGIES, INC.","income":90000},{"name":"BOWDOIN COLLEGE","income":80000},{"name":"CONDUCTOR AI","income":76000},{"name":"VASCULAR MANAGEMENT AND INNOVATIONS GROUP, LLC DBA MANGROVE MANAGEMENT PARTNERS","income":70000},{"name":"SAINT JOSEPH'S COLLEGE","income":62000},{"name":"SUN-DIS LLC","income":60000},{"name":"MAINE COAST FISHERMANS ASSOCIATION","income":60000},{"name":"SILVER STREET DEVELOPMENT CORPORATION","income":50000},{"name":"NORTHERN LIGHT HEALTH","income":40000},{"name":"SOLESTISS","income":40000},{"name":"ANZU STRATEGIES (OBO ELANCO US INC)","income":40000},{"name":"NATIVE MAINE OPERATIONS, INC.","income":30000}],"topIssues":[{"code":"DEF","income":5283500},{"code":"HCR","income":3677500},{"code":"FIN","income":2590000},{"code":"BUD","income":2476072},{"code":"ENG","income":2475000},{"code":"AGR","income":2403900},{"code":"MAR","income":1514000},{"code":"TAX","income":1510000},{"code":"TRA","income":1177072},{"code":"ENV","income":1027072},{"code":"HOM","income":980000},{"code":"SCI","income":950000},{"code":"IND","income":870000},{"code":"LBR","income":720000},{"code":"MED","income":690000},{"code":"BAN","income":670000},{"code":"EDU","income":640000},{"code":"NAT","income":572500},{"code":"HOU","income":572072},{"code":"CAW","income":390000}]}
+{
+  "abbreviation": "ME",
+  "name": "Maine",
+  "totalSpending": 21607472,
+  "totalFilings": 1284,
+  "clientCount": 85,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 1877000
+    },
+    {
+      "year": 2019,
+      "income": 1770000
+    },
+    {
+      "year": 2020,
+      "income": 1780000
+    },
+    {
+      "year": 2021,
+      "income": 1855000
+    },
+    {
+      "year": 2022,
+      "income": 2197900
+    },
+    {
+      "year": 2023,
+      "income": 5791000
+    },
+    {
+      "year": 2024,
+      "income": 2898072
+    },
+    {
+      "year": 2025,
+      "income": 3438500
+    }
+  ],
+  "topClients": [
+    {
+      "name": "TWIN RIVERS PAPER COMPANY",
+      "income": 2740000
+    },
+    {
+      "name": "MARTIN'S POINT HEALTH CARE",
+      "income": 2120000
+    },
+    {
+      "name": "AMERICAN RHEINMETALL SYSTEMS, LLC",
+      "income": 1570000
+    },
+    {
+      "name": "BIOMASS POWER ASSOCIATION",
+      "income": 1390000
+    },
+    {
+      "name": "PENOBSCOT NATION",
+      "income": 990000
+    },
+    {
+      "name": "UNUM GROUP",
+      "income": 930000
+    },
+    {
+      "name": "HOWELL LABORATORIES, INC.",
+      "income": 870000
+    },
+    {
+      "name": "AVANGRID MANAGEMENT COMPANY, LLC",
+      "income": 850000
+    },
+    {
+      "name": "UNIVERSITY OF MAINE SYSTEM",
+      "income": 800000
+    },
+    {
+      "name": "AMERICAN BRAIN COALITION",
+      "income": 750000
+    },
+    {
+      "name": "LIFE MOLECULAR IMAGING (F/K/A PIRAMAL IMAGING LIMITED)",
+      "income": 700000
+    },
+    {
+      "name": "WEX INC.",
+      "income": 700000
+    },
+    {
+      "name": "COMPOTECH, INC.",
+      "income": 560000
+    },
+    {
+      "name": "RUNNING TIDE",
+      "income": 550000
+    },
+    {
+      "name": "UNIVERSITY OF MAINE",
+      "income": 545000
+    },
+    {
+      "name": "STATE OF MAINE-DEPARTMENT OF MARINE RESOURCES",
+      "income": 400000
+    },
+    {
+      "name": "GLOBAL SECURE SHIPPING",
+      "income": 390000
+    },
+    {
+      "name": "GELSIGHT, INC.",
+      "income": 380000
+    },
+    {
+      "name": "COUNCIL ON INTERNATIONAL EDUCATIONAL EXCHANGE (CIEE)",
+      "income": 270000
+    },
+    {
+      "name": "LIHC INVESTMENT CORP",
+      "income": 260000
+    },
+    {
+      "name": "ASCEND ELEMENTS",
+      "income": 240000
+    },
+    {
+      "name": "COLBY COLLEGE",
+      "income": 220000
+    },
+    {
+      "name": "IDEXX",
+      "income": 200000
+    },
+    {
+      "name": "THE WISHCAMPER COMPANIES",
+      "income": 200000
+    },
+    {
+      "name": "ADC TECH INC.",
+      "income": 200000
+    },
+    {
+      "name": "STARC SYSTEMS",
+      "income": 195000
+    },
+    {
+      "name": "CENTRAL MAINE POWER COMPANY",
+      "income": 180000
+    },
+    {
+      "name": "TIMBERHP",
+      "income": 180000
+    },
+    {
+      "name": "ON THE DOT LLC",
+      "income": 177072
+    },
+    {
+      "name": "AUBURN MANUFACTURING INC.",
+      "income": 130000
+    },
+    {
+      "name": "THE JACKSON LABORATORY",
+      "income": 125000
+    },
+    {
+      "name": "BIGELOW LABORATORY FOR OCEAN SCIENCES",
+      "income": 124000
+    },
+    {
+      "name": "NETWORK FOR REGIONAL HEALTHCARE IMPROVEMENT",
+      "income": 120000
+    },
+    {
+      "name": "OGUNQUIT PLAYHOUSE",
+      "income": 120000
+    },
+    {
+      "name": "PORTLAND RECOVERY COMMUNITY CENTER",
+      "income": 120000
+    },
+    {
+      "name": "MARTINS POINT HEALTH CARE, INC.",
+      "income": 120000
+    },
+    {
+      "name": "MAINE DAIRY INDUSTRY ASSOCIATION",
+      "income": 117900
+    },
+    {
+      "name": "LOADSPRING SOLUTIONS, INC.",
+      "income": 100000
+    },
+    {
+      "name": "RUNNING TIDE TECHNOLOGIES, INC.",
+      "income": 90000
+    },
+    {
+      "name": "BOWDOIN COLLEGE",
+      "income": 80000
+    },
+    {
+      "name": "CONDUCTOR AI",
+      "income": 76000
+    },
+    {
+      "name": "VASCULAR MANAGEMENT AND INNOVATIONS GROUP, LLC DBA MANGROVE MANAGEMENT PARTNERS",
+      "income": 70000
+    },
+    {
+      "name": "SAINT JOSEPH'S COLLEGE",
+      "income": 62000
+    },
+    {
+      "name": "SUN-DIS LLC",
+      "income": 60000
+    },
+    {
+      "name": "MAINE COAST FISHERMANS ASSOCIATION",
+      "income": 60000
+    },
+    {
+      "name": "SILVER STREET DEVELOPMENT CORPORATION",
+      "income": 50000
+    },
+    {
+      "name": "NORTHERN LIGHT HEALTH",
+      "income": 40000
+    },
+    {
+      "name": "SOLESTISS",
+      "income": 40000
+    },
+    {
+      "name": "ANZU STRATEGIES (OBO ELANCO US INC)",
+      "income": 40000
+    },
+    {
+      "name": "NATIVE MAINE OPERATIONS, INC.",
+      "income": 30000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "DEF",
+      "income": 5283500
+    },
+    {
+      "code": "HCR",
+      "income": 3677500
+    },
+    {
+      "code": "FIN",
+      "income": 2590000
+    },
+    {
+      "code": "BUD",
+      "income": 2476072
+    },
+    {
+      "code": "ENG",
+      "income": 2475000
+    },
+    {
+      "code": "AGR",
+      "income": 2403900
+    },
+    {
+      "code": "MAR",
+      "income": 1514000
+    },
+    {
+      "code": "TAX",
+      "income": 1510000
+    },
+    {
+      "code": "TRA",
+      "income": 1177072
+    },
+    {
+      "code": "ENV",
+      "income": 1027072
+    },
+    {
+      "code": "HOM",
+      "income": 980000
+    },
+    {
+      "code": "SCI",
+      "income": 950000
+    },
+    {
+      "code": "IND",
+      "income": 870000
+    },
+    {
+      "code": "LBR",
+      "income": 720000
+    },
+    {
+      "code": "MED",
+      "income": 690000
+    },
+    {
+      "code": "BAN",
+      "income": 670000
+    },
+    {
+      "code": "EDU",
+      "income": 640000
+    },
+    {
+      "code": "NAT",
+      "income": 572500
+    },
+    {
+      "code": "HOU",
+      "income": 572072
+    },
+    {
+      "code": "CAW",
+      "income": 390000
+    }
+  ],
+  "perCapita": 17.72,
+  "population": 1395722,
+  "nationalRank": 47,
+  "perCapitaRank": 47
+}

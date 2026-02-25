@@ -1,1 +1,80 @@
-{"id":124647,"name":"THE VINYL INSTITUTE, INC.","slug":"the-vinyl-institute-inc","state":"DC","description":"Trade organization representing the leading manufacturers of vinyl","totalSpending":1350000,"filings":22,"yearlySpending":[{"year":2019,"income":210000},{"year":2020,"income":140000},{"year":2021,"income":220000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":180000}],"firms":["HOGAN LOVELLS US LLP"],"lobbyists":["EDUARDO ZAPIEN","KEVIN WYSOCKI","KATHLEEN MCAULIFFE","KATHERINE PEREIRA KING","SHELLEY CASTLE"],"issues":["CHM","CAW",null],"sampleDescriptions":["Water infrastructure; Legislation/regulations of polyvinyl chloride","Water Infrastructure","Legislation / regulations of polyvinyl chloride","Legislation /  regulations polyvinyl chloride","Legislation / regulation polyvinyl chloride","Water infrastructure","Legislation/regulation polyvinyl chloride"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 124647,
+  "name": "THE VINYL INSTITUTE, INC.",
+  "slug": "the-vinyl-institute-inc",
+  "state": "DC",
+  "description": "Trade organization representing the leading manufacturers of vinyl",
+  "totalSpending": 1350000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 210000
+    },
+    {
+      "year": 2020,
+      "income": 140000
+    },
+    {
+      "year": 2021,
+      "income": 220000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "HOGAN LOVELLS US LLP"
+  ],
+  "lobbyists": [
+    "EDUARDO ZAPIEN",
+    "KEVIN WYSOCKI",
+    "KATHLEEN MCAULIFFE",
+    "KATHERINE PEREIRA KING",
+    "SHELLEY CASTLE"
+  ],
+  "issues": [
+    "CHM",
+    "CAW",
+    null
+  ],
+  "sampleDescriptions": [
+    "Water infrastructure; Legislation/regulations of polyvinyl chloride",
+    "Water Infrastructure",
+    "Legislation / regulations of polyvinyl chloride",
+    "Legislation /  regulations polyvinyl chloride",
+    "Legislation / regulation polyvinyl chloride",
+    "Water infrastructure",
+    "Legislation/regulation polyvinyl chloride"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -14,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 192857,
+  "peakYear": 2023,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2
+}

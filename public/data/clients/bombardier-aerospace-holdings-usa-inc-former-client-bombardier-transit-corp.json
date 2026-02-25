@@ -1,1 +1,107 @@
-{"id":115207,"name":"BOMBARDIER AEROSPACE (HOLDINGS) USA INC (FORMER CLIENT BOMBARDIER TRANSIT CORP)","slug":"bombardier-aerospace-holdings-usa-inc-former-client-bombardier-transit-corp","state":"DE","description":"Aerospace and rail transportation manufacturer and service provider","totalSpending":1460000,"filings":25,"yearlySpending":[{"year":2018,"income":270000},{"year":2019,"income":320000},{"year":2020,"income":200000},{"year":2021,"income":180000},{"year":2022,"income":220000},{"year":2023,"income":160000},{"year":2024,"income":40000},{"year":2025,"income":70000}],"firms":["COVINGTON & BURLING LLP"],"lobbyists":["JOHN VERONEAU","BRIAN SMITH","ROGER ZAKHEIM","MUFTIAH MCCARTIN","JEFFREY BOZMAN","ED MCCLELLAN","GABRIEL NEVILLE","ZACHARY MEARS","SAMANTHA CLARK","LAYTH ELHASSANI","JACK SCHENENDORF","MICHELE PEARCE","STEPHANIE BARNA"],"issues":["AER","TRA",null],"sampleDescriptions":["Policy and budgetary matters related to aerospace industries.  Federal government procurement of aircraft platforms (Compass Call, JSTARS).  Trade policy.  ITC and Commerce Department proceedings; 100- to 150 Seat Large Civil Aircraft from Canada.  Tax reform.","Policy and budgetary matters related to rail industries.  Trade policy.  Tax reform.","Policy and budgetary matters related to rail industries. Trade policy and tariffs. Foreign Agents Registration Act reform.","Policy and budgetary matters related to aerospace industries. Federal government procurement of aircraft platforms (Compass Call, JSTARS, BACN, FMS). Trade policy and tariffs. Foreign Agents Registration Act reform.","Policy and budgetary matters related to aerospace industries.  Federal government procurement of aircraft platforms, including BACN.  Trade policy.","Policy and budgetary matters related to rail industries. Trade policy.","Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms, including BACN.  \nTrade policy.\n(*Clark did not lobby the U.S. Senate*)","Policy and budgetary matters related to rail industries. \nTrade policy.","Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms, including BACN.  \nTrade policy.  \nWorkforce development.\n\n(*Clark did not lobby the U.S. Senate*)","Policy and budgetary matters related to rail industries.  \nTrade policy.  \nWorkforce development.","Policy and budgetary matters related to rail industries.  \nTrade policy.","Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms, including BACN.  \nTrade policy.  \nNational Defense Authorization Act.\n\n(*Clark did not lobby the U.S. Senate*)","Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms.  \nTrade policy.  \nNational Defense Authorization Act.\n\n(*Clark did not lobby the U.S. Senate*)","Policy and budgetary matters related to rail industries.  \nTrade policy.  \nNational Defense Authorization Act.","Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms.  \nTrade policy.  \nGovernmental responses to the coronavirus pandemic.","Policy and budgetary matters related to rail industries.   \nTrade policy.  \nNational Defense Authorization Act (rolling stock provision).  \nGovernmental responses to the coronavirus pandemic.","Policy and budgetary matters related to aerospace industries.  \nFederal government appropriations, reprogramming, and procurement of aircraft platforms (including BACN/E-11A).  \nNational Defense Authorization Act.","Policy and budgetary matters related to aerospace industries.  \nFederal government appropriations, reprogramming, and procurement of aircraft platforms (including BACN and HADES).","Policy and budgetary matters related to aerospace industries.  \nFederal government appropriations, reprogramming, and procurement of aircraft platforms.  \nNational Defense Authorization Act (H.R. 4350/S. 1605).","Policy and budgetary matters related to aerospace industries. Federal government appropriations, reprogramming, and procurement of aircraft platforms. National Defense Authorization Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 115207,
+  "name": "BOMBARDIER AEROSPACE (HOLDINGS) USA INC (FORMER CLIENT BOMBARDIER TRANSIT CORP)",
+  "slug": "bombardier-aerospace-holdings-usa-inc-former-client-bombardier-transit-corp",
+  "state": "DE",
+  "description": "Aerospace and rail transportation manufacturer and service provider",
+  "totalSpending": 1460000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 270000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 220000
+    },
+    {
+      "year": 2023,
+      "income": 160000
+    },
+    {
+      "year": 2024,
+      "income": 40000
+    },
+    {
+      "year": 2025,
+      "income": 70000
+    }
+  ],
+  "firms": [
+    "COVINGTON & BURLING LLP"
+  ],
+  "lobbyists": [
+    "JOHN VERONEAU",
+    "BRIAN SMITH",
+    "ROGER ZAKHEIM",
+    "MUFTIAH MCCARTIN",
+    "JEFFREY BOZMAN",
+    "ED MCCLELLAN",
+    "GABRIEL NEVILLE",
+    "ZACHARY MEARS",
+    "SAMANTHA CLARK",
+    "LAYTH ELHASSANI",
+    "JACK SCHENENDORF",
+    "MICHELE PEARCE",
+    "STEPHANIE BARNA"
+  ],
+  "issues": [
+    "AER",
+    "TRA",
+    null
+  ],
+  "sampleDescriptions": [
+    "Policy and budgetary matters related to aerospace industries.  Federal government procurement of aircraft platforms (Compass Call, JSTARS).  Trade policy.  ITC and Commerce Department proceedings; 100- to 150 Seat Large Civil Aircraft from Canada.  Tax reform.",
+    "Policy and budgetary matters related to rail industries.  Trade policy.  Tax reform.",
+    "Policy and budgetary matters related to rail industries. Trade policy and tariffs. Foreign Agents Registration Act reform.",
+    "Policy and budgetary matters related to aerospace industries. Federal government procurement of aircraft platforms (Compass Call, JSTARS, BACN, FMS). Trade policy and tariffs. Foreign Agents Registration Act reform.",
+    "Policy and budgetary matters related to aerospace industries.  Federal government procurement of aircraft platforms, including BACN.  Trade policy.",
+    "Policy and budgetary matters related to rail industries. Trade policy.",
+    "Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms, including BACN.  \nTrade policy.\n(*Clark did not lobby the U.S. Senate*)",
+    "Policy and budgetary matters related to rail industries. \nTrade policy.",
+    "Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms, including BACN.  \nTrade policy.  \nWorkforce development.\n\n(*Clark did not lobby the U.S. Senate*)",
+    "Policy and budgetary matters related to rail industries.  \nTrade policy.  \nWorkforce development.",
+    "Policy and budgetary matters related to rail industries.  \nTrade policy.",
+    "Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms, including BACN.  \nTrade policy.  \nNational Defense Authorization Act.\n\n(*Clark did not lobby the U.S. Senate*)",
+    "Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms.  \nTrade policy.  \nNational Defense Authorization Act.\n\n(*Clark did not lobby the U.S. Senate*)",
+    "Policy and budgetary matters related to rail industries.  \nTrade policy.  \nNational Defense Authorization Act.",
+    "Policy and budgetary matters related to aerospace industries.  \nFederal government procurement of aircraft platforms.  \nTrade policy.  \nGovernmental responses to the coronavirus pandemic.",
+    "Policy and budgetary matters related to rail industries.   \nTrade policy.  \nNational Defense Authorization Act (rolling stock provision).  \nGovernmental responses to the coronavirus pandemic.",
+    "Policy and budgetary matters related to aerospace industries.  \nFederal government appropriations, reprogramming, and procurement of aircraft platforms (including BACN/E-11A).  \nNational Defense Authorization Act.",
+    "Policy and budgetary matters related to aerospace industries.  \nFederal government appropriations, reprogramming, and procurement of aircraft platforms (including BACN and HADES).",
+    "Policy and budgetary matters related to aerospace industries.  \nFederal government appropriations, reprogramming, and procurement of aircraft platforms.  \nNational Defense Authorization Act (H.R. 4350/S. 1605).",
+    "Policy and budgetary matters related to aerospace industries. Federal government appropriations, reprogramming, and procurement of aircraft platforms. National Defense Authorization Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -74,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 182500,
+  "peakYear": 2019,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "defense"
+}

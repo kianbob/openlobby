@@ -1,1 +1,76 @@
-{"id":210425,"name":"ALIBABA GROUP HOLDING LIMITED","slug":"alibaba-group-holding-limited","state":null,"description":"E-Commerce and data security company","totalSpending":1360000,"filings":17,"yearlySpending":[{"year":2021,"income":240000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["CHRISTOPHER DELACY","TODD WOOTEN","JOEL ROBERSON","MOLLY ROSS","PETER TABOR"],"issues":["TRD","FIN","CSP","CPT",null],"sampleDescriptions":["Issues related to export promotion; S. 1260 - U.S. Innovation and Competition Act of 2021 and H.R. 4521 - America COMPETES Act of 2022.","Issues related to access to U.S. capital markets.","Issues related to consumer product safety and e-commerce best practices.","Issues related to e-commerce; H.R 3429/S. 1843 SHOP SAFE Act of 2021.","Issues related to consumer product safety and e-commerce best practices; H.R. 8152 - the American Data Privacy and Protection Act.","Issues related to e-commerce; H.R 3429/S. 1843 - SHOP SAFE Act of 2021.","Issues related to export promotion.","Issues related to e-commerce.","Issues related to export promotion; de minimis exemption.","Issues related to export promotion; de minimis exemption; tariffs.","Issues related to reducing sales of counterfeit goods."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 210425,
+  "name": "ALIBABA GROUP HOLDING LIMITED",
+  "slug": "alibaba-group-holding-limited",
+  "state": null,
+  "description": "E-Commerce and data security company",
+  "totalSpending": 1360000,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "HOLLAND & KNIGHT LLP"
+  ],
+  "lobbyists": [
+    "CHRISTOPHER DELACY",
+    "TODD WOOTEN",
+    "JOEL ROBERSON",
+    "MOLLY ROSS",
+    "PETER TABOR"
+  ],
+  "issues": [
+    "TRD",
+    "FIN",
+    "CSP",
+    "CPT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to export promotion; S. 1260 - U.S. Innovation and Competition Act of 2021 and H.R. 4521 - America COMPETES Act of 2022.",
+    "Issues related to access to U.S. capital markets.",
+    "Issues related to consumer product safety and e-commerce best practices.",
+    "Issues related to e-commerce; H.R 3429/S. 1843 SHOP SAFE Act of 2021.",
+    "Issues related to consumer product safety and e-commerce best practices; H.R. 8152 - the American Data Privacy and Protection Act.",
+    "Issues related to e-commerce; H.R 3429/S. 1843 - SHOP SAFE Act of 2021.",
+    "Issues related to export promotion.",
+    "Issues related to e-commerce.",
+    "Issues related to export promotion; de minimis exemption.",
+    "Issues related to export promotion; de minimis exemption; tariffs.",
+    "Issues related to reducing sales of counterfeit goods."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 5,
+  "avgAnnualSpending": 272000,
+  "peakYear": 2022,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 4
+}

@@ -1,1 +1,96 @@
-{"id":204815,"name":"GENTIVA (FORMERLY REPORTED AS HUMANA & KINDRED AT HOME)","slug":"gentiva-formerly-reported-as-humana-kindred-at-home","state":"GA","description":"Provider of home health and hospice services","totalSpending":1700000,"filings":26,"yearlySpending":[{"year":2020,"income":200000},{"year":2021,"income":320000},{"year":2022,"income":560000},{"year":2023,"income":200000},{"year":2024,"income":180000},{"year":2025,"income":240000}],"firms":["TARPLIN, DOWNS & YOUNG, LLC"],"lobbyists":["RAISSA DOWNS","JENNIFER YOUNG","MICHELLE EASTON","ELIZABETH MURRAY","CHARLOTTE IVANCIC","PAMELA SMITH","EMILY MURRY","KIMBERLY BRANDT","MARGARET JOSEPH","PETER FISE","LAURA FRIEDEL","PARICK CARROLL"],"issues":["MMM","BUD","HCR",null],"sampleDescriptions":["coverage and reimbursement of home health and hospice services","H.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act","Home health\nHospice care\nTelemedicine","H.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act\nH.R. 6800 - The Heroes Act\nProvider Relief Funds","H.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act\nH.R. 6800 - The Heroes Act\nProvider Relief Funds \nH.R. 133 - Consolidated Appropriations Act, 2021","Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nH.R. 133 - Consolidated Appropriations Act, 2021","Provider Relief Funds\ncoronavirus response\nH.R. 1319, American Rescue Plan of 2021","Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nH.R. 1319, American Rescue Plan of 2021","Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nH.R. 1319, American Rescue Plan of 2021 implementation\nHEAT Act","Provider Relief Funds\ncoronavirus response\nH.R. 1319, American Rescue Plan of 2021 implementation","Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nH.R. 1319, American Rescue Plan of 2021 implementation\nHEAT Act\nMedicare sequester relief","Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nS. 610, the Protecting Medicare and American Farmers from Sequester Cuts Act\nMedicare sequester relief","Provider Relief Funds\ncoronavirus response\ntelehealth\nS. 610, the Protecting Medicare and American Farmers from Sequester Cuts Act","Provider Relief Funds coronavirus response telehealth H.R. 2471, Consolidated Appropriations Act 2022","Home health Hospice care Telemedicine sequester relief and E&M codes/budget neutrality H.R. 2471, Consolidated Appropriations Act 2022 Medicare sequester relief","telehealth, home health and hospice issues","Home health, hospice care, telemedicine, medicare sequester relief","H.R.2617, Consolidated Appropriations Act, 2023 telehealth, home health and hospice issues","hospice reimbursement and policy issues","hospice care"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 204815,
+  "name": "GENTIVA (FORMERLY REPORTED AS HUMANA & KINDRED AT HOME)",
+  "slug": "gentiva-formerly-reported-as-humana-kindred-at-home",
+  "state": "GA",
+  "description": "Provider of home health and hospice services",
+  "totalSpending": 1700000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 560000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "TARPLIN, DOWNS & YOUNG, LLC"
+  ],
+  "lobbyists": [
+    "RAISSA DOWNS",
+    "JENNIFER YOUNG",
+    "MICHELLE EASTON",
+    "ELIZABETH MURRAY",
+    "CHARLOTTE IVANCIC",
+    "PAMELA SMITH",
+    "EMILY MURRY",
+    "KIMBERLY BRANDT",
+    "MARGARET JOSEPH",
+    "PETER FISE",
+    "LAURA FRIEDEL",
+    "PARICK CARROLL"
+  ],
+  "issues": [
+    "MMM",
+    "BUD",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "coverage and reimbursement of home health and hospice services",
+    "H.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act",
+    "Home health\nHospice care\nTelemedicine",
+    "H.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act\nH.R. 6800 - The Heroes Act\nProvider Relief Funds",
+    "H.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act\nH.R. 6800 - The Heroes Act\nProvider Relief Funds \nH.R. 133 - Consolidated Appropriations Act, 2021",
+    "Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nH.R. 133 - Consolidated Appropriations Act, 2021",
+    "Provider Relief Funds\ncoronavirus response\nH.R. 1319, American Rescue Plan of 2021",
+    "Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nH.R. 1319, American Rescue Plan of 2021",
+    "Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nH.R. 1319, American Rescue Plan of 2021 implementation\nHEAT Act",
+    "Provider Relief Funds\ncoronavirus response\nH.R. 1319, American Rescue Plan of 2021 implementation",
+    "Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nH.R. 1319, American Rescue Plan of 2021 implementation\nHEAT Act\nMedicare sequester relief",
+    "Home health\nHospice care\nTelemedicine\nsequester relief and E&M codes/budget neutrality\nS. 610, the Protecting Medicare and American Farmers from Sequester Cuts Act\nMedicare sequester relief",
+    "Provider Relief Funds\ncoronavirus response\ntelehealth\nS. 610, the Protecting Medicare and American Farmers from Sequester Cuts Act",
+    "Provider Relief Funds coronavirus response telehealth H.R. 2471, Consolidated Appropriations Act 2022",
+    "Home health Hospice care Telemedicine sequester relief and E&M codes/budget neutrality H.R. 2471, Consolidated Appropriations Act 2022 Medicare sequester relief",
+    "telehealth, home health and hospice issues",
+    "Home health, hospice care, telemedicine, medicare sequester relief",
+    "H.R.2617, Consolidated Appropriations Act, 2023 telehealth, home health and hospice issues",
+    "hospice reimbursement and policy issues",
+    "hospice care"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 20,
+  "trajectory": "stable",
+  "yearsActive": 6,
+  "avgAnnualSpending": 283333,
+  "peakYear": 2022,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 3
+}

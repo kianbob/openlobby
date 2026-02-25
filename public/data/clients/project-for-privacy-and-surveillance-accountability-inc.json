@@ -1,1 +1,86 @@
-{"id":203616,"name":"PROJECT FOR PRIVACY AND SURVEILLANCE ACCOUNTABILITY, INC.","slug":"project-for-privacy-and-surveillance-accountability-inc","state":"DC","description":"Non-profit advocacy","totalSpending":1870000,"filings":24,"yearlySpending":[{"year":2019,"income":230000},{"year":2020,"income":500000},{"year":2021,"income":160000},{"year":2022,"income":220000},{"year":2023,"income":360000},{"year":2024,"income":220000},{"year":2025,"income":180000}],"firms":["SCHAERR JAFFE LLP"],"lobbyists":["ERIK JAFFE","GENE SCHAERR","JOSHUA PRINCE"],"issues":["CIV",null],"sampleDescriptions":["Intelligence Community Surveillance","Lobbying activities involved the prospective reauthorization of section 215 of the Foreign Intelligence Surveillance Act and amendments thereto.","Lobbying activities involved the prospective reauthorization of section 215 of the USA Patriot Act and amendments thereto.","Lobbying activities involved amendments to the Foreign Intelligence Surveillance Act and its subsequent amendments.","Lobbied for amendments to the Foreign Intelligence Surveillance Act and for strengthening 4th Amendment protections.","PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of another prospective bill, the Fourth Amendment is Not For Sale Act.","PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of the S.1265, the Fourth Amendment is Not For Sale Act and the S. 2122, the Cell Site Simulator Warrant Act.","PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of the S.1265, the Fourth Amendment is Not For Sale Act, the S. 2122, the Cell Site Simulator Warrant Act, S.3231, and the Closing the Warrantless Digital Car Search Loophole Act of 2021.","PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of S.1265, the Fourth Amendment is Not For Sale Act, S. 2122, the Cell Site Simulator Warrant Act, and S.3231, the Closing the Warrantless Digital Car Search Loophole Act of 2021, and H.R. 7072, the NDO Fairness Act.","PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of S.1265, the Fourth Amendment is Not For Sale Act, S. 2122, the Cell Site Simulator Warrant Act, and S.3231, the Closing the Warrantless Digital Car Search Loophole Act of 2021, and H.R. 7072, the NDO Fairness Act. Also lobbied for increased appropriations for The Open Technology Fund in both the House and Senate. Also lobbied to add surveillance reform amendments to the National Defense Authorization Act and the Defense Appropriations bill.","PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of S.1265, the Fourth Amendment is Not For Sale Act, S. 2122, the Cell Site Simulator Warrant Act, and S.3231, the Closing the Warrantless Digital Car Search Loophole Act of 2021, and H.R. 7072, the NDO Fairness Act. Also lobbied to add surveillance reform amendments to the H.R.7776, the National Defense Authorization Act.","PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans. PPSA lobbied in favor of reforms to section 702 of the Foreign Intelligence Act. PPSA also lobbied for changes to H.R.7320 Reforming Intelligence and Securing America Act. PPSA also lobbied in favor of H.R.4250 the Press Act, H.R.4639 The Fourth Amendment is Not for Sale Act, H.R.3089/S. 4037 the NDO Fairness Act, H.R. 6262/S. 3234 the Government Surveillance Reform Act, H.R.6570 the Protecting Liberty and Ending Warrantless Surveillance Act, S. 3961 the Security and Freedom Enhancement Act. PPSA lobbied against H.R.6611/S.3351 the FISA Reform and Reauthorization Act.","PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans. PPSA lobbied in favor of reforms to section 702 of the Foreign Intelligence Act. PPSA also lobbied in favor of H.R. 4250/S.2074 the Press Act, H.R.4639 The Fourth Amendment is Not for Sale Act, and H.R. 3089/S.4037 the NDO Fairness Act. PPSA lobbied on provisions related to Section 702 of FISA for H.R.3932/S.4443 the Intelligence Authorization Act and H.R. 8070/S.4638 the National Defense Authorization Act. PPSA also lobbied on provisions related to surveillance and encryption for H.R.5893 the CJS Appropriations Act.","PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans. PPSA lobbied in favor of reforms to section 702 of the Foreign Intelligence Surveillance Act. PPSA also lobbied in favor of H.R. 4250/S.2074 the Press Act, H.R.4639/S.2576 The Fourth Amendment is Not for Sale Act, and H.R. 3089/S.4037 the NDO Fairness Act. PPSA lobbied on provisions related to Section 702 of FISA for H.R.8512/S.4443 the Intelligence Authorization Act and H.R. 8070/S.4638 the National Defense Authorization Act. PPSA also lobbied on provisions related to surveillance and encryption for H.R.5893 the CJS Appropriations Act.","Fourth amendment issues Foreign Intelligence Surveillance Act issues related to civil liberties, including Section 702 Government surveillance reform Facial Recognition issues Encryption issues (including issues related to the CLOUD Act) Take It Down Act (S.146, H.R.633) Intelligence Authorization Act","Fourth amendment issues Foreign Intelligence Surveillance Act issues related to civil liberties, including Section 702 Government surveillance reform Facial Recognition issues Encryption issues (including issues related to the CLOUD Act) Intelligence Authorization Act (S.2342, H.R.5167, provisions related to government surveillance) National Defense Authorization Act (S.2296, H.R.3838, provisions related to government surveillance and encryption)"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 203616,
+  "name": "PROJECT FOR PRIVACY AND SURVEILLANCE ACCOUNTABILITY, INC.",
+  "slug": "project-for-privacy-and-surveillance-accountability-inc",
+  "state": "DC",
+  "description": "Non-profit advocacy",
+  "totalSpending": 1870000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 230000
+    },
+    {
+      "year": 2020,
+      "income": 500000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 220000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 220000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "SCHAERR JAFFE LLP"
+  ],
+  "lobbyists": [
+    "ERIK JAFFE",
+    "GENE SCHAERR",
+    "JOSHUA PRINCE"
+  ],
+  "issues": [
+    "CIV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Intelligence Community Surveillance",
+    "Lobbying activities involved the prospective reauthorization of section 215 of the Foreign Intelligence Surveillance Act and amendments thereto.",
+    "Lobbying activities involved the prospective reauthorization of section 215 of the USA Patriot Act and amendments thereto.",
+    "Lobbying activities involved amendments to the Foreign Intelligence Surveillance Act and its subsequent amendments.",
+    "Lobbied for amendments to the Foreign Intelligence Surveillance Act and for strengthening 4th Amendment protections.",
+    "PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of another prospective bill, the Fourth Amendment is Not For Sale Act.",
+    "PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of the S.1265, the Fourth Amendment is Not For Sale Act and the S. 2122, the Cell Site Simulator Warrant Act.",
+    "PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of the S.1265, the Fourth Amendment is Not For Sale Act, the S. 2122, the Cell Site Simulator Warrant Act, S.3231, and the Closing the Warrantless Digital Car Search Loophole Act of 2021.",
+    "PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of S.1265, the Fourth Amendment is Not For Sale Act, S. 2122, the Cell Site Simulator Warrant Act, and S.3231, the Closing the Warrantless Digital Car Search Loophole Act of 2021, and H.R. 7072, the NDO Fairness Act.",
+    "PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of S.1265, the Fourth Amendment is Not For Sale Act, S. 2122, the Cell Site Simulator Warrant Act, and S.3231, the Closing the Warrantless Digital Car Search Loophole Act of 2021, and H.R. 7072, the NDO Fairness Act. Also lobbied for increased appropriations for The Open Technology Fund in both the House and Senate. Also lobbied to add surveillance reform amendments to the National Defense Authorization Act and the Defense Appropriations bill.",
+    "PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans, including prospective legislation not yet introduced, such as the Amici for Accountability Act and the Surveillance Oversight Improvements Act, both of which amend the Foreign Intelligence Surveillance Act to require more accountability from both the government and the Foreign Intelligence Surveillance Court. It also lobbied in favor of S.1265, the Fourth Amendment is Not For Sale Act, S. 2122, the Cell Site Simulator Warrant Act, and S.3231, the Closing the Warrantless Digital Car Search Loophole Act of 2021, and H.R. 7072, the NDO Fairness Act. Also lobbied to add surveillance reform amendments to the H.R.7776, the National Defense Authorization Act.",
+    "PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans. PPSA lobbied in favor of reforms to section 702 of the Foreign Intelligence Act. PPSA also lobbied for changes to H.R.7320 Reforming Intelligence and Securing America Act. PPSA also lobbied in favor of H.R.4250 the Press Act, H.R.4639 The Fourth Amendment is Not for Sale Act, H.R.3089/S. 4037 the NDO Fairness Act, H.R. 6262/S. 3234 the Government Surveillance Reform Act, H.R.6570 the Protecting Liberty and Ending Warrantless Surveillance Act, S. 3961 the Security and Freedom Enhancement Act. PPSA lobbied against H.R.6611/S.3351 the FISA Reform and Reauthorization Act.",
+    "PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans. PPSA lobbied in favor of reforms to section 702 of the Foreign Intelligence Act. PPSA also lobbied in favor of H.R. 4250/S.2074 the Press Act, H.R.4639 The Fourth Amendment is Not for Sale Act, and H.R. 3089/S.4037 the NDO Fairness Act. PPSA lobbied on provisions related to Section 702 of FISA for H.R.3932/S.4443 the Intelligence Authorization Act and H.R. 8070/S.4638 the National Defense Authorization Act. PPSA also lobbied on provisions related to surveillance and encryption for H.R.5893 the CJS Appropriations Act.",
+    "PPSA lobbied in favor of legislation that would protect the Fourth Amendment freedoms of Americans. PPSA lobbied in favor of reforms to section 702 of the Foreign Intelligence Surveillance Act. PPSA also lobbied in favor of H.R. 4250/S.2074 the Press Act, H.R.4639/S.2576 The Fourth Amendment is Not for Sale Act, and H.R. 3089/S.4037 the NDO Fairness Act. PPSA lobbied on provisions related to Section 702 of FISA for H.R.8512/S.4443 the Intelligence Authorization Act and H.R. 8070/S.4638 the National Defense Authorization Act. PPSA also lobbied on provisions related to surveillance and encryption for H.R.5893 the CJS Appropriations Act.",
+    "Fourth amendment issues Foreign Intelligence Surveillance Act issues related to civil liberties, including Section 702 Government surveillance reform Facial Recognition issues Encryption issues (including issues related to the CLOUD Act) Take It Down Act (S.146, H.R.633) Intelligence Authorization Act",
+    "Fourth amendment issues Foreign Intelligence Surveillance Act issues related to civil liberties, including Section 702 Government surveillance reform Facial Recognition issues Encryption issues (including issues related to the CLOUD Act) Intelligence Authorization Act (S.2342, H.R.5167, provisions related to government surveillance) National Defense Authorization Act (S.2296, H.R.3838, provisions related to government surveillance and encryption)"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -22,
+  "trajectory": "reducing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 267143,
+  "peakYear": 2020,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

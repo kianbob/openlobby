@@ -1,1 +1,91 @@
-{"id":115591,"name":"CARDINAL HEALTH, INC.","slug":"cardinal-health-inc","state":"OH","description":"Health care services company","totalSpending":1550000,"filings":21,"yearlySpending":[{"year":2018,"income":270000},{"year":2019,"income":360000},{"year":2020,"income":300000},{"year":2021,"income":440000},{"year":2022,"income":110000},{"year":2023,"income":40000},{"year":2024,"income":10000},{"year":2025,"income":20000}],"firms":["CROWELL & MORING LLP"],"lobbyists":["JAMES FLOOD","SCOTT DOUGLAS","TRACI VITEK","JERRICA MATHIS","TIMOTHY SHADYAC","KATHLEEN BEALE","STEPHEN HOLLAND","AARON CUMMINGS"],"issues":["HCR","TAX",null],"sampleDescriptions":["Health care policy impacting pharmaceutical distributors and the pharmaceutical supply chain;\nPrescription drug legislation;\nDrug takeback;\nDrug supply chain issues","Medical Device Tax","Health care policy impacting pharmaceutical distributors and the pharmaceutical supply chain;\nPrescription drug legislation;\nDrug takeback;\nDrug supply chain issues;","Health care policy impacting pharmaceutical distributors and the pharmaceutical supply chain;\nPrescription drug legislation;\nDrug takeback;\nDrug supply chain issues; \nCOVID-19 response","Issues related to COVID-19, pharmaceutical drugs and medical device supply and logistics","Issues related to COVID-19, pharmaceutical drugs and medical device supply and logistics H.R.7213, Equitable Community Access to Pharmacist Services Act and Drug Pricing","Issues related to COVID-19, pharmaceutical drugs and medical device supply and logistics Stop Drug Shortages Act discussion draft","Issues related to pharmaceutical drugs and medical devices","General health care issues"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 115591,
+  "name": "CARDINAL HEALTH, INC.",
+  "slug": "cardinal-health-inc",
+  "state": "OH",
+  "description": "Health care services company",
+  "totalSpending": 1550000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 270000
+    },
+    {
+      "year": 2019,
+      "income": 360000
+    },
+    {
+      "year": 2020,
+      "income": 300000
+    },
+    {
+      "year": 2021,
+      "income": 440000
+    },
+    {
+      "year": 2022,
+      "income": 110000
+    },
+    {
+      "year": 2023,
+      "income": 40000
+    },
+    {
+      "year": 2024,
+      "income": 10000
+    },
+    {
+      "year": 2025,
+      "income": 20000
+    }
+  ],
+  "firms": [
+    "CROWELL & MORING LLP"
+  ],
+  "lobbyists": [
+    "JAMES FLOOD",
+    "SCOTT DOUGLAS",
+    "TRACI VITEK",
+    "JERRICA MATHIS",
+    "TIMOTHY SHADYAC",
+    "KATHLEEN BEALE",
+    "STEPHEN HOLLAND",
+    "AARON CUMMINGS"
+  ],
+  "issues": [
+    "HCR",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Health care policy impacting pharmaceutical distributors and the pharmaceutical supply chain;\nPrescription drug legislation;\nDrug takeback;\nDrug supply chain issues",
+    "Medical Device Tax",
+    "Health care policy impacting pharmaceutical distributors and the pharmaceutical supply chain;\nPrescription drug legislation;\nDrug takeback;\nDrug supply chain issues;",
+    "Health care policy impacting pharmaceutical distributors and the pharmaceutical supply chain;\nPrescription drug legislation;\nDrug takeback;\nDrug supply chain issues; \nCOVID-19 response",
+    "Issues related to COVID-19, pharmaceutical drugs and medical device supply and logistics",
+    "Issues related to COVID-19, pharmaceutical drugs and medical device supply and logistics H.R.7213, Equitable Community Access to Pharmacist Services Act and Drug Pricing",
+    "Issues related to COVID-19, pharmaceutical drugs and medical device supply and logistics Stop Drug Shortages Act discussion draft",
+    "Issues related to pharmaceutical drugs and medical devices",
+    "General health care issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -93,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 193750,
+  "peakYear": 2021,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "healthcare"
+}

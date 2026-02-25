@@ -1,1 +1,81 @@
-{"id":124433,"name":"TPG","slug":"tpg","state":"TX","description":"Investments","totalSpending":2210000,"filings":25,"yearlySpending":[{"year":2018,"income":390000},{"year":2019,"income":410000},{"year":2020,"income":280000},{"year":2021,"income":460000},{"year":2022,"income":340000},{"year":2023,"income":210000},{"year":2024,"income":50000},{"year":2025,"income":70000}],"firms":["HOGAN LOVELLS US LLP"],"lobbyists":["ROBERT GLENNON","AARON CUTLER","MICHAEL BELL","EDUARDO ZAPIEN"],"issues":["TAX",null,"COM"],"sampleDescriptions":["Tax, legislative and regulatory issues of interest to the company, its partners and investors","Tax, legislative and regulatory issues of interest to the company, its partners and investors.","Transaction related to video programming.","Transaction related to video programming"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 124433,
+  "name": "TPG",
+  "slug": "tpg",
+  "state": "TX",
+  "description": "Investments",
+  "totalSpending": 2210000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 390000
+    },
+    {
+      "year": 2019,
+      "income": 410000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 460000
+    },
+    {
+      "year": 2022,
+      "income": 340000
+    },
+    {
+      "year": 2023,
+      "income": 210000
+    },
+    {
+      "year": 2024,
+      "income": 50000
+    },
+    {
+      "year": 2025,
+      "income": 70000
+    }
+  ],
+  "firms": [
+    "HOGAN LOVELLS US LLP"
+  ],
+  "lobbyists": [
+    "ROBERT GLENNON",
+    "AARON CUTLER",
+    "MICHAEL BELL",
+    "EDUARDO ZAPIEN"
+  ],
+  "issues": [
+    "TAX",
+    null,
+    "COM"
+  ],
+  "sampleDescriptions": [
+    "Tax, legislative and regulatory issues of interest to the company, its partners and investors",
+    "Tax, legislative and regulatory issues of interest to the company, its partners and investors.",
+    "Transaction related to video programming.",
+    "Transaction related to video programming"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -82,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 276250,
+  "peakYear": 2021,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 2
+}

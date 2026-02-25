@@ -1,1 +1,56 @@
-{"id":191775,"name":"PORTER AND KORVICK, P.A.","slug":"porter-and-korvick-p-a","state":"FL","description":"law firm","totalSpending":1458000,"filings":5,"yearlySpending":[{"year":2018,"income":100000},{"year":2019,"income":440000},{"year":2020,"income":918000}],"firms":["TWINLOGIC STRATEGIES, LLP"],"lobbyists":["ELIZABETH FRAZEE","SARAH DUMONT-MERCHAK","DEBRA DIXON","VERONICA O'CONNELL","GREG BARNES"],"issues":["LAW",null],"sampleDescriptions":["Changes to the Foreign Narcotics Drug Kingpin Designation Act to allow for compensation to terrorism victims.  H.R.5954 and S.2946, the Anti-Terrorism Clarification Act of 2018","Implementation of the Antiterrorism Clarification Act 2019 - Public Law No: 115-253","Amendments to Anti-terrorism statutes","Issues related to the ATA and TRIA."],"years":[2018,2019,2020]}
+{
+  "id": 191775,
+  "name": "PORTER AND KORVICK, P.A.",
+  "slug": "porter-and-korvick-p-a",
+  "state": "FL",
+  "description": "law firm",
+  "totalSpending": 1458000,
+  "filings": 5,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 100000
+    },
+    {
+      "year": 2019,
+      "income": 440000
+    },
+    {
+      "year": 2020,
+      "income": 918000
+    }
+  ],
+  "firms": [
+    "TWINLOGIC STRATEGIES, LLP"
+  ],
+  "lobbyists": [
+    "ELIZABETH FRAZEE",
+    "SARAH DUMONT-MERCHAK",
+    "DEBRA DIXON",
+    "VERONICA O'CONNELL",
+    "GREG BARNES"
+  ],
+  "issues": [
+    "LAW",
+    null
+  ],
+  "sampleDescriptions": [
+    "Changes to the Foreign Narcotics Drug Kingpin Designation Act to allow for compensation to terrorism victims.  H.R.5954 and S.2946, the Anti-Terrorism Clarification Act of 2018",
+    "Implementation of the Antiterrorism Clarification Act 2019 - Public Law No: 115-253",
+    "Amendments to Anti-terrorism statutes",
+    "Issues related to the ATA and TRIA."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "growthRate": 818,
+  "trajectory": "exploding",
+  "yearsActive": 3,
+  "avgAnnualSpending": 486000,
+  "peakYear": 2020,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1
+}

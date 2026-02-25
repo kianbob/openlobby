@@ -1,1 +1,74 @@
-{"id":137799,"name":"JBS USA FOOD COMPANY","slug":"jbs-usa-food-company","state":"CO","description":"Food processing company","totalSpending":1930000,"filings":17,"yearlySpending":[{"year":2019,"income":90000},{"year":2020,"income":120000},{"year":2022,"income":360000},{"year":2023,"income":480000},{"year":2024,"income":360000},{"year":2025,"income":520000}],"firms":["SQUIRE PATTON BOGGS"],"lobbyists":["PABLO CARRILLO","JEFFREY TURNER","DAVID SCHNITTGER","NATASHA HAMMOND","DAVID STEWART","CAREN STREET","THOMAS ANDREWS"],"issues":["AGR",null],"sampleDescriptions":["Legislative developments that could adversely affect the growth of the company's food processing business.","Advocacy on topics that include price transparency, competition, labor practices, education, sustainability, social services, health care, housing, and public services.","Advocacy on topics that include price transparency, workforce protection, education, sustainability, social services, health care, housing, and public services.","Advocacy on topics that include price transparency, competition, workforce protection, education, sustainability, social services, health care, housing, and public services."],"years":[2019,2020,2022,2023,2024,2025]}
+{
+  "id": 137799,
+  "name": "JBS USA FOOD COMPANY",
+  "slug": "jbs-usa-food-company",
+  "state": "CO",
+  "description": "Food processing company",
+  "totalSpending": 1930000,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 90000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 480000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 520000
+    }
+  ],
+  "firms": [
+    "SQUIRE PATTON BOGGS"
+  ],
+  "lobbyists": [
+    "PABLO CARRILLO",
+    "JEFFREY TURNER",
+    "DAVID SCHNITTGER",
+    "NATASHA HAMMOND",
+    "DAVID STEWART",
+    "CAREN STREET",
+    "THOMAS ANDREWS"
+  ],
+  "issues": [
+    "AGR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislative developments that could adversely affect the growth of the company's food processing business.",
+    "Advocacy on topics that include price transparency, competition, labor practices, education, sustainability, social services, health care, housing, and public services.",
+    "Advocacy on topics that include price transparency, workforce protection, education, sustainability, social services, health care, housing, and public services.",
+    "Advocacy on topics that include price transparency, competition, workforce protection, education, sustainability, social services, health care, housing, and public services."
+  ],
+  "years": [
+    2019,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 478,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 321667,
+  "peakYear": 2025,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "agriculture"
+}

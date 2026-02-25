@@ -1,1 +1,81 @@
-{"id":202437,"name":"BURFORD CAPITAL LLC","slug":"burford-capital-llc","state":"NY","description":"Finance and professional services company","totalSpending":1620000,"filings":30,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":240000},{"year":2025,"income":280000}],"firms":["KLEIN/JOHNSON GROUP"],"lobbyists":["ISRAEL KLEIN","MATTHEW JOHNSON","BRIAN GREER","KELLI BRIGGS"],"issues":["LAW",null,"TAX"],"sampleDescriptions":["- Issues related to commercial litigation finance","Issues related to commercial litigation finance","Issues related to commercial litigation finance.","H.R. 1"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202437,
+  "name": "BURFORD CAPITAL LLC",
+  "slug": "burford-capital-llc",
+  "state": "NY",
+  "description": "Finance and professional services company",
+  "totalSpending": 1620000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "KLEIN/JOHNSON GROUP"
+  ],
+  "lobbyists": [
+    "ISRAEL KLEIN",
+    "MATTHEW JOHNSON",
+    "BRIAN GREER",
+    "KELLI BRIGGS"
+  ],
+  "issues": [
+    "LAW",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "- Issues related to commercial litigation finance",
+    "Issues related to commercial litigation finance",
+    "Issues related to commercial litigation finance.",
+    "H.R. 1"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 87,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 202500,
+  "peakYear": 2025,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 2
+}

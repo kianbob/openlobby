@@ -1,1 +1,86 @@
-{"id":168181,"name":"GENENTECH, INC.","slug":"genentech-inc","state":"CA","description":"pharmaceutical and biotechnology company","totalSpending":1400000,"filings":28,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":100000},{"year":2025,"income":200000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["MICHAEL SMITH","MARK MIODUSKI","LAURA BOZELL","ERIK FATEMI","CHRISTOPHER SARLEY","TONY ESSALIH","WILLIAM SMITH","MICHAEL GOODMAN"],"issues":["HCR","BUD",null],"sampleDescriptions":["Reauthorization of the Pandemic and All-Hazards Preparedness Act and appropriations relating to influenza.","Appropriations relating to influenza","Appropriations relating to influenza.","Appropriations relating to pandemic influenza."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 168181,
+  "name": "GENENTECH, INC.",
+  "slug": "genentech-inc",
+  "state": "CA",
+  "description": "pharmaceutical and biotechnology company",
+  "totalSpending": 1400000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 100000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "MICHAEL SMITH",
+    "MARK MIODUSKI",
+    "LAURA BOZELL",
+    "ERIK FATEMI",
+    "CHRISTOPHER SARLEY",
+    "TONY ESSALIH",
+    "WILLIAM SMITH",
+    "MICHAEL GOODMAN"
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Reauthorization of the Pandemic and All-Hazards Preparedness Act and appropriations relating to influenza.",
+    "Appropriations relating to influenza",
+    "Appropriations relating to influenza.",
+    "Appropriations relating to pandemic influenza."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 175000,
+  "peakYear": 2019,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "technology"
+}

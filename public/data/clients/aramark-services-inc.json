@@ -1,1 +1,105 @@
-{"id":204913,"name":"ARAMARK SERVICES, INC.","slug":"aramark-services-inc","state":"PA","description":"Provider of food, uniform, and facilities services","totalSpending":1550000,"filings":20,"yearlySpending":[{"year":2020,"income":80000},{"year":2021,"income":190000},{"year":2022,"income":130000},{"year":2023,"income":330000},{"year":2024,"income":370000},{"year":2025,"income":450000}],"firms":["INVARIANT LLC"],"lobbyists":["HEATHER PODESTA","ANNE MACMILLAN","LANDON STROPKO","QUINCY ENOCH","CAROLYN CODA","MARY STANTON","TIMOTHY MARTIN","ADAM TARR","KEVIN DIESTELOW","JARED SONCRANT","JENNIFER JACOBY","MAIA ESTES","RYAN DOHERTY"],"issues":["DIS","AGR","TAX","HCR","MAN","BAN","CIV","EDU",null,"GOV","LBR","DEF"],"sampleDescriptions":["Educate policymakers about services provided by Aramark.","Discuss food service management issues during COVID-19.","Discuss tax, federal loans, and multiemployer pension plan issues in response to COVID-19 in H.R. 748, the CARES Act, and H.R. 6800, the HEROES Act.","Discuss hospital and other facility service providers role in COVID-19 response.","Monitor efforts to increase domestic production of PPE, including S.4578, the Make PPE in America Act, and S. 4264, the United States Manufacturing Availability of Domestic Equipment Act.","Discuss food service management issues and nutrition benefits in H.R. 748, the CARES Act; H.R. 6800, the Heroes Act; and H.R. 925, the Heroes Act (revised).","Discuss tax, federal loans, and multiemployer pension plan issues in response to COVID-19 in H.R. 748, the CARES Act; H.R. 6800, the HEROES Act; and H.R. 925, the Heroes Act (revised).","Discuss food service management issues and nutrition benefits in COVID-19 relief packages including in the American Rescue Plan Act (Public Law 117-2).","Educating policymakers on Aramarks emergency response capabilities.","Monitor proposals aimed at limiting the use of paper currency.","Monitor efforts to increase domestic production of PPE in draft legislation, including the Make PPE in America Act (draft) and the United States Manufacturing Availability of Domestic Equipment Act (draft).","Discuss tax, federal loans, and multiemployer pension plan issues in COVID-19 relief packages, including the American Rescue Plan Act (Public Law 117-2).","Highlight Aramarks existing programs to help formerly incarcerated individuals.","Discuss national school lunch program as well as COVID-related food assistance programs including in the American Rescue Plan Act (Public Law 117-2).","Monitor programs to help formerly incarcerated individuals.","Educate lawmakers on the impact of tax provisions included in the Build Back Better Act; educate policymakers on expiring business interest deductibility.","Monitor proposals aimed at limiting the use of paper currency, including the H.R. 4395, the Payment Choice Act of 2021.","Educate lawmakers on the impact of tax provisions included in H.R.5376, Build Back Better Act; educate policymakers on expiring business interest deductibility.","Discuss federal feeding programs, including national school lunch program and SNAP's impact on college students.","Monitor reentry to work programs for formerly incarcerated individuals."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 204913,
+  "name": "ARAMARK SERVICES, INC.",
+  "slug": "aramark-services-inc",
+  "state": "PA",
+  "description": "Provider of food, uniform, and facilities services",
+  "totalSpending": 1550000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 80000
+    },
+    {
+      "year": 2021,
+      "income": 190000
+    },
+    {
+      "year": 2022,
+      "income": 130000
+    },
+    {
+      "year": 2023,
+      "income": 330000
+    },
+    {
+      "year": 2024,
+      "income": 370000
+    },
+    {
+      "year": 2025,
+      "income": 450000
+    }
+  ],
+  "firms": [
+    "INVARIANT LLC"
+  ],
+  "lobbyists": [
+    "HEATHER PODESTA",
+    "ANNE MACMILLAN",
+    "LANDON STROPKO",
+    "QUINCY ENOCH",
+    "CAROLYN CODA",
+    "MARY STANTON",
+    "TIMOTHY MARTIN",
+    "ADAM TARR",
+    "KEVIN DIESTELOW",
+    "JARED SONCRANT",
+    "JENNIFER JACOBY",
+    "MAIA ESTES",
+    "RYAN DOHERTY"
+  ],
+  "issues": [
+    "DIS",
+    "AGR",
+    "TAX",
+    "HCR",
+    "MAN",
+    "BAN",
+    "CIV",
+    "EDU",
+    null,
+    "GOV",
+    "LBR",
+    "DEF"
+  ],
+  "sampleDescriptions": [
+    "Educate policymakers about services provided by Aramark.",
+    "Discuss food service management issues during COVID-19.",
+    "Discuss tax, federal loans, and multiemployer pension plan issues in response to COVID-19 in H.R. 748, the CARES Act, and H.R. 6800, the HEROES Act.",
+    "Discuss hospital and other facility service providers role in COVID-19 response.",
+    "Monitor efforts to increase domestic production of PPE, including S.4578, the Make PPE in America Act, and S. 4264, the United States Manufacturing Availability of Domestic Equipment Act.",
+    "Discuss food service management issues and nutrition benefits in H.R. 748, the CARES Act; H.R. 6800, the Heroes Act; and H.R. 925, the Heroes Act (revised).",
+    "Discuss tax, federal loans, and multiemployer pension plan issues in response to COVID-19 in H.R. 748, the CARES Act; H.R. 6800, the HEROES Act; and H.R. 925, the Heroes Act (revised).",
+    "Discuss food service management issues and nutrition benefits in COVID-19 relief packages including in the American Rescue Plan Act (Public Law 117-2).",
+    "Educating policymakers on Aramarks emergency response capabilities.",
+    "Monitor proposals aimed at limiting the use of paper currency.",
+    "Monitor efforts to increase domestic production of PPE in draft legislation, including the Make PPE in America Act (draft) and the United States Manufacturing Availability of Domestic Equipment Act (draft).",
+    "Discuss tax, federal loans, and multiemployer pension plan issues in COVID-19 relief packages, including the American Rescue Plan Act (Public Law 117-2).",
+    "Highlight Aramarks existing programs to help formerly incarcerated individuals.",
+    "Discuss national school lunch program as well as COVID-related food assistance programs including in the American Rescue Plan Act (Public Law 117-2).",
+    "Monitor programs to help formerly incarcerated individuals.",
+    "Educate lawmakers on the impact of tax provisions included in the Build Back Better Act; educate policymakers on expiring business interest deductibility.",
+    "Monitor proposals aimed at limiting the use of paper currency, including the H.R. 4395, the Payment Choice Act of 2021.",
+    "Educate lawmakers on the impact of tax provisions included in H.R.5376, Build Back Better Act; educate policymakers on expiring business interest deductibility.",
+    "Discuss federal feeding programs, including national school lunch program and SNAP's impact on college students.",
+    "Monitor reentry to work programs for formerly incarcerated individuals."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 463,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 258333,
+  "peakYear": 2025,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 11
+}

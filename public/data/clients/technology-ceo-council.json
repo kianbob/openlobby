@@ -1,1 +1,109 @@
-{"id":175453,"name":"TECHNOLOGY CEO COUNCIL","slug":"technology-ceo-council","state":"DC","description":null,"totalSpending":4350000,"filings":31,"yearlySpending":[{"year":2018,"income":430000},{"year":2019,"income":560000},{"year":2020,"income":560000},{"year":2021,"income":420000},{"year":2022,"income":840000},{"year":2023,"income":700000},{"year":2024,"income":420000},{"year":2025,"income":420000}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["BRUCE MEHLMAN","DAVID CASTAGNETTI","DAVID THOMAS","ELISE FINLEY PICKERING","CHARLES WOOTERS","SAGE EASTMAN","MICHAEL ROBINSON","STEVE HARO","ALEXANDER PERKINS","NICHOLE DISTEFANO"],"issues":["TRD","TAX","CPI","SCI","BUD","CSP",null,"TEC"],"sampleDescriptions":["Maintaining support for cross-border data flows and global market access.\nNAFTA and KORUS modernization; U.S.-China trade policies.","Comprehensive tax reform with lower rate, territorial systems for international profits and effective innovation incentives.\nImplementation of PL 115-97 (H.R 1/tax reform).","Robust cyber security policies; high-skilled immigration; improved innovation infrastructure, including more spectrum.\nH.R. 2227 - Modernizing Government Technology Act of 2017 (MGT Act) implementation.","Maintaining support for robust federal R&D.","Increasing efficiency of government through IT modernization, acquisition reform and smarter use of technology.\nH.R. 2227 - Modernizing Government Technology Act of 2017 (MGT Act) implementation.","Maintaining support for cross-border data flows and global market access.\nNAFTA and KORUS modernization; U.S.-China trade policies.\nCFIUS Modernization and export controls.\nH.R. 5841/S. 2987 - Foreign Investment Risk Review Modernization Act of 2018.","Implementation of PL 115-97 (H.R 1/tax reform).","Online privacy.","Tracking implementation of the Tax Cuts and Jobs Act (TSJA).","Maintaining support for cross-border data flows and global market access.\nUSMCA Agreement; U.S.-China trade policies.\nCFIUS modernization and export controls.","Robust cyber-security policies; high-skilled immigration and work-force training; improved innovation infrastructure, including more spectrum.","Increasing efficiency of government through IT modernization, acquisition reform and smarter use of technology.","Robust cyber-security policies; high-skilled immigration and work-force training; improved innovation infrastructure, including more spectrum for robust 5G deployment.","Tracking issues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act","Increasing efficiency of government through IT modernization, acquisition reform and smarter use of technology such as the cloud.","Robust cyber-security policies; high-skilled immigration and work-force training; improved innovation infrastructure, including more spectrum for robust 5G deployment; restoring trust in American technology companies by targeted reforms.","Tracking issues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act\nUS government response to digital tax proposals among OECD nations","Maintaining support for cross-border data flows and global market access.\nU.S.-China trade policies.\nCFIUS modernization and export controls.","Supply chain competitiveness re semiconductors & technology; Investment in smart infrastructure & deployment of 5G and broadband; Trade policies and global engagement with the EU & China; US government IT deployment & modernization; Regulation of technology platforms and services.","Supply chain competitiveness re semiconductors & technology; Investment in smart infrastructure & deployment of 5G and broadband; Trade policies and global engagement with the EU & China; US government IT deployment & modernization; Regulation of technology platforms and services. CHIPS Funding."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 175453,
+  "name": "TECHNOLOGY CEO COUNCIL",
+  "slug": "technology-ceo-council",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 4350000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 430000
+    },
+    {
+      "year": 2019,
+      "income": 560000
+    },
+    {
+      "year": 2020,
+      "income": 560000
+    },
+    {
+      "year": 2021,
+      "income": 420000
+    },
+    {
+      "year": 2022,
+      "income": 840000
+    },
+    {
+      "year": 2023,
+      "income": 700000
+    },
+    {
+      "year": 2024,
+      "income": 420000
+    },
+    {
+      "year": 2025,
+      "income": 420000
+    }
+  ],
+  "firms": [
+    "MEHLMAN CONSULTING, INC."
+  ],
+  "lobbyists": [
+    "BRUCE MEHLMAN",
+    "DAVID CASTAGNETTI",
+    "DAVID THOMAS",
+    "ELISE FINLEY PICKERING",
+    "CHARLES WOOTERS",
+    "SAGE EASTMAN",
+    "MICHAEL ROBINSON",
+    "STEVE HARO",
+    "ALEXANDER PERKINS",
+    "NICHOLE DISTEFANO"
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "CPI",
+    "SCI",
+    "BUD",
+    "CSP",
+    null,
+    "TEC"
+  ],
+  "sampleDescriptions": [
+    "Maintaining support for cross-border data flows and global market access.\nNAFTA and KORUS modernization; U.S.-China trade policies.",
+    "Comprehensive tax reform with lower rate, territorial systems for international profits and effective innovation incentives.\nImplementation of PL 115-97 (H.R 1/tax reform).",
+    "Robust cyber security policies; high-skilled immigration; improved innovation infrastructure, including more spectrum.\nH.R. 2227 - Modernizing Government Technology Act of 2017 (MGT Act) implementation.",
+    "Maintaining support for robust federal R&D.",
+    "Increasing efficiency of government through IT modernization, acquisition reform and smarter use of technology.\nH.R. 2227 - Modernizing Government Technology Act of 2017 (MGT Act) implementation.",
+    "Maintaining support for cross-border data flows and global market access.\nNAFTA and KORUS modernization; U.S.-China trade policies.\nCFIUS Modernization and export controls.\nH.R. 5841/S. 2987 - Foreign Investment Risk Review Modernization Act of 2018.",
+    "Implementation of PL 115-97 (H.R 1/tax reform).",
+    "Online privacy.",
+    "Tracking implementation of the Tax Cuts and Jobs Act (TSJA).",
+    "Maintaining support for cross-border data flows and global market access.\nUSMCA Agreement; U.S.-China trade policies.\nCFIUS modernization and export controls.",
+    "Robust cyber-security policies; high-skilled immigration and work-force training; improved innovation infrastructure, including more spectrum.",
+    "Increasing efficiency of government through IT modernization, acquisition reform and smarter use of technology.",
+    "Robust cyber-security policies; high-skilled immigration and work-force training; improved innovation infrastructure, including more spectrum for robust 5G deployment.",
+    "Tracking issues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act",
+    "Increasing efficiency of government through IT modernization, acquisition reform and smarter use of technology such as the cloud.",
+    "Robust cyber-security policies; high-skilled immigration and work-force training; improved innovation infrastructure, including more spectrum for robust 5G deployment; restoring trust in American technology companies by targeted reforms.",
+    "Tracking issues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act\nUS government response to digital tax proposals among OECD nations",
+    "Maintaining support for cross-border data flows and global market access.\nU.S.-China trade policies.\nCFIUS modernization and export controls.",
+    "Supply chain competitiveness re semiconductors & technology; Investment in smart infrastructure & deployment of 5G and broadband; Trade policies and global engagement with the EU & China; US government IT deployment & modernization; Regulation of technology platforms and services.",
+    "Supply chain competitiveness re semiconductors & technology; Investment in smart infrastructure & deployment of 5G and broadband; Trade policies and global engagement with the EU & China; US government IT deployment & modernization; Regulation of technology platforms and services. CHIPS Funding."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -2,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 543750,
+  "peakYear": 2022,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 7,
+  "industry": "technology"
+}

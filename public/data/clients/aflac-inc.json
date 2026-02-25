@@ -1,1 +1,85 @@
-{"id":102205,"name":"AFLAC, INC.","slug":"aflac-inc","state":"GA","description":"Insurance company","totalSpending":1660000,"filings":30,"yearlySpending":[{"year":2018,"income":170000},{"year":2019,"income":200000},{"year":2020,"income":190000},{"year":2021,"income":220000},{"year":2022,"income":240000},{"year":2023,"income":230000},{"year":2024,"income":170000},{"year":2025,"income":240000}],"firms":["ALSTON & BIRD LLP"],"lobbyists":["CAROLYN SMITH","EARL POMEROY","JANE LUCAS","MARK RAYDER","JAMES PALUSKIEWICZ","ALEXANDER GRAF"],"issues":["HCR","TAX",null],"sampleDescriptions":["Issues relating to voluntary health benefits.","Tax issues relating to voluntary insurance products and insurance company tax issues.","Tax issues relating to excepted benefits and insurance company tax issues.","Issues relating to excepted benefits.","Issues relating to excepted benefits; Issues relating to paid family and medical leave, including the FAMILY Act, H.R. 804 and S.248.","Issues relating to excepted benefits and insurance company tax issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 102205,
+  "name": "AFLAC, INC.",
+  "slug": "aflac-inc",
+  "state": "GA",
+  "description": "Insurance company",
+  "totalSpending": 1660000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 170000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 190000
+    },
+    {
+      "year": 2021,
+      "income": 220000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 230000
+    },
+    {
+      "year": 2024,
+      "income": 170000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "ALSTON & BIRD LLP"
+  ],
+  "lobbyists": [
+    "CAROLYN SMITH",
+    "EARL POMEROY",
+    "JANE LUCAS",
+    "MARK RAYDER",
+    "JAMES PALUSKIEWICZ",
+    "ALEXANDER GRAF"
+  ],
+  "issues": [
+    "HCR",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues relating to voluntary health benefits.",
+    "Tax issues relating to voluntary insurance products and insurance company tax issues.",
+    "Tax issues relating to excepted benefits and insurance company tax issues.",
+    "Issues relating to excepted benefits.",
+    "Issues relating to excepted benefits; Issues relating to paid family and medical leave, including the FAMILY Act, H.R. 804 and S.248.",
+    "Issues relating to excepted benefits and insurance company tax issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 41,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 207500,
+  "peakYear": 2022,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 2
+}

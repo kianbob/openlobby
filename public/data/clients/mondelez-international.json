@@ -1,1 +1,87 @@
-{"id":163095,"name":"MONDELEZ INTERNATIONAL","slug":"mondelez-international","state":"IL","description":"Global manufacturer of biscuits, cookies, chocolate, gum and beverages.","totalSpending":1470000,"filings":28,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":90000},{"year":2025,"income":120000}],"firms":["CAPITOL TAX PARTNERS, LLP"],"lobbyists":["JOSEPH MIKRUT","MELISSA MUELLER","JACOB TRIOLO","RANDOLPH HERNDON","THOMAS WEST"],"issues":["TAX",null],"sampleDescriptions":["Legislative services related to the effect of Tax Reform.","Legislative services related to the effect of Tax Reform and international tax provisions.","Legislative services related to the effect of Tax Reform and international tax provisions, and the CARES Act.","Legislative services related to the effect of Tax Reform, international tax provisions, and COVID-related legislation.","Legislative services related to the effect of Tax Reform, international tax provisions, and COVID-related legislation","Legislative services related to international tax provisions and budget reconciliation legislation.","Legislative services related to international tax provisions and budget reconciliation (Build Back Better Act) legislation.","Legislative services related to corporate and international tax provisions.","Legislative services related to corporate and international tax provisions and H.R. 1, 2025 Budget Reconciliation Bill.","Legislative services related to corporate and international tax provisions and P.L. 119-21."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 163095,
+  "name": "MONDELEZ INTERNATIONAL",
+  "slug": "mondelez-international",
+  "state": "IL",
+  "description": "Global manufacturer of biscuits, cookies, chocolate, gum and beverages.",
+  "totalSpending": 1470000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 90000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "CAPITOL TAX PARTNERS, LLP"
+  ],
+  "lobbyists": [
+    "JOSEPH MIKRUT",
+    "MELISSA MUELLER",
+    "JACOB TRIOLO",
+    "RANDOLPH HERNDON",
+    "THOMAS WEST"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislative services related to the effect of Tax Reform.",
+    "Legislative services related to the effect of Tax Reform and international tax provisions.",
+    "Legislative services related to the effect of Tax Reform and international tax provisions, and the CARES Act.",
+    "Legislative services related to the effect of Tax Reform, international tax provisions, and COVID-related legislation.",
+    "Legislative services related to the effect of Tax Reform, international tax provisions, and COVID-related legislation",
+    "Legislative services related to international tax provisions and budget reconciliation legislation.",
+    "Legislative services related to international tax provisions and budget reconciliation (Build Back Better Act) legislation.",
+    "Legislative services related to corporate and international tax provisions.",
+    "Legislative services related to corporate and international tax provisions and H.R. 1, 2025 Budget Reconciliation Bill.",
+    "Legislative services related to corporate and international tax provisions and P.L. 119-21."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -33,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 183750,
+  "peakYear": 2020,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1
+}

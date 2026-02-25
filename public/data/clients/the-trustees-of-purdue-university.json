@@ -1,1 +1,107 @@
-{"id":179173,"name":"THE TRUSTEES OF PURDUE UNIVERSITY","slug":"the-trustees-of-purdue-university","state":"IN","description":"University, higher education, research","totalSpending":1887000,"filings":27,"yearlySpending":[{"year":2018,"income":212000},{"year":2019,"income":159000},{"year":2020,"income":201000},{"year":2021,"income":325000},{"year":2022,"income":360000},{"year":2023,"income":360000},{"year":2024,"income":180000},{"year":2025,"income":90000}],"firms":["DEBORAH HOHLT"],"lobbyists":["DEBORAH HOHLT","MATTHEW SOMMER","ANNA BARTLETT"],"issues":["MAN","DEF","AGR","TAX","BUD","ENG","EDU","SCI","MED","AER","SPO","TRA",null],"sampleDescriptions":["Department of Commerce- National Institutes of Science and Technology Manufacturing Extension Partnership","H.R.2810 National Defense Authorization Act - provisions related to government contracting\nDefense Appropriations (FY18) - Army 6.2 Applied Research, Airforce 6.2 Applied Research\nDefense Appropriations (FY19) - Army 6.2 Applied Research, Airforce 6.2 Applied Research","Agriculture Appropriations - Agriculture and Food Research Initiative, Borlaug Fellowship Program, Agricultural Research Service\nFarm Bill - provisions related to education, research, and extension programming","S. 268 Investing in Student Success Act; tax treatment of Income Share Agreements\nH.R. 3145 Investing in Student Achievement Act; tax treatment of Income Share Agreements\nH.R. 1 Tax Cuts and Jobs Act; Tax reform- issues related to student finance, charitable giving","Appropriations- National Science Foundation; National Institutes of Health; Department of Energy Office of Science; Department of Energy Office of Nuclear Energy; Department of Energy Nonproliferation Research and Development University Consortia; Department of Defense Applied Research accounts; Department of Agriculture (ARS); Department of Homeland Security S&T Office of University Programs; NASA","Energy Appropriations - Office of Science; Funding for Advanced Science Computing Research (ASCR)\nAdvanced Research Projects Agency-Energy (ARPA-E)\nBasic Energy Sciences (BES) Energy Frontier Research Centers (EFRCs)\nNuclear Energy University Program (NEUP) R&D\nNonproliferation Research and Development University Consortia\nResearch partnerships with national labs","H.R. 4508 Promoting Real Opportunity, Success, and Prosperity through Education Reform Act (PROSPER Act)\nSenate Higher Education Reauthorization","FY18 & FY19 Appropriations- National Science Foundation","S. 268 Investing in Student Success Act; tax treatment of Income Share Agreements\nH.R. 3145 Investing in Student Achievement Act; tax treatment of Income Share Agreements","H.R.5515- John S. McCain National Defense Authorization Act for Fiscal Year 2019 Appropriations\nDefense (FY19)- Army 6.2 Applied Research, Airforce 6.2 Applied Research\nDefense (FY19)- Artificial Intelligence\nH.R.5515- Section 1283","Agriculture Appropriations - Agriculture and Food Research Initiative, Borlaug Fellowship Program, Agricultural Research Service\nH.R. 2 Agriculture Improvement Act of 2018 - provisions related to education, research, and extension programming","H.R. 5515 Section 1051 National Security Commission on Artificial Intelligence\nFY19 Appropriations- National Science Foundation\nNSF I-Corp Program","H.R.5515- John S. McCain National Defense Authorization Act for Fiscal Year 2019 Appropriations; Section 1283\nDefense (FY19)- Army 6.2 Applied Research, Airforce 6.2 Applied Research\nDefense (FY19)- Artificial Intelligence research funding","Agriculture Appropriations - Agriculture and Food Research Initiative, Borlaug Fellowship Program, Agricultural Research Service\nRelocation of National Institute of Food and Agriculture (NIFA) and Economic Research Service (ERS)\nH.R. 2 Agriculture Improvement Act of 2018 - provisions related to education, research, and extension programming","Energy Appropriations (FY19) - Office of Science; Funding for Advanced Science Computing Research (ASCR)\nAdvanced Research Projects Agency-Energy (ARPA-E)\nBasic Energy Sciences (BES) Energy Frontier Research Centers (EFRCs)\nNuclear Energy University Program (NEUP) R&D","National Institute on Drug Abuse - Federal opioid addiction research grants, treatment and tracking programs\nNational Institute for Food and Agriculture (NIFA) Extension programming","Defense (FY19)- Army 6.2 Applied Research, Airforce 6.2 Applied Research\nDefense (FY19)- Artificial Intelligence research funding","Energy Appropriations (FY19) - Office of Science; Funding for Advanced Science Computing Research (ASCR)\nAdvanced Research Projects Agency-Energy (ARPA-E)","H.R. 5515 Section 1051 National Security Commission on Artificial Intelligence\nFY19 Appropriations- National Science Foundation","University Research Consortium\nNASA funding - Science Mission Directorate, STEM Engagement, Space Technology Mission Directorate, Human Exploration and Operations, Space Operations, Aeronautics"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 179173,
+  "name": "THE TRUSTEES OF PURDUE UNIVERSITY",
+  "slug": "the-trustees-of-purdue-university",
+  "state": "IN",
+  "description": "University, higher education, research",
+  "totalSpending": 1887000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 212000
+    },
+    {
+      "year": 2019,
+      "income": 159000
+    },
+    {
+      "year": 2020,
+      "income": 201000
+    },
+    {
+      "year": 2021,
+      "income": 325000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 90000
+    }
+  ],
+  "firms": [
+    "DEBORAH HOHLT"
+  ],
+  "lobbyists": [
+    "DEBORAH HOHLT",
+    "MATTHEW SOMMER",
+    "ANNA BARTLETT"
+  ],
+  "issues": [
+    "MAN",
+    "DEF",
+    "AGR",
+    "TAX",
+    "BUD",
+    "ENG",
+    "EDU",
+    "SCI",
+    "MED",
+    "AER",
+    "SPO",
+    "TRA",
+    null
+  ],
+  "sampleDescriptions": [
+    "Department of Commerce- National Institutes of Science and Technology Manufacturing Extension Partnership",
+    "H.R.2810 National Defense Authorization Act - provisions related to government contracting\nDefense Appropriations (FY18) - Army 6.2 Applied Research, Airforce 6.2 Applied Research\nDefense Appropriations (FY19) - Army 6.2 Applied Research, Airforce 6.2 Applied Research",
+    "Agriculture Appropriations - Agriculture and Food Research Initiative, Borlaug Fellowship Program, Agricultural Research Service\nFarm Bill - provisions related to education, research, and extension programming",
+    "S. 268 Investing in Student Success Act; tax treatment of Income Share Agreements\nH.R. 3145 Investing in Student Achievement Act; tax treatment of Income Share Agreements\nH.R. 1 Tax Cuts and Jobs Act; Tax reform- issues related to student finance, charitable giving",
+    "Appropriations- National Science Foundation; National Institutes of Health; Department of Energy Office of Science; Department of Energy Office of Nuclear Energy; Department of Energy Nonproliferation Research and Development University Consortia; Department of Defense Applied Research accounts; Department of Agriculture (ARS); Department of Homeland Security S&T Office of University Programs; NASA",
+    "Energy Appropriations - Office of Science; Funding for Advanced Science Computing Research (ASCR)\nAdvanced Research Projects Agency-Energy (ARPA-E)\nBasic Energy Sciences (BES) Energy Frontier Research Centers (EFRCs)\nNuclear Energy University Program (NEUP) R&D\nNonproliferation Research and Development University Consortia\nResearch partnerships with national labs",
+    "H.R. 4508 Promoting Real Opportunity, Success, and Prosperity through Education Reform Act (PROSPER Act)\nSenate Higher Education Reauthorization",
+    "FY18 & FY19 Appropriations- National Science Foundation",
+    "S. 268 Investing in Student Success Act; tax treatment of Income Share Agreements\nH.R. 3145 Investing in Student Achievement Act; tax treatment of Income Share Agreements",
+    "H.R.5515- John S. McCain National Defense Authorization Act for Fiscal Year 2019 Appropriations\nDefense (FY19)- Army 6.2 Applied Research, Airforce 6.2 Applied Research\nDefense (FY19)- Artificial Intelligence\nH.R.5515- Section 1283",
+    "Agriculture Appropriations - Agriculture and Food Research Initiative, Borlaug Fellowship Program, Agricultural Research Service\nH.R. 2 Agriculture Improvement Act of 2018 - provisions related to education, research, and extension programming",
+    "H.R. 5515 Section 1051 National Security Commission on Artificial Intelligence\nFY19 Appropriations- National Science Foundation\nNSF I-Corp Program",
+    "H.R.5515- John S. McCain National Defense Authorization Act for Fiscal Year 2019 Appropriations; Section 1283\nDefense (FY19)- Army 6.2 Applied Research, Airforce 6.2 Applied Research\nDefense (FY19)- Artificial Intelligence research funding",
+    "Agriculture Appropriations - Agriculture and Food Research Initiative, Borlaug Fellowship Program, Agricultural Research Service\nRelocation of National Institute of Food and Agriculture (NIFA) and Economic Research Service (ERS)\nH.R. 2 Agriculture Improvement Act of 2018 - provisions related to education, research, and extension programming",
+    "Energy Appropriations (FY19) - Office of Science; Funding for Advanced Science Computing Research (ASCR)\nAdvanced Research Projects Agency-Energy (ARPA-E)\nBasic Energy Sciences (BES) Energy Frontier Research Centers (EFRCs)\nNuclear Energy University Program (NEUP) R&D",
+    "National Institute on Drug Abuse - Federal opioid addiction research grants, treatment and tracking programs\nNational Institute for Food and Agriculture (NIFA) Extension programming",
+    "Defense (FY19)- Army 6.2 Applied Research, Airforce 6.2 Applied Research\nDefense (FY19)- Artificial Intelligence research funding",
+    "Energy Appropriations (FY19) - Office of Science; Funding for Advanced Science Computing Research (ASCR)\nAdvanced Research Projects Agency-Energy (ARPA-E)",
+    "H.R. 5515 Section 1051 National Security Commission on Artificial Intelligence\nFY19 Appropriations- National Science Foundation",
+    "University Research Consortium\nNASA funding - Science Mission Directorate, STEM Engagement, Space Technology Mission Directorate, Human Exploration and Operations, Space Operations, Aeronautics"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -58,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 235875,
+  "peakYear": 2022,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 12,
+  "industry": "education"
+}

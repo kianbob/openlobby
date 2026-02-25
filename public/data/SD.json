@@ -1,1 +1,329 @@
-{"abbreviation":"SD","name":"South Dakota","totalSpending":33138685.650000002,"totalFilings":1674,"clientCount":69,"yearlySpending":[{"year":2018,"income":2135000},{"year":2019,"income":2600000},{"year":2020,"income":2976000},{"year":2021,"income":2832000},{"year":2022,"income":3978083.55},{"year":2023,"income":10025423.1},{"year":2024,"income":4223154},{"year":2025,"income":4369025}],"topClients":[{"name":"SANFORD HEALTH","income":4600000},{"name":"POET LLC","income":2140000},{"name":"FLANDREAU SANTEE SIOUX TRIBE","income":1749125},{"name":"SOUTH DAKOTA STATE UNIVERSITY","income":1570000},{"name":"OGLALA SIOUX TRIBE","income":1391460.6500000001},{"name":"MEDGENE LABS","income":1360000},{"name":"SOUTH DAKOTA SCIENCE & TECHNOLOGY AUTHORITY","income":1320000},{"name":"EMPIRICAL FOODS (FKA BEEF PRODUCTS INC.)","income":1237500},{"name":"THE EVANGELICAL LUTHERAN GOOD SAMARITAN SOCIETY","income":1160000},{"name":"PATHWARD, NATIONAL ASSOCIATION (FKA PATHWARD (FORMERLY METABANK, N.A.))","income":1140000},{"name":"NDN COLLECTIVE","income":1123100},{"name":"NORTHWESTERN ENERGY","income":1060000},{"name":"PATHWARD, N.A.","income":1040000},{"name":"SILENCER CENTRAL","income":1014000},{"name":"METABANK","income":1010000},{"name":"PREMIER BANKCARD, LLC","income":996000},{"name":"AMERICAN COALITION FOR ETHANOL","income":970000},{"name":"SOUTH DAKOTA ELLSWORTH DEVELOPMENT AUTHORITY","income":908000},{"name":"HEARTLAND ENERGY (FORMERLY KNOWN AS HEARTLAND CONSUMERS POWER DISTRICT)","income":790000},{"name":"SISSETON-WAHPETON OYATE","income":720000},{"name":"LEWIS & CLARK RURAL WATER SYSTEM","income":710000},{"name":"ROSEBUD SIOUX TRIBE","income":700000},{"name":"CHEYENNE RIVER SIOUX TRIBE","income":630000},{"name":"WAKPAMNI LAKE COMMUNITY CORPORATION - ARROWHEAD ADVANCE","income":617500},{"name":"INNOVATIVE MATERIALS & PROCESSES","income":320000},{"name":"VRC","income":278000},{"name":"SOUTH DAKOTA CORN GROWERS ASSOCIATION","income":230000},{"name":"SOUTH DAKOTA BIOTECH ASSOCIATION","income":225000},{"name":"AVERA HEALTH","income":210000},{"name":"STATE OF SOUTH DAKOTA (OFFICE OF THE GOVERNOR)","income":200000},{"name":"DR. WILLARD'S PLANT CATALYST (PLANTCATALYST)","income":183000},{"name":"MILLBORN SEEDS","income":180000},{"name":"VRC METAL SYSTEMS","income":167500},{"name":"SAB BIOTHERAPEUTICS, INC.","income":140000},{"name":"DAKTRONICS, INC.","income":120000},{"name":"ROSENBAUER AMERICA LLC","income":110000},{"name":"CROW CREEK SIOUX TRIBE","income":90000},{"name":"LEWIS & CLARK REGIONAL WATER SYSTEM","income":70000},{"name":"OGLALA SIOUX (LAKOTA) HOUSING","income":70000},{"name":"YANKTON SIOUX TRIBE","income":70000},{"name":"JAMES VALLEY WIRELESS","income":70000},{"name":"OGLALA LAKOTA HOUSING AUTHORITY","income":60000},{"name":"WEB WATER DEVELOPMENT ASSOCIATION","income":60000},{"name":"TODD COUNTY, SOUTH DAKOTA","income":60000},{"name":"NATIVE CDFI NETWORK","income":40000},{"name":"NATIONAL MUSIC MUSEUM","income":40000},{"name":"SICANGU WICOTI AWANYAKAPE CORP.","income":35000},{"name":"LOWER BRULE CORPORATION","income":30000},{"name":"THE SUMMIT LEAGUE","income":26000},{"name":"OFFICE OF THE GOVERNOR, STATE OF SOUTH DAKOTA","income":20000}],"topIssues":[{"code":"BUD","income":6548000},{"code":"AGR","income":6405500},{"code":"IND","income":5648474.1},{"code":"MMM","income":4510000},{"code":"BAN","income":3584079},{"code":"HCR","income":3355000},{"code":"ENG","income":2670000},{"code":"FIN","income":2201000},{"code":"IMM","income":1980000},{"code":"TEC","income":1920000},{"code":"TAX","income":1390000},{"code":"DEF","income":1322500},{"code":"MED","income":1250000},{"code":"DIS","income":1190000},{"code":"FUE","income":1180000},{"code":"SCI","income":1125000},{"code":"ANI","income":1100000},{"code":"AVI","income":940000},{"code":"VET","income":940000},{"code":"EDU","income":826000}]}
+{
+  "abbreviation": "SD",
+  "name": "South Dakota",
+  "totalSpending": 33138685.650000002,
+  "totalFilings": 1674,
+  "clientCount": 69,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 2135000
+    },
+    {
+      "year": 2019,
+      "income": 2600000
+    },
+    {
+      "year": 2020,
+      "income": 2976000
+    },
+    {
+      "year": 2021,
+      "income": 2832000
+    },
+    {
+      "year": 2022,
+      "income": 3978083.55
+    },
+    {
+      "year": 2023,
+      "income": 10025423.1
+    },
+    {
+      "year": 2024,
+      "income": 4223154
+    },
+    {
+      "year": 2025,
+      "income": 4369025
+    }
+  ],
+  "topClients": [
+    {
+      "name": "SANFORD HEALTH",
+      "income": 4600000
+    },
+    {
+      "name": "POET LLC",
+      "income": 2140000
+    },
+    {
+      "name": "FLANDREAU SANTEE SIOUX TRIBE",
+      "income": 1749125
+    },
+    {
+      "name": "SOUTH DAKOTA STATE UNIVERSITY",
+      "income": 1570000
+    },
+    {
+      "name": "OGLALA SIOUX TRIBE",
+      "income": 1391460.6500000001
+    },
+    {
+      "name": "MEDGENE LABS",
+      "income": 1360000
+    },
+    {
+      "name": "SOUTH DAKOTA SCIENCE & TECHNOLOGY AUTHORITY",
+      "income": 1320000
+    },
+    {
+      "name": "EMPIRICAL FOODS (FKA BEEF PRODUCTS INC.)",
+      "income": 1237500
+    },
+    {
+      "name": "THE EVANGELICAL LUTHERAN GOOD SAMARITAN SOCIETY",
+      "income": 1160000
+    },
+    {
+      "name": "PATHWARD, NATIONAL ASSOCIATION (FKA PATHWARD (FORMERLY METABANK, N.A.))",
+      "income": 1140000
+    },
+    {
+      "name": "NDN COLLECTIVE",
+      "income": 1123100
+    },
+    {
+      "name": "NORTHWESTERN ENERGY",
+      "income": 1060000
+    },
+    {
+      "name": "PATHWARD, N.A.",
+      "income": 1040000
+    },
+    {
+      "name": "SILENCER CENTRAL",
+      "income": 1014000
+    },
+    {
+      "name": "METABANK",
+      "income": 1010000
+    },
+    {
+      "name": "PREMIER BANKCARD, LLC",
+      "income": 996000
+    },
+    {
+      "name": "AMERICAN COALITION FOR ETHANOL",
+      "income": 970000
+    },
+    {
+      "name": "SOUTH DAKOTA ELLSWORTH DEVELOPMENT AUTHORITY",
+      "income": 908000
+    },
+    {
+      "name": "HEARTLAND ENERGY (FORMERLY KNOWN AS HEARTLAND CONSUMERS POWER DISTRICT)",
+      "income": 790000
+    },
+    {
+      "name": "SISSETON-WAHPETON OYATE",
+      "income": 720000
+    },
+    {
+      "name": "LEWIS & CLARK RURAL WATER SYSTEM",
+      "income": 710000
+    },
+    {
+      "name": "ROSEBUD SIOUX TRIBE",
+      "income": 700000
+    },
+    {
+      "name": "CHEYENNE RIVER SIOUX TRIBE",
+      "income": 630000
+    },
+    {
+      "name": "WAKPAMNI LAKE COMMUNITY CORPORATION - ARROWHEAD ADVANCE",
+      "income": 617500
+    },
+    {
+      "name": "INNOVATIVE MATERIALS & PROCESSES",
+      "income": 320000
+    },
+    {
+      "name": "VRC",
+      "income": 278000
+    },
+    {
+      "name": "SOUTH DAKOTA CORN GROWERS ASSOCIATION",
+      "income": 230000
+    },
+    {
+      "name": "SOUTH DAKOTA BIOTECH ASSOCIATION",
+      "income": 225000
+    },
+    {
+      "name": "AVERA HEALTH",
+      "income": 210000
+    },
+    {
+      "name": "STATE OF SOUTH DAKOTA (OFFICE OF THE GOVERNOR)",
+      "income": 200000
+    },
+    {
+      "name": "DR. WILLARD'S PLANT CATALYST (PLANTCATALYST)",
+      "income": 183000
+    },
+    {
+      "name": "MILLBORN SEEDS",
+      "income": 180000
+    },
+    {
+      "name": "VRC METAL SYSTEMS",
+      "income": 167500
+    },
+    {
+      "name": "SAB BIOTHERAPEUTICS, INC.",
+      "income": 140000
+    },
+    {
+      "name": "DAKTRONICS, INC.",
+      "income": 120000
+    },
+    {
+      "name": "ROSENBAUER AMERICA LLC",
+      "income": 110000
+    },
+    {
+      "name": "CROW CREEK SIOUX TRIBE",
+      "income": 90000
+    },
+    {
+      "name": "LEWIS & CLARK REGIONAL WATER SYSTEM",
+      "income": 70000
+    },
+    {
+      "name": "OGLALA SIOUX (LAKOTA) HOUSING",
+      "income": 70000
+    },
+    {
+      "name": "YANKTON SIOUX TRIBE",
+      "income": 70000
+    },
+    {
+      "name": "JAMES VALLEY WIRELESS",
+      "income": 70000
+    },
+    {
+      "name": "OGLALA LAKOTA HOUSING AUTHORITY",
+      "income": 60000
+    },
+    {
+      "name": "WEB WATER DEVELOPMENT ASSOCIATION",
+      "income": 60000
+    },
+    {
+      "name": "TODD COUNTY, SOUTH DAKOTA",
+      "income": 60000
+    },
+    {
+      "name": "NATIVE CDFI NETWORK",
+      "income": 40000
+    },
+    {
+      "name": "NATIONAL MUSIC MUSEUM",
+      "income": 40000
+    },
+    {
+      "name": "SICANGU WICOTI AWANYAKAPE CORP.",
+      "income": 35000
+    },
+    {
+      "name": "LOWER BRULE CORPORATION",
+      "income": 30000
+    },
+    {
+      "name": "THE SUMMIT LEAGUE",
+      "income": 26000
+    },
+    {
+      "name": "OFFICE OF THE GOVERNOR, STATE OF SOUTH DAKOTA",
+      "income": 20000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 6548000
+    },
+    {
+      "code": "AGR",
+      "income": 6405500
+    },
+    {
+      "code": "IND",
+      "income": 5648474.1
+    },
+    {
+      "code": "MMM",
+      "income": 4510000
+    },
+    {
+      "code": "BAN",
+      "income": 3584079
+    },
+    {
+      "code": "HCR",
+      "income": 3355000
+    },
+    {
+      "code": "ENG",
+      "income": 2670000
+    },
+    {
+      "code": "FIN",
+      "income": 2201000
+    },
+    {
+      "code": "IMM",
+      "income": 1980000
+    },
+    {
+      "code": "TEC",
+      "income": 1920000
+    },
+    {
+      "code": "TAX",
+      "income": 1390000
+    },
+    {
+      "code": "DEF",
+      "income": 1322500
+    },
+    {
+      "code": "MED",
+      "income": 1250000
+    },
+    {
+      "code": "DIS",
+      "income": 1190000
+    },
+    {
+      "code": "FUE",
+      "income": 1180000
+    },
+    {
+      "code": "SCI",
+      "income": 1125000
+    },
+    {
+      "code": "ANI",
+      "income": 1100000
+    },
+    {
+      "code": "AVI",
+      "income": 940000
+    },
+    {
+      "code": "VET",
+      "income": 940000
+    },
+    {
+      "code": "EDU",
+      "income": 826000
+    }
+  ],
+  "perCapita": 58.75,
+  "population": 919318,
+  "nationalRank": 39,
+  "perCapitaRank": 13
+}

@@ -1,1 +1,110 @@
-{"id":199115,"name":"AMERICAN HOTEL & LODGING ASSOCIATION","slug":"american-hotel-lodging-association","state":"DC","description":"Hotel and Lodging Trade Association","totalSpending":1690000,"filings":29,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":120000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":190000}],"firms":["FIERCE GOVERNMENT RELATIONS"],"lobbyists":["WILLIAM BLALOCK","MICHAEL CHAPPELL","KIRSTEN CHADWICK","ALEIX JARVIS","KATE HULL","WILLIAM PIPER","TYLER STEPHENS","ERIC ZULKOSKY","PATRICK CLIFTON","JACOBUS VREEBURG"],"issues":["CSP","TOU","HOU","LBR","IMM","DIS","TAX","GOV",null,"SMB"],"sampleDescriptions":["H.R.2495 - Stop Online Booking Scams Act of 2017, S.1164 - Stop Online Booking Scams Act of 2017","Issues related to Short-Term Rentals","Lodging Issues","HR 3441- The Save our Local Business Act","Lodging Issues, Travel Data, Per Diems, H.R. 5515- John S. McCain National Defense Authorization Act for Fiscal Year 2019","HR 3441- The Save our Local Business Act, NLRB Nominations, Joint Employer, Human Trafficking, H.R. 6776- Department of Homeland Security Appropriations Act, 2019- Harris Amendment- H2B Visas","Per Diems, H.R. 5515- John S. McCain National Defense Authorization Act for Fiscal Year 2019","Issues related to Short-Term Rentals, State of the Industry, H.R.6618 - JOLT Act of 2018","Issues related to Short-Term Rentals, Travel Promotion Programs, State of the Hotel Industry","Stop Online Booking Scams Act","Immigration Reform","Issues related to Short-Term Rentals, Travel Promotion Programs, State of the Hotel Industry, Digital Trade issues related to Short-Term Rentals","Issues related to Short-Term Rentals, Travel Promotion Programs, Digital Trade issues related to Short-Term Rentals, Brand USA","Stop Online Booking Scams Act, Issues related to online travel, consumer deception and competition","Issues related to Short-Term Rentals, Travel Promotion Programs, Brand USA, H.R.4232 - Protecting Local Authority and Neighborhoods Act, S.1919 - Yes In My Backyard Act, Resort Fees, Human Trafficking","H.R.3956 - Stop Online Booking Scams Act of 2019, S.2229 - Stop Online Booking Scams Act of 2019, Issues related to online travel, consumer deception and competition","Issues related to Short-Term Rentals, H.R.4232 - Protecting Local Authority and Neighborhoods Act, Human Trafficking, USMCA - Intermediary Liability","H.R. 2474- Protecting the Right to Organize Act of 2019","COVID-19 Response, H.R. 6201- Families First Coronavirus Response Act, H.R. 748- CARES Act, Essential Critical Infrastructure Workers","Issues related to the H-2B Visa program"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199115,
+  "name": "AMERICAN HOTEL & LODGING ASSOCIATION",
+  "slug": "american-hotel-lodging-association",
+  "state": "DC",
+  "description": "Hotel and Lodging Trade Association",
+  "totalSpending": 1690000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 190000
+    }
+  ],
+  "firms": [
+    "FIERCE GOVERNMENT RELATIONS"
+  ],
+  "lobbyists": [
+    "WILLIAM BLALOCK",
+    "MICHAEL CHAPPELL",
+    "KIRSTEN CHADWICK",
+    "ALEIX JARVIS",
+    "KATE HULL",
+    "WILLIAM PIPER",
+    "TYLER STEPHENS",
+    "ERIC ZULKOSKY",
+    "PATRICK CLIFTON",
+    "JACOBUS VREEBURG"
+  ],
+  "issues": [
+    "CSP",
+    "TOU",
+    "HOU",
+    "LBR",
+    "IMM",
+    "DIS",
+    "TAX",
+    "GOV",
+    null,
+    "SMB"
+  ],
+  "sampleDescriptions": [
+    "H.R.2495 - Stop Online Booking Scams Act of 2017, S.1164 - Stop Online Booking Scams Act of 2017",
+    "Issues related to Short-Term Rentals",
+    "Lodging Issues",
+    "HR 3441- The Save our Local Business Act",
+    "Lodging Issues, Travel Data, Per Diems, H.R. 5515- John S. McCain National Defense Authorization Act for Fiscal Year 2019",
+    "HR 3441- The Save our Local Business Act, NLRB Nominations, Joint Employer, Human Trafficking, H.R. 6776- Department of Homeland Security Appropriations Act, 2019- Harris Amendment- H2B Visas",
+    "Per Diems, H.R. 5515- John S. McCain National Defense Authorization Act for Fiscal Year 2019",
+    "Issues related to Short-Term Rentals, State of the Industry, H.R.6618 - JOLT Act of 2018",
+    "Issues related to Short-Term Rentals, Travel Promotion Programs, State of the Hotel Industry",
+    "Stop Online Booking Scams Act",
+    "Immigration Reform",
+    "Issues related to Short-Term Rentals, Travel Promotion Programs, State of the Hotel Industry, Digital Trade issues related to Short-Term Rentals",
+    "Issues related to Short-Term Rentals, Travel Promotion Programs, Digital Trade issues related to Short-Term Rentals, Brand USA",
+    "Stop Online Booking Scams Act, Issues related to online travel, consumer deception and competition",
+    "Issues related to Short-Term Rentals, Travel Promotion Programs, Brand USA, H.R.4232 - Protecting Local Authority and Neighborhoods Act, S.1919 - Yes In My Backyard Act, Resort Fees, Human Trafficking",
+    "H.R.3956 - Stop Online Booking Scams Act of 2019, S.2229 - Stop Online Booking Scams Act of 2019, Issues related to online travel, consumer deception and competition",
+    "Issues related to Short-Term Rentals, H.R.4232 - Protecting Local Authority and Neighborhoods Act, Human Trafficking, USMCA - Intermediary Liability",
+    "H.R. 2474- Protecting the Right to Organize Act of 2019",
+    "COVID-19 Response, H.R. 6201- Families First Coronavirus Response Act, H.R. 748- CARES Act, Essential Critical Infrastructure Workers",
+    "Issues related to the H-2B Visa program"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -21,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 211250,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 9
+}

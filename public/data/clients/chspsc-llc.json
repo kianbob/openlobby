@@ -1,1 +1,85 @@
-{"id":212044,"name":"CHSPSC, LLC","slug":"chspsc-llc","state":"TN","description":"Healthcare","totalSpending":1560000,"filings":17,"yearlySpending":[{"year":2021,"income":80000},{"year":2022,"income":320000},{"year":2023,"income":410000},{"year":2024,"income":390000},{"year":2025,"income":360000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["ZACHARY PFISTER","BRIAN MCGUIRE","CHARLYN IOVINO","ADAM STEINMETZ","LAURA BOLLIER","SAMANTHA CARL-YODER","DAVID REID","LEAH DEMPSEY","HEATHER WADYKA","MARK WARREN","LAUREN MISH","DEEMA TARAZI","SAGE SCHAFTEL"],"issues":["HCR",null,"TAX"],"sampleDescriptions":["Issues related to healthcare policy","Issues related to healthcare policy, Covid-19 relief, visas\nIssues related to telemedicine\nProvider relief fund\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act","Issues related to healthcare policy, Covid-19 relief, visas Issues related to telemedicine Provider relief fund H.R.5376 - Build Back Better Act","Issues related to healthcare policy, Covid-19 relief, visas Issues related to telemedicine Provider relief fund H.R.5376 - Build Back Better Act Issues related to Infrastructure Investment and Jobs Act (PL 117-58) implementation Issues related to medical debt","Issues related to healthcare policy, Covid-19 relief, visas Issues related to telemedicine Provider relief fund Rural extenders Issues related to medical debt","Issues related to healthcare policy Issues related to telemedicine Rural extenders Issues related to Medicare reimbursement","Section 163(j) interest limitation","Issues related to healthcare policy Issues related to telemedicine Rural extenders Issues related to Medicare reimbursement Emergency response in relation to healthcare facilities Issues related to healthcare facility locations","Issues related to healthcare policy Rural extenders Issues related to Medicare reimbursement Emergency response in relation to healthcare facilities Issues related to healthcare facility locations","TCJA Extension","Issues related to healthcare policy Rural extenders Issues related to Medicare reimbursement Issues related to healthcare facility locations Medicaid provider tax State directed payments","TCJA Extension H.R.1 One Big Beautiful Bill","H.R.1 implementation","P.L. 119-21 (H.R. 1): One Big Beautiful Bill implementation"],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 212044,
+  "name": "CHSPSC, LLC",
+  "slug": "chspsc-llc",
+  "state": "TN",
+  "description": "Healthcare",
+  "totalSpending": 1560000,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 80000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 410000
+    },
+    {
+      "year": 2024,
+      "income": 390000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "ZACHARY PFISTER",
+    "BRIAN MCGUIRE",
+    "CHARLYN IOVINO",
+    "ADAM STEINMETZ",
+    "LAURA BOLLIER",
+    "SAMANTHA CARL-YODER",
+    "DAVID REID",
+    "LEAH DEMPSEY",
+    "HEATHER WADYKA",
+    "MARK WARREN",
+    "LAUREN MISH",
+    "DEEMA TARAZI",
+    "SAGE SCHAFTEL"
+  ],
+  "issues": [
+    "HCR",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "Issues related to healthcare policy",
+    "Issues related to healthcare policy, Covid-19 relief, visas\nIssues related to telemedicine\nProvider relief fund\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act",
+    "Issues related to healthcare policy, Covid-19 relief, visas Issues related to telemedicine Provider relief fund H.R.5376 - Build Back Better Act",
+    "Issues related to healthcare policy, Covid-19 relief, visas Issues related to telemedicine Provider relief fund H.R.5376 - Build Back Better Act Issues related to Infrastructure Investment and Jobs Act (PL 117-58) implementation Issues related to medical debt",
+    "Issues related to healthcare policy, Covid-19 relief, visas Issues related to telemedicine Provider relief fund Rural extenders Issues related to medical debt",
+    "Issues related to healthcare policy Issues related to telemedicine Rural extenders Issues related to Medicare reimbursement",
+    "Section 163(j) interest limitation",
+    "Issues related to healthcare policy Issues related to telemedicine Rural extenders Issues related to Medicare reimbursement Emergency response in relation to healthcare facilities Issues related to healthcare facility locations",
+    "Issues related to healthcare policy Rural extenders Issues related to Medicare reimbursement Emergency response in relation to healthcare facilities Issues related to healthcare facility locations",
+    "TCJA Extension",
+    "Issues related to healthcare policy Rural extenders Issues related to Medicare reimbursement Issues related to healthcare facility locations Medicaid provider tax State directed payments",
+    "TCJA Extension H.R.1 One Big Beautiful Bill",
+    "H.R.1 implementation",
+    "P.L. 119-21 (H.R. 1): One Big Beautiful Bill implementation"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 350,
+  "trajectory": "exploding",
+  "yearsActive": 5,
+  "avgAnnualSpending": 312000,
+  "peakYear": 2023,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 2
+}

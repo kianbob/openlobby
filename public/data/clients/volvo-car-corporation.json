@@ -1,1 +1,111 @@
-{"id":186709,"name":"VOLVO CAR CORPORATION","slug":"volvo-car-corporation","state":"DC","description":"Manufacturers Motor Vehicles","totalSpending":1550000,"filings":31,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":250000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["KOUNTOUPES DENHAM CARR & REID, LLC"],"lobbyists":["DAVID PELUSO","LORI DENHAM","MARY REID","LISA KOUNTOUPES","JULIE CARR","CLAYTON HAYES","DENISE MOUSOURIS","DENISE NORTHRUP","ADAM HECHAVARRIA","MARY BEAL"],"issues":["TRD","FUE","MAN","AUT","TEC","TAX","LBR","BUD","TRA",null,"SCI"],"sampleDescriptions":["Issues related to trade that affect the auto industry.","Issues related to fuel economy, CAFE standards, and renewable fuels.","Issues related to the manufacturing of automobiles.","Issues related to vehicle safety, fuel economy, manufacturing, energy, and technology.","Issues related to autonomous vehicles, the Internet of Things (IoT), safety technology and consumer privacy, including H. R. 3388, The Safely Ensuring Lives Future Deployment and Research in Vehicle Evolution Act (SELF DRIVE Act) and S. 1885, The American Vision for Safer Transportation through Advancement of Revolutionary Technologies Act (AV START Act).","Issues related to international trade and competitiveness including tariffs that affect the auto industry.","Issues related to vehicle safety, fuel economy, manufacturing, energy and technology.","Issues related to autonomous vehicles, the Internet of Things (IoT), safety technology and consumer privacy.","Issues related to the electric vehicle tax credit.","Issues related to fuel economy and CAFE standards.","Issues related to the manufacturing of automobiles.  Issues related to the federal response to the COVID-19 pandemic.","Issues related to vehicle safety, fuel economy, manufacturing, energy and technology.  Issues related to the federal response to the COVID-19 pandemic.","Issues related to the federal response to the COVID-19 pandemic and the extension of employee benefits.","Issues related to international trade and competitiveness that affect the auto industry.","Issues related to the tax extender provisions in H.R. 133, Consolidated Appropriations Act for Fiscal Year 2021.","Issues related to international trade competitiveness that affect the auto industry.","Issues related to infrastructure and the surface transportation reauthorization.","Issues related to autonomous vehicles, the Internet of Things (IoT), safety technology, semiconductor shortage and consumer privacy.","Issues related to infrastructure and the surface transportation reauthorization, including H.R.1931, The Surface Transportation Reauthorization Act; H.R. 3684, INVEST in America Act; and the Bipartisan Infrastructure Framework.","Issues related to infrastructure and the surface transportation reauthorization, including H.R.1931, The Surface Transportation Reauthorization Act and H.R. 3684, The Infrastructure Investment and Jobs Act of 2021."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 186709,
+  "name": "VOLVO CAR CORPORATION",
+  "slug": "volvo-car-corporation",
+  "state": "DC",
+  "description": "Manufacturers Motor Vehicles",
+  "totalSpending": 1550000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 250000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "KOUNTOUPES DENHAM CARR & REID, LLC"
+  ],
+  "lobbyists": [
+    "DAVID PELUSO",
+    "LORI DENHAM",
+    "MARY REID",
+    "LISA KOUNTOUPES",
+    "JULIE CARR",
+    "CLAYTON HAYES",
+    "DENISE MOUSOURIS",
+    "DENISE NORTHRUP",
+    "ADAM HECHAVARRIA",
+    "MARY BEAL"
+  ],
+  "issues": [
+    "TRD",
+    "FUE",
+    "MAN",
+    "AUT",
+    "TEC",
+    "TAX",
+    "LBR",
+    "BUD",
+    "TRA",
+    null,
+    "SCI"
+  ],
+  "sampleDescriptions": [
+    "Issues related to trade that affect the auto industry.",
+    "Issues related to fuel economy, CAFE standards, and renewable fuels.",
+    "Issues related to the manufacturing of automobiles.",
+    "Issues related to vehicle safety, fuel economy, manufacturing, energy, and technology.",
+    "Issues related to autonomous vehicles, the Internet of Things (IoT), safety technology and consumer privacy, including H. R. 3388, The Safely Ensuring Lives Future Deployment and Research in Vehicle Evolution Act (SELF DRIVE Act) and S. 1885, The American Vision for Safer Transportation through Advancement of Revolutionary Technologies Act (AV START Act).",
+    "Issues related to international trade and competitiveness including tariffs that affect the auto industry.",
+    "Issues related to vehicle safety, fuel economy, manufacturing, energy and technology.",
+    "Issues related to autonomous vehicles, the Internet of Things (IoT), safety technology and consumer privacy.",
+    "Issues related to the electric vehicle tax credit.",
+    "Issues related to fuel economy and CAFE standards.",
+    "Issues related to the manufacturing of automobiles.  Issues related to the federal response to the COVID-19 pandemic.",
+    "Issues related to vehicle safety, fuel economy, manufacturing, energy and technology.  Issues related to the federal response to the COVID-19 pandemic.",
+    "Issues related to the federal response to the COVID-19 pandemic and the extension of employee benefits.",
+    "Issues related to international trade and competitiveness that affect the auto industry.",
+    "Issues related to the tax extender provisions in H.R. 133, Consolidated Appropriations Act for Fiscal Year 2021.",
+    "Issues related to international trade competitiveness that affect the auto industry.",
+    "Issues related to infrastructure and the surface transportation reauthorization.",
+    "Issues related to autonomous vehicles, the Internet of Things (IoT), safety technology, semiconductor shortage and consumer privacy.",
+    "Issues related to infrastructure and the surface transportation reauthorization, including H.R.1931, The Surface Transportation Reauthorization Act; H.R. 3684, INVEST in America Act; and the Bipartisan Infrastructure Framework.",
+    "Issues related to infrastructure and the surface transportation reauthorization, including H.R.1931, The Surface Transportation Reauthorization Act and H.R. 3684, The Infrastructure Investment and Jobs Act of 2021."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 193750,
+  "peakYear": 2019,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 10
+}

@@ -1,1 +1,76 @@
-{"id":176343,"name":"SPARTANBURG REGIONAL HEALTHCARE SYSTEM","slug":"spartanburg-regional-healthcare-system","state":"SC","description":"Healthcare Regional Hospital","totalSpending":1800000,"filings":28,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":120000},{"year":2025,"income":360000}],"firms":["NELSON MULLINS RILEY & SCARBOROUGH"],"lobbyists":["DAVID WILKINS"],"issues":["HCR",null],"sampleDescriptions":["Healthcare legislation","Healthcare Legislation"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 176343,
+  "name": "SPARTANBURG REGIONAL HEALTHCARE SYSTEM",
+  "slug": "spartanburg-regional-healthcare-system",
+  "state": "SC",
+  "description": "Healthcare Regional Hospital",
+  "totalSpending": 1800000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "NELSON MULLINS RILEY & SCARBOROUGH"
+  ],
+  "lobbyists": [
+    "DAVID WILKINS"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Healthcare legislation",
+    "Healthcare Legislation"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 50,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 225000,
+  "peakYear": 2025,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

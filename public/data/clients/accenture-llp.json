@@ -1,1 +1,116 @@
-{"id":182951,"name":"ACCENTURE, LLP","slug":"accenture-llp","state":"DC","description":"Business management consulting","totalSpending":1540000,"filings":28,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":120000},{"year":2020,"income":120000},{"year":2021,"income":280000},{"year":2022,"income":320000},{"year":2023,"income":230000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["MONUMENT ADVOCACY"],"lobbyists":["JOSEPH HOEFER","ANDREW HOWELL","KATHRYN MILLS","CHAN PARK","E. ASHLEY HOY","ANDERSON HEIMAN","BRIANNA JONES","CHARLES VERDERY","KIMBERLY ELLIS","RICH THOMAS","JOHN MULLIGAN","LAWRENCE DUNCAN","STACEY HUTCHINSON","JEFFREY GARY","ANDREW LOCK","TATYANA BOLTON"],"issues":["CPI","TEC","ENV","ENG","IND","CIV","HOM","IMM","LBR",null],"sampleDescriptions":["Issues related to cyber security","Issues related to artificial intelligence; S. 2217; H.R. 4625 Future of AI Act; H.R. 5356 National Security AI Act","Issues related to artificial intelligence; S.2217; H.R.4625 Future of AI Act; H.R.5356 National Security AI Act","Issues related to artificial intelligence, data privacy, quantum computing, blockchain","Issues related to cybersecurity","Issues related to sustainability","Issues related to Bulk Power Executive Order","Issues related to Native American History Month","Issues related to cybersecurity and privacy","Issues related to sustainability; climate change and environmental justice","Issues related to diversity and inclusion; accessibility","Issues related to artificial intelligence, data privacy","Issues related to artificial intelligence; data privacy; quantum computing","Issues related to sustainability; climate change","Issues related to clean energy","Issues related to cybersecurity; privacy; ransomware; cryptocurrency","Issues related to diversity and inclusion","Issues related to artificial intelligence; data privacy","Issues related to artificial intelligence; Section 230","Afghan refugees"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 182951,
+  "name": "ACCENTURE, LLP",
+  "slug": "accenture-llp",
+  "state": "DC",
+  "description": "Business management consulting",
+  "totalSpending": 1540000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 120000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 280000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 230000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "MONUMENT ADVOCACY"
+  ],
+  "lobbyists": [
+    "JOSEPH HOEFER",
+    "ANDREW HOWELL",
+    "KATHRYN MILLS",
+    "CHAN PARK",
+    "E. ASHLEY HOY",
+    "ANDERSON HEIMAN",
+    "BRIANNA JONES",
+    "CHARLES VERDERY",
+    "KIMBERLY ELLIS",
+    "RICH THOMAS",
+    "JOHN MULLIGAN",
+    "LAWRENCE DUNCAN",
+    "STACEY HUTCHINSON",
+    "JEFFREY GARY",
+    "ANDREW LOCK",
+    "TATYANA BOLTON"
+  ],
+  "issues": [
+    "CPI",
+    "TEC",
+    "ENV",
+    "ENG",
+    "IND",
+    "CIV",
+    "HOM",
+    "IMM",
+    "LBR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to cyber security",
+    "Issues related to artificial intelligence; S. 2217; H.R. 4625 Future of AI Act; H.R. 5356 National Security AI Act",
+    "Issues related to artificial intelligence; S.2217; H.R.4625 Future of AI Act; H.R.5356 National Security AI Act",
+    "Issues related to artificial intelligence, data privacy, quantum computing, blockchain",
+    "Issues related to cybersecurity",
+    "Issues related to sustainability",
+    "Issues related to Bulk Power Executive Order",
+    "Issues related to Native American History Month",
+    "Issues related to cybersecurity and privacy",
+    "Issues related to sustainability; climate change and environmental justice",
+    "Issues related to diversity and inclusion; accessibility",
+    "Issues related to artificial intelligence, data privacy",
+    "Issues related to artificial intelligence; data privacy; quantum computing",
+    "Issues related to sustainability; climate change",
+    "Issues related to clean energy",
+    "Issues related to cybersecurity; privacy; ransomware; cryptocurrency",
+    "Issues related to diversity and inclusion",
+    "Issues related to artificial intelligence; data privacy",
+    "Issues related to artificial intelligence; Section 230",
+    "Afghan refugees"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 25,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 192500,
+  "peakYear": 2022,
+  "lobbyistCount": 16,
+  "firmCount": 1,
+  "issueCount": 9
+}

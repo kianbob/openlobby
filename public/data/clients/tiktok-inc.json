@@ -1,1 +1,99 @@
-{"id":204738,"name":"TIKTOK INC.","slug":"tiktok-inc","state":"CA","description":"Internet technology company","totalSpending":1400000,"filings":17,"yearlySpending":[{"year":2020,"income":390000},{"year":2021,"income":240000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":130000}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["DEAN ROSEN","DAVID THOMAS","ELISE FINLEY PICKERING","DAVID CASTAGNETTI","BRUCE MEHLMAN","SAGE EASTMAN","LAUREN ARONSON","MICHAEL ROBINSON","CONSTANTINE HINGSON","STEVE HARO","HELEN TOLAR","NICHOLE DISTEFANO","MCKENZIE BRICE","PAUL THORNELL","STEPHEN COTE","ALEXANDER PERKINS","VICTORIA FLOOD","ROSEMARY GUTIERREZ","ZACHARY MALLOVE","LISA GOLDMAN"],"issues":["CPI","CSP",null,"TRD"],"sampleDescriptions":["General issues affecting internet companies","H.R. 1140, the Rights for Transportation Security Officers Act of 2020\n\nIssues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.","H.R. 1140, the Rights for Transportation Security Officers Act of 2020\nIssues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.\nS. 4049, National Defense Authorization Act for Fiscal Year 2021 (Senate NDAA bill)\nH.R. 6395, National Defense Authorization Act for Fiscal Year 2021 (House NDAA bill)\nH.R. 2, Moving Forward Act (House Dems infrastructure bill)\nIssues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, Section 230, data protection, and supporting communities","Proposals to modify Section 230 of the Communications Decency Act.","Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.\nS. 4049, National Defense Authorization Act for Fiscal Year 2021 (Senate NDAA bill)\nH.R. 6395, National Defense Authorization Act for Fiscal Year 2021 (House NDAA bill)\nH.R. 2, Moving Forward Act (House Dems infrastructure bill)\nIssues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, Section 230, data protection, and supporting communities","Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.","Proposals to modify Section 230 of the Communications Decency Act. \nNational Defense Authorization Act.","Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.\nU.S. Innovation and Competition Act (S. 1260).\nH.R. 3524, Ensuring American Global Leadership and Engagement Act.","Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.\nS. 1260/H.R. 2731 - U.S. Innovation and Competition Act.","Proposals to modify Section 230 of the Communications Decency Act. \nS. 1605/H.R. 4350 - National Defense Authorization Act for FY2022.","Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. S. 1260/H.R. 2731 - U.S. Innovation and Competition Act.","Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. Bipartisan Innovation Act Conference (S.1260/H.R. 4521). H.R. 8152 - American Data Privacy and Protection Act. Monitor National Defense Authorization Act 2023 (H.R. 7900).","Proposals to modify Section 230 of the Communications Decency Act. H.R. 8152 - American Data Privacy and Protection Act.","Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. H.R. 8152 - American Data Privacy and Protection Act. Monitor National Defense Authorization Act 2023 (H.R. 7900). H.R. 4346 - the CHIPS and Science Act of 2022, P.L. 117-167.","Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. H.R. 8152 - American Data Privacy and Protection Act. Monitor P.L. 117-263, the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023.","Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. Monitor artificial intelligence proposals.","Proposals to modify Section 230 of the Communications Decency Act. H.R. 7521 - Protecting Americans from Foreign Adversary Controlled Applications Act. Monitoring e-commerce related issues.","Monitor S.686, RESTRICT Act. U.S. export control policy.","U.S. export control policy."],"years":[2020,2021,2022,2023,2024]}
+{
+  "id": 204738,
+  "name": "TIKTOK INC.",
+  "slug": "tiktok-inc",
+  "state": "CA",
+  "description": "Internet technology company",
+  "totalSpending": 1400000,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 390000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 130000
+    }
+  ],
+  "firms": [
+    "MEHLMAN CONSULTING, INC."
+  ],
+  "lobbyists": [
+    "DEAN ROSEN",
+    "DAVID THOMAS",
+    "ELISE FINLEY PICKERING",
+    "DAVID CASTAGNETTI",
+    "BRUCE MEHLMAN",
+    "SAGE EASTMAN",
+    "LAUREN ARONSON",
+    "MICHAEL ROBINSON",
+    "CONSTANTINE HINGSON",
+    "STEVE HARO",
+    "HELEN TOLAR",
+    "NICHOLE DISTEFANO",
+    "MCKENZIE BRICE",
+    "PAUL THORNELL",
+    "STEPHEN COTE",
+    "ALEXANDER PERKINS",
+    "VICTORIA FLOOD",
+    "ROSEMARY GUTIERREZ",
+    "ZACHARY MALLOVE",
+    "LISA GOLDMAN"
+  ],
+  "issues": [
+    "CPI",
+    "CSP",
+    null,
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "General issues affecting internet companies",
+    "H.R. 1140, the Rights for Transportation Security Officers Act of 2020\n\nIssues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.",
+    "H.R. 1140, the Rights for Transportation Security Officers Act of 2020\nIssues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.\nS. 4049, National Defense Authorization Act for Fiscal Year 2021 (Senate NDAA bill)\nH.R. 6395, National Defense Authorization Act for Fiscal Year 2021 (House NDAA bill)\nH.R. 2, Moving Forward Act (House Dems infrastructure bill)\nIssues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, Section 230, data protection, and supporting communities",
+    "Proposals to modify Section 230 of the Communications Decency Act.",
+    "Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.\nS. 4049, National Defense Authorization Act for Fiscal Year 2021 (Senate NDAA bill)\nH.R. 6395, National Defense Authorization Act for Fiscal Year 2021 (House NDAA bill)\nH.R. 2, Moving Forward Act (House Dems infrastructure bill)\nIssues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, Section 230, data protection, and supporting communities",
+    "Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.",
+    "Proposals to modify Section 230 of the Communications Decency Act. \nNational Defense Authorization Act.",
+    "Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.\nU.S. Innovation and Competition Act (S. 1260).\nH.R. 3524, Ensuring American Global Leadership and Engagement Act.",
+    "Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities.\nS. 1260/H.R. 2731 - U.S. Innovation and Competition Act.",
+    "Proposals to modify Section 230 of the Communications Decency Act. \nS. 1605/H.R. 4350 - National Defense Authorization Act for FY2022.",
+    "Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. S. 1260/H.R. 2731 - U.S. Innovation and Competition Act.",
+    "Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. Bipartisan Innovation Act Conference (S.1260/H.R. 4521). H.R. 8152 - American Data Privacy and Protection Act. Monitor National Defense Authorization Act 2023 (H.R. 7900).",
+    "Proposals to modify Section 230 of the Communications Decency Act. H.R. 8152 - American Data Privacy and Protection Act.",
+    "Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. H.R. 8152 - American Data Privacy and Protection Act. Monitor National Defense Authorization Act 2023 (H.R. 7900). H.R. 4346 - the CHIPS and Science Act of 2022, P.L. 117-167.",
+    "Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. H.R. 8152 - American Data Privacy and Protection Act. Monitor P.L. 117-263, the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023.",
+    "Issues related to entertainment apps and digital platforms including privacy, content moderation, cyber security, protecting children, data protection and supporting communities. Monitor artificial intelligence proposals.",
+    "Proposals to modify Section 230 of the Communications Decency Act. H.R. 7521 - Protecting Americans from Foreign Adversary Controlled Applications Act. Monitoring e-commerce related issues.",
+    "Monitor S.686, RESTRICT Act. U.S. export control policy.",
+    "U.S. export control policy."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -67,
+  "trajectory": "declining",
+  "yearsActive": 5,
+  "avgAnnualSpending": 280000,
+  "peakYear": 2020,
+  "lobbyistCount": 20,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

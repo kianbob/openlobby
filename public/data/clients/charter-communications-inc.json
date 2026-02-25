@@ -1,1 +1,100 @@
-{"id":194391,"name":"CHARTER COMMUNICATIONS INC.","slug":"charter-communications-inc","state":"DC","description":"Telecommunications","totalSpending":1350000,"filings":28,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":140000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":150000}],"firms":["EMPIRE CONSULTING GROUP"],"lobbyists":["MIKE MCKAY","CHAKA BURGESS","LAVITA LEGRYS","E. GARRETT","MIKE MULLEN","EBONY MEEKS-LAIDLEY","BRIAN GREER"],"issues":["LBR","COM",null],"sampleDescriptions":["Labor relations issues/IBEW strike and issues related to diversity and inclusion.","Merger between Charter Communications, Time Warner Cable and Brighthouse Networks; proposals relating to Net Neutrality (Reversal of Title II classification); and Consolidated Appropriations Act, 2018 (provisions related to the telecommunications industry).","Issues related to labor relations and IBEW strike.","Issues related to merger of Charter Communications, Time Warner Cable and Brighthouse Networks; proposals relating to H.Res 873-Net Neutrality discharge petition; issues related to privacy; and issues related to diversity and inclusion.","Issues related to merger of Charter Communications, Time Warner Cable and Brighthouse Networks; H.Res 873-Net Neutrality discharge petition; and issues related to privacy.","Labor relations with IBEW.","Issues related to merger of Charter Communications, Time Warner Cable and Brighthouse Networks; issues related to privacy.","Issues relating to labor relations with IBEW.","Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; privacy; net neutrality.","Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; privacy; net neutrality and diversity and inclusion.","Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; \"robocalls\" legislation; issues related to net neutrality, privacy, and diversity in programming.","Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; issues related to diversity in programming, privacy and broadband access.","Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; FCC Pledge on Broadband Service; issues related to diversity in programming, issues related to privacy; S.3695-CONNECT at Home Act; HR 7302-Accessible, Affordable Internet for All Act; HR 2-Invest in a New Vision for the Environment & Surface Transportation in America Act (\"Moving Forward Act\").","Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; FCC Pledge on Broadband Service; and issues related to diversity in programming.","Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; FCC Pledge on Broadband Service; issues related to diversity in programming; OMNI/COVID bill and other proposals and issues related to COVID-19.","Issues related to broadband policy; infrastructure proposals and issues; FCC Pledge; and issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks.","Issues related to broadband policy; infrastructure proposals; FCC Pledge; Emergency Broadband Benefit Program; and issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks.","Issues related to broadband policy; Bipartisan Infrastructure Investment & Jobs Act and related proposals; corporate taxation; and workforce related issues.","Issues related to broadband and infrastructure.","Issues related to broadband deployment and infrastructure."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 194391,
+  "name": "CHARTER COMMUNICATIONS INC.",
+  "slug": "charter-communications-inc",
+  "state": "DC",
+  "description": "Telecommunications",
+  "totalSpending": 1350000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 140000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "EMPIRE CONSULTING GROUP"
+  ],
+  "lobbyists": [
+    "MIKE MCKAY",
+    "CHAKA BURGESS",
+    "LAVITA LEGRYS",
+    "E. GARRETT",
+    "MIKE MULLEN",
+    "EBONY MEEKS-LAIDLEY",
+    "BRIAN GREER"
+  ],
+  "issues": [
+    "LBR",
+    "COM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Labor relations issues/IBEW strike and issues related to diversity and inclusion.",
+    "Merger between Charter Communications, Time Warner Cable and Brighthouse Networks; proposals relating to Net Neutrality (Reversal of Title II classification); and Consolidated Appropriations Act, 2018 (provisions related to the telecommunications industry).",
+    "Issues related to labor relations and IBEW strike.",
+    "Issues related to merger of Charter Communications, Time Warner Cable and Brighthouse Networks; proposals relating to H.Res 873-Net Neutrality discharge petition; issues related to privacy; and issues related to diversity and inclusion.",
+    "Issues related to merger of Charter Communications, Time Warner Cable and Brighthouse Networks; H.Res 873-Net Neutrality discharge petition; and issues related to privacy.",
+    "Labor relations with IBEW.",
+    "Issues related to merger of Charter Communications, Time Warner Cable and Brighthouse Networks; issues related to privacy.",
+    "Issues relating to labor relations with IBEW.",
+    "Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; privacy; net neutrality.",
+    "Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; privacy; net neutrality and diversity and inclusion.",
+    "Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; \"robocalls\" legislation; issues related to net neutrality, privacy, and diversity in programming.",
+    "Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; issues related to diversity in programming, privacy and broadband access.",
+    "Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; FCC Pledge on Broadband Service; issues related to diversity in programming, issues related to privacy; S.3695-CONNECT at Home Act; HR 7302-Accessible, Affordable Internet for All Act; HR 2-Invest in a New Vision for the Environment & Surface Transportation in America Act (\"Moving Forward Act\").",
+    "Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; FCC Pledge on Broadband Service; and issues related to diversity in programming.",
+    "Issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks; FCC Pledge on Broadband Service; issues related to diversity in programming; OMNI/COVID bill and other proposals and issues related to COVID-19.",
+    "Issues related to broadband policy; infrastructure proposals and issues; FCC Pledge; and issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks.",
+    "Issues related to broadband policy; infrastructure proposals; FCC Pledge; Emergency Broadband Benefit Program; and issues related to the merger of Charter Communications, Time Warner Cable and Bright House Networks.",
+    "Issues related to broadband policy; Bipartisan Infrastructure Investment & Jobs Act and related proposals; corporate taxation; and workforce related issues.",
+    "Issues related to broadband and infrastructure.",
+    "Issues related to broadband deployment and infrastructure."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -6,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 168750,
+  "peakYear": 2020,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 2
+}

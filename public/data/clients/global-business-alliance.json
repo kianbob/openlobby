@@ -1,1 +1,112 @@
-{"id":155985,"name":"GLOBAL BUSINESS ALLIANCE","slug":"global-business-alliance","state":"DC","description":"non-profit business association","totalSpending":1730000,"filings":32,"yearlySpending":[{"year":2018,"income":230000},{"year":2019,"income":240000},{"year":2020,"income":220000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":240000},{"year":2025,"income":200000}],"firms":["OGR"],"lobbyists":["TUCKER SHUMACK","KARISSA WILLHITE","GORDON TAYLOR","MICHAEL BUCHANAN","CONRAD LASS","CHRIS GIBLIN","STANTON BULLOCK","TODD NOVASCONE","DEAN AGUILLEN","AMY ANDRYSZAK","ALISSA CLEES","MOSES MERCADO","JEROME MURRAY","JENNIFER DAULBY"],"issues":["GOV","TRD","HOM","TAX","ECN","FOR","BAN",null],"sampleDescriptions":["Monitor developments in rules related to federal procurement.","Issues related to the renegotiation of the North American Free Trade Agreement (NAFTA).\nIssues related to international trade.","Issues related to the Committee on Foreign Investment in the United States (CFIUS); S.2098/H.R.4311, Foreign Investment Risk Review Modernization Act of 2017; H.R.5040, Export Control Reform Act of 2018.  \nLegislation reforming the Foreign Agents Registration Act; S.2482, Foreign Agents Registration Amendments Act of 2018; S.2039/H.R.4170, Disclosing Foreign Influence Act.","Implementation of H.R.1, Tax Cuts and Jobs Act (P.L.115-97).\nIssues related to Treasury regulation on Section 385.","Foreign direct investments impacting the U.S. economy.\nGlobal Investment in America Caucus.","Issues related to income tax treaties.","Monitor developments in rules related to federal procurement.\nDiscussions related to government programs available to the industry.","Issues related to the Committee on Foreign Investment in the United States (CFIUS); S.2098/H.R.4311, Foreign Investment Risk Review Modernization Act of 2017; H.R.5040, Export Control Reform Act of 2018; H.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019. \nLegislation reforming the Foreign Agents Registration Act; S.2482, Foreign Agents Registration Amendments Act of 2018; S.2039/H.R.4170, Disclosing Foreign Influence Act.","Issues related to the renegotiation of the North American Free Trade Agreement (NAFTA).\nIssues related to international trade.\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019.","Issues related to the Committee on Foreign Investment in the United States (CFIUS); S.2098/H.R.4311, Foreign Investment Risk Review Modernization Act of 2017; H.R.5040, Export Control Reform Act of 2018; H.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232). \nLegislation reforming the Foreign Agents Registration Act; S.2482, Foreign Agents Registration Amendments Act of 2018; S.2039/H.R.4170, Disclosing Foreign Influence Act.","Issues related to the renegotiation of the North American Free Trade Agreement (NAFTA).\nIssues related to international trade.\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232).","Issues related to the United States-Mexico-Canada Agreement (USMCA).\nIssues related to international trade.\nImplementation of H.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232).","Foreign direct investments impacting the U.S. economy.\nGlobal Investment in America Caucus.\nInfrastructure related issues.","Issues related to the Committee on Foreign Investment in the United States (CFIUS); implementation of the Foreign Investment Risk Review Modernization Act of 2018; H.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232). \nLegislation reforming the Foreign Agents Registration Act; S.2482, Foreign Agents Registration Amendments Act of 2018; S.2039/H.R.4170, Disclosing Foreign Influence Act.","Implementation of Tax Cuts and Jobs Act (P.L.115-97).\nIssues related to Treasury regulation on Section 385.","Committee on Foreign Investment in the United States (CFIUS) issues including implementation of Foreign Investment Risk Review Modernization Act (FIRRMA).\nLegislation reforming the Foreign Agents Registration Act (FARA); H.R.1, For the People Act of 2019.","Issues related to the United States-Mexico-Canada Agreement (USMCA).\nIssues related to international trade.","Committee on Foreign Investment in the United States (CFIUS) issues including implementation of Foreign Investment Risk Review Modernization Act (FIRRMA).\nLegislation reforming the Foreign Agents Registration Act (FARA); H.R.1, For the People Act of 2019; S.1762, Foreign Agents Disclosure and Registration Enhancement Act of 2019.","Issues related to the United States-Mexico-Canada Agreement (USMCA); H.R.5430, United States-Mexico-Canada Agreement Implementation Act.\nIssues related to international trade.","Issues related to income tax treaties; Treaty Document 113-4 (Spain); Treaty Doc. 112-1 (Swiss Confederation); Treaty Doc. 114-1 (Japan); Treaty Doc. 111-8 (Luxembourg).\nCommittee on Foreign Investment in the United States (CFIUS) issues including implementation of Foreign Investment Risk Review Modernization Act (FIRRMA).\nLegislation reforming the Foreign Agents Registration Act (FARA); H.R.1, For the People Act of 2019; S.1762, Foreign Agents Disclosure and Registration Enhancement Act of 2019.\nH.R.4617, SHIELD Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 155985,
+  "name": "GLOBAL BUSINESS ALLIANCE",
+  "slug": "global-business-alliance",
+  "state": "DC",
+  "description": "non-profit business association",
+  "totalSpending": 1730000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 230000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 220000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "OGR"
+  ],
+  "lobbyists": [
+    "TUCKER SHUMACK",
+    "KARISSA WILLHITE",
+    "GORDON TAYLOR",
+    "MICHAEL BUCHANAN",
+    "CONRAD LASS",
+    "CHRIS GIBLIN",
+    "STANTON BULLOCK",
+    "TODD NOVASCONE",
+    "DEAN AGUILLEN",
+    "AMY ANDRYSZAK",
+    "ALISSA CLEES",
+    "MOSES MERCADO",
+    "JEROME MURRAY",
+    "JENNIFER DAULBY"
+  ],
+  "issues": [
+    "GOV",
+    "TRD",
+    "HOM",
+    "TAX",
+    "ECN",
+    "FOR",
+    "BAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Monitor developments in rules related to federal procurement.",
+    "Issues related to the renegotiation of the North American Free Trade Agreement (NAFTA).\nIssues related to international trade.",
+    "Issues related to the Committee on Foreign Investment in the United States (CFIUS); S.2098/H.R.4311, Foreign Investment Risk Review Modernization Act of 2017; H.R.5040, Export Control Reform Act of 2018.  \nLegislation reforming the Foreign Agents Registration Act; S.2482, Foreign Agents Registration Amendments Act of 2018; S.2039/H.R.4170, Disclosing Foreign Influence Act.",
+    "Implementation of H.R.1, Tax Cuts and Jobs Act (P.L.115-97).\nIssues related to Treasury regulation on Section 385.",
+    "Foreign direct investments impacting the U.S. economy.\nGlobal Investment in America Caucus.",
+    "Issues related to income tax treaties.",
+    "Monitor developments in rules related to federal procurement.\nDiscussions related to government programs available to the industry.",
+    "Issues related to the Committee on Foreign Investment in the United States (CFIUS); S.2098/H.R.4311, Foreign Investment Risk Review Modernization Act of 2017; H.R.5040, Export Control Reform Act of 2018; H.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019. \nLegislation reforming the Foreign Agents Registration Act; S.2482, Foreign Agents Registration Amendments Act of 2018; S.2039/H.R.4170, Disclosing Foreign Influence Act.",
+    "Issues related to the renegotiation of the North American Free Trade Agreement (NAFTA).\nIssues related to international trade.\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019.",
+    "Issues related to the Committee on Foreign Investment in the United States (CFIUS); S.2098/H.R.4311, Foreign Investment Risk Review Modernization Act of 2017; H.R.5040, Export Control Reform Act of 2018; H.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232). \nLegislation reforming the Foreign Agents Registration Act; S.2482, Foreign Agents Registration Amendments Act of 2018; S.2039/H.R.4170, Disclosing Foreign Influence Act.",
+    "Issues related to the renegotiation of the North American Free Trade Agreement (NAFTA).\nIssues related to international trade.\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232).",
+    "Issues related to the United States-Mexico-Canada Agreement (USMCA).\nIssues related to international trade.\nImplementation of H.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232).",
+    "Foreign direct investments impacting the U.S. economy.\nGlobal Investment in America Caucus.\nInfrastructure related issues.",
+    "Issues related to the Committee on Foreign Investment in the United States (CFIUS); implementation of the Foreign Investment Risk Review Modernization Act of 2018; H.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232). \nLegislation reforming the Foreign Agents Registration Act; S.2482, Foreign Agents Registration Amendments Act of 2018; S.2039/H.R.4170, Disclosing Foreign Influence Act.",
+    "Implementation of Tax Cuts and Jobs Act (P.L.115-97).\nIssues related to Treasury regulation on Section 385.",
+    "Committee on Foreign Investment in the United States (CFIUS) issues including implementation of Foreign Investment Risk Review Modernization Act (FIRRMA).\nLegislation reforming the Foreign Agents Registration Act (FARA); H.R.1, For the People Act of 2019.",
+    "Issues related to the United States-Mexico-Canada Agreement (USMCA).\nIssues related to international trade.",
+    "Committee on Foreign Investment in the United States (CFIUS) issues including implementation of Foreign Investment Risk Review Modernization Act (FIRRMA).\nLegislation reforming the Foreign Agents Registration Act (FARA); H.R.1, For the People Act of 2019; S.1762, Foreign Agents Disclosure and Registration Enhancement Act of 2019.",
+    "Issues related to the United States-Mexico-Canada Agreement (USMCA); H.R.5430, United States-Mexico-Canada Agreement Implementation Act.\nIssues related to international trade.",
+    "Issues related to income tax treaties; Treaty Document 113-4 (Spain); Treaty Doc. 112-1 (Swiss Confederation); Treaty Doc. 114-1 (Japan); Treaty Doc. 111-8 (Luxembourg).\nCommittee on Foreign Investment in the United States (CFIUS) issues including implementation of Foreign Investment Risk Review Modernization Act (FIRRMA).\nLegislation reforming the Foreign Agents Registration Act (FARA); H.R.1, For the People Act of 2019; S.1762, Foreign Agents Disclosure and Registration Enhancement Act of 2019.\nH.R.4617, SHIELD Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -13,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 216250,
+  "peakYear": 2019,
+  "lobbyistCount": 14,
+  "firmCount": 1,
+  "issueCount": 7
+}

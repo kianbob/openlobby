@@ -1,1 +1,106 @@
-{"id":199140,"name":"UNION PACIFIC","slug":"union-pacific","state":"DC","description":"Railroad Company","totalSpending":1550000,"filings":31,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["FIERCE GOVERNMENT RELATIONS"],"lobbyists":["ALEIX JARVIS","KATE HULL","WILLIAM PIPER","TYLER STEPHENS","ERIC ZULKOSKY","WILLIAM BLALOCK","KIRSTEN CHADWICK","MICHAEL CHAPPELL","PATRICK CLIFTON","JACOBUS VREEBURG"],"issues":["TRD","TRA",null,"ENV","TAX","RRR"],"sampleDescriptions":["NAFTA","FAA Reauthorization - Tower Siting","NAFTA/USMCA","General Rail Issues, Nominations","General Rail Issues, Positive Train Control Implementation, H.R. 1748- Safe Freight Act of 2019","USMCA, Steel Tariffs","General Rail Issues, Rural Broadband, Nominations, H.R. 1748- Safe Freight Act of 2019","Nominations, General Rail Issues, 2-Man Crew, S. 2302- America's Transportation Infrastructure Act of 2019","Nominations, Issues related to economic regulations","H.R. 6201- Families First Coronavirus Response Act, 2 Man Crew, Precision Schedule Railroading, Nominations","2 Man Crew, Nominations, H.R. 2- INVEST in America Act","Nominations, Issues relating to border infrastructure, Issues related to natural disaster recovery, H.R. 7821- Worker Relief and Security Act of 2020, S. 4361- Worker Relief and Security Act of 2020, Issues related to the Staggers Act","Nominations","2-Man Crew, Surface Transportation Reauthorization, Rail Passenger Fairness Act, Infrastructure","2-Man Crew, Infrastructure, Train Crew Mask Mandate","2-Man Crew, COVID-19 Recovery, H.R.3684 - Infrastructure Investment and Jobs Act, Railroad Competition Issues","Vaccine Mandate Issues, Nominations","Nominations, Railroad Industry Issues, S. 3580- Ocean Shipping Reform Act","Railroad Industry Issues, Rail Service Issues, S.1260 - United States Innovation and Competition Act of 2021, H.R.4521 - America COMPETES Act of 2022, S.1658 - PUMP for Nursing Mothers Act","Railroad Industry Issues, H.R.8649 - Freight Rail Shipping Fair Market Act, Issues relating to Presidential Emergency Board and National Rail-Labor Negotiations under the Railway Labor Act, H.J.Res.95 - To provide for the resolution of issues in a railway labor-management dispute, and for other purposes, S.J.Res.61 - A joint resolution to provide for the resolution of issues in a railway labor-management dispute, and for other purposes"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199140,
+  "name": "UNION PACIFIC",
+  "slug": "union-pacific",
+  "state": "DC",
+  "description": "Railroad Company",
+  "totalSpending": 1550000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "FIERCE GOVERNMENT RELATIONS"
+  ],
+  "lobbyists": [
+    "ALEIX JARVIS",
+    "KATE HULL",
+    "WILLIAM PIPER",
+    "TYLER STEPHENS",
+    "ERIC ZULKOSKY",
+    "WILLIAM BLALOCK",
+    "KIRSTEN CHADWICK",
+    "MICHAEL CHAPPELL",
+    "PATRICK CLIFTON",
+    "JACOBUS VREEBURG"
+  ],
+  "issues": [
+    "TRD",
+    "TRA",
+    null,
+    "ENV",
+    "TAX",
+    "RRR"
+  ],
+  "sampleDescriptions": [
+    "NAFTA",
+    "FAA Reauthorization - Tower Siting",
+    "NAFTA/USMCA",
+    "General Rail Issues, Nominations",
+    "General Rail Issues, Positive Train Control Implementation, H.R. 1748- Safe Freight Act of 2019",
+    "USMCA, Steel Tariffs",
+    "General Rail Issues, Rural Broadband, Nominations, H.R. 1748- Safe Freight Act of 2019",
+    "Nominations, General Rail Issues, 2-Man Crew, S. 2302- America's Transportation Infrastructure Act of 2019",
+    "Nominations, Issues related to economic regulations",
+    "H.R. 6201- Families First Coronavirus Response Act, 2 Man Crew, Precision Schedule Railroading, Nominations",
+    "2 Man Crew, Nominations, H.R. 2- INVEST in America Act",
+    "Nominations, Issues relating to border infrastructure, Issues related to natural disaster recovery, H.R. 7821- Worker Relief and Security Act of 2020, S. 4361- Worker Relief and Security Act of 2020, Issues related to the Staggers Act",
+    "Nominations",
+    "2-Man Crew, Surface Transportation Reauthorization, Rail Passenger Fairness Act, Infrastructure",
+    "2-Man Crew, Infrastructure, Train Crew Mask Mandate",
+    "2-Man Crew, COVID-19 Recovery, H.R.3684 - Infrastructure Investment and Jobs Act, Railroad Competition Issues",
+    "Vaccine Mandate Issues, Nominations",
+    "Nominations, Railroad Industry Issues, S. 3580- Ocean Shipping Reform Act",
+    "Railroad Industry Issues, Rail Service Issues, S.1260 - United States Innovation and Competition Act of 2021, H.R.4521 - America COMPETES Act of 2022, S.1658 - PUMP for Nursing Mothers Act",
+    "Railroad Industry Issues, H.R.8649 - Freight Rail Shipping Fair Market Act, Issues relating to Presidential Emergency Board and National Rail-Labor Negotiations under the Railway Labor Act, H.J.Res.95 - To provide for the resolution of issues in a railway labor-management dispute, and for other purposes, S.J.Res.61 - A joint resolution to provide for the resolution of issues in a railway labor-management dispute, and for other purposes"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 193750,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 5
+}

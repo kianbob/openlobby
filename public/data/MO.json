@@ -1,1 +1,329 @@
-{"abbreviation":"MO","name":"Missouri","totalSpending":184960580,"totalFilings":7777,"clientCount":431,"yearlySpending":[{"year":2018,"income":15376716},{"year":2019,"income":18635300},{"year":2020,"income":19643202},{"year":2021,"income":18994632},{"year":2022,"income":21691500},{"year":2023,"income":44457000},{"year":2024,"income":20202897},{"year":2025,"income":25959333}],"topClients":[{"name":"AIR EVAC LIFETEAM","income":7110000},{"name":"CHARTER COMMUNICATIONS OPERATING, LLC","income":5290000},{"name":"ENTERPRISE HOLDINGS, INC. DBA ENTERPRISE MOBILITY","income":4290000},{"name":"EDWARD D. JONES & CO., L.P.","income":3620000},{"name":"MORTGAGE RESEARCH CENTER, LLC","income":2860000},{"name":"AMERICAN ASSOCIATION OF BIOANALYSTS","income":2740000},{"name":"ASCENSION HEALTH ALLIANCE","income":2630000},{"name":"BURNS & MCDONNELL ENGINEERING COMPANY INC","income":2590000},{"name":"WHOLESALE & SPECIALTY INSURANCE ASSOCIATION","income":2570000},{"name":"CENTENE CORPORATION","income":2307000},{"name":"ANHEUSER-BUSCH COMPANIES, INC.","income":2300000},{"name":"HAWTHORN FOUNDATION","income":2070000},{"name":"ORACLE CORPORATION","income":2030000},{"name":"BJC HEALTHCARE","income":1970000},{"name":"H&R BLOCK","income":1970000},{"name":"EAGLEPICHER TECHNOLOGIES LLC","income":1950000},{"name":"ENTERPRISE HOLDINGS","income":1940000},{"name":"MOHELA (MISSOURI HIGHER EDUCATION LOAN AUTHORITY)","income":1910000},{"name":"REINSURANCE GROUP OF AMERICA","income":1890000},{"name":"LOCKTON MANAGEMENT, LLC","income":1880000},{"name":"NIDEC AMERICAS HOLDING CORPORATION","income":1850000},{"name":"ENERGIZER HOLDINGS, INC.","income":1840000},{"name":"ANHEUSER-BUSCH COMPANIES INC","income":1810000},{"name":"PEABODY ENERGY","income":1770000},{"name":"PERIMETER SOLUTIONS","income":1710000},{"name":"ASCENSION HEALTH ALLIANCE D/B/A ASCENSION","income":1700000},{"name":"BREWER SCIENCE, INC.","income":1690000},{"name":"FAA MANAGERS ASSOCIATION INC","income":1660000},{"name":"EVERGY FORMERLY KANSAS CITY POWER AND LIGHT COMPANY","income":1615000},{"name":"AMERICAN ASSOCIATION OF ORTHODONTISTS","income":1560000},{"name":"CITY OF KANSAS CITY, MISSOURI","income":1540000},{"name":"ANHEUSER-BUSCH COMPANIES","income":1530000},{"name":"TRANSITAMERICA SERVICES","income":1510000},{"name":"DIAMOND PET FOODS INC.","income":1465000},{"name":"AMERICAN SOYBEAN ASSOCIATION","income":1430000},{"name":"COUNTY OF PLACER","income":1400000},{"name":"MALLINCKRODT","income":1390000},{"name":"MALLINCKRODT PHARMACEUTICALS","income":1380000},{"name":"HALLMARK CARDS","income":1360000},{"name":"HALLMARK CARDS, INC.","income":1300000},{"name":"LATHROP & GAGE ON BEHALF OF BRIDGETON LANDFILL LLC AND ROCK ROAD INDUSTRIES I","income":1285000},{"name":"CHARTER COMMUNICATIONS","income":1250000},{"name":"AMEREN SERVICES COMPANY","income":1200000},{"name":"CHARTER COMMUNICATIONS, INC.","income":1177500},{"name":"AMEREN","income":1170000},{"name":"EDWARD JONES","income":1150000},{"name":"KANSAS CITY AREA TRANSPORTATION SYSTEM (FKA KC AREA TRANSPORTATION AUTHORITY)","income":1140000},{"name":"ENCOURA (FORMERLY NAT'L RESEARCH CTR FOR COLLEGE AND UNIVERSITY ADMISSIONS)","income":1138500},{"name":"WINCHESTER AMMUNITION","income":1130000},{"name":"ASURION, LLC","income":1060000}],"topIssues":[{"code":"TAX","income":38854500},{"code":"HCR","income":31438383},{"code":"BUD","income":25928450},{"code":"MMM","income":24058883},{"code":"TRA","income":21941500},{"code":"DEF","income":18868350},{"code":"ENG","income":17529000},{"code":"FIN","income":12327000},{"code":"EDU","income":10419500},{"code":"TRD","income":10332500},{"code":"ENV","income":8903000},{"code":"VET","income":8169600},{"code":"TEC","income":7741500},{"code":"AGR","income":7074000},{"code":"LBR","income":6519500},{"code":"GOV","income":6467000},{"code":"AVI","income":4847500},{"code":"CSP","income":4690000},{"code":"INS","income":4190000},{"code":"UTI","income":4140000}]}
+{
+  "abbreviation": "MO",
+  "name": "Missouri",
+  "totalSpending": 184960580,
+  "totalFilings": 7777,
+  "clientCount": 431,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 15376716
+    },
+    {
+      "year": 2019,
+      "income": 18635300
+    },
+    {
+      "year": 2020,
+      "income": 19643202
+    },
+    {
+      "year": 2021,
+      "income": 18994632
+    },
+    {
+      "year": 2022,
+      "income": 21691500
+    },
+    {
+      "year": 2023,
+      "income": 44457000
+    },
+    {
+      "year": 2024,
+      "income": 20202897
+    },
+    {
+      "year": 2025,
+      "income": 25959333
+    }
+  ],
+  "topClients": [
+    {
+      "name": "AIR EVAC LIFETEAM",
+      "income": 7110000
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS OPERATING, LLC",
+      "income": 5290000
+    },
+    {
+      "name": "ENTERPRISE HOLDINGS, INC. DBA ENTERPRISE MOBILITY",
+      "income": 4290000
+    },
+    {
+      "name": "EDWARD D. JONES & CO., L.P.",
+      "income": 3620000
+    },
+    {
+      "name": "MORTGAGE RESEARCH CENTER, LLC",
+      "income": 2860000
+    },
+    {
+      "name": "AMERICAN ASSOCIATION OF BIOANALYSTS",
+      "income": 2740000
+    },
+    {
+      "name": "ASCENSION HEALTH ALLIANCE",
+      "income": 2630000
+    },
+    {
+      "name": "BURNS & MCDONNELL ENGINEERING COMPANY INC",
+      "income": 2590000
+    },
+    {
+      "name": "WHOLESALE & SPECIALTY INSURANCE ASSOCIATION",
+      "income": 2570000
+    },
+    {
+      "name": "CENTENE CORPORATION",
+      "income": 2307000
+    },
+    {
+      "name": "ANHEUSER-BUSCH COMPANIES, INC.",
+      "income": 2300000
+    },
+    {
+      "name": "HAWTHORN FOUNDATION",
+      "income": 2070000
+    },
+    {
+      "name": "ORACLE CORPORATION",
+      "income": 2030000
+    },
+    {
+      "name": "BJC HEALTHCARE",
+      "income": 1970000
+    },
+    {
+      "name": "H&R BLOCK",
+      "income": 1970000
+    },
+    {
+      "name": "EAGLEPICHER TECHNOLOGIES LLC",
+      "income": 1950000
+    },
+    {
+      "name": "ENTERPRISE HOLDINGS",
+      "income": 1940000
+    },
+    {
+      "name": "MOHELA (MISSOURI HIGHER EDUCATION LOAN AUTHORITY)",
+      "income": 1910000
+    },
+    {
+      "name": "REINSURANCE GROUP OF AMERICA",
+      "income": 1890000
+    },
+    {
+      "name": "LOCKTON MANAGEMENT, LLC",
+      "income": 1880000
+    },
+    {
+      "name": "NIDEC AMERICAS HOLDING CORPORATION",
+      "income": 1850000
+    },
+    {
+      "name": "ENERGIZER HOLDINGS, INC.",
+      "income": 1840000
+    },
+    {
+      "name": "ANHEUSER-BUSCH COMPANIES INC",
+      "income": 1810000
+    },
+    {
+      "name": "PEABODY ENERGY",
+      "income": 1770000
+    },
+    {
+      "name": "PERIMETER SOLUTIONS",
+      "income": 1710000
+    },
+    {
+      "name": "ASCENSION HEALTH ALLIANCE D/B/A ASCENSION",
+      "income": 1700000
+    },
+    {
+      "name": "BREWER SCIENCE, INC.",
+      "income": 1690000
+    },
+    {
+      "name": "FAA MANAGERS ASSOCIATION INC",
+      "income": 1660000
+    },
+    {
+      "name": "EVERGY FORMERLY KANSAS CITY POWER AND LIGHT COMPANY",
+      "income": 1615000
+    },
+    {
+      "name": "AMERICAN ASSOCIATION OF ORTHODONTISTS",
+      "income": 1560000
+    },
+    {
+      "name": "CITY OF KANSAS CITY, MISSOURI",
+      "income": 1540000
+    },
+    {
+      "name": "ANHEUSER-BUSCH COMPANIES",
+      "income": 1530000
+    },
+    {
+      "name": "TRANSITAMERICA SERVICES",
+      "income": 1510000
+    },
+    {
+      "name": "DIAMOND PET FOODS INC.",
+      "income": 1465000
+    },
+    {
+      "name": "AMERICAN SOYBEAN ASSOCIATION",
+      "income": 1430000
+    },
+    {
+      "name": "COUNTY OF PLACER",
+      "income": 1400000
+    },
+    {
+      "name": "MALLINCKRODT",
+      "income": 1390000
+    },
+    {
+      "name": "MALLINCKRODT PHARMACEUTICALS",
+      "income": 1380000
+    },
+    {
+      "name": "HALLMARK CARDS",
+      "income": 1360000
+    },
+    {
+      "name": "HALLMARK CARDS, INC.",
+      "income": 1300000
+    },
+    {
+      "name": "LATHROP & GAGE ON BEHALF OF BRIDGETON LANDFILL LLC AND ROCK ROAD INDUSTRIES I",
+      "income": 1285000
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS",
+      "income": 1250000
+    },
+    {
+      "name": "AMEREN SERVICES COMPANY",
+      "income": 1200000
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS, INC.",
+      "income": 1177500
+    },
+    {
+      "name": "AMEREN",
+      "income": 1170000
+    },
+    {
+      "name": "EDWARD JONES",
+      "income": 1150000
+    },
+    {
+      "name": "KANSAS CITY AREA TRANSPORTATION SYSTEM (FKA KC AREA TRANSPORTATION AUTHORITY)",
+      "income": 1140000
+    },
+    {
+      "name": "ENCOURA (FORMERLY NAT'L RESEARCH CTR FOR COLLEGE AND UNIVERSITY ADMISSIONS)",
+      "income": 1138500
+    },
+    {
+      "name": "WINCHESTER AMMUNITION",
+      "income": 1130000
+    },
+    {
+      "name": "ASURION, LLC",
+      "income": 1060000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "TAX",
+      "income": 38854500
+    },
+    {
+      "code": "HCR",
+      "income": 31438383
+    },
+    {
+      "code": "BUD",
+      "income": 25928450
+    },
+    {
+      "code": "MMM",
+      "income": 24058883
+    },
+    {
+      "code": "TRA",
+      "income": 21941500
+    },
+    {
+      "code": "DEF",
+      "income": 18868350
+    },
+    {
+      "code": "ENG",
+      "income": 17529000
+    },
+    {
+      "code": "FIN",
+      "income": 12327000
+    },
+    {
+      "code": "EDU",
+      "income": 10419500
+    },
+    {
+      "code": "TRD",
+      "income": 10332500
+    },
+    {
+      "code": "ENV",
+      "income": 8903000
+    },
+    {
+      "code": "VET",
+      "income": 8169600
+    },
+    {
+      "code": "TEC",
+      "income": 7741500
+    },
+    {
+      "code": "AGR",
+      "income": 7074000
+    },
+    {
+      "code": "LBR",
+      "income": 6519500
+    },
+    {
+      "code": "GOV",
+      "income": 6467000
+    },
+    {
+      "code": "AVI",
+      "income": 4847500
+    },
+    {
+      "code": "CSP",
+      "income": 4690000
+    },
+    {
+      "code": "INS",
+      "income": 4190000
+    },
+    {
+      "code": "UTI",
+      "income": 4140000
+    }
+  ],
+  "perCapita": 40.25,
+  "population": 6196156,
+  "nationalRank": 21,
+  "perCapitaRank": 19
+}

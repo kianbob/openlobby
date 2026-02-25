@@ -1,1 +1,112 @@
-{"id":196604,"name":"NATIONAL MARINE MANUFACTURERS ASSOCIATION","slug":"national-marine-manufacturers-association","state":"IL","description":"Trade association representing boat, marine engine and accessory manufactures.","totalSpending":1350000,"filings":29,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":200000},{"year":2020,"income":90000},{"year":2021,"income":130000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["FORBES-TATE"],"lobbyists":["GEORGE COOPER","WESLEY WELCH","FRANKLYN STEINBERG","JEFFREY SADOSKY","JEFFREY STRUNK","RICK MURPHY","ELIZABETH GREER","CYNTHIA BROWN","DERRICK WHITE","ELIZABETH BENNETT","RICHARD LOPEZ","JUSTIN KINTZ","TORI SMITH"],"issues":["TRD","MAR","ENV","FUE","NAT","TAX","CSP","BUD",null],"sampleDescriptions":["Issues related to Magnuson Stevens Reauthorization, H.R. 200, Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act; Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Issues related to S. 1129, Coast Guard Authorization Act of 2017, all provisions; Issues related to S.1520/H.R. 2023, Modernizing Recreational Fisheries Management Act of 2017, FY 2019 Appropriations, Renewable Fuel Standards.","Issues related to disaster relief.","Issues related to tax reform.","Issues related to Magnuson Stevens Reauthorization, H.R. 200, Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act; Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Issues related to S. 1129, Coast Guard Authorization Act of 2017, all provisions; Issues related to S.1520/H.R. 2023, Modernizing Recreational Fisheries Management Act of 2017, FY 2019 Appropriations, Renewable Fuel Standards; Issues related to tariffs on steel and aluminium.","Issues related to Magnuson Stevens Reauthorization, H.R. 200, Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act; Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Issues related to S. 1129, Coast Guard Authorization Act of 2017, all provisions; Issues related to S.1520/H.R. 2023, Modernizing Recreational Fisheries Management Act of 2017, FY 2019 Appropriations, Renewable Fuel Standards; Issues related to H.R.5855, Consumer Protection and Fuel Transparency, all provisions.","Issues related to H.R. 8, Water Resources Development Act of 2018, all provisions.","Issues related to Magnuson Stevens Reauthorization, H.R. 200, Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act; Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Issues related to S. 1129, Coast Guard Authorization Act of 2017, all provisions; Issues related to S.1520/H.R. 2023, Modernizing Recreational Fisheries Management Act of 2017, FY 2019 Appropriations, Renewable Fuel Standards; Issues related to Sections 232 and 301 tariffs.","Issues related to H.R. 8, Water Resources Development Act of 2018, all provisions. Issues related to America's Water Infrastructure Act of 2018, S 2800.","Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act.","Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act; Issues related to H.R. 1024 Consumer Protection and Fuel Transparency.","Issues related to FY 2020 Appropriations.","Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act; Issues related to Sections 232 and 301 tariffs.","Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act.","Issues related to FY 2020 Appropriations including H.R. 3055 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2020; H.R. 2960 - Energy and Water Development and Related Agencies Appropriations Act, 2020; H.R. 3052 - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020; and H.R. 3163 - Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020.","Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act.; Issues related to H.R. 1024 - Consumer Protection and Fuel Transparency Act of 2019.","Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act; Issues related to Sections 232 and 301 tariffs.","Issues related to FY 2020 Appropriations including H.R. 3055/S. 2584 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2020; H.R. 2960/S. 2470 - Energy and Water Development and Related Agencies Appropriations Act, 2020; H.R. 3052/S. 2580 - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020; and H.R. 3163/S. 2520 - Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020.","Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act; Issues related to H.R. 1024 - Consumer Protection and Fuel Transparency Act of 2019.","Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation;  H.R. 3409 - Coast Guard Authorization Act of 2019, all provisions; Issues related to Sections 232 and 301 tariffs.","Issues related to FY 2020 Appropriations including H.R. 3055/S. 2584 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2020; H.R. 2960/S. 2470 - Energy and Water Development and Related Agencies Appropriations Act, 2020; H.R. 3052/S. 2580 - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020; and H.R. 3163/S. 2520 - Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020; Issues related to H.R. 748 - CARES Act (Public Law 116-136); Issues related to H.R. 7092/S. 3422 - the Great American Outdoors Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 196604,
+  "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
+  "slug": "national-marine-manufacturers-association",
+  "state": "IL",
+  "description": "Trade association representing boat, marine engine and accessory manufactures.",
+  "totalSpending": 1350000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 90000
+    },
+    {
+      "year": 2021,
+      "income": 130000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "FORBES-TATE"
+  ],
+  "lobbyists": [
+    "GEORGE COOPER",
+    "WESLEY WELCH",
+    "FRANKLYN STEINBERG",
+    "JEFFREY SADOSKY",
+    "JEFFREY STRUNK",
+    "RICK MURPHY",
+    "ELIZABETH GREER",
+    "CYNTHIA BROWN",
+    "DERRICK WHITE",
+    "ELIZABETH BENNETT",
+    "RICHARD LOPEZ",
+    "JUSTIN KINTZ",
+    "TORI SMITH"
+  ],
+  "issues": [
+    "TRD",
+    "MAR",
+    "ENV",
+    "FUE",
+    "NAT",
+    "TAX",
+    "CSP",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to Magnuson Stevens Reauthorization, H.R. 200, Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act; Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Issues related to S. 1129, Coast Guard Authorization Act of 2017, all provisions; Issues related to S.1520/H.R. 2023, Modernizing Recreational Fisheries Management Act of 2017, FY 2019 Appropriations, Renewable Fuel Standards.",
+    "Issues related to disaster relief.",
+    "Issues related to tax reform.",
+    "Issues related to Magnuson Stevens Reauthorization, H.R. 200, Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act; Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Issues related to S. 1129, Coast Guard Authorization Act of 2017, all provisions; Issues related to S.1520/H.R. 2023, Modernizing Recreational Fisheries Management Act of 2017, FY 2019 Appropriations, Renewable Fuel Standards; Issues related to tariffs on steel and aluminium.",
+    "Issues related to Magnuson Stevens Reauthorization, H.R. 200, Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act; Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Issues related to S. 1129, Coast Guard Authorization Act of 2017, all provisions; Issues related to S.1520/H.R. 2023, Modernizing Recreational Fisheries Management Act of 2017, FY 2019 Appropriations, Renewable Fuel Standards; Issues related to H.R.5855, Consumer Protection and Fuel Transparency, all provisions.",
+    "Issues related to H.R. 8, Water Resources Development Act of 2018, all provisions.",
+    "Issues related to Magnuson Stevens Reauthorization, H.R. 200, Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act; Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Issues related to S. 1129, Coast Guard Authorization Act of 2017, all provisions; Issues related to S.1520/H.R. 2023, Modernizing Recreational Fisheries Management Act of 2017, FY 2019 Appropriations, Renewable Fuel Standards; Issues related to Sections 232 and 301 tariffs.",
+    "Issues related to H.R. 8, Water Resources Development Act of 2018, all provisions. Issues related to America's Water Infrastructure Act of 2018, S 2800.",
+    "Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act.",
+    "Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act; Issues related to H.R. 1024 Consumer Protection and Fuel Transparency.",
+    "Issues related to FY 2020 Appropriations.",
+    "Issues related to Infrastructure Related Legislation; Boating Safety Legislation, and Workforce Development Legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act; Issues related to Sections 232 and 301 tariffs.",
+    "Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act.",
+    "Issues related to FY 2020 Appropriations including H.R. 3055 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2020; H.R. 2960 - Energy and Water Development and Related Agencies Appropriations Act, 2020; H.R. 3052 - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020; and H.R. 3163 - Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020.",
+    "Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act.; Issues related to H.R. 1024 - Consumer Protection and Fuel Transparency Act of 2019.",
+    "Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act; Issues related to Sections 232 and 301 tariffs.",
+    "Issues related to FY 2020 Appropriations including H.R. 3055/S. 2584 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2020; H.R. 2960/S. 2470 - Energy and Water Development and Related Agencies Appropriations Act, 2020; H.R. 3052/S. 2580 - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020; and H.R. 3163/S. 2520 - Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020.",
+    "Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation; Issues related to trade; Coast Guard Authorization, all provisions; Issues related to Modernizing Recreational Fisheries Management Act; Issues related to H.R. 1024 - Consumer Protection and Fuel Transparency Act of 2019.",
+    "Issues regarding infrastructure related legislation, boating safety legislation, and workforce development legislation;  H.R. 3409 - Coast Guard Authorization Act of 2019, all provisions; Issues related to Sections 232 and 301 tariffs.",
+    "Issues related to FY 2020 Appropriations including H.R. 3055/S. 2584 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2020; H.R. 2960/S. 2470 - Energy and Water Development and Related Agencies Appropriations Act, 2020; H.R. 3052/S. 2580 - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020; and H.R. 3163/S. 2520 - Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020; Issues related to H.R. 748 - CARES Act (Public Law 116-136); Issues related to H.R. 7092/S. 3422 - the Great American Outdoors Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 11,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 168750,
+  "peakYear": 2019,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 8
+}

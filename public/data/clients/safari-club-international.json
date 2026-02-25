@@ -1,1 +1,106 @@
-{"id":192141,"name":"SAFARI CLUB INTERNATIONAL","slug":"safari-club-international","state":"AZ","description":"hunting organization","totalSpending":1800000,"filings":30,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["CROSSROADS STRATEGIES, LLC"],"lobbyists":["JOHN GREEN","STEWART HALL","HUNTER MOORHEAD","MATT WISE","TODD WEISS","MATHEW LAPINSKI","KATHERINE DAPPER","CHRIS MILLER","WALLY BURNETT","SALIM ALAMEDDIN","SAMUEL ADCOCK","WHITNEY WALLACE","LAUREN CHANDLER"],"issues":["BUD","NAT",null],"sampleDescriptions":["Issues related to natural resources and conservation;\nH.R.6147/S.3073, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019.","Legislation and regulations related to public lands, natural resources and conservation; \nS.733, Sportsmen's Act;\nH.R.367/S.59, Hearing Protection Act of 2017;\nS.1214, Hunting, Fishing, and Recreational Shooting Protection Act;\nH.R.3668, SHARE Act (Sportsmen's Heritage And Recreational Enhancement Act);\nH.R.2, Agriculture and Nutrition Act of 2018/S.3042, Agriculture Improvement Act of 2018.","Issues related to natural resources and conservation;\nH.R.6147/S.3073, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019;\nH.R.6147, Interior, Environment, Financial Services and General Government, Agriculture, Rural Development, Food and Drug Administration, and Transportation, Housing and Urban Development Appropriations Act, 2019.","Legislation and regulations related to public lands, natural resources and conservation; \nS.733, Sportsmen's Act;\nH.R.367/S.59, Hearing Protection Act of 2017;\nS.1214, Hunting, Fishing, and Recreational Shooting Protection Act;\nH.R.3668, SHARE Act (Sportsmen's Heritage And Recreational Enhancement Act);\nH.R.2/S.3042, Agriculture Improvement Act of 2018.","Legislation and regulations related to public lands, natural resources and conservation; \nS.733, Sportsmen's Act;\nH.R.367/S.59, Hearing Protection Act of 2017;\nS.1214, Hunting, Fishing, and Recreational Shooting Protection Act;\nH.R.3668, SHARE Act (Sportsmen's Heritage And Recreational Enhancement Act);\nH.R.2/S.3042, Agriculture Improvement Act of 2018 (P.L.115-334).","Legislation and regulations related to public lands, natural resources and conservation;\nEndangered Species Act Reform;\nS.47, John D. Dingell, Jr. Conservation, Management, and Recreation Act (P.L.116-9).","Issues related to natural resources and conservation;\nH.J.Res.31, Consolidated Appropriations Act, 2019 (P.L.116-6);\nFY 2020 Department of the Interior, Environment, and Related Agencies Appropriations.","Issues related to natural resources and conservation;\nH.R.3052, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020 and H.R.3055, the FY2020 Consolidated measure.","Legislation and regulations related to public lands, natural resources and conservation.\nEndangered Species Act Reform.\nS.47, John D. Dingell, Jr. Conservation, Management, and Recreation Act (P.L.116-9).","Issues related to natural resources and conservation;\nH.R.3052/S.2580, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020 and H.R.3055, the FY2020 Consolidated measure.","Legislation and regulations related to public lands, natural resources and conservation.\nEndangered Species Act Reform.\nS.47, John D. Dingell, Jr. Conservation, Management, and Recreation Act (P.L.116-9).\nH.R.2245, CECIL Act.\nS.2092, Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act.","Issues related to natural resources and conservation;\nH.R.3052/S.2580, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020 and H.R.3055, the FY2020 Consolidated measure;\nH.R.1865, Further Consolidated Appropriations Act, 2020 (P.L.116-94).","Issues related to natural resources and conservation;\nFY 2021 Department of the Interior, Environment, and Related Agencies Appropriations.","Issues related to natural resources and conservation;\nFY 2021 Department of the Interior, Environment, and Related Agencies Appropriations;\nH.R.6395/S.4049, National Defense Authorization Act for Fiscal Year 2021.","Legislation and regulations related to public lands, natural resources and conservation.\nEndangered Species Act Reform.\nS.47, John D. Dingell, Jr. Conservation, Management, and Recreation Act (P.L.116-9).\nH.R.2245, CECIL Act.\nS.2092, Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act.\nS.3422/H.R.1957, Great American Outdoors Act.","Issues related to natural resources and conservation;\nFY2021 Department of the Interior, Environment, and Related Agencies Appropriations Act (H.R.7612), FY2021 Consolidated Appropriations Act (H.R.7608);\nH.R.6395/S.4049, National Defense Authorization Act for Fiscal Year 2021.","Issues related to natural resources and conservation;\nFY2021 Department of the Interior, Environment, and Related Agencies Appropriations Act (H.R.7612), FY2021 Consolidated Appropriations Act (H.R.7608);\nH.R.6395/S.4049, National Defense Authorization Act for Fiscal Year 2021;\nH.R.133, Making consolidated appropriations for the fiscal year ending September 30, 2021, providing coronavirus emergency response and relief, and for other purposes (P.L.116-260).","Legislation and regulations related to public lands, natural resources and conservation; Endangered Species Act Reform; H.R.8, Bipartisan Background Checks Act of 2021.","Issues related to natural resources and conservation; FY2022 Department of the Interior, Environment, and Related Agencies Appropriations Act.","Issues related to natural resources and conservation; FY2022 Department of the Interior, Environment, and Related Agencies Appropriations Act (H.R.4372)."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 192141,
+  "name": "SAFARI CLUB INTERNATIONAL",
+  "slug": "safari-club-international",
+  "state": "AZ",
+  "description": "hunting organization",
+  "totalSpending": 1800000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "CROSSROADS STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "JOHN GREEN",
+    "STEWART HALL",
+    "HUNTER MOORHEAD",
+    "MATT WISE",
+    "TODD WEISS",
+    "MATHEW LAPINSKI",
+    "KATHERINE DAPPER",
+    "CHRIS MILLER",
+    "WALLY BURNETT",
+    "SALIM ALAMEDDIN",
+    "SAMUEL ADCOCK",
+    "WHITNEY WALLACE",
+    "LAUREN CHANDLER"
+  ],
+  "issues": [
+    "BUD",
+    "NAT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to natural resources and conservation;\nH.R.6147/S.3073, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019.",
+    "Legislation and regulations related to public lands, natural resources and conservation; \nS.733, Sportsmen's Act;\nH.R.367/S.59, Hearing Protection Act of 2017;\nS.1214, Hunting, Fishing, and Recreational Shooting Protection Act;\nH.R.3668, SHARE Act (Sportsmen's Heritage And Recreational Enhancement Act);\nH.R.2, Agriculture and Nutrition Act of 2018/S.3042, Agriculture Improvement Act of 2018.",
+    "Issues related to natural resources and conservation;\nH.R.6147/S.3073, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019;\nH.R.6147, Interior, Environment, Financial Services and General Government, Agriculture, Rural Development, Food and Drug Administration, and Transportation, Housing and Urban Development Appropriations Act, 2019.",
+    "Legislation and regulations related to public lands, natural resources and conservation; \nS.733, Sportsmen's Act;\nH.R.367/S.59, Hearing Protection Act of 2017;\nS.1214, Hunting, Fishing, and Recreational Shooting Protection Act;\nH.R.3668, SHARE Act (Sportsmen's Heritage And Recreational Enhancement Act);\nH.R.2/S.3042, Agriculture Improvement Act of 2018.",
+    "Legislation and regulations related to public lands, natural resources and conservation; \nS.733, Sportsmen's Act;\nH.R.367/S.59, Hearing Protection Act of 2017;\nS.1214, Hunting, Fishing, and Recreational Shooting Protection Act;\nH.R.3668, SHARE Act (Sportsmen's Heritage And Recreational Enhancement Act);\nH.R.2/S.3042, Agriculture Improvement Act of 2018 (P.L.115-334).",
+    "Legislation and regulations related to public lands, natural resources and conservation;\nEndangered Species Act Reform;\nS.47, John D. Dingell, Jr. Conservation, Management, and Recreation Act (P.L.116-9).",
+    "Issues related to natural resources and conservation;\nH.J.Res.31, Consolidated Appropriations Act, 2019 (P.L.116-6);\nFY 2020 Department of the Interior, Environment, and Related Agencies Appropriations.",
+    "Issues related to natural resources and conservation;\nH.R.3052, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020 and H.R.3055, the FY2020 Consolidated measure.",
+    "Legislation and regulations related to public lands, natural resources and conservation.\nEndangered Species Act Reform.\nS.47, John D. Dingell, Jr. Conservation, Management, and Recreation Act (P.L.116-9).",
+    "Issues related to natural resources and conservation;\nH.R.3052/S.2580, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020 and H.R.3055, the FY2020 Consolidated measure.",
+    "Legislation and regulations related to public lands, natural resources and conservation.\nEndangered Species Act Reform.\nS.47, John D. Dingell, Jr. Conservation, Management, and Recreation Act (P.L.116-9).\nH.R.2245, CECIL Act.\nS.2092, Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act.",
+    "Issues related to natural resources and conservation;\nH.R.3052/S.2580, Department of the Interior, Environment, and Related Agencies Appropriations Act, 2020 and H.R.3055, the FY2020 Consolidated measure;\nH.R.1865, Further Consolidated Appropriations Act, 2020 (P.L.116-94).",
+    "Issues related to natural resources and conservation;\nFY 2021 Department of the Interior, Environment, and Related Agencies Appropriations.",
+    "Issues related to natural resources and conservation;\nFY 2021 Department of the Interior, Environment, and Related Agencies Appropriations;\nH.R.6395/S.4049, National Defense Authorization Act for Fiscal Year 2021.",
+    "Legislation and regulations related to public lands, natural resources and conservation.\nEndangered Species Act Reform.\nS.47, John D. Dingell, Jr. Conservation, Management, and Recreation Act (P.L.116-9).\nH.R.2245, CECIL Act.\nS.2092, Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act.\nS.3422/H.R.1957, Great American Outdoors Act.",
+    "Issues related to natural resources and conservation;\nFY2021 Department of the Interior, Environment, and Related Agencies Appropriations Act (H.R.7612), FY2021 Consolidated Appropriations Act (H.R.7608);\nH.R.6395/S.4049, National Defense Authorization Act for Fiscal Year 2021.",
+    "Issues related to natural resources and conservation;\nFY2021 Department of the Interior, Environment, and Related Agencies Appropriations Act (H.R.7612), FY2021 Consolidated Appropriations Act (H.R.7608);\nH.R.6395/S.4049, National Defense Authorization Act for Fiscal Year 2021;\nH.R.133, Making consolidated appropriations for the fiscal year ending September 30, 2021, providing coronavirus emergency response and relief, and for other purposes (P.L.116-260).",
+    "Legislation and regulations related to public lands, natural resources and conservation; Endangered Species Act Reform; H.R.8, Bipartisan Background Checks Act of 2021.",
+    "Issues related to natural resources and conservation; FY2022 Department of the Interior, Environment, and Related Agencies Appropriations Act.",
+    "Issues related to natural resources and conservation; FY2022 Department of the Interior, Environment, and Related Agencies Appropriations Act (H.R.4372)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 225000,
+  "peakYear": 2019,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 2
+}

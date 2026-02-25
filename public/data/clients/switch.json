@@ -1,1 +1,96 @@
-{"id":204070,"name":"SWITCH","slug":"switch","state":"NV","description":"&#226;€‹Data centers","totalSpending":1470000,"filings":22,"yearlySpending":[{"year":2020,"income":240000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":210000},{"year":2024,"income":200000},{"year":2025,"income":180000}],"firms":["CASSIDY & ASSOCIATES, INC."],"lobbyists":["KEVIN BINGER","KAI ANDERSON","VERNON SIMMONS","RYAN MULVENON","CHARLES SYDNOR","JOHN DEARBORN","JEN ADLER"],"issues":["BUD","GOV","RES","HOM","TAX","TRA","AVI","ENG",null],"sampleDescriptions":["Monitoring data center security issues; Monitoring data center funding and policy matters; Monitoring public land disposal policy; Monitoring tax treatment for energy storage projects; Monitoring federal government policy related to data centers","Monitoring tax treatment for energy storage projects","Monitoring data center funding and policy matters","Monitoring federal government policy related to data centers","Monitoring public land disposal policy","Monitoring data center security issues","Monitoring tax treatment for energy storage projects\nH.R. 2096,  Energy Storage Tax Incentive and Deployment Act of 2019\nS. 1142, Energy Storage Tax Incentive and Deployment Act of 2019","Unmanned aircraft system test centers","Monitoring federal government policy related to data centers\nH.R.133 - Consolidated Appropriations Act, 2021","Energy Efficiency Data Center Legislation","Monitoring tax treatment for energy storage projects\nS. 627, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R. 1684, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R. 848, GREEN Act.","federal data center standards legislation","Monitoring tax treatment for energy storage projects\nS. 627, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R. 1684, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R. 848, GREEN Act.\nS. 2118, Clean Energy for America Act\nS. 1298, Clean Energy for America Act","Monitoring tax treatment for energy storage projects\nS.627 & H.R.1684, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R.848, GREEN Act.\nS.2118, Clean Energy for America Act\nS.1298, Clean Energy for America Act\nH.R.5376, Build Back Better Act.","Monitoring tax treatment for energy storage projects S.627 & H.R.1684, Energy Storage Tax Incentive and Deployment Act of 2021. H.R.848, GREEN Act. S.2118, Clean Energy for America Act S.1298, Clean Energy for America Act H.R.5376, Build Back Better Act.","Monitoring public land disposal policy Western Drought issues","federal data center standards legislation S.4629, Federal Data Center Enhancement Act","Monitoring tax treatment for energy storage projects S.627 & H.R.1684, Energy Storage Tax Incentive and Deployment Act of 2021. H.R.848, GREEN Act. S.2118, Clean Energy for America Act S.1298, Clean Energy for America Act H.R.5376, Inflation Reduction Act.","Monitoring federal government policy related to data centers S.4629, Federal Data Center Enhancement Act","Energy Efficiency Data Center Legislation Federal Grants Opportunity"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 204070,
+  "name": "SWITCH",
+  "slug": "switch",
+  "state": "NV",
+  "description": "&#226;€‹Data centers",
+  "totalSpending": 1470000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 210000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "CASSIDY & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "KEVIN BINGER",
+    "KAI ANDERSON",
+    "VERNON SIMMONS",
+    "RYAN MULVENON",
+    "CHARLES SYDNOR",
+    "JOHN DEARBORN",
+    "JEN ADLER"
+  ],
+  "issues": [
+    "BUD",
+    "GOV",
+    "RES",
+    "HOM",
+    "TAX",
+    "TRA",
+    "AVI",
+    "ENG",
+    null
+  ],
+  "sampleDescriptions": [
+    "Monitoring data center security issues; Monitoring data center funding and policy matters; Monitoring public land disposal policy; Monitoring tax treatment for energy storage projects; Monitoring federal government policy related to data centers",
+    "Monitoring tax treatment for energy storage projects",
+    "Monitoring data center funding and policy matters",
+    "Monitoring federal government policy related to data centers",
+    "Monitoring public land disposal policy",
+    "Monitoring data center security issues",
+    "Monitoring tax treatment for energy storage projects\nH.R. 2096,  Energy Storage Tax Incentive and Deployment Act of 2019\nS. 1142, Energy Storage Tax Incentive and Deployment Act of 2019",
+    "Unmanned aircraft system test centers",
+    "Monitoring federal government policy related to data centers\nH.R.133 - Consolidated Appropriations Act, 2021",
+    "Energy Efficiency Data Center Legislation",
+    "Monitoring tax treatment for energy storage projects\nS. 627, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R. 1684, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R. 848, GREEN Act.",
+    "federal data center standards legislation",
+    "Monitoring tax treatment for energy storage projects\nS. 627, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R. 1684, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R. 848, GREEN Act.\nS. 2118, Clean Energy for America Act\nS. 1298, Clean Energy for America Act",
+    "Monitoring tax treatment for energy storage projects\nS.627 & H.R.1684, Energy Storage Tax Incentive and Deployment Act of 2021.\nH.R.848, GREEN Act.\nS.2118, Clean Energy for America Act\nS.1298, Clean Energy for America Act\nH.R.5376, Build Back Better Act.",
+    "Monitoring tax treatment for energy storage projects S.627 & H.R.1684, Energy Storage Tax Incentive and Deployment Act of 2021. H.R.848, GREEN Act. S.2118, Clean Energy for America Act S.1298, Clean Energy for America Act H.R.5376, Build Back Better Act.",
+    "Monitoring public land disposal policy Western Drought issues",
+    "federal data center standards legislation S.4629, Federal Data Center Enhancement Act",
+    "Monitoring tax treatment for energy storage projects S.627 & H.R.1684, Energy Storage Tax Incentive and Deployment Act of 2021. H.R.848, GREEN Act. S.2118, Clean Energy for America Act S.1298, Clean Energy for America Act H.R.5376, Inflation Reduction Act.",
+    "Monitoring federal government policy related to data centers S.4629, Federal Data Center Enhancement Act",
+    "Energy Efficiency Data Center Legislation Federal Grants Opportunity"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 245000,
+  "peakYear": 2021,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 8
+}

@@ -1,1 +1,78 @@
-{"id":190971,"name":"PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA","slug":"pharmaceutical-research-and-manufacturers-of-america","state":"DC","description":"https://www.phrma.org/about/member-companies","totalSpending":1400000,"filings":28,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["LESIC AND CAMPER COMMUNICATIONS"],"lobbyists":["JENNIFER CAMPER"],"issues":["HCR",null],"sampleDescriptions":["Medicare Part D","Medicare","Health care access","Healthcare"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 190971,
+  "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
+  "slug": "pharmaceutical-research-and-manufacturers-of-america",
+  "state": "DC",
+  "description": "https://www.phrma.org/about/member-companies",
+  "totalSpending": 1400000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "LESIC AND CAMPER COMMUNICATIONS"
+  ],
+  "lobbyists": [
+    "JENNIFER CAMPER"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Medicare Part D",
+    "Medicare",
+    "Health care access",
+    "Healthcare"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 175000,
+  "peakYear": 2020,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

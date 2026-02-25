@@ -1,1 +1,48 @@
-{"id":207301,"name":"SK INNOVATION CO., LTD.","slug":"sk-innovation-co-ltd","state":null,"description":"Global energy and chemical company","totalSpending":2010000,"filings":2,"yearlySpending":[{"year":2020,"income":650000},{"year":2021,"income":1360000}],"firms":["COVINGTON & BURLING LLP"],"lobbyists":["DANIEL SPIEGEL","LAYTH ELHASSANI","SHARA ARANOFF","STEPHEN RADEMAKER","STURGIS SOBIN","JAMES HOVARD"],"issues":["TRD"],"sampleDescriptions":["Government relations and related activities concerning ITC Inv. No. 337-TA-1159 involving client and SK Battery America, Inc."],"years":[2020,2021]}
+{
+  "id": 207301,
+  "name": "SK INNOVATION CO., LTD.",
+  "slug": "sk-innovation-co-ltd",
+  "state": null,
+  "description": "Global energy and chemical company",
+  "totalSpending": 2010000,
+  "filings": 2,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 650000
+    },
+    {
+      "year": 2021,
+      "income": 1360000
+    }
+  ],
+  "firms": [
+    "COVINGTON & BURLING LLP"
+  ],
+  "lobbyists": [
+    "DANIEL SPIEGEL",
+    "LAYTH ELHASSANI",
+    "SHARA ARANOFF",
+    "STEPHEN RADEMAKER",
+    "STURGIS SOBIN",
+    "JAMES HOVARD"
+  ],
+  "issues": [
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "Government relations and related activities concerning ITC Inv. No. 337-TA-1159 involving client and SK Battery America, Inc."
+  ],
+  "years": [
+    2020,
+    2021
+  ],
+  "growthRate": 109,
+  "trajectory": "exploding",
+  "yearsActive": 2,
+  "avgAnnualSpending": 1005000,
+  "peakYear": 2021,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1
+}

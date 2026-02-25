@@ -1,0 +1,434 @@
+{
+  "industry": "telecom",
+  "totalSpending": 451570298.2,
+  "totalFilings": 8332,
+  "clientCount": 381,
+  "topClients": [
+    {
+      "name": "CTIA-THE WIRELESS ASSOCIATION",
+      "state": "DC",
+      "spending": 130945973,
+      "filings": 166,
+      "desc": null
+    },
+    {
+      "name": "T-MOBILE USA, INC.",
+      "state": "DC",
+      "spending": 19419059.2,
+      "filings": 510,
+      "desc": "Telecommunications"
+    },
+    {
+      "name": "COMCAST CORPORATION",
+      "state": "DC",
+      "spending": 17576500,
+      "filings": 486,
+      "desc": "video programming and broadband"
+    },
+    {
+      "name": "UNITED STATES TELECOM ASSN",
+      "state": "DC",
+      "spending": 16630000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "AT&T SERVICES, INC.",
+      "state": "TX",
+      "spending": 12855500,
+      "filings": 280,
+      "desc": "Telecommunications"
+    },
+    {
+      "name": "CTIA - THE WIRELESS ASSOCIATION",
+      "state": "DC",
+      "spending": 10177500,
+      "filings": 235,
+      "desc": "Association for the U.S. wireless communications industry"
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS, INC.",
+      "state": "DC",
+      "spending": 9477500,
+      "filings": 185,
+      "desc": "Cable telecommunications provider."
+    },
+    {
+      "name": "NATIONAL CABLE AND TELECOMMUNICATIONS ASSOCIATION",
+      "state": "DC",
+      "spending": 8270000,
+      "filings": 118,
+      "desc": "The principal trade association of the cable industry in the United States"
+    },
+    {
+      "name": "TRACFONE WIRELESS, INC.",
+      "state": "FL",
+      "spending": 7275456,
+      "filings": 94,
+      "desc": "Mobile Virtual Network Operator"
+    },
+    {
+      "name": "WIRELESS INFRASTRUCTURE ASSOCIATION",
+      "state": "VA",
+      "spending": 7155000,
+      "filings": 125,
+      "desc": "Trade association"
+    },
+    {
+      "name": "AMERICAN CABLE ASSOCIATION, INC. DBA ACACONNECTS",
+      "state": "PA",
+      "spending": 6770000,
+      "filings": 38,
+      "desc": null
+    },
+    {
+      "name": "ZTE CORPORATION",
+      "state": null,
+      "spending": 6210000,
+      "filings": 43,
+      "desc": "ZTE Corporation is a telecommunications company."
+    },
+    {
+      "name": "T-MOBILE US, INC.",
+      "state": "DC",
+      "spending": 4917704,
+      "filings": 73,
+      "desc": "Telecommunications"
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC AND VARIOUS SUBSIDIARIES",
+      "state": "NY",
+      "spending": 4612000,
+      "filings": 117,
+      "desc": "A broadband and telecommunications company"
+    },
+    {
+      "name": "AMERICAN TOWER CORPORATION",
+      "state": "MA",
+      "spending": 4478000,
+      "filings": 103,
+      "desc": "Owner, operator and developer of wireless and broadcast communications real estate"
+    },
+    {
+      "name": "NATIONAL CABLE & TELECOMMUNICATIONS ASSOCIATION",
+      "state": "DC",
+      "spending": 4410000,
+      "filings": 54,
+      "desc": null
+    },
+    {
+      "name": "CTIA",
+      "state": "DC",
+      "spending": 4320000,
+      "filings": 105,
+      "desc": "Trade association representing the wireless industry."
+    },
+    {
+      "name": "T-MOBILE",
+      "state": "DC",
+      "spending": 4180000,
+      "filings": 106,
+      "desc": "telecommunications"
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS",
+      "state": "DC",
+      "spending": 4140000,
+      "filings": 105,
+      "desc": "Cable telecommunications company"
+    },
+    {
+      "name": "NATIONAL TELECOMMUNICATIONS COOPERATIVE ASSOCIATION",
+      "state": "VA",
+      "spending": 3960000,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "ZTE CORPORATION (FORMERLY ZTE USA INC)",
+      "state": null,
+      "spending": 3920000,
+      "filings": 7,
+      "desc": "Telecommunications company"
+    },
+    {
+      "name": "VERIZON",
+      "state": "DC",
+      "spending": 3880000,
+      "filings": 113,
+      "desc": "Telecommunications company"
+    },
+    {
+      "name": "LIGADO NETWORKS LLC",
+      "state": "VA",
+      "spending": 3780000,
+      "filings": 45,
+      "desc": "Satellite telecommunications company"
+    },
+    {
+      "name": "TELECOMMUNICATIONS INDUSTRY ASSOCIATION",
+      "state": "VA",
+      "spending": 3650000,
+      "filings": 58,
+      "desc": "represent the global information and communications technology industry"
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS OPERATING, LLC",
+      "state": "DC",
+      "spending": 3420000,
+      "filings": 67,
+      "desc": "Telecommunications"
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC.",
+      "state": "DC",
+      "spending": 3125000,
+      "filings": 58,
+      "desc": "telecommunications"
+    },
+    {
+      "name": "UNITED STATES TELECOM ASSOCIATION",
+      "state": null,
+      "spending": 3057500,
+      "filings": 119,
+      "desc": null
+    },
+    {
+      "name": "WTA -- ADVOCATES FOR RURAL BROADBAND",
+      "state": "DC",
+      "spending": 2845000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL LIFELINE ASSOCIATION",
+      "state": "PA",
+      "spending": 2750000,
+      "filings": 33,
+      "desc": "Telecommunications Association"
+    },
+    {
+      "name": "LIGADO NETWORKS",
+      "state": "VA",
+      "spending": 2719000,
+      "filings": 65,
+      "desc": "Satellite telecommunications company."
+    },
+    {
+      "name": "T-MOBILE USA",
+      "state": "DC",
+      "spending": 2705000,
+      "filings": 57,
+      "desc": "Wireless network company"
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS INC.",
+      "state": "DC",
+      "spending": 2700000,
+      "filings": 57,
+      "desc": "Telecommunications"
+    },
+    {
+      "name": "NATIONAL CABLE TELECOMMUNICATIONS ASSOCIATION",
+      "state": "DC",
+      "spending": 2625000,
+      "filings": 55,
+      "desc": null
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS",
+      "state": "DC",
+      "spending": 2365000,
+      "filings": 75,
+      "desc": "Global leader in delivering broadband and other communications services to its customers"
+    },
+    {
+      "name": "ZTE USA",
+      "state": "TX",
+      "spending": 2050000,
+      "filings": 28,
+      "desc": "Manufacturing-telecommunication devices and network equipment"
+    },
+    {
+      "name": "AT&T SERVICES INC",
+      "state": "DC",
+      "spending": 2040000,
+      "filings": 61,
+      "desc": "Telecommunication Company"
+    },
+    {
+      "name": "GRANITE TELECOMMUNICATIONS",
+      "state": "MA",
+      "spending": 2010000,
+      "filings": 34,
+      "desc": "Telecommunications Provider"
+    },
+    {
+      "name": "FIBER BROADBAND ASSOCIATION",
+      "state": "DC",
+      "spending": 1957500,
+      "filings": 35,
+      "desc": "Trade association comprised of companies in the fiber optic network business."
+    },
+    {
+      "name": "AT&T SERVICES INC.",
+      "state": "DC",
+      "spending": 1870000,
+      "filings": 47,
+      "desc": "Telecommunications"
+    },
+    {
+      "name": "TE CONNECTIVITY, INC.",
+      "state": "DC",
+      "spending": 1830000,
+      "filings": 31,
+      "desc": "Global providers of electronic components, network solutions and wireless systems"
+    },
+    {
+      "name": "GRANITE TELECOMMUNICATIONS, LLC",
+      "state": "MA",
+      "spending": 1650000,
+      "filings": 31,
+      "desc": "Telecommunications"
+    },
+    {
+      "name": "T-MOBILE USA INC",
+      "state": "DC",
+      "spending": 1630000,
+      "filings": 53,
+      "desc": "Telecommunications company"
+    },
+    {
+      "name": "Q LINK WIRELESS LLC",
+      "state": "FL",
+      "spending": 1620000,
+      "filings": 25,
+      "desc": "Lifeline Program"
+    },
+    {
+      "name": "PARAMOUNT SKYDANCE CORPORATION (FKA PARAMOUNT GLOBAL)",
+      "state": "DC",
+      "spending": 1580000,
+      "filings": 28,
+      "desc": "Multimedia telecommunications company"
+    },
+    {
+      "name": "THE INTERNET & TELEVISION ASSN (FORMERLY NTL CABLE & TELECOMMUNICATIONS ASSN)",
+      "state": "DC",
+      "spending": 1540000,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "ATNI",
+      "state": "MA",
+      "spending": 1480000,
+      "filings": 33,
+      "desc": "Telecommunications provider and renewable energy operator"
+    },
+    {
+      "name": "NATIONAL CABLE AND TELECOMMUNICATIONS ASSOCIATION (\"NCTA\")",
+      "state": "DC",
+      "spending": 1470000,
+      "filings": 25,
+      "desc": "Trade Association"
+    },
+    {
+      "name": "JMA WIRELESS",
+      "state": "NY",
+      "spending": 1425000,
+      "filings": 25,
+      "desc": "Mobile wireless connectivity solutions company."
+    },
+    {
+      "name": "RAKUTEN SYMPHONY USA LLC",
+      "state": "CA",
+      "spending": 1420000,
+      "filings": 17,
+      "desc": "Mobile and telecommunications services."
+    },
+    {
+      "name": "CIENA CORPORATION (FORMERLY CIENA CORPORATION, BROADBAND GROUP)",
+      "state": "DC",
+      "spending": 1410000,
+      "filings": 9,
+      "desc": null
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 49645776
+    },
+    {
+      "year": 2019,
+      "spending": 54059912
+    },
+    {
+      "year": 2020,
+      "spending": 55425366.2
+    },
+    {
+      "year": 2021,
+      "spending": 61464697
+    },
+    {
+      "year": 2022,
+      "spending": 58790906
+    },
+    {
+      "year": 2023,
+      "spending": 60527578
+    },
+    {
+      "year": 2024,
+      "spending": 52276142
+    },
+    {
+      "year": 2025,
+      "spending": 59379921
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "TEC",
+      "count": 6121
+    },
+    {
+      "code": "COM",
+      "count": 1371
+    },
+    {
+      "code": "TAX",
+      "count": 1169
+    },
+    {
+      "code": "BUD",
+      "count": 610
+    },
+    {
+      "code": "DEF",
+      "count": 437
+    },
+    {
+      "code": "TRD",
+      "count": 309
+    },
+    {
+      "code": "CSP",
+      "count": 266
+    },
+    {
+      "code": "CPT",
+      "count": 262
+    },
+    {
+      "code": "LBR",
+      "count": 255
+    },
+    {
+      "code": "AGR",
+      "count": 145
+    }
+  ]
+}

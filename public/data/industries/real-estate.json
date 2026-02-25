@@ -1,0 +1,434 @@
+{
+  "industry": "real-estate",
+  "totalSpending": 403202859.5,
+  "totalFilings": 11992,
+  "clientCount": 985,
+  "topClients": [
+    {
+      "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL INC",
+      "state": "DC",
+      "spending": 50997962,
+      "filings": 35,
+      "desc": null
+    },
+    {
+      "name": "REAL ESTATE ROUNDTABLE",
+      "state": "DC",
+      "spending": 38008864,
+      "filings": 117,
+      "desc": "Commercial Real Estate Industry"
+    },
+    {
+      "name": "COMMERCIAL REAL ESTATE FINANCE COUNCIL",
+      "state": "DC",
+      "spending": 10370000,
+      "filings": 72,
+      "desc": null
+    },
+    {
+      "name": "MANUFACTURED HOUSING INSTITUTE",
+      "state": "VA",
+      "spending": 7400366,
+      "filings": 127,
+      "desc": "Trade association representing all segments of the manufactured housing industry."
+    },
+    {
+      "name": "BUILDING AND CONSTRUCTION TRADES DEPT AFL-CIO",
+      "state": "DC",
+      "spending": 7280000,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "HOUSING POLICY COUNCIL",
+      "state": "DC",
+      "spending": 5764000,
+      "filings": 80,
+      "desc": "Trade association"
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF REALTORS",
+      "state": "DC",
+      "spending": 4620000,
+      "filings": 84,
+      "desc": "Real Estate Trade Association"
+    },
+    {
+      "name": "CHRYSALIS HOLDINGS, INC. (D.B.A. NEWDAY)",
+      "state": "MD",
+      "spending": 4260000,
+      "filings": 31,
+      "desc": "Provider of residential home mortgages"
+    },
+    {
+      "name": "CORECIVIC",
+      "state": "DC",
+      "spending": 3680000,
+      "filings": 65,
+      "desc": "finance, construction and management of prisons"
+    },
+    {
+      "name": "ROCKET LP FKA RKT HOLDINGS",
+      "state": "MI",
+      "spending": 3550000,
+      "filings": 8,
+      "desc": "Mortgage, real estate, business services"
+    },
+    {
+      "name": "HCBS ADVOCACY, LLC",
+      "state": "DC",
+      "spending": 3480000,
+      "filings": 45,
+      "desc": "Housing"
+    },
+    {
+      "name": "AMERICAN SENIORS HOUSING ASSOCIATION",
+      "state": "DC",
+      "spending": 3450000,
+      "filings": 69,
+      "desc": "seniors housing trade association"
+    },
+    {
+      "name": "NATIONAL AFFORDABLE HOUSING MANAGEMENT ASSOCIATION (NAHMA)",
+      "state": "VA",
+      "spending": 3441000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "AFFORDABLE HOUSING DEVELOPERS COUNCIL",
+      "state": "DC",
+      "spending": 3260000,
+      "filings": 30,
+      "desc": "Housing developers working to advance federal policies to meet affordable housing needs."
+    },
+    {
+      "name": "INTERNATIONAL CODE COUNCIL (ICC)",
+      "state": "DC",
+      "spending": 3255000,
+      "filings": 49,
+      "desc": "develop and advocate for the adoption of model building codes"
+    },
+    {
+      "name": "LEADING BUILDERS OF AMERICA",
+      "state": "DC",
+      "spending": 3225000,
+      "filings": 60,
+      "desc": "Trade Association for the home building industry"
+    },
+    {
+      "name": "EASTERN SHIPBUILDING GROUP, INC.",
+      "state": "FL",
+      "spending": 2805595,
+      "filings": 66,
+      "desc": "Shipbuilder"
+    },
+    {
+      "name": "THE AFFORDABLE HOUSING TAX CREDIT COALITION",
+      "state": "DC",
+      "spending": 2490000,
+      "filings": 23,
+      "desc": null
+    },
+    {
+      "name": "HUNTINGTON INGALLS INCORPORATED",
+      "state": "VA",
+      "spending": 2460000,
+      "filings": 39,
+      "desc": "shipbuilding"
+    },
+    {
+      "name": "BUILDING OWNERS AND MANAGERS ASSOCIATION INTERNATIONAL",
+      "state": "DC",
+      "spending": 2453420,
+      "filings": 35,
+      "desc": "Trade association (commercial real estate)"
+    },
+    {
+      "name": "FLUOR CORPORATION",
+      "state": "DC",
+      "spending": 2290000,
+      "filings": 35,
+      "desc": "Engineering, construction and project management company"
+    },
+    {
+      "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+      "state": "DC",
+      "spending": 2243500,
+      "filings": 27,
+      "desc": "&#226;€‹Trade association of property casualty insurers."
+    },
+    {
+      "name": "COALITION FOR SUSTAINABLE MULTIFAMILY HOUSING",
+      "state": "DC",
+      "spending": 2160000,
+      "filings": 28,
+      "desc": "multifamily housing finance issues"
+    },
+    {
+      "name": "INTELLECTUAL PROPERTY OWNERS ASSOCIATION",
+      "state": "DC",
+      "spending": 2150000,
+      "filings": 52,
+      "desc": null
+    },
+    {
+      "name": "HILLTOP HOLDINGS INC.",
+      "state": "TX",
+      "spending": 2080000,
+      "filings": 26,
+      "desc": "Real Estate Consulting"
+    },
+    {
+      "name": "CENTINEL PUBLIC PARTNERSHIPS, LLC",
+      "state": "NY",
+      "spending": 2060000,
+      "filings": 30,
+      "desc": "Property and development manager."
+    },
+    {
+      "name": "CORECIVIC, INC.",
+      "state": "DC",
+      "spending": 1950000,
+      "filings": 50,
+      "desc": "finance, construction and management of prisons"
+    },
+    {
+      "name": "CEMEX INC",
+      "state": "TX",
+      "spending": 1935000,
+      "filings": 63,
+      "desc": "Building Materials Company"
+    },
+    {
+      "name": "BALFOUR BEATTY COMMUNITIES",
+      "state": "PA",
+      "spending": 1860000,
+      "filings": 26,
+      "desc": "Diversified real estate services company"
+    },
+    {
+      "name": "GBX ASSOCIATES LLC",
+      "state": "OH",
+      "spending": 1830000,
+      "filings": 23,
+      "desc": "Historic real estate"
+    },
+    {
+      "name": "ROCK CENTRAL",
+      "state": "MI",
+      "spending": 1790000,
+      "filings": 40,
+      "desc": "Mortgage, real estate, business services"
+    },
+    {
+      "name": "THE BUILDSTRONG COALITION",
+      "state": "DC",
+      "spending": 1760000,
+      "filings": 22,
+      "desc": "Dedicated to stronger building codes to protect property and lives from Nat. Disasters"
+    },
+    {
+      "name": "BECHTEL NATIONAL, INC.",
+      "state": "VA",
+      "spending": 1680000,
+      "filings": 29,
+      "desc": "global engineering, procurement, and construction company"
+    },
+    {
+      "name": "HILLWOOD DEVELOPMENT COMPANY, LLC",
+      "state": "TX",
+      "spending": 1650000,
+      "filings": 37,
+      "desc": "Real estate development"
+    },
+    {
+      "name": "HUNTINGTON INGALLS INDUSTRIES, INC. (FKA HUNTINGTON INGALLS INCORPORATED)",
+      "state": "VA",
+      "spending": 1620000,
+      "filings": 27,
+      "desc": "Ship Building"
+    },
+    {
+      "name": "GEORGIA PEANUT COMMISSION",
+      "state": "DC",
+      "spending": 1610000,
+      "filings": 31,
+      "desc": "Federal advocacy for subsidized housing programs."
+    },
+    {
+      "name": "VULCAN MATERIALS COMPANY",
+      "state": "AL",
+      "spending": 1540000,
+      "filings": 74,
+      "desc": "Construction Materials"
+    },
+    {
+      "name": "COMMISIMPEX",
+      "state": null,
+      "spending": 1525000,
+      "filings": 33,
+      "desc": "Construction"
+    },
+    {
+      "name": "VIGOR INDUSTRIAL, LLC",
+      "state": "WA",
+      "spending": 1500000,
+      "filings": 31,
+      "desc": "Ship building"
+    },
+    {
+      "name": "CMH SERVICES",
+      "state": "TN",
+      "spending": 1500000,
+      "filings": 31,
+      "desc": "Construction/Housing"
+    },
+    {
+      "name": "THE RELATED COMPANIES, LP",
+      "state": "NY",
+      "spending": 1480000,
+      "filings": 27,
+      "desc": "Real Estate Development, Operations & Management services firm"
+    },
+    {
+      "name": "BOLDYN NETWORKS (FKA SIGNAL POINT SYSTEMS, INC.)",
+      "state": "GA",
+      "spending": 1470000,
+      "filings": 29,
+      "desc": "Construction of small cellular networks"
+    },
+    {
+      "name": "NATIONAL APARTMENT ASSOCIATION",
+      "state": "VA",
+      "spending": 1470000,
+      "filings": 31,
+      "desc": "rental housing"
+    },
+    {
+      "name": "NATIONAL FAIR HOUSING ALLIANCE",
+      "state": "DC",
+      "spending": 1454802,
+      "filings": 39,
+      "desc": null
+    },
+    {
+      "name": "HII",
+      "state": "DC",
+      "spending": 1430000,
+      "filings": 29,
+      "desc": "Shipbuilding, Maritime services"
+    },
+    {
+      "name": "HUNT COMPANIES, INC.",
+      "state": "DC",
+      "spending": 1400000,
+      "filings": 34,
+      "desc": "Construction and housing management company."
+    },
+    {
+      "name": "CONSTRUCTION INDUSTRY ROUND TABLE",
+      "state": "VA",
+      "spending": 1382600,
+      "filings": 26,
+      "desc": null
+    },
+    {
+      "name": "THE AMHERST GROUP, LLC",
+      "state": "TX",
+      "spending": 1370000,
+      "filings": 37,
+      "desc": "Real estate investment, leasing, and sales."
+    },
+    {
+      "name": "HUNT COMPANIES",
+      "state": "DC",
+      "spending": 1360000,
+      "filings": 26,
+      "desc": "Real estate"
+    },
+    {
+      "name": "ALDEN TORCH FINANCIAL, LLC",
+      "state": "CO",
+      "spending": 1360000,
+      "filings": 17,
+      "desc": "Real Estate Property Developer"
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 39085810
+    },
+    {
+      "year": 2019,
+      "spending": 43590568
+    },
+    {
+      "year": 2020,
+      "spending": 45274224.5
+    },
+    {
+      "year": 2021,
+      "spending": 45124759
+    },
+    {
+      "year": 2022,
+      "spending": 51508696
+    },
+    {
+      "year": 2023,
+      "spending": 60281569
+    },
+    {
+      "year": 2024,
+      "spending": 51062554
+    },
+    {
+      "year": 2025,
+      "spending": 67274679
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "HOU",
+      "count": 3292
+    },
+    {
+      "code": "BUD",
+      "count": 1829
+    },
+    {
+      "code": "TAX",
+      "count": 1780
+    },
+    {
+      "code": "TRA",
+      "count": 1009
+    },
+    {
+      "code": "RES",
+      "count": 978
+    },
+    {
+      "code": "DEF",
+      "count": 776
+    },
+    {
+      "code": "FIN",
+      "count": 738
+    },
+    {
+      "code": "ENG",
+      "count": 663
+    },
+    {
+      "code": "LBR",
+      "count": 639
+    },
+    {
+      "code": "GOV",
+      "count": 493
+    }
+  ]
+}

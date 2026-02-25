@@ -1,1 +1,83 @@
-{"id":129500,"name":"PEPSICO","slug":"pepsico","state":"NY","description":null,"totalSpending":1750000,"filings":22,"yearlySpending":[{"year":2018,"income":360000},{"year":2019,"income":270000},{"year":2020,"income":360000},{"year":2021,"income":360000},{"year":2022,"income":240000},{"year":2023,"income":160000}],"firms":["THE RUSSELL GROUP, INC."],"lobbyists":["RANDALL RUSSELL","TYSON REDPATH","ANDREW HARKER","KARLA THIEMAN","JESSICA SCHULKEN","SAMANTHA BUCHALTER","ASHLEE JOHNSON"],"issues":["FOO",null],"sampleDescriptions":["Public Law No. 114-216, National Bioengineered Food Disclosure Standard;Issues related to implementation of the Healthy, Hunger-Free Kids Act of 2010 (Nutrition Standards for All Foods Sold in School); Advocacy on issues pertaining to labeling harmonization between USDA and FDA; Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); work regarding Farm Bill reauthorization.","Public Law No. 114-216, National Bioengineered Food Disclosure Standard;Issues related to implementation of the Healthy, Hunger-Free Kids Act of 2010 (Nutrition Standards for All Foods Sold in School); Advocacy on issues pertaining to labeling harmonization between USDA and FDA; Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); work regarding H.R.2 - Agriculture Improvement Act of 2018.","Public Law No. 114-216, National Bioengineered Food Disclosure Standard; Issues related to implementation of the Healthy, Hunger-Free Kids Act of 2010 (Nutrition Standards for All Foods Sold in School); Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); work regarding H.R. 2/S. 3042, Agriculture Improvement Act of 2018.","Public Law No. 114-216, National Bioengineered Food Disclosure Standard; Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); work regarding H.R. 2/S. 3042, Agriculture Improvement Act of 2018.","Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); matters concerning trade; matters concerning transportation and infrastructure; matters concerning recycling.","Matters concerning the Summer Food Service Program; matters concerning trade; matters concerning transportation and infrastructure; matters concerning recycling; matters concerning the seed stock of potatoes.","Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes.","Matters concerning the National School Lunch and Breakfast Program; matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; implementation of the Food Safety Modernization Act concerning third-party environmental testing certification; H.R.6044 - Accurate Labels Act; matters related to COVID-19 outbreak.","Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; implementation of the Food Safety Modernization Act concerning third-party environmental testing certification; matters related to COVID-19.","Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; implementation of the Food Safety Modernization Act concerning third-party environmental testing certification; matters related to COVID-19; National Bioengineered Food Disclosure Standard.","Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; matters related to COVID-19; matters concerning racial equity.","Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; matters related to COVID-19.","Matters concerning regenerative agriculture; matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters concerning hunger.","Matters concerning regenerative agriculture; matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; Partnerships for Climate-Smart Commodities program; matters concerning the rail industry labor dispute."],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 129500,
+  "name": "PEPSICO",
+  "slug": "pepsico",
+  "state": "NY",
+  "description": null,
+  "totalSpending": 1750000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 360000
+    },
+    {
+      "year": 2019,
+      "income": 270000
+    },
+    {
+      "year": 2020,
+      "income": 360000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 160000
+    }
+  ],
+  "firms": [
+    "THE RUSSELL GROUP, INC."
+  ],
+  "lobbyists": [
+    "RANDALL RUSSELL",
+    "TYSON REDPATH",
+    "ANDREW HARKER",
+    "KARLA THIEMAN",
+    "JESSICA SCHULKEN",
+    "SAMANTHA BUCHALTER",
+    "ASHLEE JOHNSON"
+  ],
+  "issues": [
+    "FOO",
+    null
+  ],
+  "sampleDescriptions": [
+    "Public Law No. 114-216, National Bioengineered Food Disclosure Standard;Issues related to implementation of the Healthy, Hunger-Free Kids Act of 2010 (Nutrition Standards for All Foods Sold in School); Advocacy on issues pertaining to labeling harmonization between USDA and FDA; Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); work regarding Farm Bill reauthorization.",
+    "Public Law No. 114-216, National Bioengineered Food Disclosure Standard;Issues related to implementation of the Healthy, Hunger-Free Kids Act of 2010 (Nutrition Standards for All Foods Sold in School); Advocacy on issues pertaining to labeling harmonization between USDA and FDA; Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); work regarding H.R.2 - Agriculture Improvement Act of 2018.",
+    "Public Law No. 114-216, National Bioengineered Food Disclosure Standard; Issues related to implementation of the Healthy, Hunger-Free Kids Act of 2010 (Nutrition Standards for All Foods Sold in School); Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); work regarding H.R. 2/S. 3042, Agriculture Improvement Act of 2018.",
+    "Public Law No. 114-216, National Bioengineered Food Disclosure Standard; Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); work regarding H.R. 2/S. 3042, Agriculture Improvement Act of 2018.",
+    "Matters concerning the administration of the Supplemental Nutrition Assistance Program (SNAP); matters concerning trade; matters concerning transportation and infrastructure; matters concerning recycling.",
+    "Matters concerning the Summer Food Service Program; matters concerning trade; matters concerning transportation and infrastructure; matters concerning recycling; matters concerning the seed stock of potatoes.",
+    "Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes.",
+    "Matters concerning the National School Lunch and Breakfast Program; matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; implementation of the Food Safety Modernization Act concerning third-party environmental testing certification; H.R.6044 - Accurate Labels Act; matters related to COVID-19 outbreak.",
+    "Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; implementation of the Food Safety Modernization Act concerning third-party environmental testing certification; matters related to COVID-19.",
+    "Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; implementation of the Food Safety Modernization Act concerning third-party environmental testing certification; matters related to COVID-19; National Bioengineered Food Disclosure Standard.",
+    "Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; matters related to COVID-19; matters concerning racial equity.",
+    "Matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters related to sustainability; matters related to COVID-19.",
+    "Matters concerning regenerative agriculture; matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; matters concerning hunger.",
+    "Matters concerning regenerative agriculture; matters concerning transportation and infrastructure; matters concerning the seed stock of potatoes; Partnerships for Climate-Smart Commodities program; matters concerning the rail industry labor dispute."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -56,
+  "trajectory": "declining",
+  "yearsActive": 6,
+  "avgAnnualSpending": 291667,
+  "peakYear": 2018,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 1
+}

@@ -1,1 +1,121 @@
-{"id":140294,"name":"PORT OF PORTLAND","slug":"port-of-portland","state":"OR","description":"Regional government agency responsible for aviation and maritime activities.","totalSpending":1490000,"filings":31,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":270000},{"year":2020,"income":170000},{"year":2021,"income":160000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":150000},{"year":2025,"income":160000}],"firms":["K&L GATES, LLP"],"lobbyists":["CLIFF ROTHENSTEIN","SCOTT NELSON","RODERICK HALL","PAMELA GARVIE","JAMES SARTUCCI","SEAN MCGLYNN","TIM PECKINPAUGH","DARRELL CONNER","PETER NELSON","BRODY GARLAND","WILLIAM KIRK","JAMES WALSH","GEORGE RICCARDO","MATTHEW MANNING","JORDAN COOPER","SCOTT GELBMAN","STACY ETTINGER","THOMAS FULTON","SARAH SWANSON","MICHAEL EVANS","JOSEPH TRAHERN"],"issues":["ENV","AVI","MAR","BUD","TRD","TRA","HOM","TAX","ECN",null],"sampleDescriptions":["Issues pertaining to Superfund (no specific legislation).","Various provisions of FAA Reauthorization, H.R. 302, sections 163, 115, 133, 1938 and issues related to passenger facility charge.","Provisions related to marine infrastructure and harbor maintenance in S. 3021.","Appropriations regarding infrastructure-related spending in H.R. 6072 and S. 3023; transportation security provisions in S. 3109; and water/dredging infrastructure provisions in H.R. 5895.","FY 19 appropriations regarding infrastructure-related spending in H.R. 6072 and S. 3023; transportation security provisions in S. 3109; and water/dredging infrastructure provisions in H.R. 5895.\nFY 20 appropriations related to infrastructure and transportation - no specific legislation.","Various provisions of FAA Reauthorization, H.R. 302, sections 163, 115, 133, 1938 and issues related to passenger facility charge.\nIssues related to the U.S. Japan Bilateral airspace treaty negotiations - no specific legislation.","Issues related to pre-disaster mitigation funding - no specific legislation.\nIssues related to the process of slot allocation including the U.S.-Japan bilateral air service agreement - no specific legislation.","Issues related to pending United States, Mexico, Canada Trade agreement - no specific legislation.","Issues related to Port Grant Programs - no specific legislation.","Issues related to pre-disaster mitigation funding - no specific legislation.","Issues related to Superfund - no specific legislation.","Issues related to surface transportation funding - no specific legislation.","Issues related to SECURE ID implementation - no specific legislation.","Issues related to Superfund - no specific legislation.\nH.R. 2500/S.1790 - National Defense Authorization Act - issues related to PFAS.","Issues related to pre-disaster mitigation funding - no specific legislation.\nIssues related to the process of slot allocation including the U.S.-Japan bilateral air service agreement - no specific legislation.\nIssues related to UAS hazard mitigation program - no specific legislation.","Issues related to pre-disaster mitigation funding - no specific legislation.\nIssues related to security funding - no specific legislation.","Issues related to Superfund - no specific legislation.\nNational Defense Authorization Act - issues related to PFAS.","Issues related to surface transportation funding - H.R. 322 - INVEST Act and H.R. 2 - INVEST in America Act.","Issues related to pre-disaster mitigation funding - H.R. 322 - INVEST Act and H.R. 2 - INVEST in America Act.\nIssues related to security funding - no specific legislation.","Issues related to Superfund - no specific legislation.\nS. 4949/H.R. 6395 - National Defense Authorization Act - issues related to PFAS."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 140294,
+  "name": "PORT OF PORTLAND",
+  "slug": "port-of-portland",
+  "state": "OR",
+  "description": "Regional government agency responsible for aviation and maritime activities.",
+  "totalSpending": 1490000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 270000
+    },
+    {
+      "year": 2020,
+      "income": 170000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 160000
+    }
+  ],
+  "firms": [
+    "K&L GATES, LLP"
+  ],
+  "lobbyists": [
+    "CLIFF ROTHENSTEIN",
+    "SCOTT NELSON",
+    "RODERICK HALL",
+    "PAMELA GARVIE",
+    "JAMES SARTUCCI",
+    "SEAN MCGLYNN",
+    "TIM PECKINPAUGH",
+    "DARRELL CONNER",
+    "PETER NELSON",
+    "BRODY GARLAND",
+    "WILLIAM KIRK",
+    "JAMES WALSH",
+    "GEORGE RICCARDO",
+    "MATTHEW MANNING",
+    "JORDAN COOPER",
+    "SCOTT GELBMAN",
+    "STACY ETTINGER",
+    "THOMAS FULTON",
+    "SARAH SWANSON",
+    "MICHAEL EVANS",
+    "JOSEPH TRAHERN"
+  ],
+  "issues": [
+    "ENV",
+    "AVI",
+    "MAR",
+    "BUD",
+    "TRD",
+    "TRA",
+    "HOM",
+    "TAX",
+    "ECN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues pertaining to Superfund (no specific legislation).",
+    "Various provisions of FAA Reauthorization, H.R. 302, sections 163, 115, 133, 1938 and issues related to passenger facility charge.",
+    "Provisions related to marine infrastructure and harbor maintenance in S. 3021.",
+    "Appropriations regarding infrastructure-related spending in H.R. 6072 and S. 3023; transportation security provisions in S. 3109; and water/dredging infrastructure provisions in H.R. 5895.",
+    "FY 19 appropriations regarding infrastructure-related spending in H.R. 6072 and S. 3023; transportation security provisions in S. 3109; and water/dredging infrastructure provisions in H.R. 5895.\nFY 20 appropriations related to infrastructure and transportation - no specific legislation.",
+    "Various provisions of FAA Reauthorization, H.R. 302, sections 163, 115, 133, 1938 and issues related to passenger facility charge.\nIssues related to the U.S. Japan Bilateral airspace treaty negotiations - no specific legislation.",
+    "Issues related to pre-disaster mitigation funding - no specific legislation.\nIssues related to the process of slot allocation including the U.S.-Japan bilateral air service agreement - no specific legislation.",
+    "Issues related to pending United States, Mexico, Canada Trade agreement - no specific legislation.",
+    "Issues related to Port Grant Programs - no specific legislation.",
+    "Issues related to pre-disaster mitigation funding - no specific legislation.",
+    "Issues related to Superfund - no specific legislation.",
+    "Issues related to surface transportation funding - no specific legislation.",
+    "Issues related to SECURE ID implementation - no specific legislation.",
+    "Issues related to Superfund - no specific legislation.\nH.R. 2500/S.1790 - National Defense Authorization Act - issues related to PFAS.",
+    "Issues related to pre-disaster mitigation funding - no specific legislation.\nIssues related to the process of slot allocation including the U.S.-Japan bilateral air service agreement - no specific legislation.\nIssues related to UAS hazard mitigation program - no specific legislation.",
+    "Issues related to pre-disaster mitigation funding - no specific legislation.\nIssues related to security funding - no specific legislation.",
+    "Issues related to Superfund - no specific legislation.\nNational Defense Authorization Act - issues related to PFAS.",
+    "Issues related to surface transportation funding - H.R. 322 - INVEST Act and H.R. 2 - INVEST in America Act.",
+    "Issues related to pre-disaster mitigation funding - H.R. 322 - INVEST Act and H.R. 2 - INVEST in America Act.\nIssues related to security funding - no specific legislation.",
+    "Issues related to Superfund - no specific legislation.\nS. 4949/H.R. 6395 - National Defense Authorization Act - issues related to PFAS."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 186250,
+  "peakYear": 2019,
+  "lobbyistCount": 21,
+  "firmCount": 1,
+  "issueCount": 9
+}

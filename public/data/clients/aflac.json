@@ -1,1 +1,71 @@
-{"id":124231,"name":"AFLAC","slug":"aflac","state":"GA","description":null,"totalSpending":3390000,"filings":20,"yearlySpending":[{"year":2018,"income":960000},{"year":2019,"income":1270000},{"year":2020,"income":410000},{"year":2021,"income":470000},{"year":2022,"income":240000},{"year":2023,"income":40000}],"firms":["HOGAN LOVELLS US LLP"],"lobbyists":["W. HOUSE","WARREN MARUYAMA","JOHN STANTON","ROBERT GLENNON","MICHAEL BELL","H MILLER"],"issues":["INS",null],"sampleDescriptions":["Insurance, Trade, Tax","Insurance, trade, tax","Tax legislation and tax regulations affecting U.S. multinational corporations."],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 124231,
+  "name": "AFLAC",
+  "slug": "aflac",
+  "state": "GA",
+  "description": null,
+  "totalSpending": 3390000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 960000
+    },
+    {
+      "year": 2019,
+      "income": 1270000
+    },
+    {
+      "year": 2020,
+      "income": 410000
+    },
+    {
+      "year": 2021,
+      "income": 470000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 40000
+    }
+  ],
+  "firms": [
+    "HOGAN LOVELLS US LLP"
+  ],
+  "lobbyists": [
+    "W. HOUSE",
+    "WARREN MARUYAMA",
+    "JOHN STANTON",
+    "ROBERT GLENNON",
+    "MICHAEL BELL",
+    "H MILLER"
+  ],
+  "issues": [
+    "INS",
+    null
+  ],
+  "sampleDescriptions": [
+    "Insurance, Trade, Tax",
+    "Insurance, trade, tax",
+    "Tax legislation and tax regulations affecting U.S. multinational corporations."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -96,
+  "trajectory": "declining",
+  "yearsActive": 6,
+  "avgAnnualSpending": 565000,
+  "peakYear": 2019,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1
+}

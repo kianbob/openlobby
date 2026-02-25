@@ -1,1 +1,80 @@
-{"id":120767,"name":"UNITED WATER CONSERVATION DISTRICT","slug":"united-water-conservation-district","state":"CA","description":"Public agency responsible for water conservation and recharge","totalSpending":1420000,"filings":29,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":190000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":250000},{"year":2024,"income":150000},{"year":2025,"income":170000}],"firms":["FOLEY & LARDNER LLP"],"lobbyists":["DENNIS CARDOZA","JARED RIFIS","WILLIAM BALL","KATIE SCHOETTLER","KATE KROS","JOHN STROM"],"issues":["NAT",null],"sampleDescriptions":["Regulatory issues with National Marine Fisheries Services","Regulatory issues with National Marine Fisheries Services, the Fish Act (H.R.3916)"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 120767,
+  "name": "UNITED WATER CONSERVATION DISTRICT",
+  "slug": "united-water-conservation-district",
+  "state": "CA",
+  "description": "Public agency responsible for water conservation and recharge",
+  "totalSpending": 1420000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 190000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 170000
+    }
+  ],
+  "firms": [
+    "FOLEY & LARDNER LLP"
+  ],
+  "lobbyists": [
+    "DENNIS CARDOZA",
+    "JARED RIFIS",
+    "WILLIAM BALL",
+    "KATIE SCHOETTLER",
+    "KATE KROS",
+    "JOHN STROM"
+  ],
+  "issues": [
+    "NAT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Regulatory issues with National Marine Fisheries Services",
+    "Regulatory issues with National Marine Fisheries Services, the Fish Act (H.R.3916)"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 6,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 177500,
+  "peakYear": 2023,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1
+}

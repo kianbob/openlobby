@@ -1,0 +1,434 @@
+{
+  "industry": "defense",
+  "totalSpending": 1417715301.91,
+  "totalFilings": 20572,
+  "clientCount": 1639,
+  "topClients": [
+    {
+      "name": "BOEING COMPANY",
+      "state": "IL",
+      "spending": 99875000,
+      "filings": 91,
+      "desc": "Aerospace Manufacturing"
+    },
+    {
+      "name": "GENERAL DYNAMICS CORP",
+      "state": "VA",
+      "spending": 89779002,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "MD",
+      "spending": 79994000,
+      "filings": 282,
+      "desc": "Global security and information technology"
+    },
+    {
+      "name": "GENERAL ATOMICS",
+      "state": "DC",
+      "spending": 45200000,
+      "filings": 63,
+      "desc": null
+    },
+    {
+      "name": "NORTHROP GRUMMAN CORPORATION",
+      "state": "CA",
+      "spending": 43910000,
+      "filings": 97,
+      "desc": "Defense contractor"
+    },
+    {
+      "name": "HUNTINGTON INGALLS INDUSTRIES INCORPORATED",
+      "state": "DC",
+      "spending": 37959013,
+      "filings": 60,
+      "desc": "Navy shipbuilding"
+    },
+    {
+      "name": "HONEYWELL INTERNATIONAL",
+      "state": "DC",
+      "spending": 31290000,
+      "filings": 18,
+      "desc": null
+    },
+    {
+      "name": "TEXTRON INC",
+      "state": "DC",
+      "spending": 28920903,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+      "state": "VA",
+      "spending": 25396371,
+      "filings": 53,
+      "desc": "Steven Strobridge, Col, Delisted for 04/26/2013\nRene Campos, CDR, Delisted for 06/17/2013"
+    },
+    {
+      "name": "AMERICAN FED OF GOVERNMENT EMPLOYEES AFL-CIO",
+      "state": "DC",
+      "spending": 23923700,
+      "filings": 49,
+      "desc": null
+    },
+    {
+      "name": "INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS",
+      "state": "MD",
+      "spending": 22190000,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "LEIDOS INC",
+      "state": "VA",
+      "spending": 20340000,
+      "filings": 33,
+      "desc": "Science & technology solutions leader for nat'l security, health, & engineering."
+    },
+    {
+      "name": "RTX CORPORATION AND AFFILIATES",
+      "state": "MA",
+      "spending": 17230000,
+      "filings": 104,
+      "desc": "Technology and innovation leader specializing in defense, security and civil markets."
+    },
+    {
+      "name": "AEROSPACE INDUSTRIES ASSOCIATION OF AMERICA INC",
+      "state": "VA",
+      "spending": 16280000,
+      "filings": 37,
+      "desc": null
+    },
+    {
+      "name": "ORACLE CORPORATION",
+      "state": "TX",
+      "spending": 16260000,
+      "filings": 7,
+      "desc": null
+    },
+    {
+      "name": "ENVIRONMENTAL DEFENSE ACTION FUND",
+      "state": "DC",
+      "spending": 13717810,
+      "filings": 233,
+      "desc": "environmental advocacy"
+    },
+    {
+      "name": "UNION PACIFIC CORPORATION",
+      "state": "DC",
+      "spending": 12445887,
+      "filings": 15,
+      "desc": null
+    },
+    {
+      "name": "RAYTHEON COMPANY",
+      "state": "VA",
+      "spending": 10133000,
+      "filings": 47,
+      "desc": "Defense technology, civil government and cybersecurity solutions"
+    },
+    {
+      "name": "THE BOEING COMPANY",
+      "state": "VA",
+      "spending": 9842500,
+      "filings": 170,
+      "desc": "Aerospace company"
+    },
+    {
+      "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+      "state": "VA",
+      "spending": 9330000,
+      "filings": 53,
+      "desc": "Defense Integration Company"
+    },
+    {
+      "name": "GENERAL DYNAMICS",
+      "state": "VA",
+      "spending": 9025000,
+      "filings": 208,
+      "desc": "Defense contractor"
+    },
+    {
+      "name": "BOMBARDIER AEROSPACE (HOLDINGS) USA INC",
+      "state": "DC",
+      "spending": 8988000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS",
+      "state": "DC",
+      "spending": 8750000,
+      "filings": 32,
+      "desc": null
+    },
+    {
+      "name": "PALO ALTO NETWORKS, INC.",
+      "state": "CA",
+      "spending": 8732000,
+      "filings": 46,
+      "desc": "Cyber security"
+    },
+    {
+      "name": "HIKVISION USA, INC.",
+      "state": "CA",
+      "spending": 8300000,
+      "filings": 22,
+      "desc": "Provider of video surveillance products"
+    },
+    {
+      "name": "SAAB INC (FKA SAAB DEFENSE AND SECURITY USA LLC)",
+      "state": "NY",
+      "spending": 8200000,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "BATTELLE MEMORIAL INSTITUTE",
+      "state": "OH",
+      "spending": 7750000,
+      "filings": 33,
+      "desc": null
+    },
+    {
+      "name": "EXELON BUSINESS SERVICES LLC",
+      "state": "IL",
+      "spending": 7668000,
+      "filings": 7,
+      "desc": null
+    },
+    {
+      "name": "ULTRA MARITIME LLC (FORMERLY REPORTED AS ULTRA ELECTRONICS DEFENSE INC)",
+      "state": "CT",
+      "spending": 7410000,
+      "filings": 51,
+      "desc": "Global provider of aerospace, defense, and law enforcement hardware and software solutions"
+    },
+    {
+      "name": "SMITHS GROUP SERVICES CORPORATION",
+      "state": "DC",
+      "spending": 7400000,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "CA",
+      "spending": 7100000,
+      "filings": 21,
+      "desc": null
+    },
+    {
+      "name": "EPIRUS, INC.",
+      "state": "CA",
+      "spending": 6690000,
+      "filings": 70,
+      "desc": "Defense technology."
+    },
+    {
+      "name": "NATURAL RESOURCES DEFENSE COUNCIL",
+      "state": "NY",
+      "spending": 6593028,
+      "filings": 44,
+      "desc": null
+    },
+    {
+      "name": "SIERRA NEVADA COMPANY, LLC",
+      "state": "NV",
+      "spending": 6570000,
+      "filings": 26,
+      "desc": null
+    },
+    {
+      "name": "TENABLE INC",
+      "state": "MD",
+      "spending": 6410000,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "IDEMIA IDENTITY & SECURITY USA LLC",
+      "state": "VA",
+      "spending": 6330000,
+      "filings": 51,
+      "desc": null
+    },
+    {
+      "name": "VISA, INC.",
+      "state": "DC",
+      "spending": 6130000,
+      "filings": 2,
+      "desc": null
+    },
+    {
+      "name": "ARKEMA INC. AND ITS AFFILIATES (FKA ARKEMA INC.)",
+      "state": "PA",
+      "spending": 6048786,
+      "filings": 32,
+      "desc": null
+    },
+    {
+      "name": "ELBIT SYSTEMS OF AMERICA, LLC",
+      "state": "TX",
+      "spending": 6020000,
+      "filings": 45,
+      "desc": "Innovative, technology-based systems for diverse defense & commercial applications"
+    },
+    {
+      "name": "ENTERGY SERVICES LLC",
+      "state": "DC",
+      "spending": 5960000,
+      "filings": 11,
+      "desc": null
+    },
+    {
+      "name": "AECOM",
+      "state": "DC",
+      "spending": 5870000,
+      "filings": 17,
+      "desc": null
+    },
+    {
+      "name": "HOWMET AEROSPACE INC FORMALLY KNOWN AS ARCONIC INC",
+      "state": "PA",
+      "spending": 5710000,
+      "filings": 55,
+      "desc": "Arconic, Inc. separated on 4/1/2020 and this account now belongs to Howmet Aerospace, Inc."
+    },
+    {
+      "name": "BOOZ ALLEN HAMILTON INC.",
+      "state": "VA",
+      "spending": 5680000,
+      "filings": 25,
+      "desc": null
+    },
+    {
+      "name": "RAFAEL USA, INC.",
+      "state": "MD",
+      "spending": 5595000,
+      "filings": 37,
+      "desc": "Rafael develops and manufactures advanced defense systems."
+    },
+    {
+      "name": "AMERICAN ASSOCIATION OF PORT AUTHORITIES",
+      "state": "DC",
+      "spending": 4721059,
+      "filings": 24,
+      "desc": null
+    },
+    {
+      "name": "ACCENTURE FEDERAL SERVICES LLC",
+      "state": "VA",
+      "spending": 4455000,
+      "filings": 22,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN LEGION",
+      "state": "IN",
+      "spending": 4395000,
+      "filings": 43,
+      "desc": "Veterans Affairs"
+    },
+    {
+      "name": "DISABLED AMERICAN VETERANS",
+      "state": "DC",
+      "spending": 4321143,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "HAWKEYE 360 INC.",
+      "state": "VA",
+      "spending": 4210000,
+      "filings": 22,
+      "desc": null
+    },
+    {
+      "name": "GE AEROSPACE",
+      "state": "CT",
+      "spending": 4050000,
+      "filings": 73,
+      "desc": "Global infrastructure, healthcare and financial services company"
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 151159522.99
+    },
+    {
+      "year": 2019,
+      "spending": 174357545
+    },
+    {
+      "year": 2020,
+      "spending": 182049648.92000002
+    },
+    {
+      "year": 2021,
+      "spending": 161894498
+    },
+    {
+      "year": 2022,
+      "spending": 175465183
+    },
+    {
+      "year": 2023,
+      "spending": 183105454
+    },
+    {
+      "year": 2024,
+      "spending": 172296023
+    },
+    {
+      "year": 2025,
+      "spending": 217387427
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "DEF",
+      "count": 13731
+    },
+    {
+      "code": "BUD",
+      "count": 5688
+    },
+    {
+      "code": "HOM",
+      "count": 4731
+    },
+    {
+      "code": "VET",
+      "count": 1462
+    },
+    {
+      "code": "AER",
+      "count": 1459
+    },
+    {
+      "code": "TAX",
+      "count": 1412
+    },
+    {
+      "code": "TRA",
+      "count": 1230
+    },
+    {
+      "code": "GOV",
+      "count": 1039
+    },
+    {
+      "code": "AVI",
+      "count": 995
+    },
+    {
+      "code": "SCI",
+      "count": 847
+    }
+  ]
+}

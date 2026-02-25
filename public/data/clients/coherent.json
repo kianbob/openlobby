@@ -1,1 +1,90 @@
-{"id":119352,"name":"COHERENT","slug":"coherent","state":"PA","description":null,"totalSpending":1880000,"filings":27,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":90000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":270000},{"year":2023,"income":360000},{"year":2024,"income":290000},{"year":2025,"income":400000}],"firms":["ERVIN GRAVES STRATEGY GROUP, LLC"],"lobbyists":["JAMES ERVIN","COLBY MILLER","MEGHAN JACKSON","DANIEL SAUERS","MATTHEW MARSH","MARK BURNS"],"issues":["DEF",null],"sampleDescriptions":["National Defense Authorization Act for Fiscal Year 2019\nDefense Appropriations Bill for Fiscal Year 2019\nH.R. 1625 Appropriations Act for Fiscal Year 2018, Department of Defense Appropriations","National Defense Authorization Act for Fiscal Year 2019\nDefense Appropriations Bill for Fiscal Year 2019","National Defense Authorization Act for Fiscal Year 2020- Silicon carbide\nDefense Appropriations Act for Fiscal Year 2020- Silicon carbide","National Defense Authorization Act for Fiscal Year 2021 - Silicon carbide\nDefense Appropriations Act for Fiscal Year 2021 - Silicon carbide","National Defense Authorization Act for Fiscal Year 2021 - Silicon carbide\nDefense Appropriations Act for Fiscal Year 2021 - Silicon carbide\nS.3933 - CHIPS for America Act","National Defense Authorization Act for Fiscal Year22 - Silicon carbide\nDefense Appropriations Act for Fiscal Year22 - Silicon carbide\nCHIPS for America Act","National Defense Authorization Act for Fiscal Year 2022 - Silicon carbide Defense Appropriations Act for Fiscal Year 2022 - Silicon carbide CHIPS for America Act","National Defense Authorization Act for Fiscal Year 2023 - Silicon carbide Defense Appropriations Act for Fiscal Year 2023 - Silicon carbide CHIPS for America Act; U.S. Innovation and Competition Act (S. 1260);","National Defense Authorization Act for Fiscal Year 2024 - Silicon carbide Defense Appropriations Act for Fiscal Year 2024 - Silicon carbide CHIPS for America Act;","National Defense Authorization Act for Fiscal Year 2025 - Silicon carbide Defense Appropriations Act for Fiscal Year 2025 - Silicon carbide CHIPS for America Act;","National Defense Authorization Act for Fiscal Year 2025 - Silicon carbide Defense Appropriations Act for Fiscal Year 2025 - Silicon carbide CHIPS for America Act","National Defense Authorization Act for Fiscal Year 2026 - Silicon carbide Defense Appropriations Act for Fiscal Year 2026 - Silicon carbide CHIPS for America Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 119352,
+  "name": "COHERENT",
+  "slug": "coherent",
+  "state": "PA",
+  "description": null,
+  "totalSpending": 1880000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 120000
+    },
+    {
+      "year": 2019,
+      "income": 90000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 270000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 290000
+    },
+    {
+      "year": 2025,
+      "income": 400000
+    }
+  ],
+  "firms": [
+    "ERVIN GRAVES STRATEGY GROUP, LLC"
+  ],
+  "lobbyists": [
+    "JAMES ERVIN",
+    "COLBY MILLER",
+    "MEGHAN JACKSON",
+    "DANIEL SAUERS",
+    "MATTHEW MARSH",
+    "MARK BURNS"
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "National Defense Authorization Act for Fiscal Year 2019\nDefense Appropriations Bill for Fiscal Year 2019\nH.R. 1625 Appropriations Act for Fiscal Year 2018, Department of Defense Appropriations",
+    "National Defense Authorization Act for Fiscal Year 2019\nDefense Appropriations Bill for Fiscal Year 2019",
+    "National Defense Authorization Act for Fiscal Year 2020- Silicon carbide\nDefense Appropriations Act for Fiscal Year 2020- Silicon carbide",
+    "National Defense Authorization Act for Fiscal Year 2021 - Silicon carbide\nDefense Appropriations Act for Fiscal Year 2021 - Silicon carbide",
+    "National Defense Authorization Act for Fiscal Year 2021 - Silicon carbide\nDefense Appropriations Act for Fiscal Year 2021 - Silicon carbide\nS.3933 - CHIPS for America Act",
+    "National Defense Authorization Act for Fiscal Year22 - Silicon carbide\nDefense Appropriations Act for Fiscal Year22 - Silicon carbide\nCHIPS for America Act",
+    "National Defense Authorization Act for Fiscal Year 2022 - Silicon carbide Defense Appropriations Act for Fiscal Year 2022 - Silicon carbide CHIPS for America Act",
+    "National Defense Authorization Act for Fiscal Year 2023 - Silicon carbide Defense Appropriations Act for Fiscal Year 2023 - Silicon carbide CHIPS for America Act; U.S. Innovation and Competition Act (S. 1260);",
+    "National Defense Authorization Act for Fiscal Year 2024 - Silicon carbide Defense Appropriations Act for Fiscal Year 2024 - Silicon carbide CHIPS for America Act;",
+    "National Defense Authorization Act for Fiscal Year 2025 - Silicon carbide Defense Appropriations Act for Fiscal Year 2025 - Silicon carbide CHIPS for America Act;",
+    "National Defense Authorization Act for Fiscal Year 2025 - Silicon carbide Defense Appropriations Act for Fiscal Year 2025 - Silicon carbide CHIPS for America Act",
+    "National Defense Authorization Act for Fiscal Year 2026 - Silicon carbide Defense Appropriations Act for Fiscal Year 2026 - Silicon carbide CHIPS for America Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 233,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 235000,
+  "peakYear": 2025,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1
+}

@@ -1,1 +1,89 @@
-{"id":203202,"name":"DLA PIPER LLP (US) (FOR ADP, LLC)","slug":"dla-piper-llp-us-for-adp-llc","state":"DC","description":"Law firm, on behalf of its client, a provider of human capital management solutions.","totalSpending":1420000,"filings":24,"yearlySpending":[{"year":2018,"income":60000},{"year":2019,"income":240000},{"year":2020,"income":250000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":150000}],"firms":["ALEXANDRIA VENTURES, LLC"],"lobbyists":["CHARLES ASENSIO"],"issues":["LBR","TAX",null],"sampleDescriptions":["Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Enterprise Zones.","Implementation of the Tax Cuts and Jobs Act (Pub. L. No. 115-97) and the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Pub. L. No. 115-63).","Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Enterprise Zones.\nH.R. 2213/S. 978, to amend the Internal Revenue Code of 1986 to make the Work Opportunity Tax Credit permanent.","Implementation of the Tax Cuts and Jobs Act (Pub. L. No. 115-97) and the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Pub. L. No. 115-63). \nH.R. 748, Coronavirus Aid, Relief, and Economic Security (CARES) Act, provisions on Employee Retention Tax Credit.","Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Enterprise Zones.\nH.R. 2213/S. 978, to amend the Internal Revenue Code of 1986 to make the Work Opportunity Tax Credit permanent. \nH.R. 748, Coronavirus Aid, Relief, and Economic Security (CARES) Act, provisions on Employee Retention Tax Credit.","Implementation of the Tax Cuts and Jobs Act (Pub. L. No. 115-97) and the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Pub. L. No. 115-63). \nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.","Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Enterprise Zones.\nH.R. 2213/S. 978, to amend the Internal Revenue Code of 1986 to make the Work Opportunity Tax Credit permanent. \nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.","Implementation of the Tax Cuts and Jobs Act (Pub. L. No. 115-97) and the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Pub. L. No. 115-63).\nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.","Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Opportunity Zones.\nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.\nAnalyze the effectiveness of the Work Opportunity Tax Credit to support program continuity beyond December 31, 2025.","Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Opportunity Zones.\nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.\nAnalyze the effectiveness of the Work Opportunity Tax Credit to support program continuity beyond December 31, 2025.\nH.R. 3449, HIRE Act of 2021.\nS. 1560, Helping to Encourage Real Opportunities (HERO) for Youth Act of 2021.","Employee Retention Tax Credit.\nH.R. 3449, HIRE Act of 2021.","Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021. H.R. 5376. Build Back Better Act.","Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021.","Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021. H.R. 5376, Build Back Better Act.","Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021. General business tax credits. Disaster relief benefits.","Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021. Implementation of the Inflation Reduction Act of 2022, Pub. L. No. 117-169.","Employee Retention Tax Credit. HIRE Act (draft legislation). Implementation of the Inflation Reduction Act of 2022, Pub. L. No. 117-169. Administration FY2025 Budget proposal, revenue provisions related to the Work Opportunity Tax Credit. H.R. 5057, Agricultural Emergency Relief Act of 2023.","Employee Retention Tax Credit. HIRE Act (draft legislation). General business tax credits. Disaster relief benefits. Administration FY2024 Budget proposal, revenue provisions related to the Work Opportunity Tax Credit.","Employee Retention Tax Credit. HIRE Act (draft legislation). Implementation of the Inflation Reduction Act of 2022, Pub. L. No. 117-169. H.R. 5057, Agricultural Emergency Relief Act of 2023. H.R. 6833, Improve and Enhance the Work Opportunity Act.","Employee Retention Tax Credit. HIRE Act (draft legislation). General business tax credits. Disaster relief benefits."],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 203202,
+  "name": "DLA PIPER LLP (US) (FOR ADP, LLC)",
+  "slug": "dla-piper-llp-us-for-adp-llc",
+  "state": "DC",
+  "description": "Law firm, on behalf of its client, a provider of human capital management solutions.",
+  "totalSpending": 1420000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 60000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "ALEXANDRIA VENTURES, LLC"
+  ],
+  "lobbyists": [
+    "CHARLES ASENSIO"
+  ],
+  "issues": [
+    "LBR",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Enterprise Zones.",
+    "Implementation of the Tax Cuts and Jobs Act (Pub. L. No. 115-97) and the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Pub. L. No. 115-63).",
+    "Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Enterprise Zones.\nH.R. 2213/S. 978, to amend the Internal Revenue Code of 1986 to make the Work Opportunity Tax Credit permanent.",
+    "Implementation of the Tax Cuts and Jobs Act (Pub. L. No. 115-97) and the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Pub. L. No. 115-63). \nH.R. 748, Coronavirus Aid, Relief, and Economic Security (CARES) Act, provisions on Employee Retention Tax Credit.",
+    "Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Enterprise Zones.\nH.R. 2213/S. 978, to amend the Internal Revenue Code of 1986 to make the Work Opportunity Tax Credit permanent. \nH.R. 748, Coronavirus Aid, Relief, and Economic Security (CARES) Act, provisions on Employee Retention Tax Credit.",
+    "Implementation of the Tax Cuts and Jobs Act (Pub. L. No. 115-97) and the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Pub. L. No. 115-63). \nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.",
+    "Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Enterprise Zones.\nH.R. 2213/S. 978, to amend the Internal Revenue Code of 1986 to make the Work Opportunity Tax Credit permanent. \nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.",
+    "Implementation of the Tax Cuts and Jobs Act (Pub. L. No. 115-97) and the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Pub. L. No. 115-63).\nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.",
+    "Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Opportunity Zones.\nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.\nAnalyze the effectiveness of the Work Opportunity Tax Credit to support program continuity beyond December 31, 2025.",
+    "Policies affecting payrolls and credits and incentives relating to hiring, including the Work Opportunity Tax Credit, the Indian Employment Credit, and Opportunity Zones.\nImplementation of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Pub. L. No. 116-136, provisions regarding the Employee Retention Credit.\nAnalyze the effectiveness of the Work Opportunity Tax Credit to support program continuity beyond December 31, 2025.\nH.R. 3449, HIRE Act of 2021.\nS. 1560, Helping to Encourage Real Opportunities (HERO) for Youth Act of 2021.",
+    "Employee Retention Tax Credit.\nH.R. 3449, HIRE Act of 2021.",
+    "Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021. H.R. 5376. Build Back Better Act.",
+    "Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021.",
+    "Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021. H.R. 5376, Build Back Better Act.",
+    "Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021. General business tax credits. Disaster relief benefits.",
+    "Employee Retention Tax Credit. H.R. 3449, HIRE Act of 2021. Implementation of the Inflation Reduction Act of 2022, Pub. L. No. 117-169.",
+    "Employee Retention Tax Credit. HIRE Act (draft legislation). Implementation of the Inflation Reduction Act of 2022, Pub. L. No. 117-169. Administration FY2025 Budget proposal, revenue provisions related to the Work Opportunity Tax Credit. H.R. 5057, Agricultural Emergency Relief Act of 2023.",
+    "Employee Retention Tax Credit. HIRE Act (draft legislation). General business tax credits. Disaster relief benefits. Administration FY2024 Budget proposal, revenue provisions related to the Work Opportunity Tax Credit.",
+    "Employee Retention Tax Credit. HIRE Act (draft legislation). Implementation of the Inflation Reduction Act of 2022, Pub. L. No. 117-169. H.R. 5057, Agricultural Emergency Relief Act of 2023. H.R. 6833, Improve and Enhance the Work Opportunity Act.",
+    "Employee Retention Tax Credit. HIRE Act (draft legislation). General business tax credits. Disaster relief benefits."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": 150,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 202857,
+  "peakYear": 2020,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 2
+}

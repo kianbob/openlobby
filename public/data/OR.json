@@ -1,1 +1,329 @@
-{"abbreviation":"OR","name":"Oregon","totalSpending":124575405.92999999,"totalFilings":6434,"clientCount":363,"yearlySpending":[{"year":2018,"income":9146756},{"year":2019,"income":9318903},{"year":2020,"income":10395495},{"year":2021,"income":11899424},{"year":2022,"income":15278563},{"year":2023,"income":35065000},{"year":2024,"income":15271153},{"year":2025,"income":18200111.93}],"topClients":[{"name":"COW CREEK BAND OF UMPQUA TRIBE OF INDIANS","income":5828000},{"name":"NIKE, INC.","income":2885000},{"name":"CAMBIA HEALTH SOLUTIONS (FORMERLY KNOWN AS THE REGENCE GROUP)","income":2475000},{"name":"THE GREENBRIER COMPANIES","income":2460000},{"name":"IP RENEWABLE ENERGY HOLDINGS LLC","income":2450000},{"name":"DAIMLER TRUCKS NORTH AMERICA","income":2410000},{"name":"ENTEK TECHNOLOGY HOLDING, LLC","income":2220000},{"name":"ESS INC.","income":2140000},{"name":"TRI-COUNTY METROPOLITAN TRANSPORTATION DISTRICT OF OREGON (TRIMET)","income":2020000},{"name":"PUBLIC POWER COUNCIL","income":1782323},{"name":"PORT OF PORTLAND","income":1730000},{"name":"PRECISION CASTPARTS CORPORATION","income":1660000},{"name":"CITY OF PORTLAND","income":1650000},{"name":"PROFESSIONAL NON-PROFIT THEATER COALITION","income":1540000},{"name":"CONFEDERATED TRIBES OF GRAND RONDE","income":1517500},{"name":"CLACKAMAS COUNTY, OR","income":1480000},{"name":"INDEPENDENT RESTAURANT COALITION","income":1330000},{"name":"COULSON AIRCRANE USA","income":1304000},{"name":"COLUMBIA RIVER TREATY POWER GROUP","income":1250000},{"name":"PORTLAND GENERAL ELECTRIC","income":1217000},{"name":"FAMILY FARM ALLIANCE","income":1200000},{"name":"MEYER BURGER (AMERICAS) LTD.","income":1190000},{"name":"MODA HEALTH","income":1100000},{"name":"ADVANCED NAVIGATION AND POSITIONING CORPORATION","income":1100000},{"name":"SKYNRG AMERICAS, INC.","income":1090000},{"name":"ASSOCIATION OF O & C COUNTIES","income":1060000},{"name":"KLAMATH WATER USERS ASSOCIATION","income":1027000},{"name":"OREGON DEPARTMENT OF TRANSPORTATION","income":1022980},{"name":"COQUILLE INDIAN TRIBE","income":1022000},{"name":"NIKE, INC","income":1020000},{"name":"CURTISS-WRIGHT CORPORATION","income":1000000},{"name":"PACIFIC SEAFOOD GROUP","income":1000000},{"name":"NATIONAL ANIMAL INTEREST ALLIANCE","income":990000},{"name":"AMERICAN FOREST RESOURCE COUNCIL","income":990000},{"name":"LATTICE SEMICONDUCTOR","income":950000},{"name":"AMERICAN ASSOCIATION FOR HOMEOPATHIC PRODUCTS","income":940000},{"name":"CONFEDERATED TRIBES OF THE UMATILLA INDIAN RESERVATION","income":940000},{"name":"ARCIMOTO, INC","income":900000},{"name":"CITY OF HILLSBORO","income":890000},{"name":"CITY OF GRESHAM","income":870000},{"name":"MARION COUNTY OREGON","income":865000},{"name":"OREGON STATE UNIVERSITY","income":865000},{"name":"UMPQUA BANK","income":860000},{"name":"NW NATURAL HOLDING COMPANY","income":810000},{"name":"WILD SALMON CENTER","income":802428.57},{"name":"BENCHMADE KNIFE COMPANY","income":800000},{"name":"OCHIN, INC.","income":776000},{"name":"CONFEDERATED TRIBES OF COOS, LOWER UMPQUA, AND SIUSLAW INDIANS","income":760000},{"name":"OREGON DEPARTMENT OF CONSUMER AND BUSINESS SERVICES","income":750000},{"name":"IDEMIA IDENTITY AND SECURITY USA LLC","income":740000}],"topIssues":[{"code":"BUD","income":32729177.36},{"code":"ENG","income":19733623},{"code":"NAT","income":19321904},{"code":"TRA","income":19173755},{"code":"TAX","income":17171323},{"code":"DEF","income":12739000},{"code":"HCR","income":12002500},{"code":"TRD","income":11320000},{"code":"IND","income":10218500},{"code":"URB","income":8545000},{"code":"ENV","income":6912003.57},{"code":"ECN","income":4906000},{"code":"MAN","income":4696000},{"code":"MAR","income":4461000},{"code":"GAM","income":4032000},{"code":"MMM","income":3901000},{"code":"AVI","income":3690000},{"code":"AGR","income":3441350},{"code":"HOU","income":3185000},{"code":"HOM","income":3110420}]}
+{
+  "abbreviation": "OR",
+  "name": "Oregon",
+  "totalSpending": 124575405.92999999,
+  "totalFilings": 6434,
+  "clientCount": 363,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 9146756
+    },
+    {
+      "year": 2019,
+      "income": 9318903
+    },
+    {
+      "year": 2020,
+      "income": 10395495
+    },
+    {
+      "year": 2021,
+      "income": 11899424
+    },
+    {
+      "year": 2022,
+      "income": 15278563
+    },
+    {
+      "year": 2023,
+      "income": 35065000
+    },
+    {
+      "year": 2024,
+      "income": 15271153
+    },
+    {
+      "year": 2025,
+      "income": 18200111.93
+    }
+  ],
+  "topClients": [
+    {
+      "name": "COW CREEK BAND OF UMPQUA TRIBE OF INDIANS",
+      "income": 5828000
+    },
+    {
+      "name": "NIKE, INC.",
+      "income": 2885000
+    },
+    {
+      "name": "CAMBIA HEALTH SOLUTIONS (FORMERLY KNOWN AS THE REGENCE GROUP)",
+      "income": 2475000
+    },
+    {
+      "name": "THE GREENBRIER COMPANIES",
+      "income": 2460000
+    },
+    {
+      "name": "IP RENEWABLE ENERGY HOLDINGS LLC",
+      "income": 2450000
+    },
+    {
+      "name": "DAIMLER TRUCKS NORTH AMERICA",
+      "income": 2410000
+    },
+    {
+      "name": "ENTEK TECHNOLOGY HOLDING, LLC",
+      "income": 2220000
+    },
+    {
+      "name": "ESS INC.",
+      "income": 2140000
+    },
+    {
+      "name": "TRI-COUNTY METROPOLITAN TRANSPORTATION DISTRICT OF OREGON (TRIMET)",
+      "income": 2020000
+    },
+    {
+      "name": "PUBLIC POWER COUNCIL",
+      "income": 1782323
+    },
+    {
+      "name": "PORT OF PORTLAND",
+      "income": 1730000
+    },
+    {
+      "name": "PRECISION CASTPARTS CORPORATION",
+      "income": 1660000
+    },
+    {
+      "name": "CITY OF PORTLAND",
+      "income": 1650000
+    },
+    {
+      "name": "PROFESSIONAL NON-PROFIT THEATER COALITION",
+      "income": 1540000
+    },
+    {
+      "name": "CONFEDERATED TRIBES OF GRAND RONDE",
+      "income": 1517500
+    },
+    {
+      "name": "CLACKAMAS COUNTY, OR",
+      "income": 1480000
+    },
+    {
+      "name": "INDEPENDENT RESTAURANT COALITION",
+      "income": 1330000
+    },
+    {
+      "name": "COULSON AIRCRANE USA",
+      "income": 1304000
+    },
+    {
+      "name": "COLUMBIA RIVER TREATY POWER GROUP",
+      "income": 1250000
+    },
+    {
+      "name": "PORTLAND GENERAL ELECTRIC",
+      "income": 1217000
+    },
+    {
+      "name": "FAMILY FARM ALLIANCE",
+      "income": 1200000
+    },
+    {
+      "name": "MEYER BURGER (AMERICAS) LTD.",
+      "income": 1190000
+    },
+    {
+      "name": "MODA HEALTH",
+      "income": 1100000
+    },
+    {
+      "name": "ADVANCED NAVIGATION AND POSITIONING CORPORATION",
+      "income": 1100000
+    },
+    {
+      "name": "SKYNRG AMERICAS, INC.",
+      "income": 1090000
+    },
+    {
+      "name": "ASSOCIATION OF O & C COUNTIES",
+      "income": 1060000
+    },
+    {
+      "name": "KLAMATH WATER USERS ASSOCIATION",
+      "income": 1027000
+    },
+    {
+      "name": "OREGON DEPARTMENT OF TRANSPORTATION",
+      "income": 1022980
+    },
+    {
+      "name": "COQUILLE INDIAN TRIBE",
+      "income": 1022000
+    },
+    {
+      "name": "NIKE, INC",
+      "income": 1020000
+    },
+    {
+      "name": "CURTISS-WRIGHT CORPORATION",
+      "income": 1000000
+    },
+    {
+      "name": "PACIFIC SEAFOOD GROUP",
+      "income": 1000000
+    },
+    {
+      "name": "NATIONAL ANIMAL INTEREST ALLIANCE",
+      "income": 990000
+    },
+    {
+      "name": "AMERICAN FOREST RESOURCE COUNCIL",
+      "income": 990000
+    },
+    {
+      "name": "LATTICE SEMICONDUCTOR",
+      "income": 950000
+    },
+    {
+      "name": "AMERICAN ASSOCIATION FOR HOMEOPATHIC PRODUCTS",
+      "income": 940000
+    },
+    {
+      "name": "CONFEDERATED TRIBES OF THE UMATILLA INDIAN RESERVATION",
+      "income": 940000
+    },
+    {
+      "name": "ARCIMOTO, INC",
+      "income": 900000
+    },
+    {
+      "name": "CITY OF HILLSBORO",
+      "income": 890000
+    },
+    {
+      "name": "CITY OF GRESHAM",
+      "income": 870000
+    },
+    {
+      "name": "MARION COUNTY OREGON",
+      "income": 865000
+    },
+    {
+      "name": "OREGON STATE UNIVERSITY",
+      "income": 865000
+    },
+    {
+      "name": "UMPQUA BANK",
+      "income": 860000
+    },
+    {
+      "name": "NW NATURAL HOLDING COMPANY",
+      "income": 810000
+    },
+    {
+      "name": "WILD SALMON CENTER",
+      "income": 802428.57
+    },
+    {
+      "name": "BENCHMADE KNIFE COMPANY",
+      "income": 800000
+    },
+    {
+      "name": "OCHIN, INC.",
+      "income": 776000
+    },
+    {
+      "name": "CONFEDERATED TRIBES OF COOS, LOWER UMPQUA, AND SIUSLAW INDIANS",
+      "income": 760000
+    },
+    {
+      "name": "OREGON DEPARTMENT OF CONSUMER AND BUSINESS SERVICES",
+      "income": 750000
+    },
+    {
+      "name": "IDEMIA IDENTITY AND SECURITY USA LLC",
+      "income": 740000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 32729177.36
+    },
+    {
+      "code": "ENG",
+      "income": 19733623
+    },
+    {
+      "code": "NAT",
+      "income": 19321904
+    },
+    {
+      "code": "TRA",
+      "income": 19173755
+    },
+    {
+      "code": "TAX",
+      "income": 17171323
+    },
+    {
+      "code": "DEF",
+      "income": 12739000
+    },
+    {
+      "code": "HCR",
+      "income": 12002500
+    },
+    {
+      "code": "TRD",
+      "income": 11320000
+    },
+    {
+      "code": "IND",
+      "income": 10218500
+    },
+    {
+      "code": "URB",
+      "income": 8545000
+    },
+    {
+      "code": "ENV",
+      "income": 6912003.57
+    },
+    {
+      "code": "ECN",
+      "income": 4906000
+    },
+    {
+      "code": "MAN",
+      "income": 4696000
+    },
+    {
+      "code": "MAR",
+      "income": 4461000
+    },
+    {
+      "code": "GAM",
+      "income": 4032000
+    },
+    {
+      "code": "MMM",
+      "income": 3901000
+    },
+    {
+      "code": "AVI",
+      "income": 3690000
+    },
+    {
+      "code": "AGR",
+      "income": 3441350
+    },
+    {
+      "code": "HOU",
+      "income": 3185000
+    },
+    {
+      "code": "HOM",
+      "income": 3110420
+    }
+  ],
+  "perCapita": 31.12,
+  "population": 4233358,
+  "nationalRank": 30,
+  "perCapitaRank": 31
+}

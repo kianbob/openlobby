@@ -1,1 +1,86 @@
-{"id":201259,"name":"MOTION PICTURE ASSOCIATION OF AMERICA, INC.","slug":"motion-picture-association-of-america-inc","state":"DC","description":"American Trade Association Representing Motion Picture Studios","totalSpending":1400000,"filings":31,"yearlySpending":[{"year":2018,"income":170000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":120000},{"year":2022,"income":120000},{"year":2023,"income":120000},{"year":2024,"income":120000},{"year":2025,"income":270000}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","REBECCA BENN","SUSAN WILES","ROBERT WEXLER","EUGENE O'FLAHERTY","PATRICK KILCUR","SCOTT WAGNER"],"issues":["TRD","CPT",null,"TAX"],"sampleDescriptions":["International Trade; Market Access; Copyright; Intellectual Property","International trade; market access; copyright; intellectual property","International trade; market access; copyright; intellectual property.","Tax policy related to the budget reconciliation and the Tax Cuts and Jobs Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 201259,
+  "name": "MOTION PICTURE ASSOCIATION OF AMERICA, INC.",
+  "slug": "motion-picture-association-of-america-inc",
+  "state": "DC",
+  "description": "American Trade Association Representing Motion Picture Studios",
+  "totalSpending": 1400000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 170000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 120000
+    },
+    {
+      "year": 2023,
+      "income": 120000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "BALLARD PARTNERS"
+  ],
+  "lobbyists": [
+    "BRIAN BALLARD",
+    "SYLVESTER LUKIS",
+    "REBECCA BENN",
+    "SUSAN WILES",
+    "ROBERT WEXLER",
+    "EUGENE O'FLAHERTY",
+    "PATRICK KILCUR",
+    "SCOTT WAGNER"
+  ],
+  "issues": [
+    "TRD",
+    "CPT",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "International Trade; Market Access; Copyright; Intellectual Property",
+    "International trade; market access; copyright; intellectual property",
+    "International trade; market access; copyright; intellectual property.",
+    "Tax policy related to the budget reconciliation and the Tax Cuts and Jobs Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 59,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 175000,
+  "peakYear": 2025,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 3
+}

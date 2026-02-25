@@ -1,1 +1,90 @@
-{"id":110214,"name":"CENTRAL ARIZONA WATER CONSERVATION DISTRICT (CAWCD)","slug":"central-arizona-water-conservation-district-cawcd","state":"AZ","description":"manage and operate the Central Arizona Project","totalSpending":1740000,"filings":29,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":260000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["RYAN SMITH","WILLIAM MCGRATH","JON HROBSKY","SARAH MURRAY","REESE GOLDSMITH","BELLA SEWALL WOLITZ","JASON BUCKNER","KATE GONZALES","ANNICK MILLER"],"issues":["NAT",null],"sampleDescriptions":["Issues related to operation of the Central Arizona Project; Navajo Generating Station","Issues related to operation of the Central Arizona Project; Navajo Generating System","Issues related to operation of the Central Arizona Project; Issues related to drought legislation","Issues related to operation of the Central Arizona Project; Issues related to drought legislation S.3308 - Colorado River Indian Tribes Water Resiliency Act of 2021","Issues related to operation of the Central Arizona Project Issues related to drought legislation S. 3308 - Colorado River Indian Tribes Water Resiliency Act of 2021","Issues related to operation of the Central Arizona Project Issues related to drought legislation S.3308 - Colorado River Indian Tribes Water Resiliency Act of 2021","Issues related to operation of the Central Arizona Project; Issues related to drought legislation Colorado River Management and Energy and Water Appropriations issues Issues related to infrastructure funding","Issues related to operation of the Central Arizona Project; Issues related to drought legislation Colorado River Management and Energy and Water Appropriations issues Issues related to infrastructure funding S.5012/ H.R. 9515 - Lower Colorado River Multi-Species Conservation Program Amendment Act of 2024","Issues related to operation of the Central Arizona Project; Issues related to drought legislation Colorado River Management and Energy and Water Appropriations issues Issues related to infrastructure funding S.291/ H.R. 831 - Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110214,
+  "name": "CENTRAL ARIZONA WATER CONSERVATION DISTRICT (CAWCD)",
+  "slug": "central-arizona-water-conservation-district-cawcd",
+  "state": "AZ",
+  "description": "manage and operate the Central Arizona Project",
+  "totalSpending": 1740000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 260000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "RYAN SMITH",
+    "WILLIAM MCGRATH",
+    "JON HROBSKY",
+    "SARAH MURRAY",
+    "REESE GOLDSMITH",
+    "BELLA SEWALL WOLITZ",
+    "JASON BUCKNER",
+    "KATE GONZALES",
+    "ANNICK MILLER"
+  ],
+  "issues": [
+    "NAT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to operation of the Central Arizona Project; Navajo Generating Station",
+    "Issues related to operation of the Central Arizona Project; Navajo Generating System",
+    "Issues related to operation of the Central Arizona Project; Issues related to drought legislation",
+    "Issues related to operation of the Central Arizona Project; Issues related to drought legislation S.3308 - Colorado River Indian Tribes Water Resiliency Act of 2021",
+    "Issues related to operation of the Central Arizona Project Issues related to drought legislation S. 3308 - Colorado River Indian Tribes Water Resiliency Act of 2021",
+    "Issues related to operation of the Central Arizona Project Issues related to drought legislation S.3308 - Colorado River Indian Tribes Water Resiliency Act of 2021",
+    "Issues related to operation of the Central Arizona Project; Issues related to drought legislation Colorado River Management and Energy and Water Appropriations issues Issues related to infrastructure funding",
+    "Issues related to operation of the Central Arizona Project; Issues related to drought legislation Colorado River Management and Energy and Water Appropriations issues Issues related to infrastructure funding S.5012/ H.R. 9515 - Lower Colorado River Multi-Species Conservation Program Amendment Act of 2024",
+    "Issues related to operation of the Central Arizona Project; Issues related to drought legislation Colorado River Management and Energy and Water Appropriations issues Issues related to infrastructure funding S.291/ H.R. 831 - Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 63,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 217500,
+  "peakYear": 2025,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 1
+}

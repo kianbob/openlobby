@@ -1,1 +1,91 @@
-{"id":186797,"name":"JOHN NAU III","slug":"john-nau-iii","state":"TX","description":"Philanthropist","totalSpending":1535000,"filings":31,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":160000},{"year":2020,"income":160000},{"year":2021,"income":170000},{"year":2022,"income":225000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":240000}],"firms":["NATURAL RESOURCE RESULTS LLC"],"lobbyists":["DAVID ANDERSON","MITCH BUTLER","SARA TUCKER"],"issues":["NAT",null],"sampleDescriptions":["Support funding for American Battlefield Protection program in Interior approps and in DOI FY19 budget; support funding for National Park Foundation in FY19 budget and appropriations for Interior; support passage of Shiloh National Military Battlefield Boundary Adjustment Act HR88/S100; support NPS work on special resource studies at 5 civil rights sites in MS; support work on national recreation area in Texas; support funding for World War 1 memorial.","Support funding for American Battlefield Protection program in Interior approps and in DOI FY19 budget; support funding for National Park Foundation in FY19 budget and appropriations for Interior; support passage of Shiloh National Military Battlefield Boundary Adjustment Act HR88/S100; support NPS work on special resource studies at 5 civil rights sites in MS; support work on national recreation area in Texas; support funding for World War 1 memorial; support Restore America's Park Act.","Support funding for ABPP at NPS and NPF in budget and approps; support Preserving America's Battlefields bill; support Restore Ours Parks Act; support Lone Star NRA.","Support funding for ABPP at NPS, and funding for NPF in budget and approps; support Preserving America's Battlefields bill; support Restore Ours Parks Act; support Lone Star NRA.","Support funding for ABPP at NPS, and funding for NPF in budget and approps; support Preserving America's Battlefields bill; support Restore Ours Parks Act; support road repair funding for Vicksburg NMP.","Support funding for ABPP at NPS, and funding for NPF in budget and approps;; support Great American Outdoors Act; support road repair funding for Vicksburg NMP.","Support funding for ABPP at NPS, and funding for NPF in budget and approps; support passage and implementation of Great American Outdoors Act; support road repair funding for Vicksburg NMP.","Support funding for American Battlefield Protection Program, NPS inholdings, and National Park Foundation.","Support funding for American Battlefield Protection Program, NPS inholdings, Vicksburg National Military Park, and National Park Foundation.","Support funding for American Battlefield Protection Program, NPS inholdings, maintenance funding at Gettysburg and Vicksburg National Military Parks, and funding for National Park Foundation.","Support funding for American Battlefield Protection Program, NPS battlefield inholdings, maintenance funding at Gettysburg and Vicksburg National Military Parks, and funding for National Park Foundation.","Support funding for American Battlefield Protection Program, NPS battlefield inholdings, maintenance funding at Gettysburg and Vicksburg National Military Parks, review of Little Bighorn Battlefield acquisitions, and authorization and funding for National Park Foundation.","Support funding for battlefield parks, ABPP, and NPF, legislation on ABPP, visitor center land transfer at Vicksburg NMP.","Support renewal of LRF in GAOA, funding for NPF and ABPP.","Support renewal of LRF in GAOA, funding for NPF and ABPP, MOU to keep VNMP open during shutdown.","Support renewal of LRF in GAOA, funding for NPF and ABPP; support Vicksburg National Military Park bill to transfer land to state.."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 186797,
+  "name": "JOHN NAU III",
+  "slug": "john-nau-iii",
+  "state": "TX",
+  "description": "Philanthropist",
+  "totalSpending": 1535000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 160000
+    },
+    {
+      "year": 2020,
+      "income": 160000
+    },
+    {
+      "year": 2021,
+      "income": 170000
+    },
+    {
+      "year": 2022,
+      "income": 225000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "NATURAL RESOURCE RESULTS LLC"
+  ],
+  "lobbyists": [
+    "DAVID ANDERSON",
+    "MITCH BUTLER",
+    "SARA TUCKER"
+  ],
+  "issues": [
+    "NAT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Support funding for American Battlefield Protection program in Interior approps and in DOI FY19 budget; support funding for National Park Foundation in FY19 budget and appropriations for Interior; support passage of Shiloh National Military Battlefield Boundary Adjustment Act HR88/S100; support NPS work on special resource studies at 5 civil rights sites in MS; support work on national recreation area in Texas; support funding for World War 1 memorial.",
+    "Support funding for American Battlefield Protection program in Interior approps and in DOI FY19 budget; support funding for National Park Foundation in FY19 budget and appropriations for Interior; support passage of Shiloh National Military Battlefield Boundary Adjustment Act HR88/S100; support NPS work on special resource studies at 5 civil rights sites in MS; support work on national recreation area in Texas; support funding for World War 1 memorial; support Restore America's Park Act.",
+    "Support funding for ABPP at NPS and NPF in budget and approps; support Preserving America's Battlefields bill; support Restore Ours Parks Act; support Lone Star NRA.",
+    "Support funding for ABPP at NPS, and funding for NPF in budget and approps; support Preserving America's Battlefields bill; support Restore Ours Parks Act; support Lone Star NRA.",
+    "Support funding for ABPP at NPS, and funding for NPF in budget and approps; support Preserving America's Battlefields bill; support Restore Ours Parks Act; support road repair funding for Vicksburg NMP.",
+    "Support funding for ABPP at NPS, and funding for NPF in budget and approps;; support Great American Outdoors Act; support road repair funding for Vicksburg NMP.",
+    "Support funding for ABPP at NPS, and funding for NPF in budget and approps; support passage and implementation of Great American Outdoors Act; support road repair funding for Vicksburg NMP.",
+    "Support funding for American Battlefield Protection Program, NPS inholdings, and National Park Foundation.",
+    "Support funding for American Battlefield Protection Program, NPS inholdings, Vicksburg National Military Park, and National Park Foundation.",
+    "Support funding for American Battlefield Protection Program, NPS inholdings, maintenance funding at Gettysburg and Vicksburg National Military Parks, and funding for National Park Foundation.",
+    "Support funding for American Battlefield Protection Program, NPS battlefield inholdings, maintenance funding at Gettysburg and Vicksburg National Military Parks, and funding for National Park Foundation.",
+    "Support funding for American Battlefield Protection Program, NPS battlefield inholdings, maintenance funding at Gettysburg and Vicksburg National Military Parks, review of Little Bighorn Battlefield acquisitions, and authorization and funding for National Park Foundation.",
+    "Support funding for battlefield parks, ABPP, and NPF, legislation on ABPP, visitor center land transfer at Vicksburg NMP.",
+    "Support renewal of LRF in GAOA, funding for NPF and ABPP.",
+    "Support renewal of LRF in GAOA, funding for NPF and ABPP, MOU to keep VNMP open during shutdown.",
+    "Support renewal of LRF in GAOA, funding for NPF and ABPP; support Vicksburg National Military Park bill to transfer land to state.."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 50,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 191875,
+  "peakYear": 2023,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

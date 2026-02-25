@@ -1,1 +1,81 @@
-{"id":184527,"name":"DELTA AIR LINES, INC.","slug":"delta-air-lines-inc","state":"GA","description":"Commercial airline.","totalSpending":1580000,"filings":27,"yearlySpending":[{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":300000},{"year":2025,"income":200000}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["ANN JABLON","JOSH KARDON","LYNDON BOOZER","ROBERT DIAMOND","JONATHAN KOTT","GENEVIEVE BELTRONE","CHARLES ROBERTS"],"issues":["TRD","TAX",null,"AVI"],"sampleDescriptions":["Issues related to infrastructure, airline taxes and fees.","Issues related to infrastructure, airline taxes and fees. Advocated for Sustainable Aviation Fuel provision inclusion in tax package.","Issues related to infrastructure, airline taxes and fees, and FAA re-authorization (H.R.3935 - Securing Growth and Robust Leadership in American Aviation Act). Advocated for Sustainable Aviation Fuel provision.","Issues related to infrastructure, airline taxes and fees. Advocated for Sustainable Aviation Fuel provision."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184527,
+  "name": "DELTA AIR LINES, INC.",
+  "slug": "delta-air-lines-inc",
+  "state": "GA",
+  "description": "Commercial airline.",
+  "totalSpending": 1580000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CAPITOL COUNSEL LLC"
+  ],
+  "lobbyists": [
+    "ANN JABLON",
+    "JOSH KARDON",
+    "LYNDON BOOZER",
+    "ROBERT DIAMOND",
+    "JONATHAN KOTT",
+    "GENEVIEVE BELTRONE",
+    "CHARLES ROBERTS"
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    null,
+    "AVI"
+  ],
+  "sampleDescriptions": [
+    "Issues related to infrastructure, airline taxes and fees.",
+    "Issues related to infrastructure, airline taxes and fees. Advocated for Sustainable Aviation Fuel provision inclusion in tax package.",
+    "Issues related to infrastructure, airline taxes and fees, and FAA re-authorization (H.R.3935 - Securing Growth and Robust Leadership in American Aviation Act). Advocated for Sustainable Aviation Fuel provision.",
+    "Issues related to infrastructure, airline taxes and fees. Advocated for Sustainable Aviation Fuel provision."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 11,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 225714,
+  "peakYear": 2024,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

@@ -1,1 +1,139 @@
-{"id":110125,"name":"APOLLO GLOBAL MANAGEMENT","slug":"apollo-global-management","state":"NY","description":"Portfolio manager","totalSpending":12050000,"filings":34,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":1210000},{"year":2020,"income":2060000},{"year":2021,"income":1140000},{"year":2022,"income":1460000},{"year":2023,"income":1860000},{"year":2024,"income":3040000},{"year":2025,"income":1040000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["MARC LAMPKIN","MICHAEL LEVY","ELIZABETH MAIER","ALFRED MOTTUR","JOHN SONSALLA","ANDREW LITTMAN","DOUGLAS MAGUIRE","TRAVIS NORTON","NADEAM ELSHAMI","GRETA JOYNES","NORMAN BROWNSTEIN","BRIAN WILD","WILLIAM MOSCHELLA","LAURA BOLLIER","STEVEN DEMBY","SAMANTHA CARL-YODER","ZACHARY PFISTER","ALLEN GRUNES","MARK WARREN","RUSSELL SULLIVAN","HAROLD HANCOCK","LAKEITHA ANDERSON","MARK PRYOR","GLORIA WALKER","BRIAN MCGUIRE","GEOFFREY BURR","WILLIAM DUNHAM","WILLIAM DUHNKE","RADHA MOHAN","DAVID RANSOM","GREGORY SUNSTRUM","TRIPP MCKEMEY","ANDREW USYK","ROBERT ROBILLIARD","LEAH DEMPSEY","ALICE LUGO","LAUREN FLYNN","LAUREN DIEKMAN","MATT GRINNEY","THOMAS WOTKA","JOHN REISING","MAXWELL HUNTLEY"],"issues":["FIN","MIA","GOV","TEC","ACC","TAX",null],"sampleDescriptions":["Issues related to portfolio management \nGeneral economic issues","Issues related to portfolio management; general economic issues","Broadcast transaction issues","Broadcast issues","Issues related to portfolio management; general economic issues \nH.R.748 CARES Act - Issues related to COVID-19 relief","Issues related to COVID-19","Issues related to portfolio management and optimization; general economic issues","Issues related to COVID-19; H.R.133 - Consolidated Appropriations Act, 2021","Issues related to COVID-19\nH.R.1319 - American Rescue Plan Act of 2021","Issues related to portfolio management and optimization; general economic issues;","Issues related to broadband infrastructure","Corporate and international tax issues","Issues related to portfolio management and optimization; general economic issues\nH.R.5376 - Build Back Better Act","Issues related to portfolio management and optimization; general economic issues H.R.5376 - Build Back Better Act","Issues related to portfolio management and optimization General economic issues H.R. 5376 - Build Back Better Act","Corporate and international tax issues Note: Senate post-employment restrictions for Mark Warren ended 4/8/22","Issues related to portfolio management and optimization","Local Broadcaster issues","Issues related to broadband infrastructure and FCC review of Lumen/Brightspeed transaction","Corporate and international tax issues Tax issues related to H.R.5376 Inflation Reduction Act of 2022 Issues related to the taxation of private equity investments"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110125,
+  "name": "APOLLO GLOBAL MANAGEMENT",
+  "slug": "apollo-global-management",
+  "state": "NY",
+  "description": "Portfolio manager",
+  "totalSpending": 12050000,
+  "filings": 34,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 1210000
+    },
+    {
+      "year": 2020,
+      "income": 2060000
+    },
+    {
+      "year": 2021,
+      "income": 1140000
+    },
+    {
+      "year": 2022,
+      "income": 1460000
+    },
+    {
+      "year": 2023,
+      "income": 1860000
+    },
+    {
+      "year": 2024,
+      "income": 3040000
+    },
+    {
+      "year": 2025,
+      "income": 1040000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "MARC LAMPKIN",
+    "MICHAEL LEVY",
+    "ELIZABETH MAIER",
+    "ALFRED MOTTUR",
+    "JOHN SONSALLA",
+    "ANDREW LITTMAN",
+    "DOUGLAS MAGUIRE",
+    "TRAVIS NORTON",
+    "NADEAM ELSHAMI",
+    "GRETA JOYNES",
+    "NORMAN BROWNSTEIN",
+    "BRIAN WILD",
+    "WILLIAM MOSCHELLA",
+    "LAURA BOLLIER",
+    "STEVEN DEMBY",
+    "SAMANTHA CARL-YODER",
+    "ZACHARY PFISTER",
+    "ALLEN GRUNES",
+    "MARK WARREN",
+    "RUSSELL SULLIVAN",
+    "HAROLD HANCOCK",
+    "LAKEITHA ANDERSON",
+    "MARK PRYOR",
+    "GLORIA WALKER",
+    "BRIAN MCGUIRE",
+    "GEOFFREY BURR",
+    "WILLIAM DUNHAM",
+    "WILLIAM DUHNKE",
+    "RADHA MOHAN",
+    "DAVID RANSOM",
+    "GREGORY SUNSTRUM",
+    "TRIPP MCKEMEY",
+    "ANDREW USYK",
+    "ROBERT ROBILLIARD",
+    "LEAH DEMPSEY",
+    "ALICE LUGO",
+    "LAUREN FLYNN",
+    "LAUREN DIEKMAN",
+    "MATT GRINNEY",
+    "THOMAS WOTKA",
+    "JOHN REISING",
+    "MAXWELL HUNTLEY"
+  ],
+  "issues": [
+    "FIN",
+    "MIA",
+    "GOV",
+    "TEC",
+    "ACC",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to portfolio management \nGeneral economic issues",
+    "Issues related to portfolio management; general economic issues",
+    "Broadcast transaction issues",
+    "Broadcast issues",
+    "Issues related to portfolio management; general economic issues \nH.R.748 CARES Act - Issues related to COVID-19 relief",
+    "Issues related to COVID-19",
+    "Issues related to portfolio management and optimization; general economic issues",
+    "Issues related to COVID-19; H.R.133 - Consolidated Appropriations Act, 2021",
+    "Issues related to COVID-19\nH.R.1319 - American Rescue Plan Act of 2021",
+    "Issues related to portfolio management and optimization; general economic issues;",
+    "Issues related to broadband infrastructure",
+    "Corporate and international tax issues",
+    "Issues related to portfolio management and optimization; general economic issues\nH.R.5376 - Build Back Better Act",
+    "Issues related to portfolio management and optimization; general economic issues H.R.5376 - Build Back Better Act",
+    "Issues related to portfolio management and optimization General economic issues H.R. 5376 - Build Back Better Act",
+    "Corporate and international tax issues Note: Senate post-employment restrictions for Mark Warren ended 4/8/22",
+    "Issues related to portfolio management and optimization",
+    "Local Broadcaster issues",
+    "Issues related to broadband infrastructure and FCC review of Lumen/Brightspeed transaction",
+    "Corporate and international tax issues Tax issues related to H.R.5376 Inflation Reduction Act of 2022 Issues related to the taxation of private equity investments"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 333,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 1506250,
+  "peakYear": 2024,
+  "lobbyistCount": 42,
+  "firmCount": 1,
+  "issueCount": 6
+}

@@ -1,1 +1,102 @@
-{"id":169756,"name":"THE WALT DISNEY COMPANY","slug":"the-walt-disney-company","state":"CA","description":"Arts/Entertainment and communications","totalSpending":1357167,"filings":28,"yearlySpending":[{"year":2018,"income":60000},{"year":2019,"income":135000},{"year":2020,"income":125000},{"year":2021,"income":145000},{"year":2022,"income":222167},{"year":2023,"income":240000},{"year":2024,"income":230000},{"year":2025,"income":200000}],"firms":["CGCN GROUP, LLC"],"lobbyists":["STEVE CLARK","SAM GEDULDIG","JAY CRANFORD","MIKE NIELSEN","DOUGLAS SCHWARTZ","JOHN STIPICEVIC","JULIANE SULLIVAN","KATIE MITCHELL","MICHAEL FREEMAN","AARON SZABO","ALEX RENJEL","SCOTT RIPLINGER","AMBER KIRCHHOEFER","TIM PATAKI","MARTHA MILLER","JILL HAMAKER","SUSAN GRIFFITHS","JA'RON SMITH"],"issues":["TAX","COM","TRD",null,"LBR"],"sampleDescriptions":["Issues related to tax reform.","Issues related to television broadcasting.\nIssues related to the proposed Disney - 21stCF Transaction.","Issues related to television broadcasting;\nIssues related to the proposed Disney - 21stCF Transaction.","Issues related to Trade Policy.","Issues related to television broadcasting;","Issues related to television broadcasting.","Workplace Benefits, Training and Development.","Corporate Tax Issues.","Issues related to television streaming."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 169756,
+  "name": "THE WALT DISNEY COMPANY",
+  "slug": "the-walt-disney-company",
+  "state": "CA",
+  "description": "Arts/Entertainment and communications",
+  "totalSpending": 1357167,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 60000
+    },
+    {
+      "year": 2019,
+      "income": 135000
+    },
+    {
+      "year": 2020,
+      "income": 125000
+    },
+    {
+      "year": 2021,
+      "income": 145000
+    },
+    {
+      "year": 2022,
+      "income": 222167
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 230000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CGCN GROUP, LLC"
+  ],
+  "lobbyists": [
+    "STEVE CLARK",
+    "SAM GEDULDIG",
+    "JAY CRANFORD",
+    "MIKE NIELSEN",
+    "DOUGLAS SCHWARTZ",
+    "JOHN STIPICEVIC",
+    "JULIANE SULLIVAN",
+    "KATIE MITCHELL",
+    "MICHAEL FREEMAN",
+    "AARON SZABO",
+    "ALEX RENJEL",
+    "SCOTT RIPLINGER",
+    "AMBER KIRCHHOEFER",
+    "TIM PATAKI",
+    "MARTHA MILLER",
+    "JILL HAMAKER",
+    "SUSAN GRIFFITHS",
+    "JA'RON SMITH"
+  ],
+  "issues": [
+    "TAX",
+    "COM",
+    "TRD",
+    null,
+    "LBR"
+  ],
+  "sampleDescriptions": [
+    "Issues related to tax reform.",
+    "Issues related to television broadcasting.\nIssues related to the proposed Disney - 21stCF Transaction.",
+    "Issues related to television broadcasting;\nIssues related to the proposed Disney - 21stCF Transaction.",
+    "Issues related to Trade Policy.",
+    "Issues related to television broadcasting;",
+    "Issues related to television broadcasting.",
+    "Workplace Benefits, Training and Development.",
+    "Corporate Tax Issues.",
+    "Issues related to television streaming."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 233,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 169646,
+  "peakYear": 2023,
+  "lobbyistCount": 18,
+  "firmCount": 1,
+  "issueCount": 4
+}

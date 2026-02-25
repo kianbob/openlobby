@@ -1,1 +1,101 @@
-{"id":193490,"name":"ABBOTT LABORATORIES","slug":"abbott-laboratories","state":"DC","description":"A pharmaceuticals health care company.","totalSpending":1500000,"filings":30,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":150000}],"firms":["W STRATEGIES, LLC"],"lobbyists":["DARREN WILLCOX"],"issues":["TAX","BUD","MMM","HCR","VET","TRD","DEF","CPT",null],"sampleDescriptions":["FY 2018 Continuing resolution as it relates to suspension of the medical device tax.\n\nH.R.4617: Protect Medical Innovation Act.","H.R.1892: Bipartisan Budget Act of 2018.\n\nH.R.1625: Consolidated Appropriations Act, 2018.","Medicare conditions of participation as it relates to antibiotics.\n\nEducation about the regulation of continuous glucose monitor technologies.","Development of legislation regulated to regulation of LDT's, including a discussion draft of Diagnostic Accuracy and Improvement Act.\n\nEducation about the importance of non-pharmacological pain treatment options, including medical devices.  \n\nH.R.195, as it relates to the HEALTHY KIDS Act CHIP reauthorization.","H.R.4617: Protect Medical Innovation Act.","Education about the importance of proper reimbursement for home monitoring services for anticoagulation management.\n\nEducation about the regulation of continuous glucose monitor technologies including CMS regulation of CGM.","Development of legislation regulated to regulation of LDT's, including a discussion draft of Diagnostic Accuracy and Improvement Act.\n\nReauthorization of PAHPA (Pandemic All Hazards Preparedness Act).\n\nH.R.6: Support for Patients and Communities Act as it relates to provisions designed to promote the importance of non-pharmacological pain treatment options, including medical devices.","Development of legislation regulated to regulation of LDT's, including a discussion draft of Diagnostic Accuracy and Improvement Act.\n\nH.R.6378/S.2852: Reauthorization of PAHPA (Pandemic All-Hazards Preparedness Act).\n\nH.R.6: Support for Patients and Communities Act as it relates to provisions designed to promote the importance of non-pharmacological pain treatment options, including medical devices.","Education around VA coverage of CGM devices.","Education about the implementation of PAMA with respect to physician office labs.","Education about medical device coverage and reimbursement issues in Japan.","Development of legislation regulated to regulation of LDT's, including a discussion draft of Diagnostic Accuracy and Improvement Act.","H.R.4617: Protect Medical Innovation Act and H.R.88 as it relates to the medical device tax.","Development of legislation regulated to regulation of LDTs, including a discussion draft of VALID Act.","FY 2020 NDAA - education about CGM coverage in TRICARE.","H.R. 2207: Protect Medical Innovation Act.","Development of legislation regulated to regulation of LDTs, including a discussion draft of VALID Act. \n\nEducation about adult malnutrition\n\nH.R.2113: Prescription Drug STAR Act.","Development of legislation regulated to regulation of LDTs, including a discussion draft of VALID Act. \n\nH.R.2113: Prescription Drug STAR Act.\n\nH.R.2064: Sunshine for Samples Act.","Development of legislation regulated to regulation of LDTs, including a discussion draft of VALID Act. \n\nH.R.2064: Sunshine for Samples Act.","H.R.1864, FY 2020 Appropriations as it relates to H.R.2207: Protect Medical Innovation Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 193490,
+  "name": "ABBOTT LABORATORIES",
+  "slug": "abbott-laboratories",
+  "state": "DC",
+  "description": "A pharmaceuticals health care company.",
+  "totalSpending": 1500000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "W STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "DARREN WILLCOX"
+  ],
+  "issues": [
+    "TAX",
+    "BUD",
+    "MMM",
+    "HCR",
+    "VET",
+    "TRD",
+    "DEF",
+    "CPT",
+    null
+  ],
+  "sampleDescriptions": [
+    "FY 2018 Continuing resolution as it relates to suspension of the medical device tax.\n\nH.R.4617: Protect Medical Innovation Act.",
+    "H.R.1892: Bipartisan Budget Act of 2018.\n\nH.R.1625: Consolidated Appropriations Act, 2018.",
+    "Medicare conditions of participation as it relates to antibiotics.\n\nEducation about the regulation of continuous glucose monitor technologies.",
+    "Development of legislation regulated to regulation of LDT's, including a discussion draft of Diagnostic Accuracy and Improvement Act.\n\nEducation about the importance of non-pharmacological pain treatment options, including medical devices.  \n\nH.R.195, as it relates to the HEALTHY KIDS Act CHIP reauthorization.",
+    "H.R.4617: Protect Medical Innovation Act.",
+    "Education about the importance of proper reimbursement for home monitoring services for anticoagulation management.\n\nEducation about the regulation of continuous glucose monitor technologies including CMS regulation of CGM.",
+    "Development of legislation regulated to regulation of LDT's, including a discussion draft of Diagnostic Accuracy and Improvement Act.\n\nReauthorization of PAHPA (Pandemic All Hazards Preparedness Act).\n\nH.R.6: Support for Patients and Communities Act as it relates to provisions designed to promote the importance of non-pharmacological pain treatment options, including medical devices.",
+    "Development of legislation regulated to regulation of LDT's, including a discussion draft of Diagnostic Accuracy and Improvement Act.\n\nH.R.6378/S.2852: Reauthorization of PAHPA (Pandemic All-Hazards Preparedness Act).\n\nH.R.6: Support for Patients and Communities Act as it relates to provisions designed to promote the importance of non-pharmacological pain treatment options, including medical devices.",
+    "Education around VA coverage of CGM devices.",
+    "Education about the implementation of PAMA with respect to physician office labs.",
+    "Education about medical device coverage and reimbursement issues in Japan.",
+    "Development of legislation regulated to regulation of LDT's, including a discussion draft of Diagnostic Accuracy and Improvement Act.",
+    "H.R.4617: Protect Medical Innovation Act and H.R.88 as it relates to the medical device tax.",
+    "Development of legislation regulated to regulation of LDTs, including a discussion draft of VALID Act.",
+    "FY 2020 NDAA - education about CGM coverage in TRICARE.",
+    "H.R. 2207: Protect Medical Innovation Act.",
+    "Development of legislation regulated to regulation of LDTs, including a discussion draft of VALID Act. \n\nEducation about adult malnutrition\n\nH.R.2113: Prescription Drug STAR Act.",
+    "Development of legislation regulated to regulation of LDTs, including a discussion draft of VALID Act. \n\nH.R.2113: Prescription Drug STAR Act.\n\nH.R.2064: Sunshine for Samples Act.",
+    "Development of legislation regulated to regulation of LDTs, including a discussion draft of VALID Act. \n\nH.R.2064: Sunshine for Samples Act.",
+    "H.R.1864, FY 2020 Appropriations as it relates to H.R.2207: Protect Medical Innovation Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 187500,
+  "peakYear": 2018,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 8,
+  "industry": "healthcare"
+}

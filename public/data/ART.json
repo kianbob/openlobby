@@ -1,1 +1,557 @@
-{"code":"ART","name":"Arts/Entertainment","totalSpending":48141310,"totalFilings":2290,"yearlySpending":[{"year":2018,"income":3133916,"filings":191},{"year":2019,"income":3452305,"filings":222},{"year":2020,"income":6113594,"filings":311},{"year":2021,"income":7053995,"filings":318},{"year":2022,"income":7420500,"filings":322},{"year":2023,"income":8558000,"filings":351},{"year":2024,"income":5658500,"filings":290},{"year":2025,"income":6750500,"filings":285}],"topClients":[{"name":"LIVE NATION ENTERTAINMENT, INC.","income":3840000},{"name":"RECORDING INDUSTRY ASSOCIATION OF AMERICA","income":1810000},{"name":"OVATION LLC","income":1565000},{"name":"SONY PICTURES ENTERTAINMENT","income":1500000},{"name":"ANSCHUTZ ENTERTAINMENT GROUP INC.","income":1490000},{"name":"THE BROADWAY LEAGUE","income":1490000},{"name":"NAMM: NATIONAL ASSOCIATION OF MUSIC MERCHANTS","income":1360000},{"name":"PROFESSIONAL NON-PROFIT THEATER COALITION","income":1340000},{"name":"SOTHEBY'S","income":1300000},{"name":"RECORDING ACADEMY","income":1190000},{"name":"NATIONAL INDEPENDENT VENUE ASSOCIATION","income":1060000},{"name":"THE WALT DISNEY CORPORATION","income":940000},{"name":"THE POKEMON COMPANY INTERNATIONAL","income":935000},{"name":"ZUFFA AND AFFILIATES","income":890000},{"name":"OAK VIEW GROUP, LLC","income":850000},{"name":"OCEANEERING INTERNATIONAL INC","income":840000},{"name":"STUBHUB","income":830000},{"name":"SESAC RIGHTS MANAGEMENT INC","income":810000},{"name":"INDEPENDENT TELEVISION SERVICE, INC.","income":800000},{"name":"UNIVERSAL MUSIC GROUP RECORDINGS, INC.","income":790000},{"name":"NATIONAL CAPITAL ARTS AND CULTURAL AFFAIRS PROGRAM","income":720000},{"name":"THE WALT DISNEY COMPANY","income":700000},{"name":"DISCOVERY COMMUNICATIONS, LLC","income":643500},{"name":"RAINBOW MEDIA HOLDINGS, LLC (AMC NETWORKS INC.)","income":610000},{"name":"INTERNATIONAL ASSOCIATION OF VENUE MANAGERS","income":610000},{"name":"THE BROADWAY LEAGUE INC.","income":560000},{"name":"CARNEGIE HALL CORPORATION","income":540000},{"name":"CHRISTIE'S, INC.","income":525000},{"name":"RIOT GAMES, INC.","income":525000},{"name":"ROCK AND ROLL HALL OF FAME AND MUSEUM","income":510000},{"name":"ACTORS' EQUITY","income":485500},{"name":"NATIONAL ASSEMBLY OF STATE ARTS AGENCIES","income":480000},{"name":"PACE-O-MATIC, INC.","income":480000},{"name":"CINEMA UNITED FKA NATIONAL ASSOCIATION OF THEATRE OWNERS","income":450000},{"name":"BUNGIE INC.","income":440000},{"name":"PROFESSIONAL PHOTOGRAPHERS OF AMERICA","income":440000},{"name":"METROPOLITAN MUSEUM OF ART","income":388500},{"name":"CITY OF LAGUNA BEACH","income":374000},{"name":"JET SET SPORTS HOLDINGS","income":360000},{"name":"MILLER STRATEGIES, LLC ON BEHALF OF OAK VIEW GROUP, LLC","income":346250},{"name":"NEW JERSEY PERFORMING ARTS CENTER CORPORATION","income":340000},{"name":"SCREEN ACTORS GUILD-AMERICA FEDERATION OF TELEVISION AND RADIO ARTISTS","income":336000},{"name":"LIONSGATE ENTERTAINMENT CORP","income":330000},{"name":"STARZ ENTERTAINMENT LLC","income":330000},{"name":"DAPPER LABS INC.","income":320000},{"name":"AMERICAN FEDERATION OF MUSICIANS","income":296568},{"name":"CAPITOL CONCERTS","income":291500},{"name":"YOUNG AUDIENCES ARTS FOR LEARNING","income":290000},{"name":"LIVE NATION ENTERTAINMENT","income":280000},{"name":"GRAND RAPIDS PUBLIC MUSEUM","income":280000}],"topFirms":[{"name":"FORBES-TATE","income":2520000},{"name":"GREENBERG TRAURIG, LLP","income":2430000},{"name":"FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)","income":2270000},{"name":"PLATINUM ADVISORS DC, LLC","income":1900000},{"name":"CARMEN GROUP INCORPORATED","income":1895000},{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":1880000},{"name":"NELSON MULLINS RILEY & SCARBOROUGH","income":1750000},{"name":"AVOQ, LLC","income":1640000},{"name":"ARNOLD & PORTER KAYE SCHOLER LLP","income":1590000},{"name":"ACG ADVOCACY","income":1530000},{"name":"HOGAN LOVELLS US LLP","income":1530000},{"name":"THE SMITH-FREE GROUP, LLC","income":1500000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":1420000},{"name":"TOWNSEND PUBLIC AFFAIRS, INC","income":1388117},{"name":"COGENT STRATEGIES LLC","income":1300000},{"name":"ALPINE ADVISORS","income":940000},{"name":"MILLER STRATEGIES, LLC","income":850000},{"name":"VAN BUSKIRK AND ASSOCIATES LLC","income":840000},{"name":"FRANKLIN SQUARE GROUP, LLC","income":830000},{"name":"AVENUE SOLUTIONS","income":800000},{"name":"GOODLATTE GROUP, LLC F.K.A. ROBERT GOODLATTE","income":700000},{"name":"TWINLOGIC STRATEGIES, LLP","income":610000},{"name":"PARK&K PUBLIC AFFAIRS LLC","income":605375},{"name":"KEVIN KAYES","income":560000},{"name":"SPINNAKER GOVERNMENT RELATIONS FKA C.H. FISHER LLC","income":540000},{"name":"SQUIRE PATTON BOGGS","income":540000},{"name":"R2P STRATEGIES, LLC","income":520000},{"name":"THE RABEN GROUP","income":513500},{"name":"BELL & LINDSAY, INC.","income":510000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":510000}],"sampleDescriptions":["Legislation to expense theatrical production costs under the Internal Revenue Code. Funding for the National Endowment of the Arts.","Monitoring issues related to music royalties","Violence in entertainment media","Enforcement","Regulation of video games, generally.","Artist rights, Intellectual Property","Consumer protection and legislation related to the primary ticketing market","National Endowment for the Arts\nNational Endowment for the Humanities","NEA grant programs; including but not limited to Our Town grant","Concerts on the National Mall","Matters pertaining to performance rights, copyright and intellectual property.","Outreach in connection with business to business negotiations.","Issues related to the entertainment industry.","H.R. 4706 - Music Modernization Act of 2017\n  \nCorrespondence with United States Senate and House of Representatives in support of the Music Modernization Act (H.R. 4706); research relating thereto.","Increasing awareness for arts in education and the benefits of creative learning; Support the introduction of resolution Honoring YA. Save the National Endowment for the Arts.","Legislation to expense theatrical production costs under the Internal Revenue Code.","Funding for the federal cultural agencies, including the Institute of Museum and Library Services (and its authorization; Enacting a universal charitable deduction.","grants","National Endowment for the arts funding","Lobbied in support of funding for the National Endowment for the Arts."]}
+{
+  "code": "ART",
+  "name": "Arts/Entertainment",
+  "totalSpending": 48141310,
+  "totalFilings": 2290,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 3133916,
+      "filings": 191
+    },
+    {
+      "year": 2019,
+      "income": 3452305,
+      "filings": 222
+    },
+    {
+      "year": 2020,
+      "income": 6113594,
+      "filings": 311
+    },
+    {
+      "year": 2021,
+      "income": 7053995,
+      "filings": 318
+    },
+    {
+      "year": 2022,
+      "income": 7420500,
+      "filings": 322
+    },
+    {
+      "year": 2023,
+      "income": 8558000,
+      "filings": 351
+    },
+    {
+      "year": 2024,
+      "income": 5658500,
+      "filings": 290
+    },
+    {
+      "year": 2025,
+      "income": 6750500,
+      "filings": 285
+    }
+  ],
+  "topClients": [
+    {
+      "name": "LIVE NATION ENTERTAINMENT, INC.",
+      "income": 3840000
+    },
+    {
+      "name": "RECORDING INDUSTRY ASSOCIATION OF AMERICA",
+      "income": 1810000
+    },
+    {
+      "name": "OVATION LLC",
+      "income": 1565000
+    },
+    {
+      "name": "SONY PICTURES ENTERTAINMENT",
+      "income": 1500000
+    },
+    {
+      "name": "ANSCHUTZ ENTERTAINMENT GROUP INC.",
+      "income": 1490000
+    },
+    {
+      "name": "THE BROADWAY LEAGUE",
+      "income": 1490000
+    },
+    {
+      "name": "NAMM: NATIONAL ASSOCIATION OF MUSIC MERCHANTS",
+      "income": 1360000
+    },
+    {
+      "name": "PROFESSIONAL NON-PROFIT THEATER COALITION",
+      "income": 1340000
+    },
+    {
+      "name": "SOTHEBY'S",
+      "income": 1300000
+    },
+    {
+      "name": "RECORDING ACADEMY",
+      "income": 1190000
+    },
+    {
+      "name": "NATIONAL INDEPENDENT VENUE ASSOCIATION",
+      "income": 1060000
+    },
+    {
+      "name": "THE WALT DISNEY CORPORATION",
+      "income": 940000
+    },
+    {
+      "name": "THE POKEMON COMPANY INTERNATIONAL",
+      "income": 935000
+    },
+    {
+      "name": "ZUFFA AND AFFILIATES",
+      "income": 890000
+    },
+    {
+      "name": "OAK VIEW GROUP, LLC",
+      "income": 850000
+    },
+    {
+      "name": "OCEANEERING INTERNATIONAL INC",
+      "income": 840000
+    },
+    {
+      "name": "STUBHUB",
+      "income": 830000
+    },
+    {
+      "name": "SESAC RIGHTS MANAGEMENT INC",
+      "income": 810000
+    },
+    {
+      "name": "INDEPENDENT TELEVISION SERVICE, INC.",
+      "income": 800000
+    },
+    {
+      "name": "UNIVERSAL MUSIC GROUP RECORDINGS, INC.",
+      "income": 790000
+    },
+    {
+      "name": "NATIONAL CAPITAL ARTS AND CULTURAL AFFAIRS PROGRAM",
+      "income": 720000
+    },
+    {
+      "name": "THE WALT DISNEY COMPANY",
+      "income": 700000
+    },
+    {
+      "name": "DISCOVERY COMMUNICATIONS, LLC",
+      "income": 643500
+    },
+    {
+      "name": "RAINBOW MEDIA HOLDINGS, LLC (AMC NETWORKS INC.)",
+      "income": 610000
+    },
+    {
+      "name": "INTERNATIONAL ASSOCIATION OF VENUE MANAGERS",
+      "income": 610000
+    },
+    {
+      "name": "THE BROADWAY LEAGUE INC.",
+      "income": 560000
+    },
+    {
+      "name": "CARNEGIE HALL CORPORATION",
+      "income": 540000
+    },
+    {
+      "name": "CHRISTIE'S, INC.",
+      "income": 525000
+    },
+    {
+      "name": "RIOT GAMES, INC.",
+      "income": 525000
+    },
+    {
+      "name": "ROCK AND ROLL HALL OF FAME AND MUSEUM",
+      "income": 510000
+    },
+    {
+      "name": "ACTORS' EQUITY",
+      "income": 485500
+    },
+    {
+      "name": "NATIONAL ASSEMBLY OF STATE ARTS AGENCIES",
+      "income": 480000
+    },
+    {
+      "name": "PACE-O-MATIC, INC.",
+      "income": 480000
+    },
+    {
+      "name": "CINEMA UNITED FKA NATIONAL ASSOCIATION OF THEATRE OWNERS",
+      "income": 450000
+    },
+    {
+      "name": "BUNGIE INC.",
+      "income": 440000
+    },
+    {
+      "name": "PROFESSIONAL PHOTOGRAPHERS OF AMERICA",
+      "income": 440000
+    },
+    {
+      "name": "METROPOLITAN MUSEUM OF ART",
+      "income": 388500
+    },
+    {
+      "name": "CITY OF LAGUNA BEACH",
+      "income": 374000
+    },
+    {
+      "name": "JET SET SPORTS HOLDINGS",
+      "income": 360000
+    },
+    {
+      "name": "MILLER STRATEGIES, LLC ON BEHALF OF OAK VIEW GROUP, LLC",
+      "income": 346250
+    },
+    {
+      "name": "NEW JERSEY PERFORMING ARTS CENTER CORPORATION",
+      "income": 340000
+    },
+    {
+      "name": "SCREEN ACTORS GUILD-AMERICA FEDERATION OF TELEVISION AND RADIO ARTISTS",
+      "income": 336000
+    },
+    {
+      "name": "LIONSGATE ENTERTAINMENT CORP",
+      "income": 330000
+    },
+    {
+      "name": "STARZ ENTERTAINMENT LLC",
+      "income": 330000
+    },
+    {
+      "name": "DAPPER LABS INC.",
+      "income": 320000
+    },
+    {
+      "name": "AMERICAN FEDERATION OF MUSICIANS",
+      "income": 296568
+    },
+    {
+      "name": "CAPITOL CONCERTS",
+      "income": 291500
+    },
+    {
+      "name": "YOUNG AUDIENCES ARTS FOR LEARNING",
+      "income": 290000
+    },
+    {
+      "name": "LIVE NATION ENTERTAINMENT",
+      "income": 280000
+    },
+    {
+      "name": "GRAND RAPIDS PUBLIC MUSEUM",
+      "income": 280000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "FORBES-TATE",
+      "income": 2520000
+    },
+    {
+      "name": "GREENBERG TRAURIG, LLP",
+      "income": 2430000
+    },
+    {
+      "name": "FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)",
+      "income": 2270000
+    },
+    {
+      "name": "PLATINUM ADVISORS DC, LLC",
+      "income": 1900000
+    },
+    {
+      "name": "CARMEN GROUP INCORPORATED",
+      "income": 1895000
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 1880000
+    },
+    {
+      "name": "NELSON MULLINS RILEY & SCARBOROUGH",
+      "income": 1750000
+    },
+    {
+      "name": "AVOQ, LLC",
+      "income": 1640000
+    },
+    {
+      "name": "ARNOLD & PORTER KAYE SCHOLER LLP",
+      "income": 1590000
+    },
+    {
+      "name": "ACG ADVOCACY",
+      "income": 1530000
+    },
+    {
+      "name": "HOGAN LOVELLS US LLP",
+      "income": 1530000
+    },
+    {
+      "name": "THE SMITH-FREE GROUP, LLC",
+      "income": 1500000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 1420000
+    },
+    {
+      "name": "TOWNSEND PUBLIC AFFAIRS, INC",
+      "income": 1388117
+    },
+    {
+      "name": "COGENT STRATEGIES LLC",
+      "income": 1300000
+    },
+    {
+      "name": "ALPINE ADVISORS",
+      "income": 940000
+    },
+    {
+      "name": "MILLER STRATEGIES, LLC",
+      "income": 850000
+    },
+    {
+      "name": "VAN BUSKIRK AND ASSOCIATES LLC",
+      "income": 840000
+    },
+    {
+      "name": "FRANKLIN SQUARE GROUP, LLC",
+      "income": 830000
+    },
+    {
+      "name": "AVENUE SOLUTIONS",
+      "income": 800000
+    },
+    {
+      "name": "GOODLATTE GROUP, LLC F.K.A. ROBERT GOODLATTE",
+      "income": 700000
+    },
+    {
+      "name": "TWINLOGIC STRATEGIES, LLP",
+      "income": 610000
+    },
+    {
+      "name": "PARK&K PUBLIC AFFAIRS LLC",
+      "income": 605375
+    },
+    {
+      "name": "KEVIN KAYES",
+      "income": 560000
+    },
+    {
+      "name": "SPINNAKER GOVERNMENT RELATIONS FKA C.H. FISHER LLC",
+      "income": 540000
+    },
+    {
+      "name": "SQUIRE PATTON BOGGS",
+      "income": 540000
+    },
+    {
+      "name": "R2P STRATEGIES, LLC",
+      "income": 520000
+    },
+    {
+      "name": "THE RABEN GROUP",
+      "income": 513500
+    },
+    {
+      "name": "BELL & LINDSAY, INC.",
+      "income": 510000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 510000
+    }
+  ],
+  "sampleDescriptions": [
+    "Legislation to expense theatrical production costs under the Internal Revenue Code. Funding for the National Endowment of the Arts.",
+    "Monitoring issues related to music royalties",
+    "Violence in entertainment media",
+    "Enforcement",
+    "Regulation of video games, generally.",
+    "Artist rights, Intellectual Property",
+    "Consumer protection and legislation related to the primary ticketing market",
+    "National Endowment for the Arts\nNational Endowment for the Humanities",
+    "NEA grant programs; including but not limited to Our Town grant",
+    "Concerts on the National Mall",
+    "Matters pertaining to performance rights, copyright and intellectual property.",
+    "Outreach in connection with business to business negotiations.",
+    "Issues related to the entertainment industry.",
+    "H.R. 4706 - Music Modernization Act of 2017\n  \nCorrespondence with United States Senate and House of Representatives in support of the Music Modernization Act (H.R. 4706); research relating thereto.",
+    "Increasing awareness for arts in education and the benefits of creative learning; Support the introduction of resolution Honoring YA. Save the National Endowment for the Arts.",
+    "Legislation to expense theatrical production costs under the Internal Revenue Code.",
+    "Funding for the federal cultural agencies, including the Institute of Museum and Library Services (and its authorization; Enacting a universal charitable deduction.",
+    "grants",
+    "National Endowment for the arts funding",
+    "Lobbied in support of funding for the National Endowment for the Arts."
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 48,
+      "spending": 591300.183982684
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 49,
+      "spending": 522606.3458874459
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 45,
+      "spending": 654039.0649350649
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 49,
+      "spending": 540836.3617604617
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 48,
+      "spending": 486646.9865356865
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 66,
+      "spending": 752060.3952297702
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 50,
+      "spending": 436237.5713492063
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 58,
+      "spending": 594238.7250666
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 67,
+      "spending": 980936.54744006
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 74,
+      "spending": 1145785.0921994674
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 86,
+      "spending": 1315847.4344821845
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 84,
+      "spending": 1259041.8750465221
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 64,
+      "spending": 819180.4826463732
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 76,
+      "spending": 1461263.5595515592
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 91,
+      "spending": 1435698.1101075395
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 87,
+      "spending": 1520684.9953379952
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 72,
+      "spending": 1437611.4612054608
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 88,
+      "spending": 1608429.8170426066
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 86,
+      "spending": 1449167.7875457876
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 76,
+      "spending": 1368422.8754578754
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 98,
+      "spending": 1750071.8810548245
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 79,
+      "spending": 1405469.938949939
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 89,
+      "spending": 1949383.7175872377
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 85,
+      "spending": 1454471.583207642
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 80,
+      "spending": 1237863.0384060384
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 72,
+      "spending": 1110421.4210729874
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 64,
+      "spending": 1057864.9324553227
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 74,
+      "spending": 1281318.9464840714
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 60,
+      "spending": 974178.8694638696
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 72,
+      "spending": 1435288.8293024756
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 81,
+      "spending": 1277519.424131424
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 72,
+      "spending": 1314684.3766233767
+    }
+  ],
+  "totalEstimatedSpending": 36628573
+}

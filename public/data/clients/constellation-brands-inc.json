@@ -1,1 +1,96 @@
-{"id":199349,"name":"CONSTELLATION BRANDS, INC.","slug":"constellation-brands-inc","state":"NY","description":"U.S-based beverage alcohol company that produces and markets beer, wine, and spirits.","totalSpending":1740000,"filings":29,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":120000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":300000},{"year":2024,"income":240000},{"year":2025,"income":180000}],"firms":["HARBINGER STRATEGIES, LLC"],"lobbyists":["MANNY ROSSMAN","STEVE STOMBRES","KYLE NEVINS","JOHN O'NEILL","JONATHAN SLEMROD","PARKER POLING","JOHN LEGANSKI"],"issues":["TRD","TAX","BAN","BEV",null],"sampleDescriptions":["NAFTA renegotiation; implications of proposed tariffs.","Implementation of the Tax Reform Act of 2017 (Public Law No. 115-97)","Banking issues related to the alcohol beverage industry.","NAFTA renegotiation; implications of proposed tariffs; cross-border issues.","USMCA; tariff implications; cross-border issues.","Commercial issues related to the alcohol beverage industry.","International commerce, including U.S. tariffs, USMCA-implementation, and cross-border issues resulting from the COVID-19 pandemic.","Commercial issues related to the alcohol beverage industry, including dietary guidelines.","International tax changes.","International commerce, including U.S. tariffs, and cross-border issues resulting from the COVID-19 pandemic.","Monitoring of issues related to global trade as a result of the Russian invasion of Ukraine.","Cross-border trade issues with Mexico.","Cross-border trade issues.","International tax issues affecting beverage alcohol production."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199349,
+  "name": "CONSTELLATION BRANDS, INC.",
+  "slug": "constellation-brands-inc",
+  "state": "NY",
+  "description": "U.S-based beverage alcohol company that produces and markets beer, wine, and spirits.",
+  "totalSpending": 1740000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "HARBINGER STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "MANNY ROSSMAN",
+    "STEVE STOMBRES",
+    "KYLE NEVINS",
+    "JOHN O'NEILL",
+    "JONATHAN SLEMROD",
+    "PARKER POLING",
+    "JOHN LEGANSKI"
+  ],
+  "issues": [
+    "TRD",
+    "TAX",
+    "BAN",
+    "BEV",
+    null
+  ],
+  "sampleDescriptions": [
+    "NAFTA renegotiation; implications of proposed tariffs.",
+    "Implementation of the Tax Reform Act of 2017 (Public Law No. 115-97)",
+    "Banking issues related to the alcohol beverage industry.",
+    "NAFTA renegotiation; implications of proposed tariffs; cross-border issues.",
+    "USMCA; tariff implications; cross-border issues.",
+    "Commercial issues related to the alcohol beverage industry.",
+    "International commerce, including U.S. tariffs, USMCA-implementation, and cross-border issues resulting from the COVID-19 pandemic.",
+    "Commercial issues related to the alcohol beverage industry, including dietary guidelines.",
+    "International tax changes.",
+    "International commerce, including U.S. tariffs, and cross-border issues resulting from the COVID-19 pandemic.",
+    "Monitoring of issues related to global trade as a result of the Russian invasion of Ukraine.",
+    "Cross-border trade issues with Mexico.",
+    "Cross-border trade issues.",
+    "International tax issues affecting beverage alcohol production."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 217500,
+  "peakYear": 2023,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 4
+}

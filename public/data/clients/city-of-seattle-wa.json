@@ -1,1 +1,107 @@
-{"id":125197,"name":"CITY OF SEATTLE, WA","slug":"city-of-seattle-wa","state":"WA","description":"Local Government","totalSpending":1560000,"filings":26,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":120000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":180000}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["LESLIE POLLNER","LISA BARKOVIC","LAURI HETTINGER","EVE MALDONADO-O'TOOLE"],"issues":["DIS","TRA","HOU","BUD","IMM","LBR","TEC","NAT","UTI","LAW","POS",null,"ENV"],"sampleDescriptions":["Catastrophic Regional Planning Grants; Emergency preparedness funding.","Streetcar; Bus Rapid Transit; Autonomous Vehicles; Capital Investment Grants.","Low-income housing tax credit.","Streetcar; HOME; Bus Rapid Transit; Autonomous Vehicles; Continuum of Care funding; Community Development Block Grant; Low Income Home Energy Assistance Program (LIHEAP); Weatherization Program; Capital Investment Grant Program.","Administration Executive Orders related to Deferred Action for Childhood Arrivals (DACA);  Development, Relief, and Education for Alien Minors (DREAM) Act.","Apprenticeships; water workforce legislation.","Low-income housing tax credit; homelessness; affordable housing.","5G Wireless; S.3157, STREAMLINE Small Cell Deployment Act.","Water Infrastructure Finance and Innovation Act; Army Corps funding; affordability;  consent decree.","Streetcar; HOME; Bus Rapid Transit; Continuum of Care funding; Community Development Block Grant; Low Income Home Energy Assistance Program (LIHEAP); Weatherization Program; Capital Investment Grant Program; Regional Catastrophic Planning Grant Program.","Administration Executive Orders related to Deferred Action for Childhood Arrivals (DACA);  Development, Relief, and Education for Alien Minors (DREAM) Act; public charge.","Water workforce legislation.","Regional Catastrophic Planning Grants; Emergency preparedness funding.","Homelessness; affordable housing.","Administration Executive Orders related to Deferred Action for Childhood Arrivals (DACA); Development, Relief, and Education for Alien Minors (DREAM) Act; public charge.","Water Infrastructure Finance and Innovation Act; Army Corps funding; affordability; consent decree.","Streetcar; Bus Rapid Transit; Capital Investment Grants.","5G Wireless; H.R. 530, Accelerating Broadband Development by Empowering Local Communities Act of 2019.","Emergency preparedness funding.","Streetcar; HOME; Bus Rapid Transit; Continuum of Care funding; Community Development Block Grant; Low Income Home Energy Assistance Program (LIHEAP); Weatherization Program; Capital Investment Grant Program; Regional Catastrophic Planning Grant Program; Child Care funding."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 125197,
+  "name": "CITY OF SEATTLE, WA",
+  "slug": "city-of-seattle-wa",
+  "state": "WA",
+  "description": "Local Government",
+  "totalSpending": 1560000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "HOLLAND & KNIGHT LLP"
+  ],
+  "lobbyists": [
+    "LESLIE POLLNER",
+    "LISA BARKOVIC",
+    "LAURI HETTINGER",
+    "EVE MALDONADO-O'TOOLE"
+  ],
+  "issues": [
+    "DIS",
+    "TRA",
+    "HOU",
+    "BUD",
+    "IMM",
+    "LBR",
+    "TEC",
+    "NAT",
+    "UTI",
+    "LAW",
+    "POS",
+    null,
+    "ENV"
+  ],
+  "sampleDescriptions": [
+    "Catastrophic Regional Planning Grants; Emergency preparedness funding.",
+    "Streetcar; Bus Rapid Transit; Autonomous Vehicles; Capital Investment Grants.",
+    "Low-income housing tax credit.",
+    "Streetcar; HOME; Bus Rapid Transit; Autonomous Vehicles; Continuum of Care funding; Community Development Block Grant; Low Income Home Energy Assistance Program (LIHEAP); Weatherization Program; Capital Investment Grant Program.",
+    "Administration Executive Orders related to Deferred Action for Childhood Arrivals (DACA);  Development, Relief, and Education for Alien Minors (DREAM) Act.",
+    "Apprenticeships; water workforce legislation.",
+    "Low-income housing tax credit; homelessness; affordable housing.",
+    "5G Wireless; S.3157, STREAMLINE Small Cell Deployment Act.",
+    "Water Infrastructure Finance and Innovation Act; Army Corps funding; affordability;  consent decree.",
+    "Streetcar; HOME; Bus Rapid Transit; Continuum of Care funding; Community Development Block Grant; Low Income Home Energy Assistance Program (LIHEAP); Weatherization Program; Capital Investment Grant Program; Regional Catastrophic Planning Grant Program.",
+    "Administration Executive Orders related to Deferred Action for Childhood Arrivals (DACA);  Development, Relief, and Education for Alien Minors (DREAM) Act; public charge.",
+    "Water workforce legislation.",
+    "Regional Catastrophic Planning Grants; Emergency preparedness funding.",
+    "Homelessness; affordable housing.",
+    "Administration Executive Orders related to Deferred Action for Childhood Arrivals (DACA); Development, Relief, and Education for Alien Minors (DREAM) Act; public charge.",
+    "Water Infrastructure Finance and Innovation Act; Army Corps funding; affordability; consent decree.",
+    "Streetcar; Bus Rapid Transit; Capital Investment Grants.",
+    "5G Wireless; H.R. 530, Accelerating Broadband Development by Empowering Local Communities Act of 2019.",
+    "Emergency preparedness funding.",
+    "Streetcar; HOME; Bus Rapid Transit; Continuum of Care funding; Community Development Block Grant; Low Income Home Energy Assistance Program (LIHEAP); Weatherization Program; Capital Investment Grant Program; Regional Catastrophic Planning Grant Program; Child Care funding."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 195000,
+  "peakYear": 2020,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 12
+}

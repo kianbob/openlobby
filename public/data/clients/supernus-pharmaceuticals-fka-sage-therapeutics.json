@@ -1,1 +1,85 @@
-{"id":193514,"name":"SUPERNUS PHARMACEUTICALS FKA SAGE THERAPEUTICS","slug":"supernus-pharmaceuticals-fka-sage-therapeutics","state":"MA","description":"A clinical-stage biopharmaceutical company.","totalSpending":1380000,"filings":28,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":150000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["W STRATEGIES, LLC"],"lobbyists":["DARREN WILLCOX"],"issues":["HCR","MMM",null],"sampleDescriptions":["Education and awareness of mental health issues.","Education and awareness of mental health issues especially as it relates to postpartum depression.","Regulatory and legislative proposals in the Administrations Blueprint.","Maternal health demonstration project at CMMI.  \n\nH.R.3: Lower Drug Costs Now Act.\n\nH.R.19: Lower Costs, More Cures Act of 2019.","Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment.","Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment.\n\nH.R.4996: Helping MOMS Act of 2020.\n\nH.R.133: Consolidated Appropriations Act, 2021.","Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment.\n\nH.R.1319: American Rescue Plan Act of 2021.","Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment. Issues related to telehealth in the mental health space.","Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment and major depressive disorder. Issues related to telehealth in the mental health space.","Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment and major depressive disorder."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 193514,
+  "name": "SUPERNUS PHARMACEUTICALS FKA SAGE THERAPEUTICS",
+  "slug": "supernus-pharmaceuticals-fka-sage-therapeutics",
+  "state": "MA",
+  "description": "A clinical-stage biopharmaceutical company.",
+  "totalSpending": 1380000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "W STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "DARREN WILLCOX"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Education and awareness of mental health issues.",
+    "Education and awareness of mental health issues especially as it relates to postpartum depression.",
+    "Regulatory and legislative proposals in the Administrations Blueprint.",
+    "Maternal health demonstration project at CMMI.  \n\nH.R.3: Lower Drug Costs Now Act.\n\nH.R.19: Lower Costs, More Cures Act of 2019.",
+    "Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment.",
+    "Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment.\n\nH.R.4996: Helping MOMS Act of 2020.\n\nH.R.133: Consolidated Appropriations Act, 2021.",
+    "Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment.\n\nH.R.1319: American Rescue Plan Act of 2021.",
+    "Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment. Issues related to telehealth in the mental health space.",
+    "Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment and major depressive disorder. Issues related to telehealth in the mental health space.",
+    "Education and awareness of mental health issues especially as it relates to access for postpartum depression treatment and major depressive disorder."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -17,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 172500,
+  "peakYear": 2019,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "healthcare"
+}

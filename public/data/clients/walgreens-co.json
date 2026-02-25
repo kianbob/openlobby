@@ -1,1 +1,107 @@
-{"id":196631,"name":"WALGREENS CO.","slug":"walgreens-co","state":"IL","description":"An American company that operates as the second-largest pharmacy store chain.","totalSpending":1580000,"filings":28,"yearlySpending":[{"year":2018,"income":90000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["FORBES-TATE"],"lobbyists":["ELIZABETH GREER","JEFFREY FORBES","JEFFREY STRUNK","FRANKLYN STEINBERG","DERRICK WHITE","CYNTHIA BROWN","FRANCESCA MCCRARY","RICHARD LOPEZ","ADRIENNE SCHWEER"],"issues":["TAX","HCR","MMM","BUD","CSP","CPT",null,"LBR"],"sampleDescriptions":["Issues related to pharmacies and pharmacists, Medicare reimbursement, drug pricing, and tax.","Issues related to pharmacies and pharmacists, and Medicare reimbursement.","Issues related to pharmacies and pharmacists, Medicare reimbursement, and opioids.","Issues related to pharmacies and pharmacists, and Medicare reimbursement; Issues regarding Section 965 - Treatment of Deferred Foreign Income.","Issues regarding H.R. 748 - the CARES Act (Pub.L. 116-136) and H.R. 6201 - Families First Coronavirus Response Act (Pub.L. 116-127); H.R. 6379 - Take Responsibility for Workers and Families Act.","Issues related to pharmacies and pharmacists, and Medicare reimbursement; Issues regarding Section 965 - Treatment of Deferred Foreign Income; Issues related to H.R. 748 - the CARES Act (Pub.L. 116-136).","Issues related to pharmacies and pharmacists, Medicare reimbursement, and opioids; Issues related to H.R. 748 - the CARES Act (Pub.L. 116-136).","Issues related to pharmacies and pharmacists, and Medicare reimbursement; Issues related to H.R. 748 - the CARES Act (Pub.L. 116-136).","Issues related to S. 3431 - INFORM Consumers Act.","Issues regarding H.R. 748 - the CARES Act (Pub.L. 116-136) and H.R. 6201 - Families First Coronavirus Response Act (Pub.L. 116-127); H.R. 6379 - Take Responsibility for Workers and Families Act; Issues related to H.R. 925 - The Heroes Act.","Issues related to pharmacies, pharmacists, Medicare reimbursement, and opioids; Issues regarding implementation of the CARES Act (Public Law No: 116-136).","Issues regarding implementation of the CARES Act (Public Law No: 116-136) and the Families First Coronavirus Response Act (Public Law No: 116-127); H.R. 6379 (116th Congress) - Workforce Emergency Response Act of 2020; Issues regarding implementation of the Consolidated Appropriations Act, 2021 (Public Law No: 116-260).","Issues related to pharmacies, pharmacists, and Medicare reimbursement; Issues regarding implementation of the CARES Act (Public Law No: 116-136).","Issues related to S. 3431 (116th Congress) - INFORM Consumers Act.","Issues related to pharmacies, pharmacists, and Medicare reimbursement; Issues regarding Section 965 - Treatment of Deferred Foreign Income; Issues regarding implementation of the CARES Act (Public Law No: 116-136).","Issues related to pharmacies, pharmacists, and Medicare reimbursement; Issues regarding Section 965 - Treatment of Deferred Foreign Income; Issues related to global intangible low taxed income (GILTI).","Issues related to pharmacies, pharmacists, and Medicare reimbursement.","Issues regarding implementation of the Consolidated Appropriations Act, 2021 (Public Law No: 116-260).","H.R. 5502/S. 936 - INFORMED Consumers for us.","Issues related to pharmacies, pharmacists, Medicare reimbursement, and opioids; Issues regarding implementation of the CARES Act (Public Law No: 116-136); H.R.2471 - Consolidated Appropriations Act, 2022, Issues related to Covid funding."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 196631,
+  "name": "WALGREENS CO.",
+  "slug": "walgreens-co",
+  "state": "IL",
+  "description": "An American company that operates as the second-largest pharmacy store chain.",
+  "totalSpending": 1580000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 90000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "FORBES-TATE"
+  ],
+  "lobbyists": [
+    "ELIZABETH GREER",
+    "JEFFREY FORBES",
+    "JEFFREY STRUNK",
+    "FRANKLYN STEINBERG",
+    "DERRICK WHITE",
+    "CYNTHIA BROWN",
+    "FRANCESCA MCCRARY",
+    "RICHARD LOPEZ",
+    "ADRIENNE SCHWEER"
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "MMM",
+    "BUD",
+    "CSP",
+    "CPT",
+    null,
+    "LBR"
+  ],
+  "sampleDescriptions": [
+    "Issues related to pharmacies and pharmacists, Medicare reimbursement, drug pricing, and tax.",
+    "Issues related to pharmacies and pharmacists, and Medicare reimbursement.",
+    "Issues related to pharmacies and pharmacists, Medicare reimbursement, and opioids.",
+    "Issues related to pharmacies and pharmacists, and Medicare reimbursement; Issues regarding Section 965 - Treatment of Deferred Foreign Income.",
+    "Issues regarding H.R. 748 - the CARES Act (Pub.L. 116-136) and H.R. 6201 - Families First Coronavirus Response Act (Pub.L. 116-127); H.R. 6379 - Take Responsibility for Workers and Families Act.",
+    "Issues related to pharmacies and pharmacists, and Medicare reimbursement; Issues regarding Section 965 - Treatment of Deferred Foreign Income; Issues related to H.R. 748 - the CARES Act (Pub.L. 116-136).",
+    "Issues related to pharmacies and pharmacists, Medicare reimbursement, and opioids; Issues related to H.R. 748 - the CARES Act (Pub.L. 116-136).",
+    "Issues related to pharmacies and pharmacists, and Medicare reimbursement; Issues related to H.R. 748 - the CARES Act (Pub.L. 116-136).",
+    "Issues related to S. 3431 - INFORM Consumers Act.",
+    "Issues regarding H.R. 748 - the CARES Act (Pub.L. 116-136) and H.R. 6201 - Families First Coronavirus Response Act (Pub.L. 116-127); H.R. 6379 - Take Responsibility for Workers and Families Act; Issues related to H.R. 925 - The Heroes Act.",
+    "Issues related to pharmacies, pharmacists, Medicare reimbursement, and opioids; Issues regarding implementation of the CARES Act (Public Law No: 116-136).",
+    "Issues regarding implementation of the CARES Act (Public Law No: 116-136) and the Families First Coronavirus Response Act (Public Law No: 116-127); H.R. 6379 (116th Congress) - Workforce Emergency Response Act of 2020; Issues regarding implementation of the Consolidated Appropriations Act, 2021 (Public Law No: 116-260).",
+    "Issues related to pharmacies, pharmacists, and Medicare reimbursement; Issues regarding implementation of the CARES Act (Public Law No: 116-136).",
+    "Issues related to S. 3431 (116th Congress) - INFORM Consumers Act.",
+    "Issues related to pharmacies, pharmacists, and Medicare reimbursement; Issues regarding Section 965 - Treatment of Deferred Foreign Income; Issues regarding implementation of the CARES Act (Public Law No: 116-136).",
+    "Issues related to pharmacies, pharmacists, and Medicare reimbursement; Issues regarding Section 965 - Treatment of Deferred Foreign Income; Issues related to global intangible low taxed income (GILTI).",
+    "Issues related to pharmacies, pharmacists, and Medicare reimbursement.",
+    "Issues regarding implementation of the Consolidated Appropriations Act, 2021 (Public Law No: 116-260).",
+    "H.R. 5502/S. 936 - INFORMED Consumers for us.",
+    "Issues related to pharmacies, pharmacists, Medicare reimbursement, and opioids; Issues regarding implementation of the CARES Act (Public Law No: 116-136); H.R.2471 - Consolidated Appropriations Act, 2022, Issues related to Covid funding."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 122,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 197500,
+  "peakYear": 2019,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 7
+}

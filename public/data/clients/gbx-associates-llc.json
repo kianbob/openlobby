@@ -1,1 +1,85 @@
-{"id":204040,"name":"GBX ASSOCIATES LLC","slug":"gbx-associates-llc","state":"OH","description":"Historic real estate","totalSpending":1830000,"filings":23,"yearlySpending":[{"year":2020,"income":120000},{"year":2021,"income":320000},{"year":2022,"income":770000},{"year":2023,"income":220000},{"year":2024,"income":250000},{"year":2025,"income":150000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["RUSSELL SULLIVAN","HAROLD HANCOCK","BRIAN MCGUIRE","NADEAM ELSHAMI","DOUGLAS FRIEDNASH","ROSEMARY BECCHI","LORI HARJU","STEVEN DEMBY","MARK PRYOR","MARK WARREN","NORMAN BROWNSTEIN","ANDREW USYK","JOSEPH HOWELL"],"issues":["TAX","URB",null],"sampleDescriptions":["Issues related to historic preservation, Code Section 170(h)","Issues related to historic preservation, Code Section 170(h)\nH.R.5376 - Build Back Better Act","Issues related to historic preservation, Code Section 170(h) H.R.5376 - Build Back Better Act","Issues related to historic preservation, Code Section 170(h) H.R. 5376 - Build Back Better Act Note: Senate post-employment restrictions for Mark Warren ended 4/8/22","Issues related to historic preservation, Code Section 170(h) H.R. 5376 - Inflation Reduction Act of 2022 S4808: Earn Act","Issues related to historic preservation, Code Section 170(h) H.R.5376 Inflation Reduction Act of 2022 S4808: Earn Act H.R. 2617 Consolidated Appropriations Act, 2023","Issues related to IRS Oversight H.R. 2617 Consolidated Appropriations Act, 2023","Issues related to IRS Oversight H.R.1 One Big Beautiful Bill","Issues related to IRS Oversight P.L. 119-21 (H.R. 1): One Big Beautiful Bill implementation"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 204040,
+  "name": "GBX ASSOCIATES LLC",
+  "slug": "gbx-associates-llc",
+  "state": "OH",
+  "description": "Historic real estate",
+  "totalSpending": 1830000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 770000
+    },
+    {
+      "year": 2023,
+      "income": 220000
+    },
+    {
+      "year": 2024,
+      "income": 250000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "RUSSELL SULLIVAN",
+    "HAROLD HANCOCK",
+    "BRIAN MCGUIRE",
+    "NADEAM ELSHAMI",
+    "DOUGLAS FRIEDNASH",
+    "ROSEMARY BECCHI",
+    "LORI HARJU",
+    "STEVEN DEMBY",
+    "MARK PRYOR",
+    "MARK WARREN",
+    "NORMAN BROWNSTEIN",
+    "ANDREW USYK",
+    "JOSEPH HOWELL"
+  ],
+  "issues": [
+    "TAX",
+    "URB",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to historic preservation, Code Section 170(h)",
+    "Issues related to historic preservation, Code Section 170(h)\nH.R.5376 - Build Back Better Act",
+    "Issues related to historic preservation, Code Section 170(h) H.R.5376 - Build Back Better Act",
+    "Issues related to historic preservation, Code Section 170(h) H.R. 5376 - Build Back Better Act Note: Senate post-employment restrictions for Mark Warren ended 4/8/22",
+    "Issues related to historic preservation, Code Section 170(h) H.R. 5376 - Inflation Reduction Act of 2022 S4808: Earn Act",
+    "Issues related to historic preservation, Code Section 170(h) H.R.5376 Inflation Reduction Act of 2022 S4808: Earn Act H.R. 2617 Consolidated Appropriations Act, 2023",
+    "Issues related to IRS Oversight H.R. 2617 Consolidated Appropriations Act, 2023",
+    "Issues related to IRS Oversight H.R.1 One Big Beautiful Bill",
+    "Issues related to IRS Oversight P.L. 119-21 (H.R. 1): One Big Beautiful Bill implementation"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 25,
+  "trajectory": "stable",
+  "yearsActive": 6,
+  "avgAnnualSpending": 305000,
+  "peakYear": 2022,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 2
+}

@@ -1,1 +1,109 @@
-{"id":184894,"name":"NEXTERA ENERGY, INC.","slug":"nextera-energy-inc","state":"DC","description":"Renewable energy company","totalSpending":1360000,"filings":28,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":140000},{"year":2020,"income":250000},{"year":2021,"income":50000},{"year":2022,"income":100000},{"year":2023,"income":260000},{"year":2024,"income":200000},{"year":2025,"income":240000}],"firms":["INVARIANT LLC"],"lobbyists":["HEATHER PODESTA","BENJAMIN KLEIN","STEPHEN BAILEY","ANNE PALISI","LANDON STROPKO","QUINCY ENOCH","LOGAN HOLLERS","AMY SWONGER","IAN FOLEY","MARY STANTON","MAX WHITCOMB","JOEY SMITH","DAMIAN ORTEGA"],"issues":["ENG","TAX","TRD",null,"FIN"],"sampleDescriptions":["Monitor issues related to clean energy.","Monitor implementation of H.R. 1, the Tax Cuts and Jobs Act (P.L. 115-97), and impact on renewable energy tax incentives and financing.","Monitor issues related to clean energy; monitor natural gas pipeline issues in end of year spending legislation.","Monitor issues related to clean energy; monitor natural gas pipeline issues.","Monitor issues related to clean energy, including in S. 2657, the Advanced Geothermal Innovation Leadership Act of 2019 (the legislative vehicle for Senate energy bill); monitor natural gas pipeline issues.","Monitor issues related to clean energy; monitor natural gas pipeline issues; monitor provisions related to consumer energy cost assistance in H.R. 6800, the HEROES Act; monitor clean energy related provisions in H.R. 2, the INVEST in America Act.","Monitor issues related to clean energy; monitor natural gas pipeline issues; monitor provisions related to consumer energy cost assistance in H.R. 6800, the HEROES Act, and H.R. 925, the Heroes Act (revised); monitor clean energy related provisions in H.R. 2, the INVEST in America Act.","Monitor issues related to clean energy; monitor natural gas pipeline issues; monitor provisions related to consumer energy cost assistance in H.R. 925, the Heroes Act (revised); monitor clean energy related provisions in H.R. 2, the INVEST in America Act, and H.R. 133, the Consolidated Appropriations Act of 2021.","Monitor issues related to clean energy, including tax provisions in H.R.5376, Build Back Better Act; monitor infrastructure legislation for energy proposals.","Monitor issues related to clean energy, including tax provisions in H.R.5376, Build Back Better Act, draft Senate legislation, and H.R. 4521, the America COMPETES Act; monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act; discuss renewable energy as it relates to the Endangered Species Act. Educate policymakers on NextEras East Coast offshore wind projects, and NextEras Real Zero carbon emission reduction campaign.","Discuss issues related to the supply chain and the impact of potential tariffs.","Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions in P.L. 117-169, the Inflation Reduction Act, and provisions of P.L. 117-167, the CHIPS and Science Act. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Educate policymakers on NextEras Real Zero carbon emission reduction campaign.","Monitor efforts regarding the appropriate risk-weighting for clean energy tax equity investments in the Basel III proposed rules.","Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions such as the hydrogen production tax credit in P.L.117-169, the Inflation Reduction Act, and provisions of P.L.117-167, the CHIPS and Science Act. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Monitor the Environmental Protection Agency's set rule and advocate for the inclusion of eRINs.","Dicuss issues related to clean energy, including implementation and rulemaking of energy tax provisions such as the hydrogen production tax credit and Section 48 investment tax credit in P.L. 117-169, the Inflation Reduction Act, and provisions of P.L. 117-167, the CHIPS and Science Act. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Monitor the Environmental Protection Agency's set rule and advocate for the inclusion of eRINs.","Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions such as the hydrogen production tax credit in P.L. 117-169, the Inflation Reduction Act, and provisions of P.L. 117-167, the CHIPS and Science Act. Support split ownership for biogas equipment and facilities in implementation of the Section 48 investment tax credit of P.L. 117-169. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Monitor the Environmental Protection Agency's set rule and advocate for the inclusion of eRINs.","Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions in P.L. 117-169, the Inflation Reduction Act. Support split ownership for biogas equipment and facilities in implementation of the Section 48 investment tax credit of P.L. 117-169. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Monitor the Environmental Protection Agency's set rule.","Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions in P.L. 117-169, the Inflation Reduction Act. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Educate Members and staff on the importance of energy transmission and permitting. Monitor budget reconciliation and government funding discussions.","Monitor issues related to clean energy and energy tax provisions in H.R. 1, One Big Beautiful Bill Act, and government funding discussions. Educate Members and staff on the importance of energy transmission and permitting.","Monitor issues related to clean energy and energy tax provisions in P.L. 119-21, the One Big Beautiful Bill Act, and government funding discussions. Educate Members and staff on the importance of energy transmission and permitting."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184894,
+  "name": "NEXTERA ENERGY, INC.",
+  "slug": "nextera-energy-inc",
+  "state": "DC",
+  "description": "Renewable energy company",
+  "totalSpending": 1360000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 120000
+    },
+    {
+      "year": 2019,
+      "income": 140000
+    },
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 50000
+    },
+    {
+      "year": 2022,
+      "income": 100000
+    },
+    {
+      "year": 2023,
+      "income": 260000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "INVARIANT LLC"
+  ],
+  "lobbyists": [
+    "HEATHER PODESTA",
+    "BENJAMIN KLEIN",
+    "STEPHEN BAILEY",
+    "ANNE PALISI",
+    "LANDON STROPKO",
+    "QUINCY ENOCH",
+    "LOGAN HOLLERS",
+    "AMY SWONGER",
+    "IAN FOLEY",
+    "MARY STANTON",
+    "MAX WHITCOMB",
+    "JOEY SMITH",
+    "DAMIAN ORTEGA"
+  ],
+  "issues": [
+    "ENG",
+    "TAX",
+    "TRD",
+    null,
+    "FIN"
+  ],
+  "sampleDescriptions": [
+    "Monitor issues related to clean energy.",
+    "Monitor implementation of H.R. 1, the Tax Cuts and Jobs Act (P.L. 115-97), and impact on renewable energy tax incentives and financing.",
+    "Monitor issues related to clean energy; monitor natural gas pipeline issues in end of year spending legislation.",
+    "Monitor issues related to clean energy; monitor natural gas pipeline issues.",
+    "Monitor issues related to clean energy, including in S. 2657, the Advanced Geothermal Innovation Leadership Act of 2019 (the legislative vehicle for Senate energy bill); monitor natural gas pipeline issues.",
+    "Monitor issues related to clean energy; monitor natural gas pipeline issues; monitor provisions related to consumer energy cost assistance in H.R. 6800, the HEROES Act; monitor clean energy related provisions in H.R. 2, the INVEST in America Act.",
+    "Monitor issues related to clean energy; monitor natural gas pipeline issues; monitor provisions related to consumer energy cost assistance in H.R. 6800, the HEROES Act, and H.R. 925, the Heroes Act (revised); monitor clean energy related provisions in H.R. 2, the INVEST in America Act.",
+    "Monitor issues related to clean energy; monitor natural gas pipeline issues; monitor provisions related to consumer energy cost assistance in H.R. 925, the Heroes Act (revised); monitor clean energy related provisions in H.R. 2, the INVEST in America Act, and H.R. 133, the Consolidated Appropriations Act of 2021.",
+    "Monitor issues related to clean energy, including tax provisions in H.R.5376, Build Back Better Act; monitor infrastructure legislation for energy proposals.",
+    "Monitor issues related to clean energy, including tax provisions in H.R.5376, Build Back Better Act, draft Senate legislation, and H.R. 4521, the America COMPETES Act; monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act; discuss renewable energy as it relates to the Endangered Species Act. Educate policymakers on NextEras East Coast offshore wind projects, and NextEras Real Zero carbon emission reduction campaign.",
+    "Discuss issues related to the supply chain and the impact of potential tariffs.",
+    "Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions in P.L. 117-169, the Inflation Reduction Act, and provisions of P.L. 117-167, the CHIPS and Science Act. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Educate policymakers on NextEras Real Zero carbon emission reduction campaign.",
+    "Monitor efforts regarding the appropriate risk-weighting for clean energy tax equity investments in the Basel III proposed rules.",
+    "Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions such as the hydrogen production tax credit in P.L.117-169, the Inflation Reduction Act, and provisions of P.L.117-167, the CHIPS and Science Act. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Monitor the Environmental Protection Agency's set rule and advocate for the inclusion of eRINs.",
+    "Dicuss issues related to clean energy, including implementation and rulemaking of energy tax provisions such as the hydrogen production tax credit and Section 48 investment tax credit in P.L. 117-169, the Inflation Reduction Act, and provisions of P.L. 117-167, the CHIPS and Science Act. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Monitor the Environmental Protection Agency's set rule and advocate for the inclusion of eRINs.",
+    "Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions such as the hydrogen production tax credit in P.L. 117-169, the Inflation Reduction Act, and provisions of P.L. 117-167, the CHIPS and Science Act. Support split ownership for biogas equipment and facilities in implementation of the Section 48 investment tax credit of P.L. 117-169. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Monitor the Environmental Protection Agency's set rule and advocate for the inclusion of eRINs.",
+    "Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions in P.L. 117-169, the Inflation Reduction Act. Support split ownership for biogas equipment and facilities in implementation of the Section 48 investment tax credit of P.L. 117-169. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Monitor the Environmental Protection Agency's set rule.",
+    "Monitor issues related to clean energy, including implementation and rulemaking of energy tax provisions in P.L. 117-169, the Inflation Reduction Act. Monitor implementation of P.L.117-58, Infrastructure Investment and Jobs Act. Educate Members and staff on the importance of energy transmission and permitting. Monitor budget reconciliation and government funding discussions.",
+    "Monitor issues related to clean energy and energy tax provisions in H.R. 1, One Big Beautiful Bill Act, and government funding discussions. Educate Members and staff on the importance of energy transmission and permitting.",
+    "Monitor issues related to clean energy and energy tax provisions in P.L. 119-21, the One Big Beautiful Bill Act, and government funding discussions. Educate Members and staff on the importance of energy transmission and permitting."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 170000,
+  "peakYear": 2023,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "energy"
+}

@@ -1,1 +1,57 @@
-{"id":128323,"name":"EMBRAER EMPRESA BRASILEIRA DE AERONAUTICA S.A.","slug":"embraer-empresa-brasileira-de-aeronautica-s-a","state":null,"description":null,"totalSpending":1790000,"filings":9,"yearlySpending":[{"year":2018,"income":350000},{"year":2019,"income":540000},{"year":2025,"income":900000}],"firms":["KING & SPALDING LLP"],"lobbyists":["THOMAS SPULAK","CLAUDIA HRVATIN","ALEXANDER (\"ANDER\") CRENSHAW"],"issues":["DEF","AVI","TRD"],"sampleDescriptions":["Issues related to the U.S. Air Force Light Air Support (LAS) program; U.S. Air Force OA-X.","-- Issues related to unmanned air traffic management\n\n-- General aviation issues","Issues related to the U.S. Air Force Light Air Support (LAS) program; U.S. Air Force OA-X","Issues related to unmanned air traffic management; general aviation issues","H.R. 2740 - Labor, Health and Human Services, Education, Defense, State, Foreign Operations, and Energy and Water Development Appropriations Act, 2020; H.R. 2500 - National Defense Authorization Act for Fiscal Year 2020; S. 1790 - National Defense Authorization Act for Fiscal Year 2020:  Issues related to the U.S. Air Force Light Air Support (LAS) program and the U.S. Air Force OA-X.","Section 232, Section 301, Aircraft Advocacy."],"years":[2018,2019,2025]}
+{
+  "id": 128323,
+  "name": "EMBRAER EMPRESA BRASILEIRA DE AERONAUTICA S.A.",
+  "slug": "embraer-empresa-brasileira-de-aeronautica-s-a",
+  "state": null,
+  "description": null,
+  "totalSpending": 1790000,
+  "filings": 9,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 350000
+    },
+    {
+      "year": 2019,
+      "income": 540000
+    },
+    {
+      "year": 2025,
+      "income": 900000
+    }
+  ],
+  "firms": [
+    "KING & SPALDING LLP"
+  ],
+  "lobbyists": [
+    "THOMAS SPULAK",
+    "CLAUDIA HRVATIN",
+    "ALEXANDER (\"ANDER\") CRENSHAW"
+  ],
+  "issues": [
+    "DEF",
+    "AVI",
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "Issues related to the U.S. Air Force Light Air Support (LAS) program; U.S. Air Force OA-X.",
+    "-- Issues related to unmanned air traffic management\n\n-- General aviation issues",
+    "Issues related to the U.S. Air Force Light Air Support (LAS) program; U.S. Air Force OA-X",
+    "Issues related to unmanned air traffic management; general aviation issues",
+    "H.R. 2740 - Labor, Health and Human Services, Education, Defense, State, Foreign Operations, and Energy and Water Development Appropriations Act, 2020; H.R. 2500 - National Defense Authorization Act for Fiscal Year 2020; S. 1790 - National Defense Authorization Act for Fiscal Year 2020:  Issues related to the U.S. Air Force Light Air Support (LAS) program and the U.S. Air Force OA-X.",
+    "Section 232, Section 301, Aircraft Advocacy."
+  ],
+  "years": [
+    2018,
+    2019,
+    2025
+  ],
+  "growthRate": 157,
+  "trajectory": "exploding",
+  "yearsActive": 3,
+  "avgAnnualSpending": 596667,
+  "peakYear": 2025,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 3
+}

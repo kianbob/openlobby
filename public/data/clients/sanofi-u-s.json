@@ -1,1 +1,114 @@
-{"id":151585,"name":"SANOFI, U.S.","slug":"sanofi-u-s","state":"DC","description":"Global life sciences company","totalSpending":1690000,"filings":32,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":210000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["WILLIAMS AND JENSEN, PLLC"],"lobbyists":["CHERYL JAEGER","CHRISTOPHER HATCHER","NICHOLAS KARELLAS","SUSAN HIRSCHMANN","ANDREW JONES","KARINA LYNCH","MATTHEW HOEKSTRA","CHRISTOPHER WILCOX","GEORGE BAKER","GRANT BARBOSA","DANIEL ZIEGLER","JEANNE HAGGERTY","ALEC ARAMANDA","KURT SCHRADER","ROBERT BUTORA"],"issues":["TAX","HCR","MMM","BUD","MED","CPT","TRD","DEF",null],"sampleDescriptions":["Tax reform, including the orphan drug credit.  Implementing of H.R. 1, Tax Cuts and Jobs Act.  H.R. 4993, Vaccine Access Improvement Act.","General education about federal policies impacting pharmaceutical development, approval, and reimbursement (including Medicare, Medicaid, Affordable Care Act issues). Policies impacting public health preparedness and prevention.","General education about policies impacting pharmaceutical development, approval, reimbursement.","Policies impacting Medicare Part D, H.R. 1625, Consolidated Appropriations Act.  H.R. 1892, the Bipartisan Budget Act of 2018.","General education about FDA approval policies and NIH research activities.","General education about federal policies impacting pharmaceutical development, approval, and reimbursement (including Medicare, Medicaid, Affordable Care Act issues). Policies impacting public health preparedness and prevention.  Pandemic All Hazards Preparedness Authorization Act of 2018, S. 2852.  Over-the-Counter Drug Safety Innovations and Reform Act, S. 2315.","General education about policies impacting pharmaceutical development, approval, reimbursement; Medicare Part D.","Tax reform, including the orphan drug credit.  Implementing of H.R. 1, Tax Cuts and Jobs Act (P.L. 115-97).  H.R. 4993, Vaccine Access Improvement Act.","General education about federal policies impacting pharmaceutical development, approval, and reimbursement (including Medicare, Medicaid, Affordable Care Act issues). Policies impacting public health preparedness and prevention.  Pandemic All Hazards Preparedness Authorization Act of 2018, S. 2852.  Over-the-Counter Drug Safety Innovations and Reform Act, S. 2315.  H.R. 6 Support for Patients and Communities Act.","General education about policies impacting pharmaceutical development, approval, reimbursement; Medicare Part D.  Medicare Part B CMMI proposal.","General education about federal policies impacting pharmaceutical development, approval, and reimbursement (including Medicare, Medicaid, Affordable Care Act issues). Policies impacting public health preparedness and prevention.  Pandemic All Hazards Preparedness Authorization Act of 2018,  H.R. 6378, S. 2851, H.R. 7328, S. 2852.  Over-the-Counter Drug Safety Innovations and Reform Act, S. 2315, H.R. 7328.  H.R. 6 Support for Patients and Communities Act.","Tax reform, including the orphan drug credit.    Implementing of  H.R. 1, Tax Cuts and Jobs Act (P.L. 115-97).  Vaccine Access Improvement Act.  Orphan Drug Tax Credit issues.","General education about federal policies impacting pharmaceutical development, approval, and reimbursement  (including Medicare, Medicaid, Affordable Care Act issues).  Policies impacting public health prepardness and prevention.  H.R. 269, Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019.  Over -the-Counter Drug Safety Innovations and Reform Act.","General education about policies impacting pharmaceutical development, approval, reimbursement, Medicare Part D, Medicare part B.  Reimbursement proposals.","Policies impacting Medicare Part D.","Implementing of  H.R. 1, Tax Cuts and Jobs Act (P.L. 115-97). Vaccine Access Improvement Act.  H.R. 1973, S. 1654, Orphan Drug Tax Credit issues.","Legislation impacting pharmaceutical intellectual property.","General education about policies impacting pharmaceutical development, approval, reimbursement, Medicare Part D and Medicare part B, Reimbursement proposals.  IPI drug pricing and Medicare Rebate Rule.","Policies impacting Medicare Part D and drug development, public health preparedness.","General education about federal policies impacting pharmaceutical development, approval, and reimbursement  (including Medicare, Medicaid, Affordable Care Act issues).  Policies impacting public health prepardness and prevention.  H.R. 269, Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019.  Over -the-Counter Drug Safety Innovations and Reform Act.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 151585,
+  "name": "SANOFI, U.S.",
+  "slug": "sanofi-u-s",
+  "state": "DC",
+  "description": "Global life sciences company",
+  "totalSpending": 1690000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 210000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "WILLIAMS AND JENSEN, PLLC"
+  ],
+  "lobbyists": [
+    "CHERYL JAEGER",
+    "CHRISTOPHER HATCHER",
+    "NICHOLAS KARELLAS",
+    "SUSAN HIRSCHMANN",
+    "ANDREW JONES",
+    "KARINA LYNCH",
+    "MATTHEW HOEKSTRA",
+    "CHRISTOPHER WILCOX",
+    "GEORGE BAKER",
+    "GRANT BARBOSA",
+    "DANIEL ZIEGLER",
+    "JEANNE HAGGERTY",
+    "ALEC ARAMANDA",
+    "KURT SCHRADER",
+    "ROBERT BUTORA"
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "MMM",
+    "BUD",
+    "MED",
+    "CPT",
+    "TRD",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "Tax reform, including the orphan drug credit.  Implementing of H.R. 1, Tax Cuts and Jobs Act.  H.R. 4993, Vaccine Access Improvement Act.",
+    "General education about federal policies impacting pharmaceutical development, approval, and reimbursement (including Medicare, Medicaid, Affordable Care Act issues). Policies impacting public health preparedness and prevention.",
+    "General education about policies impacting pharmaceutical development, approval, reimbursement.",
+    "Policies impacting Medicare Part D, H.R. 1625, Consolidated Appropriations Act.  H.R. 1892, the Bipartisan Budget Act of 2018.",
+    "General education about FDA approval policies and NIH research activities.",
+    "General education about federal policies impacting pharmaceutical development, approval, and reimbursement (including Medicare, Medicaid, Affordable Care Act issues). Policies impacting public health preparedness and prevention.  Pandemic All Hazards Preparedness Authorization Act of 2018, S. 2852.  Over-the-Counter Drug Safety Innovations and Reform Act, S. 2315.",
+    "General education about policies impacting pharmaceutical development, approval, reimbursement; Medicare Part D.",
+    "Tax reform, including the orphan drug credit.  Implementing of H.R. 1, Tax Cuts and Jobs Act (P.L. 115-97).  H.R. 4993, Vaccine Access Improvement Act.",
+    "General education about federal policies impacting pharmaceutical development, approval, and reimbursement (including Medicare, Medicaid, Affordable Care Act issues). Policies impacting public health preparedness and prevention.  Pandemic All Hazards Preparedness Authorization Act of 2018, S. 2852.  Over-the-Counter Drug Safety Innovations and Reform Act, S. 2315.  H.R. 6 Support for Patients and Communities Act.",
+    "General education about policies impacting pharmaceutical development, approval, reimbursement; Medicare Part D.  Medicare Part B CMMI proposal.",
+    "General education about federal policies impacting pharmaceutical development, approval, and reimbursement (including Medicare, Medicaid, Affordable Care Act issues). Policies impacting public health preparedness and prevention.  Pandemic All Hazards Preparedness Authorization Act of 2018,  H.R. 6378, S. 2851, H.R. 7328, S. 2852.  Over-the-Counter Drug Safety Innovations and Reform Act, S. 2315, H.R. 7328.  H.R. 6 Support for Patients and Communities Act.",
+    "Tax reform, including the orphan drug credit.    Implementing of  H.R. 1, Tax Cuts and Jobs Act (P.L. 115-97).  Vaccine Access Improvement Act.  Orphan Drug Tax Credit issues.",
+    "General education about federal policies impacting pharmaceutical development, approval, and reimbursement  (including Medicare, Medicaid, Affordable Care Act issues).  Policies impacting public health prepardness and prevention.  H.R. 269, Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019.  Over -the-Counter Drug Safety Innovations and Reform Act.",
+    "General education about policies impacting pharmaceutical development, approval, reimbursement, Medicare Part D, Medicare part B.  Reimbursement proposals.",
+    "Policies impacting Medicare Part D.",
+    "Implementing of  H.R. 1, Tax Cuts and Jobs Act (P.L. 115-97). Vaccine Access Improvement Act.  H.R. 1973, S. 1654, Orphan Drug Tax Credit issues.",
+    "Legislation impacting pharmaceutical intellectual property.",
+    "General education about policies impacting pharmaceutical development, approval, reimbursement, Medicare Part D and Medicare part B, Reimbursement proposals.  IPI drug pricing and Medicare Rebate Rule.",
+    "Policies impacting Medicare Part D and drug development, public health preparedness.",
+    "General education about federal policies impacting pharmaceutical development, approval, and reimbursement  (including Medicare, Medicaid, Affordable Care Act issues).  Policies impacting public health prepardness and prevention.  H.R. 269, Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019.  Over -the-Counter Drug Safety Innovations and Reform Act.  S. 2543, Prescription Drug Pricing Reduction Act (PDPRA) of 2019 and H.R. 3, Lower Drug Costs Now Act of 2019."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -17,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 211250,
+  "peakYear": 2018,
+  "lobbyistCount": 15,
+  "firmCount": 1,
+  "issueCount": 8
+}

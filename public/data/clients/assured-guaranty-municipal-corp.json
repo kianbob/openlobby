@@ -1,1 +1,95 @@
-{"id":196644,"name":"ASSURED GUARANTY MUNICIPAL CORP.","slug":"assured-guaranty-municipal-corp","state":"NY","description":"Financial guaranty insurance services provider in the United States and internationally.","totalSpending":2160000,"filings":24,"yearlySpending":[{"year":2019,"income":180000},{"year":2020,"income":360000},{"year":2021,"income":360000},{"year":2022,"income":360000},{"year":2023,"income":360000},{"year":2024,"income":180000},{"year":2025,"income":360000}],"firms":["FORBES-TATE"],"lobbyists":["ELIZABETH GREER","JEFFREY FORBES","JEFFREY STRUNK","FRANKLYN STEINBERG","JEFFREY SADOSKY","RICK MURPHY","EDWARD RENO","KELLEY WILLIAMS","ELIZABETH BENNETT","WESLEY WELCH"],"issues":["FIN","BUD","MMM","MAN","TAX",null],"sampleDescriptions":["Federal bankruptcy issues that affect Puerto Rico and/or impact the municipal bond market; Issues relating to the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA) (Pub.L. 114-187).","Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market; Issues regarding the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA) (Public Law No: 114-187).","Legislative proposals impacting Puerto Rico, including the Bipartisan Budget Act of 2018 (Public Law No: 115-123); Issues related to disaster relief.","Issues regarding Puerto Rico's Medicaid program.","Legislative proposals impacting Puerto Rico, including the Bipartisan Budget Act of 2018 (Public Law No: 115 123); Issues related to disaster relief.","Issues related to supply chain and logistics.","Legislative proposals impacting Puerto Rico, including the Bipartisan Budget Act of 2018 (Public Law No: 115-123); Issues related to disaster relief; Issues related to H.R. 925 - The Heroes Act.","Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market.","Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market; Issues related to Municipal bond policies; Issues related to passive foreign Investment Companies.","Issues related to tax treatment of passive foreign investment companies.","Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market; Issues related to Municipal bond policies; Issues related to passive foreign Investment Companies; Issues related to public financing.","Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market; Issues related to municipal bond policies; Issues related to passive foreign investment companies; Issues related to public financing.","Issues related to federal bankruptcy that impacts Puerto Rico and/or the municipal bond market; Issues related to municipal bond policies; Issues related to passive foreign investment companies; Issues related to public financing."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 196644,
+  "name": "ASSURED GUARANTY MUNICIPAL CORP.",
+  "slug": "assured-guaranty-municipal-corp",
+  "state": "NY",
+  "description": "Financial guaranty insurance services provider in the United States and internationally.",
+  "totalSpending": 2160000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 360000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "FORBES-TATE"
+  ],
+  "lobbyists": [
+    "ELIZABETH GREER",
+    "JEFFREY FORBES",
+    "JEFFREY STRUNK",
+    "FRANKLYN STEINBERG",
+    "JEFFREY SADOSKY",
+    "RICK MURPHY",
+    "EDWARD RENO",
+    "KELLEY WILLIAMS",
+    "ELIZABETH BENNETT",
+    "WESLEY WELCH"
+  ],
+  "issues": [
+    "FIN",
+    "BUD",
+    "MMM",
+    "MAN",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Federal bankruptcy issues that affect Puerto Rico and/or impact the municipal bond market; Issues relating to the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA) (Pub.L. 114-187).",
+    "Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market; Issues regarding the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA) (Public Law No: 114-187).",
+    "Legislative proposals impacting Puerto Rico, including the Bipartisan Budget Act of 2018 (Public Law No: 115-123); Issues related to disaster relief.",
+    "Issues regarding Puerto Rico's Medicaid program.",
+    "Legislative proposals impacting Puerto Rico, including the Bipartisan Budget Act of 2018 (Public Law No: 115 123); Issues related to disaster relief.",
+    "Issues related to supply chain and logistics.",
+    "Legislative proposals impacting Puerto Rico, including the Bipartisan Budget Act of 2018 (Public Law No: 115-123); Issues related to disaster relief; Issues related to H.R. 925 - The Heroes Act.",
+    "Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market.",
+    "Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market; Issues related to Municipal bond policies; Issues related to passive foreign Investment Companies.",
+    "Issues related to tax treatment of passive foreign investment companies.",
+    "Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market; Issues related to Municipal bond policies; Issues related to passive foreign Investment Companies; Issues related to public financing.",
+    "Federal bankruptcy related issues that impact Puerto Rico and/or the municipal bond market; Issues related to municipal bond policies; Issues related to passive foreign investment companies; Issues related to public financing.",
+    "Issues related to federal bankruptcy that impacts Puerto Rico and/or the municipal bond market; Issues related to municipal bond policies; Issues related to passive foreign investment companies; Issues related to public financing."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 308571,
+  "peakYear": 2020,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "finance"
+}

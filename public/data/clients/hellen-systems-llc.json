@@ -1,1 +1,104 @@
-{"id":137679,"name":"HELLEN SYSTEMS, LLC","slug":"hellen-systems-llc","state":"VA","description":"Technology Development Management and Marketing","totalSpending":1590000,"filings":30,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":120000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":220000},{"year":2024,"income":170000},{"year":2025,"income":120000}],"firms":["SQUIRE PATTON BOGGS"],"lobbyists":["SAMUEL ADCOCK","JOHN DESCHAUER","JOHN FLYNN","JOHN KINGSTON","SARAH VILMS","AUSTIN HARRISON","JACQUELINE ORFIELD","MICHAEL HAWTHORNE","CAMILO DAZA MANGA"],"issues":["HOM","BUD","TRA",null,"INT"],"sampleDescriptions":["Development of a US Government public-private partnership to provide a back-up system for GPS.","Development of a US Government public-private partnership to provide a back-up system for GPS.  Issues related to the provision in the Coast Guard Authorization Act.","Transportation appropriations; Consolidated Appropriations Act FY20; Funding related to National Timing Resilience and Security Act.","Transportation appropriations; Implementation of  Appropriations Act FY20; FY21 Appropriation funding related to National Timing Resilience and Security Act.","Transportation appropriations; FY21 Transportation, Housing and Urban Development and Related Agencies Bill; funding related to National Timing Resilience and\nSecurity Act.","Transportation appropriations; FY21 Transportation, Housing and Urban Development and Related Agencies Bill; funding related to National Timing Resilience and Security Act.","Transportation appropriations; FY22 Transportation, Housing and Urban Development and Related Agencies Bill; policy related to National Timing Resilience and Security Act.","Defense appropriations; transportation appropriations; FY22 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY22 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act.","Development of a US Government public-private partnership to provide a back-up system for GPS. Issues related to the provision in the Coast Guard Authorization Act.","Defense appropriations; transportation appropriations; FY23 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY23 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act.","Development of a US Government public-private partnership to provide a back-up system for GPS; issues related to the provision in the Coast Guard Authorization Act.","Development of a US Government public-private partnership to provide a back-up system for GPS; issues related to the National Timing Resilience and Security Act.","Work with Congress and the Department of Transportation to create GPS back-up system.","Defense appropriations; transportation appropriations; FY24 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY24 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act.","Defense appropriations; transportation appropriations; FY24 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY23 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act.","Defense appropriations; transportation appropriations; FY24 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY24 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act; elections update.","Defense appropriations; transportation appropriations; Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY23 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act; monitor Trump nominations and appointments, 119th Congress leadership; FY 26 appropriations.","Development of a US Government public-private partnership to provide a back-up system for GPS; issues related to the provision in the Coast Guard Authorization Act; monitor Trump nominations and appointments, 119th Congress leadership; FY 26 appropriations.","Development of a US Government public-private partnership to provide a back-up system for GPS; issues related to the National Timing Resilience and Security Act; monitor Trump nominations and appointments, 119th Congress leadership; FY 26 appropriations.","Defense appropriations; transportation appropriations; Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; policy related to the National Timing Resilience and Security Act; monitor Trump nominations and appointments, 119th Congress leadership; FY 26 appropriations."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 137679,
+  "name": "HELLEN SYSTEMS, LLC",
+  "slug": "hellen-systems-llc",
+  "state": "VA",
+  "description": "Technology Development Management and Marketing",
+  "totalSpending": 1590000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 220000
+    },
+    {
+      "year": 2024,
+      "income": 170000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "SQUIRE PATTON BOGGS"
+  ],
+  "lobbyists": [
+    "SAMUEL ADCOCK",
+    "JOHN DESCHAUER",
+    "JOHN FLYNN",
+    "JOHN KINGSTON",
+    "SARAH VILMS",
+    "AUSTIN HARRISON",
+    "JACQUELINE ORFIELD",
+    "MICHAEL HAWTHORNE",
+    "CAMILO DAZA MANGA"
+  ],
+  "issues": [
+    "HOM",
+    "BUD",
+    "TRA",
+    null,
+    "INT"
+  ],
+  "sampleDescriptions": [
+    "Development of a US Government public-private partnership to provide a back-up system for GPS.",
+    "Development of a US Government public-private partnership to provide a back-up system for GPS.  Issues related to the provision in the Coast Guard Authorization Act.",
+    "Transportation appropriations; Consolidated Appropriations Act FY20; Funding related to National Timing Resilience and Security Act.",
+    "Transportation appropriations; Implementation of  Appropriations Act FY20; FY21 Appropriation funding related to National Timing Resilience and Security Act.",
+    "Transportation appropriations; FY21 Transportation, Housing and Urban Development and Related Agencies Bill; funding related to National Timing Resilience and\nSecurity Act.",
+    "Transportation appropriations; FY21 Transportation, Housing and Urban Development and Related Agencies Bill; funding related to National Timing Resilience and Security Act.",
+    "Transportation appropriations; FY22 Transportation, Housing and Urban Development and Related Agencies Bill; policy related to National Timing Resilience and Security Act.",
+    "Defense appropriations; transportation appropriations; FY22 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY22 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act.",
+    "Development of a US Government public-private partnership to provide a back-up system for GPS. Issues related to the provision in the Coast Guard Authorization Act.",
+    "Defense appropriations; transportation appropriations; FY23 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY23 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act.",
+    "Development of a US Government public-private partnership to provide a back-up system for GPS; issues related to the provision in the Coast Guard Authorization Act.",
+    "Development of a US Government public-private partnership to provide a back-up system for GPS; issues related to the National Timing Resilience and Security Act.",
+    "Work with Congress and the Department of Transportation to create GPS back-up system.",
+    "Defense appropriations; transportation appropriations; FY24 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY24 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act.",
+    "Defense appropriations; transportation appropriations; FY24 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY23 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act.",
+    "Defense appropriations; transportation appropriations; FY24 Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY24 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act; elections update.",
+    "Defense appropriations; transportation appropriations; Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; FY23 Department of Defense Appropriations Bill; policy related to the National Timing Resilience and Security Act; monitor Trump nominations and appointments, 119th Congress leadership; FY 26 appropriations.",
+    "Development of a US Government public-private partnership to provide a back-up system for GPS; issues related to the provision in the Coast Guard Authorization Act; monitor Trump nominations and appointments, 119th Congress leadership; FY 26 appropriations.",
+    "Development of a US Government public-private partnership to provide a back-up system for GPS; issues related to the National Timing Resilience and Security Act; monitor Trump nominations and appointments, 119th Congress leadership; FY 26 appropriations.",
+    "Defense appropriations; transportation appropriations; Transportation, Housing, and Urban Development and Related Agencies Appropriations Bill; policy related to the National Timing Resilience and Security Act; monitor Trump nominations and appointments, 119th Congress leadership; FY 26 appropriations."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -50,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 198750,
+  "peakYear": 2018,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 4
+}

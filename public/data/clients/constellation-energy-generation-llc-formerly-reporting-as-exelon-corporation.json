@@ -1,1 +1,104 @@
-{"id":186678,"name":"CONSTELLATION ENERGY GENERATION, LLC, FORMERLY REPORTING AS EXELON CORPORATION","slug":"constellation-energy-generation-llc-formerly-reporting-as-exelon-corporation","state":"DC","description":"Energy Delivery Company","totalSpending":1510000,"filings":31,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":200000},{"year":2020,"income":160000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":180000},{"year":2025,"income":260000}],"firms":["KOUNTOUPES DENHAM CARR & REID, LLC"],"lobbyists":["MARY REID","DAVID PELUSO","LISA KOUNTOUPES","MJ KENNY","CLAYTON HAYES","DENISE MOUSOURIS","DENISE NORTHRUP"],"issues":["ENG","TAX","GOV","TRD","BUD",null],"sampleDescriptions":["Issues related to grid resiliency and cyber and physical security.  Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.","Issues related to tax reform and consideration of proposals to assist the existing nuclear fleet, including H. R. 4614 the Nuclear Powers America Act of 2017.","Issues related to tax reform and consideration of proposals to assist the existing nuclear fleet, including H. R. 5732 the Nuclear Powers America Act of 2018.","Issues related to grid resiliency and cyber and physical security.  DOE's use of the Federal Power Act's Section 202(c) waiver authority.  Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.","Issues related to grid resiliency and cyber and physical security. Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.","U. S. Department of Energy and Federal Energy Regulatory Commission nominations process.","Proposals to provide economic stability for existing nuclear plants, plants, such as S.1134 and H. R. 2314, The Nuclear Powers America Act.","Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions.","Issues related to international trade and competitiveness, including tariffs.","Proposals to provide economic stability for existing nuclear plants, such as S.1134 and H. R. 2314, The Nuclear Powers America Act.","Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions. Proposed changes to wholesale capacity markets, the minimum offer price rule (MOPR).","Nuclear Regulatory Commission nominations process.","Issues related to the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions. Proposed changes to wholesale capacity markets.","Nuclear Regulatory Commission and Federal Energy Regulatory Commission nominations process.","Issues related to the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions. Proposed changes to wholesale capacity markets.  Issues related to H.R. 133, Consolidated Appropriations Act for Fiscal Year 2021 (Energy Act of 2020).","Proposals to provide economic stability for existing nuclear plants.","Issues related to the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions.  Proposed changes to wholesale capacity markets.","Proposals to provide economic stability for existing nuclear plants, including H.R. 4024/S.2291, Zero-Emission Nuclear Power Production Credit Act of 2021.  Issues related to tax incentives which spur deployment of clean energy technologies, including S.1298, The Clean Energy for America Act, and the discussion draft of The Energy Sector Innovation Credit Act.","Proposals to provide economic stability for existing nuclear plants, including H.R. 4024/S.2291, Zero-Emission Nuclear Power Production Credit Act of 2021.  Issues related to tax incentives which spur deployment of clean energy technologies, including H.R. 4720/S.2475, The Energy Sector Innovation Credit Act and S.1298, The Clean Energy for America Act.  Issues related to the Fiscal Year 2022 budget reconciliation process focusing on tax incentives and clean energy technologies, including H.R. 5376, Build Back Better Act.","Issues related to the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions.  Proposed changes to wholesale capacity markets.  Issues related to H.R. 3684, The Infrastructure Investment and Jobs Act of 2021.  Issues related to the Fiscal Year 2022 budget reconciliation process focusing on tax incentives and clean energy technologies, including H.R. 5376, Build Back Better Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 186678,
+  "name": "CONSTELLATION ENERGY GENERATION, LLC, FORMERLY REPORTING AS EXELON CORPORATION",
+  "slug": "constellation-energy-generation-llc-formerly-reporting-as-exelon-corporation",
+  "state": "DC",
+  "description": "Energy Delivery Company",
+  "totalSpending": 1510000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 160000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 260000
+    }
+  ],
+  "firms": [
+    "KOUNTOUPES DENHAM CARR & REID, LLC"
+  ],
+  "lobbyists": [
+    "MARY REID",
+    "DAVID PELUSO",
+    "LISA KOUNTOUPES",
+    "MJ KENNY",
+    "CLAYTON HAYES",
+    "DENISE MOUSOURIS",
+    "DENISE NORTHRUP"
+  ],
+  "issues": [
+    "ENG",
+    "TAX",
+    "GOV",
+    "TRD",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to grid resiliency and cyber and physical security.  Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.",
+    "Issues related to tax reform and consideration of proposals to assist the existing nuclear fleet, including H. R. 4614 the Nuclear Powers America Act of 2017.",
+    "Issues related to tax reform and consideration of proposals to assist the existing nuclear fleet, including H. R. 5732 the Nuclear Powers America Act of 2018.",
+    "Issues related to grid resiliency and cyber and physical security.  DOE's use of the Federal Power Act's Section 202(c) waiver authority.  Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.",
+    "Issues related to grid resiliency and cyber and physical security. Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.",
+    "U. S. Department of Energy and Federal Energy Regulatory Commission nominations process.",
+    "Proposals to provide economic stability for existing nuclear plants, plants, such as S.1134 and H. R. 2314, The Nuclear Powers America Act.",
+    "Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions.",
+    "Issues related to international trade and competitiveness, including tariffs.",
+    "Proposals to provide economic stability for existing nuclear plants, such as S.1134 and H. R. 2314, The Nuclear Powers America Act.",
+    "Issues related to waste disposal, the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions. Proposed changes to wholesale capacity markets, the minimum offer price rule (MOPR).",
+    "Nuclear Regulatory Commission nominations process.",
+    "Issues related to the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions. Proposed changes to wholesale capacity markets.",
+    "Nuclear Regulatory Commission and Federal Energy Regulatory Commission nominations process.",
+    "Issues related to the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions. Proposed changes to wholesale capacity markets.  Issues related to H.R. 133, Consolidated Appropriations Act for Fiscal Year 2021 (Energy Act of 2020).",
+    "Proposals to provide economic stability for existing nuclear plants.",
+    "Issues related to the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions.  Proposed changes to wholesale capacity markets.",
+    "Proposals to provide economic stability for existing nuclear plants, including H.R. 4024/S.2291, Zero-Emission Nuclear Power Production Credit Act of 2021.  Issues related to tax incentives which spur deployment of clean energy technologies, including S.1298, The Clean Energy for America Act, and the discussion draft of The Energy Sector Innovation Credit Act.",
+    "Proposals to provide economic stability for existing nuclear plants, including H.R. 4024/S.2291, Zero-Emission Nuclear Power Production Credit Act of 2021.  Issues related to tax incentives which spur deployment of clean energy technologies, including H.R. 4720/S.2475, The Energy Sector Innovation Credit Act and S.1298, The Clean Energy for America Act.  Issues related to the Fiscal Year 2022 budget reconciliation process focusing on tax incentives and clean energy technologies, including H.R. 5376, Build Back Better Act.",
+    "Issues related to the nuclear fuel market and the financial stability of existing fleet.  Proposals to reduce greenhouse gas emissions.  Proposed changes to wholesale capacity markets.  Issues related to H.R. 3684, The Infrastructure Investment and Jobs Act of 2021.  Issues related to the Fiscal Year 2022 budget reconciliation process focusing on tax incentives and clean energy technologies, including H.R. 5376, Build Back Better Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 63,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 188750,
+  "peakYear": 2025,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "energy"
+}

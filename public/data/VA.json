@@ -1,1 +1,329 @@
-{"abbreviation":"VA","name":"Virginia","totalSpending":1113590226.28,"totalFilings":51875,"clientCount":2424,"yearlySpending":[{"year":2018,"income":91488229},{"year":2019,"income":93982815},{"year":2020,"income":104935924},{"year":2021,"income":110793537.98},{"year":2022,"income":131344508},{"year":2023,"income":295188966},{"year":2024,"income":124961235},{"year":2025,"income":160895011.3}],"topClients":[{"name":"HR POLICY ASSOCIATION","income":25340000},{"name":"INDUSTRIAL ENERGY CONSUMERS OF AMERICA","income":15285238.5},{"name":"THE BOEING COMPANY","income":14842500},{"name":"GENERAL DYNAMICS","income":13445000},{"name":"LIGADO NETWORKS","income":11899000},{"name":"ALTRIA CLIENT SERVICES LLC","income":10490000},{"name":"MARS INCORPORATED","income":7797500},{"name":"LOCKHEED MARTIN CORPORATION","income":7612000},{"name":"LIGADO NETWORKS LLC","income":7190000},{"name":"SMITHFIELD FOODS, INC.","income":6220000},{"name":"AMERICAN OPTOMETRIC ASSOCIATION","income":6185250},{"name":"MAXIMUS, INC.","income":5740000},{"name":"BOEING COMPANY","income":5675000},{"name":"GENERAL DYNAMICS CORPORATION","income":5558500},{"name":"NATIONAL AUTOMOBILE DEALERS ASSOCIATION","income":5530000},{"name":"NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION","income":5270000},{"name":"VERISIGN, INC.","income":4860000},{"name":"CONSUMER BRANDS ASSOCIATION","income":4780000},{"name":"CONSUMER TECHNOLOGY ASSOCIATION","income":4710000},{"name":"CAPITAL ONE FINANCIAL CORPORATION","income":4678000},{"name":"CRUISE LINES INTERNATIONAL ASSOCIATION","income":4470000},{"name":"NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION","income":4400000},{"name":"AMERICAN AMBULANCE ASSOCIATION","income":4391000},{"name":"HAMPTON ROADS MILITARY AND FEDERAL FACILITIES ALLIANCE","income":4320000},{"name":"HILTON WORLDWIDE","income":4145000},{"name":"LIGADO NETWORKS, LLC","income":3997500},{"name":"OWENS & MINOR, INC.","income":3990000},{"name":"NORTHROP GRUMMAN CORPORATION","income":3965000},{"name":"NATIONAL ASSOCIATION OF COMMUNITY HEALTH CENTERS","income":3940000},{"name":"BOOZ ALLEN HAMILTON INC.","income":3860000},{"name":"PHLOW CORPORATION","income":3850000},{"name":"ONLINE LENDERS ALLIANCE","income":3710000},{"name":"HUNTINGTON INGALLS INCORPORATED","income":3656000},{"name":"HOSPICE ACTION NETWORK","income":3641247},{"name":"THE NATURE CONSERVANCY","income":3562000},{"name":"LEIDOS","income":3522500},{"name":"AMERICAN TRUCKING ASSOCIATIONS","income":3490000},{"name":"NEWS MEDIA ALLIANCE","income":3470000},{"name":"BAE SYSTEMS, INC.","income":3440000},{"name":"HEALTHCARE DISTRIBUTION ALLIANCE","income":3330000},{"name":"KONGSBERG DEFENCE & AEROSPACE","income":3288750},{"name":"NORTHROP GRUMMAN SYSTEMS CORPORATION","income":3262000},{"name":"RTX CORPORATION AND AFFILIATES","income":3210000},{"name":"HEALTHCARE DISTRIBUTION ALLIANCE (HEALTHCARE DISTRIBUTION MANAGMENT ASSN.)","income":3200000},{"name":"NATIONAL ASSOCIATION OF CHAIN DRUG STORES","income":3170000},{"name":"COMMUNITY ONCOLOGY ALLIANCE","income":3120000},{"name":"INDIVIOR, INC.","income":3120000},{"name":"WIRELESS INFRASTRUCTURE ASSOCIATION","income":3100000},{"name":"INNOVATIVE DEFENSE TECHNOLOGIES","income":3060000},{"name":"AIRBUS AMERICAS, INC.","income":3020000}],"topIssues":[{"code":"DEF","income":234319870},{"code":"BUD","income":233340063},{"code":"HCR","income":183827786.8},{"code":"TAX","income":131409250},{"code":"MMM","income":81038611.78},{"code":"TRA","income":77379210},{"code":"TRD","income":73971238.5},{"code":"ENG","income":65467938.5},{"code":"LBR","income":64788750},{"code":"GOV","income":57536252},{"code":"HOM","income":56698670},{"code":"TEC","income":47471250},{"code":"ENV","income":44990450},{"code":"AGR","income":44091100},{"code":"FIN","income":41189500},{"code":"EDU","income":33731718},{"code":"AVI","income":29012000},{"code":"AER","income":26695000},{"code":"CSP","income":24973742},{"code":"IMM","income":24487000}]}
+{
+  "abbreviation": "VA",
+  "name": "Virginia",
+  "totalSpending": 1113590226.28,
+  "totalFilings": 51875,
+  "clientCount": 2424,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 91488229
+    },
+    {
+      "year": 2019,
+      "income": 93982815
+    },
+    {
+      "year": 2020,
+      "income": 104935924
+    },
+    {
+      "year": 2021,
+      "income": 110793537.98
+    },
+    {
+      "year": 2022,
+      "income": 131344508
+    },
+    {
+      "year": 2023,
+      "income": 295188966
+    },
+    {
+      "year": 2024,
+      "income": 124961235
+    },
+    {
+      "year": 2025,
+      "income": 160895011.3
+    }
+  ],
+  "topClients": [
+    {
+      "name": "HR POLICY ASSOCIATION",
+      "income": 25340000
+    },
+    {
+      "name": "INDUSTRIAL ENERGY CONSUMERS OF AMERICA",
+      "income": 15285238.5
+    },
+    {
+      "name": "THE BOEING COMPANY",
+      "income": 14842500
+    },
+    {
+      "name": "GENERAL DYNAMICS",
+      "income": 13445000
+    },
+    {
+      "name": "LIGADO NETWORKS",
+      "income": 11899000
+    },
+    {
+      "name": "ALTRIA CLIENT SERVICES LLC",
+      "income": 10490000
+    },
+    {
+      "name": "MARS INCORPORATED",
+      "income": 7797500
+    },
+    {
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "income": 7612000
+    },
+    {
+      "name": "LIGADO NETWORKS LLC",
+      "income": 7190000
+    },
+    {
+      "name": "SMITHFIELD FOODS, INC.",
+      "income": 6220000
+    },
+    {
+      "name": "AMERICAN OPTOMETRIC ASSOCIATION",
+      "income": 6185250
+    },
+    {
+      "name": "MAXIMUS, INC.",
+      "income": 5740000
+    },
+    {
+      "name": "BOEING COMPANY",
+      "income": 5675000
+    },
+    {
+      "name": "GENERAL DYNAMICS CORPORATION",
+      "income": 5558500
+    },
+    {
+      "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION",
+      "income": 5530000
+    },
+    {
+      "name": "NATIONAL ELECTRICAL MANUFACTURERS ASSOCIATION",
+      "income": 5270000
+    },
+    {
+      "name": "VERISIGN, INC.",
+      "income": 4860000
+    },
+    {
+      "name": "CONSUMER BRANDS ASSOCIATION",
+      "income": 4780000
+    },
+    {
+      "name": "CONSUMER TECHNOLOGY ASSOCIATION",
+      "income": 4710000
+    },
+    {
+      "name": "CAPITAL ONE FINANCIAL CORPORATION",
+      "income": 4678000
+    },
+    {
+      "name": "CRUISE LINES INTERNATIONAL ASSOCIATION",
+      "income": 4470000
+    },
+    {
+      "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION",
+      "income": 4400000
+    },
+    {
+      "name": "AMERICAN AMBULANCE ASSOCIATION",
+      "income": 4391000
+    },
+    {
+      "name": "HAMPTON ROADS MILITARY AND FEDERAL FACILITIES ALLIANCE",
+      "income": 4320000
+    },
+    {
+      "name": "HILTON WORLDWIDE",
+      "income": 4145000
+    },
+    {
+      "name": "LIGADO NETWORKS, LLC",
+      "income": 3997500
+    },
+    {
+      "name": "OWENS & MINOR, INC.",
+      "income": 3990000
+    },
+    {
+      "name": "NORTHROP GRUMMAN CORPORATION",
+      "income": 3965000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF COMMUNITY HEALTH CENTERS",
+      "income": 3940000
+    },
+    {
+      "name": "BOOZ ALLEN HAMILTON INC.",
+      "income": 3860000
+    },
+    {
+      "name": "PHLOW CORPORATION",
+      "income": 3850000
+    },
+    {
+      "name": "ONLINE LENDERS ALLIANCE",
+      "income": 3710000
+    },
+    {
+      "name": "HUNTINGTON INGALLS INCORPORATED",
+      "income": 3656000
+    },
+    {
+      "name": "HOSPICE ACTION NETWORK",
+      "income": 3641247
+    },
+    {
+      "name": "THE NATURE CONSERVANCY",
+      "income": 3562000
+    },
+    {
+      "name": "LEIDOS",
+      "income": 3522500
+    },
+    {
+      "name": "AMERICAN TRUCKING ASSOCIATIONS",
+      "income": 3490000
+    },
+    {
+      "name": "NEWS MEDIA ALLIANCE",
+      "income": 3470000
+    },
+    {
+      "name": "BAE SYSTEMS, INC.",
+      "income": 3440000
+    },
+    {
+      "name": "HEALTHCARE DISTRIBUTION ALLIANCE",
+      "income": 3330000
+    },
+    {
+      "name": "KONGSBERG DEFENCE & AEROSPACE",
+      "income": 3288750
+    },
+    {
+      "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "income": 3262000
+    },
+    {
+      "name": "RTX CORPORATION AND AFFILIATES",
+      "income": 3210000
+    },
+    {
+      "name": "HEALTHCARE DISTRIBUTION ALLIANCE (HEALTHCARE DISTRIBUTION MANAGMENT ASSN.)",
+      "income": 3200000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF CHAIN DRUG STORES",
+      "income": 3170000
+    },
+    {
+      "name": "COMMUNITY ONCOLOGY ALLIANCE",
+      "income": 3120000
+    },
+    {
+      "name": "INDIVIOR, INC.",
+      "income": 3120000
+    },
+    {
+      "name": "WIRELESS INFRASTRUCTURE ASSOCIATION",
+      "income": 3100000
+    },
+    {
+      "name": "INNOVATIVE DEFENSE TECHNOLOGIES",
+      "income": 3060000
+    },
+    {
+      "name": "AIRBUS AMERICAS, INC.",
+      "income": 3020000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "DEF",
+      "income": 234319870
+    },
+    {
+      "code": "BUD",
+      "income": 233340063
+    },
+    {
+      "code": "HCR",
+      "income": 183827786.8
+    },
+    {
+      "code": "TAX",
+      "income": 131409250
+    },
+    {
+      "code": "MMM",
+      "income": 81038611.78
+    },
+    {
+      "code": "TRA",
+      "income": 77379210
+    },
+    {
+      "code": "TRD",
+      "income": 73971238.5
+    },
+    {
+      "code": "ENG",
+      "income": 65467938.5
+    },
+    {
+      "code": "LBR",
+      "income": 64788750
+    },
+    {
+      "code": "GOV",
+      "income": 57536252
+    },
+    {
+      "code": "HOM",
+      "income": 56698670
+    },
+    {
+      "code": "TEC",
+      "income": 47471250
+    },
+    {
+      "code": "ENV",
+      "income": 44990450
+    },
+    {
+      "code": "AGR",
+      "income": 44091100
+    },
+    {
+      "code": "FIN",
+      "income": 41189500
+    },
+    {
+      "code": "EDU",
+      "income": 33731718
+    },
+    {
+      "code": "AVI",
+      "income": 29012000
+    },
+    {
+      "code": "AER",
+      "income": 26695000
+    },
+    {
+      "code": "CSP",
+      "income": 24973742
+    },
+    {
+      "code": "IMM",
+      "income": 24487000
+    }
+  ],
+  "perCapita": 304.6,
+  "population": 8683619,
+  "nationalRank": 2,
+  "perCapitaRank": 2
+}

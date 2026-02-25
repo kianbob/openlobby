@@ -1,1 +1,82 @@
-{"id":194432,"name":"COMPETE AMERICA","slug":"compete-america","state":"DC","description":"Coalition of corporations, educators, research institutions, and trade associations","totalSpending":1950000,"filings":31,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":300000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":260000},{"year":2024,"income":210000},{"year":2025,"income":280000}],"firms":["CORLEY CONSULTING, LLC"],"lobbyists":["CHRISTOPHER CORLEY","BROOKLEY VALENCIA","STEWART BARBER YOUNG"],"issues":["IMM",null],"sampleDescriptions":["Highly skilled immigration reform legislation; per country elimination; ACWIA reforms; updates to previous introduced reform legislation, including Hatch, \"I-Squared\".","Highly skilled immigration reform legislation; per country elimination; ACWIA reforms; updates to previous introduced reform legislation.","Green card and non-immigrant visa reforms, improving access to high skilled foreign professionals and providing greater agency to foreign workers with respect to career advancement and quality of life. \nS. 386/H.R. 1044, The Fairness for High Skilled Immigrants Act-bill to eliminate caps on employment-based green cards by country.","Executive orders re: business immigration; administrative rules and regs; Dream Act, Farm Workforce, and TPS; high skilled immigration, including foreign students, nonimmigrant professionals, and PERM professionals, spouses, and minor children.","Agency activities re: business immigration; administrative rules and regs; high skilled immigration, including foreign students, nonimmigrant professionals, and PERM professionals, spouses, and minor children.","Administration and agency engagement around immigrant and nonimmigrant visas related to high skilled foreign professionals; House and Senate engagement calling on Congress to increase opportunities for high skilled foreign professionals to remain in the United States in order to compete with foreign countries and to help maintain US national security.","Advocacy for US-born STEM workforce development and high skilled immigration reforms that improve US STEM employer access to fully qualified US-based STEM professionals."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 194432,
+  "name": "COMPETE AMERICA",
+  "slug": "compete-america",
+  "state": "DC",
+  "description": "Coalition of corporations, educators, research institutions, and trade associations",
+  "totalSpending": 1950000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 300000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 260000
+    },
+    {
+      "year": 2024,
+      "income": 210000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "CORLEY CONSULTING, LLC"
+  ],
+  "lobbyists": [
+    "CHRISTOPHER CORLEY",
+    "BROOKLEY VALENCIA",
+    "STEWART BARBER YOUNG"
+  ],
+  "issues": [
+    "IMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Highly skilled immigration reform legislation; per country elimination; ACWIA reforms; updates to previous introduced reform legislation, including Hatch, \"I-Squared\".",
+    "Highly skilled immigration reform legislation; per country elimination; ACWIA reforms; updates to previous introduced reform legislation.",
+    "Green card and non-immigrant visa reforms, improving access to high skilled foreign professionals and providing greater agency to foreign workers with respect to career advancement and quality of life. \nS. 386/H.R. 1044, The Fairness for High Skilled Immigrants Act-bill to eliminate caps on employment-based green cards by country.",
+    "Executive orders re: business immigration; administrative rules and regs; Dream Act, Farm Workforce, and TPS; high skilled immigration, including foreign students, nonimmigrant professionals, and PERM professionals, spouses, and minor children.",
+    "Agency activities re: business immigration; administrative rules and regs; high skilled immigration, including foreign students, nonimmigrant professionals, and PERM professionals, spouses, and minor children.",
+    "Administration and agency engagement around immigrant and nonimmigrant visas related to high skilled foreign professionals; House and Senate engagement calling on Congress to increase opportunities for high skilled foreign professionals to remain in the United States in order to compete with foreign countries and to help maintain US national security.",
+    "Advocacy for US-born STEM workforce development and high skilled immigration reforms that improve US STEM employer access to fully qualified US-based STEM professionals."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 56,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 243750,
+  "peakYear": 2019,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

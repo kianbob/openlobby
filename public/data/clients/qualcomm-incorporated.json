@@ -1,1 +1,81 @@
-{"id":109856,"name":"QUALCOMM INCORPORATED","slug":"qualcomm-incorporated","state":"CA","description":null,"totalSpending":1390000,"filings":26,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":240000},{"year":2020,"income":170000},{"year":2021,"income":150000},{"year":2022,"income":100000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["WILLIAM MOSCHELLA","MILAN DALAL","BRANDT ANDERSON","GRETA JOYNES"],"issues":["CPT",null,"GOV"],"sampleDescriptions":["Intellectual property and competition policy, including issues related to domestic and foreign antitrust enforcement","Issues related to China investment restrictions. NDAA FY 25","Issues related to China investment restrictions NDAA FY 25","Issues related to China investment restrictions NDAA FY 26"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 109856,
+  "name": "QUALCOMM INCORPORATED",
+  "slug": "qualcomm-incorporated",
+  "state": "CA",
+  "description": null,
+  "totalSpending": 1390000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 170000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 100000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "WILLIAM MOSCHELLA",
+    "MILAN DALAL",
+    "BRANDT ANDERSON",
+    "GRETA JOYNES"
+  ],
+  "issues": [
+    "CPT",
+    null,
+    "GOV"
+  ],
+  "sampleDescriptions": [
+    "Intellectual property and competition policy, including issues related to domestic and foreign antitrust enforcement",
+    "Issues related to China investment restrictions. NDAA FY 25",
+    "Issues related to China investment restrictions NDAA FY 25",
+    "Issues related to China investment restrictions NDAA FY 26"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -17,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 173750,
+  "peakYear": 2019,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 2
+}

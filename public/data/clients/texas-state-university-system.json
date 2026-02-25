@@ -1,1 +1,111 @@
-{"id":182051,"name":"TEXAS STATE UNIVERSITY SYSTEM","slug":"texas-state-university-system","state":"TX","description":null,"totalSpending":2110000,"filings":28,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":200000},{"year":2020,"income":230000},{"year":2021,"income":320000},{"year":2022,"income":240000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["THE NORMANDY GROUP, LLC"],"lobbyists":["RONALD ERITANO","CHRISTINE PELLERIN","HENRY BONILLA","ALEX CATANESE","PHILLIP POWELL","JOHN GOLDBERG","SHAWN BLOCH","DOUGLAS GORDON"],"issues":["AGR","BUD","EDU","DIS","ENV","ECN","LBR","ART","NAT","MMM","CPI",null],"sampleDescriptions":["Farm Bill Re-Authorization; capacity building grant program","Support for VALOR and COPS funding through HR 1625 Vehicle for Consolidated Appropriations Act of 2018","Support for invasive species research; Support for student financial aid programs (Pell, TRIO, etc.); Support for HSI funding","GEAR Up Grant; Support for student financial aid programs (Pell, TRIO, etc.); PROSPER Act HR 4508","Support for VALOR, COPS, and MUREP funding through HR 5952 and S. 3072, Commerce, Justice, Science, and Related Agencies Appropriations Act, 2019","Farm Bill Re-Authorization; NLGCA capacity building grant program","Farm Bill Re-Authorization; NIFA/ERS relocation","HUD-CDBG Funding","Support for student financial aid programs (Pell, TRIO, etc.); National Academies of Sciences Grant","Pursued partnership opportunities for Lamar University with the federal government as it relates to higher education resiliency following natural disasters.","support for funding of the Aquatic Nuisance Reasearch Program through FY20 Energy and Water Appropriations Bill.","Support for COPS and MUREP funding through FY20 Commerce, Justice, Science & Related Agencies Appropriations Bill.","Supported EDA Application process for Sam Houston State University","NIFA/ERS relocation; Support funding for Non-Land Grant Colleges and Universities program through FY20 Department of Agriculture Appropriations Bill.","Support for student financial aid programs (Pell, TRIO, etc.)","Support for student financial aid programs (Pell, TRIO, etc.); Second Chance Pell Program","Workforce development in higher ed; apprenticeship program","Funding opportunities in humanities space","NIFA/ERS relocation; Support funding for Non-Land Grant Colleges and Universities program through FY20 Department of Agriculture Appropriations Bill; rural development.","support for funding of the Aquatic Nuisance Reasearch Program through FY2020 further consolidated appropriations act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 182051,
+  "name": "TEXAS STATE UNIVERSITY SYSTEM",
+  "slug": "texas-state-university-system",
+  "state": "TX",
+  "description": null,
+  "totalSpending": 2110000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 230000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "THE NORMANDY GROUP, LLC"
+  ],
+  "lobbyists": [
+    "RONALD ERITANO",
+    "CHRISTINE PELLERIN",
+    "HENRY BONILLA",
+    "ALEX CATANESE",
+    "PHILLIP POWELL",
+    "JOHN GOLDBERG",
+    "SHAWN BLOCH",
+    "DOUGLAS GORDON"
+  ],
+  "issues": [
+    "AGR",
+    "BUD",
+    "EDU",
+    "DIS",
+    "ENV",
+    "ECN",
+    "LBR",
+    "ART",
+    "NAT",
+    "MMM",
+    "CPI",
+    null
+  ],
+  "sampleDescriptions": [
+    "Farm Bill Re-Authorization; capacity building grant program",
+    "Support for VALOR and COPS funding through HR 1625 Vehicle for Consolidated Appropriations Act of 2018",
+    "Support for invasive species research; Support for student financial aid programs (Pell, TRIO, etc.); Support for HSI funding",
+    "GEAR Up Grant; Support for student financial aid programs (Pell, TRIO, etc.); PROSPER Act HR 4508",
+    "Support for VALOR, COPS, and MUREP funding through HR 5952 and S. 3072, Commerce, Justice, Science, and Related Agencies Appropriations Act, 2019",
+    "Farm Bill Re-Authorization; NLGCA capacity building grant program",
+    "Farm Bill Re-Authorization; NIFA/ERS relocation",
+    "HUD-CDBG Funding",
+    "Support for student financial aid programs (Pell, TRIO, etc.); National Academies of Sciences Grant",
+    "Pursued partnership opportunities for Lamar University with the federal government as it relates to higher education resiliency following natural disasters.",
+    "support for funding of the Aquatic Nuisance Reasearch Program through FY20 Energy and Water Appropriations Bill.",
+    "Support for COPS and MUREP funding through FY20 Commerce, Justice, Science & Related Agencies Appropriations Bill.",
+    "Supported EDA Application process for Sam Houston State University",
+    "NIFA/ERS relocation; Support funding for Non-Land Grant Colleges and Universities program through FY20 Department of Agriculture Appropriations Bill.",
+    "Support for student financial aid programs (Pell, TRIO, etc.)",
+    "Support for student financial aid programs (Pell, TRIO, etc.); Second Chance Pell Program",
+    "Workforce development in higher ed; apprenticeship program",
+    "Funding opportunities in humanities space",
+    "NIFA/ERS relocation; Support funding for Non-Land Grant Colleges and Universities program through FY20 Department of Agriculture Appropriations Bill; rural development.",
+    "support for funding of the Aquatic Nuisance Reasearch Program through FY2020 further consolidated appropriations act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 263750,
+  "peakYear": 2021,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 11,
+  "industry": "education"
+}

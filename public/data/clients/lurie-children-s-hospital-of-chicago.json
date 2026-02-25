@@ -1,1 +1,90 @@
-{"id":125108,"name":"LURIE CHILDREN'S HOSPITAL OF CHICAGO","slug":"lurie-children-s-hospital-of-chicago","state":null,"description":null,"totalSpending":2010000,"filings":26,"yearlySpending":[{"year":2018,"income":90000},{"year":2019,"income":120000},{"year":2020,"income":290000},{"year":2021,"income":360000},{"year":2022,"income":130000},{"year":2023,"income":720000},{"year":2024,"income":120000},{"year":2025,"income":180000}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["ROBERT BRADNER","LISA HAWKE","JORDAN BROSSI"],"issues":["HCR","BUD",null],"sampleDescriptions":["Support statutory reauthorization of the Children's Health Insurance and Medicaid reform issues generally; Medicaid issues affecting children's access to health care; support for Children's Health Insurance Program.","Pursuit of federal funding in the Labor-HHS legislation for Children's Hospital GME payments.","Support statutory reauthorization of the Children's Health Insurance and Medicaid reform issues generally; Medicaid issues affecting children's access to health care; support for Children's Health Insurance Program; H.R. 3325/S.428, Support for ACE Kids Act legislation.","Medicaid issues affecting children's access to health care; support for Children's Health Insurance Program; H.R. 1839, Support for ACE Kids Act legislation.","Medicaid issues affecting children's access to health care; H.R. 1839, Support for ACE Kids Act legislation.","Medicaid issues affecting children's access to health care.","Issues related to funding of childrens hospitals graduate medical education program; issues related to COVID-19 provider relief funding; issues related to Medicaid funding of childrens hospitals; issues related to research funding.","Issues related to funding of childrens hospital graduate medical education program; support for additional COVID-19 provider relief funding; issues related to Medicaid and CHIP funding of childrens hospitals; issues related to research funding; funding for mental health project and pediatric pandemic network.","Issues related to funding of childrens hospital graduate medical education program; issues related to Medicaid and CHIP funding of childrens hospitals; issues related to research funding; funding for community project and pediatric pandemic network; support for legislation to address children's mental health.","Issues related to funding of childrens hospital graduate medical education program (CHGME); issues related to research funding; funding for community project and pediatric pandemic network; legislation related to gender health care and the CHGME program and federal funding of gender healthcare.","Issues related to funding of childrens hospital graduate medical education program (CHGME); issues related to research funding; funding for community project and pediatric pandemic network.","Issues related to funding of childrens hospital graduate medical education program (CHGME); issues related to research funding; funding for community project and pediatric pandemic network; Medicaid reductions in H.R. 1, the One Big Beautiful Bill Act.","Issues related to funding of childrens hospital graduate medical education program (CHGME); issues related to research funding; funding for community project and pediatric pandemic network; issues related to recruitment of pediatric specialists; support for Illinois State Directed Payment Program; raising awareness of immigration issue for a pediatric subspecialist."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 125108,
+  "name": "LURIE CHILDREN'S HOSPITAL OF CHICAGO",
+  "slug": "lurie-children-s-hospital-of-chicago",
+  "state": null,
+  "description": null,
+  "totalSpending": 2010000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 90000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 290000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 130000
+    },
+    {
+      "year": 2023,
+      "income": 720000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "HOLLAND & KNIGHT LLP"
+  ],
+  "lobbyists": [
+    "ROBERT BRADNER",
+    "LISA HAWKE",
+    "JORDAN BROSSI"
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Support statutory reauthorization of the Children's Health Insurance and Medicaid reform issues generally; Medicaid issues affecting children's access to health care; support for Children's Health Insurance Program.",
+    "Pursuit of federal funding in the Labor-HHS legislation for Children's Hospital GME payments.",
+    "Support statutory reauthorization of the Children's Health Insurance and Medicaid reform issues generally; Medicaid issues affecting children's access to health care; support for Children's Health Insurance Program; H.R. 3325/S.428, Support for ACE Kids Act legislation.",
+    "Medicaid issues affecting children's access to health care; support for Children's Health Insurance Program; H.R. 1839, Support for ACE Kids Act legislation.",
+    "Medicaid issues affecting children's access to health care; H.R. 1839, Support for ACE Kids Act legislation.",
+    "Medicaid issues affecting children's access to health care.",
+    "Issues related to funding of childrens hospitals graduate medical education program; issues related to COVID-19 provider relief funding; issues related to Medicaid funding of childrens hospitals; issues related to research funding.",
+    "Issues related to funding of childrens hospital graduate medical education program; support for additional COVID-19 provider relief funding; issues related to Medicaid and CHIP funding of childrens hospitals; issues related to research funding; funding for mental health project and pediatric pandemic network.",
+    "Issues related to funding of childrens hospital graduate medical education program; issues related to Medicaid and CHIP funding of childrens hospitals; issues related to research funding; funding for community project and pediatric pandemic network; support for legislation to address children's mental health.",
+    "Issues related to funding of childrens hospital graduate medical education program (CHGME); issues related to research funding; funding for community project and pediatric pandemic network; legislation related to gender health care and the CHGME program and federal funding of gender healthcare.",
+    "Issues related to funding of childrens hospital graduate medical education program (CHGME); issues related to research funding; funding for community project and pediatric pandemic network.",
+    "Issues related to funding of childrens hospital graduate medical education program (CHGME); issues related to research funding; funding for community project and pediatric pandemic network; Medicaid reductions in H.R. 1, the One Big Beautiful Bill Act.",
+    "Issues related to funding of childrens hospital graduate medical education program (CHGME); issues related to research funding; funding for community project and pediatric pandemic network; issues related to recruitment of pediatric specialists; support for Illinois State Directed Payment Program; raising awareness of immigration issue for a pediatric subspecialist."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 251250,
+  "peakYear": 2023,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "healthcare"
+}

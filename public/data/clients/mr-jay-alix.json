@@ -1,1 +1,95 @@
-{"id":202347,"name":"MR. JAY ALIX","slug":"mr-jay-alix","state":"MI","description":"Investor","totalSpending":2560000,"filings":29,"yearlySpending":[{"year":2018,"income":230000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":550000},{"year":2024,"income":440000},{"year":2025,"income":60000}],"firms":["COGENT STRATEGIES LLC"],"lobbyists":["RANDALL GERARD","ANDREW KAUDERS","KEVIN MCLAUGHLIN","CLAUDIA JAMES","DAVID OXNER","EDDA COLLINS COLEMAN"],"issues":["BNK","BUD",null,"DEF","GOV"],"sampleDescriptions":["Protecting the integrity of the bankruptcy system","Protecting the integrity of the bankruptcy system\nH.R.7355 - PRRADA","Protecting the integrity of the bankruptcy system\nH.R. 683 - PRRADA","Protecting the integrity of the bankruptcy system\nH.R. 683/S. 1675 - PRRADA","Commerce, Justice, Science, and Related Agencies Appropriations, FY 2021","- H.R.1192/S. 375 - PRRADA\n- Protecting the integrity of the bankruptcy system","- H.R.1192/S. 375 - PRRADA\n- Protecting the integrity of the bankruptcy system and promoting transparency in government.","- H.R.1192/S. 375 - PRRADA - Protecting the integrity of the bankruptcy system and promoting transparency in government.","- Issues related to protecting the integrity of the bankruptcy system and promoting transparency in government.","- Issues related to S. 2034, CONSULT Act of 2023","- Promoting transparency in government by addressing conflicts of interest.","- Promoting transparency in government by addressing conflicts of interest. - S. 3810, Time to Choose Act of 2024.","- Issues related to S. 2034, CONSULT Act of 2023.","- Promoting transparency in government by addressing conﬂicts of interest. - S. 3810, Time to Choose Act of 2024."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202347,
+  "name": "MR. JAY ALIX",
+  "slug": "mr-jay-alix",
+  "state": "MI",
+  "description": "Investor",
+  "totalSpending": 2560000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 230000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 550000
+    },
+    {
+      "year": 2024,
+      "income": 440000
+    },
+    {
+      "year": 2025,
+      "income": 60000
+    }
+  ],
+  "firms": [
+    "COGENT STRATEGIES LLC"
+  ],
+  "lobbyists": [
+    "RANDALL GERARD",
+    "ANDREW KAUDERS",
+    "KEVIN MCLAUGHLIN",
+    "CLAUDIA JAMES",
+    "DAVID OXNER",
+    "EDDA COLLINS COLEMAN"
+  ],
+  "issues": [
+    "BNK",
+    "BUD",
+    null,
+    "DEF",
+    "GOV"
+  ],
+  "sampleDescriptions": [
+    "Protecting the integrity of the bankruptcy system",
+    "Protecting the integrity of the bankruptcy system\nH.R.7355 - PRRADA",
+    "Protecting the integrity of the bankruptcy system\nH.R. 683 - PRRADA",
+    "Protecting the integrity of the bankruptcy system\nH.R. 683/S. 1675 - PRRADA",
+    "Commerce, Justice, Science, and Related Agencies Appropriations, FY 2021",
+    "- H.R.1192/S. 375 - PRRADA\n- Protecting the integrity of the bankruptcy system",
+    "- H.R.1192/S. 375 - PRRADA\n- Protecting the integrity of the bankruptcy system and promoting transparency in government.",
+    "- H.R.1192/S. 375 - PRRADA - Protecting the integrity of the bankruptcy system and promoting transparency in government.",
+    "- Issues related to protecting the integrity of the bankruptcy system and promoting transparency in government.",
+    "- Issues related to S. 2034, CONSULT Act of 2023",
+    "- Promoting transparency in government by addressing conflicts of interest.",
+    "- Promoting transparency in government by addressing conflicts of interest. - S. 3810, Time to Choose Act of 2024.",
+    "- Issues related to S. 2034, CONSULT Act of 2023.",
+    "- Promoting transparency in government by addressing conﬂicts of interest. - S. 3810, Time to Choose Act of 2024."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -74,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 320000,
+  "peakYear": 2023,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 4
+}

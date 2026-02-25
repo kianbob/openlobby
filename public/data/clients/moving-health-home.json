@@ -1,1 +1,71 @@
-{"id":208680,"name":"MOVING HEALTH HOME","slug":"moving-health-home","state":"DC","description":"Home care advocacy group","totalSpending":2310000,"filings":21,"yearlySpending":[{"year":2021,"income":330000},{"year":2022,"income":660000},{"year":2023,"income":440000},{"year":2024,"income":440000},{"year":2025,"income":440000}],"firms":["SIRONA STRATEGIES LLC"],"lobbyists":["KRISTA DROBAC","KRISTEN MCGOVERN","CHRISTOPHER ADAMEC","JEREMIAH MCCOY","NANCY SIMPSON","RIKKI CHEUNG"],"issues":["MMM",null],"sampleDescriptions":["Issues related to reimbursement and coverage of care in the home.","Home care issues; hospital at home program.","Home care issues; H.R. 7053/S. 3792, Hospital Inpatient Services Modernization Act; H.R. 5514/S. 2562, Choose Home Care Act.","Hospital Inpatient Services Modernization Act (S. 3792); Choose Home Care Act of 2022 (S. 2562); Preserving Access to Home Health Act of 2022 (S. 4605/H.R. 8581); issues related to expanding care in the home; Consolidated Appropriations Act of 2022.","Home care; hospital at home; SNF at home; chronic care.","Home care; hospital at home; SNF at home; chronic care; Hospital Inpatient Services Modernization Act.","Home care; hospital at home; SNF at home; chronic care; Hospital Inpatient Services Modernization Act (H.R. 4313/S. 2237)."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 208680,
+  "name": "MOVING HEALTH HOME",
+  "slug": "moving-health-home",
+  "state": "DC",
+  "description": "Home care advocacy group",
+  "totalSpending": 2310000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 330000
+    },
+    {
+      "year": 2022,
+      "income": 660000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 440000
+    },
+    {
+      "year": 2025,
+      "income": 440000
+    }
+  ],
+  "firms": [
+    "SIRONA STRATEGIES LLC"
+  ],
+  "lobbyists": [
+    "KRISTA DROBAC",
+    "KRISTEN MCGOVERN",
+    "CHRISTOPHER ADAMEC",
+    "JEREMIAH MCCOY",
+    "NANCY SIMPSON",
+    "RIKKI CHEUNG"
+  ],
+  "issues": [
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to reimbursement and coverage of care in the home.",
+    "Home care issues; hospital at home program.",
+    "Home care issues; H.R. 7053/S. 3792, Hospital Inpatient Services Modernization Act; H.R. 5514/S. 2562, Choose Home Care Act.",
+    "Hospital Inpatient Services Modernization Act (S. 3792); Choose Home Care Act of 2022 (S. 2562); Preserving Access to Home Health Act of 2022 (S. 4605/H.R. 8581); issues related to expanding care in the home; Consolidated Appropriations Act of 2022.",
+    "Home care; hospital at home; SNF at home; chronic care.",
+    "Home care; hospital at home; SNF at home; chronic care; Hospital Inpatient Services Modernization Act.",
+    "Home care; hospital at home; SNF at home; chronic care; Hospital Inpatient Services Modernization Act (H.R. 4313/S. 2237)."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 462000,
+  "peakYear": 2022,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

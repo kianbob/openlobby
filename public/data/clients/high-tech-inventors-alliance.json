@@ -1,1 +1,90 @@
-{"id":187792,"name":"HIGH TECH INVENTORS ALLIANCE","slug":"high-tech-inventors-alliance","state":"DC","description":"Coalition advocating for policies to promote a balanced and pro-innovation patent system","totalSpending":1480000,"filings":24,"yearlySpending":[{"year":2019,"income":220000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":140000},{"year":2025,"income":280000}],"firms":["FRANKLIN SQUARE GROUP, LLC"],"lobbyists":["MATTHEW TANIELIAN","JOSHUA ACKIL","BRIAN PETERS","KARA CALVERT CAMPBELL","BRIAN WORTH","SARAH BETH JANSEN","TROY PERRY","JESSICA MARTINEZ","WESLEY MCCLELLAND","KEVIN CUMMINS","ROLAND LITTERST"],"issues":["CPT",null],"sampleDescriptions":["Issues related to intellectual property legislation and regulation","Issues related to intellectual property legislation and regulation.","Issues related to intellectual property legislation and regulation; Restoring the America Invents Act (S. 2891)","Issues related to intellectual property legislation and regulation; \nS. 2891, Restoring the America Invents Act","Issues related to intellectual property legislation and regulation; S. 2891, Restoring the America Invents Act","Issues related to intellectual property legislation and regulation; S. 2891, Restoring the America Invents Act; S. 4704, Patent Examination and Quality Improvement Act of 2022","Issues related to intellectual property legislation and regulation; S. 2891, Restoring the America Invents Act; S. 4704, Patent Examination and Quality Improvement Act of 2022; S. 2773, Unleashing American Innovators Act; S. 2774, Pride in Patent Ownership Act","Issues related to intellectual property legislation and regulation; S. 2140, Patent Eligibility Restoration Act; S. 2220/H.R. 4370, Promoting and Respecting Economically Vital American Innovation Leadership Act (PREVAIL Act); H.R. 9221/S. 4840, RESTORE Patent Rights Act of 2024","Issues related to intellectual property legislation and regulation; Patent Eligibility Restoration Act; Promoting and Respecting Economically Vital American Innovation Leadership Act (PREVAIL Act); H.R. 1574/S. 708, RESTORE Patent Rights Act of 2025","Issues related to intellectual property legislation and regulation; H.R. 3152/S. 1546, Patent Eligibility Restoration Act of 2025; H.R. 3160/S. 1553, Promoting and Respecting Economically Vital American Innovation Leadership Act (PREVAIL Act); H.R. 1574/S. 708, RESTORE Patent Rights Act of 2025","Issues related to intellectual property legislation and regulation; H.R. 3152/S. 1546, Patent Eligibility Restoration Act of 2025; H.R. 3160/S. 1553, Promoting and Respecting Economically Vital American Innovation Leadership Act (PREVAIL Act); H.R. 1574/S. 708, RESTORE Patent Rights Act of 2025; USPTO Rulemaking related to Inter Partes Review"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 187792,
+  "name": "HIGH TECH INVENTORS ALLIANCE",
+  "slug": "high-tech-inventors-alliance",
+  "state": "DC",
+  "description": "Coalition advocating for policies to promote a balanced and pro-innovation patent system",
+  "totalSpending": 1480000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 220000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 140000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "FRANKLIN SQUARE GROUP, LLC"
+  ],
+  "lobbyists": [
+    "MATTHEW TANIELIAN",
+    "JOSHUA ACKIL",
+    "BRIAN PETERS",
+    "KARA CALVERT CAMPBELL",
+    "BRIAN WORTH",
+    "SARAH BETH JANSEN",
+    "TROY PERRY",
+    "JESSICA MARTINEZ",
+    "WESLEY MCCLELLAND",
+    "KEVIN CUMMINS",
+    "ROLAND LITTERST"
+  ],
+  "issues": [
+    "CPT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to intellectual property legislation and regulation",
+    "Issues related to intellectual property legislation and regulation.",
+    "Issues related to intellectual property legislation and regulation; Restoring the America Invents Act (S. 2891)",
+    "Issues related to intellectual property legislation and regulation; \nS. 2891, Restoring the America Invents Act",
+    "Issues related to intellectual property legislation and regulation; S. 2891, Restoring the America Invents Act",
+    "Issues related to intellectual property legislation and regulation; S. 2891, Restoring the America Invents Act; S. 4704, Patent Examination and Quality Improvement Act of 2022",
+    "Issues related to intellectual property legislation and regulation; S. 2891, Restoring the America Invents Act; S. 4704, Patent Examination and Quality Improvement Act of 2022; S. 2773, Unleashing American Innovators Act; S. 2774, Pride in Patent Ownership Act",
+    "Issues related to intellectual property legislation and regulation; S. 2140, Patent Eligibility Restoration Act; S. 2220/H.R. 4370, Promoting and Respecting Economically Vital American Innovation Leadership Act (PREVAIL Act); H.R. 9221/S. 4840, RESTORE Patent Rights Act of 2024",
+    "Issues related to intellectual property legislation and regulation; Patent Eligibility Restoration Act; Promoting and Respecting Economically Vital American Innovation Leadership Act (PREVAIL Act); H.R. 1574/S. 708, RESTORE Patent Rights Act of 2025",
+    "Issues related to intellectual property legislation and regulation; H.R. 3152/S. 1546, Patent Eligibility Restoration Act of 2025; H.R. 3160/S. 1553, Promoting and Respecting Economically Vital American Innovation Leadership Act (PREVAIL Act); H.R. 1574/S. 708, RESTORE Patent Rights Act of 2025",
+    "Issues related to intellectual property legislation and regulation; H.R. 3152/S. 1546, Patent Eligibility Restoration Act of 2025; H.R. 3160/S. 1553, Promoting and Respecting Economically Vital American Innovation Leadership Act (PREVAIL Act); H.R. 1574/S. 708, RESTORE Patent Rights Act of 2025; USPTO Rulemaking related to Inter Partes Review"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 27,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 211429,
+  "peakYear": 2025,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

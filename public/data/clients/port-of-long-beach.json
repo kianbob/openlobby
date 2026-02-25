@@ -1,1 +1,104 @@
-{"id":100907,"name":"PORT OF LONG BEACH","slug":"port-of-long-beach","state":null,"description":null,"totalSpending":1650000,"filings":33,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":250000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["SUSAN LENT","GEOFF VERHOFF","VIC FAZIO","JOSHUA TEITELBAUM","JOSE BORJON","VIRGIL MILLER","BRIAN POMPER","ZACHARY PAULSEN"],"issues":["TRA","TRD","ENG","ENV","TAR","MAR"],"sampleDescriptions":["Support for funding for port and goods movement projects and environmental streamlining, (P.L. 115-141).","Support for funding for port and goods movement projects and environmental streamlining, (H.R.6072/S.3023); Support for BUILD grant.","Support for funding for port and goods movement projects; support for environmental streamlining.","Support for trade policies that benefit movement of goods through ports.","Support for funding for port and goods movement projects; support for environmental streamlining; support for funding to address effects of COVID-19.","Support for funding for port and goods movement projects; support for environmental streamlining; support for funding to address effects of COVID-19 in Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020, PL 116-123.","Support for funding for port and goods movement projects; support for environmental streamlining; support for funding to address effects of COVID-19 in American Rescue Plan Act. Support for advancement of Pier B project. Support for funding of on-dock rail and freight infrastructure in surface transportation bill. Support for Clean Air Action Plan and renewable energy funding and programs.","Support for energy programs at Port.","Support for funding for port and goods movement projects; support for environmental streamlining; support for funding to address effects of COVID-19 in American Rescue Plan Act. Support for advancement of Pier B project. Support for funding of on-dock rail and freight infrastructure in Surface Transportation Investment Act of 2021 (S.2016), Surface Transportation Reauthorization Act of 2021 (S.1931) and Invest in America Act (H.R. 3684).","Support for clean Air Action plan and related programs.","Support for infrastructure and policies to facilitate goods movement.","Support for infrastructure and policies to facilitate goods movement; communications regard Ocean Shipping Reform Act, S.3580; support for funding for Pier B project.","Meeting with STB Chair Oberman re supply chain and goods movement issues.","Support for rail projects at Port.","Support for pier wind offshore wind infrastructure.","Pier B Groundbreaking.","Trade issues affecting the Port.","Support for clean hydrogen tax credit interpretation consistent with CA hydrogen hub.","Issues related to MEGA grant.","Support for clean port program funding."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 100907,
+  "name": "PORT OF LONG BEACH",
+  "slug": "port-of-long-beach",
+  "state": null,
+  "description": null,
+  "totalSpending": 1650000,
+  "filings": 33,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 250000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "SUSAN LENT",
+    "GEOFF VERHOFF",
+    "VIC FAZIO",
+    "JOSHUA TEITELBAUM",
+    "JOSE BORJON",
+    "VIRGIL MILLER",
+    "BRIAN POMPER",
+    "ZACHARY PAULSEN"
+  ],
+  "issues": [
+    "TRA",
+    "TRD",
+    "ENG",
+    "ENV",
+    "TAR",
+    "MAR"
+  ],
+  "sampleDescriptions": [
+    "Support for funding for port and goods movement projects and environmental streamlining, (P.L. 115-141).",
+    "Support for funding for port and goods movement projects and environmental streamlining, (H.R.6072/S.3023); Support for BUILD grant.",
+    "Support for funding for port and goods movement projects; support for environmental streamlining.",
+    "Support for trade policies that benefit movement of goods through ports.",
+    "Support for funding for port and goods movement projects; support for environmental streamlining; support for funding to address effects of COVID-19.",
+    "Support for funding for port and goods movement projects; support for environmental streamlining; support for funding to address effects of COVID-19 in Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020, PL 116-123.",
+    "Support for funding for port and goods movement projects; support for environmental streamlining; support for funding to address effects of COVID-19 in American Rescue Plan Act. Support for advancement of Pier B project. Support for funding of on-dock rail and freight infrastructure in surface transportation bill. Support for Clean Air Action Plan and renewable energy funding and programs.",
+    "Support for energy programs at Port.",
+    "Support for funding for port and goods movement projects; support for environmental streamlining; support for funding to address effects of COVID-19 in American Rescue Plan Act. Support for advancement of Pier B project. Support for funding of on-dock rail and freight infrastructure in Surface Transportation Investment Act of 2021 (S.2016), Surface Transportation Reauthorization Act of 2021 (S.1931) and Invest in America Act (H.R. 3684).",
+    "Support for clean Air Action plan and related programs.",
+    "Support for infrastructure and policies to facilitate goods movement.",
+    "Support for infrastructure and policies to facilitate goods movement; communications regard Ocean Shipping Reform Act, S.3580; support for funding for Pier B project.",
+    "Meeting with STB Chair Oberman re supply chain and goods movement issues.",
+    "Support for rail projects at Port.",
+    "Support for pier wind offshore wind infrastructure.",
+    "Pier B Groundbreaking.",
+    "Trade issues affecting the Port.",
+    "Support for clean hydrogen tax credit interpretation consistent with CA hydrogen hub.",
+    "Issues related to MEGA grant.",
+    "Support for clean port program funding."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 206250,
+  "peakYear": 2019,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 6
+}

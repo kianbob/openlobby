@@ -1,1 +1,92 @@
-{"id":168109,"name":"CHILDREN'S NATIONAL MEDICAL CENTER","slug":"children-s-national-medical-center","state":"DC","description":"Health care services provider","totalSpending":1600000,"filings":32,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":250000},{"year":2025,"income":200000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["SUSAN SWEAT","LAURA BOZELL","AMY SOUDERS","CHRISTOPHER SARLEY","HEATHER MOLINO","MARK MIODUSKI","ERIK FATEMI","WILLIAM SMITH","DAVID PLANNING","STACY RICH","CARLOS JACKSON","MICHAEL GOODMAN"],"issues":["MMM","PHA","MED","DEF","HCR","BUD",null],"sampleDescriptions":["Representation on health-related issues including reimbursement, research, public-health & clinical care","Health-related issues including reimbursement, research, public-health & clinical care."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 168109,
+  "name": "CHILDREN'S NATIONAL MEDICAL CENTER",
+  "slug": "children-s-national-medical-center",
+  "state": "DC",
+  "description": "Health care services provider",
+  "totalSpending": 1600000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 250000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "SUSAN SWEAT",
+    "LAURA BOZELL",
+    "AMY SOUDERS",
+    "CHRISTOPHER SARLEY",
+    "HEATHER MOLINO",
+    "MARK MIODUSKI",
+    "ERIK FATEMI",
+    "WILLIAM SMITH",
+    "DAVID PLANNING",
+    "STACY RICH",
+    "CARLOS JACKSON",
+    "MICHAEL GOODMAN"
+  ],
+  "issues": [
+    "MMM",
+    "PHA",
+    "MED",
+    "DEF",
+    "HCR",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Representation on health-related issues including reimbursement, research, public-health & clinical care",
+    "Health-related issues including reimbursement, research, public-health & clinical care."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 200000,
+  "peakYear": 2024,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 6,
+  "industry": "healthcare"
+}

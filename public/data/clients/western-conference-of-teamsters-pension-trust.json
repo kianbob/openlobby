@@ -1,1 +1,82 @@
-{"id":115173,"name":"WESTERN CONFERENCE OF TEAMSTERS PENSION TRUST","slug":"western-conference-of-teamsters-pension-trust","state":"WA","description":"Multiemployer pension plan.","totalSpending":4390000,"filings":34,"yearlySpending":[{"year":2018,"income":1020000},{"year":2019,"income":770000},{"year":2020,"income":1290000},{"year":2021,"income":640000},{"year":2022,"income":240000},{"year":2023,"income":80000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["COVINGTON & BURLING LLP"],"lobbyists":["HOLLY FECHNER","WILLIAM WICHTERMAN","MUFTIAH MCCARTIN","JASON LEVY","MATTHEW SHAPANKA","LAYTH ELHASSANI","MORGAN SCHREURS","HOWARD BERMAN"],"issues":["RET",null],"sampleDescriptions":["Multiemployer pension funding legislation.","Multiemployer pension issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 115173,
+  "name": "WESTERN CONFERENCE OF TEAMSTERS PENSION TRUST",
+  "slug": "western-conference-of-teamsters-pension-trust",
+  "state": "WA",
+  "description": "Multiemployer pension plan.",
+  "totalSpending": 4390000,
+  "filings": 34,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 1020000
+    },
+    {
+      "year": 2019,
+      "income": 770000
+    },
+    {
+      "year": 2020,
+      "income": 1290000
+    },
+    {
+      "year": 2021,
+      "income": 640000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 80000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "COVINGTON & BURLING LLP"
+  ],
+  "lobbyists": [
+    "HOLLY FECHNER",
+    "WILLIAM WICHTERMAN",
+    "MUFTIAH MCCARTIN",
+    "JASON LEVY",
+    "MATTHEW SHAPANKA",
+    "LAYTH ELHASSANI",
+    "MORGAN SCHREURS",
+    "HOWARD BERMAN"
+  ],
+  "issues": [
+    "RET",
+    null
+  ],
+  "sampleDescriptions": [
+    "Multiemployer pension funding legislation.",
+    "Multiemployer pension issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -80,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 548750,
+  "peakYear": 2020,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 1
+}

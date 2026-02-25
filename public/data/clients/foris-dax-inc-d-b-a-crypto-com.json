@@ -1,1 +1,56 @@
-{"id":45737,"name":"FORIS DAX, INC. D/B/A CRYPTO.COM","slug":"foris-dax-inc-d-b-a-crypto-com","state":"FL","description":"Financial services platform","totalSpending":1470000,"filings":15,"yearlySpending":[{"year":2022,"income":300000},{"year":2023,"income":320000},{"year":2024,"income":400000},{"year":2025,"income":450000}],"firms":["MILLER STRATEGIES, LLC"],"lobbyists":["JESSICA MANDEL","JEFFREY MILLER","JONATHAN HILER"],"issues":["FIN",null],"sampleDescriptions":["Issues around crypto currency regulation."],"years":[2022,2023,2024,2025]}
+{
+  "id": 45737,
+  "name": "FORIS DAX, INC. D/B/A CRYPTO.COM",
+  "slug": "foris-dax-inc-d-b-a-crypto-com",
+  "state": "FL",
+  "description": "Financial services platform",
+  "totalSpending": 1470000,
+  "filings": 15,
+  "yearlySpending": [
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 400000
+    },
+    {
+      "year": 2025,
+      "income": 450000
+    }
+  ],
+  "firms": [
+    "MILLER STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "JESSICA MANDEL",
+    "JEFFREY MILLER",
+    "JONATHAN HILER"
+  ],
+  "issues": [
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues around crypto currency regulation."
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 50,
+  "trajectory": "growing",
+  "yearsActive": 4,
+  "avgAnnualSpending": 367500,
+  "peakYear": 2025,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

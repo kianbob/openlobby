@@ -1,1 +1,79 @@
-{"id":111677,"name":"GLOBALFOUNDRIES U.S. INC.","slug":"globalfoundries-u-s-inc","state":"NY","description":"Full-service semiconductor design, development, fabrication and innovation company.","totalSpending":2300000,"filings":16,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":750000},{"year":2020,"income":670000},{"year":2021,"income":250000},{"year":2022,"income":425000},{"year":2023,"income":25000}],"firms":["CARMEN GROUP INCORPORATED"],"lobbyists":["DAVID CARMEN","JOHN LADD","DALLAM HARPER III","GARY HOITSMA"],"issues":["MAN","GOV","SCI"],"sampleDescriptions":["Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries.","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China; NDAA","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China; S. 4049 National Defense Authorization Act; S. 3933 Chips for America Act; American Foundries Act","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China; NDAA; HR 7608 FY 21 consolidated approps","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China; S. 4049 National Defense Authorization Act; S. 3933 Chips for America Act; American Foundries Act; HR 7608 FY 21 consolidated approps","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 22 appropriations; FABS Act; S.1260 U.S. Innovation and Competition Act","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 22 appropriations; FABS Act; S.1260 U.S. Innovation and Competition Act; H.R. 4521 America Competes Act","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 23 appropriations; FABS Act; S.1260 U.S. Innovation and Competition Act; H.R. 4521 America Competes Act","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 23 appropriations; FABS Act; S.1260 U.S. Innovation and Competition Act","Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 23 appropriations; Chips and Science Act","FY 23 Appropriations Bill, 2023 National Defense Authorization Act"],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 111677,
+  "name": "GLOBALFOUNDRIES U.S. INC.",
+  "slug": "globalfoundries-u-s-inc",
+  "state": "NY",
+  "description": "Full-service semiconductor design, development, fabrication and innovation company.",
+  "totalSpending": 2300000,
+  "filings": 16,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 750000
+    },
+    {
+      "year": 2020,
+      "income": 670000
+    },
+    {
+      "year": 2021,
+      "income": 250000
+    },
+    {
+      "year": 2022,
+      "income": 425000
+    },
+    {
+      "year": 2023,
+      "income": 25000
+    }
+  ],
+  "firms": [
+    "CARMEN GROUP INCORPORATED"
+  ],
+  "lobbyists": [
+    "DAVID CARMEN",
+    "JOHN LADD",
+    "DALLAM HARPER III",
+    "GARY HOITSMA"
+  ],
+  "issues": [
+    "MAN",
+    "GOV",
+    "SCI"
+  ],
+  "sampleDescriptions": [
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries.",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China; NDAA",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China; S. 4049 National Defense Authorization Act; S. 3933 Chips for America Act; American Foundries Act",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China; NDAA; HR 7608 FY 21 consolidated approps",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semi-conductor manufacturing; anti-trust; trade; China; S. 4049 National Defense Authorization Act; S. 3933 Chips for America Act; American Foundries Act; HR 7608 FY 21 consolidated approps",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 22 appropriations; FABS Act; S.1260 U.S. Innovation and Competition Act",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 22 appropriations; FABS Act; S.1260 U.S. Innovation and Competition Act; H.R. 4521 America Competes Act",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 23 appropriations; FABS Act; S.1260 U.S. Innovation and Competition Act; H.R. 4521 America Competes Act",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 23 appropriations; FABS Act; S.1260 U.S. Innovation and Competition Act",
+    "Legislative and administration monitoring and outreach on issues affecting the infrastructure and manufacturing industries; semiconductor manufacturing; U.S. export controls; China; FY 23 appropriations; Chips and Science Act",
+    "FY 23 Appropriations Bill, 2023 National Defense Authorization Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -86,
+  "trajectory": "declining",
+  "yearsActive": 6,
+  "avgAnnualSpending": 383333,
+  "peakYear": 2019,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 3
+}

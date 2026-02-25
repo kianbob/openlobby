@@ -1,1 +1,81 @@
-{"id":198738,"name":"THE DUAL ELIGIBLE COALITION","slug":"the-dual-eligible-coalition","state":"DC","description":"Providers,  payers,  patient  groups,  and  plans  coalition  advocacy.","totalSpending":1380000,"filings":30,"yearlySpending":[{"year":2018,"income":80000},{"year":2019,"income":230000},{"year":2020,"income":230000},{"year":2021,"income":230000},{"year":2022,"income":250000},{"year":2023,"income":200000},{"year":2024,"income":100000},{"year":2025,"income":60000}],"firms":["LEAVITT PARTNERS, LLC"],"lobbyists":["VINCE VENTIMIGLIA","MOLLIE ZITO","JOSH TRENT","SHANNON DEERE","ABIGAIL HAWKINS"],"issues":["HCR",null],"sampleDescriptions":["Issues related to the Dual Eligible program.","Issues related to dual eligible beneficiaries including: S.4635 - Comprehensive Care for Dual Eligible Individuals Act S.4273 The Supporting States in Integrating Medicare and Medicaid Act of 2022 S, 4264 Advancing Integration in Medicare and Medicaid Act S. 3630 The Supporting Care for Dual Eligibles Act","-Issues related to dual eligible beneficiaries including: -S.4635 - Comprehensive Care for Dual Eligible Individuals Act -S.4273 The Supporting States in Integrating Medicare and Medicaid Act of 2022 -S, 4264 Advancing Integration in Medicare and Medicaid Act -S. 3630 The Supporting Care for Dual Eligibles Act","-Issues related to dual eligible beneficiaries including: -S.4635 - Comprehensive Care for Dual Eligible Individuals Act -S.4273 The Supporting States in Integrating Medicare and Medicaid Act of 2022 -S.4264 Advancing Integration in Medicare and Medicaid Act -S.3630 The Supporting Care for Dual Eligibles Act -S.3950 DUALS Act of 2024"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 198738,
+  "name": "THE DUAL ELIGIBLE COALITION",
+  "slug": "the-dual-eligible-coalition",
+  "state": "DC",
+  "description": "Providers,  payers,  patient  groups,  and  plans  coalition  advocacy.",
+  "totalSpending": 1380000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 80000
+    },
+    {
+      "year": 2019,
+      "income": 230000
+    },
+    {
+      "year": 2020,
+      "income": 230000
+    },
+    {
+      "year": 2021,
+      "income": 230000
+    },
+    {
+      "year": 2022,
+      "income": 250000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 100000
+    },
+    {
+      "year": 2025,
+      "income": 60000
+    }
+  ],
+  "firms": [
+    "LEAVITT PARTNERS, LLC"
+  ],
+  "lobbyists": [
+    "VINCE VENTIMIGLIA",
+    "MOLLIE ZITO",
+    "JOSH TRENT",
+    "SHANNON DEERE",
+    "ABIGAIL HAWKINS"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to the Dual Eligible program.",
+    "Issues related to dual eligible beneficiaries including: S.4635 - Comprehensive Care for Dual Eligible Individuals Act S.4273 The Supporting States in Integrating Medicare and Medicaid Act of 2022 S, 4264 Advancing Integration in Medicare and Medicaid Act S. 3630 The Supporting Care for Dual Eligibles Act",
+    "-Issues related to dual eligible beneficiaries including: -S.4635 - Comprehensive Care for Dual Eligible Individuals Act -S.4273 The Supporting States in Integrating Medicare and Medicaid Act of 2022 -S, 4264 Advancing Integration in Medicare and Medicaid Act -S. 3630 The Supporting Care for Dual Eligibles Act",
+    "-Issues related to dual eligible beneficiaries including: -S.4635 - Comprehensive Care for Dual Eligible Individuals Act -S.4273 The Supporting States in Integrating Medicare and Medicaid Act of 2022 -S.4264 Advancing Integration in Medicare and Medicaid Act -S.3630 The Supporting Care for Dual Eligibles Act -S.3950 DUALS Act of 2024"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 172500,
+  "peakYear": 2022,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1
+}

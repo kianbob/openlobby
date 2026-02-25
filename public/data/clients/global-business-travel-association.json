@@ -1,1 +1,105 @@
-{"id":168009,"name":"GLOBAL BUSINESS TRAVEL ASSOCIATION","slug":"global-business-travel-association","state":"VA","description":"Government Relations","totalSpending":1600000,"filings":32,"yearlySpending":[{"year":2018,"income":250000},{"year":2019,"income":200000},{"year":2020,"income":250000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":250000},{"year":2025,"income":50000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["LOUIE PERRY","MICHELLE MRDEZA","JOSEPH BARTON","TODD WEBSTER","JOHN CRUMBLISS","JAMES MOOERS","MICHAEL ALTES","LAUREN EDWARDS","ANDREW FLICK","JOHN SCOTT"],"issues":["HOM","TRA","AVI","TAX",null],"sampleDescriptions":["TSA funding and reauthorization, Visa Waiver Program, use of mobile phones on airplanes, FAA reauthorization, Passenger Facility Charge","Business travel issues","FAA Reauthorization, Passenger Facility Charge","FAA reauthorization, Passenger Facility Charge","TSA funding and reauthorization, Visa Waiver Program, use of mobile phones on airplanes, FAA reauthorization, Passenger Facility Charge, FASTER Act","Business travel issues, TSA","FAA reauthorization, Passenger Facility Charge, TSA","FAA Reauthorization, Passenger Facility Charge, TSA","Business travel issues, TSA, FASTER Act and JOLT Act.","Passenger Facility Charge, TSA, FASTER Act and JOLT Act.","Passenger Facility Charge, TSA, FASTER Act and JOLT Act","TSA funding and reauthorization, Visa Waiver Program, use of mobile phones on airplanes, Passenger Facility Charge, FASTER Act, JOLT Act.","TSA funding and reauthorization, Visa Waiver Program, Passenger Facility Charge, FASTER Act, JOLT Act.","TSA funding and reauthorization, Visa Waiver Program, Passenger Facility Charge, FASTER Act, JOLT Act, Real ID","Business travel issues, TSA, FASTER Act and JOLT Act, Real ID","Passenger Facility Charge, TSA, FASTER Act and JOLT Act, Real ID","TSA funding and reauthorization, Visa Waiver Program, Passenger Facility Charge, FASTER Act, JOLT Act, Real ID, CARES Act and Coronavirus supplemental bills - urging 501c6 organizations to be eligible for PPP loans","Business travel issues, TSA, FASTER Act and JOLT Act, Real ID, CARES Act and Coronavirus supplemental bills - urging 501c6 organizations to be eligible for PPP loans","Passenger Facility Charge, TSA, FASTER Act and JOLT Act, Real ID, CARES Act and Coronavirus supplemental bills - urging 501c6 organizations to be eligible for PPP loans","FASTER Act and JOLT Act, Real ID, reopening the U.S. to international travelers"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 168009,
+  "name": "GLOBAL BUSINESS TRAVEL ASSOCIATION",
+  "slug": "global-business-travel-association",
+  "state": "VA",
+  "description": "Government Relations",
+  "totalSpending": 1600000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 250000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 250000
+    },
+    {
+      "year": 2025,
+      "income": 50000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "LOUIE PERRY",
+    "MICHELLE MRDEZA",
+    "JOSEPH BARTON",
+    "TODD WEBSTER",
+    "JOHN CRUMBLISS",
+    "JAMES MOOERS",
+    "MICHAEL ALTES",
+    "LAUREN EDWARDS",
+    "ANDREW FLICK",
+    "JOHN SCOTT"
+  ],
+  "issues": [
+    "HOM",
+    "TRA",
+    "AVI",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "TSA funding and reauthorization, Visa Waiver Program, use of mobile phones on airplanes, FAA reauthorization, Passenger Facility Charge",
+    "Business travel issues",
+    "FAA Reauthorization, Passenger Facility Charge",
+    "FAA reauthorization, Passenger Facility Charge",
+    "TSA funding and reauthorization, Visa Waiver Program, use of mobile phones on airplanes, FAA reauthorization, Passenger Facility Charge, FASTER Act",
+    "Business travel issues, TSA",
+    "FAA reauthorization, Passenger Facility Charge, TSA",
+    "FAA Reauthorization, Passenger Facility Charge, TSA",
+    "Business travel issues, TSA, FASTER Act and JOLT Act.",
+    "Passenger Facility Charge, TSA, FASTER Act and JOLT Act.",
+    "Passenger Facility Charge, TSA, FASTER Act and JOLT Act",
+    "TSA funding and reauthorization, Visa Waiver Program, use of mobile phones on airplanes, Passenger Facility Charge, FASTER Act, JOLT Act.",
+    "TSA funding and reauthorization, Visa Waiver Program, Passenger Facility Charge, FASTER Act, JOLT Act.",
+    "TSA funding and reauthorization, Visa Waiver Program, Passenger Facility Charge, FASTER Act, JOLT Act, Real ID",
+    "Business travel issues, TSA, FASTER Act and JOLT Act, Real ID",
+    "Passenger Facility Charge, TSA, FASTER Act and JOLT Act, Real ID",
+    "TSA funding and reauthorization, Visa Waiver Program, Passenger Facility Charge, FASTER Act, JOLT Act, Real ID, CARES Act and Coronavirus supplemental bills - urging 501c6 organizations to be eligible for PPP loans",
+    "Business travel issues, TSA, FASTER Act and JOLT Act, Real ID, CARES Act and Coronavirus supplemental bills - urging 501c6 organizations to be eligible for PPP loans",
+    "Passenger Facility Charge, TSA, FASTER Act and JOLT Act, Real ID, CARES Act and Coronavirus supplemental bills - urging 501c6 organizations to be eligible for PPP loans",
+    "FASTER Act and JOLT Act, Real ID, reopening the U.S. to international travelers"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -80,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 200000,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 4
+}

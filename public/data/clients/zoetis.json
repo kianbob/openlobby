@@ -1,1 +1,121 @@
-{"id":151517,"name":"ZOETIS","slug":"zoetis","state":"NJ","description":"Issues related to animal health including livestock and companion drugs and vaccines","totalSpending":1520000,"filings":29,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":240000},{"year":2025,"income":180000}],"firms":["WILLIAMS AND JENSEN, PLLC"],"lobbyists":["CHRISTOPHER HATCHER","SUSAN HIRSCHMANN","MELINDA MAXFIELD","ERIN MULLEN","MATTHEW HOEKSTRA","ANDREW JONES","DAVID STARR","CHERYL JAEGER","NICHOLAS KARELLAS","JOEL OSWALD","GEORGE OLSEN","KARINA LYNCH","FRANK VLOSSAK","TRACY TAYLOR","SCOTT GRAVES","GRANT BARBOSA","CHRISTOPHER WILCOX","LAURA SIMMONS","DANIEL ZIEGLER","JEANNE HAGGERTY","ALEC ARAMANDA","KURT SCHRADER","JOSHUA FENDRICK","ROBERT BUTORA"],"issues":["TAX","HCR","AGR","TRD","BUD",null],"sampleDescriptions":["Issues related to general corporate taxation; Implementation of H.R. 1, Tax Cuts and Jobs Act.","Legislation pertaining to antimicrobial use; Fairness to Pet Owners Act; issues related to veterinary drug compounding.","Monitor Farm Bill, H.R. 8, Agriculture and Nutrition Act of 2018.","Trade issues including those under section 301 of the Trade Act of 1974.","Monitor Farm Bill, H.R. 2, S. 3042 Agriculture and Nutrition Act of 2018.","Issues related to general corporate taxation; Implementation of H.R. 1, Tax Cuts and Jobs Act, (P.L. 115-97).","Legislation pertaining to antimicrobial use; issues related to veterinary drug compounding.","Monitor trade issues including those under section 301 of the Trade Act of 1974.  USMCA.","General agricultural issues important to livestock producers, animal health and related policy issues.","Issues related to general corporate taxation; Implementation of the Tax Cuts and Jobs Act (P.L. 115-97).","Animal health.","Funding for CVB in USDA.","Monitor trade issues including those under section 301 of the Trade Act of 1974.  USMCA.  Monitor trade issues and supply chain issues related to veterinary pharmaceuticals and active ingredients.","Animal health, issues impacting medicines and vaccines for animals.","Animal health , issues impacting medicines and vaccines for animals.","Monitor issues related to general corporate taxation.","Monitor trade issues including those under section 301 of the Trade Act of 1974, USMCA.  Monitor trade issues and supply chain issues related to veterinary pharmaceuticals and active ingredients.","Monitor trade issues including those under section 301 of the Trade Act of 1974, USMCA. Monitor trade issues and supply chain issues related to veterinary pharmaceuticals and active ingredients.","Animal health issues impacting medicines and vaccines for animals.","Monitor issues related to general corporate taxation; issues related to the intersection of human health and the human animal bond."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 151517,
+  "name": "ZOETIS",
+  "slug": "zoetis",
+  "state": "NJ",
+  "description": "Issues related to animal health including livestock and companion drugs and vaccines",
+  "totalSpending": 1520000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "WILLIAMS AND JENSEN, PLLC"
+  ],
+  "lobbyists": [
+    "CHRISTOPHER HATCHER",
+    "SUSAN HIRSCHMANN",
+    "MELINDA MAXFIELD",
+    "ERIN MULLEN",
+    "MATTHEW HOEKSTRA",
+    "ANDREW JONES",
+    "DAVID STARR",
+    "CHERYL JAEGER",
+    "NICHOLAS KARELLAS",
+    "JOEL OSWALD",
+    "GEORGE OLSEN",
+    "KARINA LYNCH",
+    "FRANK VLOSSAK",
+    "TRACY TAYLOR",
+    "SCOTT GRAVES",
+    "GRANT BARBOSA",
+    "CHRISTOPHER WILCOX",
+    "LAURA SIMMONS",
+    "DANIEL ZIEGLER",
+    "JEANNE HAGGERTY",
+    "ALEC ARAMANDA",
+    "KURT SCHRADER",
+    "JOSHUA FENDRICK",
+    "ROBERT BUTORA"
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "AGR",
+    "TRD",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to general corporate taxation; Implementation of H.R. 1, Tax Cuts and Jobs Act.",
+    "Legislation pertaining to antimicrobial use; Fairness to Pet Owners Act; issues related to veterinary drug compounding.",
+    "Monitor Farm Bill, H.R. 8, Agriculture and Nutrition Act of 2018.",
+    "Trade issues including those under section 301 of the Trade Act of 1974.",
+    "Monitor Farm Bill, H.R. 2, S. 3042 Agriculture and Nutrition Act of 2018.",
+    "Issues related to general corporate taxation; Implementation of H.R. 1, Tax Cuts and Jobs Act, (P.L. 115-97).",
+    "Legislation pertaining to antimicrobial use; issues related to veterinary drug compounding.",
+    "Monitor trade issues including those under section 301 of the Trade Act of 1974.  USMCA.",
+    "General agricultural issues important to livestock producers, animal health and related policy issues.",
+    "Issues related to general corporate taxation; Implementation of the Tax Cuts and Jobs Act (P.L. 115-97).",
+    "Animal health.",
+    "Funding for CVB in USDA.",
+    "Monitor trade issues including those under section 301 of the Trade Act of 1974.  USMCA.  Monitor trade issues and supply chain issues related to veterinary pharmaceuticals and active ingredients.",
+    "Animal health, issues impacting medicines and vaccines for animals.",
+    "Animal health , issues impacting medicines and vaccines for animals.",
+    "Monitor issues related to general corporate taxation.",
+    "Monitor trade issues including those under section 301 of the Trade Act of 1974, USMCA.  Monitor trade issues and supply chain issues related to veterinary pharmaceuticals and active ingredients.",
+    "Monitor trade issues including those under section 301 of the Trade Act of 1974, USMCA. Monitor trade issues and supply chain issues related to veterinary pharmaceuticals and active ingredients.",
+    "Animal health issues impacting medicines and vaccines for animals.",
+    "Monitor issues related to general corporate taxation; issues related to the intersection of human health and the human animal bond."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -10,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 190000,
+  "peakYear": 2024,
+  "lobbyistCount": 24,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "healthcare"
+}

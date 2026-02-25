@@ -1,1 +1,75 @@
-{"id":110318,"name":"MARUBENI OIL & GAS (USA) INC.","slug":"marubeni-oil-gas-usa-inc","state":"TX","description":"Oil and Gas","totalSpending":1340000,"filings":24,"yearlySpending":[{"year":2019,"income":220000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":100000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["JON HROBSKY","LUKE JOHNSON","WILLIAM MCGRATH"],"issues":["NAT","ENV",null],"sampleDescriptions":["Bureau of Safety and Environmental enforcement and EPA issues","Bureau of Safety and Environmental Enforcement and EPA issues","Issues related to offshore energy and the outer continental shelf"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110318,
+  "name": "MARUBENI OIL & GAS (USA) INC.",
+  "slug": "marubeni-oil-gas-usa-inc",
+  "state": "TX",
+  "description": "Oil and Gas",
+  "totalSpending": 1340000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 220000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 100000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "JON HROBSKY",
+    "LUKE JOHNSON",
+    "WILLIAM MCGRATH"
+  ],
+  "issues": [
+    "NAT",
+    "ENV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Bureau of Safety and Environmental enforcement and EPA issues",
+    "Bureau of Safety and Environmental Enforcement and EPA issues",
+    "Issues related to offshore energy and the outer continental shelf"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -55,
+  "trajectory": "declining",
+  "yearsActive": 7,
+  "avgAnnualSpending": 191429,
+  "peakYear": 2020,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "energy"
+}

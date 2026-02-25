@@ -1,1 +1,82 @@
-{"id":106735,"name":"OVERSEAS SHIPHOLDING GROUP, INC.","slug":"overseas-shipholding-group-inc","state":"FL","description":"Energy transportation services","totalSpending":2100000,"filings":27,"yearlySpending":[{"year":2018,"income":270000},{"year":2019,"income":270000},{"year":2020,"income":150000},{"year":2021,"income":240000},{"year":2022,"income":180000},{"year":2023,"income":360000},{"year":2024,"income":270000},{"year":2025,"income":360000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["WALKER ROBERTS","ERSKINE WELLS","WILLIAM CROZER","PETE LANDRUM","MARK TAVLARIDES","JONATHAN MANTZ","DAN GREENWOOD"],"issues":["FOR","MAR",null],"sampleDescriptions":["US-Israel trade agreement","Provide strategic guidance and counsel on U.S. maritime issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 106735,
+  "name": "OVERSEAS SHIPHOLDING GROUP, INC.",
+  "slug": "overseas-shipholding-group-inc",
+  "state": "FL",
+  "description": "Energy transportation services",
+  "totalSpending": 2100000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 270000
+    },
+    {
+      "year": 2019,
+      "income": 270000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 270000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "WALKER ROBERTS",
+    "ERSKINE WELLS",
+    "WILLIAM CROZER",
+    "PETE LANDRUM",
+    "MARK TAVLARIDES",
+    "JONATHAN MANTZ",
+    "DAN GREENWOOD"
+  ],
+  "issues": [
+    "FOR",
+    "MAR",
+    null
+  ],
+  "sampleDescriptions": [
+    "US-Israel trade agreement",
+    "Provide strategic guidance and counsel on U.S. maritime issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 262500,
+  "peakYear": 2023,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 2
+}

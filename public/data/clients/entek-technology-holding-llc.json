@@ -1,1 +1,76 @@
-{"id":52129,"name":"ENTEK TECHNOLOGY HOLDING, LLC","slug":"entek-technology-holding-llc","state":"OR","description":"sells lead-acid separators, lithium-ion separators, extruders, and engineering services","totalSpending":1400000,"filings":14,"yearlySpending":[{"year":2022,"income":260000},{"year":2023,"income":550000},{"year":2024,"income":440000},{"year":2025,"income":150000}],"firms":["ALPINE GROUP PARTNERS, LLC."],"lobbyists":["RHOD SHAW","KEENAN AUSTIN REED","GREG WALDEN","JENNIFER FORREST","JASON SCHENDLE","COLIN BRAINARD"],"issues":["CHM","MAN","ENG",null,"TAX"],"sampleDescriptions":["EPA rule making involving TCE","EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development","Impact of IIJA on domestic battery manufacturing, research & development","EPA rule making involving TCE Inflation Reduction Act","EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act","Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act","EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169","Inflation Reduction Act PL 117-169 EPA rule making involving TCE","Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169 EPA rule making involving TCE","EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169 Department of Energy Loan Programs Office","Implementation of IRA clean energy tax credits","Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169 EPA rule making involving TCE HR 1 impacts on energy storage technology","EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169 Department of Energy Loan Programs Office HR 1 impacts on energy storage technology","Implementation of IRA clean energy tax credits HR 1 impacts on energy storage technology"],"years":[2022,2023,2024,2025]}
+{
+  "id": 52129,
+  "name": "ENTEK TECHNOLOGY HOLDING, LLC",
+  "slug": "entek-technology-holding-llc",
+  "state": "OR",
+  "description": "sells lead-acid separators, lithium-ion separators, extruders, and engineering services",
+  "totalSpending": 1400000,
+  "filings": 14,
+  "yearlySpending": [
+    {
+      "year": 2022,
+      "income": 260000
+    },
+    {
+      "year": 2023,
+      "income": 550000
+    },
+    {
+      "year": 2024,
+      "income": 440000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "ALPINE GROUP PARTNERS, LLC."
+  ],
+  "lobbyists": [
+    "RHOD SHAW",
+    "KEENAN AUSTIN REED",
+    "GREG WALDEN",
+    "JENNIFER FORREST",
+    "JASON SCHENDLE",
+    "COLIN BRAINARD"
+  ],
+  "issues": [
+    "CHM",
+    "MAN",
+    "ENG",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "EPA rule making involving TCE",
+    "EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development",
+    "Impact of IIJA on domestic battery manufacturing, research & development",
+    "EPA rule making involving TCE Inflation Reduction Act",
+    "EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act",
+    "Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act",
+    "EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169",
+    "Inflation Reduction Act PL 117-169 EPA rule making involving TCE",
+    "Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169 EPA rule making involving TCE",
+    "EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169 Department of Energy Loan Programs Office",
+    "Implementation of IRA clean energy tax credits",
+    "Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169 EPA rule making involving TCE HR 1 impacts on energy storage technology",
+    "EPA rule making involving TCE Impact of IIJA on domestic battery manufacturing, research & development Inflation Reduction Act PL 117-169 Department of Energy Loan Programs Office HR 1 impacts on energy storage technology",
+    "Implementation of IRA clean energy tax credits HR 1 impacts on energy storage technology"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -42,
+  "trajectory": "reducing",
+  "yearsActive": 4,
+  "avgAnnualSpending": 350000,
+  "peakYear": 2023,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "technology"
+}

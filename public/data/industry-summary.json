@@ -1,0 +1,62 @@
+[
+  {
+    "industry": "healthcare",
+    "totalSpending": 6876738403.010003,
+    "clientCount": 5861,
+    "filings": 94723
+  },
+  {
+    "industry": "technology",
+    "totalSpending": 6384399850.1,
+    "clientCount": 7775,
+    "filings": 99945
+  },
+  {
+    "industry": "energy",
+    "totalSpending": 3717166570.2999997,
+    "clientCount": 3268,
+    "filings": 47669
+  },
+  {
+    "industry": "finance",
+    "totalSpending": 3122746782.0400004,
+    "clientCount": 2247,
+    "filings": 37768
+  },
+  {
+    "industry": "transportation",
+    "totalSpending": 1689277432.7100003,
+    "clientCount": 1508,
+    "filings": 22613
+  },
+  {
+    "industry": "defense",
+    "totalSpending": 1417715301.91,
+    "clientCount": 1639,
+    "filings": 20572
+  },
+  {
+    "industry": "education",
+    "totalSpending": 1012150007.8100002,
+    "clientCount": 1989,
+    "filings": 33765
+  },
+  {
+    "industry": "agriculture",
+    "totalSpending": 766564968.9300002,
+    "clientCount": 1080,
+    "filings": 14425
+  },
+  {
+    "industry": "telecom",
+    "totalSpending": 451570298.2,
+    "clientCount": 381,
+    "filings": 8332
+  },
+  {
+    "industry": "real-estate",
+    "totalSpending": 403202859.5,
+    "clientCount": 985,
+    "filings": 11992
+  }
+]

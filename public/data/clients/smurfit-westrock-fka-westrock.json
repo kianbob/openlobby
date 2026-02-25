@@ -1,1 +1,97 @@
-{"id":113961,"name":"SMURFIT WESTROCK(FKA WESTROCK)","slug":"smurfit-westrock-fka-westrock","state":"GA","description":null,"totalSpending":1600578,"filings":28,"yearlySpending":[{"year":2018,"income":209733},{"year":2019,"income":243530},{"year":2020,"income":225304},{"year":2021,"income":223813},{"year":2022,"income":170702},{"year":2023,"income":243193},{"year":2024,"income":173068},{"year":2025,"income":111235}],"firms":["THE COLLING GROUP, LLC T/A COLLING SWIFT & HYNES"],"lobbyists":["TERESE COLLING","FRANCES MCPOLAND"],"issues":["TAX","ENV","ENG","BUD",null],"sampleDescriptions":["Section 45\nEnergy Tax Credits\nH.R. 1 Tax and Jobs Act\nS.2371","Solid Waste and Recycling Issues\nEnergy and Taxation Issues With Respect to Recycling\nH.R. 2028\nH.R. 5055","Energy Policy\nH.R. 3266\nS.1460","Section 45\nEnergy Tax Credits\nS.2371","Section 45\nEnergy Tax Credits\nTax and Jobs Act\nS.2371\nS.1396 Protecting America's Paper for Recyclnig","Energy and Water Development\nH.R.5895\nS.2975\nH.R.2960\nH.R.2740","Solid Waste and Recycling Issues\nEnergy and Taxation Issues with Respect to Recycling\nH.R.2028\nH.R.5055\nS.1982","Energy Policy","Energy and Water Development\nH.R.2960\nH.R.2740","Section 45\nEnergy Tax Credits\nTax and Jobs Act\nS.1396 Protecting America's Paper for Recyclnig","Solid Waste and Recycling Issues\nEnergy and Taxation Issues with Respect to Recycling\nH.R.2028\nH.R.5055\nS.1982\nPortman Recycling Bill\nDraft Senate Recycling Legislation","Energy Policy\nCLEAN Futures Act","S.2941 RECYCLE Act\nS.1982 Save Our Oceans Act\nS.3263/H.R. 5115 Break Free from Plastic Pollution Act of 2020\nH.R. 5115 RECOVER Act\nH.R. 5906 RECYCLE Bill\nCLEAN Futures Act","Energy and Water Development\nFY 2021 Energy and Water Bill","Energy and Water Development\nFY 2021 Energy and Water Bill\nCoronavirus Relief Legislation","S.984/H.R. 2238 Break Free From Plastic Pollution Act\nS.923/H.R.2159 RECYCLE Act\nH.R.1512 RECOVER Act\nGeneral Recycling Policy and Education","Protect America's Paper for Recycling Act (re-introduction pending)\nH.R.848 GREEN Act\nAdvocate for Legislation to Amend the Internal Revenue Code of 1986 to Modify the Definition of Municipal Solid Waste\nEnergy Tax Credits","S.1376/H.R.3879 Protect America's Paper for Recycling Act (PAPER Act)\nH.R.848 GREEN Act\nClean Energy for America Act (SFC bill)\nEnergy tax credits/incentives","S.984/H.R.2238 Break Free From Plastic Pollution Act\nS.923/H.R.2159 RECYCLE Act\nH.R.1512 CLEAN Future Act\nH.R.2357 RECOVER Act\nH.R.2821 Plastic Waste Reduction & Recycling Act\nAmerican Recycling Infrastructure Act (discussion draft)\nGeneral Recycling Policy and Education","S.1376/H.R.3879 Protect America's Paper for Recycling Act (PAPER Act)\nH.R.848 GREEN Act\nClean Energy for America Act (SFC bill)\nEnergy tax credits/incentives\nS.2118 Clean Energy for America Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 113961,
+  "name": "SMURFIT WESTROCK(FKA WESTROCK)",
+  "slug": "smurfit-westrock-fka-westrock",
+  "state": "GA",
+  "description": null,
+  "totalSpending": 1600578,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 209733
+    },
+    {
+      "year": 2019,
+      "income": 243530
+    },
+    {
+      "year": 2020,
+      "income": 225304
+    },
+    {
+      "year": 2021,
+      "income": 223813
+    },
+    {
+      "year": 2022,
+      "income": 170702
+    },
+    {
+      "year": 2023,
+      "income": 243193
+    },
+    {
+      "year": 2024,
+      "income": 173068
+    },
+    {
+      "year": 2025,
+      "income": 111235
+    }
+  ],
+  "firms": [
+    "THE COLLING GROUP, LLC T/A COLLING SWIFT & HYNES"
+  ],
+  "lobbyists": [
+    "TERESE COLLING",
+    "FRANCES MCPOLAND"
+  ],
+  "issues": [
+    "TAX",
+    "ENV",
+    "ENG",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Section 45\nEnergy Tax Credits\nH.R. 1 Tax and Jobs Act\nS.2371",
+    "Solid Waste and Recycling Issues\nEnergy and Taxation Issues With Respect to Recycling\nH.R. 2028\nH.R. 5055",
+    "Energy Policy\nH.R. 3266\nS.1460",
+    "Section 45\nEnergy Tax Credits\nS.2371",
+    "Section 45\nEnergy Tax Credits\nTax and Jobs Act\nS.2371\nS.1396 Protecting America's Paper for Recyclnig",
+    "Energy and Water Development\nH.R.5895\nS.2975\nH.R.2960\nH.R.2740",
+    "Solid Waste and Recycling Issues\nEnergy and Taxation Issues with Respect to Recycling\nH.R.2028\nH.R.5055\nS.1982",
+    "Energy Policy",
+    "Energy and Water Development\nH.R.2960\nH.R.2740",
+    "Section 45\nEnergy Tax Credits\nTax and Jobs Act\nS.1396 Protecting America's Paper for Recyclnig",
+    "Solid Waste and Recycling Issues\nEnergy and Taxation Issues with Respect to Recycling\nH.R.2028\nH.R.5055\nS.1982\nPortman Recycling Bill\nDraft Senate Recycling Legislation",
+    "Energy Policy\nCLEAN Futures Act",
+    "S.2941 RECYCLE Act\nS.1982 Save Our Oceans Act\nS.3263/H.R. 5115 Break Free from Plastic Pollution Act of 2020\nH.R. 5115 RECOVER Act\nH.R. 5906 RECYCLE Bill\nCLEAN Futures Act",
+    "Energy and Water Development\nFY 2021 Energy and Water Bill",
+    "Energy and Water Development\nFY 2021 Energy and Water Bill\nCoronavirus Relief Legislation",
+    "S.984/H.R. 2238 Break Free From Plastic Pollution Act\nS.923/H.R.2159 RECYCLE Act\nH.R.1512 RECOVER Act\nGeneral Recycling Policy and Education",
+    "Protect America's Paper for Recycling Act (re-introduction pending)\nH.R.848 GREEN Act\nAdvocate for Legislation to Amend the Internal Revenue Code of 1986 to Modify the Definition of Municipal Solid Waste\nEnergy Tax Credits",
+    "S.1376/H.R.3879 Protect America's Paper for Recycling Act (PAPER Act)\nH.R.848 GREEN Act\nClean Energy for America Act (SFC bill)\nEnergy tax credits/incentives",
+    "S.984/H.R.2238 Break Free From Plastic Pollution Act\nS.923/H.R.2159 RECYCLE Act\nH.R.1512 CLEAN Future Act\nH.R.2357 RECOVER Act\nH.R.2821 Plastic Waste Reduction & Recycling Act\nAmerican Recycling Infrastructure Act (discussion draft)\nGeneral Recycling Policy and Education",
+    "S.1376/H.R.3879 Protect America's Paper for Recycling Act (PAPER Act)\nH.R.848 GREEN Act\nClean Energy for America Act (SFC bill)\nEnergy tax credits/incentives\nS.2118 Clean Energy for America Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -47,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 200072,
+  "peakYear": 2019,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 4
+}

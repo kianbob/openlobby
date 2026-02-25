@@ -1,1 +1,97 @@
-{"id":102980,"name":"AFFORDABLE HOUSING DEVELOPERS COUNCIL","slug":"affordable-housing-developers-council","state":"DC","description":"Housing developers working to advance federal policies to meet affordable housing needs.","totalSpending":3260000,"filings":30,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":300000},{"year":2020,"income":360000},{"year":2021,"income":620000},{"year":2022,"income":480000},{"year":2023,"income":480000},{"year":2024,"income":360000},{"year":2025,"income":480000}],"firms":["ACG ADVOCACY"],"lobbyists":["SHERYL COHEN","DAVID URBAN","PATRICK GRANT","ROBERTO FIERRO","CAMERON SEWARD"],"issues":["HOU","TAX","BUD",null,"TRA"],"sampleDescriptions":["Disaster Relief.\nHUD Issues.","GSE Reform.\nTax Reform.\nLow Income Housing Tax Reform.","Appropriations.","Disaster Relief.\nHUD Issues.\nCommunity Reinvestment Act (CRA) Reform.","GSE Reform.\nTax Reform.\nLow Income Housing Tax Credit.","Appropriations","Disaster Relief.\nHUD Issues.\nCommunity Reinvestment Act (CRA) Reform.\nH.R.6800: Health and Economic Recovery Omnibus Emergency Solutions Act or the HEROES Act.","Appropriations.\nPaycheck Protection Program (PPP).","Disaster Relief.\nHUD Issues.\nCommunity Reinvestment Act (CRA) Reform.\nEmergency Rental Assistance.","Disaster Relief. HUD Issues. Community Reinvestment Act (CRA) Reform. Emergency Rental Assistance.","Appropriations. American Rescue Plan (ARP), Public Law 117-2, relief fund.","GSE Reform. Tax Reform. Low Income Housing Tax Credit.","HUD Issues. Community Reinvestment Act (CRA) Reform.","Tax Reform. Low Income Housing Tax Credit.","Transportation issues.","Disaster Relief HUD Issues. Community Reinvestment Act (CRA) Reform. Emergency Rental Assistance."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 102980,
+  "name": "AFFORDABLE HOUSING DEVELOPERS COUNCIL",
+  "slug": "affordable-housing-developers-council",
+  "state": "DC",
+  "description": "Housing developers working to advance federal policies to meet affordable housing needs.",
+  "totalSpending": 3260000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 300000
+    },
+    {
+      "year": 2020,
+      "income": 360000
+    },
+    {
+      "year": 2021,
+      "income": 620000
+    },
+    {
+      "year": 2022,
+      "income": 480000
+    },
+    {
+      "year": 2023,
+      "income": 480000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 480000
+    }
+  ],
+  "firms": [
+    "ACG ADVOCACY"
+  ],
+  "lobbyists": [
+    "SHERYL COHEN",
+    "DAVID URBAN",
+    "PATRICK GRANT",
+    "ROBERTO FIERRO",
+    "CAMERON SEWARD"
+  ],
+  "issues": [
+    "HOU",
+    "TAX",
+    "BUD",
+    null,
+    "TRA"
+  ],
+  "sampleDescriptions": [
+    "Disaster Relief.\nHUD Issues.",
+    "GSE Reform.\nTax Reform.\nLow Income Housing Tax Reform.",
+    "Appropriations.",
+    "Disaster Relief.\nHUD Issues.\nCommunity Reinvestment Act (CRA) Reform.",
+    "GSE Reform.\nTax Reform.\nLow Income Housing Tax Credit.",
+    "Appropriations",
+    "Disaster Relief.\nHUD Issues.\nCommunity Reinvestment Act (CRA) Reform.\nH.R.6800: Health and Economic Recovery Omnibus Emergency Solutions Act or the HEROES Act.",
+    "Appropriations.\nPaycheck Protection Program (PPP).",
+    "Disaster Relief.\nHUD Issues.\nCommunity Reinvestment Act (CRA) Reform.\nEmergency Rental Assistance.",
+    "Disaster Relief. HUD Issues. Community Reinvestment Act (CRA) Reform. Emergency Rental Assistance.",
+    "Appropriations. American Rescue Plan (ARP), Public Law 117-2, relief fund.",
+    "GSE Reform. Tax Reform. Low Income Housing Tax Credit.",
+    "HUD Issues. Community Reinvestment Act (CRA) Reform.",
+    "Tax Reform. Low Income Housing Tax Credit.",
+    "Transportation issues.",
+    "Disaster Relief HUD Issues. Community Reinvestment Act (CRA) Reform. Emergency Rental Assistance."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 167,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 407500,
+  "peakYear": 2021,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "real-estate"
+}

@@ -1,1 +1,77 @@
-{"id":103077,"name":"LIVE NATION ENTERTAINMENT, INC.","slug":"live-nation-entertainment-inc","state":"CA","description":"&#226;€‹Concerts; Sponsorship & Advertising; Ticketing.","totalSpending":1360000,"filings":24,"yearlySpending":[{"year":2019,"income":40000},{"year":2020,"income":290000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":230000},{"year":2024,"income":240000},{"year":2025,"income":160000}],"firms":["ACG ADVOCACY"],"lobbyists":["MICHAEL BARBERA","SHAWN SMEALLIE","JULIE PHILP","MARY O'DEA AHEARN ALLEN","PATRICK GRANT","MANUS COONEY","ROBERTO FIERRO"],"issues":["ART",null],"sampleDescriptions":["Regulatory and legislative issues related to the entertainment industry.","Regulatory and legislative issues related to the live entertainment industry."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 103077,
+  "name": "LIVE NATION ENTERTAINMENT, INC.",
+  "slug": "live-nation-entertainment-inc",
+  "state": "CA",
+  "description": "&#226;€‹Concerts; Sponsorship & Advertising; Ticketing.",
+  "totalSpending": 1360000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 40000
+    },
+    {
+      "year": 2020,
+      "income": 290000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 230000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 160000
+    }
+  ],
+  "firms": [
+    "ACG ADVOCACY"
+  ],
+  "lobbyists": [
+    "MICHAEL BARBERA",
+    "SHAWN SMEALLIE",
+    "JULIE PHILP",
+    "MARY O'DEA AHEARN ALLEN",
+    "PATRICK GRANT",
+    "MANUS COONEY",
+    "ROBERTO FIERRO"
+  ],
+  "issues": [
+    "ART",
+    null
+  ],
+  "sampleDescriptions": [
+    "Regulatory and legislative issues related to the entertainment industry.",
+    "Regulatory and legislative issues related to the live entertainment industry."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 300,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 194286,
+  "peakYear": 2020,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

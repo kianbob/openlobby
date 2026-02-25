@@ -1,1 +1,62 @@
-{"id":210798,"name":"HC HOLDINGS S.A.","slug":"hc-holdings-s-a","state":null,"description":"Industrial conglomerate","totalSpending":3060000,"filings":18,"yearlySpending":[{"year":2021,"income":340000},{"year":2022,"income":680000},{"year":2023,"income":680000},{"year":2024,"income":680000},{"year":2025,"income":680000}],"firms":["VANTAGEKNIGHT LLC"],"lobbyists":["MANUEL ORTIZ"],"issues":["TRD","AGR","IMM","FOR",null],"sampleDescriptions":["Monitoring and tracking all agriculture, immigration, trade and foreign policy issues with regards to northern triangle matters"],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 210798,
+  "name": "HC HOLDINGS S.A.",
+  "slug": "hc-holdings-s-a",
+  "state": null,
+  "description": "Industrial conglomerate",
+  "totalSpending": 3060000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 340000
+    },
+    {
+      "year": 2022,
+      "income": 680000
+    },
+    {
+      "year": 2023,
+      "income": 680000
+    },
+    {
+      "year": 2024,
+      "income": 680000
+    },
+    {
+      "year": 2025,
+      "income": 680000
+    }
+  ],
+  "firms": [
+    "VANTAGEKNIGHT LLC"
+  ],
+  "lobbyists": [
+    "MANUEL ORTIZ"
+  ],
+  "issues": [
+    "TRD",
+    "AGR",
+    "IMM",
+    "FOR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Monitoring and tracking all agriculture, immigration, trade and foreign policy issues with regards to northern triangle matters"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 612000,
+  "peakYear": 2022,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 4
+}

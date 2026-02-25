@@ -1,1 +1,92 @@
-{"id":203809,"name":"SOUTHEASTERN CONFERENCE","slug":"southeastern-conference","state":"AL","description":"Sports and Academic Association","totalSpending":3280000,"filings":21,"yearlySpending":[{"year":2020,"income":490000},{"year":2021,"income":480000},{"year":2022,"income":360000},{"year":2023,"income":750000},{"year":2024,"income":600000},{"year":2025,"income":600000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["ARSHI SIDDIQUI","GORDON BATES","VIRGIL MILLER","ED PAGANO","CASEY HIGGINS","GEOFF VERHOFF","JAMES TUCKER","CARYN LESTER","ALEX MONIE","GALEN ROEHL","BRENDAN DUNN","CHRISTOPHER TREANOR","REGINALD BABIN","ZACH DEATHERAGE","JOE DONNELLY","SAM OLSWANGER"],"issues":["SPO","LBR","IMM",null],"sampleDescriptions":["Legislation regarding promoting the welfare of student-athletes.","Legislation regarding welfare of student athletes.","Legislation regarding welfare of student athletes, including S. 5003.","Legislation regarding student athletes, including (S. 414, the College Athletes Bill of Rights, and S. 238).","Legislation regarding student athletes, including the College Athletes Bill of Rights (S. 414), and  College Athletic Economic Freedom Act (S. 238).","Legislation regarding student athletes, including the College Athletes Bill of Rights (S. 414), and S. 238.","Legislation regarding the welfare of student athletes and college athletics.","Issues related to student visas.","Legislation regarding student athletes and college athletics; S.2495 - Protecting Athletes, Schools, and Sports Act of 2023.","Legislation regarding student athletes and college athletics; S.2495 - Protecting Athletes, Schools, and Sports Act of 2023; H.R. 8534 - Protecting Student Athletes Economic Freedom Act.","Legislation regarding student athletes and college athletics.","Issues related to student athletes and college athletics; Issues related to H.R. 4312 - SCORE Act."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 203809,
+  "name": "SOUTHEASTERN CONFERENCE",
+  "slug": "southeastern-conference",
+  "state": "AL",
+  "description": "Sports and Academic Association",
+  "totalSpending": 3280000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 490000
+    },
+    {
+      "year": 2021,
+      "income": 480000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 750000
+    },
+    {
+      "year": 2024,
+      "income": 600000
+    },
+    {
+      "year": 2025,
+      "income": 600000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "ARSHI SIDDIQUI",
+    "GORDON BATES",
+    "VIRGIL MILLER",
+    "ED PAGANO",
+    "CASEY HIGGINS",
+    "GEOFF VERHOFF",
+    "JAMES TUCKER",
+    "CARYN LESTER",
+    "ALEX MONIE",
+    "GALEN ROEHL",
+    "BRENDAN DUNN",
+    "CHRISTOPHER TREANOR",
+    "REGINALD BABIN",
+    "ZACH DEATHERAGE",
+    "JOE DONNELLY",
+    "SAM OLSWANGER"
+  ],
+  "issues": [
+    "SPO",
+    "LBR",
+    "IMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislation regarding promoting the welfare of student-athletes.",
+    "Legislation regarding welfare of student athletes.",
+    "Legislation regarding welfare of student athletes, including S. 5003.",
+    "Legislation regarding student athletes, including (S. 414, the College Athletes Bill of Rights, and S. 238).",
+    "Legislation regarding student athletes, including the College Athletes Bill of Rights (S. 414), and  College Athletic Economic Freedom Act (S. 238).",
+    "Legislation regarding student athletes, including the College Athletes Bill of Rights (S. 414), and S. 238.",
+    "Legislation regarding the welfare of student athletes and college athletics.",
+    "Issues related to student visas.",
+    "Legislation regarding student athletes and college athletics; S.2495 - Protecting Athletes, Schools, and Sports Act of 2023.",
+    "Legislation regarding student athletes and college athletics; S.2495 - Protecting Athletes, Schools, and Sports Act of 2023; H.R. 8534 - Protecting Student Athletes Economic Freedom Act.",
+    "Legislation regarding student athletes and college athletics.",
+    "Issues related to student athletes and college athletics; Issues related to H.R. 4312 - SCORE Act."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 22,
+  "trajectory": "stable",
+  "yearsActive": 6,
+  "avgAnnualSpending": 546667,
+  "peakYear": 2023,
+  "lobbyistCount": 16,
+  "firmCount": 1,
+  "issueCount": 3
+}

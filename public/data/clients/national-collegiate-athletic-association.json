@@ -1,1 +1,107 @@
-{"id":110119,"name":"NATIONAL COLLEGIATE ATHLETIC ASSOCIATION","slug":"national-collegiate-athletic-association","state":"DC","description":"Administration of Intercollegiate Athletics","totalSpending":2550000,"filings":32,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":360000},{"year":2022,"income":270000},{"year":2023,"income":630000},{"year":2024,"income":270000},{"year":2025,"income":360000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["MARC LAMPKIN","ELIZABETH MAIER","ALFRED MOTTUR","ZACHARY PFISTER","BRIAN MCKEON","GRETA JOYNES","JOHN SONSALLA","BRIAN WILD","LAURA BOLLIER","BRIAN MCGUIRE","MILAN DALAL","NADEAM ELSHAMI","JEROME MURRAY","JOSIAH ADAMS","TRAVIS NORTON","WILLIAM MOSCHELLA","GEOFFREY BURR","MARCKIA HAYES","CARMENCITA WHONDER","ANDREW USYK","GREGORY SUNSTRUM","DAVID REID","SAGE SCHAFTEL","JOHN REISING","JOHN LALIME"],"issues":["SPO","EDU",null],"sampleDescriptions":["Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education","Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education \nH.R. 1804 - Student Athlete Equity Act","Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education\nH.R. 1804 - Student Athlete Equity Act","Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education\nS. 414 - Amateur Athletes Protection and Compensation Act of 2021","Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education\nS. 414 - Amateur Athletes Protection and Compensation Act of 2021\nS. 238, H.R. 850 - College Athlete Economic Freedom Act","Issues related to athletic scholarships, health and safety, gender equity, academic success, the collegiate athletic model, amateurism, and higher education\nS. 414 - Amateur Athletes Protection and Compensation Act of 2021\nS. 238, H.R. 850 - College Athlete Economic Freedom Act\nH.R.2841 - Student Athlete Level Playing Field Act","Issues related to athletic scholarships, health and safety, gender equity, academic success, the collegiate athletic model, amateurism, and higher education S. 414 - Amateur Athletes Protection and Compensation Act of 2021 S. 238, H.R. 850 - College Athlete Economic Freedom Act H.R.2841 - Student Athlete Level Playing Field Act","Issues related to athletic scholarships, health and safety, gender equity, academic success, the collegiate athletic model, amateurism, and higher education S. 414, Amateur Athletes Protection and Compensation Act of 2021 S. 238/H.R. 850, College Athlete Economic Freedom Act H.R. 2841, Student Athlete Level Playing Field Act S. 4969, Athlete Opportunity and Taxpayer Integrity Act","Issues related to NIL, athletic scholarships, health and safety, gender equity, academic success, the collegiate athletic model, amateurism, and higher education"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110119,
+  "name": "NATIONAL COLLEGIATE ATHLETIC ASSOCIATION",
+  "slug": "national-collegiate-athletic-association",
+  "state": "DC",
+  "description": "Administration of Intercollegiate Athletics",
+  "totalSpending": 2550000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 270000
+    },
+    {
+      "year": 2023,
+      "income": 630000
+    },
+    {
+      "year": 2024,
+      "income": 270000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "MARC LAMPKIN",
+    "ELIZABETH MAIER",
+    "ALFRED MOTTUR",
+    "ZACHARY PFISTER",
+    "BRIAN MCKEON",
+    "GRETA JOYNES",
+    "JOHN SONSALLA",
+    "BRIAN WILD",
+    "LAURA BOLLIER",
+    "BRIAN MCGUIRE",
+    "MILAN DALAL",
+    "NADEAM ELSHAMI",
+    "JEROME MURRAY",
+    "JOSIAH ADAMS",
+    "TRAVIS NORTON",
+    "WILLIAM MOSCHELLA",
+    "GEOFFREY BURR",
+    "MARCKIA HAYES",
+    "CARMENCITA WHONDER",
+    "ANDREW USYK",
+    "GREGORY SUNSTRUM",
+    "DAVID REID",
+    "SAGE SCHAFTEL",
+    "JOHN REISING",
+    "JOHN LALIME"
+  ],
+  "issues": [
+    "SPO",
+    "EDU",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education",
+    "Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education \nH.R. 1804 - Student Athlete Equity Act",
+    "Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education\nH.R. 1804 - Student Athlete Equity Act",
+    "Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education\nS. 414 - Amateur Athletes Protection and Compensation Act of 2021",
+    "Issues related to athletic scholarships, health and safety, academic success, the collegiate athletic model, amateurism, and higher education\nS. 414 - Amateur Athletes Protection and Compensation Act of 2021\nS. 238, H.R. 850 - College Athlete Economic Freedom Act",
+    "Issues related to athletic scholarships, health and safety, gender equity, academic success, the collegiate athletic model, amateurism, and higher education\nS. 414 - Amateur Athletes Protection and Compensation Act of 2021\nS. 238, H.R. 850 - College Athlete Economic Freedom Act\nH.R.2841 - Student Athlete Level Playing Field Act",
+    "Issues related to athletic scholarships, health and safety, gender equity, academic success, the collegiate athletic model, amateurism, and higher education S. 414 - Amateur Athletes Protection and Compensation Act of 2021 S. 238, H.R. 850 - College Athlete Economic Freedom Act H.R.2841 - Student Athlete Level Playing Field Act",
+    "Issues related to athletic scholarships, health and safety, gender equity, academic success, the collegiate athletic model, amateurism, and higher education S. 414, Amateur Athletes Protection and Compensation Act of 2021 S. 238/H.R. 850, College Athlete Economic Freedom Act H.R. 2841, Student Athlete Level Playing Field Act S. 4969, Athlete Opportunity and Taxpayer Integrity Act",
+    "Issues related to NIL, athletic scholarships, health and safety, gender equity, academic success, the collegiate athletic model, amateurism, and higher education"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 318750,
+  "peakYear": 2023,
+  "lobbyistCount": 25,
+  "firmCount": 1,
+  "issueCount": 2
+}

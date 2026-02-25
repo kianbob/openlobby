@@ -1,1 +1,104 @@
-{"id":199125,"name":"KINDRED HEALTHCARE D/B/A SCIONHEALTH","slug":"kindred-healthcare-d-b-a-scionhealth","state":"KY","description":"Owner and Operator of Nursing Homes and Long Term Acute Care Hospitals","totalSpending":2270000,"filings":30,"yearlySpending":[{"year":2018,"income":400000},{"year":2019,"income":240000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":250000},{"year":2024,"income":180000},{"year":2025,"income":240000}],"firms":["FIERCE GOVERNMENT RELATIONS"],"lobbyists":["WILLIAM BLALOCK","MICHAEL CHAPPELL","KIRSTEN CHADWICK","ALEIX JARVIS","KATE HULL","WILLIAM PIPER","TYLER STEPHENS","ERIC ZULKOSKY","PATRICK CLIFTON","JACOBUS VREEBURG"],"issues":["MMM","HCR",null],"sampleDescriptions":["Post Acute Care Payment Reform, Issues Relating to the Home Health Groupings Model, Long term acute care hospital reimbursement, Extension of policies in the Medicare Access and CHIP Reauthorization Act of 2015","Post Acute Care Payment Reform, Issues Relating to the Home Health Groupings Model, Long term acute care hospital reimbursement, Inpatient rehabilitation facility reimbursement","Post Acute Care Payment Reform, Long term acute care hospital reimbursement, Inpatient rehabilitation facility reimbursement","Post Acute Care Payment Reform, Long term acute care hospital reimbursement, Inpatient rehabilitation facility reimbursement, Medicare Advantage, VA Home Health Issues","Inpatient rehabilitation facility reimbursement, Long Term Acute Care Hospital reimbursement issues, Home Health, H.R.4378, Continuing Appropriations Act, 2020, and Health Extenders Act of 2019","Inpatient rehabilitation facility reimbursement, Long Term Acute Care Hospital reimbursement issues, Home Health, H.R.4378, Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, H.R. 1865- Further Consolidated Appropriations Act, 2020, General Health Care Issues","Inpatient rehabilitation facility reimbursement, Long Term Acute Care Hospital reimbursement issues, H.R. 3107- Improving Seniors' Timely Access to Care Act, Impact 2.0, Medicaid Fiscal Accountability Regulation, Therapy Payment Proposals, H.R. 6201- Family First Coronavirus Response Act, H.R. 748- CARES Act, COVID-19 Response Efforts, Medicare Advantage","COVID-19 Response Efforts, COVID-19 Relief, CARES Act Implementation, Issues relating to Telehealth","COVID-19 Response Efforts, IMPACT 2.0, S. 3599- Healthcare Workforce Resilience Act, Medicare Unified Payment System, Long-term acute care hospitals, Medicare Accelerate and Advanced Payments Program, CY 2021 Medicare Physician Fee Schedule Rule","COVID-19 Reporting Requirements, COVID-19 Relief Efforts, Medicare Sequester, COVID-19 Liability Protections","Medicare Sequester, COVID-19 Liability Protections, LTACH Criteria, H.R.1319 - American Rescue Plan Act of 2021, COVID-19 Response, H.R.315 - To amend the Coronavirus Aid, Relief, and Economic Security Act to extend the temporary suspension of Medicare sequestration, and for other purposes, S.748 - Medicare Sequester Relief Act","COVID-19 Response, Post Acute Payment Reforms, H.R. 2455- TRIA Act of 2021","H.R. 2455- TRIA Act of 2021, Impact Act","Nominations","LTACH PHE Waivers, Issues related to LTACHs, Rural Hospitals, Medicare Sequester","Labor Shortages in the Healthcare Industry, General Healthcare Issues","Issues related to LTACHs, Rural Hospitals, Post Acute Payment Reform","Issues related to LTACHs, Post Acute Payment Reform, Medicare Low Volume Hospitals and Medicare Dependent Hospitals Extenders, H.R.8580 - The LTCH Access and Stability Act, H.R.6833 - Making continuing appropriations for fiscal year 2023, and for other purposes","Medicare Low Volume Hospitals and Medicare Dependent Hospitals Extenders, H.R.2617 - Consolidated Appropriations Act, 2023","Issues related to LTACs, Issues related to Reimbursements, Cybersecurity Issues, Advanced Payment Program, High Cost Outlier Payments"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199125,
+  "name": "KINDRED HEALTHCARE D/B/A SCIONHEALTH",
+  "slug": "kindred-healthcare-d-b-a-scionhealth",
+  "state": "KY",
+  "description": "Owner and Operator of Nursing Homes and Long Term Acute Care Hospitals",
+  "totalSpending": 2270000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 400000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "FIERCE GOVERNMENT RELATIONS"
+  ],
+  "lobbyists": [
+    "WILLIAM BLALOCK",
+    "MICHAEL CHAPPELL",
+    "KIRSTEN CHADWICK",
+    "ALEIX JARVIS",
+    "KATE HULL",
+    "WILLIAM PIPER",
+    "TYLER STEPHENS",
+    "ERIC ZULKOSKY",
+    "PATRICK CLIFTON",
+    "JACOBUS VREEBURG"
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Post Acute Care Payment Reform, Issues Relating to the Home Health Groupings Model, Long term acute care hospital reimbursement, Extension of policies in the Medicare Access and CHIP Reauthorization Act of 2015",
+    "Post Acute Care Payment Reform, Issues Relating to the Home Health Groupings Model, Long term acute care hospital reimbursement, Inpatient rehabilitation facility reimbursement",
+    "Post Acute Care Payment Reform, Long term acute care hospital reimbursement, Inpatient rehabilitation facility reimbursement",
+    "Post Acute Care Payment Reform, Long term acute care hospital reimbursement, Inpatient rehabilitation facility reimbursement, Medicare Advantage, VA Home Health Issues",
+    "Inpatient rehabilitation facility reimbursement, Long Term Acute Care Hospital reimbursement issues, Home Health, H.R.4378, Continuing Appropriations Act, 2020, and Health Extenders Act of 2019",
+    "Inpatient rehabilitation facility reimbursement, Long Term Acute Care Hospital reimbursement issues, Home Health, H.R.4378, Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, H.R. 1865- Further Consolidated Appropriations Act, 2020, General Health Care Issues",
+    "Inpatient rehabilitation facility reimbursement, Long Term Acute Care Hospital reimbursement issues, H.R. 3107- Improving Seniors' Timely Access to Care Act, Impact 2.0, Medicaid Fiscal Accountability Regulation, Therapy Payment Proposals, H.R. 6201- Family First Coronavirus Response Act, H.R. 748- CARES Act, COVID-19 Response Efforts, Medicare Advantage",
+    "COVID-19 Response Efforts, COVID-19 Relief, CARES Act Implementation, Issues relating to Telehealth",
+    "COVID-19 Response Efforts, IMPACT 2.0, S. 3599- Healthcare Workforce Resilience Act, Medicare Unified Payment System, Long-term acute care hospitals, Medicare Accelerate and Advanced Payments Program, CY 2021 Medicare Physician Fee Schedule Rule",
+    "COVID-19 Reporting Requirements, COVID-19 Relief Efforts, Medicare Sequester, COVID-19 Liability Protections",
+    "Medicare Sequester, COVID-19 Liability Protections, LTACH Criteria, H.R.1319 - American Rescue Plan Act of 2021, COVID-19 Response, H.R.315 - To amend the Coronavirus Aid, Relief, and Economic Security Act to extend the temporary suspension of Medicare sequestration, and for other purposes, S.748 - Medicare Sequester Relief Act",
+    "COVID-19 Response, Post Acute Payment Reforms, H.R. 2455- TRIA Act of 2021",
+    "H.R. 2455- TRIA Act of 2021, Impact Act",
+    "Nominations",
+    "LTACH PHE Waivers, Issues related to LTACHs, Rural Hospitals, Medicare Sequester",
+    "Labor Shortages in the Healthcare Industry, General Healthcare Issues",
+    "Issues related to LTACHs, Rural Hospitals, Post Acute Payment Reform",
+    "Issues related to LTACHs, Post Acute Payment Reform, Medicare Low Volume Hospitals and Medicare Dependent Hospitals Extenders, H.R.8580 - The LTCH Access and Stability Act, H.R.6833 - Making continuing appropriations for fiscal year 2023, and for other purposes",
+    "Medicare Low Volume Hospitals and Medicare Dependent Hospitals Extenders, H.R.2617 - Consolidated Appropriations Act, 2023",
+    "Issues related to LTACs, Issues related to Reimbursements, Cybersecurity Issues, Advanced Payment Program, High Cost Outlier Payments"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -40,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 283750,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "healthcare"
+}

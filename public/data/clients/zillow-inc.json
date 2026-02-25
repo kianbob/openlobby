@@ -1,1 +1,113 @@
-{"id":182856,"name":"ZILLOW INC","slug":"zillow-inc","state":null,"description":null,"totalSpending":2170000,"filings":29,"yearlySpending":[{"year":2018,"income":440000},{"year":2019,"income":270000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["MONUMENT ADVOCACY"],"lobbyists":["CONNOR STUBBS","ANDREW HOWELL","KIMBERLY ELLIS","RICH THOMAS","E. ASHLEY HOY","JOHN MULLIGAN","KATHRYN MILLS","THOMAS HAWKS","CHAN PARK","TIMOTHY PUNKE","CHARLES VERDERY","JOHN MURRAY","BRYAN ALPHIN","ANDERSON HEIMAN","LAWRENCE DUNCAN","JEFFREY GARY","JOSEPH HOEFER","KEN WINGERT","MARK BEDNAR"],"issues":["LBR","HOU","CSP",null,"RES"],"sampleDescriptions":["Competition issues","Issues related to online real estate","Issues related to competition","Issues related to online real estate; mortgage policy","Issues related to data security and privacy","Issues related to online real estate; competition","Issues related to online real estate; competition; Issues relating to Remote Online Notarization: H.R. 4350 - National Defense Authorization Act FY 2022, H.R. 3962 SECURE Act","Issues related to online real estate; competition; Issues relating to Remote Online Notarization: S.1605 (PL 117-81), H.R. 4350, S. 2792 - National Defense Authorization Act, FY 2022, H.R. 3962 SECURE Act","Issues related to online real estate; competition; Issues relating to Remote Online Notarization","Issues related to online real estate; competition.","Issues related to data security and privacy; remote online notarization; and electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022; and S.1409 - Kids Online Safety Act.","Issues related to competition policy in real estate industry.","Issues related to remote online notarization; electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022.","Issues related to online real estate; competition; and issues related to artificial intelligence.","Issues related to data security and privacy; remote online notarization; and electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022; S.1409 - Kids Online Safety Act; and issues related to artificial intelligence.","Issues related to competition policy in real estate industry; and issues related to artificial intelligence.","Issues related to remote online notarization; electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022; and issues related to artificial intelligence.","Issues related to data security and privacy; remote online notarization; and electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022; S.1409/H.R. 7891 - Kids Online Safety Act; S.2073 - Kids Online Safety and Privacy Act; and issues related to artificial intelligence.","Issues related to data security and privacy, and issues related to artificial intelligence."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 182856,
+  "name": "ZILLOW INC",
+  "slug": "zillow-inc",
+  "state": null,
+  "description": null,
+  "totalSpending": 2170000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 440000
+    },
+    {
+      "year": 2019,
+      "income": 270000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "MONUMENT ADVOCACY"
+  ],
+  "lobbyists": [
+    "CONNOR STUBBS",
+    "ANDREW HOWELL",
+    "KIMBERLY ELLIS",
+    "RICH THOMAS",
+    "E. ASHLEY HOY",
+    "JOHN MULLIGAN",
+    "KATHRYN MILLS",
+    "THOMAS HAWKS",
+    "CHAN PARK",
+    "TIMOTHY PUNKE",
+    "CHARLES VERDERY",
+    "JOHN MURRAY",
+    "BRYAN ALPHIN",
+    "ANDERSON HEIMAN",
+    "LAWRENCE DUNCAN",
+    "JEFFREY GARY",
+    "JOSEPH HOEFER",
+    "KEN WINGERT",
+    "MARK BEDNAR"
+  ],
+  "issues": [
+    "LBR",
+    "HOU",
+    "CSP",
+    null,
+    "RES"
+  ],
+  "sampleDescriptions": [
+    "Competition issues",
+    "Issues related to online real estate",
+    "Issues related to competition",
+    "Issues related to online real estate; mortgage policy",
+    "Issues related to data security and privacy",
+    "Issues related to online real estate; competition",
+    "Issues related to online real estate; competition; Issues relating to Remote Online Notarization: H.R. 4350 - National Defense Authorization Act FY 2022, H.R. 3962 SECURE Act",
+    "Issues related to online real estate; competition; Issues relating to Remote Online Notarization: S.1605 (PL 117-81), H.R. 4350, S. 2792 - National Defense Authorization Act, FY 2022, H.R. 3962 SECURE Act",
+    "Issues related to online real estate; competition; Issues relating to Remote Online Notarization",
+    "Issues related to online real estate; competition.",
+    "Issues related to data security and privacy; remote online notarization; and electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022; and S.1409 - Kids Online Safety Act.",
+    "Issues related to competition policy in real estate industry.",
+    "Issues related to remote online notarization; electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022.",
+    "Issues related to online real estate; competition; and issues related to artificial intelligence.",
+    "Issues related to data security and privacy; remote online notarization; and electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022; S.1409 - Kids Online Safety Act; and issues related to artificial intelligence.",
+    "Issues related to competition policy in real estate industry; and issues related to artificial intelligence.",
+    "Issues related to remote online notarization; electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022; and issues related to artificial intelligence.",
+    "Issues related to data security and privacy; remote online notarization; and electronic signatures; H.R.1059 - SECURE Notarization Act of 2023/S.1212 - SECURE Notarization Act of 2023; Reintroduction of S.3715 - E-SIGN Modernization Act of 2022; S.1409/H.R. 7891 - Kids Online Safety Act; S.2073 - Kids Online Safety and Privacy Act; and issues related to artificial intelligence.",
+    "Issues related to data security and privacy, and issues related to artificial intelligence."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -27,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 271250,
+  "peakYear": 2018,
+  "lobbyistCount": 19,
+  "firmCount": 1,
+  "issueCount": 4
+}

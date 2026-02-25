@@ -1,1 +1,91 @@
-{"id":110064,"name":"NAVAJO NATION","slug":"navajo-nation","state":"AZ","description":"Tribal Government","totalSpending":2260000,"filings":25,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":80000},{"year":2023,"income":300000},{"year":2024,"income":660000},{"year":2025,"income":720000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["SARAH MURRAY","LUKE JOHNSON","RYAN SMITH","JASON BUCKNER","NADEAM ELSHAMI","BRIAN MCKEON","ARI ZIMMERMAN","BELLA SEWALL WOLITZ","KATE GONZALES","ANNICK MILLER"],"issues":["IND",null,"GOV"],"sampleDescriptions":["Issues related to the Navajo Utah Water Rights Settlement agreement\nS. 664 - Navajo Utah Water Rights Settlement Act of 2017","Issues related to the Navajo Utah Water Rights Settlement agreement\nS. 1207 - Navajo Utah Water Rights Settlement Act of 2019\nH.R. 644 - Navajo Utah Water Rights Settlement Act of 2019","Issues related to the Navajo Utah Water Rights Settlement agreement\nS. 1207 - Navajo Utah Water Rights Settlement Act of 2019\nH.R. 644 - Navajo Utah Water Rights Settlement Act of 2019\nS.886 - Indian Water Rights Settlement Extension Act","Implementation of the Navajo Utah Water Rights Settlement Act\nPotential infrastructure legislation","Implementation of the Navajo Utah Water Rights Settlement Act\nH.R.3684 - Infrastructure Investment and Jobs Act","Federal legislation relating to water infrastructure and Indian water settlements S.1898/ H.R. 3977 Navajo Gallup Water Supply Project Amendments Act of 2023 S. 3406 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act","H.R. 4374 Energy Opportunity for All Act Issues related to Interior Appropriations BLM land withdrawal issues related to Interior Appropriations","H.R. 4374 Energy Opportunity for All Act BLM land withdrawal issues related to Interior Appropriations","Federal legislation relating to water infrastructure and Indian water settlements S.1898/ H.R. 3977 Navajo Gallup Water Supply Project Amendments Act of 2023 S. 3406 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 4998/ HR. 8945 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2024 S.4633 / H.R. 8940- Northeastern Arizona Indian Water Rights Settlement Act of 2024","Federal legislation relating to water infrastructure and Indian water settlements S.1898/ H.R. 3977 Navajo Gallup Water Supply Project Amendments Act of 2023 S. 3406 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 4998/ HR. 8945 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2024 H.R. 8940- Northeastern Arizona Indian Water Rights Settlement Act of 2024","Federal legislation relating to water infrastructure and Indian water settlements S.637/ H.R. 1482 Navajo Gallup Water Supply Project Amendments Act of 2025 S. 640 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 565/ HR. 1325 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2025","Federal legislation relating to water infrastructure and Indian water settlements S.637/ H.R. 1482 Navajo Gallup Water Supply Project Amendments Act of 2025 S. 640 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 565/ HR. 1325 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2025 S.953/H.R.2025 - Northeastern Arizona Indian Water Rights Settlement Act of 2025 H.R.606 - Energy Opportunities for All Act","Federal legislation relating to water infrastructure and Indian water settlements S.637/ H.R. 1482 Navajo Gallup Water Supply Project Amendments Act of 2025 S. 640 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 565/ HR. 1325 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2025 S.953/H.R.2025 - Northeastern Arizona Indian Water Rights Settlement Act of 2025"],"years":[2018,2019,2020,2021,2023,2024,2025]}
+{
+  "id": 110064,
+  "name": "NAVAJO NATION",
+  "slug": "navajo-nation",
+  "state": "AZ",
+  "description": "Tribal Government",
+  "totalSpending": 2260000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 80000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 660000
+    },
+    {
+      "year": 2025,
+      "income": 720000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "SARAH MURRAY",
+    "LUKE JOHNSON",
+    "RYAN SMITH",
+    "JASON BUCKNER",
+    "NADEAM ELSHAMI",
+    "BRIAN MCKEON",
+    "ARI ZIMMERMAN",
+    "BELLA SEWALL WOLITZ",
+    "KATE GONZALES",
+    "ANNICK MILLER"
+  ],
+  "issues": [
+    "IND",
+    null,
+    "GOV"
+  ],
+  "sampleDescriptions": [
+    "Issues related to the Navajo Utah Water Rights Settlement agreement\nS. 664 - Navajo Utah Water Rights Settlement Act of 2017",
+    "Issues related to the Navajo Utah Water Rights Settlement agreement\nS. 1207 - Navajo Utah Water Rights Settlement Act of 2019\nH.R. 644 - Navajo Utah Water Rights Settlement Act of 2019",
+    "Issues related to the Navajo Utah Water Rights Settlement agreement\nS. 1207 - Navajo Utah Water Rights Settlement Act of 2019\nH.R. 644 - Navajo Utah Water Rights Settlement Act of 2019\nS.886 - Indian Water Rights Settlement Extension Act",
+    "Implementation of the Navajo Utah Water Rights Settlement Act\nPotential infrastructure legislation",
+    "Implementation of the Navajo Utah Water Rights Settlement Act\nH.R.3684 - Infrastructure Investment and Jobs Act",
+    "Federal legislation relating to water infrastructure and Indian water settlements S.1898/ H.R. 3977 Navajo Gallup Water Supply Project Amendments Act of 2023 S. 3406 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act",
+    "H.R. 4374 Energy Opportunity for All Act Issues related to Interior Appropriations BLM land withdrawal issues related to Interior Appropriations",
+    "H.R. 4374 Energy Opportunity for All Act BLM land withdrawal issues related to Interior Appropriations",
+    "Federal legislation relating to water infrastructure and Indian water settlements S.1898/ H.R. 3977 Navajo Gallup Water Supply Project Amendments Act of 2023 S. 3406 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 4998/ HR. 8945 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2024 S.4633 / H.R. 8940- Northeastern Arizona Indian Water Rights Settlement Act of 2024",
+    "Federal legislation relating to water infrastructure and Indian water settlements S.1898/ H.R. 3977 Navajo Gallup Water Supply Project Amendments Act of 2023 S. 3406 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 4998/ HR. 8945 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2024 H.R. 8940- Northeastern Arizona Indian Water Rights Settlement Act of 2024",
+    "Federal legislation relating to water infrastructure and Indian water settlements S.637/ H.R. 1482 Navajo Gallup Water Supply Project Amendments Act of 2025 S. 640 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 565/ HR. 1325 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2025",
+    "Federal legislation relating to water infrastructure and Indian water settlements S.637/ H.R. 1482 Navajo Gallup Water Supply Project Amendments Act of 2025 S. 640 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 565/ HR. 1325 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2025 S.953/H.R.2025 - Northeastern Arizona Indian Water Rights Settlement Act of 2025 H.R.606 - Energy Opportunities for All Act",
+    "Federal legislation relating to water infrastructure and Indian water settlements S.637/ H.R. 1482 Navajo Gallup Water Supply Project Amendments Act of 2025 S. 640 and House Counterpart: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act S. 565/ HR. 1325 Navajo Nation Rio San Jose Stream System Water Rights Settlement Act of 2025 S.953/H.R.2025 - Northeastern Arizona Indian Water Rights Settlement Act of 2025"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 380,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 322857,
+  "peakYear": 2025,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 2
+}

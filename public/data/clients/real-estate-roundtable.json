@@ -1,1 +1,104 @@
-{"id":110084,"name":"REAL ESTATE ROUNDTABLE","slug":"real-estate-roundtable","state":"DC","description":"Represent those who own and finance commercial real estate","totalSpending":1940000,"filings":25,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":320000},{"year":2024,"income":160000},{"year":2025,"income":260000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["GREGORY BERGER","NORMAN BROWNSTEIN","MICHAEL LEVY","WILLIAM MOSCHELLA","MILAN DALAL","BRIAN MCGUIRE","RUSSELL SULLIVAN","TRAVIS NORTON","HAROLD HANCOCK","BRIAN WILD","KATELYNN BRADLEY","NADEAM ELSHAMI","CARMENCITA WHONDER","MARK WARREN","EDWARD ROYCE","JOHN REISING"],"issues":["TAX",null],"sampleDescriptions":["Treatment of real estate under tax reform","Issues related to real estate","Issues related to real estate\nH.R. 748 CARES Act - Issues related to COVID-19 relief","Issues related to real estate\nIssues related to COVID-19 relief","Issues related to real estate\nIssues related to COVID-19 relief; CARES Act","Issues related to real estate tax issues\nIssues related to COVID-19 relief\nH.R.1319 - American Rescue Plan Act of 2021","Issues related to real estate tax issues\nIssues related to COVID-19 relief\nH.R.5376 - Build Back Better Act","Issues related to real estate tax issues Issues related to COVID-19 relief H.R.5376 - Build Back Better Act","Issues related to real estate tax issues H.R. 5376, Inflation Reduction Act of 2022","Issues related to real estate tax; Inflation Reduction Act of 2022 Implementation","Issues related to real estate tax Inflation Reduction Act of 2022 Implementation TCJA Extension","Issues related to real estate tax; Inflation Reduction Act of 2022 Implementation TCJA Extension Business SALT","Issues related to real estate tax; Inflation Reduction Act of 2022 Implementation TCJA Extension Business SALT H.R.1 One Big Beautiful Bill","Issues related to real estate tax; Business SALT H.R.1 Implantation Section 899 of the Tax Code","Issues related to real estate tax; P.L. 119-21 (H.R. 1): One Big Beautiful Bill implementation Section 899 of the Tax Code"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110084,
+  "name": "REAL ESTATE ROUNDTABLE",
+  "slug": "real-estate-roundtable",
+  "state": "DC",
+  "description": "Represent those who own and finance commercial real estate",
+  "totalSpending": 1940000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 160000
+    },
+    {
+      "year": 2025,
+      "income": 260000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "GREGORY BERGER",
+    "NORMAN BROWNSTEIN",
+    "MICHAEL LEVY",
+    "WILLIAM MOSCHELLA",
+    "MILAN DALAL",
+    "BRIAN MCGUIRE",
+    "RUSSELL SULLIVAN",
+    "TRAVIS NORTON",
+    "HAROLD HANCOCK",
+    "BRIAN WILD",
+    "KATELYNN BRADLEY",
+    "NADEAM ELSHAMI",
+    "CARMENCITA WHONDER",
+    "MARK WARREN",
+    "EDWARD ROYCE",
+    "JOHN REISING"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Treatment of real estate under tax reform",
+    "Issues related to real estate",
+    "Issues related to real estate\nH.R. 748 CARES Act - Issues related to COVID-19 relief",
+    "Issues related to real estate\nIssues related to COVID-19 relief",
+    "Issues related to real estate\nIssues related to COVID-19 relief; CARES Act",
+    "Issues related to real estate tax issues\nIssues related to COVID-19 relief\nH.R.1319 - American Rescue Plan Act of 2021",
+    "Issues related to real estate tax issues\nIssues related to COVID-19 relief\nH.R.5376 - Build Back Better Act",
+    "Issues related to real estate tax issues Issues related to COVID-19 relief H.R.5376 - Build Back Better Act",
+    "Issues related to real estate tax issues H.R. 5376, Inflation Reduction Act of 2022",
+    "Issues related to real estate tax; Inflation Reduction Act of 2022 Implementation",
+    "Issues related to real estate tax Inflation Reduction Act of 2022 Implementation TCJA Extension",
+    "Issues related to real estate tax; Inflation Reduction Act of 2022 Implementation TCJA Extension Business SALT",
+    "Issues related to real estate tax; Inflation Reduction Act of 2022 Implementation TCJA Extension Business SALT H.R.1 One Big Beautiful Bill",
+    "Issues related to real estate tax; Business SALT H.R.1 Implantation Section 899 of the Tax Code",
+    "Issues related to real estate tax; P.L. 119-21 (H.R. 1): One Big Beautiful Bill implementation Section 899 of the Tax Code"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 8,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 242500,
+  "peakYear": 2023,
+  "lobbyistCount": 16,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "real-estate"
+}

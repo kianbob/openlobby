@@ -1,1 +1,81 @@
-{"id":204690,"name":"THE HARTFORD FINANCIAL SERVICES GROUP, INC.","slug":"the-hartford-financial-services-group-inc","state":"CT","description":"Insurance and financial services company.","totalSpending":1450000,"filings":25,"yearlySpending":[{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":300000},{"year":2025,"income":250000}],"firms":["RICH FEUER ANDERSON"],"lobbyists":["JARED SAWYER","AMANDA SLATER","JOHN ANDERSON","ANDREW PALMER","BEN HARNEY","THOMAS KOONCE","RASHAWN MITCHELL","JUSTIN SOK"],"issues":["FIN","INS",null,"TAX"],"sampleDescriptions":["Legislation affecting provision of insurance, including H.R.748, the \"CARES Act.\"","Implementation of H.R.748, the \"Coronavirus Aid, Relief, and Economic Security Act.\"  Legislative proposals addressing pandemic risk insurance and business interruption insurance, including H.R.6494, the \"Business Interruption Insurance Coverage Act of 2020.\"","Implementation of H.R.748, the \"Coronavirus Aid, Relief, and Economic Security Act.\"","Legislative proposals addressing pandemic risk insurance and business interruption insurance.","Legislative proposal affecting property and casualty insurance, including flood insurance, auto insurance, and climate risk insurance.","Legislative proposals affecting property and casualty insurance, including flood insurance, auto insurance, and climate risk insurance.","Issues related to corporate taxation.","Legislative proposals affecting property and casualty insurance, including flood insurance, auto insurance, and wildfire insurance."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 204690,
+  "name": "THE HARTFORD FINANCIAL SERVICES GROUP, INC.",
+  "slug": "the-hartford-financial-services-group-inc",
+  "state": "CT",
+  "description": "Insurance and financial services company.",
+  "totalSpending": 1450000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 250000
+    }
+  ],
+  "firms": [
+    "RICH FEUER ANDERSON"
+  ],
+  "lobbyists": [
+    "JARED SAWYER",
+    "AMANDA SLATER",
+    "JOHN ANDERSON",
+    "ANDREW PALMER",
+    "BEN HARNEY",
+    "THOMAS KOONCE",
+    "RASHAWN MITCHELL",
+    "JUSTIN SOK"
+  ],
+  "issues": [
+    "FIN",
+    "INS",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "Legislation affecting provision of insurance, including H.R.748, the \"CARES Act.\"",
+    "Implementation of H.R.748, the \"Coronavirus Aid, Relief, and Economic Security Act.\"  Legislative proposals addressing pandemic risk insurance and business interruption insurance, including H.R.6494, the \"Business Interruption Insurance Coverage Act of 2020.\"",
+    "Implementation of H.R.748, the \"Coronavirus Aid, Relief, and Economic Security Act.\"",
+    "Legislative proposals addressing pandemic risk insurance and business interruption insurance.",
+    "Legislative proposal affecting property and casualty insurance, including flood insurance, auto insurance, and climate risk insurance.",
+    "Legislative proposals affecting property and casualty insurance, including flood insurance, auto insurance, and climate risk insurance.",
+    "Issues related to corporate taxation.",
+    "Legislative proposals affecting property and casualty insurance, including flood insurance, auto insurance, and wildfire insurance."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 39,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 241667,
+  "peakYear": 2024,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "finance"
+}

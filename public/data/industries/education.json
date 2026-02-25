@@ -1,0 +1,434 @@
+{
+  "industry": "education",
+  "totalSpending": 1012150007.8100002,
+  "totalFilings": 33765,
+  "clientCount": 1989,
+  "topClients": [
+    {
+      "name": "NATIONAL EDUCATION ASSOCIATION",
+      "state": "DC",
+      "spending": 29018108,
+      "filings": 110,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN COLLEGE OF CARDIOLOGY",
+      "state": "DC",
+      "spending": 15090000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+      "state": "DC",
+      "spending": 14699242,
+      "filings": 63,
+      "desc": null
+    },
+    {
+      "name": "CALIFORNIA STATE UNIVERSITY",
+      "state": "DC",
+      "spending": 13218424.04,
+      "filings": 58,
+      "desc": null
+    },
+    {
+      "name": "UNIVERSITY OF CALIFORNIA",
+      "state": "CA",
+      "spending": 11350000,
+      "filings": 35,
+      "desc": "Higher education"
+    },
+    {
+      "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION",
+      "state": "DC",
+      "spending": 9757164,
+      "filings": 33,
+      "desc": null
+    },
+    {
+      "name": "UNIVERSITY OF PHOENIX INC",
+      "state": "DC",
+      "spending": 9430000,
+      "filings": 26,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN COLLEGE OF PHYSICIAN SERVICES, INC.",
+      "state": "DC",
+      "spending": 8974869,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS",
+      "state": "DC",
+      "spending": 8322384,
+      "filings": 48,
+      "desc": null
+    },
+    {
+      "name": "UNIVERSITY OF WASHINGTON",
+      "state": "DC",
+      "spending": 8245000,
+      "filings": 74,
+      "desc": null
+    },
+    {
+      "name": "NORTHEASTERN UNIVERSITY",
+      "state": "MA",
+      "spending": 7840215,
+      "filings": 105,
+      "desc": null
+    },
+    {
+      "name": "UNIVERSITY OF PITTSBURGH",
+      "state": "PA",
+      "spending": 6790000,
+      "filings": 64,
+      "desc": null
+    },
+    {
+      "name": "YALE UNIVERSITY",
+      "state": "CT",
+      "spending": 6585000,
+      "filings": 46,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN COLLEGE OF SURGEONS",
+      "state": "DC",
+      "spending": 6425821,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "ADTALEM GLOBAL EDUCATION",
+      "state": "IL",
+      "spending": 6190000,
+      "filings": 45,
+      "desc": null
+    },
+    {
+      "name": "THE TEXAS A&M UNIVERSITY SYSTEM",
+      "state": "TX",
+      "spending": 6144000,
+      "filings": 53,
+      "desc": null
+    },
+    {
+      "name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+      "state": "NY",
+      "spending": 6110000,
+      "filings": 105,
+      "desc": "Education and advocacy on firearms issues"
+    },
+    {
+      "name": "THE TRUSTEES OF PURDUE UNIVERSITY",
+      "state": "IN",
+      "spending": 5975200,
+      "filings": 69,
+      "desc": null
+    },
+    {
+      "name": "ARIZONA STATE UNIVERSITY",
+      "state": "AZ",
+      "spending": 5947110,
+      "filings": 118,
+      "desc": null
+    },
+    {
+      "name": "UNIVERSITY OF ILLINOIS",
+      "state": "IL",
+      "spending": 5905000,
+      "filings": 68,
+      "desc": "Public University"
+    },
+    {
+      "name": "DEFI EDUCATION FUND",
+      "state": "VA",
+      "spending": 5690000,
+      "filings": 60,
+      "desc": "Education on decentralized finance and achieve regulatory clarity for the DeFi ecosystem."
+    },
+    {
+      "name": "EMORY UNIVERSITY",
+      "state": "DC",
+      "spending": 5660000,
+      "filings": 63,
+      "desc": null
+    },
+    {
+      "name": "JOHNS HOPKINS UNIVERSITY",
+      "state": "MD",
+      "spending": 5480000,
+      "filings": 48,
+      "desc": "Educational institution"
+    },
+    {
+      "name": "COLLEGE OF AMERICAN PATHOLOGISTS",
+      "state": "DC",
+      "spending": 5347338,
+      "filings": 33,
+      "desc": null
+    },
+    {
+      "name": "THE UNIVERSITY OF FLORIDA BOARD OF TRUSTEES",
+      "state": "FL",
+      "spending": 5285384,
+      "filings": 33,
+      "desc": null
+    },
+    {
+      "name": "DUKE UNIVERSITY",
+      "state": "NC",
+      "spending": 5228359,
+      "filings": 38,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL ALLIANCE FOR PUBLIC CHARTER SCHOOLS",
+      "state": "DC",
+      "spending": 5134744,
+      "filings": 187,
+      "desc": "Advancing quality growth of public charter school movement"
+    },
+    {
+      "name": "CASE WESTERN RESERVE UNIVERSITY",
+      "state": "OH",
+      "spending": 5132155,
+      "filings": 89,
+      "desc": "Private Higher Learning Institution"
+    },
+    {
+      "name": "CLEMSON UNIVERSITY",
+      "state": "SC",
+      "spending": 5039500,
+      "filings": 108,
+      "desc": "Research and development"
+    },
+    {
+      "name": "UNIVERSITY OF KENTUCKY",
+      "state": "KY",
+      "spending": 5038245,
+      "filings": 60,
+      "desc": "University - Education"
+    },
+    {
+      "name": "UNIVERSITY OF COLORADO",
+      "state": "CO",
+      "spending": 4950634.5600000005,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "PHYSICIAN ASSISTANT EDUCATION ASSOCIATION",
+      "state": "DC",
+      "spending": 4880000,
+      "filings": 67,
+      "desc": "Health professions education association"
+    },
+    {
+      "name": "DREXEL UNIVERSITY",
+      "state": "PA",
+      "spending": 4855760,
+      "filings": 119,
+      "desc": null
+    },
+    {
+      "name": "CORNELL UNIVERSITY",
+      "state": "NY",
+      "spending": 4818000,
+      "filings": 43,
+      "desc": null
+    },
+    {
+      "name": "UNIVERSITY OF NEBRASKA",
+      "state": "NE",
+      "spending": 4780000,
+      "filings": 82,
+      "desc": null
+    },
+    {
+      "name": "UNIVERSITY OF MIAMI",
+      "state": "FL",
+      "spending": 4633867,
+      "filings": 96,
+      "desc": "Private University"
+    },
+    {
+      "name": "UNITED NEGRO COLLEGE FUND INC",
+      "state": "DC",
+      "spending": 4600173,
+      "filings": 32,
+      "desc": null
+    },
+    {
+      "name": "HARVARD UNIVERSITY--PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+      "state": "MA",
+      "spending": 4595000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN ASSOCIATION OF COLLEGES OF OSTEOPATHIC MEDICINE",
+      "state": "MD",
+      "spending": 4562000,
+      "filings": 76,
+      "desc": "Non-profit association representing colleges of osteopathic medicine"
+    },
+    {
+      "name": "UNIVERSITY OF ALASKA",
+      "state": "AK",
+      "spending": 4548000,
+      "filings": 95,
+      "desc": "University/higher educational institution"
+    },
+    {
+      "name": "AMERICAN COUNCIL ON EDUCATION",
+      "state": "DC",
+      "spending": 4490687,
+      "filings": 78,
+      "desc": null
+    },
+    {
+      "name": "UNIVERSITY OF PHOENIX",
+      "state": "DC",
+      "spending": 4380000,
+      "filings": 84,
+      "desc": "Provider of higher education programs for working adults"
+    },
+    {
+      "name": "WASHINGTON STATE UNIVERSITY",
+      "state": "WA",
+      "spending": 4329085,
+      "filings": 90,
+      "desc": null
+    },
+    {
+      "name": "NOVA SOUTHEASTERN UNIVERSITY",
+      "state": "FL",
+      "spending": 4230000,
+      "filings": 99,
+      "desc": "University"
+    },
+    {
+      "name": "NEW YORK UNIVERSITY",
+      "state": "NY",
+      "spending": 4150000,
+      "filings": 45,
+      "desc": null
+    },
+    {
+      "name": "PENNSYLVANIA STATE UNIVERSITY",
+      "state": "PA",
+      "spending": 4090000,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "UNIVERSITY OF CONNECTICUT",
+      "state": "CT",
+      "spending": 3990000,
+      "filings": 59,
+      "desc": "Institution of higher education."
+    },
+    {
+      "name": "UNIVERSITY OF MINNESOTA",
+      "state": "MN",
+      "spending": 3953000,
+      "filings": 94,
+      "desc": "Research university, education, and outreach"
+    },
+    {
+      "name": "STANFORD UNIVERSITY",
+      "state": "CA",
+      "spending": 3950000,
+      "filings": 99,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN COLLEGE OF PHYSICIANS",
+      "state": "DC",
+      "spending": 3852547,
+      "filings": 38,
+      "desc": null
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 99265192.91
+    },
+    {
+      "year": 2019,
+      "spending": 100379851.36999999
+    },
+    {
+      "year": 2020,
+      "spending": 104964035.25
+    },
+    {
+      "year": 2021,
+      "spending": 107066417.21
+    },
+    {
+      "year": 2022,
+      "spending": 127415975.02
+    },
+    {
+      "year": 2023,
+      "spending": 153065237.55
+    },
+    {
+      "year": 2024,
+      "spending": 143441764.98000002
+    },
+    {
+      "year": 2025,
+      "spending": 176551533.52
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "EDU",
+      "count": 19194
+    },
+    {
+      "code": "BUD",
+      "count": 14289
+    },
+    {
+      "code": "HCR",
+      "count": 4513
+    },
+    {
+      "code": "DEF",
+      "count": 4358
+    },
+    {
+      "code": "SCI",
+      "count": 3785
+    },
+    {
+      "code": "TAX",
+      "count": 2451
+    },
+    {
+      "code": "AGR",
+      "count": 2335
+    },
+    {
+      "code": "IMM",
+      "count": 2314
+    },
+    {
+      "code": "ENG",
+      "count": 1485
+    },
+    {
+      "code": "MMM",
+      "count": 1351
+    }
+  ]
+}

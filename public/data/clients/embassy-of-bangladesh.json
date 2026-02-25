@@ -1,1 +1,66 @@
-{"id":106657,"name":"EMBASSY OF BANGLADESH","slug":"embassy-of-bangladesh","state":"DC","description":"Foreign Government","totalSpending":1580000,"filings":20,"yearlySpending":[{"year":2018,"income":300000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":240000},{"year":2022,"income":320000},{"year":2023,"income":80000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["WALKER ROBERTS","MAYA SEIDEN","MARK TAVLARIDES"],"issues":["FOR",null],"sampleDescriptions":["Bilateral U.S.-Bangladesh relations"],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 106657,
+  "name": "EMBASSY OF BANGLADESH",
+  "slug": "embassy-of-bangladesh",
+  "state": "DC",
+  "description": "Foreign Government",
+  "totalSpending": 1580000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 300000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 80000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "WALKER ROBERTS",
+    "MAYA SEIDEN",
+    "MARK TAVLARIDES"
+  ],
+  "issues": [
+    "FOR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Bilateral U.S.-Bangladesh relations"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -73,
+  "trajectory": "declining",
+  "yearsActive": 6,
+  "avgAnnualSpending": 263333,
+  "peakYear": 2019,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

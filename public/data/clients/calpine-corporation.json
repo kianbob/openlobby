@@ -1,1 +1,77 @@
-{"id":207989,"name":"CALPINE CORPORATION","slug":"calpine-corporation","state":"TX","description":"Generator of electricity from natural gas and geothermal resources","totalSpending":1720000,"filings":21,"yearlySpending":[{"year":2020,"income":10000},{"year":2021,"income":270000},{"year":2022,"income":360000},{"year":2023,"income":360000},{"year":2024,"income":360000},{"year":2025,"income":360000}],"firms":["CASSIDY & ASSOCIATES, INC."],"lobbyists":["KAI ANDERSON","RUSSELL THOMASSON","RYAN MULVENON","JOHN DEARBORN","JORDAN BERNSTEIN"],"issues":["ENG","TAX",null],"sampleDescriptions":["Issues relating to merchant power generation and competitive electricity markets","Issues relating to merchant power generation and competitive electricity markets.","Issues relating to merchant power generation, competitive electricity markets, and carbon capture, utilization, and sequestration.","Issues related to carbon capture, utilization, and storage tax matters\nCATCH Act, S. 2230\n45Q Carbon Capture Utilization and Storage Tax Credit Amendments Act of 2020, S. 986","Issues related to carbon capture, utilization, and storage tax matters\nCATCH Act, S.2230\n45Q Carbon Capture Utilization and Storage Tax Credit Amendments Act of 2020, S.986\nH.R.5376, Build Back Better Act","Issues related to carbon capture, utilization, and storage tax matters CATCH Act, S.2230 45Q Carbon Capture Utilization and Storage Tax Credit Amendments Act of 2020, S.986 H.R.5376, Build Back Better Act","Issues related to carbon capture, utilization, and storage tax matters H.R.5376, Inflation Reduction Act","Issues regarding power generation and carbon capture"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 207989,
+  "name": "CALPINE CORPORATION",
+  "slug": "calpine-corporation",
+  "state": "TX",
+  "description": "Generator of electricity from natural gas and geothermal resources",
+  "totalSpending": 1720000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 10000
+    },
+    {
+      "year": 2021,
+      "income": 270000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "CASSIDY & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "KAI ANDERSON",
+    "RUSSELL THOMASSON",
+    "RYAN MULVENON",
+    "JOHN DEARBORN",
+    "JORDAN BERNSTEIN"
+  ],
+  "issues": [
+    "ENG",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues relating to merchant power generation and competitive electricity markets",
+    "Issues relating to merchant power generation and competitive electricity markets.",
+    "Issues relating to merchant power generation, competitive electricity markets, and carbon capture, utilization, and sequestration.",
+    "Issues related to carbon capture, utilization, and storage tax matters\nCATCH Act, S. 2230\n45Q Carbon Capture Utilization and Storage Tax Credit Amendments Act of 2020, S. 986",
+    "Issues related to carbon capture, utilization, and storage tax matters\nCATCH Act, S.2230\n45Q Carbon Capture Utilization and Storage Tax Credit Amendments Act of 2020, S.986\nH.R.5376, Build Back Better Act",
+    "Issues related to carbon capture, utilization, and storage tax matters CATCH Act, S.2230 45Q Carbon Capture Utilization and Storage Tax Credit Amendments Act of 2020, S.986 H.R.5376, Build Back Better Act",
+    "Issues related to carbon capture, utilization, and storage tax matters H.R.5376, Inflation Reduction Act",
+    "Issues regarding power generation and carbon capture"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 3500,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 286667,
+  "peakYear": 2022,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "energy"
+}

@@ -1,1 +1,473 @@
-{"code":"REL","name":"Religion","totalSpending":5166000,"totalFilings":549,"yearlySpending":[{"year":2018,"income":216000,"filings":66},{"year":2019,"income":216000,"filings":78},{"year":2020,"income":172000,"filings":76},{"year":2021,"income":689000,"filings":75},{"year":2022,"income":835000,"filings":64},{"year":2023,"income":930000,"filings":71},{"year":2024,"income":845000,"filings":52},{"year":2025,"income":1263000,"filings":67}],"topClients":[{"name":"PROTECT THE 1ST, INC.","income":910000},{"name":"THE JEWISH FEDERATIONS OF NORTH AMERICA","income":810000},{"name":"FREEDOM FROM RELIGION FOUNDATION","income":780000},{"name":"DIRSHU INTERNATIONAL","income":505000},{"name":"GUIDESTONE FINANCIAL RESOURCES","income":360000},{"name":"AMERICAN FRIENDS OF NOTRE DAME UNIVERSITY","income":200000},{"name":"LIBERTY HEALTHSHARE","income":180000},{"name":"FRANCISCAN CUSTODY OF THE HOLY LAND","income":170000},{"name":"SIKHS FOR JUSTICE","income":160000},{"name":"CONFERENCE OF PROVINCIALS OF NORTH AMERICA","income":130000},{"name":"AMSTERDAM & PARTNERS LLP ON BEHALF OF THE UKRAINIAN ORTHODOX CHURCH","income":130000},{"name":"CHRISTIAN COALITION OF AMERICA","income":108000},{"name":"HUMAN RIGHTS CAMPAIGN","income":90000},{"name":"FREEDOM FOR ALL AMERICANS","income":80000},{"name":"CHURCH COMMUNITIES INC.","income":60000},{"name":"AMERICAN DAWOODI BOHRAS, A 501(C)(4) CORPORATION","income":60000},{"name":"CHRISTIAN CAMP AND CONFERENCE ASSOCIATION","income":53000},{"name":"GLOBAL GENEROSITY, INC.","income":50000},{"name":"NMAR, INC.","income":45000},{"name":"INTERNATIONAL CHRISTIAN CHAMBER OF COMMERCE","income":45000},{"name":"ONE FREE WORLD INTERNATIONAL","income":40000},{"name":"CORPORATION OF THE PRESIDENT OF THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS","income":40000},{"name":"ARARAT CONSERVATION INC.","income":40000},{"name":"HINDU AMERICAN FOUNDATION","income":40000},{"name":"COMBAT HATE FOUNDATION","income":25000},{"name":"COMMITTEE FOR RESPONSIBLE FOREIGN POLICY","income":20000},{"name":"CONGRESSIONAL COLLEAGUES, LLC","income":15000},{"name":"NATIONAL COUNCIL OF JEWISH WOMEN","income":10000},{"name":"THE LIVINGSTON GROUP, LLC (FOR SIKHS FOR JUSTICE)","income":10000}],"topFirms":[{"name":"GOODLATTE GROUP, LLC F.K.A. ROBERT GOODLATTE","income":900000},{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":810000},{"name":"FREEDOM FROM RELIGION FOUNDATION","income":780000},{"name":"MERKAVA STRATEGIES CORPORATION","income":550000},{"name":"LOBBYIT.COM","income":360000},{"name":"RTK CONSULTING GROUP LLC","income":200000},{"name":"OFF HILL STRATEGIES L.L.C.","income":180000},{"name":"BLANK ROME GOVERNMENT RELATIONS","income":170000},{"name":"THE LIVINGSTON GROUP, LLC","income":160000},{"name":"NATIONAL ADVOCACY CENTER OF THE SISTERS OF THE GOOD SHEPHERD","income":130000},{"name":"NELSON MULLINS RILEY & SCARBOROUGH","income":130000},{"name":"JAMES BACKLIN","income":108000},{"name":"FORBES-TATE","income":90000},{"name":"BOLTON-ST. JOHNS, LLC","income":80000},{"name":"ONMESSAGE PUBLIC STRATEGIES","income":60000},{"name":"MO STRATEGIES, INC.","income":60000},{"name":"ASCEND CONSULTING","income":53000},{"name":"CT GROUP FKA CTF GLOBAL LLC","income":40000},{"name":"JOHN T. DOOLITTLE, LLC","income":40000},{"name":"APCO WORLDWIDE LLC","income":40000},{"name":"BALLARD PARTNERS","income":40000},{"name":"TIGER HILL PARTNERS LLC","income":40000},{"name":"BRIAN WALSH","income":30000},{"name":"WINNING STRATEGIES WASHINGTON","income":25000},{"name":"DGSR LLC","income":20000},{"name":"MR. BRIAN WALSH","income":20000},{"name":"MR. MARK WALKER","income":15000},{"name":"NATIONAL COUNCIL OF JEWISH WOMEN","income":10000},{"name":"BELL & LINDSAY, INC.","income":10000},{"name":"SCHAERR JAFFE LLP","income":10000}],"sampleDescriptions":["Opposed weakening the Johnson Amendment because our houses of worship could be torn apart by partisan campaign politics.","Do No Harm Act HR5272. Supported making religious freedom of 1993 inapplicable to federal laws.","Conscience Protection Act of 2017 (H.R. 644, S. 301) - Supported the permanent codification protections for individual and institutional health care providers' conscience rights and provide remedies f","S.2453 - Ensuring the Value of the 340B Program Act of 2018","CFI opposes school voucher programs, which divert money from public schools to private religious schools that are permitted to discriminate in admissions and employment. In the 1st Quarter of 2018, CF","H.R. 3354 Make America Secure and Prosperous Appropriations Act 2018: Conscience protections and abortion funding restrictions. \n\nH.R. 2405 Federal Disaster Assistance Nonprofit Fairness Act of 2018: ","International and domestic religious freedom; First Amendment Defense Act (S.2525) to prevent federal discriminatory action based on religious belief or moral conviction about marriage.","Lobbying in favor of H. Res. 349, which seeks to end blasphemy laws around the world. Currently lobbying to introduce a companion resolution in the Senate, and asking Representatives to co-sponsor the","Protecting Religiously Affiliated Institutions Act (S 994 / HR 1730)","Oppose the Department of Health and Human Services (HHS) Notice of Proposed Rulemaking (NPRM) which would create protections for health care workers who refuse to administer services that violate thei","S.811, Child Welfare Provider Inclusion Act (Enzi) \nOpposition to Pro-abortion \"Bipartisan Health Care Stabilization Act of 2017\" (Alexander-Murray) Opposition to Pro-abortion \"Lower Premiums Through ","Monitored issues relating to the civil rights and civil liberties of nontheist Americans. Monitored issues relating to the civil rights and civil liberties of nontheist Americans and to the Free Exerc","LGBTQ nondiscrimination, particularly when religion is used as a shield against complying with other generally applicable law.","Supported the Protecting Religiously Affiliated Institutions Act (S.994)","The National Defense Authorization Act.  Refugees.  Bigotry against Muslims.  Executive branch nominations. Guantanamo.  Increasing the U.S. contribution to the UN Voluntary Fund for Victims of Tortur","Our mission together will be to continue to develop faith based/ Muslim businesses and business owners seeking to do business in the United States.","CFI opposes school voucher programs, which divert money from public schools to private religious schools that are permitted to discriminate in admissions and employment. In the 2nd Quarter of 2018, CF","H.R. 4-FAA Re authorization Act of 2018-Religious Liberty\n\nH.R. 390-Iraq and Syria Genocide Emergency Relief and Accountability Act of 2017. International Religious Freedom. \n\nH. Con. Res. Affirm the ","Congress needs to reassert its Article I powers over the President in matters of war to avoid unauthorized conflicts that many times lead to the slaughter of Christians and other religious minorities.","International religious freedom; Religious freedom provisions in the Promoting Real Opportunity, Success, and Prosperity through Education Reform (PROSPER) Act (H.R. 4508)"]}
+{
+  "code": "REL",
+  "name": "Religion",
+  "totalSpending": 5166000,
+  "totalFilings": 549,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 216000,
+      "filings": 66
+    },
+    {
+      "year": 2019,
+      "income": 216000,
+      "filings": 78
+    },
+    {
+      "year": 2020,
+      "income": 172000,
+      "filings": 76
+    },
+    {
+      "year": 2021,
+      "income": 689000,
+      "filings": 75
+    },
+    {
+      "year": 2022,
+      "income": 835000,
+      "filings": 64
+    },
+    {
+      "year": 2023,
+      "income": 930000,
+      "filings": 71
+    },
+    {
+      "year": 2024,
+      "income": 845000,
+      "filings": 52
+    },
+    {
+      "year": 2025,
+      "income": 1263000,
+      "filings": 67
+    }
+  ],
+  "topClients": [
+    {
+      "name": "PROTECT THE 1ST, INC.",
+      "income": 910000
+    },
+    {
+      "name": "THE JEWISH FEDERATIONS OF NORTH AMERICA",
+      "income": 810000
+    },
+    {
+      "name": "FREEDOM FROM RELIGION FOUNDATION",
+      "income": 780000
+    },
+    {
+      "name": "DIRSHU INTERNATIONAL",
+      "income": 505000
+    },
+    {
+      "name": "GUIDESTONE FINANCIAL RESOURCES",
+      "income": 360000
+    },
+    {
+      "name": "AMERICAN FRIENDS OF NOTRE DAME UNIVERSITY",
+      "income": 200000
+    },
+    {
+      "name": "LIBERTY HEALTHSHARE",
+      "income": 180000
+    },
+    {
+      "name": "FRANCISCAN CUSTODY OF THE HOLY LAND",
+      "income": 170000
+    },
+    {
+      "name": "SIKHS FOR JUSTICE",
+      "income": 160000
+    },
+    {
+      "name": "CONFERENCE OF PROVINCIALS OF NORTH AMERICA",
+      "income": 130000
+    },
+    {
+      "name": "AMSTERDAM & PARTNERS LLP ON BEHALF OF THE UKRAINIAN ORTHODOX CHURCH",
+      "income": 130000
+    },
+    {
+      "name": "CHRISTIAN COALITION OF AMERICA",
+      "income": 108000
+    },
+    {
+      "name": "HUMAN RIGHTS CAMPAIGN",
+      "income": 90000
+    },
+    {
+      "name": "FREEDOM FOR ALL AMERICANS",
+      "income": 80000
+    },
+    {
+      "name": "CHURCH COMMUNITIES INC.",
+      "income": 60000
+    },
+    {
+      "name": "AMERICAN DAWOODI BOHRAS, A 501(C)(4) CORPORATION",
+      "income": 60000
+    },
+    {
+      "name": "CHRISTIAN CAMP AND CONFERENCE ASSOCIATION",
+      "income": 53000
+    },
+    {
+      "name": "GLOBAL GENEROSITY, INC.",
+      "income": 50000
+    },
+    {
+      "name": "NMAR, INC.",
+      "income": 45000
+    },
+    {
+      "name": "INTERNATIONAL CHRISTIAN CHAMBER OF COMMERCE",
+      "income": 45000
+    },
+    {
+      "name": "ONE FREE WORLD INTERNATIONAL",
+      "income": 40000
+    },
+    {
+      "name": "CORPORATION OF THE PRESIDENT OF THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS",
+      "income": 40000
+    },
+    {
+      "name": "ARARAT CONSERVATION INC.",
+      "income": 40000
+    },
+    {
+      "name": "HINDU AMERICAN FOUNDATION",
+      "income": 40000
+    },
+    {
+      "name": "COMBAT HATE FOUNDATION",
+      "income": 25000
+    },
+    {
+      "name": "COMMITTEE FOR RESPONSIBLE FOREIGN POLICY",
+      "income": 20000
+    },
+    {
+      "name": "CONGRESSIONAL COLLEAGUES, LLC",
+      "income": 15000
+    },
+    {
+      "name": "NATIONAL COUNCIL OF JEWISH WOMEN",
+      "income": 10000
+    },
+    {
+      "name": "THE LIVINGSTON GROUP, LLC (FOR SIKHS FOR JUSTICE)",
+      "income": 10000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "GOODLATTE GROUP, LLC F.K.A. ROBERT GOODLATTE",
+      "income": 900000
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 810000
+    },
+    {
+      "name": "FREEDOM FROM RELIGION FOUNDATION",
+      "income": 780000
+    },
+    {
+      "name": "MERKAVA STRATEGIES CORPORATION",
+      "income": 550000
+    },
+    {
+      "name": "LOBBYIT.COM",
+      "income": 360000
+    },
+    {
+      "name": "RTK CONSULTING GROUP LLC",
+      "income": 200000
+    },
+    {
+      "name": "OFF HILL STRATEGIES L.L.C.",
+      "income": 180000
+    },
+    {
+      "name": "BLANK ROME GOVERNMENT RELATIONS",
+      "income": 170000
+    },
+    {
+      "name": "THE LIVINGSTON GROUP, LLC",
+      "income": 160000
+    },
+    {
+      "name": "NATIONAL ADVOCACY CENTER OF THE SISTERS OF THE GOOD SHEPHERD",
+      "income": 130000
+    },
+    {
+      "name": "NELSON MULLINS RILEY & SCARBOROUGH",
+      "income": 130000
+    },
+    {
+      "name": "JAMES BACKLIN",
+      "income": 108000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 90000
+    },
+    {
+      "name": "BOLTON-ST. JOHNS, LLC",
+      "income": 80000
+    },
+    {
+      "name": "ONMESSAGE PUBLIC STRATEGIES",
+      "income": 60000
+    },
+    {
+      "name": "MO STRATEGIES, INC.",
+      "income": 60000
+    },
+    {
+      "name": "ASCEND CONSULTING",
+      "income": 53000
+    },
+    {
+      "name": "CT GROUP FKA CTF GLOBAL LLC",
+      "income": 40000
+    },
+    {
+      "name": "JOHN T. DOOLITTLE, LLC",
+      "income": 40000
+    },
+    {
+      "name": "APCO WORLDWIDE LLC",
+      "income": 40000
+    },
+    {
+      "name": "BALLARD PARTNERS",
+      "income": 40000
+    },
+    {
+      "name": "TIGER HILL PARTNERS LLC",
+      "income": 40000
+    },
+    {
+      "name": "BRIAN WALSH",
+      "income": 30000
+    },
+    {
+      "name": "WINNING STRATEGIES WASHINGTON",
+      "income": 25000
+    },
+    {
+      "name": "DGSR LLC",
+      "income": 20000
+    },
+    {
+      "name": "MR. BRIAN WALSH",
+      "income": 20000
+    },
+    {
+      "name": "MR. MARK WALKER",
+      "income": 15000
+    },
+    {
+      "name": "NATIONAL COUNCIL OF JEWISH WOMEN",
+      "income": 10000
+    },
+    {
+      "name": "BELL & LINDSAY, INC.",
+      "income": 10000
+    },
+    {
+      "name": "SCHAERR JAFFE LLP",
+      "income": 10000
+    }
+  ],
+  "sampleDescriptions": [
+    "Opposed weakening the Johnson Amendment because our houses of worship could be torn apart by partisan campaign politics.",
+    "Do No Harm Act HR5272. Supported making religious freedom of 1993 inapplicable to federal laws.",
+    "Conscience Protection Act of 2017 (H.R. 644, S. 301) - Supported the permanent codification protections for individual and institutional health care providers' conscience rights and provide remedies f",
+    "S.2453 - Ensuring the Value of the 340B Program Act of 2018",
+    "CFI opposes school voucher programs, which divert money from public schools to private religious schools that are permitted to discriminate in admissions and employment. In the 1st Quarter of 2018, CF",
+    "H.R. 3354 Make America Secure and Prosperous Appropriations Act 2018: Conscience protections and abortion funding restrictions. \n\nH.R. 2405 Federal Disaster Assistance Nonprofit Fairness Act of 2018: ",
+    "International and domestic religious freedom; First Amendment Defense Act (S.2525) to prevent federal discriminatory action based on religious belief or moral conviction about marriage.",
+    "Lobbying in favor of H. Res. 349, which seeks to end blasphemy laws around the world. Currently lobbying to introduce a companion resolution in the Senate, and asking Representatives to co-sponsor the",
+    "Protecting Religiously Affiliated Institutions Act (S 994 / HR 1730)",
+    "Oppose the Department of Health and Human Services (HHS) Notice of Proposed Rulemaking (NPRM) which would create protections for health care workers who refuse to administer services that violate thei",
+    "S.811, Child Welfare Provider Inclusion Act (Enzi) \nOpposition to Pro-abortion \"Bipartisan Health Care Stabilization Act of 2017\" (Alexander-Murray) Opposition to Pro-abortion \"Lower Premiums Through ",
+    "Monitored issues relating to the civil rights and civil liberties of nontheist Americans. Monitored issues relating to the civil rights and civil liberties of nontheist Americans and to the Free Exerc",
+    "LGBTQ nondiscrimination, particularly when religion is used as a shield against complying with other generally applicable law.",
+    "Supported the Protecting Religiously Affiliated Institutions Act (S.994)",
+    "The National Defense Authorization Act.  Refugees.  Bigotry against Muslims.  Executive branch nominations. Guantanamo.  Increasing the U.S. contribution to the UN Voluntary Fund for Victims of Tortur",
+    "Our mission together will be to continue to develop faith based/ Muslim businesses and business owners seeking to do business in the United States.",
+    "CFI opposes school voucher programs, which divert money from public schools to private religious schools that are permitted to discriminate in admissions and employment. In the 2nd Quarter of 2018, CF",
+    "H.R. 4-FAA Re authorization Act of 2018-Religious Liberty\n\nH.R. 390-Iraq and Syria Genocide Emergency Relief and Accountability Act of 2017. International Religious Freedom. \n\nH. Con. Res. Affirm the ",
+    "Congress needs to reassert its Article I powers over the President in matters of war to avoid unauthorized conflicts that many times lead to the slaughter of Christians and other religious minorities.",
+    "International religious freedom; Religious freedom provisions in the Promoting Real Opportunity, Success, and Prosperity through Education Reform (PROSPER) Act (H.R. 4508)"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 17,
+      "spending": 49951.878787878784
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 16,
+      "spending": 118985.7261904762
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 14,
+      "spending": 74433.75974025973
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 19,
+      "spending": 97724.84523809524
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 20,
+      "spending": 65583.7261904762
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 19,
+      "spending": 65752.97619047618
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 18,
+      "spending": 96914.12601626015
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 21,
+      "spending": 268310.1984126984
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 22,
+      "spending": 134702.80423280425
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 13,
+      "spending": 95742.61904761907
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 26,
+      "spending": 119031.0238095238
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 15,
+      "spending": 98178.45238095238
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 19,
+      "spending": 99307.08874458873
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 17,
+      "spending": 102051.94805194804
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 19,
+      "spending": 130199.1341991342
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 20,
+      "spending": 166257.0432900433
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 17,
+      "spending": 122776.78571428572
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 16,
+      "spending": 184023.80952380953
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 16,
+      "spending": 90043.29004329006
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 15,
+      "spending": 123595.2380952381
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 17,
+      "spending": 122333.33333333333
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 20,
+      "spending": 195609.5238095238
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 18,
+      "spending": 186923.5294117647
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 16,
+      "spending": 145530.30303030304
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 10,
+      "spending": 97500
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 17,
+      "spending": 218000
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 12,
+      "spending": 100568.18181818182
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 13,
+      "spending": 132916.6666666667
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 14,
+      "spending": 184500
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 15,
+      "spending": 275833.3333333334
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 19,
+      "spending": 179500
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 19,
+      "spending": 149583.33333333334
+    }
+  ],
+  "totalEstimatedSpending": 4292365
+}

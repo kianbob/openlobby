@@ -1,1 +1,99 @@
-{"id":112460,"name":"UNIVERSITY OF PITTSBURGH, SCHOOL OF HEALTH AND REHABILITATION SCIENCES","slug":"university-of-pittsburgh-school-of-health-and-rehabilitation-sciences","state":"PA","description":"Instituion of higher education","totalSpending":1350000,"filings":27,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":150000}],"firms":["CASSIDY & ASSOCIATES, INC."],"lobbyists":["BARRY RHOADS","MICHELLE GREENE","TERRY PAUL","CHARLES SYDNOR","MICHAEL JOHNSON"],"issues":["HOM","DEF","BUD",null],"sampleDescriptions":["Human Performance and Injury Prevention","FY18 & FY19 Department of Defense Appropriations Act (HR.3219)\nMedical Research & Development \nHuman Performance and Injury Prevention \nCorrosion","FY18 & FY19 Department of Defense Appropriations Act (H.R.3219)","FY18(H.R.3219) & FY19(H.R.6157) Department of Defense Appropriations Act \nMedical Research & Development \nHuman Performance and Injury Prevention \nCorrosion","FY18(H.R.3219) & FY19(H.R.6157) Department of Defense Appropriations Act","FY19(H.R.6157 & S.3159) Department of Defense Appropriations Act \nMedical Research & Development \nHuman Performance and Injury Prevention","FY19(H.R.6157 & S.3159) Department of Defense Appropriations Act","FY20 Department of Defense Appropriations Act","FY20 Department of Defense Appropriations Act\nMedical Research & Development\nHuman Performance and Injury Prevention","FY21 Department of Defense Appropriations Act","FY21 Department of Defense Appropriations Act\nMedical Research & Development\nHuman Performance and Injury Prevention","FY22 Department of Defense Appropriations Act","FY22 Department of Defense Appropriations Act\nMedical Research & Development\nHuman Performance and Injury Prevention","FY23 Department of Defense Appropriations Act","FY23 Department of Defense Appropriations Act Medical Research & Development Human Performance and Injury Prevention","FY2025 Defense Appropriations Bill","FY2025 Defense Appropriations Bill, military medical research","FY2026 Defense Appropriations Bills","FY2026 Defense Appropriations Bills, military medical research"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 112460,
+  "name": "UNIVERSITY OF PITTSBURGH, SCHOOL OF HEALTH AND REHABILITATION SCIENCES",
+  "slug": "university-of-pittsburgh-school-of-health-and-rehabilitation-sciences",
+  "state": "PA",
+  "description": "Instituion of higher education",
+  "totalSpending": 1350000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "CASSIDY & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "BARRY RHOADS",
+    "MICHELLE GREENE",
+    "TERRY PAUL",
+    "CHARLES SYDNOR",
+    "MICHAEL JOHNSON"
+  ],
+  "issues": [
+    "HOM",
+    "DEF",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Human Performance and Injury Prevention",
+    "FY18 & FY19 Department of Defense Appropriations Act (HR.3219)\nMedical Research & Development \nHuman Performance and Injury Prevention \nCorrosion",
+    "FY18 & FY19 Department of Defense Appropriations Act (H.R.3219)",
+    "FY18(H.R.3219) & FY19(H.R.6157) Department of Defense Appropriations Act \nMedical Research & Development \nHuman Performance and Injury Prevention \nCorrosion",
+    "FY18(H.R.3219) & FY19(H.R.6157) Department of Defense Appropriations Act",
+    "FY19(H.R.6157 & S.3159) Department of Defense Appropriations Act \nMedical Research & Development \nHuman Performance and Injury Prevention",
+    "FY19(H.R.6157 & S.3159) Department of Defense Appropriations Act",
+    "FY20 Department of Defense Appropriations Act",
+    "FY20 Department of Defense Appropriations Act\nMedical Research & Development\nHuman Performance and Injury Prevention",
+    "FY21 Department of Defense Appropriations Act",
+    "FY21 Department of Defense Appropriations Act\nMedical Research & Development\nHuman Performance and Injury Prevention",
+    "FY22 Department of Defense Appropriations Act",
+    "FY22 Department of Defense Appropriations Act\nMedical Research & Development\nHuman Performance and Injury Prevention",
+    "FY23 Department of Defense Appropriations Act",
+    "FY23 Department of Defense Appropriations Act Medical Research & Development Human Performance and Injury Prevention",
+    "FY2025 Defense Appropriations Bill",
+    "FY2025 Defense Appropriations Bill, military medical research",
+    "FY2026 Defense Appropriations Bills",
+    "FY2026 Defense Appropriations Bills, military medical research"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 168750,
+  "peakYear": 2020,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "healthcare"
+}

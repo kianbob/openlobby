@@ -1,1 +1,329 @@
-{"abbreviation":"OH","name":"Ohio","totalSpending":272468585.61,"totalFilings":13963,"clientCount":869,"yearlySpending":[{"year":2018,"income":23099725.990000002},{"year":2019,"income":21349307.990000002},{"year":2020,"income":22435044.98},{"year":2021,"income":27497103.65},{"year":2022,"income":32003802},{"year":2023,"income":71557108},{"year":2024,"income":32719687},{"year":2025,"income":41806806}],"topClients":[{"name":"LAKE CARRIERS ASSOCIATION","income":7340000},{"name":"MATERION BRUSH INC.","income":4840000},{"name":"SCOTTS MIRACLE-GRO COMPANY","income":3690000},{"name":"RPLCC","income":3680000},{"name":"PARKER HANNIFIN","income":3470000},{"name":"BATTELLE MEMORIAL INSTITUTE","income":3250000},{"name":"EATON CORPORATION","income":3220000},{"name":"CINTAS CORPORATION","income":3060000},{"name":"CARDINAL HEALTH, INC.","income":2966000},{"name":"THE KROGER CO.","income":2930000},{"name":"WOOLPERT CORPORATION","income":2715000},{"name":"CLEVELAND CLINIC FOUNDATION","income":2417500},{"name":"FIRSTENERGY SERVICE COMPANY","income":2300000},{"name":"STERIS CORPORATION","income":2210000},{"name":"AMERICAN FINANCIAL GROUP, INC.","income":2100000},{"name":"GBX ASSOCIATES LLC","income":2050000},{"name":"HEXION, INC.","income":2010000},{"name":"PARALLAX ADVANCED RESEARCH","income":1955000},{"name":"THE GOODYEAR TIRE & RUBBER COMPANY","income":1920000},{"name":"NETJETS, INC.","income":1885000},{"name":"CASE WESTERN RESERVE UNIVERSITY","income":1880000},{"name":"GENERAL ELECTRIC COMPANY","income":1836000},{"name":"WOOLPERT","income":1830000},{"name":"BABCOCK & WILCOX ENTERPRISES, INC.","income":1810000},{"name":"COLUMBUS CHAMBER OF COMMERCE","income":1760000},{"name":"NATIONWIDE INSURANCE","income":1740000},{"name":"PORTABLE GENERATOR MANUFACTURERS ASSOCIATION (PGMA)","income":1730000},{"name":"HEALTH CAROUSEL, LLC","income":1710000},{"name":"TIMKEN COMPANY","income":1700000},{"name":"PROCTER & GAMBLE","income":1680000},{"name":"JOBSOHIO","income":1665000},{"name":"UNITED KEETOOWAH BAND OF CHEROKEE INDIANS IN OKLAHOMA","income":1650000},{"name":"METALS AFFORDABILITY INITIATIVE ASSOCIATION","income":1630000},{"name":"STRIVETOGETHER, INC.","income":1570000},{"name":"AMERICAN ELECTRIC POWER SERVICE CORPORATION","income":1500000},{"name":"HYSTER-YALE MATERIALS HANDLING, INC.","income":1490000},{"name":"THE SHERWIN-WILLIAMS COMPANY","income":1460000},{"name":"PRECISION METALFORMING ASSOCIATION","income":1440000},{"name":"PROMEDICA HEALTH SYSTEM","income":1405000},{"name":"UNIVERSITY OF CINCINNATI","income":1400000},{"name":"THE LINCOLN ELECTRIC COMPANY","income":1370000},{"name":"OHIO UNIVERSITY","income":1320000},{"name":"BATH & BODY WORKS, INC.","income":1300000},{"name":"U.S. ACUTE CARE SOLUTIONS, LLC","income":1290000},{"name":"THE METROHEALTH SYSTEM","income":1270000},{"name":"FIRSTENERGY CORP","income":1260000},{"name":"GREIF, INC.","income":1256993},{"name":"GBX GROUP LLC","income":1210000},{"name":"GREATER CLEVELAND PARTNERSHIP","income":1180000},{"name":"SCOTT'S MIRACLE-GRO","income":1180000}],"topIssues":[{"code":"BUD","income":75149547.61},{"code":"TAX","income":42793988},{"code":"HCR","income":40964509.61},{"code":"DEF","income":36854000},{"code":"TRD","income":29765365},{"code":"ENG","income":25952814},{"code":"TRA","income":19801909},{"code":"ENV","income":17453939},{"code":"LBR","income":16545000},{"code":"MMM","income":12454161.63},{"code":"MAN","income":12353500},{"code":"ECN","income":12151470},{"code":"EDU","income":12037000},{"code":"AVI","income":10895200},{"code":"NAT","income":9581454},{"code":"CSP","income":8580000},{"code":"BAN","income":8178000},{"code":"AGR","income":8011326},{"code":"MAR","income":7655000},{"code":"SCI","income":7392500}]}
+{
+  "abbreviation": "OH",
+  "name": "Ohio",
+  "totalSpending": 272468585.61,
+  "totalFilings": 13963,
+  "clientCount": 869,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 23099725.990000002
+    },
+    {
+      "year": 2019,
+      "income": 21349307.990000002
+    },
+    {
+      "year": 2020,
+      "income": 22435044.98
+    },
+    {
+      "year": 2021,
+      "income": 27497103.65
+    },
+    {
+      "year": 2022,
+      "income": 32003802
+    },
+    {
+      "year": 2023,
+      "income": 71557108
+    },
+    {
+      "year": 2024,
+      "income": 32719687
+    },
+    {
+      "year": 2025,
+      "income": 41806806
+    }
+  ],
+  "topClients": [
+    {
+      "name": "LAKE CARRIERS ASSOCIATION",
+      "income": 7340000
+    },
+    {
+      "name": "MATERION BRUSH INC.",
+      "income": 4840000
+    },
+    {
+      "name": "SCOTTS MIRACLE-GRO COMPANY",
+      "income": 3690000
+    },
+    {
+      "name": "RPLCC",
+      "income": 3680000
+    },
+    {
+      "name": "PARKER HANNIFIN",
+      "income": 3470000
+    },
+    {
+      "name": "BATTELLE MEMORIAL INSTITUTE",
+      "income": 3250000
+    },
+    {
+      "name": "EATON CORPORATION",
+      "income": 3220000
+    },
+    {
+      "name": "CINTAS CORPORATION",
+      "income": 3060000
+    },
+    {
+      "name": "CARDINAL HEALTH, INC.",
+      "income": 2966000
+    },
+    {
+      "name": "THE KROGER CO.",
+      "income": 2930000
+    },
+    {
+      "name": "WOOLPERT CORPORATION",
+      "income": 2715000
+    },
+    {
+      "name": "CLEVELAND CLINIC FOUNDATION",
+      "income": 2417500
+    },
+    {
+      "name": "FIRSTENERGY SERVICE COMPANY",
+      "income": 2300000
+    },
+    {
+      "name": "STERIS CORPORATION",
+      "income": 2210000
+    },
+    {
+      "name": "AMERICAN FINANCIAL GROUP, INC.",
+      "income": 2100000
+    },
+    {
+      "name": "GBX ASSOCIATES LLC",
+      "income": 2050000
+    },
+    {
+      "name": "HEXION, INC.",
+      "income": 2010000
+    },
+    {
+      "name": "PARALLAX ADVANCED RESEARCH",
+      "income": 1955000
+    },
+    {
+      "name": "THE GOODYEAR TIRE & RUBBER COMPANY",
+      "income": 1920000
+    },
+    {
+      "name": "NETJETS, INC.",
+      "income": 1885000
+    },
+    {
+      "name": "CASE WESTERN RESERVE UNIVERSITY",
+      "income": 1880000
+    },
+    {
+      "name": "GENERAL ELECTRIC COMPANY",
+      "income": 1836000
+    },
+    {
+      "name": "WOOLPERT",
+      "income": 1830000
+    },
+    {
+      "name": "BABCOCK & WILCOX ENTERPRISES, INC.",
+      "income": 1810000
+    },
+    {
+      "name": "COLUMBUS CHAMBER OF COMMERCE",
+      "income": 1760000
+    },
+    {
+      "name": "NATIONWIDE INSURANCE",
+      "income": 1740000
+    },
+    {
+      "name": "PORTABLE GENERATOR MANUFACTURERS ASSOCIATION (PGMA)",
+      "income": 1730000
+    },
+    {
+      "name": "HEALTH CAROUSEL, LLC",
+      "income": 1710000
+    },
+    {
+      "name": "TIMKEN COMPANY",
+      "income": 1700000
+    },
+    {
+      "name": "PROCTER & GAMBLE",
+      "income": 1680000
+    },
+    {
+      "name": "JOBSOHIO",
+      "income": 1665000
+    },
+    {
+      "name": "UNITED KEETOOWAH BAND OF CHEROKEE INDIANS IN OKLAHOMA",
+      "income": 1650000
+    },
+    {
+      "name": "METALS AFFORDABILITY INITIATIVE ASSOCIATION",
+      "income": 1630000
+    },
+    {
+      "name": "STRIVETOGETHER, INC.",
+      "income": 1570000
+    },
+    {
+      "name": "AMERICAN ELECTRIC POWER SERVICE CORPORATION",
+      "income": 1500000
+    },
+    {
+      "name": "HYSTER-YALE MATERIALS HANDLING, INC.",
+      "income": 1490000
+    },
+    {
+      "name": "THE SHERWIN-WILLIAMS COMPANY",
+      "income": 1460000
+    },
+    {
+      "name": "PRECISION METALFORMING ASSOCIATION",
+      "income": 1440000
+    },
+    {
+      "name": "PROMEDICA HEALTH SYSTEM",
+      "income": 1405000
+    },
+    {
+      "name": "UNIVERSITY OF CINCINNATI",
+      "income": 1400000
+    },
+    {
+      "name": "THE LINCOLN ELECTRIC COMPANY",
+      "income": 1370000
+    },
+    {
+      "name": "OHIO UNIVERSITY",
+      "income": 1320000
+    },
+    {
+      "name": "BATH & BODY WORKS, INC.",
+      "income": 1300000
+    },
+    {
+      "name": "U.S. ACUTE CARE SOLUTIONS, LLC",
+      "income": 1290000
+    },
+    {
+      "name": "THE METROHEALTH SYSTEM",
+      "income": 1270000
+    },
+    {
+      "name": "FIRSTENERGY CORP",
+      "income": 1260000
+    },
+    {
+      "name": "GREIF, INC.",
+      "income": 1256993
+    },
+    {
+      "name": "GBX GROUP LLC",
+      "income": 1210000
+    },
+    {
+      "name": "GREATER CLEVELAND PARTNERSHIP",
+      "income": 1180000
+    },
+    {
+      "name": "SCOTT'S MIRACLE-GRO",
+      "income": 1180000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 75149547.61
+    },
+    {
+      "code": "TAX",
+      "income": 42793988
+    },
+    {
+      "code": "HCR",
+      "income": 40964509.61
+    },
+    {
+      "code": "DEF",
+      "income": 36854000
+    },
+    {
+      "code": "TRD",
+      "income": 29765365
+    },
+    {
+      "code": "ENG",
+      "income": 25952814
+    },
+    {
+      "code": "TRA",
+      "income": 19801909
+    },
+    {
+      "code": "ENV",
+      "income": 17453939
+    },
+    {
+      "code": "LBR",
+      "income": 16545000
+    },
+    {
+      "code": "MMM",
+      "income": 12454161.63
+    },
+    {
+      "code": "MAN",
+      "income": 12353500
+    },
+    {
+      "code": "ECN",
+      "income": 12151470
+    },
+    {
+      "code": "EDU",
+      "income": 12037000
+    },
+    {
+      "code": "AVI",
+      "income": 10895200
+    },
+    {
+      "code": "NAT",
+      "income": 9581454
+    },
+    {
+      "code": "CSP",
+      "income": 8580000
+    },
+    {
+      "code": "BAN",
+      "income": 8178000
+    },
+    {
+      "code": "AGR",
+      "income": 8011326
+    },
+    {
+      "code": "MAR",
+      "income": 7655000
+    },
+    {
+      "code": "SCI",
+      "income": 7392500
+    }
+  ],
+  "perCapita": 37.19,
+  "population": 11785935,
+  "nationalRank": 12,
+  "perCapitaRank": 23
+}

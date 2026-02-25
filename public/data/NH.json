@@ -1,1 +1,329 @@
-{"abbreviation":"NH","name":"New Hampshire","totalSpending":28016900,"totalFilings":1265,"clientCount":87,"yearlySpending":[{"year":2018,"income":2405000},{"year":2019,"income":2584000},{"year":2020,"income":2765000},{"year":2021,"income":3271900},{"year":2022,"income":2841000},{"year":2023,"income":7080000},{"year":2024,"income":3268000},{"year":2025,"income":3802000}],"topClients":[{"name":"MMM HEALTHCARE","income":2710000},{"name":"AMAZON.COM (FRA PILLPACK AN AMAZON COMPANY)","income":1660000},{"name":"NOVOCURE INC.","income":1600000},{"name":"UNIVERSITY OF NEW HAMPSHIRE","income":1330000},{"name":"FIRST FOR INSPIRATION AND RECOGNITION OF SCIENCE AND TECHNOLOGY","income":1320000},{"name":"RED RIVER","income":1250000},{"name":"DARTMOUTH COLLEGE","income":1080000},{"name":"C&S WHOLESALE GROCERS, INC.","income":1000000},{"name":"AQYR TECHNOLOGIES, INC.","income":960000},{"name":"SIG SAUER INC","income":940000},{"name":"ALBANY ENGINEERED COMPOSITES INC","income":780000},{"name":"WORKERS INJURY LAW & ADVOCACY GROUP","income":760000},{"name":"AVLITE SYSTEMS","income":720000},{"name":"COCOON","income":700000},{"name":"SIG SAUER, INC.","income":680000},{"name":"GRANITE STATE MANUFACTURING","income":620000},{"name":"SUBCOM","income":585000},{"name":"PLANET FITNESS HOLDINGS, INC.","income":570000},{"name":"GALVION","income":510000},{"name":"TREE CARE INDUSTRY ASSOCIATION","income":490000},{"name":"REGROW","income":490000},{"name":"TIG INSURANCE","income":480000},{"name":"GRANITE EDVANCE (FORMERLY NEW HAMPSHIRE HIGHER EDUCATION LOAN CORPORATION)","income":410000},{"name":"VALLEY  ELECTRIC ASSOCIATION INC.","income":400000},{"name":"EXPANSIA GROUP","income":400000},{"name":"CREARE","income":340000},{"name":"MENTIS SCIENCES, INC.","income":325000},{"name":"RENCO MANUFACTURING","income":310000},{"name":"C&S WHOLESALE GROCERS INC.","income":300000},{"name":"FRESHAIR SENSORS","income":270000},{"name":"NET LEASE CAPITAL","income":270000},{"name":"CITY OF CLAREMONT, NH","income":260000},{"name":"SULLIVAN COUNTY, NH","income":240000},{"name":"PORT CITY AIR, INC.","income":190000},{"name":"SAINT-GOBAIN PERFORMANCE PLASTICS","income":180000},{"name":"ICAD, INC.","income":180000},{"name":"PLANET FITNESS CORPORATE OFFICE","income":175000},{"name":"CELDARA MEDICAL, LLC","income":160000},{"name":"HARDWOODS SPECIALTY PRODUCTS US, LP","income":160000},{"name":"PLANET FITNESS","income":150000},{"name":"PLANET FITNESS HOLDINGS, LLC","income":150000},{"name":"HALO MARITIME DEFENSE SYSTEMS","income":140000},{"name":"UNITIL CORPORATION","income":120000},{"name":"SNCF AMERICA, INC.","income":120000},{"name":"SHEERGARD COMPOSITE SOLUTIONS, INC.","income":120000},{"name":"INNOVATIVE NATURAL RESOURCE SOLUTIONS LLC","income":101900},{"name":"PECK MADIGAN JONES (ON BEHALF OF INNOVACARE, INC.)","income":100000},{"name":"COCOON, INC.","income":100000},{"name":"RED RIVER COMPUTER CO., INC.","income":90000},{"name":"WHITE MOUNTAINS CAPITAL, LLC","income":90000}],"topIssues":[{"code":"DEF","income":7161000},{"code":"BUD","income":4530000},{"code":"HCR","income":3775000},{"code":"MMM","income":3440000},{"code":"EDU","income":2935000},{"code":"SCI","income":2225000},{"code":"LBR","income":1780000},{"code":"PHA","income":1580000},{"code":"MAN","income":1412500},{"code":"FIR","income":1380000},{"code":"FOR","income":1250000},{"code":"IMM","income":910000},{"code":"VET","income":845000},{"code":"AGR","income":820000},{"code":"MED","income":820000},{"code":"CPT","income":760000},{"code":"INS","income":760000},{"code":"TRA","income":642000},{"code":"TEC","income":610000},{"code":"ENG","income":591900}]}
+{
+  "abbreviation": "NH",
+  "name": "New Hampshire",
+  "totalSpending": 28016900,
+  "totalFilings": 1265,
+  "clientCount": 87,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 2405000
+    },
+    {
+      "year": 2019,
+      "income": 2584000
+    },
+    {
+      "year": 2020,
+      "income": 2765000
+    },
+    {
+      "year": 2021,
+      "income": 3271900
+    },
+    {
+      "year": 2022,
+      "income": 2841000
+    },
+    {
+      "year": 2023,
+      "income": 7080000
+    },
+    {
+      "year": 2024,
+      "income": 3268000
+    },
+    {
+      "year": 2025,
+      "income": 3802000
+    }
+  ],
+  "topClients": [
+    {
+      "name": "MMM HEALTHCARE",
+      "income": 2710000
+    },
+    {
+      "name": "AMAZON.COM (FRA PILLPACK AN AMAZON COMPANY)",
+      "income": 1660000
+    },
+    {
+      "name": "NOVOCURE INC.",
+      "income": 1600000
+    },
+    {
+      "name": "UNIVERSITY OF NEW HAMPSHIRE",
+      "income": 1330000
+    },
+    {
+      "name": "FIRST FOR INSPIRATION AND RECOGNITION OF SCIENCE AND TECHNOLOGY",
+      "income": 1320000
+    },
+    {
+      "name": "RED RIVER",
+      "income": 1250000
+    },
+    {
+      "name": "DARTMOUTH COLLEGE",
+      "income": 1080000
+    },
+    {
+      "name": "C&S WHOLESALE GROCERS, INC.",
+      "income": 1000000
+    },
+    {
+      "name": "AQYR TECHNOLOGIES, INC.",
+      "income": 960000
+    },
+    {
+      "name": "SIG SAUER INC",
+      "income": 940000
+    },
+    {
+      "name": "ALBANY ENGINEERED COMPOSITES INC",
+      "income": 780000
+    },
+    {
+      "name": "WORKERS INJURY LAW & ADVOCACY GROUP",
+      "income": 760000
+    },
+    {
+      "name": "AVLITE SYSTEMS",
+      "income": 720000
+    },
+    {
+      "name": "COCOON",
+      "income": 700000
+    },
+    {
+      "name": "SIG SAUER, INC.",
+      "income": 680000
+    },
+    {
+      "name": "GRANITE STATE MANUFACTURING",
+      "income": 620000
+    },
+    {
+      "name": "SUBCOM",
+      "income": 585000
+    },
+    {
+      "name": "PLANET FITNESS HOLDINGS, INC.",
+      "income": 570000
+    },
+    {
+      "name": "GALVION",
+      "income": 510000
+    },
+    {
+      "name": "TREE CARE INDUSTRY ASSOCIATION",
+      "income": 490000
+    },
+    {
+      "name": "REGROW",
+      "income": 490000
+    },
+    {
+      "name": "TIG INSURANCE",
+      "income": 480000
+    },
+    {
+      "name": "GRANITE EDVANCE (FORMERLY NEW HAMPSHIRE HIGHER EDUCATION LOAN CORPORATION)",
+      "income": 410000
+    },
+    {
+      "name": "VALLEY  ELECTRIC ASSOCIATION INC.",
+      "income": 400000
+    },
+    {
+      "name": "EXPANSIA GROUP",
+      "income": 400000
+    },
+    {
+      "name": "CREARE",
+      "income": 340000
+    },
+    {
+      "name": "MENTIS SCIENCES, INC.",
+      "income": 325000
+    },
+    {
+      "name": "RENCO MANUFACTURING",
+      "income": 310000
+    },
+    {
+      "name": "C&S WHOLESALE GROCERS INC.",
+      "income": 300000
+    },
+    {
+      "name": "FRESHAIR SENSORS",
+      "income": 270000
+    },
+    {
+      "name": "NET LEASE CAPITAL",
+      "income": 270000
+    },
+    {
+      "name": "CITY OF CLAREMONT, NH",
+      "income": 260000
+    },
+    {
+      "name": "SULLIVAN COUNTY, NH",
+      "income": 240000
+    },
+    {
+      "name": "PORT CITY AIR, INC.",
+      "income": 190000
+    },
+    {
+      "name": "SAINT-GOBAIN PERFORMANCE PLASTICS",
+      "income": 180000
+    },
+    {
+      "name": "ICAD, INC.",
+      "income": 180000
+    },
+    {
+      "name": "PLANET FITNESS CORPORATE OFFICE",
+      "income": 175000
+    },
+    {
+      "name": "CELDARA MEDICAL, LLC",
+      "income": 160000
+    },
+    {
+      "name": "HARDWOODS SPECIALTY PRODUCTS US, LP",
+      "income": 160000
+    },
+    {
+      "name": "PLANET FITNESS",
+      "income": 150000
+    },
+    {
+      "name": "PLANET FITNESS HOLDINGS, LLC",
+      "income": 150000
+    },
+    {
+      "name": "HALO MARITIME DEFENSE SYSTEMS",
+      "income": 140000
+    },
+    {
+      "name": "UNITIL CORPORATION",
+      "income": 120000
+    },
+    {
+      "name": "SNCF AMERICA, INC.",
+      "income": 120000
+    },
+    {
+      "name": "SHEERGARD COMPOSITE SOLUTIONS, INC.",
+      "income": 120000
+    },
+    {
+      "name": "INNOVATIVE NATURAL RESOURCE SOLUTIONS LLC",
+      "income": 101900
+    },
+    {
+      "name": "PECK MADIGAN JONES (ON BEHALF OF INNOVACARE, INC.)",
+      "income": 100000
+    },
+    {
+      "name": "COCOON, INC.",
+      "income": 100000
+    },
+    {
+      "name": "RED RIVER COMPUTER CO., INC.",
+      "income": 90000
+    },
+    {
+      "name": "WHITE MOUNTAINS CAPITAL, LLC",
+      "income": 90000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "DEF",
+      "income": 7161000
+    },
+    {
+      "code": "BUD",
+      "income": 4530000
+    },
+    {
+      "code": "HCR",
+      "income": 3775000
+    },
+    {
+      "code": "MMM",
+      "income": 3440000
+    },
+    {
+      "code": "EDU",
+      "income": 2935000
+    },
+    {
+      "code": "SCI",
+      "income": 2225000
+    },
+    {
+      "code": "LBR",
+      "income": 1780000
+    },
+    {
+      "code": "PHA",
+      "income": 1580000
+    },
+    {
+      "code": "MAN",
+      "income": 1412500
+    },
+    {
+      "code": "FIR",
+      "income": 1380000
+    },
+    {
+      "code": "FOR",
+      "income": 1250000
+    },
+    {
+      "code": "IMM",
+      "income": 910000
+    },
+    {
+      "code": "VET",
+      "income": 845000
+    },
+    {
+      "code": "AGR",
+      "income": 820000
+    },
+    {
+      "code": "MED",
+      "income": 820000
+    },
+    {
+      "code": "CPT",
+      "income": 760000
+    },
+    {
+      "code": "INS",
+      "income": 760000
+    },
+    {
+      "code": "TRA",
+      "income": 642000
+    },
+    {
+      "code": "TEC",
+      "income": 610000
+    },
+    {
+      "code": "ENG",
+      "income": 591900
+    }
+  ],
+  "perCapita": 20.86,
+  "population": 1402054,
+  "nationalRank": 46,
+  "perCapitaRank": 43
+}

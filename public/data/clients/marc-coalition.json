@@ -1,1 +1,90 @@
-{"id":128458,"name":"MARC COALITION","slug":"marc-coalition","state":"VA","description":"Coalition to advocate on Medicare secondary payor issues.","totalSpending":2300000,"filings":30,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":290000},{"year":2022,"income":290000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":200000}],"firms":["KING & SPALDING LLP"],"lobbyists":["ALLISON KASSIR","MICHAEL ANDREWS","DAVID FARBER","J.C. BOGGS","JEANNINE BENDER","ALEXANDER (\"ANDER\") CRENSHAW","SCOTT DZIENGELSKI"],"issues":["MMM",null],"sampleDescriptions":["-- H.R. 1122, the Secondary Payer Advancement, Rationalization, and Clarification (SPARC) Act\n-- Medicaid Third Party Liability and Extension of MACRA Section 220\n-- Advocate for PAID Act","-- Advocate for H.R. 5881, PAID Act","Advocacy for PAID Act, H.R. 1375 and other Medicare Secondary Payer issues","Advocacy for PAID Act, H.R. 1375, S. 1918 and other Medicare Secondary Payer issues","Advocacy for Medicare Secondary Payer issues","Advocacy for Medicare Secondary Payer issues; RAMP Act, H.R. 8063","Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 3388 and S.1607 (118th Cong.) (2023-2024).","Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 3388 and S. 1607 (118th Cong.) (2023-2024), Appropriation Issues.","Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 3388 and S. 1607 (118th Cong.) (2023-2024).","Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 3388, and S. 1607 (118th Cong.) (2023-2024).","Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 4056 (119th Cong.)."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 128458,
+  "name": "MARC COALITION",
+  "slug": "marc-coalition",
+  "state": "VA",
+  "description": "Coalition to advocate on Medicare secondary payor issues.",
+  "totalSpending": 2300000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 290000
+    },
+    {
+      "year": 2022,
+      "income": 290000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "KING & SPALDING LLP"
+  ],
+  "lobbyists": [
+    "ALLISON KASSIR",
+    "MICHAEL ANDREWS",
+    "DAVID FARBER",
+    "J.C. BOGGS",
+    "JEANNINE BENDER",
+    "ALEXANDER (\"ANDER\") CRENSHAW",
+    "SCOTT DZIENGELSKI"
+  ],
+  "issues": [
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "-- H.R. 1122, the Secondary Payer Advancement, Rationalization, and Clarification (SPARC) Act\n-- Medicaid Third Party Liability and Extension of MACRA Section 220\n-- Advocate for PAID Act",
+    "-- Advocate for H.R. 5881, PAID Act",
+    "Advocacy for PAID Act, H.R. 1375 and other Medicare Secondary Payer issues",
+    "Advocacy for PAID Act, H.R. 1375, S. 1918 and other Medicare Secondary Payer issues",
+    "Advocacy for Medicare Secondary Payer issues",
+    "Advocacy for Medicare Secondary Payer issues; RAMP Act, H.R. 8063",
+    "Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 3388 and S.1607 (118th Cong.) (2023-2024).",
+    "Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 3388 and S. 1607 (118th Cong.) (2023-2024), Appropriation Issues.",
+    "Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 3388 and S. 1607 (118th Cong.) (2023-2024).",
+    "Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 3388, and S. 1607 (118th Cong.) (2023-2024).",
+    "Advocacy for Medicare Secondary Payer Issues; RAMP Act, H.R. 4056 (119th Cong.)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -17,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 287500,
+  "peakYear": 2019,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 1
+}

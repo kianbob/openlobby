@@ -1,1 +1,81 @@
-{"id":184896,"name":"NIANTIC, INC.","slug":"niantic-inc","state":"CA","description":"Software development company","totalSpending":1600000,"filings":20,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":240000},{"year":2022,"income":400000}],"firms":["INVARIANT LLC"],"lobbyists":["HEATHER PODESTA","JONATHAN BECKER","LARISSA MARTINEZ","ERIC ROSEN","LANDON STROPKO","NICOLE VENABLE","VENKATASATYA KROVI","SAMUAL LOVE","KEVIN WALSH"],"issues":["RES","TEC","TRD","IMM","LBR","CPI"],"sampleDescriptions":["Monitor issues relating to public lands.","Monitor issues related to privacy, data security, and intellectual property, with a particular focus on Augmented Reality.","Monitor issues relating to tariffs and technology investments.","Monitor issues related to privacy, data security, intellectual property, trade, and CFIUS, with a particular focus on Augmented Reality.","Monitor issues related to privacy, data security, intellectual property, and trade.","Monitor efforts to reform skilled immigration visas.","Monitor efforts to reform antitrust law, including S. 225, Competition and Antitrust Law Enforcement Reform Act of 2021.","Monitor efforts to reform antitrust law.","Monitor issues related to privacy, data security, intellectual property, and trade; Educate Members regarding Niantics impact in their communities.","Monitor issues related to competition policy reform.","Monitor issues related to privacy including H.R. 8152, the American Data Privacy and Protection Act, data security, intellectual property, and trade; Educate Members regarding Niantics impact in their communities."],"years":[2018,2019,2020,2021,2022]}
+{
+  "id": 184896,
+  "name": "NIANTIC, INC.",
+  "slug": "niantic-inc",
+  "state": "CA",
+  "description": "Software development company",
+  "totalSpending": 1600000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 400000
+    }
+  ],
+  "firms": [
+    "INVARIANT LLC"
+  ],
+  "lobbyists": [
+    "HEATHER PODESTA",
+    "JONATHAN BECKER",
+    "LARISSA MARTINEZ",
+    "ERIC ROSEN",
+    "LANDON STROPKO",
+    "NICOLE VENABLE",
+    "VENKATASATYA KROVI",
+    "SAMUAL LOVE",
+    "KEVIN WALSH"
+  ],
+  "issues": [
+    "RES",
+    "TEC",
+    "TRD",
+    "IMM",
+    "LBR",
+    "CPI"
+  ],
+  "sampleDescriptions": [
+    "Monitor issues relating to public lands.",
+    "Monitor issues related to privacy, data security, and intellectual property, with a particular focus on Augmented Reality.",
+    "Monitor issues relating to tariffs and technology investments.",
+    "Monitor issues related to privacy, data security, intellectual property, trade, and CFIUS, with a particular focus on Augmented Reality.",
+    "Monitor issues related to privacy, data security, intellectual property, and trade.",
+    "Monitor efforts to reform skilled immigration visas.",
+    "Monitor efforts to reform antitrust law, including S. 225, Competition and Antitrust Law Enforcement Reform Act of 2021.",
+    "Monitor efforts to reform antitrust law.",
+    "Monitor issues related to privacy, data security, intellectual property, and trade; Educate Members regarding Niantics impact in their communities.",
+    "Monitor issues related to competition policy reform.",
+    "Monitor issues related to privacy including H.R. 8152, the American Data Privacy and Protection Act, data security, intellectual property, and trade; Educate Members regarding Niantics impact in their communities."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "growthRate": 25,
+  "trajectory": "stable",
+  "yearsActive": 5,
+  "avgAnnualSpending": 320000,
+  "peakYear": 2022,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 6
+}

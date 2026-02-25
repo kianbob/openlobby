@@ -1,1 +1,557 @@
-{"code":"MIA","name":"Medical/Disease Research/Clinical Labs","totalSpending":43613500,"totalFilings":1352,"yearlySpending":[{"year":2018,"income":2037500,"filings":104},{"year":2019,"income":4185500,"filings":130},{"year":2020,"income":6266700,"filings":156},{"year":2021,"income":5202000,"filings":168},{"year":2022,"income":6742907,"filings":190},{"year":2023,"income":7885000,"filings":185},{"year":2024,"income":4825000,"filings":186},{"year":2025,"income":6468893,"filings":233}],"topClients":[{"name":"APOLLO GLOBAL MANAGEMENT","income":6880000},{"name":"NEWS MEDIA ALLIANCE","income":2880000},{"name":"THOMSON REUTERS","income":2160000},{"name":"AL JAZEERA MEDIA NETWORK","income":1750000},{"name":"META PLATFORMS, INC.","income":1635000},{"name":"YAHOO INC, AND VAR. SUBS/AFFILIATES (FKA COLLEGE PARENT, L.P. DBA \"YAHOO\")","income":1560000},{"name":"LIBERTY MEDIA CORPORATION","income":1520000},{"name":"NEWS/MEDIA ALLIANCE","income":1340000},{"name":"CONSUMER TECHNOLOGY ASSOCIATION","income":1200000},{"name":"WAU HOLLAND STIFTUNG","income":1200000},{"name":"COMCAST CORPORATION","income":1180000},{"name":"ADVANCE PUBLICATIONS","income":900000},{"name":"NATIONAL ASSOCIATION OF BROADCASTERS","income":890000},{"name":"DIRECTV, LLC","income":890000},{"name":"MAGAZINE PUBLISHERS OF AMERICA","income":880000},{"name":"TENCENT AMERICA LLC","income":844000},{"name":"PARAMOUNT GLOBAL (FORMERLY VIACOMCBS INC.)","income":830000},{"name":"HDNET LLC","income":810000},{"name":"VERIZON","income":650000},{"name":"SPOTIFY","income":650000},{"name":"DISCOVERY COMMUNICATIONS, LLC","income":643500},{"name":"FACEBOOK, INC.","income":590000},{"name":"AMERICANO MEDIA GROUP LLC","income":580000},{"name":"PINK MEDIA GROUP","income":580000},{"name":"GEOBROADCAST SOLUTIONS, LLC","income":570000},{"name":"NATIONAL NEWSPAPER ASSOCIATION","income":448500},{"name":"UP ENTERTAINMENT LLC","income":415000},{"name":"NEXT ANIMATION SERVICES","income":410000},{"name":"RESET TECH ACTION","income":397500},{"name":"FAIR USE COLLECTIVE","income":390000},{"name":"PINK MEDIA GROUP DOO BEOGRAD","income":360000},{"name":"NATIONAL FOOTBALL LEAGUE","income":350000},{"name":"DEMOCRACY FUND VOICE","income":350000},{"name":"GLADE BROOK CAPITAL PARTNERS, LLC","income":320000},{"name":"DLA PIPER LLP (US) (FOR AL JAZEERA MEDIA NETWORK)","income":310000},{"name":"ETSY, INC.","income":300000},{"name":"HEARST CORPORATION","income":280000},{"name":"TELEVISAUNIVISION, INC.","income":280000},{"name":"PARAMOUNT GLOBAL","income":270000},{"name":"NEWS CORPORATION","income":262500},{"name":"FRONTIERS OPEN SCIENCE INC.","income":260000},{"name":"NETEASE INFORMATION TECHNOLOGY CORPORATION","income":240000},{"name":"RECORDING INDUSTRY ASSOC. OF AMERICA","income":225000},{"name":"AMERICA'S NEWSPAPERS","income":211250},{"name":"TENCENT HOLDINGS LTD.","income":210000},{"name":"NYT MEDIA U.S., INC.","income":210000},{"name":"ASSOCIATED PRESS","income":200000},{"name":"AT&T SERVICES INC AND ITS AFFILIATES","income":200000},{"name":"INTEGRAL AD SCIENCE","income":200000},{"name":"DAILY MAIL AND GENERAL TRUST PLC","income":167200}],"topFirms":[{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":7090000},{"name":"H&M STRATEGIES LLP","income":3160000},{"name":"INVARIANT LLC","income":3140000},{"name":"HOLLAND & KNIGHT LLP","income":2360000},{"name":"NVG, LLC","income":2080000},{"name":"WILLIAMS AND JENSEN, PLLC","income":2030000},{"name":"CARMEN GROUP INCORPORATED","income":1807200},{"name":"DLA PIPER LLP (US)","income":1750000},{"name":"FORBES-TATE","income":1350000},{"name":"FIERCE GOVERNMENT RELATIONS","income":1300000},{"name":"SQUIRE PATTON BOGGS","income":1290000},{"name":"THE RABEN GROUP","income":1163500},{"name":"AVOQ, LLC","income":900000},{"name":"CAPITOL COUNSEL LLC","income":830000},{"name":"S-3 GROUP","income":800000},{"name":"EPPLIN STRATEGIC PLANNING","income":740000},{"name":"MERCURY PUBLIC AFFAIRS, LLC","income":600000},{"name":"TIBER CREEK GROUP","income":590000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":580000},{"name":"WASHINGTON GLOBAL ADVISORS LLC","income":580000},{"name":"PILLSBURY WINTHROP SHAW PITTMAN LLP","income":570000},{"name":"JEFFRIES STRATEGIES LLC","income":495000},{"name":"MASON STREET CONSULTING, LLC","income":460000},{"name":"PLATINUM ADVISORS DC, LLC","income":450000},{"name":"STEPTOE LLP","income":430000},{"name":"BANNER PUBLIC AFFAIRS, LLC","income":410000},{"name":"COGENT STRATEGIES LLC","income":370000},{"name":"RUSHMORE STRATEGIC ADVISORS LLC","income":360000},{"name":"COVINGTON & BURLING LLP","income":350000},{"name":"MINDSET ADVOCACY, LLC","income":350000}],"sampleDescriptions":["Department of Commerce and International Trade Commission investigation into uncoated groundwood paper.","Taxation and media issues related to iHeartMedia","Speak Free Act (Anti-SLAPP legislation)\nHR 5190, Journalism Competition and Preservation Act","Use of unmanned aircraft systems in news reporting; implementation of the FAA Extension, Safety and Security Act of 2016, P.L. 114-190; drone coordination and safety during news gathering at UAS Safet","creative rights","Federal Communications Commissions Media Ownership Rules","FASTR Act (Free Access to Science and Technology Research Act)","Issues related to the carriage of television broadcast signals; H.R.3719, Video CHOICE Act; S.1680, Consumer Choice in Online Video Act; S.2799, Satellite Television Access and Viewer Rights Act; Appr","N/A","Issues related to internet media information security policy and privacy issues, freedom of expression on the internet","Education, Native American Culture, Historic Preservation \nDepartment of Agriculture Appropriations Bills\nDepartment of Interior Appropriations Bills\nDepartment of Labor, Education, HHS Appropriations","discussions relating to release of data","H.R.1574,\"Protecting Dissenting Viewpoints and Voices Act of 2017,\" all provisions","Monitor media ownership issues, efforts to strengthen journalist protections, and competition in the news industry.","ticket sales","Support Twitter updating its form used to report abusive or harmful content\nOppose the use of forced, or mandatory arbitration clauses in employment contracts","General issues as relates to the media.","Monitor efforts to strengthen journalist protections.","Digital news content and publishing; antitrust issues impacting digital news publishers.","Music Industry"]}
+{
+  "code": "MIA",
+  "name": "Medical/Disease Research/Clinical Labs",
+  "totalSpending": 43613500,
+  "totalFilings": 1352,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 2037500,
+      "filings": 104
+    },
+    {
+      "year": 2019,
+      "income": 4185500,
+      "filings": 130
+    },
+    {
+      "year": 2020,
+      "income": 6266700,
+      "filings": 156
+    },
+    {
+      "year": 2021,
+      "income": 5202000,
+      "filings": 168
+    },
+    {
+      "year": 2022,
+      "income": 6742907,
+      "filings": 190
+    },
+    {
+      "year": 2023,
+      "income": 7885000,
+      "filings": 185
+    },
+    {
+      "year": 2024,
+      "income": 4825000,
+      "filings": 186
+    },
+    {
+      "year": 2025,
+      "income": 6468893,
+      "filings": 233
+    }
+  ],
+  "topClients": [
+    {
+      "name": "APOLLO GLOBAL MANAGEMENT",
+      "income": 6880000
+    },
+    {
+      "name": "NEWS MEDIA ALLIANCE",
+      "income": 2880000
+    },
+    {
+      "name": "THOMSON REUTERS",
+      "income": 2160000
+    },
+    {
+      "name": "AL JAZEERA MEDIA NETWORK",
+      "income": 1750000
+    },
+    {
+      "name": "META PLATFORMS, INC.",
+      "income": 1635000
+    },
+    {
+      "name": "YAHOO INC, AND VAR. SUBS/AFFILIATES (FKA COLLEGE PARENT, L.P. DBA \"YAHOO\")",
+      "income": 1560000
+    },
+    {
+      "name": "LIBERTY MEDIA CORPORATION",
+      "income": 1520000
+    },
+    {
+      "name": "NEWS/MEDIA ALLIANCE",
+      "income": 1340000
+    },
+    {
+      "name": "CONSUMER TECHNOLOGY ASSOCIATION",
+      "income": 1200000
+    },
+    {
+      "name": "WAU HOLLAND STIFTUNG",
+      "income": 1200000
+    },
+    {
+      "name": "COMCAST CORPORATION",
+      "income": 1180000
+    },
+    {
+      "name": "ADVANCE PUBLICATIONS",
+      "income": 900000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF BROADCASTERS",
+      "income": 890000
+    },
+    {
+      "name": "DIRECTV, LLC",
+      "income": 890000
+    },
+    {
+      "name": "MAGAZINE PUBLISHERS OF AMERICA",
+      "income": 880000
+    },
+    {
+      "name": "TENCENT AMERICA LLC",
+      "income": 844000
+    },
+    {
+      "name": "PARAMOUNT GLOBAL (FORMERLY VIACOMCBS INC.)",
+      "income": 830000
+    },
+    {
+      "name": "HDNET LLC",
+      "income": 810000
+    },
+    {
+      "name": "VERIZON",
+      "income": 650000
+    },
+    {
+      "name": "SPOTIFY",
+      "income": 650000
+    },
+    {
+      "name": "DISCOVERY COMMUNICATIONS, LLC",
+      "income": 643500
+    },
+    {
+      "name": "FACEBOOK, INC.",
+      "income": 590000
+    },
+    {
+      "name": "AMERICANO MEDIA GROUP LLC",
+      "income": 580000
+    },
+    {
+      "name": "PINK MEDIA GROUP",
+      "income": 580000
+    },
+    {
+      "name": "GEOBROADCAST SOLUTIONS, LLC",
+      "income": 570000
+    },
+    {
+      "name": "NATIONAL NEWSPAPER ASSOCIATION",
+      "income": 448500
+    },
+    {
+      "name": "UP ENTERTAINMENT LLC",
+      "income": 415000
+    },
+    {
+      "name": "NEXT ANIMATION SERVICES",
+      "income": 410000
+    },
+    {
+      "name": "RESET TECH ACTION",
+      "income": 397500
+    },
+    {
+      "name": "FAIR USE COLLECTIVE",
+      "income": 390000
+    },
+    {
+      "name": "PINK MEDIA GROUP DOO BEOGRAD",
+      "income": 360000
+    },
+    {
+      "name": "NATIONAL FOOTBALL LEAGUE",
+      "income": 350000
+    },
+    {
+      "name": "DEMOCRACY FUND VOICE",
+      "income": 350000
+    },
+    {
+      "name": "GLADE BROOK CAPITAL PARTNERS, LLC",
+      "income": 320000
+    },
+    {
+      "name": "DLA PIPER LLP (US) (FOR AL JAZEERA MEDIA NETWORK)",
+      "income": 310000
+    },
+    {
+      "name": "ETSY, INC.",
+      "income": 300000
+    },
+    {
+      "name": "HEARST CORPORATION",
+      "income": 280000
+    },
+    {
+      "name": "TELEVISAUNIVISION, INC.",
+      "income": 280000
+    },
+    {
+      "name": "PARAMOUNT GLOBAL",
+      "income": 270000
+    },
+    {
+      "name": "NEWS CORPORATION",
+      "income": 262500
+    },
+    {
+      "name": "FRONTIERS OPEN SCIENCE INC.",
+      "income": 260000
+    },
+    {
+      "name": "NETEASE INFORMATION TECHNOLOGY CORPORATION",
+      "income": 240000
+    },
+    {
+      "name": "RECORDING INDUSTRY ASSOC. OF AMERICA",
+      "income": 225000
+    },
+    {
+      "name": "AMERICA'S NEWSPAPERS",
+      "income": 211250
+    },
+    {
+      "name": "TENCENT HOLDINGS LTD.",
+      "income": 210000
+    },
+    {
+      "name": "NYT MEDIA U.S., INC.",
+      "income": 210000
+    },
+    {
+      "name": "ASSOCIATED PRESS",
+      "income": 200000
+    },
+    {
+      "name": "AT&T SERVICES INC AND ITS AFFILIATES",
+      "income": 200000
+    },
+    {
+      "name": "INTEGRAL AD SCIENCE",
+      "income": 200000
+    },
+    {
+      "name": "DAILY MAIL AND GENERAL TRUST PLC",
+      "income": 167200
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 7090000
+    },
+    {
+      "name": "H&M STRATEGIES LLP",
+      "income": 3160000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 3140000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 2360000
+    },
+    {
+      "name": "NVG, LLC",
+      "income": 2080000
+    },
+    {
+      "name": "WILLIAMS AND JENSEN, PLLC",
+      "income": 2030000
+    },
+    {
+      "name": "CARMEN GROUP INCORPORATED",
+      "income": 1807200
+    },
+    {
+      "name": "DLA PIPER LLP (US)",
+      "income": 1750000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 1350000
+    },
+    {
+      "name": "FIERCE GOVERNMENT RELATIONS",
+      "income": 1300000
+    },
+    {
+      "name": "SQUIRE PATTON BOGGS",
+      "income": 1290000
+    },
+    {
+      "name": "THE RABEN GROUP",
+      "income": 1163500
+    },
+    {
+      "name": "AVOQ, LLC",
+      "income": 900000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 830000
+    },
+    {
+      "name": "S-3 GROUP",
+      "income": 800000
+    },
+    {
+      "name": "EPPLIN STRATEGIC PLANNING",
+      "income": 740000
+    },
+    {
+      "name": "MERCURY PUBLIC AFFAIRS, LLC",
+      "income": 600000
+    },
+    {
+      "name": "TIBER CREEK GROUP",
+      "income": 590000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 580000
+    },
+    {
+      "name": "WASHINGTON GLOBAL ADVISORS LLC",
+      "income": 580000
+    },
+    {
+      "name": "PILLSBURY WINTHROP SHAW PITTMAN LLP",
+      "income": 570000
+    },
+    {
+      "name": "JEFFRIES STRATEGIES LLC",
+      "income": 495000
+    },
+    {
+      "name": "MASON STREET CONSULTING, LLC",
+      "income": 460000
+    },
+    {
+      "name": "PLATINUM ADVISORS DC, LLC",
+      "income": 450000
+    },
+    {
+      "name": "STEPTOE LLP",
+      "income": 430000
+    },
+    {
+      "name": "BANNER PUBLIC AFFAIRS, LLC",
+      "income": 410000
+    },
+    {
+      "name": "COGENT STRATEGIES LLC",
+      "income": 370000
+    },
+    {
+      "name": "RUSHMORE STRATEGIC ADVISORS LLC",
+      "income": 360000
+    },
+    {
+      "name": "COVINGTON & BURLING LLP",
+      "income": 350000
+    },
+    {
+      "name": "MINDSET ADVOCACY, LLC",
+      "income": 350000
+    }
+  ],
+  "sampleDescriptions": [
+    "Department of Commerce and International Trade Commission investigation into uncoated groundwood paper.",
+    "Taxation and media issues related to iHeartMedia",
+    "Speak Free Act (Anti-SLAPP legislation)\nHR 5190, Journalism Competition and Preservation Act",
+    "Use of unmanned aircraft systems in news reporting; implementation of the FAA Extension, Safety and Security Act of 2016, P.L. 114-190; drone coordination and safety during news gathering at UAS Safet",
+    "creative rights",
+    "Federal Communications Commissions Media Ownership Rules",
+    "FASTR Act (Free Access to Science and Technology Research Act)",
+    "Issues related to the carriage of television broadcast signals; H.R.3719, Video CHOICE Act; S.1680, Consumer Choice in Online Video Act; S.2799, Satellite Television Access and Viewer Rights Act; Appr",
+    "N/A",
+    "Issues related to internet media information security policy and privacy issues, freedom of expression on the internet",
+    "Education, Native American Culture, Historic Preservation \nDepartment of Agriculture Appropriations Bills\nDepartment of Interior Appropriations Bills\nDepartment of Labor, Education, HHS Appropriations",
+    "discussions relating to release of data",
+    "H.R.1574,\"Protecting Dissenting Viewpoints and Voices Act of 2017,\" all provisions",
+    "Monitor media ownership issues, efforts to strengthen journalist protections, and competition in the news industry.",
+    "ticket sales",
+    "Support Twitter updating its form used to report abusive or harmful content\nOppose the use of forced, or mandatory arbitration clauses in employment contracts",
+    "General issues as relates to the media.",
+    "Monitor efforts to strengthen journalist protections.",
+    "Digital news content and publishing; antitrust issues impacting digital news publishers.",
+    "Music Industry"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 21,
+      "spending": 409553.978968254
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 29,
+      "spending": 889242.2476190476
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 24,
+      "spending": 1287416.6666666667
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 30,
+      "spending": 1522056.1222222222
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 29,
+      "spending": 1295519.4805194805
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 37,
+      "spending": 1901303.0303030305
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 37,
+      "spending": 1563826.8398268397
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 27,
+      "spending": 2112500
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 34,
+      "spending": 1677797.2027972029
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 39,
+      "spending": 1705101.2987012984
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 35,
+      "spending": 1797919.9134199135
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 48,
+      "spending": 2692179.0776427872
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 34,
+      "spending": 1233047.619047619
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 45,
+      "spending": 1495485.883116883
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 43,
+      "spending": 1832451.298701299
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 46,
+      "spending": 1892399.8917748916
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 42,
+      "spending": 1244330.5714285714
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 58,
+      "spending": 2228364.468864469
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 46,
+      "spending": 1425095.2023809524
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 44,
+      "spending": 1464436.304029304
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 48,
+      "spending": 2570476.1904761903
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 43,
+      "spending": 1670875
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 48,
+      "spending": 2390640.0793650798
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 46,
+      "spending": 2003107.142857143
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 40,
+      "spending": 1621945.3463203465
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 51,
+      "spending": 1921910.7142857143
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 47,
+      "spending": 2109434.523809524
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 48,
+      "spending": 1720192.7655677656
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 42,
+      "spending": 1933325.2164502165
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 59,
+      "spending": 3465945.887445887
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 58,
+      "spending": 3180041.186147186
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 74,
+      "spending": 1669552.2391774892
+    }
+  ],
+  "totalEstimatedSpending": 57927473
+}

@@ -1,1 +1,329 @@
-{"abbreviation":"DC","name":"District of Columbia","totalSpending":4502130240.29,"totalFilings":174507,"clientCount":6659,"yearlySpending":[{"year":2018,"income":415894082.85},{"year":2019,"income":439077651.65},{"year":2020,"income":444315520.06},{"year":2021,"income":476678555.5},{"year":2022,"income":539197655.35},{"year":2023,"income":1125201281.48},{"year":2024,"income":485286238},{"year":2025,"income":576479255.4}],"topClients":[{"name":"QUALCOMM INCORPORATED","income":42270000},{"name":"PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA","income":34040000},{"name":"COMCAST CORPORATION","income":32624875},{"name":"AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE","income":24582756},{"name":"T-MOBILE USA, INC.","income":21901059.2},{"name":"MICROSOFT CORPORATION","income":20097500},{"name":"NATIONAL ASSOCIATION OF BROADCASTERS","income":17730000},{"name":"PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA (PHRMA)","income":17384500},{"name":"BUSINESS ROUNDTABLE","income":17365000},{"name":"AMERICAN HEALTH CARE ASSOCIATION","income":16020125},{"name":"WALMART INC","income":14540000},{"name":"ALTRIA CLIENT SERVICES LLC","income":14300000},{"name":"AT&T SERVICES, INC.","income":13820000},{"name":"AMERICAN AIRLINES, INC.","income":12602000},{"name":"TAX REFORM COALITION","income":12430000},{"name":"FEDEX CORPORATION","income":12420000},{"name":"AMERICAN HOSPITAL ASSOCIATION","income":12012000},{"name":"NCTA - THE INTERNET & TELEVISION ASSOCIATION","income":11951000},{"name":"SOUTHERN COMPANY","income":11775000},{"name":"AMERICAN BANKERS ASSOCIATION","income":11732000},{"name":"PHRMA","income":11579550},{"name":"AMERICAN BEVERAGE ASSOCIATION","income":11550000},{"name":"SAP AMERICA, INC.","income":11410000},{"name":"META PLATFORMS, INC.","income":11292500},{"name":"AIRLINES FOR AMERICA","income":11010000},{"name":"RAI SERVICES COMPANY","income":10934260},{"name":"AMERICAN INVESTMENT COUNCIL","income":10865000},{"name":"BIOTECHNOLOGY INNOVATION ORGANIZATION","income":10790000},{"name":"AMERICAN CHEMISTRY COUNCIL","income":10750000},{"name":"EDISON ELECTRIC INSTITUTE","income":10515000},{"name":"APPLE INC.","income":10470000},{"name":"EMPLOYEE-OWNED S CORPORATIONS OF AMERICA","income":10430000},{"name":"CTIA - THE WIRELESS ASSOCIATION","income":10327500},{"name":"ORACLE CORPORATION","income":10190000},{"name":"ORACLE AMERICA, INC.","income":10150000},{"name":"FORD MOTOR COMPANY","income":9945000},{"name":"INVESTMENT COMPANY INSTITUTE","income":9904500},{"name":"CENTENE CORPORATION","income":9732000},{"name":"ENTERGY SERVICES LLC","income":9630000},{"name":"CVS HEALTH","income":9490000},{"name":"NATIONAL CABLE AND TELECOMMUNICATIONS ASSOCIATION","income":9430000},{"name":"AMERICAN MARITIME PARTNERSHIP","income":9400000},{"name":"GENERAL MOTORS COMPANY","income":9295000},{"name":"T-MOBILE","income":9050000},{"name":"21ST CENTURY PRIVACY COALITION","income":8995000},{"name":"SENIOR CARE PHARMACY COALITION","income":8990000},{"name":"NOVARTIS","income":8980000},{"name":"BLUE CROSS BLUE SHIELD ASSOCIATION","income":8946000},{"name":"UNITEDHEALTH GROUP, INC.","income":8930000},{"name":"ELI LILLY AND COMPANY","income":8930000}],"topIssues":[{"code":"TAX","income":997770924},{"code":"HCR","income":771568522.09},{"code":"BUD","income":670748212.94},{"code":"TRD","income":488933702},{"code":"MMM","income":470304792.99},{"code":"TEC","income":337285417.7},{"code":"ENG","income":313644009.35},{"code":"FIN","income":287225569},{"code":"DEF","income":243105033},{"code":"TRA","income":235114484},{"code":"LBR","income":221741048.59},{"code":"CPT","income":221181014},{"code":"ENV","income":205616023.09},{"code":"AGR","income":186531195},{"code":"SCI","income":165545250},{"code":"CSP","income":161846772},{"code":"BAN","income":160679412.18},{"code":"CPI","income":152812000},{"code":"GOV","income":126640889.59},{"code":"COM","income":124827375}]}
+{
+  "abbreviation": "DC",
+  "name": "District of Columbia",
+  "totalSpending": 4502130240.29,
+  "totalFilings": 174507,
+  "clientCount": 6659,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 415894082.85
+    },
+    {
+      "year": 2019,
+      "income": 439077651.65
+    },
+    {
+      "year": 2020,
+      "income": 444315520.06
+    },
+    {
+      "year": 2021,
+      "income": 476678555.5
+    },
+    {
+      "year": 2022,
+      "income": 539197655.35
+    },
+    {
+      "year": 2023,
+      "income": 1125201281.48
+    },
+    {
+      "year": 2024,
+      "income": 485286238
+    },
+    {
+      "year": 2025,
+      "income": 576479255.4
+    }
+  ],
+  "topClients": [
+    {
+      "name": "QUALCOMM INCORPORATED",
+      "income": 42270000
+    },
+    {
+      "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
+      "income": 34040000
+    },
+    {
+      "name": "COMCAST CORPORATION",
+      "income": 32624875
+    },
+    {
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
+      "income": 24582756
+    },
+    {
+      "name": "T-MOBILE USA, INC.",
+      "income": 21901059.2
+    },
+    {
+      "name": "MICROSOFT CORPORATION",
+      "income": 20097500
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF BROADCASTERS",
+      "income": 17730000
+    },
+    {
+      "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA (PHRMA)",
+      "income": 17384500
+    },
+    {
+      "name": "BUSINESS ROUNDTABLE",
+      "income": 17365000
+    },
+    {
+      "name": "AMERICAN HEALTH CARE ASSOCIATION",
+      "income": 16020125
+    },
+    {
+      "name": "WALMART INC",
+      "income": 14540000
+    },
+    {
+      "name": "ALTRIA CLIENT SERVICES LLC",
+      "income": 14300000
+    },
+    {
+      "name": "AT&T SERVICES, INC.",
+      "income": 13820000
+    },
+    {
+      "name": "AMERICAN AIRLINES, INC.",
+      "income": 12602000
+    },
+    {
+      "name": "TAX REFORM COALITION",
+      "income": 12430000
+    },
+    {
+      "name": "FEDEX CORPORATION",
+      "income": 12420000
+    },
+    {
+      "name": "AMERICAN HOSPITAL ASSOCIATION",
+      "income": 12012000
+    },
+    {
+      "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION",
+      "income": 11951000
+    },
+    {
+      "name": "SOUTHERN COMPANY",
+      "income": 11775000
+    },
+    {
+      "name": "AMERICAN BANKERS ASSOCIATION",
+      "income": 11732000
+    },
+    {
+      "name": "PHRMA",
+      "income": 11579550
+    },
+    {
+      "name": "AMERICAN BEVERAGE ASSOCIATION",
+      "income": 11550000
+    },
+    {
+      "name": "SAP AMERICA, INC.",
+      "income": 11410000
+    },
+    {
+      "name": "META PLATFORMS, INC.",
+      "income": 11292500
+    },
+    {
+      "name": "AIRLINES FOR AMERICA",
+      "income": 11010000
+    },
+    {
+      "name": "RAI SERVICES COMPANY",
+      "income": 10934260
+    },
+    {
+      "name": "AMERICAN INVESTMENT COUNCIL",
+      "income": 10865000
+    },
+    {
+      "name": "BIOTECHNOLOGY INNOVATION ORGANIZATION",
+      "income": 10790000
+    },
+    {
+      "name": "AMERICAN CHEMISTRY COUNCIL",
+      "income": 10750000
+    },
+    {
+      "name": "EDISON ELECTRIC INSTITUTE",
+      "income": 10515000
+    },
+    {
+      "name": "APPLE INC.",
+      "income": 10470000
+    },
+    {
+      "name": "EMPLOYEE-OWNED S CORPORATIONS OF AMERICA",
+      "income": 10430000
+    },
+    {
+      "name": "CTIA - THE WIRELESS ASSOCIATION",
+      "income": 10327500
+    },
+    {
+      "name": "ORACLE CORPORATION",
+      "income": 10190000
+    },
+    {
+      "name": "ORACLE AMERICA, INC.",
+      "income": 10150000
+    },
+    {
+      "name": "FORD MOTOR COMPANY",
+      "income": 9945000
+    },
+    {
+      "name": "INVESTMENT COMPANY INSTITUTE",
+      "income": 9904500
+    },
+    {
+      "name": "CENTENE CORPORATION",
+      "income": 9732000
+    },
+    {
+      "name": "ENTERGY SERVICES LLC",
+      "income": 9630000
+    },
+    {
+      "name": "CVS HEALTH",
+      "income": 9490000
+    },
+    {
+      "name": "NATIONAL CABLE AND TELECOMMUNICATIONS ASSOCIATION",
+      "income": 9430000
+    },
+    {
+      "name": "AMERICAN MARITIME PARTNERSHIP",
+      "income": 9400000
+    },
+    {
+      "name": "GENERAL MOTORS COMPANY",
+      "income": 9295000
+    },
+    {
+      "name": "T-MOBILE",
+      "income": 9050000
+    },
+    {
+      "name": "21ST CENTURY PRIVACY COALITION",
+      "income": 8995000
+    },
+    {
+      "name": "SENIOR CARE PHARMACY COALITION",
+      "income": 8990000
+    },
+    {
+      "name": "NOVARTIS",
+      "income": 8980000
+    },
+    {
+      "name": "BLUE CROSS BLUE SHIELD ASSOCIATION",
+      "income": 8946000
+    },
+    {
+      "name": "UNITEDHEALTH GROUP, INC.",
+      "income": 8930000
+    },
+    {
+      "name": "ELI LILLY AND COMPANY",
+      "income": 8930000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "TAX",
+      "income": 997770924
+    },
+    {
+      "code": "HCR",
+      "income": 771568522.09
+    },
+    {
+      "code": "BUD",
+      "income": 670748212.94
+    },
+    {
+      "code": "TRD",
+      "income": 488933702
+    },
+    {
+      "code": "MMM",
+      "income": 470304792.99
+    },
+    {
+      "code": "TEC",
+      "income": 337285417.7
+    },
+    {
+      "code": "ENG",
+      "income": 313644009.35
+    },
+    {
+      "code": "FIN",
+      "income": 287225569
+    },
+    {
+      "code": "DEF",
+      "income": 243105033
+    },
+    {
+      "code": "TRA",
+      "income": 235114484
+    },
+    {
+      "code": "LBR",
+      "income": 221741048.59
+    },
+    {
+      "code": "CPT",
+      "income": 221181014
+    },
+    {
+      "code": "ENV",
+      "income": 205616023.09
+    },
+    {
+      "code": "AGR",
+      "income": 186531195
+    },
+    {
+      "code": "SCI",
+      "income": 165545250
+    },
+    {
+      "code": "CSP",
+      "income": 161846772
+    },
+    {
+      "code": "BAN",
+      "income": 160679412.18
+    },
+    {
+      "code": "CPI",
+      "income": 152812000
+    },
+    {
+      "code": "GOV",
+      "income": 126640889.59
+    },
+    {
+      "code": "COM",
+      "income": 124827375
+    }
+  ],
+  "perCapita": 27104.99,
+  "population": 678972,
+  "nationalRank": 1,
+  "perCapitaRank": 1
+}

@@ -1,1 +1,99 @@
-{"id":171559,"name":"VALERO ENERGY","slug":"valero-energy","state":"TX","description":"Fuels manufacturer","totalSpending":1860000,"filings":31,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":300000},{"year":2023,"income":240000},{"year":2024,"income":120000},{"year":2025,"income":240000}],"firms":["OWEN EVANS INGOLS"],"lobbyists":["DARYL OWEN","ADAM INGOLS","BRUCE EVANS"],"issues":["FUE","TRD","TAX","ENV",null],"sampleDescriptions":["Issues associated with the Renewable Fuel Standard and fuel manufacturing; issues associated with western hemisphere diplomacy","Issues associated with the Renewable Fuel Standard and fuel manufacturing; issues associated with international maritime environmental compliance","environmental and operational issues associated with fuels manufacturing; international trade; corporate taxation","Issues associated with fuels manufacturing; the RFS; U.S. policy regarding Venezuela; policies impacting the International maritime Organization","Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding Venezuela and Mexico; policies impacting the International Maritime Organization","Issues related to energy tax credits","Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding Venezuela and Mexico; policies impacting the International Maritime Organization; H.R. 2839 & S. 2583 - State, Foreign Operations appropriations","Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding crude oil imports;  S.2657 - Advanced Geothermal Innovation Leadership Act of 2019 (energy package legislation)","Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding crude oil petroleum exports and imports","Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding crude oil and refined product exports and imports","Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding crude oil and refined product exports and imports; H.R. 133 - FY2021 Omnibus and COVID Relief and Response Act","Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies.  Issues associated with carbon capture and utilization, as well as those pertaining to energy infrastructure.","Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies.  Issues associated with carbon capture and utilization and energy infrastructure. House and Senate Energy and Water Development appropriations bills; House and Senate Interior, Environment and Related Agencies appropriations bill (H.R. 4372); the Clean Energy for America Act (Senate); Energy Infrastructure Act (Senate)","Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies.  Issues associated with carbon capture and utilization and energy infrastructure. House and Senate Energy and Water Development appropriations bills (HR 4549 and S. 2605); House and Senate Interior, Environment and Related Agencies appropriations bill (H.R. 4372 and Senate companion); H.R.3684 - Infrastructure Investment and Jobs Act; issues related to the downstream refining sector contained within the reconciliation package/instructions","Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies.  Issues associated with carbon capture and utilization and energy infrastructure. House and Senate Energy and Water Development appropriations bills (HR 4549 and S. 2605); House and Senate Interior, Environment and Related Agencies appropriations bill (H.R. 4372 and Senate companion); H.R.3684 - Infrastructure Investment and Jobs Act; issues related to the downstream refining sector contained within the reconciliation package/instructions (H.R. 5376 - Build Back Better Act)","Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies. Issues associated with carbon capture and utilization and federal funding support programs related to energy infrastructure; issues related to the downstream refining sector contained within the reconciliation package/instructions (H.R. 5376 - Build Back Better Act); issues related to crude oil and petroleum product import bans and sanctions - S. 3978 the NO RUSSIA Act and S. 3757 - Ban Russian Energy Imports Act","Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies. Issues associated with carbon capture and utilization and federal funding support programs related to energy infrastructure; issues related to the downstream refining sector contained within the reconciliation package/instructions (H.R. 5376 - Build Back Better Act); issues related to crude oil and petroleum product import bans and sanctions - S. 3978 the NO RUSSIA Act and S. 3757 - Ban Russian Energy Imports Act; issues related to HR 2471 - Consolidated Appropriations Act for FY 2022","Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies; issues associated with carbon capture and utilization and federal funding support programs related to energy infrastructure; issues related to the downstream refining sector contained within the reconciliation package/instructions (H.R. 5376 - Build Back Better Act); issues related to crude oil and petroleum product import bans and sanctions - S. 3978 the NO RUSSIA Act and S. 3757 - Ban Russian Energy Imports Act","Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies; issues related to the downstream refining sector contained within HR 5376 - Inflation Reduction Act of 2022; issues related to permitting reform","General issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies; implementation issues related to the Bipartisan Infrastructure Law and the Inflation Reduction Act of 2022; issues related to permitting reform; issues related to federal fuel use; appropriations issues impacting the downstream refining sector in H.R. 2617 - Consolidated Appropriations Act for FY 2023"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 171559,
+  "name": "VALERO ENERGY",
+  "slug": "valero-energy",
+  "state": "TX",
+  "description": "Fuels manufacturer",
+  "totalSpending": 1860000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "OWEN EVANS INGOLS"
+  ],
+  "lobbyists": [
+    "DARYL OWEN",
+    "ADAM INGOLS",
+    "BRUCE EVANS"
+  ],
+  "issues": [
+    "FUE",
+    "TRD",
+    "TAX",
+    "ENV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues associated with the Renewable Fuel Standard and fuel manufacturing; issues associated with western hemisphere diplomacy",
+    "Issues associated with the Renewable Fuel Standard and fuel manufacturing; issues associated with international maritime environmental compliance",
+    "environmental and operational issues associated with fuels manufacturing; international trade; corporate taxation",
+    "Issues associated with fuels manufacturing; the RFS; U.S. policy regarding Venezuela; policies impacting the International maritime Organization",
+    "Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding Venezuela and Mexico; policies impacting the International Maritime Organization",
+    "Issues related to energy tax credits",
+    "Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding Venezuela and Mexico; policies impacting the International Maritime Organization; H.R. 2839 & S. 2583 - State, Foreign Operations appropriations",
+    "Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding crude oil imports;  S.2657 - Advanced Geothermal Innovation Leadership Act of 2019 (energy package legislation)",
+    "Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding crude oil petroleum exports and imports",
+    "Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding crude oil and refined product exports and imports",
+    "Issues associated with fuels manufacturing; the Renewable Fuel Standard; U.S. policy regarding crude oil and refined product exports and imports; H.R. 133 - FY2021 Omnibus and COVID Relief and Response Act",
+    "Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies.  Issues associated with carbon capture and utilization, as well as those pertaining to energy infrastructure.",
+    "Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies.  Issues associated with carbon capture and utilization and energy infrastructure. House and Senate Energy and Water Development appropriations bills; House and Senate Interior, Environment and Related Agencies appropriations bill (H.R. 4372); the Clean Energy for America Act (Senate); Energy Infrastructure Act (Senate)",
+    "Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies.  Issues associated with carbon capture and utilization and energy infrastructure. House and Senate Energy and Water Development appropriations bills (HR 4549 and S. 2605); House and Senate Interior, Environment and Related Agencies appropriations bill (H.R. 4372 and Senate companion); H.R.3684 - Infrastructure Investment and Jobs Act; issues related to the downstream refining sector contained within the reconciliation package/instructions",
+    "Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies.  Issues associated with carbon capture and utilization and energy infrastructure. House and Senate Energy and Water Development appropriations bills (HR 4549 and S. 2605); House and Senate Interior, Environment and Related Agencies appropriations bill (H.R. 4372 and Senate companion); H.R.3684 - Infrastructure Investment and Jobs Act; issues related to the downstream refining sector contained within the reconciliation package/instructions (H.R. 5376 - Build Back Better Act)",
+    "Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies. Issues associated with carbon capture and utilization and federal funding support programs related to energy infrastructure; issues related to the downstream refining sector contained within the reconciliation package/instructions (H.R. 5376 - Build Back Better Act); issues related to crude oil and petroleum product import bans and sanctions - S. 3978 the NO RUSSIA Act and S. 3757 - Ban Russian Energy Imports Act",
+    "Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies. Issues associated with carbon capture and utilization and federal funding support programs related to energy infrastructure; issues related to the downstream refining sector contained within the reconciliation package/instructions (H.R. 5376 - Build Back Better Act); issues related to crude oil and petroleum product import bans and sanctions - S. 3978 the NO RUSSIA Act and S. 3757 - Ban Russian Energy Imports Act; issues related to HR 2471 - Consolidated Appropriations Act for FY 2022",
+    "Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies; issues associated with carbon capture and utilization and federal funding support programs related to energy infrastructure; issues related to the downstream refining sector contained within the reconciliation package/instructions (H.R. 5376 - Build Back Better Act); issues related to crude oil and petroleum product import bans and sanctions - S. 3978 the NO RUSSIA Act and S. 3757 - Ban Russian Energy Imports Act",
+    "Issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies; issues related to the downstream refining sector contained within HR 5376 - Inflation Reduction Act of 2022; issues related to permitting reform",
+    "General issues related to fuels manufacturing including the renewable fuel standard and associated pathways policies; implementation issues related to the Bipartisan Infrastructure Law and the Inflation Reduction Act of 2022; issues related to permitting reform; issues related to federal fuel use; appropriations issues impacting the downstream refining sector in H.R. 2617 - Consolidated Appropriations Act for FY 2023"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 232500,
+  "peakYear": 2022,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "energy"
+}

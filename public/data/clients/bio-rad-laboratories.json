@@ -1,1 +1,80 @@
-{"id":205999,"name":"BIO-RAD LABORATORIES","slug":"bio-rad-laboratories","state":"CA","description":"Life sciences biomedical diagnostic innovator.","totalSpending":1610000,"filings":20,"yearlySpending":[{"year":2020,"income":250000},{"year":2021,"income":160000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":240000}],"firms":["FORBES-TATE"],"lobbyists":["BARRETT THORNHILL","STEVEN PALMER","ZACHARY WILLIAMS","EDWARD RENO","ELIZABETH GREER","DERRICK WHITE","ELIZABETH BENNETT","CYNTHIA BROWN","RACHEL MILLER","SAMANTHA MCLEAN"],"issues":["HCR","BUD",null,"DEF","MMM"],"sampleDescriptions":["Issues related to biomedical innovation; Issues related to diagnostic responses for COVID-19.","Issues related to biomedical innovation.","Issues related to H.R. 925 - The Heroes Act.","Issues related to biomedical research and development; Issues related to pathogen surveillance.","Issues related to advanced diagnostic testing and laboratory tools."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 205999,
+  "name": "BIO-RAD LABORATORIES",
+  "slug": "bio-rad-laboratories",
+  "state": "CA",
+  "description": "Life sciences biomedical diagnostic innovator.",
+  "totalSpending": 1610000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "FORBES-TATE"
+  ],
+  "lobbyists": [
+    "BARRETT THORNHILL",
+    "STEVEN PALMER",
+    "ZACHARY WILLIAMS",
+    "EDWARD RENO",
+    "ELIZABETH GREER",
+    "DERRICK WHITE",
+    "ELIZABETH BENNETT",
+    "CYNTHIA BROWN",
+    "RACHEL MILLER",
+    "SAMANTHA MCLEAN"
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    null,
+    "DEF",
+    "MMM"
+  ],
+  "sampleDescriptions": [
+    "Issues related to biomedical innovation; Issues related to diagnostic responses for COVID-19.",
+    "Issues related to biomedical innovation.",
+    "Issues related to H.R. 925 - The Heroes Act.",
+    "Issues related to biomedical research and development; Issues related to pathogen surveillance.",
+    "Issues related to advanced diagnostic testing and laboratory tools."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -4,
+  "trajectory": "stable",
+  "yearsActive": 6,
+  "avgAnnualSpending": 268333,
+  "peakYear": 2022,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 4
+}

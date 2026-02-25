@@ -1,1 +1,36 @@
-{"id":64167,"name":"KUCOIN","slug":"kucoin","state":null,"description":"Financial technology","totalSpending":2000000,"filings":2,"yearlySpending":[{"year":2025,"income":2000000}],"firms":["A10 ASSOCIATES, LLC"],"lobbyists":["JESSICA TOCCO"],"issues":["FIN"],"sampleDescriptions":["-Issues related to crypto legislation and regulations. -Issues related to company settlement."],"years":[2025]}
+{
+  "id": 64167,
+  "name": "KUCOIN",
+  "slug": "kucoin",
+  "state": null,
+  "description": "Financial technology",
+  "totalSpending": 2000000,
+  "filings": 2,
+  "yearlySpending": [
+    {
+      "year": 2025,
+      "income": 2000000
+    }
+  ],
+  "firms": [
+    "A10 ASSOCIATES, LLC"
+  ],
+  "lobbyists": [
+    "JESSICA TOCCO"
+  ],
+  "issues": [
+    "FIN"
+  ],
+  "sampleDescriptions": [
+    "-Issues related to crypto legislation and regulations. -Issues related to company settlement."
+  ],
+  "years": [
+    2025
+  ],
+  "yearsActive": 1,
+  "avgAnnualSpending": 2000000,
+  "peakYear": 2025,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1
+}

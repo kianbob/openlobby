@@ -1,1 +1,81 @@
-{"id":202436,"name":"CIVITAS CAPITAL MANAGEMENT, LLC","slug":"civitas-capital-management-llc","state":"TX","description":"Investment Firm","totalSpending":1460000,"filings":30,"yearlySpending":[{"year":2018,"income":270000},{"year":2019,"income":240000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":160000},{"year":2023,"income":160000},{"year":2024,"income":160000},{"year":2025,"income":120000}],"firms":["KLEIN/JOHNSON GROUP"],"lobbyists":["ISRAEL KLEIN","MATTHEW JOHNSON","BRIAN GREER"],"issues":["IMM",null],"sampleDescriptions":["- EB-5 Regional Center reauthorization","EB-5 Regional Center reauthorization","EB-5 Regional Center reauthorization; HR 2471 Consolidated Appropriations Act, 2022","EB-5 Regional Center reauthorization; HR 2471 Consolidated Appropriations Act, 2022.","EB-5 Regional Center policy","EB-5 Regional Center policy."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202436,
+  "name": "CIVITAS CAPITAL MANAGEMENT, LLC",
+  "slug": "civitas-capital-management-llc",
+  "state": "TX",
+  "description": "Investment Firm",
+  "totalSpending": 1460000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 270000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 160000
+    },
+    {
+      "year": 2023,
+      "income": 160000
+    },
+    {
+      "year": 2024,
+      "income": 160000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "KLEIN/JOHNSON GROUP"
+  ],
+  "lobbyists": [
+    "ISRAEL KLEIN",
+    "MATTHEW JOHNSON",
+    "BRIAN GREER"
+  ],
+  "issues": [
+    "IMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "- EB-5 Regional Center reauthorization",
+    "EB-5 Regional Center reauthorization",
+    "EB-5 Regional Center reauthorization; HR 2471 Consolidated Appropriations Act, 2022",
+    "EB-5 Regional Center reauthorization; HR 2471 Consolidated Appropriations Act, 2022.",
+    "EB-5 Regional Center policy",
+    "EB-5 Regional Center policy."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -56,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 182500,
+  "peakYear": 2018,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

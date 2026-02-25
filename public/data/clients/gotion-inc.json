@@ -1,1 +1,62 @@
-{"id":57856,"name":"GOTION, INC.","slug":"gotion-inc","state":"CA","description":"Energy Solutions","totalSpending":3610000,"filings":13,"yearlySpending":[{"year":2023,"income":400000},{"year":2024,"income":2300000},{"year":2025,"income":910000}],"firms":["MERCURY PUBLIC AFFAIRS, LLC"],"lobbyists":["TRENT LEFKOWITZ","PATRICK COSTELLO","PETER KUCIK","TOBY MOFFETT","JOHN LONERGAN","CHERI BUSTOS","TOI HUTCHINSON","ZACH KOUTSKY","BRYAN LANZA"],"issues":[null,"ECN","ENG","MAN","SCI","TRD"],"sampleDescriptions":["Issues related to clean energy technology, U.S. domestic manufacturing and foreign direct investment, trade and economic development.","Issues related to clean energy technology, U.S. domestic manufacturing and foreign direct investment, trade and economic development"],"years":[2023,2024,2025]}
+{
+  "id": 57856,
+  "name": "GOTION, INC.",
+  "slug": "gotion-inc",
+  "state": "CA",
+  "description": "Energy Solutions",
+  "totalSpending": 3610000,
+  "filings": 13,
+  "yearlySpending": [
+    {
+      "year": 2023,
+      "income": 400000
+    },
+    {
+      "year": 2024,
+      "income": 2300000
+    },
+    {
+      "year": 2025,
+      "income": 910000
+    }
+  ],
+  "firms": [
+    "MERCURY PUBLIC AFFAIRS, LLC"
+  ],
+  "lobbyists": [
+    "TRENT LEFKOWITZ",
+    "PATRICK COSTELLO",
+    "PETER KUCIK",
+    "TOBY MOFFETT",
+    "JOHN LONERGAN",
+    "CHERI BUSTOS",
+    "TOI HUTCHINSON",
+    "ZACH KOUTSKY",
+    "BRYAN LANZA"
+  ],
+  "issues": [
+    null,
+    "ECN",
+    "ENG",
+    "MAN",
+    "SCI",
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "Issues related to clean energy technology, U.S. domestic manufacturing and foreign direct investment, trade and economic development.",
+    "Issues related to clean energy technology, U.S. domestic manufacturing and foreign direct investment, trade and economic development"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 127,
+  "trajectory": "exploding",
+  "yearsActive": 3,
+  "avgAnnualSpending": 1203333,
+  "peakYear": 2024,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 5
+}

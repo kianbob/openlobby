@@ -1,1 +1,74 @@
-{"id":111338,"name":"MGIC","slug":"mgic","state":"WI","description":"mortgage insurance","totalSpending":1442500,"filings":25,"yearlySpending":[{"year":2018,"income":10000},{"year":2019,"income":190000},{"year":2020,"income":267500},{"year":2021,"income":195000},{"year":2022,"income":325000},{"year":2023,"income":325000},{"year":2024,"income":130000}],"firms":["CAPSTONE NATIONAL PARTNERS"],"lobbyists":["WILLIAM STONE","WILLIAM LAWLER","CHRISTOPHER CZARNECKI"],"issues":["FIN",null],"sampleDescriptions":["CECL ; FHFA","Housing finance","HR 4212; HR 3891"],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 111338,
+  "name": "MGIC",
+  "slug": "mgic",
+  "state": "WI",
+  "description": "mortgage insurance",
+  "totalSpending": 1442500,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 10000
+    },
+    {
+      "year": 2019,
+      "income": 190000
+    },
+    {
+      "year": 2020,
+      "income": 267500
+    },
+    {
+      "year": 2021,
+      "income": 195000
+    },
+    {
+      "year": 2022,
+      "income": 325000
+    },
+    {
+      "year": 2023,
+      "income": 325000
+    },
+    {
+      "year": 2024,
+      "income": 130000
+    }
+  ],
+  "firms": [
+    "CAPSTONE NATIONAL PARTNERS"
+  ],
+  "lobbyists": [
+    "WILLIAM STONE",
+    "WILLIAM LAWLER",
+    "CHRISTOPHER CZARNECKI"
+  ],
+  "issues": [
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "CECL ; FHFA",
+    "Housing finance",
+    "HR 4212; HR 3891"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": 1200,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 206071,
+  "peakYear": 2022,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

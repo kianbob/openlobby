@@ -1,1 +1,107 @@
-{"id":184173,"name":"CONSUMER BRANDS ASSOCIATION","slug":"consumer-brands-association","state":"VA","description":"Consumer brand goods trade association","totalSpending":1380000,"filings":28,"yearlySpending":[{"year":2018,"income":80000},{"year":2019,"income":100000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["AVOQ, LLC"],"lobbyists":["STEVEN ELMENDORF","KRISTINA KENNEDY","STACEY ALEXANDER","WHITAKER ASKEW","KEITH CASTALDO","SANDRA ALCALA","NATALIE FARR HARRISON","BILL GHENT","CAITLIN CANTER","LINDSEY SEIDMAN"],"issues":["BUD","FOO","MAN","SCI","TRA",null,"TRD"],"sampleDescriptions":["Issues related to appropriations","Issues related to the food and beverage industries","Issues related to the Coronavirus; H.R. 6201 (Families First Coronavirus Response Act) and H.R. 748 (CARES Act)","Issues related to the Coronavirus;  H.R. 748 CARES Act; CARES Act Implementation","Issues related to the food and beverage industries\nIssues related to Supply Chain efficiency","Issues related to COVID-19 stimulus legislation; H.R. 748 (CARES Act); CARES Act implementation; and H.R. 6800 (The HEROES Act)","Issues related to Supply Chain efficiency","Issues related to COVID-19 stimulus legislation; implementation and oversight of H.R. 6201 (Families First Coronavirus Response Act) and H.R. 748 (Cares Act); H.R. 6800 (HEROES Act); H.R. 133 (FY2021 Omnibus and COVID Relief and Response Act)","Issues related to COVID-19 stimulus legislation; implementation and oversight of H.R. 6201 (Families First Coronavirus Response Act) and H.R. 748 (Cares Act); H.R. 6800 (HEROES Act); H.R. 133 (FY2021 Omnibus and COVID Relief and Response Act); H.R.1319 (American Rescue Plan Act of 2021)","Issues related to COVID-19 stimulus legislation; implementation and oversight of H.R.1319 (American Rescue Plan Act of 2021)","Issues related to Supply Chain efficiency\nH.R.1024 (COVID-19 Chain Resiliency Act of 2021)","Issues related to S. 1260 (United States Innovation and Competition Act of 2021)","Issues related to infrastructure legislation; H.R. 3684 (INVEST in America Act); H.R. 1931 (Surface Transportation Reauthorization Act of 2021)","Issues related to the Infrastructure Investment and Jobs Act (H.R.3684)","Issues related to supply chain efficiency","Issues related to S.1260 (United States Innovation and Competition Act of 2021)","Issues related to the Fiscal Year 2022 budget resolution (S.Con.Res.14) and the Build Back Better Act (A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S.Con.Res.14.)","Issues related to H.R.5376 (Build Back Better Act)","Issues related to the S.1260 (United States Innovation and Competition Act of 2021) and H.R.4521 (America COMPETES Act of 2022) conference","Issues related to FY23 appropriations Issues related to the FY23 National Defense Authorization Act Issues related to H.R.5376 (Inflation Reduction Act of 2022)"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184173,
+  "name": "CONSUMER BRANDS ASSOCIATION",
+  "slug": "consumer-brands-association",
+  "state": "VA",
+  "description": "Consumer brand goods trade association",
+  "totalSpending": 1380000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 80000
+    },
+    {
+      "year": 2019,
+      "income": 100000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "AVOQ, LLC"
+  ],
+  "lobbyists": [
+    "STEVEN ELMENDORF",
+    "KRISTINA KENNEDY",
+    "STACEY ALEXANDER",
+    "WHITAKER ASKEW",
+    "KEITH CASTALDO",
+    "SANDRA ALCALA",
+    "NATALIE FARR HARRISON",
+    "BILL GHENT",
+    "CAITLIN CANTER",
+    "LINDSEY SEIDMAN"
+  ],
+  "issues": [
+    "BUD",
+    "FOO",
+    "MAN",
+    "SCI",
+    "TRA",
+    null,
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "Issues related to appropriations",
+    "Issues related to the food and beverage industries",
+    "Issues related to the Coronavirus; H.R. 6201 (Families First Coronavirus Response Act) and H.R. 748 (CARES Act)",
+    "Issues related to the Coronavirus;  H.R. 748 CARES Act; CARES Act Implementation",
+    "Issues related to the food and beverage industries\nIssues related to Supply Chain efficiency",
+    "Issues related to COVID-19 stimulus legislation; H.R. 748 (CARES Act); CARES Act implementation; and H.R. 6800 (The HEROES Act)",
+    "Issues related to Supply Chain efficiency",
+    "Issues related to COVID-19 stimulus legislation; implementation and oversight of H.R. 6201 (Families First Coronavirus Response Act) and H.R. 748 (Cares Act); H.R. 6800 (HEROES Act); H.R. 133 (FY2021 Omnibus and COVID Relief and Response Act)",
+    "Issues related to COVID-19 stimulus legislation; implementation and oversight of H.R. 6201 (Families First Coronavirus Response Act) and H.R. 748 (Cares Act); H.R. 6800 (HEROES Act); H.R. 133 (FY2021 Omnibus and COVID Relief and Response Act); H.R.1319 (American Rescue Plan Act of 2021)",
+    "Issues related to COVID-19 stimulus legislation; implementation and oversight of H.R.1319 (American Rescue Plan Act of 2021)",
+    "Issues related to Supply Chain efficiency\nH.R.1024 (COVID-19 Chain Resiliency Act of 2021)",
+    "Issues related to S. 1260 (United States Innovation and Competition Act of 2021)",
+    "Issues related to infrastructure legislation; H.R. 3684 (INVEST in America Act); H.R. 1931 (Surface Transportation Reauthorization Act of 2021)",
+    "Issues related to the Infrastructure Investment and Jobs Act (H.R.3684)",
+    "Issues related to supply chain efficiency",
+    "Issues related to S.1260 (United States Innovation and Competition Act of 2021)",
+    "Issues related to the Fiscal Year 2022 budget resolution (S.Con.Res.14) and the Build Back Better Act (A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S.Con.Res.14.)",
+    "Issues related to H.R.5376 (Build Back Better Act)",
+    "Issues related to the S.1260 (United States Innovation and Competition Act of 2021) and H.R.4521 (America COMPETES Act of 2022) conference",
+    "Issues related to FY23 appropriations Issues related to the FY23 National Defense Authorization Act Issues related to H.R.5376 (Inflation Reduction Act of 2022)"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 150,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 172500,
+  "peakYear": 2020,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 6
+}

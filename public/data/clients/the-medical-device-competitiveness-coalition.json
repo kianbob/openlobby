@@ -1,1 +1,91 @@
-{"id":163090,"name":"THE MEDICAL DEVICE COMPETITIVENESS COALITION","slug":"the-medical-device-competitiveness-coalition","state":"DC","description":"Informal Coalition","totalSpending":1800000,"filings":30,"yearlySpending":[{"year":2018,"income":300000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":120000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["CAPITOL TAX PARTNERS, LLP"],"lobbyists":["WILLIAM MCKENNEY","MELISSA MUELLER","JONATHAN TALISMAN","CHRISTOPHER JAVENS","PATRICK HECK","JACOB TRIOLO","CAROLINE HARRIS"],"issues":["TAX",null],"sampleDescriptions":["Legislative and regulatory services related to tax reform and other tax legislative and regulatory issues including H.R. 1, Bill to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 (bill formerly known as the Tax Cuts and Jobs Act) and S. 1, an original bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2018.","Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act.","Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act and S.692, Protect Medical Innovation Act of 2019.","Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act and S.692, Protect Medical Innovation Act of 2019, and H.R. 2207, Protect Medical Innovation Act of 2019.","Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act and tax issues related to supply chains.","Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act, H.R. 133, the Consolidated Appropriations Act, 2021, and tax issues related to supply chains.","Legislative and regulatory services related to H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.","Legislative and regulatory services related to H.R. 2617, Consolidated Appropriations Act, 2023.","Legislative issues relating to tax incentives for manufacturing and investment.","Legislative issues relating to tax incentives for manufacturing and investment, including H.R. 1, 2025 Budget Reconciliation Bill.","Legislative issues relating to tax incentives for manufacturing and investment, including P.L. 119-21."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 163090,
+  "name": "THE MEDICAL DEVICE COMPETITIVENESS COALITION",
+  "slug": "the-medical-device-competitiveness-coalition",
+  "state": "DC",
+  "description": "Informal Coalition",
+  "totalSpending": 1800000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 300000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "CAPITOL TAX PARTNERS, LLP"
+  ],
+  "lobbyists": [
+    "WILLIAM MCKENNEY",
+    "MELISSA MUELLER",
+    "JONATHAN TALISMAN",
+    "CHRISTOPHER JAVENS",
+    "PATRICK HECK",
+    "JACOB TRIOLO",
+    "CAROLINE HARRIS"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislative and regulatory services related to tax reform and other tax legislative and regulatory issues including H.R. 1, Bill to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 (bill formerly known as the Tax Cuts and Jobs Act) and S. 1, an original bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2018.",
+    "Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act.",
+    "Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act and S.692, Protect Medical Innovation Act of 2019.",
+    "Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act and S.692, Protect Medical Innovation Act of 2019, and H.R. 2207, Protect Medical Innovation Act of 2019.",
+    "Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act and tax issues related to supply chains.",
+    "Legislative and regulatory services related to tax reform, PL 115-97 Tax Cuts and Jobs Act, H.R. 133, the Consolidated Appropriations Act, 2021, and tax issues related to supply chains.",
+    "Legislative and regulatory services related to H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "Legislative and regulatory services related to H.R. 2617, Consolidated Appropriations Act, 2023.",
+    "Legislative issues relating to tax incentives for manufacturing and investment.",
+    "Legislative issues relating to tax incentives for manufacturing and investment, including H.R. 1, 2025 Budget Reconciliation Bill.",
+    "Legislative issues relating to tax incentives for manufacturing and investment, including P.L. 119-21."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 225000,
+  "peakYear": 2018,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

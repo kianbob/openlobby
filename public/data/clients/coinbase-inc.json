@@ -1,1 +1,106 @@
-{"id":187781,"name":"COINBASE, INC.","slug":"coinbase-inc","state":"CA","description":"Digital currency wallet and platform","totalSpending":2020000,"filings":30,"yearlySpending":[{"year":2018,"income":170000},{"year":2019,"income":200000},{"year":2020,"income":230000},{"year":2021,"income":280000},{"year":2022,"income":340000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["FRANKLIN SQUARE GROUP, LLC"],"lobbyists":["MATTHEW TANIELIAN","JOSHUA ACKIL","KARA CALVERT CAMPBELL","BRIAN PETERS","BRIAN WORTH","SARAH BETH JANSEN","TROY PERRY","JESSICA MARTINEZ","WESLEY MCCLELLAND","KEVIN CUMMINS","KHLOE GREENWOOD","ROLAND LITTERST"],"issues":["FIN","CPI",null,"CPT"],"sampleDescriptions":["policy issues related to digital currency and financial technology","policy issues related to digital currency and financial technology; AML/BSA reform","policy issues related to digital currency and financial technology; cybersecurity","policy issues related to digital assets and financial technology; AML/BSA reform","policy issues related to digital assets and financial technology; cybersecurity","policy issues related to digital assets and financial technology; AML/BSA reform; margin trading","policy issues related to digital assets and financial technology; cybersecurity; Covid recover; margin trading","policy issues related to digital assets and financial technology; cybersecurity; margin trading","policy issues related to digital assets and financial technology; AML/BSA reform; margin trading; regulatory structure for digital assets","policy issues related to digital assets and financial technology; Anti-Money Laundering Act of 2021; margin trading; regulatory structure for digital assets","policy issues related to digital assets and financial technology; Anti-Money Laundering Act of 2021; regulatory structure for digital assets","policy issues related to digital assets and financial technology; implementation of the Anti-Money Laundering Act of 2021; regulatory structure for digital assets","policy issues related to digital assets and financial technology; cybersecurity; S. 1260, Endless Frontier Act; S. 2731, United States Innovation and Competition Act of 2021","policy issues related to digital assets and financial technology; implementation of the Anti-Money Laundering Act of 2021; regulatory structure for digital assets; H.R.3684 - Infrastructure Investment and Jobs Act","policy issues related to digital assets and financial technology; cybersecurity and ransomeware issues; S. 1260, Endless Frontier Act; S. 2731, United States Innovation and Competition Act of 2021; H.R.3684 - Infrastructure Investment and Jobs Act","Policy issues related to digital assets and financial technology; \nCybersecurity and ransomware issues; \nS. 1260, Endless Frontier Act; \nS. 2731, United States Innovation and Competition Act of 2021; \nH.R.3684 - Infrastructure Investment and Jobs Act","Policy issues related to digital assets and financial technology; \nImplementation of the Anti-Money Laundering Act of 2021; \nRegulatory structure for digital assets; \nH.R.3684 - Infrastructure Investment and Jobs Act","Policy issues related to digital assets and financial technology; Implementation of the Anti-Money Laundering Act of 2021; Regulatory structure for digital assets; H.R.3684, Infrastructure Investment and Jobs Act","Policy issues related to digital assets and financial technology; Cybersecurity and ransomware issues; S. 1260, Endless Frontier Act; S. 2731, United States Innovation and Competition Act of 2021; H.R. 4521, America COMPETES Act of 2022; H.R.3684, Infrastructure Investment and Jobs Act","Policy issues related to digital assets and financial technology; Implementation of the Anti-Money Laundering Act of 2021; Regulatory structure for digital assets; H.R. 3684, Infrastructure Investment and Jobs Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 187781,
+  "name": "COINBASE, INC.",
+  "slug": "coinbase-inc",
+  "state": "CA",
+  "description": "Digital currency wallet and platform",
+  "totalSpending": 2020000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 170000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 230000
+    },
+    {
+      "year": 2021,
+      "income": 280000
+    },
+    {
+      "year": 2022,
+      "income": 340000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "FRANKLIN SQUARE GROUP, LLC"
+  ],
+  "lobbyists": [
+    "MATTHEW TANIELIAN",
+    "JOSHUA ACKIL",
+    "KARA CALVERT CAMPBELL",
+    "BRIAN PETERS",
+    "BRIAN WORTH",
+    "SARAH BETH JANSEN",
+    "TROY PERRY",
+    "JESSICA MARTINEZ",
+    "WESLEY MCCLELLAND",
+    "KEVIN CUMMINS",
+    "KHLOE GREENWOOD",
+    "ROLAND LITTERST"
+  ],
+  "issues": [
+    "FIN",
+    "CPI",
+    null,
+    "CPT"
+  ],
+  "sampleDescriptions": [
+    "policy issues related to digital currency and financial technology",
+    "policy issues related to digital currency and financial technology; AML/BSA reform",
+    "policy issues related to digital currency and financial technology; cybersecurity",
+    "policy issues related to digital assets and financial technology; AML/BSA reform",
+    "policy issues related to digital assets and financial technology; cybersecurity",
+    "policy issues related to digital assets and financial technology; AML/BSA reform; margin trading",
+    "policy issues related to digital assets and financial technology; cybersecurity; Covid recover; margin trading",
+    "policy issues related to digital assets and financial technology; cybersecurity; margin trading",
+    "policy issues related to digital assets and financial technology; AML/BSA reform; margin trading; regulatory structure for digital assets",
+    "policy issues related to digital assets and financial technology; Anti-Money Laundering Act of 2021; margin trading; regulatory structure for digital assets",
+    "policy issues related to digital assets and financial technology; Anti-Money Laundering Act of 2021; regulatory structure for digital assets",
+    "policy issues related to digital assets and financial technology; implementation of the Anti-Money Laundering Act of 2021; regulatory structure for digital assets",
+    "policy issues related to digital assets and financial technology; cybersecurity; S. 1260, Endless Frontier Act; S. 2731, United States Innovation and Competition Act of 2021",
+    "policy issues related to digital assets and financial technology; implementation of the Anti-Money Laundering Act of 2021; regulatory structure for digital assets; H.R.3684 - Infrastructure Investment and Jobs Act",
+    "policy issues related to digital assets and financial technology; cybersecurity and ransomeware issues; S. 1260, Endless Frontier Act; S. 2731, United States Innovation and Competition Act of 2021; H.R.3684 - Infrastructure Investment and Jobs Act",
+    "Policy issues related to digital assets and financial technology; \nCybersecurity and ransomware issues; \nS. 1260, Endless Frontier Act; \nS. 2731, United States Innovation and Competition Act of 2021; \nH.R.3684 - Infrastructure Investment and Jobs Act",
+    "Policy issues related to digital assets and financial technology; \nImplementation of the Anti-Money Laundering Act of 2021; \nRegulatory structure for digital assets; \nH.R.3684 - Infrastructure Investment and Jobs Act",
+    "Policy issues related to digital assets and financial technology; Implementation of the Anti-Money Laundering Act of 2021; Regulatory structure for digital assets; H.R.3684, Infrastructure Investment and Jobs Act",
+    "Policy issues related to digital assets and financial technology; Cybersecurity and ransomware issues; S. 1260, Endless Frontier Act; S. 2731, United States Innovation and Competition Act of 2021; H.R. 4521, America COMPETES Act of 2022; H.R.3684, Infrastructure Investment and Jobs Act",
+    "Policy issues related to digital assets and financial technology; Implementation of the Anti-Money Laundering Act of 2021; Regulatory structure for digital assets; H.R. 3684, Infrastructure Investment and Jobs Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 41,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 252500,
+  "peakYear": 2022,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 3
+}

@@ -1,1 +1,82 @@
-{"id":109408,"name":"THE JUDGE ROTENBERG CENTER","slug":"the-judge-rotenberg-center","state":"MA","description":"Special needs educational facility","totalSpending":1550475,"filings":35,"yearlySpending":[{"year":2018,"income":70000},{"year":2019,"income":170000},{"year":2020,"income":110000},{"year":2021,"income":100000},{"year":2022,"income":250475},{"year":2023,"income":250000},{"year":2024,"income":350000},{"year":2025,"income":250000}],"firms":["BRACEWELL LLP"],"lobbyists":["EDWARD KRENIK","JOHN LEE","DYLAN PASIUK","JOSEPH BRAZAUSKAS"],"issues":["HCR",null,"BUD"],"sampleDescriptions":["pending rulemaking on medical devices","Pending rulemaking on medical devices.","Pending rulemaking on medical devices; Monitor appropriations activity","Pending rulemaking on medical devices; Monitor appropriations activity, FDA user fee reauthorization","Agriculture Appropriations Bill"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 109408,
+  "name": "THE JUDGE ROTENBERG CENTER",
+  "slug": "the-judge-rotenberg-center",
+  "state": "MA",
+  "description": "Special needs educational facility",
+  "totalSpending": 1550475,
+  "filings": 35,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 70000
+    },
+    {
+      "year": 2019,
+      "income": 170000
+    },
+    {
+      "year": 2020,
+      "income": 110000
+    },
+    {
+      "year": 2021,
+      "income": 100000
+    },
+    {
+      "year": 2022,
+      "income": 250475
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 350000
+    },
+    {
+      "year": 2025,
+      "income": 250000
+    }
+  ],
+  "firms": [
+    "BRACEWELL LLP"
+  ],
+  "lobbyists": [
+    "EDWARD KRENIK",
+    "JOHN LEE",
+    "DYLAN PASIUK",
+    "JOSEPH BRAZAUSKAS"
+  ],
+  "issues": [
+    "HCR",
+    null,
+    "BUD"
+  ],
+  "sampleDescriptions": [
+    "pending rulemaking on medical devices",
+    "Pending rulemaking on medical devices.",
+    "Pending rulemaking on medical devices; Monitor appropriations activity",
+    "Pending rulemaking on medical devices; Monitor appropriations activity, FDA user fee reauthorization",
+    "Agriculture Appropriations Bill"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 257,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 193809,
+  "peakYear": 2024,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 2
+}

@@ -1,1 +1,104 @@
-{"id":186717,"name":"T-MOBILE USA, INC.","slug":"t-mobile-usa-inc","state":"DC","description":"Provider of wireless communications services.","totalSpending":1380000,"filings":28,"yearlySpending":[{"year":2018,"income":60000},{"year":2019,"income":150000},{"year":2020,"income":60000},{"year":2021,"income":210000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":180000}],"firms":["KOUNTOUPES DENHAM CARR & REID, LLC"],"lobbyists":["ROSE SULLIVAN (LISTED IN ERROR)","LISA KOUNTOUPES","LORI DENHAM","MJ KENNY","JULIE CARR","MARY REID","DAVID PELUSO","ADAM HECHAVARRIA","CLAYTON HAYES","DENISE MOUSOURIS","DENISE NORTHRUP"],"issues":["TEC","TAX",null],"sampleDescriptions":["Issues related to the telecommunications policy including spectrum, competition, rural broadband and security.","Issues related to H.R. 6800, The Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act), including broadband connectivity priorities.  Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband, and security.  Issues related to the federal response to the COVID-19 pandemic.","Issues related to H.R. 133, Consolidated Appropriations Act for Fiscal Year 2021, including 5G, broadband connectivity priorities and the COVID Relief Fund.  Issues related to telecommuncations policy including spectrum, 5G, competition, rural broadband, and security.  Issues related to the federal response to the COVID-19 pandemic.","Issues related to H.R. 133, Consolidated Appropriations Act for Fiscal Year 2022.  Issues related to  telecommunications policy including spectrum, 5G, competition, rural broadband, and security.  Issues related to the federal response to the COVID-19 pandemic.","Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity.  Issues related to the federal response to the COVID-19 pandemic.  Issues related to broadband in the United States Innovation and Competition Act of 2021/Endless Frontier Act.","Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity, including in the Fiscal Year 2022 budget reconciliation process.","Issues related to the Fiscal Year 2022 budget reconciliation process focusing on corporate tax.","Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity, including H.R. 5376, the Build Back Better Act/FY2022 budget reconciliation process and S.1260, the United States Innovation and Competition Act of 2021.","Tax issues related to H.R. 5376, The Build Back Better Act/FY2022 budget reconciliation process.","Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to the Fiscal Year 2022 budget reconciliation process, including H.R. 5376, the Build Back Better Act. Issues related to innovation and competition, including S.1260, the United States Innovation and Competition Act of 2021.","Issues related to the Fiscal Year 2022 budget reconciliation process focusing on corporate taxation, including H.R. 5376, The Build Back Better Act.","Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to the Fiscal Year 2022 budget reconciliation process. Issues related to innovation and competition, including S.1260, the United States Innovation and Competition Act of 2021 and H.R. 4521, the America COMPETES Act of 2022. Issues related to privacy.","Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to the Inflation Reduction Act (Public Law 117-169). Issues related to innovation and competition, including the implementation of the CHIPS and Science Act of 2022 (Public Law 117-167). Issues related to privacy. Issues related to the FCC spectrum auction authority in H.R. 5305, Extending Government Funding and Delivering Emergency Assistance Act.","Issues related to the Inflation Reduction Act (Public Law 117-169), focusing on the book minimum tax and corporate taxation.","Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to innovation and competition. Issues related to privacy. Issues related to the extension of FCC spectrum auction authority.","Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to innovation and competition. Issues related to privacy. Issues related to FCC spectrum auction authority. Issues related to the Affordable Coonectivity Program.","Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to innovation and competition. Issues related to privacy. Issues related to FCC spectrum auction authority. Issues related to the Affordable Connectivity Program.","Issues related to telecommunications policy, including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to innovation and competition. Issues related to privacy. Issues related to T-Mobile's acquisition of USCellular wireless operations. Issues related to FCC spectrum auction authority. Issues related to the Affordable Connectivity Program.","Issues related to telecommunications policy including cybersecurity, broadband coverage, and deployment. Issues related to privacy.","Issues related to corporate taxation, including the One Big Beautiful Act (Public Law 119-21)."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 186717,
+  "name": "T-MOBILE USA, INC.",
+  "slug": "t-mobile-usa-inc",
+  "state": "DC",
+  "description": "Provider of wireless communications services.",
+  "totalSpending": 1380000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 60000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 60000
+    },
+    {
+      "year": 2021,
+      "income": 210000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "KOUNTOUPES DENHAM CARR & REID, LLC"
+  ],
+  "lobbyists": [
+    "ROSE SULLIVAN (LISTED IN ERROR)",
+    "LISA KOUNTOUPES",
+    "LORI DENHAM",
+    "MJ KENNY",
+    "JULIE CARR",
+    "MARY REID",
+    "DAVID PELUSO",
+    "ADAM HECHAVARRIA",
+    "CLAYTON HAYES",
+    "DENISE MOUSOURIS",
+    "DENISE NORTHRUP"
+  ],
+  "issues": [
+    "TEC",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to the telecommunications policy including spectrum, competition, rural broadband and security.",
+    "Issues related to H.R. 6800, The Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act), including broadband connectivity priorities.  Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband, and security.  Issues related to the federal response to the COVID-19 pandemic.",
+    "Issues related to H.R. 133, Consolidated Appropriations Act for Fiscal Year 2021, including 5G, broadband connectivity priorities and the COVID Relief Fund.  Issues related to telecommuncations policy including spectrum, 5G, competition, rural broadband, and security.  Issues related to the federal response to the COVID-19 pandemic.",
+    "Issues related to H.R. 133, Consolidated Appropriations Act for Fiscal Year 2022.  Issues related to  telecommunications policy including spectrum, 5G, competition, rural broadband, and security.  Issues related to the federal response to the COVID-19 pandemic.",
+    "Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity.  Issues related to the federal response to the COVID-19 pandemic.  Issues related to broadband in the United States Innovation and Competition Act of 2021/Endless Frontier Act.",
+    "Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity, including in the Fiscal Year 2022 budget reconciliation process.",
+    "Issues related to the Fiscal Year 2022 budget reconciliation process focusing on corporate tax.",
+    "Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity, including H.R. 5376, the Build Back Better Act/FY2022 budget reconciliation process and S.1260, the United States Innovation and Competition Act of 2021.",
+    "Tax issues related to H.R. 5376, The Build Back Better Act/FY2022 budget reconciliation process.",
+    "Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to the Fiscal Year 2022 budget reconciliation process, including H.R. 5376, the Build Back Better Act. Issues related to innovation and competition, including S.1260, the United States Innovation and Competition Act of 2021.",
+    "Issues related to the Fiscal Year 2022 budget reconciliation process focusing on corporate taxation, including H.R. 5376, The Build Back Better Act.",
+    "Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to the Fiscal Year 2022 budget reconciliation process. Issues related to innovation and competition, including S.1260, the United States Innovation and Competition Act of 2021 and H.R. 4521, the America COMPETES Act of 2022. Issues related to privacy.",
+    "Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to the Inflation Reduction Act (Public Law 117-169). Issues related to innovation and competition, including the implementation of the CHIPS and Science Act of 2022 (Public Law 117-167). Issues related to privacy. Issues related to the FCC spectrum auction authority in H.R. 5305, Extending Government Funding and Delivering Emergency Assistance Act.",
+    "Issues related to the Inflation Reduction Act (Public Law 117-169), focusing on the book minimum tax and corporate taxation.",
+    "Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to innovation and competition. Issues related to privacy. Issues related to the extension of FCC spectrum auction authority.",
+    "Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to innovation and competition. Issues related to privacy. Issues related to FCC spectrum auction authority. Issues related to the Affordable Coonectivity Program.",
+    "Issues related to telecommunications policy including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to innovation and competition. Issues related to privacy. Issues related to FCC spectrum auction authority. Issues related to the Affordable Connectivity Program.",
+    "Issues related to telecommunications policy, including spectrum, 5G, competition, rural broadband and cybersecurity. Issues related to innovation and competition. Issues related to privacy. Issues related to T-Mobile's acquisition of USCellular wireless operations. Issues related to FCC spectrum auction authority. Issues related to the Affordable Connectivity Program.",
+    "Issues related to telecommunications policy including cybersecurity, broadband coverage, and deployment. Issues related to privacy.",
+    "Issues related to corporate taxation, including the One Big Beautiful Act (Public Law 119-21)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 200,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 172500,
+  "peakYear": 2022,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 2
+}

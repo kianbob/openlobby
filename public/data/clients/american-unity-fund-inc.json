@@ -1,1 +1,89 @@
-{"id":192125,"name":"AMERICAN UNITY FUND, INC.","slug":"american-unity-fund-inc","state":"DC","description":"Non-Profit Advocating Freedom for Gay and Lesbian Americans","totalSpending":1780000,"filings":25,"yearlySpending":[{"year":2018,"income":220000},{"year":2019,"income":350000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":280000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":110000}],"firms":["ALLEGIANCE STRATEGIES, LLC"],"lobbyists":["TORREY SHEARER","TYLER DEATON","DILIMAN ABDULKADER"],"issues":["CIV","DIS",null],"sampleDescriptions":["Freedom for LGBT Americans, Including Nondiscrimination and Federal Recognition of Lawfully Married Same-Sex Couples; Specific Bills Include: Juror Nondiscrimination Act, H.R. 1515; Jury Access Act, S. 635; Fair and Equal Housing Act, H.R. 1447; Safe Schools Improvement Act, H.R. 1957; Every Child Deserves a Family Act, H.R. 2640; Child Welfare Provider Inclusion Act, H.R. 1881/S. 811; First Amendment Defense Act, S. 2525; Providing for the retention and service of transgender members of the Armed Forces, S. 1820.","Freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: Equality Act, H.R. 5/S. 788; A resolution expressing opposition to banning service in the Armed Forces by openly transgender individuals, H. Res. 124; A bill to provide for the retention and service of transgender individuals in the Armed Forces, H.R. 1032/S. 373.","Freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: Equality Act, H.R. 5/S. 788; Fairness for All Act, H.R. 5331.","Supporting policies advancing freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: Equality Act, H.R. 5/S. 788; Fairness for All Act, H.R. 5331; National Suicide Hotline Designation Act of 2019 (H.R.4194/S. 2661); Prohibition of Medicaid Funding for Conversion Therapy Act (H.R. 1981); and Therapeutic Fraud Prevention Act of 2019 (H.R.3570/S. 2008).","Supporting policies advancing freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: S. 4649, Protection of Women and Girls in Sports Act; Equality Act, H.R. 5/S. 788; Fairness for All Act, H.R. 5331; National Suicide Hotline Designation Act of 2019 (H.R.4194/S. 2661); Prohibition of Medicaid Funding for Conversion Therapy Act (H.R. 1981); and Therapeutic Fraud Prevention Act of 2019 (H.R.3570/S. 2008).","Supporting policies advancing freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: H.R. 426/S. 251, Protection of Women and Girls in Sports Act; Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440.","Supporting policies advancing freedom for LGBTQ Americans, religious freedom, freedom of speech, and maximizing election transparency and security; Specific Bills Include: H.R. 426/S. 251, Protection of Women and Girls in Sports Act; Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440.","Supporting policies advancing freedom for LGBTQ Americans, religious freedom, freedom of speech, and maximizing election transparency and security; Specific Bills Include: Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440.","Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, supporting national security, andmaximizing election transparency and security; Specific Bills Include: Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440.","Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, supporting national security, and maximizing election transparency and security; Specific Bills Include: Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440; Respect for Marriage Act, H.R. 8404/S.4556; Electoral Count Reform and Presidential Transition Improvement Act of 2022, S.4573/H.R. 8846.","Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, supporting national security including biosecurity and pandemic prevention, and maximizing election transparency and security; Specific Bills Include: Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440; Respect for Marriage Act, H.R. 8404/S.4556; Electoral Count Reform and Presidential Transition Improvement Act of 2022, S.4573/H.R. 8846.","Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, and maximizing election transparency and security; Specific bills include: Equality Act and Fairness for All Act.","Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, and maximizing election transparency and security; Specific bills include: Equality Act, Fairness for All Act, and H.R. 2882, Further Consolidated Appropriations Act, 2024."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 192125,
+  "name": "AMERICAN UNITY FUND, INC.",
+  "slug": "american-unity-fund-inc",
+  "state": "DC",
+  "description": "Non-Profit Advocating Freedom for Gay and Lesbian Americans",
+  "totalSpending": 1780000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 220000
+    },
+    {
+      "year": 2019,
+      "income": 350000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 280000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 110000
+    }
+  ],
+  "firms": [
+    "ALLEGIANCE STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "TORREY SHEARER",
+    "TYLER DEATON",
+    "DILIMAN ABDULKADER"
+  ],
+  "issues": [
+    "CIV",
+    "DIS",
+    null
+  ],
+  "sampleDescriptions": [
+    "Freedom for LGBT Americans, Including Nondiscrimination and Federal Recognition of Lawfully Married Same-Sex Couples; Specific Bills Include: Juror Nondiscrimination Act, H.R. 1515; Jury Access Act, S. 635; Fair and Equal Housing Act, H.R. 1447; Safe Schools Improvement Act, H.R. 1957; Every Child Deserves a Family Act, H.R. 2640; Child Welfare Provider Inclusion Act, H.R. 1881/S. 811; First Amendment Defense Act, S. 2525; Providing for the retention and service of transgender members of the Armed Forces, S. 1820.",
+    "Freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: Equality Act, H.R. 5/S. 788; A resolution expressing opposition to banning service in the Armed Forces by openly transgender individuals, H. Res. 124; A bill to provide for the retention and service of transgender individuals in the Armed Forces, H.R. 1032/S. 373.",
+    "Freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: Equality Act, H.R. 5/S. 788; Fairness for All Act, H.R. 5331.",
+    "Supporting policies advancing freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: Equality Act, H.R. 5/S. 788; Fairness for All Act, H.R. 5331; National Suicide Hotline Designation Act of 2019 (H.R.4194/S. 2661); Prohibition of Medicaid Funding for Conversion Therapy Act (H.R. 1981); and Therapeutic Fraud Prevention Act of 2019 (H.R.3570/S. 2008).",
+    "Supporting policies advancing freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: S. 4649, Protection of Women and Girls in Sports Act; Equality Act, H.R. 5/S. 788; Fairness for All Act, H.R. 5331; National Suicide Hotline Designation Act of 2019 (H.R.4194/S. 2661); Prohibition of Medicaid Funding for Conversion Therapy Act (H.R. 1981); and Therapeutic Fraud Prevention Act of 2019 (H.R.3570/S. 2008).",
+    "Supporting policies advancing freedom for LGBTQ Americans, Including Nondiscrimination; Specific Bills Include: H.R. 426/S. 251, Protection of Women and Girls in Sports Act; Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440.",
+    "Supporting policies advancing freedom for LGBTQ Americans, religious freedom, freedom of speech, and maximizing election transparency and security; Specific Bills Include: H.R. 426/S. 251, Protection of Women and Girls in Sports Act; Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440.",
+    "Supporting policies advancing freedom for LGBTQ Americans, religious freedom, freedom of speech, and maximizing election transparency and security; Specific Bills Include: Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440.",
+    "Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, supporting national security, andmaximizing election transparency and security; Specific Bills Include: Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440.",
+    "Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, supporting national security, and maximizing election transparency and security; Specific Bills Include: Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440; Respect for Marriage Act, H.R. 8404/S.4556; Electoral Count Reform and Presidential Transition Improvement Act of 2022, S.4573/H.R. 8846.",
+    "Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, supporting national security including biosecurity and pandemic prevention, and maximizing election transparency and security; Specific Bills Include: Equality Act, H.R. 5/S. 393; Fairness for All Act, H.R. 1440; Respect for Marriage Act, H.R. 8404/S.4556; Electoral Count Reform and Presidential Transition Improvement Act of 2022, S.4573/H.R. 8846.",
+    "Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, and maximizing election transparency and security; Specific bills include: Equality Act and Fairness for All Act.",
+    "Supporting center-right and conservative policies advancing freedom for gay and transgender Americans, supporting religious freedom, supporting freedom of speech, and maximizing election transparency and security; Specific bills include: Equality Act, Fairness for All Act, and H.R. 2882, Further Consolidated Appropriations Act, 2024."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -50,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 222500,
+  "peakYear": 2019,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 2
+}

@@ -1,1 +1,78 @@
-{"id":184596,"name":"WESTLAKE CHEMICAL PARTNERS LP","slug":"westlake-chemical-partners-lp","state":"TX","description":"Operate, acquire and develop ethylene production facilities.","totalSpending":1590000,"filings":27,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":90000}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["JAMES MCCRERY","DAVID OLANDER","BOB BROOKS","CHARLES BOUSTANY","DAVID BRIDGES"],"issues":["TAX",null],"sampleDescriptions":["Securing permanent Master Limited Partnership (MLP) status for Westlake products and byproducts."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184596,
+  "name": "WESTLAKE CHEMICAL PARTNERS LP",
+  "slug": "westlake-chemical-partners-lp",
+  "state": "TX",
+  "description": "Operate, acquire and develop ethylene production facilities.",
+  "totalSpending": 1590000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 90000
+    }
+  ],
+  "firms": [
+    "CAPITOL COUNSEL LLC"
+  ],
+  "lobbyists": [
+    "JAMES MCCRERY",
+    "DAVID OLANDER",
+    "BOB BROOKS",
+    "CHARLES BOUSTANY",
+    "DAVID BRIDGES"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Securing permanent Master Limited Partnership (MLP) status for Westlake products and byproducts."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -62,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 198750,
+  "peakYear": 2018,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1
+}

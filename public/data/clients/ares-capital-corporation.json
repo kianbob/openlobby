@@ -1,1 +1,92 @@
-{"id":109883,"name":"ARES CAPITAL CORPORATION","slug":"ares-capital-corporation","state":null,"description":null,"totalSpending":4920000,"filings":30,"yearlySpending":[{"year":2018,"income":1290000},{"year":2019,"income":580000},{"year":2020,"income":1160000},{"year":2021,"income":820000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":190000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["MARC LAMPKIN","MICHAEL LEVY","CARMENCITA WHONDER","BRIAN WILD","ZACHARY PFISTER","MILAN DALAL","NORMAN BROWNSTEIN","MICHAEL STRATTON","DAVID COHEN","BRIAN MCKEON","TRAVIS NORTON","KATELYNN BRADLEY","BRIAN MCGUIRE","SAMANTHA CARL-YODER"],"issues":["FIN",null],"sampleDescriptions":["Issues involving business development companies (BDCs)","Issues involving reform of business development companies (BDCs)\nH.R. 4267, Small Business Credit Availability Act \nS. 2324, Small Business Credit Availability Act\nH.R. 1625, Consolidated Appropriations Act, 2018","Issues involving business development companies (BDCs)\nHR 748 CARES Act - issues related to COVID-19 relief","Issues involving business development companies (BDCs) H.R.5598 Access to Small Business Investor Capital Act \"","Issues involving business development companies (BDCs) HR5598 - Access to Small Business Investor Capital Act","Issues involving business development companies (BDCs) HR2225 - Access to Small Business Investor Capital Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 109883,
+  "name": "ARES CAPITAL CORPORATION",
+  "slug": "ares-capital-corporation",
+  "state": null,
+  "description": null,
+  "totalSpending": 4920000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 1290000
+    },
+    {
+      "year": 2019,
+      "income": 580000
+    },
+    {
+      "year": 2020,
+      "income": 1160000
+    },
+    {
+      "year": 2021,
+      "income": 820000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 190000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "MARC LAMPKIN",
+    "MICHAEL LEVY",
+    "CARMENCITA WHONDER",
+    "BRIAN WILD",
+    "ZACHARY PFISTER",
+    "MILAN DALAL",
+    "NORMAN BROWNSTEIN",
+    "MICHAEL STRATTON",
+    "DAVID COHEN",
+    "BRIAN MCKEON",
+    "TRAVIS NORTON",
+    "KATELYNN BRADLEY",
+    "BRIAN MCGUIRE",
+    "SAMANTHA CARL-YODER"
+  ],
+  "issues": [
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues involving business development companies (BDCs)",
+    "Issues involving reform of business development companies (BDCs)\nH.R. 4267, Small Business Credit Availability Act \nS. 2324, Small Business Credit Availability Act\nH.R. 1625, Consolidated Appropriations Act, 2018",
+    "Issues involving business development companies (BDCs)\nHR 748 CARES Act - issues related to COVID-19 relief",
+    "Issues involving business development companies (BDCs) H.R.5598 Access to Small Business Investor Capital Act \"",
+    "Issues involving business development companies (BDCs) HR5598 - Access to Small Business Investor Capital Act",
+    "Issues involving business development companies (BDCs) HR2225 - Access to Small Business Investor Capital Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -85,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 615000,
+  "peakYear": 2018,
+  "lobbyistCount": 14,
+  "firmCount": 1,
+  "issueCount": 1
+}

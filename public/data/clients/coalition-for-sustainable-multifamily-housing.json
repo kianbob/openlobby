@@ -1,1 +1,87 @@
-{"id":181409,"name":"COALITION FOR SUSTAINABLE MULTIFAMILY HOUSING","slug":"coalition-for-sustainable-multifamily-housing","state":"DC","description":"multifamily housing finance issues","totalSpending":2160000,"filings":27,"yearlySpending":[{"year":2018,"income":80000},{"year":2019,"income":320000},{"year":2020,"income":240000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":240000}],"firms":["PORTERFIELD, FETTIG & SEARS, LLC"],"lobbyists":["LENDELL PORTERFIELD","DWIGHT FETTIG","DAWN SEARS","BRYAN BLOM","BENJAMIN TURNER","KELLY MCGRATH","JENNIFER READ","STEPHEN NEWTON","ABIGAIL TRUHART","CHRIS MANEVAL"],"issues":["HOU",null],"sampleDescriptions":["multifamily housing finance issues","Multifamily housing finance issues","Multifamily housing finance issues; COVID-19 relief issues.","Multifamily housing finance issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 181409,
+  "name": "COALITION FOR SUSTAINABLE MULTIFAMILY HOUSING",
+  "slug": "coalition-for-sustainable-multifamily-housing",
+  "state": "DC",
+  "description": "multifamily housing finance issues",
+  "totalSpending": 2160000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 80000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "PORTERFIELD, FETTIG & SEARS, LLC"
+  ],
+  "lobbyists": [
+    "LENDELL PORTERFIELD",
+    "DWIGHT FETTIG",
+    "DAWN SEARS",
+    "BRYAN BLOM",
+    "BENJAMIN TURNER",
+    "KELLY MCGRATH",
+    "JENNIFER READ",
+    "STEPHEN NEWTON",
+    "ABIGAIL TRUHART",
+    "CHRIS MANEVAL"
+  ],
+  "issues": [
+    "HOU",
+    null
+  ],
+  "sampleDescriptions": [
+    "multifamily housing finance issues",
+    "Multifamily housing finance issues",
+    "Multifamily housing finance issues; COVID-19 relief issues.",
+    "Multifamily housing finance issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 200,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 270000,
+  "peakYear": 2019,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

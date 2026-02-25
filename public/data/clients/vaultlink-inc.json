@@ -1,1 +1,59 @@
-{"id":211661,"name":"VAULTLINK INC.","slug":"vaultlink-inc","state":"PR","description":"Cryptocurrency banking platform","totalSpending":1560000,"filings":18,"yearlySpending":[{"year":2021,"income":120000},{"year":2022,"income":360000},{"year":2023,"income":360000},{"year":2024,"income":360000},{"year":2025,"income":360000}],"firms":["VANTAGEKNIGHT LLC"],"lobbyists":["MANUEL ORTIZ"],"issues":["BAN",null],"sampleDescriptions":["Monitoring and reporting on banking, cryptocurrency, blockchain, and digital assets policy issues"],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 211661,
+  "name": "VAULTLINK INC.",
+  "slug": "vaultlink-inc",
+  "state": "PR",
+  "description": "Cryptocurrency banking platform",
+  "totalSpending": 1560000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "VANTAGEKNIGHT LLC"
+  ],
+  "lobbyists": [
+    "MANUEL ORTIZ"
+  ],
+  "issues": [
+    "BAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Monitoring and reporting on banking, cryptocurrency, blockchain, and digital assets policy issues"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 200,
+  "trajectory": "exploding",
+  "yearsActive": 5,
+  "avgAnnualSpending": 312000,
+  "peakYear": 2022,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1
+}

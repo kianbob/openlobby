@@ -1,1 +1,97 @@
-{"id":196565,"name":"ORACLE","slug":"oracle","state":"CA","description":"A computer technology corporation","totalSpending":1520000,"filings":20,"yearlySpending":[{"year":2018,"income":270000},{"year":2019,"income":290000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":320000}],"firms":["FORBES-TATE"],"lobbyists":["JEFFREY FORBES","DANIEL TATE","JERRY DRISCOLL","ELIZABETH GREER","JEFFREY STRUNK","WESLEY WELCH","ADRIENNE SCHWEER","STACEY ROLLAND","ELIZABETH BENNETT","FRANCESCA MCCRARY","MICHAEL WILLIAMS"],"issues":["TRD","BUD","LBR","TEC","SCI","TAX","HCR","DEF","CPT","VET",null],"sampleDescriptions":["Issues related to trade and counterfeiting; Issues related to the implementation of tax reform.","Issues related to FY 2018 Appropriations.","Issues related to labor.","Issues related to intellectual property protection; Issues related to the implementation of tax reform, international taxes.","Issues related to cyber security; Issues related to privacy; Issues related to data protection.","Issues related to intellectual property protection; Issues related to the implementation of tax reform, international taxes; Issues related to health exchanges and the Affordable Care Act; Issues related to repatriation of foreign income.","Issues related to health exchanges and the Affordable Care Act.","Issues related to technology.","Issues related to copyright legislation.","Issues related to technology; Issues related to government contracting.","Issues related to technology; issues related to government contracting.","Issues related to cybersecurity; Issues related to privacy; Issues related to data protection.","Issues related to intellectual property protection; Issues regarding the implementation of tax reform as related to international taxes; Issues related to health exchanges and the Affordable Care Act; Issues related to repatriation of foreign income.","Issues related to intellectual property protection; Issues regarding the implementation of tax reform as related to international taxes.","Issues related to technology; Issues related to government contracting; Issues related to H.R. 2968/S. 2474 - Department of Defense Appropriations Act, 2020.","Issues related to trade and counterfeiting; Issues related to the implementation of tax reform (Public Law 115-97).","Issues related to intellectual property protection; Issues related to the implementation of tax reform (Public Law 115-97), international taxes.","Issues related to intellectual property protection; Issues regarding the implementation of tax reform (Public Law 115-97) as related to international taxes; Issues related to health exchanges and the Affordable Care Act; Issues related to repatriation of foreign income.","Issues related to technology; Issues related to government contracting; Issues related to H.R. 925 - The Heroes Act.","Issues related to intellectual property protection; Issues regarding the implementation of tax reform (Public Law No: 115-97) as related to international taxes; Issues related to health exchanges and the Affordable Care Act; Issues related to repatriation of foreign income."],"years":[2018,2019,2020,2021,2022]}
+{
+  "id": 196565,
+  "name": "ORACLE",
+  "slug": "oracle",
+  "state": "CA",
+  "description": "A computer technology corporation",
+  "totalSpending": 1520000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 270000
+    },
+    {
+      "year": 2019,
+      "income": 290000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "FORBES-TATE"
+  ],
+  "lobbyists": [
+    "JEFFREY FORBES",
+    "DANIEL TATE",
+    "JERRY DRISCOLL",
+    "ELIZABETH GREER",
+    "JEFFREY STRUNK",
+    "WESLEY WELCH",
+    "ADRIENNE SCHWEER",
+    "STACEY ROLLAND",
+    "ELIZABETH BENNETT",
+    "FRANCESCA MCCRARY",
+    "MICHAEL WILLIAMS"
+  ],
+  "issues": [
+    "TRD",
+    "BUD",
+    "LBR",
+    "TEC",
+    "SCI",
+    "TAX",
+    "HCR",
+    "DEF",
+    "CPT",
+    "VET",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to trade and counterfeiting; Issues related to the implementation of tax reform.",
+    "Issues related to FY 2018 Appropriations.",
+    "Issues related to labor.",
+    "Issues related to intellectual property protection; Issues related to the implementation of tax reform, international taxes.",
+    "Issues related to cyber security; Issues related to privacy; Issues related to data protection.",
+    "Issues related to intellectual property protection; Issues related to the implementation of tax reform, international taxes; Issues related to health exchanges and the Affordable Care Act; Issues related to repatriation of foreign income.",
+    "Issues related to health exchanges and the Affordable Care Act.",
+    "Issues related to technology.",
+    "Issues related to copyright legislation.",
+    "Issues related to technology; Issues related to government contracting.",
+    "Issues related to technology; issues related to government contracting.",
+    "Issues related to cybersecurity; Issues related to privacy; Issues related to data protection.",
+    "Issues related to intellectual property protection; Issues regarding the implementation of tax reform as related to international taxes; Issues related to health exchanges and the Affordable Care Act; Issues related to repatriation of foreign income.",
+    "Issues related to intellectual property protection; Issues regarding the implementation of tax reform as related to international taxes.",
+    "Issues related to technology; Issues related to government contracting; Issues related to H.R. 2968/S. 2474 - Department of Defense Appropriations Act, 2020.",
+    "Issues related to trade and counterfeiting; Issues related to the implementation of tax reform (Public Law 115-97).",
+    "Issues related to intellectual property protection; Issues related to the implementation of tax reform (Public Law 115-97), international taxes.",
+    "Issues related to intellectual property protection; Issues regarding the implementation of tax reform (Public Law 115-97) as related to international taxes; Issues related to health exchanges and the Affordable Care Act; Issues related to repatriation of foreign income.",
+    "Issues related to technology; Issues related to government contracting; Issues related to H.R. 925 - The Heroes Act.",
+    "Issues related to intellectual property protection; Issues regarding the implementation of tax reform (Public Law No: 115-97) as related to international taxes; Issues related to health exchanges and the Affordable Care Act; Issues related to repatriation of foreign income."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "growthRate": 19,
+  "trajectory": "stable",
+  "yearsActive": 5,
+  "avgAnnualSpending": 304000,
+  "peakYear": 2020,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 10
+}

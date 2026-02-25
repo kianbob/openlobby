@@ -1,1 +1,78 @@
-{"id":125569,"name":"FINANCIAL OVERSIGHT & MANAGEMENT BOARD OF PUERTO RICO","slug":"financial-oversight-management-board-of-puerto-rico","state":null,"description":"Support growth and opportunity in Puerto Rico","totalSpending":3370000,"filings":22,"yearlySpending":[{"year":2019,"income":240000},{"year":2020,"income":120000},{"year":2021,"income":630000},{"year":2022,"income":680000},{"year":2023,"income":680000},{"year":2024,"income":510000},{"year":2025,"income":510000}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["RONALD KLEIN","JIM DAVIS","PAUL BOCK","MICAH BURBANKS-IVEY","ELIZABETH CRADDOCK"],"issues":["ECN","BAN","NAT",null],"sampleDescriptions":["Economic development.","Implementation of PROMESA.","Implementation of PROMESA"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 125569,
+  "name": "FINANCIAL OVERSIGHT & MANAGEMENT BOARD OF PUERTO RICO",
+  "slug": "financial-oversight-management-board-of-puerto-rico",
+  "state": null,
+  "description": "Support growth and opportunity in Puerto Rico",
+  "totalSpending": 3370000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 630000
+    },
+    {
+      "year": 2022,
+      "income": 680000
+    },
+    {
+      "year": 2023,
+      "income": 680000
+    },
+    {
+      "year": 2024,
+      "income": 510000
+    },
+    {
+      "year": 2025,
+      "income": 510000
+    }
+  ],
+  "firms": [
+    "HOLLAND & KNIGHT LLP"
+  ],
+  "lobbyists": [
+    "RONALD KLEIN",
+    "JIM DAVIS",
+    "PAUL BOCK",
+    "MICAH BURBANKS-IVEY",
+    "ELIZABETH CRADDOCK"
+  ],
+  "issues": [
+    "ECN",
+    "BAN",
+    "NAT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Economic development.",
+    "Implementation of PROMESA.",
+    "Implementation of PROMESA"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 113,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 481429,
+  "peakYear": 2022,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "finance"
+}

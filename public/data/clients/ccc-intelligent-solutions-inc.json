@@ -1,1 +1,74 @@
-{"id":192643,"name":"CCC INTELLIGENT SOLUTIONS INC.","slug":"ccc-intelligent-solutions-inc","state":"IL","description":"Information technology company for the automobile industry.","totalSpending":1380000,"filings":23,"yearlySpending":[{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":60000},{"year":2025,"income":180000}],"firms":["THORN RUN PARTNERS"],"lobbyists":["WILLIAM LAMOND","HARRIET MELVIN","CHARLES THOMAS"],"issues":["TRA","SCI","AGR",null],"sampleDescriptions":["Issues related to data privacy and autonomous vehicles.","Issues related to the Farm bill."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 192643,
+  "name": "CCC INTELLIGENT SOLUTIONS INC.",
+  "slug": "ccc-intelligent-solutions-inc",
+  "state": "IL",
+  "description": "Information technology company for the automobile industry.",
+  "totalSpending": 1380000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 60000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "THORN RUN PARTNERS"
+  ],
+  "lobbyists": [
+    "WILLIAM LAMOND",
+    "HARRIET MELVIN",
+    "CHARLES THOMAS"
+  ],
+  "issues": [
+    "TRA",
+    "SCI",
+    "AGR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to data privacy and autonomous vehicles.",
+    "Issues related to the Farm bill."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 197143,
+  "peakYear": 2019,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 3
+}

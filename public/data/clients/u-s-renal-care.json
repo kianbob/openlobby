@@ -1,1 +1,104 @@
-{"id":153942,"name":"U.S. RENAL CARE","slug":"u-s-renal-care","state":"TX","description":"Dialysis and renal care provider","totalSpending":1350000,"filings":27,"yearlySpending":[{"year":2018,"income":100000},{"year":2019,"income":100000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["JEFFREY J. KIMBELL & ASSOCIATES, INC."],"lobbyists":["JEFFREY KIMBELL","JODIE LOCKHART","KEITH STUDDARD","JOHN RAY","JOHN HERZOG","DAVID RUDLOFF","KENNETH HODGE","KELSEY CARLSON","LAURA KEMPER","BRETT MEEKS"],"issues":["HCR","MMM","DIS",null],"sampleDescriptions":["HR 3976, Access to Marketplace Insurance Act","Issues related to Medicare coverage of ESRD and charitable premium assistance.","HR 4143, Dialysis PATIENTS Demonstration Act; issues related to Medicare policies impacting ESRD; charitable premium assistance","Access to Marketplace Insurance Act/charitable premium assistance","Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models","Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; issues related to COVID-19 public health emergency","Access to Marketplace Insurance Act/charitable premium assistance; issues related to COVID-19 public health emergency","Charitable premium assistance; issues related to COVID-19 public health emergency","issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; issues related to COVID-19 public health emergency","extreme weather emergency response","charitable premium assistance; issues related to COVID-19 public health emergency","issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; home dialysis; telehealth","Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; home dialysis; telehealth","Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; home dialysis; telehealth; statutory PAYGO and Medicare sequester","Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; home dialysis; telehealth; ESRD Prospective Payment System; Medicare Secondary Payer; Restore Protections for Dialysis Patients Act - HR 8594/S 4750","Issues related to Medicare policies impacting ESRD; telehealth; HR 8594/S 4750, Restore Protections for Dialysis Patients Act; PAYGO","Issues related to Medicare policies impacting ESRD; Medicare Secondary Payer Act - HR 6860; ESRD Prospective Payment System; value-based care and alternative payment models; home dialysis; H.R.5074 - Kidney PATIENT Act","Issues related to Medicare policies impacting ESRD; Medicare Secondary Payer Act - H.R. 6860/S.5018; ESRD Prospective Payment System; value-based care and alternative payment models; home dialysis","Issues related to Medicare policies impacting ESRD; Restore Protections for Dialysis Patients Act - H.R.2199/S.1173; ESRD Prospective Payment System; value-based care and alternative payment models; home dialysis","Issues related to Medicare policies impacting ESRD; Restore Protections for Dialysis Patients Act - H.R.2199/S.1173; ESRD Prospective Payment System; value-based care and alternative payment models; home dialysis; Kidney Care Access Protection Act - H.R. 6214/S.2730"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 153942,
+  "name": "U.S. RENAL CARE",
+  "slug": "u-s-renal-care",
+  "state": "TX",
+  "description": "Dialysis and renal care provider",
+  "totalSpending": 1350000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 100000
+    },
+    {
+      "year": 2019,
+      "income": 100000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "JEFFREY J. KIMBELL & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "JEFFREY KIMBELL",
+    "JODIE LOCKHART",
+    "KEITH STUDDARD",
+    "JOHN RAY",
+    "JOHN HERZOG",
+    "DAVID RUDLOFF",
+    "KENNETH HODGE",
+    "KELSEY CARLSON",
+    "LAURA KEMPER",
+    "BRETT MEEKS"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "DIS",
+    null
+  ],
+  "sampleDescriptions": [
+    "HR 3976, Access to Marketplace Insurance Act",
+    "Issues related to Medicare coverage of ESRD and charitable premium assistance.",
+    "HR 4143, Dialysis PATIENTS Demonstration Act; issues related to Medicare policies impacting ESRD; charitable premium assistance",
+    "Access to Marketplace Insurance Act/charitable premium assistance",
+    "Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models",
+    "Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; issues related to COVID-19 public health emergency",
+    "Access to Marketplace Insurance Act/charitable premium assistance; issues related to COVID-19 public health emergency",
+    "Charitable premium assistance; issues related to COVID-19 public health emergency",
+    "issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; issues related to COVID-19 public health emergency",
+    "extreme weather emergency response",
+    "charitable premium assistance; issues related to COVID-19 public health emergency",
+    "issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; home dialysis; telehealth",
+    "Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; home dialysis; telehealth",
+    "Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; home dialysis; telehealth; statutory PAYGO and Medicare sequester",
+    "Issues related to Medicare policies impacting ESRD; charitable premium assistance; integrated kidney care; alternative payment models; Medicare Advantage; home dialysis; telehealth; ESRD Prospective Payment System; Medicare Secondary Payer; Restore Protections for Dialysis Patients Act - HR 8594/S 4750",
+    "Issues related to Medicare policies impacting ESRD; telehealth; HR 8594/S 4750, Restore Protections for Dialysis Patients Act; PAYGO",
+    "Issues related to Medicare policies impacting ESRD; Medicare Secondary Payer Act - HR 6860; ESRD Prospective Payment System; value-based care and alternative payment models; home dialysis; H.R.5074 - Kidney PATIENT Act",
+    "Issues related to Medicare policies impacting ESRD; Medicare Secondary Payer Act - H.R. 6860/S.5018; ESRD Prospective Payment System; value-based care and alternative payment models; home dialysis",
+    "Issues related to Medicare policies impacting ESRD; Restore Protections for Dialysis Patients Act - H.R.2199/S.1173; ESRD Prospective Payment System; value-based care and alternative payment models; home dialysis",
+    "Issues related to Medicare policies impacting ESRD; Restore Protections for Dialysis Patients Act - H.R.2199/S.1173; ESRD Prospective Payment System; value-based care and alternative payment models; home dialysis; Kidney Care Access Protection Act - H.R. 6214/S.2730"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 168750,
+  "peakYear": 2020,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 3
+}

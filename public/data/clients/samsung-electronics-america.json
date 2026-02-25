@@ -1,1 +1,82 @@
-{"id":106668,"name":"SAMSUNG ELECTRONICS AMERICA","slug":"samsung-electronics-america","state":null,"description":"Technology and Manufacturing","totalSpending":1660000,"filings":22,"yearlySpending":[{"year":2018,"income":310000},{"year":2019,"income":330000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":60000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["ERSKINE WELLS","JONATHAN MANTZ","ANDREW LEWIN","JUSTIN RZEPKA","FRED TURNER","ROBIN COLWELL"],"issues":["TEC",null],"sampleDescriptions":["Provide guidance and strategic counsel on issues affecting the Company's business.","Provide guidance and strategic counsel on issues affecting the Company's business; Issues related to STEM education and workforce development; Outreach and monitoring related to bilateral and multilateral trade policy and proceedings.","Provide guidance and strategic counsel on issues affecting the Company's business; Issues related to consumer protection, cybersecurity and the Internet of Things; Outreach and monitoring related to bilateral and multilateral trade policy and proceedings.","Issues related to consumer protection, cybersecurity and the Internet of Things; Issues related to STEM education and workforce development.","Issues related to consumer protection, cybersecurity and the Internet of Things; Issues related to STEM education and workforce development.Outreach and monitoring related to bilateral and multilateral trade policy and proceedings, including the US-Mexico-Canada Agreement.","Issues related to consumer protection, cybersecurity; Issues related to STEM education and workforce development.","Issues related to consumer protection, cybersecurity and the Internet of Things; Issues related to STEM education and workforce development; Outreach and monitoring related to appropriations legislation including for energy efficiency programs","H.R. 4998, Secure and Trusted Communications Network Act of 2019; S. 3189, USA Telecom Act.  Outreach and monitoring relating technology issues, including 5G, affecting the telecommunications industry","H.R. 4998, Secure and Trusted Communications Network Act of 2019; S. 3189, USA Telecom Act.  Outreach and monitoring relating to technology issues, including 5G, affecting the telecommunications industry.","H.R. 4998, Secure and Trusted Communications Network Act of 2019; S. 3189, USA Telecom Act.  Outreach and monitoring relating technology issues, including 5G, affecting the telecommunications industry.","S. 3189, USA Telecom Act. Outreach and monitoring relating technology issues, including 5G, affecting the telecommunications industry.","S. 1260, US Innovation and Competition Act of 2021 (USICA); Outreach and monitoring relating to technology issues, including 5G and wireless broadband, affecting the telecommunications industry.","S. 1260, US Innovation and Competition Act of 2021 (USICA); Outreach and monitoring relating to technology issues, including 5G, spectrum and wireless broadband, affecting the telecommunications industry.","Outreach and monitoring relating to technology issues, including 5G, spectrum and wireless broadband, affecting the telecommunications industry."],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 106668,
+  "name": "SAMSUNG ELECTRONICS AMERICA",
+  "slug": "samsung-electronics-america",
+  "state": null,
+  "description": "Technology and Manufacturing",
+  "totalSpending": 1660000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 310000
+    },
+    {
+      "year": 2019,
+      "income": 330000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 60000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "ERSKINE WELLS",
+    "JONATHAN MANTZ",
+    "ANDREW LEWIN",
+    "JUSTIN RZEPKA",
+    "FRED TURNER",
+    "ROBIN COLWELL"
+  ],
+  "issues": [
+    "TEC",
+    null
+  ],
+  "sampleDescriptions": [
+    "Provide guidance and strategic counsel on issues affecting the Company's business.",
+    "Provide guidance and strategic counsel on issues affecting the Company's business; Issues related to STEM education and workforce development; Outreach and monitoring related to bilateral and multilateral trade policy and proceedings.",
+    "Provide guidance and strategic counsel on issues affecting the Company's business; Issues related to consumer protection, cybersecurity and the Internet of Things; Outreach and monitoring related to bilateral and multilateral trade policy and proceedings.",
+    "Issues related to consumer protection, cybersecurity and the Internet of Things; Issues related to STEM education and workforce development.",
+    "Issues related to consumer protection, cybersecurity and the Internet of Things; Issues related to STEM education and workforce development.Outreach and monitoring related to bilateral and multilateral trade policy and proceedings, including the US-Mexico-Canada Agreement.",
+    "Issues related to consumer protection, cybersecurity; Issues related to STEM education and workforce development.",
+    "Issues related to consumer protection, cybersecurity and the Internet of Things; Issues related to STEM education and workforce development; Outreach and monitoring related to appropriations legislation including for energy efficiency programs",
+    "H.R. 4998, Secure and Trusted Communications Network Act of 2019; S. 3189, USA Telecom Act.  Outreach and monitoring relating technology issues, including 5G, affecting the telecommunications industry",
+    "H.R. 4998, Secure and Trusted Communications Network Act of 2019; S. 3189, USA Telecom Act.  Outreach and monitoring relating to technology issues, including 5G, affecting the telecommunications industry.",
+    "H.R. 4998, Secure and Trusted Communications Network Act of 2019; S. 3189, USA Telecom Act.  Outreach and monitoring relating technology issues, including 5G, affecting the telecommunications industry.",
+    "S. 3189, USA Telecom Act. Outreach and monitoring relating technology issues, including 5G, affecting the telecommunications industry.",
+    "S. 1260, US Innovation and Competition Act of 2021 (USICA); Outreach and monitoring relating to technology issues, including 5G and wireless broadband, affecting the telecommunications industry.",
+    "S. 1260, US Innovation and Competition Act of 2021 (USICA); Outreach and monitoring relating to technology issues, including 5G, spectrum and wireless broadband, affecting the telecommunications industry.",
+    "Outreach and monitoring relating to technology issues, including 5G, spectrum and wireless broadband, affecting the telecommunications industry."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -81,
+  "trajectory": "declining",
+  "yearsActive": 6,
+  "avgAnnualSpending": 276667,
+  "peakYear": 2019,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1
+}

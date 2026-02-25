@@ -1,1 +1,92 @@
-{"id":185400,"name":"COUNCIL FOR AFFORDABLE HEALTH COVERAGE","slug":"council-for-affordable-health-coverage","state":null,"description":null,"totalSpending":2040000,"filings":31,"yearlySpending":[{"year":2018,"income":480000},{"year":2019,"income":800000},{"year":2020,"income":310000},{"year":2021,"income":90000},{"year":2022,"income":130000},{"year":2023,"income":80000},{"year":2024,"income":60000},{"year":2025,"income":90000}],"firms":["HORIZON GOVERNMENT AFFAIRS"],"lobbyists":["JOEL WHITE","SLOANE SALZBURG","JENNIFER STEGER","AMANDA KRZEPICKI","COLTON HENNING","MICHAEL PIERCE"],"issues":["HCR",null],"sampleDescriptions":["ACA; Medicare Reform; Defined Contributions; ERISA; Health Reform; Transparency; Market Stabilization; Omnibus","ACA; Medicare Reform; ERISA; Health Reform; Transparency; Market Stabilization; Omnibus; Medication adherence; Value-based Purchasing; HSAs; HR 6301 \"The Promoting High-Value Health Care through Flexibility for High Deductible Plans Act of 2018\"-- Allows up to $250 in first-dollar coverage flexibility for HSA-eligible high deductible health plans; HR 6305 the \"Bi Partisan HSA Improvement Act of 2018\" -- Makes various tweaks to HSA policy, including allowing patients to make HSA contributions if a spouse has an FSA, and letting FSA or Health Reimbursement arrangement funds be converted to HSAs; HR 6199 the \"Restoring Access to medication Act of 2018\" -- would reverse a provision in the ACA barring HSA reimbursement of over-the-counter medications obtained without a prescription, also expands HSA reimbursement for menstrual care products; HR 6314 the \"Health Savings Act of 2018\" -- Makes catastrophic and bronze-level plans HSA-eligible; HR 6311 the \"Increasing Access to Lower Premiums Act of 2018\" -- would allow consumers on ACA exchanges to purchase a qualifies off-exchange plan without forfeiting their premium tax credits. Also allows the use of premium tax credits for purchases of catastrophic plans.","ACA; Medicare Part D Reform; ERISA; Health Reform; Transparency; Market Stabilization; Medication Adherence; Value-based Purchasing; HSAs; Drug Pricing; HR 6301 the \"Promoting High-Value Health Care through Flexibility for High Deductible Plans Act of 2018\"; HR 6199 the \"Restoring Access to Medication Act of 2018\"; HR 6314 the \"Health Savings Act of 2018\"; HR 6311 the \"Increasing Access to Lower Premiums Act of 2018.\"","ACA; Medicare Part D Reform; Health Reform; Transparency; Medication Adherence; Value-based purchasing; drug pricing; HSAs","Medicare Part D Reform; Health Reform; Transparency; Medication Adherence; Value-based purchasing; drug pricing; HSAs","Medicare Part D Reform; Health Reform; Transparency; Medication Adherence; Value-based purchasing; drug pricing; HSAs; Surprise billing","Medicare Part D Reform; Health Reform; Transparency; Medication Adherence; Value-Based Purchasing; Drug Pricing; HSAs; COBRA","Medicare Part D Reform; Health Reform; Transparency; Value-Based Purchasing; Drug Pricing; HSAs","Medicare Part D Reform; Health Reform; Transparency; Value-Based Purchasing; Drug Pricing","Medicare Part D Reform; Health Reform; Value-Based Purchasing; Drug Pricing; Employer coverage","Health Reform; Value-Based Purchasing; Drug Pricing; Employer coverage","Health Reform; Value-Based Purchasing; Drug Pricing; Employer coverage; Health Savings Accounts or health care coverage; IRA implementation and drug policy executive orders","Health Reform; Drug pricing; Affordable Care Act; employer coverage; health savings accounts; IRA implementation"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 185400,
+  "name": "COUNCIL FOR AFFORDABLE HEALTH COVERAGE",
+  "slug": "council-for-affordable-health-coverage",
+  "state": null,
+  "description": null,
+  "totalSpending": 2040000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 480000
+    },
+    {
+      "year": 2019,
+      "income": 800000
+    },
+    {
+      "year": 2020,
+      "income": 310000
+    },
+    {
+      "year": 2021,
+      "income": 90000
+    },
+    {
+      "year": 2022,
+      "income": 130000
+    },
+    {
+      "year": 2023,
+      "income": 80000
+    },
+    {
+      "year": 2024,
+      "income": 60000
+    },
+    {
+      "year": 2025,
+      "income": 90000
+    }
+  ],
+  "firms": [
+    "HORIZON GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "JOEL WHITE",
+    "SLOANE SALZBURG",
+    "JENNIFER STEGER",
+    "AMANDA KRZEPICKI",
+    "COLTON HENNING",
+    "MICHAEL PIERCE"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "ACA; Medicare Reform; Defined Contributions; ERISA; Health Reform; Transparency; Market Stabilization; Omnibus",
+    "ACA; Medicare Reform; ERISA; Health Reform; Transparency; Market Stabilization; Omnibus; Medication adherence; Value-based Purchasing; HSAs; HR 6301 \"The Promoting High-Value Health Care through Flexibility for High Deductible Plans Act of 2018\"-- Allows up to $250 in first-dollar coverage flexibility for HSA-eligible high deductible health plans; HR 6305 the \"Bi Partisan HSA Improvement Act of 2018\" -- Makes various tweaks to HSA policy, including allowing patients to make HSA contributions if a spouse has an FSA, and letting FSA or Health Reimbursement arrangement funds be converted to HSAs; HR 6199 the \"Restoring Access to medication Act of 2018\" -- would reverse a provision in the ACA barring HSA reimbursement of over-the-counter medications obtained without a prescription, also expands HSA reimbursement for menstrual care products; HR 6314 the \"Health Savings Act of 2018\" -- Makes catastrophic and bronze-level plans HSA-eligible; HR 6311 the \"Increasing Access to Lower Premiums Act of 2018\" -- would allow consumers on ACA exchanges to purchase a qualifies off-exchange plan without forfeiting their premium tax credits. Also allows the use of premium tax credits for purchases of catastrophic plans.",
+    "ACA; Medicare Part D Reform; ERISA; Health Reform; Transparency; Market Stabilization; Medication Adherence; Value-based Purchasing; HSAs; Drug Pricing; HR 6301 the \"Promoting High-Value Health Care through Flexibility for High Deductible Plans Act of 2018\"; HR 6199 the \"Restoring Access to Medication Act of 2018\"; HR 6314 the \"Health Savings Act of 2018\"; HR 6311 the \"Increasing Access to Lower Premiums Act of 2018.\"",
+    "ACA; Medicare Part D Reform; Health Reform; Transparency; Medication Adherence; Value-based purchasing; drug pricing; HSAs",
+    "Medicare Part D Reform; Health Reform; Transparency; Medication Adherence; Value-based purchasing; drug pricing; HSAs",
+    "Medicare Part D Reform; Health Reform; Transparency; Medication Adherence; Value-based purchasing; drug pricing; HSAs; Surprise billing",
+    "Medicare Part D Reform; Health Reform; Transparency; Medication Adherence; Value-Based Purchasing; Drug Pricing; HSAs; COBRA",
+    "Medicare Part D Reform; Health Reform; Transparency; Value-Based Purchasing; Drug Pricing; HSAs",
+    "Medicare Part D Reform; Health Reform; Transparency; Value-Based Purchasing; Drug Pricing",
+    "Medicare Part D Reform; Health Reform; Value-Based Purchasing; Drug Pricing; Employer coverage",
+    "Health Reform; Value-Based Purchasing; Drug Pricing; Employer coverage",
+    "Health Reform; Value-Based Purchasing; Drug Pricing; Employer coverage; Health Savings Accounts or health care coverage; IRA implementation and drug policy executive orders",
+    "Health Reform; Drug pricing; Affordable Care Act; employer coverage; health savings accounts; IRA implementation"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -81,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 255000,
+  "peakYear": 2019,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

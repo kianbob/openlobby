@@ -1,1 +1,89 @@
-{"id":213430,"name":"TALLGRASS ENERGY PARTNERS, LP","slug":"tallgrass-energy-partners-lp","state":"KS","description":"Own and operate midstream energy infrastructure across the United States","totalSpending":1870000,"filings":17,"yearlySpending":[{"year":2021,"income":50000},{"year":2022,"income":560000},{"year":2023,"income":560000},{"year":2024,"income":420000},{"year":2025,"income":280000}],"firms":["ALPINE GROUP PARTNERS, LLC."],"lobbyists":["RHOD SHAW","KEENAN AUSTIN REED","MICHAEL HENRY","MICHAEL HAYWOOD","JASON SCHENDLE","GRACE BELLONE","GREG WALDEN","JENNIFER FORREST"],"issues":["ENV","ENG","TAX","TRA",null],"sampleDescriptions":["Advocacy on various energy transportation projects","Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Carbon sequestration and storage. Hydrogen","Developments around treatment of 45Q Hydrogen","Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Pipeline safety.","Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Carbon sequestration and storage. Hydrogen Efforts related to permitting reform IIJA Inflation Reduction Act","Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Carbon sequestration and storage. Hydrogen Ffforts related to permitting IIJA Inflation Reduction Act","Developments around treatment of 45Q Hydrogen IIJA Inflation Reduction Act","Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Pipeline safety. IIJA Inflation Reduction Act","Energy transportation related to energy transition. Carbon sequestration and storage. Hydrogen Efforts related to permitting reform IIJA Inflation Reduction Act","Energy transportation related to energy transition. Carbon sequestration and storage. Hydrogen Ffforts related to permitting IIJA Inflation Reduction Act","Energy transportation related to energy transition. Pipeline safety. IIJA Inflation Reduction Act","IIJA/IRA tax policy implementation","Pipeline safety (PL 117-58) IIJA implementation (PL 117-169) IRA implementation","Hydrogen policy Permitting reform Carbon capture and sequestration policies Issues related to pipeline development and expansion in the Midwest","Hydrogen policy","Hydrogen policy Permitting reform Carbon capture and sequestration policies Issues related to pipeline development and expansion in the Midwest Waste heat to power policies Policies relating to pump storage","Hydrogen policy Permitting reform Carbon capture and sequestration policies Issues related to pipeline development and expansion Waste heat to power policies Policies relating to pump storage","IIJA/IRA tax policy implementation H.R.1 One Big Beautiful Bill Act","H.R.1 One Big Beautiful Bill Act","Pipeline safety (PL 117-58) IIJA implementation"],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 213430,
+  "name": "TALLGRASS ENERGY PARTNERS, LP",
+  "slug": "tallgrass-energy-partners-lp",
+  "state": "KS",
+  "description": "Own and operate midstream energy infrastructure across the United States",
+  "totalSpending": 1870000,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 50000
+    },
+    {
+      "year": 2022,
+      "income": 560000
+    },
+    {
+      "year": 2023,
+      "income": 560000
+    },
+    {
+      "year": 2024,
+      "income": 420000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "ALPINE GROUP PARTNERS, LLC."
+  ],
+  "lobbyists": [
+    "RHOD SHAW",
+    "KEENAN AUSTIN REED",
+    "MICHAEL HENRY",
+    "MICHAEL HAYWOOD",
+    "JASON SCHENDLE",
+    "GRACE BELLONE",
+    "GREG WALDEN",
+    "JENNIFER FORREST"
+  ],
+  "issues": [
+    "ENV",
+    "ENG",
+    "TAX",
+    "TRA",
+    null
+  ],
+  "sampleDescriptions": [
+    "Advocacy on various energy transportation projects",
+    "Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Carbon sequestration and storage. Hydrogen",
+    "Developments around treatment of 45Q Hydrogen",
+    "Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Pipeline safety.",
+    "Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Carbon sequestration and storage. Hydrogen Efforts related to permitting reform IIJA Inflation Reduction Act",
+    "Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Carbon sequestration and storage. Hydrogen Ffforts related to permitting IIJA Inflation Reduction Act",
+    "Developments around treatment of 45Q Hydrogen IIJA Inflation Reduction Act",
+    "Energy transportation related to energy transition. Energy transition related to the movement of power generation, people, goods. Pipeline safety. IIJA Inflation Reduction Act",
+    "Energy transportation related to energy transition. Carbon sequestration and storage. Hydrogen Efforts related to permitting reform IIJA Inflation Reduction Act",
+    "Energy transportation related to energy transition. Carbon sequestration and storage. Hydrogen Ffforts related to permitting IIJA Inflation Reduction Act",
+    "Energy transportation related to energy transition. Pipeline safety. IIJA Inflation Reduction Act",
+    "IIJA/IRA tax policy implementation",
+    "Pipeline safety (PL 117-58) IIJA implementation (PL 117-169) IRA implementation",
+    "Hydrogen policy Permitting reform Carbon capture and sequestration policies Issues related to pipeline development and expansion in the Midwest",
+    "Hydrogen policy",
+    "Hydrogen policy Permitting reform Carbon capture and sequestration policies Issues related to pipeline development and expansion in the Midwest Waste heat to power policies Policies relating to pump storage",
+    "Hydrogen policy Permitting reform Carbon capture and sequestration policies Issues related to pipeline development and expansion Waste heat to power policies Policies relating to pump storage",
+    "IIJA/IRA tax policy implementation H.R.1 One Big Beautiful Bill Act",
+    "H.R.1 One Big Beautiful Bill Act",
+    "Pipeline safety (PL 117-58) IIJA implementation"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 460,
+  "trajectory": "exploding",
+  "yearsActive": 5,
+  "avgAnnualSpending": 374000,
+  "peakYear": 2022,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "energy"
+}

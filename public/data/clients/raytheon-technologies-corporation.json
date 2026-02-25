@@ -1,1 +1,96 @@
-{"id":103169,"name":"RAYTHEON TECHNOLOGIES CORPORATION","slug":"raytheon-technologies-corporation","state":"AZ","description":null,"totalSpending":1560000,"filings":29,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":60000},{"year":2020,"income":120000},{"year":2021,"income":190000},{"year":2022,"income":300000},{"year":2023,"income":300000},{"year":2024,"income":260000},{"year":2025,"income":210000}],"firms":["AMERICAN DEFENSE INTERNATIONAL, INC."],"lobbyists":["MICHAEL HERSON","MATT WEINSTEIN","DAVID MYERS","TODD HARMER","JOSH MARTIN","CATHERINE EDMONSON","PATRICK LARGE","NEIL MCKIERNAN","JESSICA STEFFENS","RACHEL LIPSEY"],"issues":["DEF",null],"sampleDescriptions":["National Defense Authorization Act, provisions related to missile defense and radar.\n\nDepartment of Defense Appropriations Act, provisions related to missile defense and radar.","Issues relating to Army missile programs. \n\nDepartment of Defense Appropriations Act, provisions related to missile defense and radar.","Issues relating to cruise missile defense programs.","Issues related to LTAMDS, Low-Cost Patriot Interceptor, foreign military sales, Long-Range Stand Off Weapon and SPY-6 program.","Engaged congressional staff for issues related to LTAMDS, Low-Cost Patriot Interceptor, foreign military sales, Long-Range Stand Off Weapon and SPY-6 program.","FY21 National Defense Authorization Act provisions  related to LTAMDS, Low-Cost Patriot Interceptor, foreign military sales, Long-Range Stand Off Weapon and SPY-6 program.","Issues related to LTAMDS, Low-Cost Patriot Interceptor, foreign military sales, Long-Range Stand Off Weapon, Naval Strike Missile, Joint Strike Missile, and SPY-6 program.","Issues related to military aircraft engines, aircrew ejection systems, and air combat training technology.","Meetings with officials regarding military aircraft engines, aircrew ejection systems, and air combat training technology.","Meetings with officials regarding military engine programs.","Provisions in FY23 NDAA and Defense Appropriations Bills related to F-35 propulsion.","Issues related to commercial acquisition authorities. National Defense Authorization Act and Defense Appropriations Act, provisions related to F-35","Issues related to commercial acquisition authorities. National Defense Authorization Act and Defense Appropriations Act, provisions related to F-35 and DOD weapon programs"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 103169,
+  "name": "RAYTHEON TECHNOLOGIES CORPORATION",
+  "slug": "raytheon-technologies-corporation",
+  "state": "AZ",
+  "description": null,
+  "totalSpending": 1560000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 120000
+    },
+    {
+      "year": 2019,
+      "income": 60000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 190000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 260000
+    },
+    {
+      "year": 2025,
+      "income": 210000
+    }
+  ],
+  "firms": [
+    "AMERICAN DEFENSE INTERNATIONAL, INC."
+  ],
+  "lobbyists": [
+    "MICHAEL HERSON",
+    "MATT WEINSTEIN",
+    "DAVID MYERS",
+    "TODD HARMER",
+    "JOSH MARTIN",
+    "CATHERINE EDMONSON",
+    "PATRICK LARGE",
+    "NEIL MCKIERNAN",
+    "JESSICA STEFFENS",
+    "RACHEL LIPSEY"
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "National Defense Authorization Act, provisions related to missile defense and radar.\n\nDepartment of Defense Appropriations Act, provisions related to missile defense and radar.",
+    "Issues relating to Army missile programs. \n\nDepartment of Defense Appropriations Act, provisions related to missile defense and radar.",
+    "Issues relating to cruise missile defense programs.",
+    "Issues related to LTAMDS, Low-Cost Patriot Interceptor, foreign military sales, Long-Range Stand Off Weapon and SPY-6 program.",
+    "Engaged congressional staff for issues related to LTAMDS, Low-Cost Patriot Interceptor, foreign military sales, Long-Range Stand Off Weapon and SPY-6 program.",
+    "FY21 National Defense Authorization Act provisions  related to LTAMDS, Low-Cost Patriot Interceptor, foreign military sales, Long-Range Stand Off Weapon and SPY-6 program.",
+    "Issues related to LTAMDS, Low-Cost Patriot Interceptor, foreign military sales, Long-Range Stand Off Weapon, Naval Strike Missile, Joint Strike Missile, and SPY-6 program.",
+    "Issues related to military aircraft engines, aircrew ejection systems, and air combat training technology.",
+    "Meetings with officials regarding military aircraft engines, aircrew ejection systems, and air combat training technology.",
+    "Meetings with officials regarding military engine programs.",
+    "Provisions in FY23 NDAA and Defense Appropriations Bills related to F-35 propulsion.",
+    "Issues related to commercial acquisition authorities. National Defense Authorization Act and Defense Appropriations Act, provisions related to F-35",
+    "Issues related to commercial acquisition authorities. National Defense Authorization Act and Defense Appropriations Act, provisions related to F-35 and DOD weapon programs"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 75,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 195000,
+  "peakYear": 2022,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

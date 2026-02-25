@@ -1,1 +1,87 @@
-{"id":193438,"name":"HEALTHCARE DISTRIBUTION ALLIANCE","slug":"healthcare-distribution-alliance","state":"VA","description":"National trade association representing distributors of prescription medicines & products.","totalSpending":1400000,"filings":28,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":50000},{"year":2023,"income":150000},{"year":2024,"income":200000},{"year":2025,"income":250000}],"firms":["THORSEN FRENCH ADVOCACY LLC"],"lobbyists":["JAMES FRENCH","CARLYLE THORSEN","BENJAMIN STAUB"],"issues":["PHA",null],"sampleDescriptions":["General issues related to prescription drug abuse.\nIssues related to pharmaceutical market value. \nPrescription drug importation.","General issues related to prescription drug abuse.\nIssues related to pharmaceutical market value. \nPrescription drug importation.\nIssues related to regulation of prescription opioid medication.","Issues related to regulation of prescription opioid medication. \nIssues related to vaccine distribution. \nH.R.133: Consolidated Appropriations Act, 2021.","Issues related to regulation of prescription opioid medication. \nIssues related to vaccine distribution. \nH.R.133: Consolidated Appropriations Act, 2021.\nH.R.786: Supporting State and Local Leaders Act.","Issues related to regulation of prescription opioid medication. \nIssues related to vaccine distribution. \nH.R.133: Consolidated Appropriations Act, 2021.\nH.R.786: Supporting State and Local Leaders Act.\nH.R.768: Block, Report, And Suspend Suspicious Shipments Act of 2021.","Issues related to H.R.768/S.__: Block, Report, And Suspend Suspicious Shipments Act of 2021.","Issues related to pharmaceutical supply chain resiliency. Issues related to H.R.768/S.__: Block, Report, And Suspend Suspicious Shipments Act of 2021.","General issues related to opioid abuse and access to medication assisted treatment. Drug Shortages.","Drug Shortages.","Drug Shortages. Issues related to pharmaceutical supply chain.","Drug Shortages. Issues related to pharmaceutical supply chain. Issues related to government reorganization proposals."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 193438,
+  "name": "HEALTHCARE DISTRIBUTION ALLIANCE",
+  "slug": "healthcare-distribution-alliance",
+  "state": "VA",
+  "description": "National trade association representing distributors of prescription medicines & products.",
+  "totalSpending": 1400000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 50000
+    },
+    {
+      "year": 2023,
+      "income": 150000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 250000
+    }
+  ],
+  "firms": [
+    "THORSEN FRENCH ADVOCACY LLC"
+  ],
+  "lobbyists": [
+    "JAMES FRENCH",
+    "CARLYLE THORSEN",
+    "BENJAMIN STAUB"
+  ],
+  "issues": [
+    "PHA",
+    null
+  ],
+  "sampleDescriptions": [
+    "General issues related to prescription drug abuse.\nIssues related to pharmaceutical market value. \nPrescription drug importation.",
+    "General issues related to prescription drug abuse.\nIssues related to pharmaceutical market value. \nPrescription drug importation.\nIssues related to regulation of prescription opioid medication.",
+    "Issues related to regulation of prescription opioid medication. \nIssues related to vaccine distribution. \nH.R.133: Consolidated Appropriations Act, 2021.",
+    "Issues related to regulation of prescription opioid medication. \nIssues related to vaccine distribution. \nH.R.133: Consolidated Appropriations Act, 2021.\nH.R.786: Supporting State and Local Leaders Act.",
+    "Issues related to regulation of prescription opioid medication. \nIssues related to vaccine distribution. \nH.R.133: Consolidated Appropriations Act, 2021.\nH.R.786: Supporting State and Local Leaders Act.\nH.R.768: Block, Report, And Suspend Suspicious Shipments Act of 2021.",
+    "Issues related to H.R.768/S.__: Block, Report, And Suspend Suspicious Shipments Act of 2021.",
+    "Issues related to pharmaceutical supply chain resiliency. Issues related to H.R.768/S.__: Block, Report, And Suspend Suspicious Shipments Act of 2021.",
+    "General issues related to opioid abuse and access to medication assisted treatment. Drug Shortages.",
+    "Drug Shortages.",
+    "Drug Shortages. Issues related to pharmaceutical supply chain.",
+    "Drug Shortages. Issues related to pharmaceutical supply chain. Issues related to government reorganization proposals."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 25,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 175000,
+  "peakYear": 2025,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

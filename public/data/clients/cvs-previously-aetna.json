@@ -1,1 +1,101 @@
-{"id":165699,"name":"CVS PREVIOUSLY AETNA","slug":"cvs-previously-aetna","state":"DC","description":"Health care company","totalSpending":1790000,"filings":35,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":250000},{"year":2023,"income":250000},{"year":2024,"income":200000},{"year":2025,"income":290000}],"firms":["CAPITOL HILL CONSULTING GROUP"],"lobbyists":["BRIAN SUTTER","DAVID JORY","THOMAS WHARTON","EMILY WILKINSON-HOLLAND","CHRISTOPHER DAVIS","KIMBERLEE TRZECIAK"],"issues":["HCR","MMM","TAX","INS",null],"sampleDescriptions":["Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act; Issues related to Public Law 111-152- Health Care and Education Reconciliation Act of 2010; Issues related to implementation of the Affordable Care Act, including Exchanges, Essential Health Benefits, affordability, health information technology, transparency, employer regulations, and taxes and fees. Issues related to H.R. 1628, the American Health Care Act. Issues related to opioids.","Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act (provisions related to Medicaid and Medicare); Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010 (provisions related to Medicaid and Medicare); Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues relating to improving care for the chronically ill. Issues related to H.R. 1625, the Consolidated Appropriations Act of 2018.","Corporate tax reform;  Health Insurance Tax Repeal, deductibility of executive compensation.","Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act; Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010; Issues related to the Affordable Care Act's implementation, including Medical Loss Ratio, taxes, Exchanges, Essential health Benefits, premium affordability, health information technology, transparency, and employer regulations;","Corporate tax reform;  Health Insurance Tax Repeal. Implementation of Tax Reform.","Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act (provisions related to Medicaid and Medicare); Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010 (provisions related to Medicaid and Medicare); Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues relating to improving care for the chronically ill. Issues related to H.R. 1625, the Consolidated Appropriations Act of 2018. Issues related for H.R. 6 - opioid legislation.","Health Insurance Tax Repeal. Implementation of Tax Cuts and Jobs Act. Deductibility of executive compensation.","Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act; Issues related to Public Law 111-152- Health Care and Education Reconciliation Act of 2010; Issues related to implementation of the Affordable Care Act, including Exchanges, Essential Health Benefits, affordability, health information technology, transparency, employer regulations, and taxes and fees. Issues related to H.R. 1628, the American Health Care Act. Issues related to opioids. Issues related to surprise billing.","Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act (provisions related to Medicaid and Medicare); Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010 (provisions related to Medicaid and Medicare); Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and the Proposed Rule regarding rebates.","Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act; Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010; Issues related to the Affordable Care Act's implementation, including Medical Loss Ratio, taxes, Exchanges, Essential health Benefits, premium affordability, health information technology, transparency, and employer regulations.","Issues related to implementation of the Affordable Care Act, including Exchanges, Essential Health Benefits, affordability, health information technology, transparency, employer regulations, and taxes and fees.  Issues related to opioids. Issues related to surprise billing.","Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform.","Issues related to opioids. Issues related to surprise billing.","Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to coronavirus response.","Issues related to surprise billing. Medicare advantage payment policy. Issues related to the federal response to Covid-19.","Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to coronavirus response. Issues related to telehealth reimbursement.","Medicare advantage payment policy. Issues related to the federal response to Covid-19.","Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to coronavirus response. Issues related to pharmacy benefit managers","Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to coronavirus response. Issues related to pharmacy benefit managers.","Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to pharmacy benefit managers."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 165699,
+  "name": "CVS PREVIOUSLY AETNA",
+  "slug": "cvs-previously-aetna",
+  "state": "DC",
+  "description": "Health care company",
+  "totalSpending": 1790000,
+  "filings": 35,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 250000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 290000
+    }
+  ],
+  "firms": [
+    "CAPITOL HILL CONSULTING GROUP"
+  ],
+  "lobbyists": [
+    "BRIAN SUTTER",
+    "DAVID JORY",
+    "THOMAS WHARTON",
+    "EMILY WILKINSON-HOLLAND",
+    "CHRISTOPHER DAVIS",
+    "KIMBERLEE TRZECIAK"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "TAX",
+    "INS",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act; Issues related to Public Law 111-152- Health Care and Education Reconciliation Act of 2010; Issues related to implementation of the Affordable Care Act, including Exchanges, Essential Health Benefits, affordability, health information technology, transparency, employer regulations, and taxes and fees. Issues related to H.R. 1628, the American Health Care Act. Issues related to opioids.",
+    "Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act (provisions related to Medicaid and Medicare); Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010 (provisions related to Medicaid and Medicare); Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues relating to improving care for the chronically ill. Issues related to H.R. 1625, the Consolidated Appropriations Act of 2018.",
+    "Corporate tax reform;  Health Insurance Tax Repeal, deductibility of executive compensation.",
+    "Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act; Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010; Issues related to the Affordable Care Act's implementation, including Medical Loss Ratio, taxes, Exchanges, Essential health Benefits, premium affordability, health information technology, transparency, and employer regulations;",
+    "Corporate tax reform;  Health Insurance Tax Repeal. Implementation of Tax Reform.",
+    "Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act (provisions related to Medicaid and Medicare); Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010 (provisions related to Medicaid and Medicare); Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues relating to improving care for the chronically ill. Issues related to H.R. 1625, the Consolidated Appropriations Act of 2018. Issues related for H.R. 6 - opioid legislation.",
+    "Health Insurance Tax Repeal. Implementation of Tax Cuts and Jobs Act. Deductibility of executive compensation.",
+    "Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act; Issues related to Public Law 111-152- Health Care and Education Reconciliation Act of 2010; Issues related to implementation of the Affordable Care Act, including Exchanges, Essential Health Benefits, affordability, health information technology, transparency, employer regulations, and taxes and fees. Issues related to H.R. 1628, the American Health Care Act. Issues related to opioids. Issues related to surprise billing.",
+    "Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act (provisions related to Medicaid and Medicare); Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010 (provisions related to Medicaid and Medicare); Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and the Proposed Rule regarding rebates.",
+    "Issues related to Public Law 111-148 - The Patient Protection and Affordable Care Act; Issues related to Public Law 111-152 - Health Care and Education Reconciliation Act of 2010; Issues related to the Affordable Care Act's implementation, including Medical Loss Ratio, taxes, Exchanges, Essential health Benefits, premium affordability, health information technology, transparency, and employer regulations.",
+    "Issues related to implementation of the Affordable Care Act, including Exchanges, Essential Health Benefits, affordability, health information technology, transparency, employer regulations, and taxes and fees.  Issues related to opioids. Issues related to surprise billing.",
+    "Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform.",
+    "Issues related to opioids. Issues related to surprise billing.",
+    "Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to coronavirus response.",
+    "Issues related to surprise billing. Medicare advantage payment policy. Issues related to the federal response to Covid-19.",
+    "Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to coronavirus response. Issues related to telehealth reimbursement.",
+    "Medicare advantage payment policy. Issues related to the federal response to Covid-19.",
+    "Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to coronavirus response. Issues related to pharmacy benefit managers",
+    "Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to coronavirus response. Issues related to pharmacy benefit managers.",
+    "Issues pertaining to entitlement reform, Medicare Advantage, Medicaid Dual Eligibles, and Medicare reimbursement and enrollment; Issues related to Drug Pricing and rebates, including Part D reform. Issues related to pharmacy benefit managers."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 45,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 223750,
+  "peakYear": 2025,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 4
+}

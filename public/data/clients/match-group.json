@@ -1,1 +1,86 @@
-{"id":137791,"name":"MATCH GROUP","slug":"match-group","state":"DC","description":"Professional services/hospitality","totalSpending":1360000,"filings":20,"yearlySpending":[{"year":2019,"income":130000},{"year":2020,"income":80000},{"year":2021,"income":320000},{"year":2022,"income":240000},{"year":2023,"income":170000},{"year":2024,"income":310000},{"year":2025,"income":110000}],"firms":["SQUIRE PATTON BOGGS"],"lobbyists":["JOHN BREAUX","BRET BOYLES","MATTHEW CUTTS","CHESTER LOTT","CALLIE HICKOX","ELAINE HILLGROVE","LUDMILLA KASULKE (NEE SAVELIEFF)","PAUL JONES"],"issues":["CSP","GOV","TRD",null,"FOR","SCI"],"sampleDescriptions":["Monitoring policy and regulatory changes as they effect the client.","Monitoring consumer safety policy and regulatory changes as they affect the client.","Monitoring consumer safety policy and regulatory changes as they affect the client.\nIssues related to covid-19 and the EARN IT Act","Issues related to the e-commerce moratorium","Issues related to trade","Foreign relations issues impact tech.","H. R. 8818; The American Privacy Rights Act of 2024 (APRA): Privacy issues."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 137791,
+  "name": "MATCH GROUP",
+  "slug": "match-group",
+  "state": "DC",
+  "description": "Professional services/hospitality",
+  "totalSpending": 1360000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 130000
+    },
+    {
+      "year": 2020,
+      "income": 80000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 170000
+    },
+    {
+      "year": 2024,
+      "income": 310000
+    },
+    {
+      "year": 2025,
+      "income": 110000
+    }
+  ],
+  "firms": [
+    "SQUIRE PATTON BOGGS"
+  ],
+  "lobbyists": [
+    "JOHN BREAUX",
+    "BRET BOYLES",
+    "MATTHEW CUTTS",
+    "CHESTER LOTT",
+    "CALLIE HICKOX",
+    "ELAINE HILLGROVE",
+    "LUDMILLA KASULKE (NEE SAVELIEFF)",
+    "PAUL JONES"
+  ],
+  "issues": [
+    "CSP",
+    "GOV",
+    "TRD",
+    null,
+    "FOR",
+    "SCI"
+  ],
+  "sampleDescriptions": [
+    "Monitoring policy and regulatory changes as they effect the client.",
+    "Monitoring consumer safety policy and regulatory changes as they affect the client.",
+    "Monitoring consumer safety policy and regulatory changes as they affect the client.\nIssues related to covid-19 and the EARN IT Act",
+    "Issues related to the e-commerce moratorium",
+    "Issues related to trade",
+    "Foreign relations issues impact tech.",
+    "H. R. 8818; The American Privacy Rights Act of 2024 (APRA): Privacy issues."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -15,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 194286,
+  "peakYear": 2021,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 5
+}

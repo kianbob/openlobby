@@ -1,1 +1,40 @@
-{"id":65669,"name":"BALKAN ENERGY DMCC","slug":"balkan-energy-dmcc","state":null,"description":"Energy company","totalSpending":1630000,"filings":3,"yearlySpending":[{"year":2025,"income":1630000}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","JASMINE ZAKI","AARON SAMPSON"],"issues":["ENG"],"sampleDescriptions":["Assistance and guidance breaking into foreign energy markets."],"years":[2025]}
+{
+  "id": 65669,
+  "name": "BALKAN ENERGY DMCC",
+  "slug": "balkan-energy-dmcc",
+  "state": null,
+  "description": "Energy company",
+  "totalSpending": 1630000,
+  "filings": 3,
+  "yearlySpending": [
+    {
+      "year": 2025,
+      "income": 1630000
+    }
+  ],
+  "firms": [
+    "BALLARD PARTNERS"
+  ],
+  "lobbyists": [
+    "BRIAN BALLARD",
+    "SYLVESTER LUKIS",
+    "JASMINE ZAKI",
+    "AARON SAMPSON"
+  ],
+  "issues": [
+    "ENG"
+  ],
+  "sampleDescriptions": [
+    "Assistance and guidance breaking into foreign energy markets."
+  ],
+  "years": [
+    2025
+  ],
+  "yearsActive": 1,
+  "avgAnnualSpending": 1630000,
+  "peakYear": 2025,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "energy"
+}

@@ -1,1 +1,79 @@
-{"id":145637,"name":"NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS","slug":"national-association-of-insurance-and-financial-advisors","state":null,"description":null,"totalSpending":1580000,"filings":23,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":160000},{"year":2022,"income":320000},{"year":2023,"income":250000},{"year":2025,"income":50000}],"firms":["STEPTOE LLP"],"lobbyists":["SCOTT SINDER","JOHN COLLINS","KATE JENSEN","ASHELEN VICUNA","CARISA MCLANEY","NICK SUTTER"],"issues":["INS",null],"sampleDescriptions":["Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Issues related to the Dodd-Frank Wall Street Reform and Consumer Protection Act implementation and advisor duty of care; Department of Labor proposed fiduciary duty of care rules; Issues related to the CHOICE Act","Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Issues related to the Dodd-Frank Wall Street Reform and Consumer Protection Act implementation and advisor duty of care; Department of Labor proposed fiduciary duty of care rules.","Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Issues related to the Dodd-Frank Wall Street Reform and Consumer Protection Act implementation and advisor duty of care; Department of Labor proposed fiduciary duty of care rules and SEC Best Interest Rule.","Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Department of Labor proposed fiduciary duty of care rules and SEC Best Interest Rule.","Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Department of Labor proposed fiduciary duty of care rules and SEC Best Interest Rule; issues related to privacy."],"years":[2018,2019,2020,2021,2022,2023,2025]}
+{
+  "id": 145637,
+  "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS",
+  "slug": "national-association-of-insurance-and-financial-advisors",
+  "state": null,
+  "description": null,
+  "totalSpending": 1580000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2025,
+      "income": 50000
+    }
+  ],
+  "firms": [
+    "STEPTOE LLP"
+  ],
+  "lobbyists": [
+    "SCOTT SINDER",
+    "JOHN COLLINS",
+    "KATE JENSEN",
+    "ASHELEN VICUNA",
+    "CARISA MCLANEY",
+    "NICK SUTTER"
+  ],
+  "issues": [
+    "INS",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Issues related to the Dodd-Frank Wall Street Reform and Consumer Protection Act implementation and advisor duty of care; Department of Labor proposed fiduciary duty of care rules; Issues related to the CHOICE Act",
+    "Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Issues related to the Dodd-Frank Wall Street Reform and Consumer Protection Act implementation and advisor duty of care; Department of Labor proposed fiduciary duty of care rules.",
+    "Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Issues related to the Dodd-Frank Wall Street Reform and Consumer Protection Act implementation and advisor duty of care; Department of Labor proposed fiduciary duty of care rules and SEC Best Interest Rule.",
+    "Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Department of Labor proposed fiduciary duty of care rules and SEC Best Interest Rule.",
+    "Issues relating to financial services regulatory reform and NARAB II; Office of National Insurance Act; Broker-Dealer/Investment Advisor Standard of Care Harmonization; Department of Labor proposed fiduciary duty of care rules and SEC Best Interest Rule; issues related to privacy."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2025
+  ],
+  "growthRate": -84,
+  "trajectory": "declining",
+  "yearsActive": 7,
+  "avgAnnualSpending": 225714,
+  "peakYear": 2018,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

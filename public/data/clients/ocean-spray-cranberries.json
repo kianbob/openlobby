@@ -1,1 +1,95 @@
-{"id":129579,"name":"OCEAN SPRAY CRANBERRIES","slug":"ocean-spray-cranberries","state":"MA","description":"Agriculture cooperative","totalSpending":1480000,"filings":25,"yearlySpending":[{"year":2019,"income":40000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["THE RUSSELL GROUP, INC."],"lobbyists":["RANDALL RUSSELL","TYSON REDPATH","ANDREW HARKER","KARLA THIEMAN","JESSICA SCHULKEN","ALEX NOFFSINGER","MORGAN OREM","KATE THOMPSON"],"issues":["AGR",null],"sampleDescriptions":["Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives.","Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; cooperative tax issues; H.R.1865 - Further Consolidated Appropriations Act, 2020.","Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; cooperative tax issues; matters concerning COVID-19.","Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; matters concerning COVID-19.","Matters concerning federal nutrition policy, specifically dietary guidelines, conservation, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining the the Process Verified Program at USDA; matters pertaining to bonus surplus commodity purchases.","Matters concerning federal nutrition policy, specifically dietary guidelines, conservation, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining the the Process Verified Program at USDA; matters pertaining to bonus surplus commodity purchases; FY 21 appropriations for cranberry research; H.R.7393/S.3894 - Growing Climate Solutions Act of 2020.","Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining the the Process Verified Program at USDA; matters pertaining to bonus surplus commodity purchases; implementation of FY 21 appropriations for cranberry research; H.R.7393/S.3894 - Growing Climate Solutions Act of 2020; issues related to Section 232 tariffs.","Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining to bonus surplus commodity purchases; issues related to Section 232 tariffs.","Matters concerning federal nutrition policy, conservation/environment, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining to surplus commodity purchases; matters concerning Section 232 tariffs; matters concerning tax, specifically the Section 199A deduction.","Matters concerning federal nutrition policy, conservation/environment, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining to surplus commodity purchases; matters concerning Section 232 tariffs; matters concerning tax, specifically the Section 199A deduction; issues pertaining to China GACC registration decrees 248/249; providing technical feedback on the REDUCE Act (S. 2645, HR 5389) and its possible inclusion in budget reconciliation.","Matters concerning federal nutrition policy, trade and agricultural cooperatives; matters concerning Section 232 tariffs; providing technical feedback on the REDUCE Act (S. 2645, HR 5389) and its possible inclusion in budget reconciliation; matters concerning supply chain distruptions.","Matters concerning federal nutrition policy, trade and agricultural cooperatives; matters concerning Section 232 tariffs; providing technical feedback on the REDUCE Act (S. 2645, HR 5389) and its possible inclusion in budget reconciliation; matters concerning supply chain disruptions; matters concerning hunger; matters concerning new USDA legal authorities.","Matters concerning federal nutrition policy, trade and agricultural cooperatives; matters concerning Section 232 tariffs; matters concerning supply chain disruptions; matters concerning hunger; matters concerning new USDA legal authorities.","Matters concerning federal nutrition policy, trade and agricultural cooperatives; matters concerning Section 32 purchases; matters concerning supply chain disruptions.","Issues pertaining to the farm bill; matters concerning federal nutrition and farm policy, agricultural cooperatives, USDA purchases; issues pertaining to tax; HR 1750 and S.103- the Defending Domestic Orange Juice Production Act","Issues pertaining to H.R. 8467 The Farm, Food, and National Security Act of 2024; issues concerning federal nutrition and farm policy, agricultural cooperatives, and USDA purchases; issues pertaining to tax; issues pertaining to Section 199A; H.R. 1750 and S.103- the Defending Domestic Orange Juice Production Act; and issues pertaining to H.R. 4721 Mainstreet Tax Certainty Act.","Issues pertaining to Title II, Title III, Title IV, Title VII, and Title X of H.R. 8467 The Farm, Food, and National Security Act of 2024; issues concerning federal nutrition and farm policy; issues pertaining to agricultural cooperatives; issues pertaining to USDA purchases; issues pertaining to tax; issues pertaining to Section 199A; and issues pertaining to H.R. 4721 Mainstreet Tax Certainty Act.","Issues pertaining to H.R. 8467 The Farm, Food, and National Security Act of 2024; issues concerning federal nutrition and farm policy; issues pertaining to agricultural cooperatives; issues pertaining to USDA purchases; issues pertaining to tax; issues pertaining to Section 199A; issues pertaining to H.R. 4721 Mainstreet Tax Certainty Act; and issues pertaining to the FDA's rule on the definition of nutrient content claim healthy.\"","Issues pertaining to the Farm Bill; issues concerning federal nutrition and farm policy; issues pertaining to agricultural cooperatives; issues pertaining to USDA purchases; issues pertaining to tax; issues pertaining to Section 199A; issues pertaining to international trade; and issues pertaining to the FDA's rule on the definition of nutrient content claim healthy.\"","Issues pertaining to the Farm Bill; issues concerning federal nutrition and farm policy; issues pertaining to agricultural cooperatives; issues pertaining to USDA purchases; issues pertaining to tax; issues pertaining to H.R. 1-One Big Beautiful Bill Act; issues pertaining to international trade; and issues pertaining to the FDA's rule on the definition of nutrient content claim healthy.\""],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 129579,
+  "name": "OCEAN SPRAY CRANBERRIES",
+  "slug": "ocean-spray-cranberries",
+  "state": "MA",
+  "description": "Agriculture cooperative",
+  "totalSpending": 1480000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 40000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "THE RUSSELL GROUP, INC."
+  ],
+  "lobbyists": [
+    "RANDALL RUSSELL",
+    "TYSON REDPATH",
+    "ANDREW HARKER",
+    "KARLA THIEMAN",
+    "JESSICA SCHULKEN",
+    "ALEX NOFFSINGER",
+    "MORGAN OREM",
+    "KATE THOMPSON"
+  ],
+  "issues": [
+    "AGR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives.",
+    "Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; cooperative tax issues; H.R.1865 - Further Consolidated Appropriations Act, 2020.",
+    "Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; cooperative tax issues; matters concerning COVID-19.",
+    "Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; matters concerning COVID-19.",
+    "Matters concerning federal nutrition policy, specifically dietary guidelines, conservation, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining the the Process Verified Program at USDA; matters pertaining to bonus surplus commodity purchases.",
+    "Matters concerning federal nutrition policy, specifically dietary guidelines, conservation, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining the the Process Verified Program at USDA; matters pertaining to bonus surplus commodity purchases; FY 21 appropriations for cranberry research; H.R.7393/S.3894 - Growing Climate Solutions Act of 2020.",
+    "Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining the the Process Verified Program at USDA; matters pertaining to bonus surplus commodity purchases; implementation of FY 21 appropriations for cranberry research; H.R.7393/S.3894 - Growing Climate Solutions Act of 2020; issues related to Section 232 tariffs.",
+    "Matters concerning federal nutrition policy, conservation, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining to bonus surplus commodity purchases; issues related to Section 232 tariffs.",
+    "Matters concerning federal nutrition policy, conservation/environment, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining to surplus commodity purchases; matters concerning Section 232 tariffs; matters concerning tax, specifically the Section 199A deduction.",
+    "Matters concerning federal nutrition policy, conservation/environment, trade and agricultural cooperatives; matters concerning COVID-19; matters pertaining to surplus commodity purchases; matters concerning Section 232 tariffs; matters concerning tax, specifically the Section 199A deduction; issues pertaining to China GACC registration decrees 248/249; providing technical feedback on the REDUCE Act (S. 2645, HR 5389) and its possible inclusion in budget reconciliation.",
+    "Matters concerning federal nutrition policy, trade and agricultural cooperatives; matters concerning Section 232 tariffs; providing technical feedback on the REDUCE Act (S. 2645, HR 5389) and its possible inclusion in budget reconciliation; matters concerning supply chain distruptions.",
+    "Matters concerning federal nutrition policy, trade and agricultural cooperatives; matters concerning Section 232 tariffs; providing technical feedback on the REDUCE Act (S. 2645, HR 5389) and its possible inclusion in budget reconciliation; matters concerning supply chain disruptions; matters concerning hunger; matters concerning new USDA legal authorities.",
+    "Matters concerning federal nutrition policy, trade and agricultural cooperatives; matters concerning Section 232 tariffs; matters concerning supply chain disruptions; matters concerning hunger; matters concerning new USDA legal authorities.",
+    "Matters concerning federal nutrition policy, trade and agricultural cooperatives; matters concerning Section 32 purchases; matters concerning supply chain disruptions.",
+    "Issues pertaining to the farm bill; matters concerning federal nutrition and farm policy, agricultural cooperatives, USDA purchases; issues pertaining to tax; HR 1750 and S.103- the Defending Domestic Orange Juice Production Act",
+    "Issues pertaining to H.R. 8467 The Farm, Food, and National Security Act of 2024; issues concerning federal nutrition and farm policy, agricultural cooperatives, and USDA purchases; issues pertaining to tax; issues pertaining to Section 199A; H.R. 1750 and S.103- the Defending Domestic Orange Juice Production Act; and issues pertaining to H.R. 4721 Mainstreet Tax Certainty Act.",
+    "Issues pertaining to Title II, Title III, Title IV, Title VII, and Title X of H.R. 8467 The Farm, Food, and National Security Act of 2024; issues concerning federal nutrition and farm policy; issues pertaining to agricultural cooperatives; issues pertaining to USDA purchases; issues pertaining to tax; issues pertaining to Section 199A; and issues pertaining to H.R. 4721 Mainstreet Tax Certainty Act.",
+    "Issues pertaining to H.R. 8467 The Farm, Food, and National Security Act of 2024; issues concerning federal nutrition and farm policy; issues pertaining to agricultural cooperatives; issues pertaining to USDA purchases; issues pertaining to tax; issues pertaining to Section 199A; issues pertaining to H.R. 4721 Mainstreet Tax Certainty Act; and issues pertaining to the FDA's rule on the definition of nutrient content claim healthy.\"",
+    "Issues pertaining to the Farm Bill; issues concerning federal nutrition and farm policy; issues pertaining to agricultural cooperatives; issues pertaining to USDA purchases; issues pertaining to tax; issues pertaining to Section 199A; issues pertaining to international trade; and issues pertaining to the FDA's rule on the definition of nutrient content claim healthy.\"",
+    "Issues pertaining to the Farm Bill; issues concerning federal nutrition and farm policy; issues pertaining to agricultural cooperatives; issues pertaining to USDA purchases; issues pertaining to tax; issues pertaining to H.R. 1-One Big Beautiful Bill Act; issues pertaining to international trade; and issues pertaining to the FDA's rule on the definition of nutrient content claim healthy.\""
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 500,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 211429,
+  "peakYear": 2020,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 1
+}

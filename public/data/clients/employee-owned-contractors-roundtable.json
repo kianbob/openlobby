@@ -1,1 +1,93 @@
-{"id":162784,"name":"EMPLOYEE-OWNED CONTRACTORS ROUNDTABLE","slug":"employee-owned-contractors-roundtable","state":"DC","description":"Federal contractor preference policies","totalSpending":2800000,"filings":37,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":350000},{"year":2020,"income":370000},{"year":2021,"income":150000},{"year":2022,"income":500000},{"year":2023,"income":330000},{"year":2024,"income":400000},{"year":2025,"income":500000}],"firms":["VENN STRATEGIES"],"lobbyists":["MATTHEW PEARCE","JOHN HEBERT","ERIK OLSON","MATTHEW GIACONA","MATTHEW SCOTT","AUSTIN NORTON","KALI FIELDS","GABRIEL PIMSLER","KYLA TAYLOR","JACOB PETOTE","TEAGAN POLEYKETT","JOSEPH BRADY","GARRETT LUKKEN"],"issues":["SMB","DEF","GOV",null],"sampleDescriptions":["Federal contractor preference policies","Federal contractor preference policies.","Federal contractor preference policies, including S.4049/H.R.6395 the FY21 National Defense Authorization Act, which included Other Transaction Authority legislative language that directly impacted 100% ESOP companies.","Promoting ESOP related small business procurement policies as part of the FY2022 National Defense Authorization Act to provide incentives for 100% employee-owned businesses in federal contracting, and generally, provisions that promote such businesses in small business set-asides.","Implementation of ESOP related small business procurement policies that were included in the FY2022 National Defense Authorization Act. Promotion and policy development of incentives for 100% employee-owned businesses in federal contracting, and generally, provisions that promote such businesses in small business set-asides.","Improvement and expansion of ESOP policies that were passed in Sec. 874 of FY2022 NDAA. Provision for sole source procurement for follow on contracts through Department of Defense for businesses wholly owned through an employee stock ownership plan."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 162784,
+  "name": "EMPLOYEE-OWNED CONTRACTORS ROUNDTABLE",
+  "slug": "employee-owned-contractors-roundtable",
+  "state": "DC",
+  "description": "Federal contractor preference policies",
+  "totalSpending": 2800000,
+  "filings": 37,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 350000
+    },
+    {
+      "year": 2020,
+      "income": 370000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 500000
+    },
+    {
+      "year": 2023,
+      "income": 330000
+    },
+    {
+      "year": 2024,
+      "income": 400000
+    },
+    {
+      "year": 2025,
+      "income": 500000
+    }
+  ],
+  "firms": [
+    "VENN STRATEGIES"
+  ],
+  "lobbyists": [
+    "MATTHEW PEARCE",
+    "JOHN HEBERT",
+    "ERIK OLSON",
+    "MATTHEW GIACONA",
+    "MATTHEW SCOTT",
+    "AUSTIN NORTON",
+    "KALI FIELDS",
+    "GABRIEL PIMSLER",
+    "KYLA TAYLOR",
+    "JACOB PETOTE",
+    "TEAGAN POLEYKETT",
+    "JOSEPH BRADY",
+    "GARRETT LUKKEN"
+  ],
+  "issues": [
+    "SMB",
+    "DEF",
+    "GOV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Federal contractor preference policies",
+    "Federal contractor preference policies.",
+    "Federal contractor preference policies, including S.4049/H.R.6395 the FY21 National Defense Authorization Act, which included Other Transaction Authority legislative language that directly impacted 100% ESOP companies.",
+    "Promoting ESOP related small business procurement policies as part of the FY2022 National Defense Authorization Act to provide incentives for 100% employee-owned businesses in federal contracting, and generally, provisions that promote such businesses in small business set-asides.",
+    "Implementation of ESOP related small business procurement policies that were included in the FY2022 National Defense Authorization Act. Promotion and policy development of incentives for 100% employee-owned businesses in federal contracting, and generally, provisions that promote such businesses in small business set-asides.",
+    "Improvement and expansion of ESOP policies that were passed in Sec. 874 of FY2022 NDAA. Provision for sole source procurement for follow on contracts through Department of Defense for businesses wholly owned through an employee stock ownership plan."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 150,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 350000,
+  "peakYear": 2022,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 3
+}

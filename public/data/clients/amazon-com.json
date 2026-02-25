@@ -1,1 +1,103 @@
-{"id":201188,"name":"AMAZON.COM","slug":"amazon-com","state":"DC","description":"Electronic Commerce and Cloud Computing","totalSpending":2000000,"filings":31,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":280000},{"year":2020,"income":280000},{"year":2021,"income":260000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":180000}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","DANIEL MCFAUL","REBECCA BENN","PAMELA BONDI"],"issues":["TRA","TAX","GOV","TRD","LBR","SMB","DIS","CSP",null],"sampleDescriptions":["Infrastructure Policy and Funding","Tax Policy","Consumer Product Policy and Regulation","Trade Policy","Trade Policy and tariffs","Trade and Tariff Policy","Issues involving IT modernization, including FedRAMP reform, open data, and funding for the Modernizing Government Technology Act (H.R. 2227/ S. 990).","Issues related to U.S. trade policy, including NAFTA, the World Trade Organization, the World Customs Organization, China, U.S. customs policy and procedures, U.S. tariffs, foreign direct investment, and other trade practices, including in the EU, Asia and Latin America.","Issues related to surface transportation, including autonomous vehicles, vehicle electrification, and the Transportation, Housing and Urban Development and Related Agencies Appropriations Act of 2019 (H.R. 6072/ S. 3023).","Issues related to surface transportation, including autonomous vehicles, vehicle electrification, and the Transportation, Housing and Urban Development and Related Agencies Appropriations Act.","Issues related to U.S. trade policy, including NAFTA, the World Trade Organization, the World Customs Organization, U.S. customs policy and procedures, foreign direct investment, and other trade practices, including in the EU, Asia and Latin America.","Issues involving IT modernization, including FedRAMP reform, open data, and funding.","Issues related to surface transportation, including autonomous vehicles, vehicle electrification, and the Transportation, Housing and Urban Development and Related Agencies Appropriations Act;","Issues and policies pertaining to ecommerce and competition related matters.","Issues related to U.S. trade policy, including NAFTA, the World Trade Organization, the World Customs Organization, U.S. customs policy and procedures, foreign direct investment, and other trade practices.","Guidance on pandemic workplace procedures.","Issues related to consumer protection and data privacy; consumer issues; S. 3431 INFORM Act; S. 2992 American Innovation and Choice Online Act","Issues related to consumer protection and data privacy; consumer issues.","Issues related to U.S. trade policy, the World Trade Organization, the World Customs Organization, U.S. customs policy and procedures, foreign direct investment, and other trade practices."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 201188,
+  "name": "AMAZON.COM",
+  "slug": "amazon-com",
+  "state": "DC",
+  "description": "Electronic Commerce and Cloud Computing",
+  "totalSpending": 2000000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 280000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 260000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "BALLARD PARTNERS"
+  ],
+  "lobbyists": [
+    "BRIAN BALLARD",
+    "SYLVESTER LUKIS",
+    "DANIEL MCFAUL",
+    "REBECCA BENN",
+    "PAMELA BONDI"
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    "GOV",
+    "TRD",
+    "LBR",
+    "SMB",
+    "DIS",
+    "CSP",
+    null
+  ],
+  "sampleDescriptions": [
+    "Infrastructure Policy and Funding",
+    "Tax Policy",
+    "Consumer Product Policy and Regulation",
+    "Trade Policy",
+    "Trade Policy and tariffs",
+    "Trade and Tariff Policy",
+    "Issues involving IT modernization, including FedRAMP reform, open data, and funding for the Modernizing Government Technology Act (H.R. 2227/ S. 990).",
+    "Issues related to U.S. trade policy, including NAFTA, the World Trade Organization, the World Customs Organization, China, U.S. customs policy and procedures, U.S. tariffs, foreign direct investment, and other trade practices, including in the EU, Asia and Latin America.",
+    "Issues related to surface transportation, including autonomous vehicles, vehicle electrification, and the Transportation, Housing and Urban Development and Related Agencies Appropriations Act of 2019 (H.R. 6072/ S. 3023).",
+    "Issues related to surface transportation, including autonomous vehicles, vehicle electrification, and the Transportation, Housing and Urban Development and Related Agencies Appropriations Act.",
+    "Issues related to U.S. trade policy, including NAFTA, the World Trade Organization, the World Customs Organization, U.S. customs policy and procedures, foreign direct investment, and other trade practices, including in the EU, Asia and Latin America.",
+    "Issues involving IT modernization, including FedRAMP reform, open data, and funding.",
+    "Issues related to surface transportation, including autonomous vehicles, vehicle electrification, and the Transportation, Housing and Urban Development and Related Agencies Appropriations Act;",
+    "Issues and policies pertaining to ecommerce and competition related matters.",
+    "Issues related to U.S. trade policy, including NAFTA, the World Trade Organization, the World Customs Organization, U.S. customs policy and procedures, foreign direct investment, and other trade practices.",
+    "Guidance on pandemic workplace procedures.",
+    "Issues related to consumer protection and data privacy; consumer issues; S. 3431 INFORM Act; S. 2992 American Innovation and Choice Online Act",
+    "Issues related to consumer protection and data privacy; consumer issues.",
+    "Issues related to U.S. trade policy, the World Trade Organization, the World Customs Organization, U.S. customs policy and procedures, foreign direct investment, and other trade practices."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -36,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 250000,
+  "peakYear": 2018,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 8
+}

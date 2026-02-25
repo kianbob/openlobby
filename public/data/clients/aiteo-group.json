@@ -1,1 +1,64 @@
-{"id":208615,"name":"AITEO GROUP","slug":"aiteo-group","state":null,"description":"energy","totalSpending":1670000,"filings":16,"yearlySpending":[{"year":2021,"income":310000},{"year":2022,"income":440000},{"year":2023,"income":220000},{"year":2024,"income":480000},{"year":2025,"income":220000}],"firms":["MERCURY PUBLIC AFFAIRS, LLC"],"lobbyists":["BRYAN LANZA","MORRIS REID","TOBY MOFFETT","CHERI BUSTOS"],"issues":["ENG",null],"sampleDescriptions":["Relationship Development with federal government officials","Relationship development with federal government officials"],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 208615,
+  "name": "AITEO GROUP",
+  "slug": "aiteo-group",
+  "state": null,
+  "description": "energy",
+  "totalSpending": 1670000,
+  "filings": 16,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 310000
+    },
+    {
+      "year": 2022,
+      "income": 440000
+    },
+    {
+      "year": 2023,
+      "income": 220000
+    },
+    {
+      "year": 2024,
+      "income": 480000
+    },
+    {
+      "year": 2025,
+      "income": 220000
+    }
+  ],
+  "firms": [
+    "MERCURY PUBLIC AFFAIRS, LLC"
+  ],
+  "lobbyists": [
+    "BRYAN LANZA",
+    "MORRIS REID",
+    "TOBY MOFFETT",
+    "CHERI BUSTOS"
+  ],
+  "issues": [
+    "ENG",
+    null
+  ],
+  "sampleDescriptions": [
+    "Relationship Development with federal government officials",
+    "Relationship development with federal government officials"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -29,
+  "trajectory": "reducing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 334000,
+  "peakYear": 2024,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

@@ -1,1 +1,105 @@
-{"id":182962,"name":"FEEDING AMERICA","slug":"feeding-america","state":"DC","description":"Anti-hunger association that works to advance programs and policies to address hunger","totalSpending":1570000,"filings":32,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":120000},{"year":2020,"income":90000},{"year":2021,"income":180000},{"year":2022,"income":340000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["MONUMENT ADVOCACY"],"lobbyists":["THOMAS HAWKS","JOHN MULLIGAN","MATT MCALVANAH (LISTED IN ERROR)","MELANIE LEHNHARDT","BRIANNA JONES","LILIA HORDER","JOHN WEBER","MICHAEL GLYMPH"],"issues":["AGR","BUD","FOO","TRD","DEF",null,"TAX"],"sampleDescriptions":["Issues related to the Farm Bill and Appropriations bills","Issues related to H.R. 2 Agriculture and Nutrition Act of 2018; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2019","Issues related to H.R.2 Agriculture Improvement Act of 2018, S.3042 The Agriculture Improvement Act of 2018; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2019","Issues related to H.R.2 Agriculture and Nutrition Act of 2018; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2019","Issues related to FY20 Budget request","Issues related to H.R.2, Agriculture Improvement Act of 2018 implementation","Issues related to H.R.2, Agriculture Improvement Act of 2018 implementation, S.1918, Hunger-Free Summer for Kids Act of 2019","Issues related to H.R.3164; S.2522 Agriculture Appropriations Acts 2020","Issues related to trade mitigation assistance","Issues related to H.R.3164; S.2522 Agriculture Appropriations Acts 2020; H.R. 748: Coronavirus Aid, Relief, and Economic Security Act; H.R. 6201: Families First Coronavirus Response Act.","Issues related to H.R.3164; S.2522 Agriculture Appropriations Acts 2020; H.R. 748: Coronavirus Aid, Relief, and Economic Security Act; H.R. 6201: Families First Coronavirus Response Act.; HEROES Act","Issues related H.R.6395, National Defense Authorization Act, FY2021","Issues related to H.R. 7608, Consolidated Appropriations Act, Agriculture Appropriations bill; H.R. 133 - FY 2021 Omnibus and Covid Relief and Response Act","Issues related to H.R. 1319 - American Rescue Plan Act; H.R. 133 - FY 2021 Omnibus and Covid Relief and Response Act","Issues related to H.R. 6395, National Defense Authorization Act, FY2021","Issues related to H.R.2, Agriculture Improvement Act of 2018 implementation, Hunger-Free Summer for Kids Act of 2021","Issues related to FY 2022 National Defense Authorization Act","Issues related to H.R. 1319 - American Rescue Plan Act; H.R. 133 - FY 2021 Omnibus and Covid Relief and Response Act; FY 2022 Appropriations Process","Issues related to H.R.2, Agriculture Improvement Act of 2018 implementation, Hunger-Free Summer for Kids Act of 2021; Child Nutrition Reauthorization; The Emergency Food Assistance Program","Issues related to FY 2022 National Defense Authorization Act - H.R. 4350"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 182962,
+  "name": "FEEDING AMERICA",
+  "slug": "feeding-america",
+  "state": "DC",
+  "description": "Anti-hunger association that works to advance programs and policies to address hunger",
+  "totalSpending": 1570000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 120000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 90000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 340000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "MONUMENT ADVOCACY"
+  ],
+  "lobbyists": [
+    "THOMAS HAWKS",
+    "JOHN MULLIGAN",
+    "MATT MCALVANAH (LISTED IN ERROR)",
+    "MELANIE LEHNHARDT",
+    "BRIANNA JONES",
+    "LILIA HORDER",
+    "JOHN WEBER",
+    "MICHAEL GLYMPH"
+  ],
+  "issues": [
+    "AGR",
+    "BUD",
+    "FOO",
+    "TRD",
+    "DEF",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "Issues related to the Farm Bill and Appropriations bills",
+    "Issues related to H.R. 2 Agriculture and Nutrition Act of 2018; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2019",
+    "Issues related to H.R.2 Agriculture Improvement Act of 2018, S.3042 The Agriculture Improvement Act of 2018; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2019",
+    "Issues related to H.R.2 Agriculture and Nutrition Act of 2018; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2019",
+    "Issues related to FY20 Budget request",
+    "Issues related to H.R.2, Agriculture Improvement Act of 2018 implementation",
+    "Issues related to H.R.2, Agriculture Improvement Act of 2018 implementation, S.1918, Hunger-Free Summer for Kids Act of 2019",
+    "Issues related to H.R.3164; S.2522 Agriculture Appropriations Acts 2020",
+    "Issues related to trade mitigation assistance",
+    "Issues related to H.R.3164; S.2522 Agriculture Appropriations Acts 2020; H.R. 748: Coronavirus Aid, Relief, and Economic Security Act; H.R. 6201: Families First Coronavirus Response Act.",
+    "Issues related to H.R.3164; S.2522 Agriculture Appropriations Acts 2020; H.R. 748: Coronavirus Aid, Relief, and Economic Security Act; H.R. 6201: Families First Coronavirus Response Act.; HEROES Act",
+    "Issues related H.R.6395, National Defense Authorization Act, FY2021",
+    "Issues related to H.R. 7608, Consolidated Appropriations Act, Agriculture Appropriations bill; H.R. 133 - FY 2021 Omnibus and Covid Relief and Response Act",
+    "Issues related to H.R. 1319 - American Rescue Plan Act; H.R. 133 - FY 2021 Omnibus and Covid Relief and Response Act",
+    "Issues related to H.R. 6395, National Defense Authorization Act, FY2021",
+    "Issues related to H.R.2, Agriculture Improvement Act of 2018 implementation, Hunger-Free Summer for Kids Act of 2021",
+    "Issues related to FY 2022 National Defense Authorization Act",
+    "Issues related to H.R. 1319 - American Rescue Plan Act; H.R. 133 - FY 2021 Omnibus and Covid Relief and Response Act; FY 2022 Appropriations Process",
+    "Issues related to H.R.2, Agriculture Improvement Act of 2018 implementation, Hunger-Free Summer for Kids Act of 2021; Child Nutrition Reauthorization; The Emergency Food Assistance Program",
+    "Issues related to FY 2022 National Defense Authorization Act - H.R. 4350"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 196250,
+  "peakYear": 2022,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 6
+}

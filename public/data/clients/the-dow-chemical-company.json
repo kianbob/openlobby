@@ -1,1 +1,106 @@
-{"id":117731,"name":"THE DOW CHEMICAL COMPANY","slug":"the-dow-chemical-company","state":"DC","description":"Chemical manufacturing","totalSpending":1480000,"filings":24,"yearlySpending":[{"year":2018,"income":100000},{"year":2019,"income":120000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":60000}],"firms":["THE DUBERSTEIN GROUP INC."],"lobbyists":["ANNE BRADBURY","DAVID SCHIAPPA","BRIAN GRIFFIN","ANNE WALL","KATHERINE KEATING","BENJAMIN HOWARD","ELIZABETH KELLEY"],"issues":["TAX","TRD","TRA","HOM","ENV","BUD","LBR","ENG",null],"sampleDescriptions":["TCJA implementation.","Ex-Im Bank.\n\nTrade.","Ex-Im Bank\n\nTrade Issues\n\nUnited States-Mexico-Canada (USMCA)/North American Free Trade Agreement (NAFTA)","Trade Issues\n\nEx-Im Bank\n\nUnited States-Mexico-Canada (USMCA)","Tax Issues","Transportation Infrastructure Issues\n\nIssues related to COVID-19: H.R.6201 - Families First Coronavirus Response Act; H.R.748 - CARES Act","Issues related to COVID-19: H.R.6201 - Families First Coronavirus Response Act; H.R.748 - CARES Act","Chemical Facility Anti-Terrorism Standards (CFATS)","Issues related to COVID-19: H.R.748 - CARES Act\n\nSanctions Legislation","Chemical Facility Anti-Terrorism Standards (CFATS) Reauthorization","Transportation Infrastructure Issues: H.R.2 (DeFazio) - INVEST In America Act","S.1982 (Sullivan) - Save Our Seas 2.0 Act","Chemical Facility Anti-Terrorism Standards (CFATS) Reauthorization: H.R.6160 (Thompson) - To extend the chemical facility anti-terrorism standards program of the Department of Homeland Security.","WRDA Reauthorization:  S.1811 (Barrasso) - Water Resources Development Act of 2020; H.R.7575 (DeFazio) - Water Resources Development Act of 2020","Omnibus Appropriations: H.R.133 - Consolidated Appropriations Act, 2021","Issues related to COVID-19: H.R.133 - Consolidated Appropriations Act, 2021\n\nSanctions Legislation","Issues related to Covid-19 and H.R.1319 (Yarmuth) - American Rescue Plan Act","Meeting requests regarding infrastructure and global competitiveness","Issues related to international taxation","S.1486 (Casey) - Pregnant Workers Fairness Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 117731,
+  "name": "THE DOW CHEMICAL COMPANY",
+  "slug": "the-dow-chemical-company",
+  "state": "DC",
+  "description": "Chemical manufacturing",
+  "totalSpending": 1480000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 100000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 60000
+    }
+  ],
+  "firms": [
+    "THE DUBERSTEIN GROUP INC."
+  ],
+  "lobbyists": [
+    "ANNE BRADBURY",
+    "DAVID SCHIAPPA",
+    "BRIAN GRIFFIN",
+    "ANNE WALL",
+    "KATHERINE KEATING",
+    "BENJAMIN HOWARD",
+    "ELIZABETH KELLEY"
+  ],
+  "issues": [
+    "TAX",
+    "TRD",
+    "TRA",
+    "HOM",
+    "ENV",
+    "BUD",
+    "LBR",
+    "ENG",
+    null
+  ],
+  "sampleDescriptions": [
+    "TCJA implementation.",
+    "Ex-Im Bank.\n\nTrade.",
+    "Ex-Im Bank\n\nTrade Issues\n\nUnited States-Mexico-Canada (USMCA)/North American Free Trade Agreement (NAFTA)",
+    "Trade Issues\n\nEx-Im Bank\n\nUnited States-Mexico-Canada (USMCA)",
+    "Tax Issues",
+    "Transportation Infrastructure Issues\n\nIssues related to COVID-19: H.R.6201 - Families First Coronavirus Response Act; H.R.748 - CARES Act",
+    "Issues related to COVID-19: H.R.6201 - Families First Coronavirus Response Act; H.R.748 - CARES Act",
+    "Chemical Facility Anti-Terrorism Standards (CFATS)",
+    "Issues related to COVID-19: H.R.748 - CARES Act\n\nSanctions Legislation",
+    "Chemical Facility Anti-Terrorism Standards (CFATS) Reauthorization",
+    "Transportation Infrastructure Issues: H.R.2 (DeFazio) - INVEST In America Act",
+    "S.1982 (Sullivan) - Save Our Seas 2.0 Act",
+    "Chemical Facility Anti-Terrorism Standards (CFATS) Reauthorization: H.R.6160 (Thompson) - To extend the chemical facility anti-terrorism standards program of the Department of Homeland Security.",
+    "WRDA Reauthorization:  S.1811 (Barrasso) - Water Resources Development Act of 2020; H.R.7575 (DeFazio) - Water Resources Development Act of 2020",
+    "Omnibus Appropriations: H.R.133 - Consolidated Appropriations Act, 2021",
+    "Issues related to COVID-19: H.R.133 - Consolidated Appropriations Act, 2021\n\nSanctions Legislation",
+    "Issues related to Covid-19 and H.R.1319 (Yarmuth) - American Rescue Plan Act",
+    "Meeting requests regarding infrastructure and global competitiveness",
+    "Issues related to international taxation",
+    "S.1486 (Casey) - Pregnant Workers Fairness Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -40,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 185000,
+  "peakYear": 2020,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 8
+}

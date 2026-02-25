@@ -1,1 +1,111 @@
-{"id":104399,"name":"AMERICAN PUBLIC TRANSPORTATION ASSOCIATION","slug":"american-public-transportation-association","state":"DC","description":"Association representing all modes of public transportation","totalSpending":1500000,"filings":27,"yearlySpending":[{"year":2019,"income":120000},{"year":2020,"income":200000},{"year":2021,"income":220000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["ARENTFOX SCHIFF LLP"],"lobbyists":["JON BOUKER","DAN RENBERG","PHILIP ENGLISH","BYRON DORGAN","SONJA NESBIT","ANGELA EBINER","KATHERINE FLOCKEN","MARIANA ACUNA","DANIEL SJOSTEDT","PAUL SCHMID","OLIVER SPURGEON III","JERI FREIRICH","STEVEN MION","DAVID HANKE","DAVID GROSSO","PATRICE HOWARD","KELSEY GRISWOLD-BERGER","STARSHINE CHUN","KATHERINE KRAMER","ELIZABETH HORNER","BLAKE THELANDER"],"issues":["TRA","BUD","TAX",null],"sampleDescriptions":["FY2020 Department of Transportation appropriations; \nReauthorization of public transportation and passenger rail programs; \nInfrastructure funding legislation generally","H.R.3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020), Division E, Title I, regarding Federal Transit Administration funding\nH.R.3163 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020), Title I, regarding Federal Transit Administration funding","Reauthorization of public transportation and passenger rail programs \nInfrastructure funding legislation generally","H.R.3300 (Economic Mobility Act of 2019), Section 401, regarding repeal of inclusion of transportation fringe benefit expenses in unrelated business taxable income","H.R. 3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020), Division E, Title I, regarding Federal Transit Administration funding\nH.R. 3163 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020), Title I, regarding Federal Transit Administration funding\nH.R. 4378 (Continuing Appropriations Act, 2020, and Health Extenders Act of 2019), Division A, Sections 143 and 144, regarding Federal Transit Administration funding","H.R. 3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020), Division E, Title I, regarding Federal Transit Administration funding\nH.R. 3163 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020), Title I, regarding Federal Transit Administration funding\nH.R. 1865 (Further Consolidated Appropriations Act, 2020), Division H, Title I, regarding Federal Transit Administration funding","H.R. 748 and S. 3548 (CARES Act), Division B, regarding Federal Transit Administration funding, and Division A, Titles I and IV, regarding federal financing for businesses","Reauthorization of public transportation and passenger rail programs \nInfrastructure funding legislation generally\nLegislation regarding low emission buses","H.R. 6800 (The Heroes Act), Division A, regarding Federal Transit Administration funding\nFiscal Year 2021 Transportation, Housing and Urban Development, and Related Agencies appropriations, regarding Federal Transit Administration funding","Reauthorization of public transportation and passenger rail programs \nInfrastructure funding legislation generally\nLegislation regarding low emission buses\nH.R. 2 (Moving Forward Act), all provisions","H.R. 6800 (The Heroes Act), Division A, regarding Federal Transit Administration funding\nH.R. 925 (The Heroes Act), Division A, Title XII, regarding Federal Transit Administration funding \nSenate coronavirus-related bills (HEALS Act), regarding Federal Transit Administration funding\nH.R. 7616 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2021), Title I, regarding Federal Transit Administration funding\nH.R. 8337 (Continuing Appropriations Act, 2021 and Other Extensions Act), Division A and Division B, Title I, Section 1101, regarding Federal Transit Administration funding","H.R. 7616 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2021), Title I, regarding Federal Transit Administration funding\nH.R. 133 (Consolidated Appropriations Act, 2021), Division L and M, regarding Federal Transit Administration funding","Reauthorization of public transportation and passenger rail programs \nInfrastructure funding legislation generally\nH.R. 2 (Moving Forward Act), all provisions\nIssues related to implementation of transportation grant programs","Reauthorization of public transportation and passenger rail programs \nInfrastructure funding generally, including American Jobs Plan proposal\nIssues related to implementation of transportation grant programs","Fiscal Year 2022 Department of Transportation appropriations regarding Federal Transit Administration funding\nH.R. 1319 (American Rescue Plan Act of 2021), Section 3401, regarding Federal Transit Administration funding","Fiscal Year 2022 Department of Transportation appropriations regarding Federal Transit Administration funding","Reauthorization of public transportation and passenger rail programs, including Passenger Rail Trust Fund, commuter rail liability, and public finance \nInfrastructure funding generally, including American Jobs Plan proposal\nIssues related to implementation of transportation grant programs\nH.R. 3684 (INVEST in America Act), all provisions\nS. 1931 (Surface Transportation Reauthorization Act of 2021), all provisions","Reauthorization of public transportation and passenger rail programs, including Passenger Rail Trust Fund, commuter rail liability, and public finance \nInfrastructure funding generally\nIssues related to implementation of transportation grant programs\nH.R. 3684 (Infrastructure Investment and Jobs Act), all provisions \nS. 1931 (Surface Transportation Reauthorization Act of 2021), all provisions\nH.R. 5376 (Build Back Better Act), Section 110001, regarding affordable housing access program, and Section 110009, regarding high speed rail, and Section 135102 regarding Advance Refunding Bonds","H.R. 4550 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022), Title I, regarding Federal Transit Administration funding\nH.R. 5305 (Extending Government Funding and Delivering Emergency Assistance Act), all provisions","H.R. 4550 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022), Title I, regarding Federal Transit Administration funding\nH.R. 6119 (Further Extending Government Funding Act), all provisions"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 104399,
+  "name": "AMERICAN PUBLIC TRANSPORTATION ASSOCIATION",
+  "slug": "american-public-transportation-association",
+  "state": "DC",
+  "description": "Association representing all modes of public transportation",
+  "totalSpending": 1500000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 220000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "ARENTFOX SCHIFF LLP"
+  ],
+  "lobbyists": [
+    "JON BOUKER",
+    "DAN RENBERG",
+    "PHILIP ENGLISH",
+    "BYRON DORGAN",
+    "SONJA NESBIT",
+    "ANGELA EBINER",
+    "KATHERINE FLOCKEN",
+    "MARIANA ACUNA",
+    "DANIEL SJOSTEDT",
+    "PAUL SCHMID",
+    "OLIVER SPURGEON III",
+    "JERI FREIRICH",
+    "STEVEN MION",
+    "DAVID HANKE",
+    "DAVID GROSSO",
+    "PATRICE HOWARD",
+    "KELSEY GRISWOLD-BERGER",
+    "STARSHINE CHUN",
+    "KATHERINE KRAMER",
+    "ELIZABETH HORNER",
+    "BLAKE THELANDER"
+  ],
+  "issues": [
+    "TRA",
+    "BUD",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "FY2020 Department of Transportation appropriations; \nReauthorization of public transportation and passenger rail programs; \nInfrastructure funding legislation generally",
+    "H.R.3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020), Division E, Title I, regarding Federal Transit Administration funding\nH.R.3163 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020), Title I, regarding Federal Transit Administration funding",
+    "Reauthorization of public transportation and passenger rail programs \nInfrastructure funding legislation generally",
+    "H.R.3300 (Economic Mobility Act of 2019), Section 401, regarding repeal of inclusion of transportation fringe benefit expenses in unrelated business taxable income",
+    "H.R. 3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020), Division E, Title I, regarding Federal Transit Administration funding\nH.R. 3163 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020), Title I, regarding Federal Transit Administration funding\nH.R. 4378 (Continuing Appropriations Act, 2020, and Health Extenders Act of 2019), Division A, Sections 143 and 144, regarding Federal Transit Administration funding",
+    "H.R. 3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020), Division E, Title I, regarding Federal Transit Administration funding\nH.R. 3163 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020), Title I, regarding Federal Transit Administration funding\nH.R. 1865 (Further Consolidated Appropriations Act, 2020), Division H, Title I, regarding Federal Transit Administration funding",
+    "H.R. 748 and S. 3548 (CARES Act), Division B, regarding Federal Transit Administration funding, and Division A, Titles I and IV, regarding federal financing for businesses",
+    "Reauthorization of public transportation and passenger rail programs \nInfrastructure funding legislation generally\nLegislation regarding low emission buses",
+    "H.R. 6800 (The Heroes Act), Division A, regarding Federal Transit Administration funding\nFiscal Year 2021 Transportation, Housing and Urban Development, and Related Agencies appropriations, regarding Federal Transit Administration funding",
+    "Reauthorization of public transportation and passenger rail programs \nInfrastructure funding legislation generally\nLegislation regarding low emission buses\nH.R. 2 (Moving Forward Act), all provisions",
+    "H.R. 6800 (The Heroes Act), Division A, regarding Federal Transit Administration funding\nH.R. 925 (The Heroes Act), Division A, Title XII, regarding Federal Transit Administration funding \nSenate coronavirus-related bills (HEALS Act), regarding Federal Transit Administration funding\nH.R. 7616 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2021), Title I, regarding Federal Transit Administration funding\nH.R. 8337 (Continuing Appropriations Act, 2021 and Other Extensions Act), Division A and Division B, Title I, Section 1101, regarding Federal Transit Administration funding",
+    "H.R. 7616 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2021), Title I, regarding Federal Transit Administration funding\nH.R. 133 (Consolidated Appropriations Act, 2021), Division L and M, regarding Federal Transit Administration funding",
+    "Reauthorization of public transportation and passenger rail programs \nInfrastructure funding legislation generally\nH.R. 2 (Moving Forward Act), all provisions\nIssues related to implementation of transportation grant programs",
+    "Reauthorization of public transportation and passenger rail programs \nInfrastructure funding generally, including American Jobs Plan proposal\nIssues related to implementation of transportation grant programs",
+    "Fiscal Year 2022 Department of Transportation appropriations regarding Federal Transit Administration funding\nH.R. 1319 (American Rescue Plan Act of 2021), Section 3401, regarding Federal Transit Administration funding",
+    "Fiscal Year 2022 Department of Transportation appropriations regarding Federal Transit Administration funding",
+    "Reauthorization of public transportation and passenger rail programs, including Passenger Rail Trust Fund, commuter rail liability, and public finance \nInfrastructure funding generally, including American Jobs Plan proposal\nIssues related to implementation of transportation grant programs\nH.R. 3684 (INVEST in America Act), all provisions\nS. 1931 (Surface Transportation Reauthorization Act of 2021), all provisions",
+    "Reauthorization of public transportation and passenger rail programs, including Passenger Rail Trust Fund, commuter rail liability, and public finance \nInfrastructure funding generally\nIssues related to implementation of transportation grant programs\nH.R. 3684 (Infrastructure Investment and Jobs Act), all provisions \nS. 1931 (Surface Transportation Reauthorization Act of 2021), all provisions\nH.R. 5376 (Build Back Better Act), Section 110001, regarding affordable housing access program, and Section 110009, regarding high speed rail, and Section 135102 regarding Advance Refunding Bonds",
+    "H.R. 4550 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022), Title I, regarding Federal Transit Administration funding\nH.R. 5305 (Extending Government Funding and Delivering Emergency Assistance Act), all provisions",
+    "H.R. 4550 (Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022), Title I, regarding Federal Transit Administration funding\nH.R. 6119 (Further Extending Government Funding Act), all provisions"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 214286,
+  "peakYear": 2022,
+  "lobbyistCount": 21,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "transportation"
+}

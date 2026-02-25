@@ -1,1 +1,109 @@
-{"id":100704,"name":"THE SENECA NATION OF INDIANS","slug":"the-seneca-nation-of-indians","state":"NY","description":"Indian Tribal government","totalSpending":1370000,"filings":24,"yearlySpending":[{"year":2018,"income":290000},{"year":2019,"income":210000},{"year":2020,"income":200000},{"year":2021,"income":280000},{"year":2022,"income":150000},{"year":2023,"income":120000},{"year":2024,"income":90000},{"year":2025,"income":30000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["JENNY MAGALLANES","ALLISON BINNEY","KAREN GREEN","DON PONGRACE","GEOFF VERHOFF","AMY ELLIOTT","MICHAEL ROSSETTI","DENISE DESIDERIO","JEFF MCMILLEN","ARSHI SIDDIQUI","LAUREN O'BRIEN","GORDON BATES","KATIE BROSSY","BRENDAN DUNN","ED PAGANO"],"issues":["TAX","IND",null,"TRA"],"sampleDescriptions":["Issues affecting Indian country; tax reform legislation affecting Indian tribes.","Issues affecting Indian country; tax reform legislation affecting Indian tribes; health care issues; tribal government gaming; Protection of the Allegheny River Tribal Labor Sovereignty Act; opioid abuse funding; Special Diabetes program for Indians.","Issues affecting Indian country; tax reform legislation affecting Indian tribes; implementation of tax reform.","Issues affecting Indian country; tax reform legislation affecting Indian tribes; health care issues; tribal government gaming;  opioid abuse funding; funding for tribal programs.","Issues affecting Indian country; implementation of tax reform; Implementation of Tribal General Welfare Exclusion Act.","Issues affecting Indian country; tribal government gaming;  opioid abuse funding; funding for tribal programs.","Issues affecting Indian country; tribal government gaming; opioid abuse funding; funding for tribal programs; reauthorization of the Special Diabetes Program for Indians; implementation of tribal provisions in the Farm Bill.","Issues affecting Indian country; tribal government gaming; funding for tribal programs; reauthorization of the Special Diabetes Program for Indians; implementation of tribal provisions in the Farm Bill; Support for Colorado River Drought Contingency Plan.","Issues affecting Indian country; tribal government gaming; funding for tribal programs; reauthorization of the Special Diabetes Program for Indians.","Issues affecting Indian country; tribal government gaming; funding for tribal programs; reauthorization of the Special Diabetes Program for Indians; The Families First Coronavirus Response Act (H.R. 6201); The CARES Act (H.R. 748).","Monitor tax issues that may impact tribal governments; Implementation of Tribal General Welfare Exclusion Act; Employee Retention Tax Credit","Funding for tribal programs; reauthorization of the Special Diabetes Program for Indians; implementation of the CARES Act (P.L. 116-136), tribal provisions in the HEROES Act (H.R. 6800); tribal provisions in COVID relief legislation; interstate highway transportation issues.","Funding for tribal programs for fiscal year 2021; reauthorization of the Special Diabetes Program for Indians; tribal provisions in COVID relief legislation, H.R. 133; creation of a tribal broadband fund; restricted fee lands.","Implementation of Tribal General Welfare Exclusion Act; Expansion of the Employee Retention Tax Credit provisions in COVID relief legislation, H.R. 133","Implementation of Tribal General Welfare Exclusion Act; Monitor tax issues that impact tribal governments.","Implementation of tribal provisions in COVID relief legislation, American Rescue Plan Act (P.L. 117-2); Implementation of the Tribal Broadband Connectivity Program; Clarification of the Indian Gaming Regulatory Act, H.R.4308; Transportation and infrastructure funding for tribal governments; Tribal government online gaming.","Implementation of tribal provisions in COVID relief legislation, American Rescue Plan Act (P.L. 117-2); Implementation of the Tribal Broadband Connectivity Program; Clarification of the Indian Gaming Regulatory Act, H.R.4308; Transportation and infrastructure funding for tribal governments; Cannabis legislation; Tribal gaming compacts; Lands into restricted fee status.","Implementation of Tribal General Welfare Exclusion Act; Monitor tax issues that impact tribal governments; Tribal provisions in the Build Back Better Act","Implementation of tribal provisions in American Rescue Plan Act (P.L. 117-2); Tribal provisions in the Infrastructure Investment and Jobs Act (H.R. 3684); Tribal provisions in the Build Back Better Act; Clarification of the Indian Gaming Regulatory Act, H.R.4308; Cannabis legislation; Tribal gaming compacts; Lands into restricted fee status","S. 2907 and H.R. 5444, bills to establish a commission to review historical Federal Indian Boarding Schools; Allegheny Reservoir land matters; Tribal government jurisdiction over nation-to-nation commerce; Opposition to any rescissions in tribal government COVID relief funding"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 100704,
+  "name": "THE SENECA NATION OF INDIANS",
+  "slug": "the-seneca-nation-of-indians",
+  "state": "NY",
+  "description": "Indian Tribal government",
+  "totalSpending": 1370000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 290000
+    },
+    {
+      "year": 2019,
+      "income": 210000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 280000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 120000
+    },
+    {
+      "year": 2024,
+      "income": 90000
+    },
+    {
+      "year": 2025,
+      "income": 30000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "JENNY MAGALLANES",
+    "ALLISON BINNEY",
+    "KAREN GREEN",
+    "DON PONGRACE",
+    "GEOFF VERHOFF",
+    "AMY ELLIOTT",
+    "MICHAEL ROSSETTI",
+    "DENISE DESIDERIO",
+    "JEFF MCMILLEN",
+    "ARSHI SIDDIQUI",
+    "LAUREN O'BRIEN",
+    "GORDON BATES",
+    "KATIE BROSSY",
+    "BRENDAN DUNN",
+    "ED PAGANO"
+  ],
+  "issues": [
+    "TAX",
+    "IND",
+    null,
+    "TRA"
+  ],
+  "sampleDescriptions": [
+    "Issues affecting Indian country; tax reform legislation affecting Indian tribes.",
+    "Issues affecting Indian country; tax reform legislation affecting Indian tribes; health care issues; tribal government gaming; Protection of the Allegheny River Tribal Labor Sovereignty Act; opioid abuse funding; Special Diabetes program for Indians.",
+    "Issues affecting Indian country; tax reform legislation affecting Indian tribes; implementation of tax reform.",
+    "Issues affecting Indian country; tax reform legislation affecting Indian tribes; health care issues; tribal government gaming;  opioid abuse funding; funding for tribal programs.",
+    "Issues affecting Indian country; implementation of tax reform; Implementation of Tribal General Welfare Exclusion Act.",
+    "Issues affecting Indian country; tribal government gaming;  opioid abuse funding; funding for tribal programs.",
+    "Issues affecting Indian country; tribal government gaming; opioid abuse funding; funding for tribal programs; reauthorization of the Special Diabetes Program for Indians; implementation of tribal provisions in the Farm Bill.",
+    "Issues affecting Indian country; tribal government gaming; funding for tribal programs; reauthorization of the Special Diabetes Program for Indians; implementation of tribal provisions in the Farm Bill; Support for Colorado River Drought Contingency Plan.",
+    "Issues affecting Indian country; tribal government gaming; funding for tribal programs; reauthorization of the Special Diabetes Program for Indians.",
+    "Issues affecting Indian country; tribal government gaming; funding for tribal programs; reauthorization of the Special Diabetes Program for Indians; The Families First Coronavirus Response Act (H.R. 6201); The CARES Act (H.R. 748).",
+    "Monitor tax issues that may impact tribal governments; Implementation of Tribal General Welfare Exclusion Act; Employee Retention Tax Credit",
+    "Funding for tribal programs; reauthorization of the Special Diabetes Program for Indians; implementation of the CARES Act (P.L. 116-136), tribal provisions in the HEROES Act (H.R. 6800); tribal provisions in COVID relief legislation; interstate highway transportation issues.",
+    "Funding for tribal programs for fiscal year 2021; reauthorization of the Special Diabetes Program for Indians; tribal provisions in COVID relief legislation, H.R. 133; creation of a tribal broadband fund; restricted fee lands.",
+    "Implementation of Tribal General Welfare Exclusion Act; Expansion of the Employee Retention Tax Credit provisions in COVID relief legislation, H.R. 133",
+    "Implementation of Tribal General Welfare Exclusion Act; Monitor tax issues that impact tribal governments.",
+    "Implementation of tribal provisions in COVID relief legislation, American Rescue Plan Act (P.L. 117-2); Implementation of the Tribal Broadband Connectivity Program; Clarification of the Indian Gaming Regulatory Act, H.R.4308; Transportation and infrastructure funding for tribal governments; Tribal government online gaming.",
+    "Implementation of tribal provisions in COVID relief legislation, American Rescue Plan Act (P.L. 117-2); Implementation of the Tribal Broadband Connectivity Program; Clarification of the Indian Gaming Regulatory Act, H.R.4308; Transportation and infrastructure funding for tribal governments; Cannabis legislation; Tribal gaming compacts; Lands into restricted fee status.",
+    "Implementation of Tribal General Welfare Exclusion Act; Monitor tax issues that impact tribal governments; Tribal provisions in the Build Back Better Act",
+    "Implementation of tribal provisions in American Rescue Plan Act (P.L. 117-2); Tribal provisions in the Infrastructure Investment and Jobs Act (H.R. 3684); Tribal provisions in the Build Back Better Act; Clarification of the Indian Gaming Regulatory Act, H.R.4308; Cannabis legislation; Tribal gaming compacts; Lands into restricted fee status",
+    "S. 2907 and H.R. 5444, bills to establish a commission to review historical Federal Indian Boarding Schools; Allegheny Reservoir land matters; Tribal government jurisdiction over nation-to-nation commerce; Opposition to any rescissions in tribal government COVID relief funding"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -90,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 171250,
+  "peakYear": 2018,
+  "lobbyistCount": 15,
+  "firmCount": 1,
+  "issueCount": 3
+}

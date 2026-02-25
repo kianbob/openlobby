@@ -1,1 +1,90 @@
-{"id":202922,"name":"SHIPPERS COALITION","slug":"shippers-coalition","state":"DC","description":"alliance of manufacturers and trade associations","totalSpending":1760000,"filings":26,"yearlySpending":[{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":360000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["ATLAS CROSSING LLC"],"lobbyists":["SEAN JOYCE","ALEXIS OBERG","ERICA RIORDAN","CHRISTOPHER EDDOWES","MATTHEW MIKA","CHRISTOPHER SWEET","CHRISTOPHER KIM","TIMOTHY MONAHAN","ALEX BOLTON","JENNIFER BELAIR"],"issues":["TRA",null],"sampleDescriptions":["Truck safety and weight issues","Truck safety and weight issues including as to the CARES Act, H.R. 748.","Truck safety and weight issues including as to H.R. 2","Truck safety and weight issues.","Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.7348 - The Strengthening Supply Chains Through Truck Driver Incentives Act. S.3580 - Ocean Shipping Reform Act of 2022.","Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.7348 - The Strengthening Supply Chains Through Truck Driver Incentives Act. H.R.2187 - Truck Parking Safety Improvement Act.","Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.7348 - The Strengthening Supply Chains Through Truck Driver Incentives Act. H.R.2187 - Truck Parking Safety Improvement Act. H.R.6567 - LICENSE Act of 2022. Implementation of the Ocean Shipping Reform Act.","Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.471 - Safer Highways and Increased Performance for Interstate Trucking (SHIP IT) Act. H.R.3372 - To amend title 23, United States Code, to establish a safety data collection program for certain 6-axle vehicles, and for other purposes. H.R.2367 - Truck Parking Safety Improvement Act. H.R.3013 - Licensing Individual Commercial Exam-takers Now Safely and Efficiently Act of 2023 (LICENSE Act of 2023). H.R.7496 - Modernizing Operations for Vehicles in Emergencies (MOVE) Act.","Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.471 - Safer Highways and Increased Performance for Interstate Trucking (SHIP IT) Act. H.R.3372 - To amend title 23, United States Code, to establish a safety data collection program for certain 6-axle vehicles, and for other purposes. H.R.2367 - Truck Parking Safety Improvement Act. H.R.3013 - Licensing Individual Commercial Exam-takers Now Safely and Efficiently Act of 2023 (LICENSE Act of 2023). H.R.7496 - Modernizing Operations for Vehicles in Emergencies (MOVE) Act. H.R.10545 - American Relief Act, 2025.","Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.623 - LICENSE Act of 2025. H.R.1659 - Truck Parking Safety Improvement Act.","Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.623 - LICENSE Act of 2025. H.R.1659 - Truck Parking Safety Improvement Act. S.191 - LICENSE Act of 2025. FY 26 Transportation, Housing and Urban Development, and Related Agencies (THUD).","Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.623 - LICENSE Act of 2025. H.R.1659 - Truck Parking Safety Improvement Act. S.191 - LICENSE Act of 2025. H.R.4552/S.2465 - Transportation, Housing and Urban Development, and Related Agencies (THUD) Appropriations Act, 2026. H.R.2853/S.1401 - Combating Organized Retail Crime Act.","Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.623 - LICENSE Act of 2025. H.R.1659 - Truck Parking Safety Improvement Act. S.191 - LICENSE Act of 2025. H.R.4552/S.2465 - Transportation, Housing and Urban Development, and Related Agencies (THUD) Appropriations Act, 2026. H.R.2853/S.1401 - Combating Organized Retail Crime Act. Issues related to cargo theft."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202922,
+  "name": "SHIPPERS COALITION",
+  "slug": "shippers-coalition",
+  "state": "DC",
+  "description": "alliance of manufacturers and trade associations",
+  "totalSpending": 1760000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "ATLAS CROSSING LLC"
+  ],
+  "lobbyists": [
+    "SEAN JOYCE",
+    "ALEXIS OBERG",
+    "ERICA RIORDAN",
+    "CHRISTOPHER EDDOWES",
+    "MATTHEW MIKA",
+    "CHRISTOPHER SWEET",
+    "CHRISTOPHER KIM",
+    "TIMOTHY MONAHAN",
+    "ALEX BOLTON",
+    "JENNIFER BELAIR"
+  ],
+  "issues": [
+    "TRA",
+    null
+  ],
+  "sampleDescriptions": [
+    "Truck safety and weight issues",
+    "Truck safety and weight issues including as to the CARES Act, H.R. 748.",
+    "Truck safety and weight issues including as to H.R. 2",
+    "Truck safety and weight issues.",
+    "Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.7348 - The Strengthening Supply Chains Through Truck Driver Incentives Act. S.3580 - Ocean Shipping Reform Act of 2022.",
+    "Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.7348 - The Strengthening Supply Chains Through Truck Driver Incentives Act. H.R.2187 - Truck Parking Safety Improvement Act.",
+    "Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.7348 - The Strengthening Supply Chains Through Truck Driver Incentives Act. H.R.2187 - Truck Parking Safety Improvement Act. H.R.6567 - LICENSE Act of 2022. Implementation of the Ocean Shipping Reform Act.",
+    "Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.471 - Safer Highways and Increased Performance for Interstate Trucking (SHIP IT) Act. H.R.3372 - To amend title 23, United States Code, to establish a safety data collection program for certain 6-axle vehicles, and for other purposes. H.R.2367 - Truck Parking Safety Improvement Act. H.R.3013 - Licensing Individual Commercial Exam-takers Now Safely and Efficiently Act of 2023 (LICENSE Act of 2023). H.R.7496 - Modernizing Operations for Vehicles in Emergencies (MOVE) Act.",
+    "Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.471 - Safer Highways and Increased Performance for Interstate Trucking (SHIP IT) Act. H.R.3372 - To amend title 23, United States Code, to establish a safety data collection program for certain 6-axle vehicles, and for other purposes. H.R.2367 - Truck Parking Safety Improvement Act. H.R.3013 - Licensing Individual Commercial Exam-takers Now Safely and Efficiently Act of 2023 (LICENSE Act of 2023). H.R.7496 - Modernizing Operations for Vehicles in Emergencies (MOVE) Act. H.R.10545 - American Relief Act, 2025.",
+    "Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.623 - LICENSE Act of 2025. H.R.1659 - Truck Parking Safety Improvement Act.",
+    "Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.623 - LICENSE Act of 2025. H.R.1659 - Truck Parking Safety Improvement Act. S.191 - LICENSE Act of 2025. FY 26 Transportation, Housing and Urban Development, and Related Agencies (THUD).",
+    "Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.623 - LICENSE Act of 2025. H.R.1659 - Truck Parking Safety Improvement Act. S.191 - LICENSE Act of 2025. H.R.4552/S.2465 - Transportation, Housing and Urban Development, and Related Agencies (THUD) Appropriations Act, 2026. H.R.2853/S.1401 - Combating Organized Retail Crime Act.",
+    "Truck safety and weight issues. Issues relating to the availability of truck drivers. H.R.623 - LICENSE Act of 2025. H.R.1659 - Truck Parking Safety Improvement Act. S.191 - LICENSE Act of 2025. H.R.4552/S.2465 - Transportation, Housing and Urban Development, and Related Agencies (THUD) Appropriations Act, 2026. H.R.2853/S.1401 - Combating Organized Retail Crime Act. Issues related to cargo theft."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 78,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 251429,
+  "peakYear": 2023,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 1
+}

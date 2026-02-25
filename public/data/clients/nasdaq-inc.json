@@ -1,1 +1,93 @@
-{"id":181370,"name":"NASDAQ INC","slug":"nasdaq-inc","state":"DC","description":null,"totalSpending":2170000,"filings":31,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":280000},{"year":2020,"income":280000},{"year":2021,"income":280000},{"year":2022,"income":280000},{"year":2023,"income":280000},{"year":2024,"income":210000},{"year":2025,"income":280000}],"firms":["PORTERFIELD, FETTIG & SEARS, LLC"],"lobbyists":["LENDELL PORTERFIELD","DWIGHT FETTIG","DAWN SEARS","BRYAN BLOM","BENJAMIN TURNER","KELLY MCGRATH","JENNIFER READ","STEPHEN NEWTON","CHRIS MANEVAL","ABIGAIL TRUHART"],"issues":["FIN",null],"sampleDescriptions":["Trading and listing standards needed for a U.S. Venture Exchange; clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts  of interest in the proxy advisory industry; incentives for the trading of small cap stocks/ETFs; implementation and expansion of the JOBS Act/capital formation agenda/IPOs; security market structure and price transparency; SEC policies during turbulent market conditions; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading and HR.1257 & S.462, Securities and Exchange Commission Overpayment Credit Act; H.R. 3973, Market Data Protection Act of 2017; H.R.4248, conflicts minerals; H.R. 4015, Corporate Governance Reform and Transparency Act of 2017; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection; issues related to capital formation; Voldex","Trading and listing standards needed for a U.S. Venture Exchange; H.R. 5877, the Main Street Growth Act; clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts  of interest in the proxy advisory industry; incentives for the trading of small cap stocks/ETFs; implementation and expansion of the JOBS Act/capital formation agenda/IPOs; security market structure and price transparency; SEC policies during turbulent market conditions; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading and HR.1257 & S.462, Securities and Exchange Commission Overpayment Credit Act; H.R. 3973, Market Data Protection Act of 2017; H.R.4248, conflicts minerals; H.R. 4015, Corporate Governance Reform and Transparency Act of 2017; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection; issues related to capital formation; Voldex; H.R. 5970, the Modernizing Disclosures for Investors Act; H.R.3555, Exchange Regulatory Improvement Act; H.R. 3903, Encouraging Public Offerings Act of 2017.","H.R. 5877, the Main Street Growth Act; clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts  of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs; security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading and  H.R. 3973, Market Data Protection Act of 2017; H.R. 4015, Corporate Governance Reform and Transparency Act of 2017; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection; issues related to capital formation; Voldex; H.R. 5970, the Modernizing Disclosures for Investors Act; H.R.3555, Exchange Regulatory Improvement Act; H.R. 3903, Encouraging Public Offerings Act of 2017; short selling transparency; JOBS Act 3.0","H.R. 5877, the Main Street Growth Act; clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts  of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs; security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading and  H.R. 3973, Market Data Protection Act of 2017; H.R. 4015, Corporate Governance Reform and Transparency Act of 2017; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection; S. 3641, Corporate Governance Fairness Act; H.R. 5970, the Modernizing Disclosures for Investors Act; H.R.3555, Exchange Regulatory Improvement Act; H.R. 3903, Encouraging Public Offerings Act of 2017; short selling transparency; JOBS Act 3.0","Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs' security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; short selling transparency","Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs' security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; short selling transparency; H.R. 588/S.3723, the Main Street Growth Act","Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs' security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; venture exchange.","Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs' security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; venture exchange; immunity issues.","Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; implementation and expansion of the JOBS Act/capital formation agenda and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; venture exchange; immunity issues; SEC's Proposed Rule on Volume-Based Exchange Transaction Pricing for NMS Stocks.","Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; implementation and expansion of the JOBS Act/capital formation agenda and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; venture exchange; immunity issues; digital assets; SEC's Proposed Rule on Volume-Based Exchange Transaction Pricing for NMS Stocks.","Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; implementation and expansion of the JOBS Act/capital formation agenda and price transparency; proprietary ownership and distribution of market data; corporate governance issues; computer trading; venture exchange; immunity issues; digital assets."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 181370,
+  "name": "NASDAQ INC",
+  "slug": "nasdaq-inc",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 2170000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 280000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 280000
+    },
+    {
+      "year": 2022,
+      "income": 280000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 210000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "PORTERFIELD, FETTIG & SEARS, LLC"
+  ],
+  "lobbyists": [
+    "LENDELL PORTERFIELD",
+    "DWIGHT FETTIG",
+    "DAWN SEARS",
+    "BRYAN BLOM",
+    "BENJAMIN TURNER",
+    "KELLY MCGRATH",
+    "JENNIFER READ",
+    "STEPHEN NEWTON",
+    "CHRIS MANEVAL",
+    "ABIGAIL TRUHART"
+  ],
+  "issues": [
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Trading and listing standards needed for a U.S. Venture Exchange; clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts  of interest in the proxy advisory industry; incentives for the trading of small cap stocks/ETFs; implementation and expansion of the JOBS Act/capital formation agenda/IPOs; security market structure and price transparency; SEC policies during turbulent market conditions; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading and HR.1257 & S.462, Securities and Exchange Commission Overpayment Credit Act; H.R. 3973, Market Data Protection Act of 2017; H.R.4248, conflicts minerals; H.R. 4015, Corporate Governance Reform and Transparency Act of 2017; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection; issues related to capital formation; Voldex",
+    "Trading and listing standards needed for a U.S. Venture Exchange; H.R. 5877, the Main Street Growth Act; clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts  of interest in the proxy advisory industry; incentives for the trading of small cap stocks/ETFs; implementation and expansion of the JOBS Act/capital formation agenda/IPOs; security market structure and price transparency; SEC policies during turbulent market conditions; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading and HR.1257 & S.462, Securities and Exchange Commission Overpayment Credit Act; H.R. 3973, Market Data Protection Act of 2017; H.R.4248, conflicts minerals; H.R. 4015, Corporate Governance Reform and Transparency Act of 2017; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection; issues related to capital formation; Voldex; H.R. 5970, the Modernizing Disclosures for Investors Act; H.R.3555, Exchange Regulatory Improvement Act; H.R. 3903, Encouraging Public Offerings Act of 2017.",
+    "H.R. 5877, the Main Street Growth Act; clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts  of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs; security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading and  H.R. 3973, Market Data Protection Act of 2017; H.R. 4015, Corporate Governance Reform and Transparency Act of 2017; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection; issues related to capital formation; Voldex; H.R. 5970, the Modernizing Disclosures for Investors Act; H.R.3555, Exchange Regulatory Improvement Act; H.R. 3903, Encouraging Public Offerings Act of 2017; short selling transparency; JOBS Act 3.0",
+    "H.R. 5877, the Main Street Growth Act; clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts  of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs; security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading and  H.R. 3973, Market Data Protection Act of 2017; H.R. 4015, Corporate Governance Reform and Transparency Act of 2017; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection; S. 3641, Corporate Governance Fairness Act; H.R. 5970, the Modernizing Disclosures for Investors Act; H.R.3555, Exchange Regulatory Improvement Act; H.R. 3903, Encouraging Public Offerings Act of 2017; short selling transparency; JOBS Act 3.0",
+    "Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs' security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; short selling transparency",
+    "Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs' security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; short selling transparency; H.R. 588/S.3723, the Main Street Growth Act",
+    "Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs' security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; venture exchange.",
+    "Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; transparency and conflicts of interest in the proxy advisory industry; implementation and expansion of the JOBS Act/capital formation agenda/IPOs' security market structure and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; venture exchange; immunity issues.",
+    "Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; implementation and expansion of the JOBS Act/capital formation agenda and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; venture exchange; immunity issues; SEC's Proposed Rule on Volume-Based Exchange Transaction Pricing for NMS Stocks.",
+    "Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; implementation and expansion of the JOBS Act/capital formation agenda and price transparency; proprietary ownership and distribution of market data; corporate governance issues; cybersecurity and system infrastructure; computer trading; venture exchange; immunity issues; digital assets; SEC's Proposed Rule on Volume-Based Exchange Transaction Pricing for NMS Stocks.",
+    "Clarification of legal certainty for the trading of private securities on the Nasdaq Private Market platform; implementation and expansion of the JOBS Act/capital formation agenda and price transparency; proprietary ownership and distribution of market data; corporate governance issues; computer trading; venture exchange; immunity issues; digital assets."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 271250,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 1
+}

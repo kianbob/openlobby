@@ -1,1 +1,81 @@
-{"id":197852,"name":"SENIOR CARE PHARMACY COALITION","slug":"senior-care-pharmacy-coalition","state":"DC","description":"Advocacy organization representing the interests of independent long-term care pharmacies.","totalSpending":2190000,"filings":28,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":30000}],"firms":["LINCOLN POLICY GROUP"],"lobbyists":["BLANCHE LINCOLN","ROBERT HOLIFIELD","DAN ELLING","COLIN ROSKEY"],"issues":["HCR",null],"sampleDescriptions":["Issues related to long-term care pharmacies","Issues related to long-term care pharmacies\n\nH.R. 748/S. 3548--CARES Act (Coronavirus Aid, Relief, and Economic Security Act) and covid-19 response","Issues related to long-term care pharmacies\n\nPaycheck Protection Program and Healthcare Enhancement Act (CARES Act 2.0) (H.R. 266)","Issues related to long-term care pharmacies\n\nCOVID relief proposals"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 197852,
+  "name": "SENIOR CARE PHARMACY COALITION",
+  "slug": "senior-care-pharmacy-coalition",
+  "state": "DC",
+  "description": "Advocacy organization representing the interests of independent long-term care pharmacies.",
+  "totalSpending": 2190000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 30000
+    }
+  ],
+  "firms": [
+    "LINCOLN POLICY GROUP"
+  ],
+  "lobbyists": [
+    "BLANCHE LINCOLN",
+    "ROBERT HOLIFIELD",
+    "DAN ELLING",
+    "COLIN ROSKEY"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to long-term care pharmacies",
+    "Issues related to long-term care pharmacies\n\nH.R. 748/S. 3548--CARES Act (Coronavirus Aid, Relief, and Economic Security Act) and covid-19 response",
+    "Issues related to long-term care pharmacies\n\nPaycheck Protection Program and Healthcare Enhancement Act (CARES Act 2.0) (H.R. 266)",
+    "Issues related to long-term care pharmacies\n\nCOVID relief proposals"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -87,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 273750,
+  "peakYear": 2019,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

@@ -1,1 +1,77 @@
-{"id":128506,"name":"MCS ADVANTAGE, INC.","slug":"mcs-advantage-inc","state":"PR","description":"Healthcare plan provider","totalSpending":1570000,"filings":29,"yearlySpending":[{"year":2018,"income":230000},{"year":2019,"income":190000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["KING & SPALDING LLP"],"lobbyists":["J.C. BOGGS","STEVEN KUPKA","DAVID FARBER"],"issues":["MMM",null],"sampleDescriptions":["Issues related to Medicare Advantage reimbursement for Puerto Rico.","Issues related to Medicare Advantage reimbursement for Puerto Rico"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 128506,
+  "name": "MCS ADVANTAGE, INC.",
+  "slug": "mcs-advantage-inc",
+  "state": "PR",
+  "description": "Healthcare plan provider",
+  "totalSpending": 1570000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 230000
+    },
+    {
+      "year": 2019,
+      "income": 190000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "KING & SPALDING LLP"
+  ],
+  "lobbyists": [
+    "J.C. BOGGS",
+    "STEVEN KUPKA",
+    "DAVID FARBER"
+  ],
+  "issues": [
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to Medicare Advantage reimbursement for Puerto Rico.",
+    "Issues related to Medicare Advantage reimbursement for Puerto Rico"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -35,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 196250,
+  "peakYear": 2018,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

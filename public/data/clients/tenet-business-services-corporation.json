@@ -1,1 +1,95 @@
-{"id":109807,"name":"TENET BUSINESS SERVICES CORPORATION","slug":"tenet-business-services-corporation","state":"TX","description":"Healthcare","totalSpending":3040000,"filings":21,"yearlySpending":[{"year":2020,"income":340000},{"year":2021,"income":750000},{"year":2022,"income":450000},{"year":2023,"income":600000},{"year":2024,"income":450000},{"year":2025,"income":450000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["NORMAN BROWNSTEIN","CARMENCITA WHONDER","MARC LAMPKIN","ELIZABETH MAIER","CHARLYN IOVINO","EMILY FELDER","ZACHARY PFISTER","KATELYNN BRADLEY","LAURA BOLLIER","ADAM STEINMETZ","DEEMA TARAZI","NADEAM ELSHAMI","STEVEN DEMBY","LAUREN MISH"],"issues":["HCR","MED","FIN",null],"sampleDescriptions":["Issues related to COVID-19 relief packages","HR 748 CARES Act - Issues related to COVID-19 relief","HR 748 CARES Act - Issues related to COVID-19 relief\nIssues related to provider relief fund and medicare advance payment\nH.R.8337 - Continuing Appropriations Act, 2021 and Other Extensions Act","H.R.133, Consolidated Appropriations Act, 2021 - Issues related to COVID-19 relief","HR 748 CARES Act - Issues related to COVID-19 relief\nIssues related to provider relief fund and medicare advance payment\nH.R.133 - Consolidated Appropriations Act, 2021","Issues related to COVID-19 relief\nIssues related to provider relief fund and medicare advance payment\nH.R.1319 - American Rescue Plan Act of 2021\nH.R.1868 - To prevent across-the-board direct spending cuts, and for other purposes","Issues related to regulation of securities","Issues related to COVID-19 relief\nH.R.1319 - American Rescue Plan Act of 2021\nH.R.1868 - To prevent across-the-board direct spending cuts, and for other purposes","Issues related to COVID-19 relief\nIssues related to provider relief fund and Medicare advance payment","Issues related to COVID-19 relief\nIssues related to provider relief fund and Medicare advance payment\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act","Issues related to COVID-19 relief","Issues related to COVID-19 relief\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act","Public Health Emergency Policies and Funding; Medicare coverage and reimbursement issues; Medicaid coverage issues","Medicare coverage and reimbursement issues Medicaid coverage issues","Medicare coverage and reimbursement issues Medicaid coverage issues Enhanced advanced premium tax credit (EAPTC)","Medicare coverage and reimbursement issues Medicaid coverage issues Enhanced advanced premium tax credit (EAPTC) Medicaid provider tax issue State directed payments","Medicare coverage and reimbursement issues Medicaid coverage issues Enhanced advanced premium tax credit (EAPTC) Medicaid provider tax issue State directed payments issues related to ASC's"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 109807,
+  "name": "TENET BUSINESS SERVICES CORPORATION",
+  "slug": "tenet-business-services-corporation",
+  "state": "TX",
+  "description": "Healthcare",
+  "totalSpending": 3040000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 340000
+    },
+    {
+      "year": 2021,
+      "income": 750000
+    },
+    {
+      "year": 2022,
+      "income": 450000
+    },
+    {
+      "year": 2023,
+      "income": 600000
+    },
+    {
+      "year": 2024,
+      "income": 450000
+    },
+    {
+      "year": 2025,
+      "income": 450000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "NORMAN BROWNSTEIN",
+    "CARMENCITA WHONDER",
+    "MARC LAMPKIN",
+    "ELIZABETH MAIER",
+    "CHARLYN IOVINO",
+    "EMILY FELDER",
+    "ZACHARY PFISTER",
+    "KATELYNN BRADLEY",
+    "LAURA BOLLIER",
+    "ADAM STEINMETZ",
+    "DEEMA TARAZI",
+    "NADEAM ELSHAMI",
+    "STEVEN DEMBY",
+    "LAUREN MISH"
+  ],
+  "issues": [
+    "HCR",
+    "MED",
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to COVID-19 relief packages",
+    "HR 748 CARES Act - Issues related to COVID-19 relief",
+    "HR 748 CARES Act - Issues related to COVID-19 relief\nIssues related to provider relief fund and medicare advance payment\nH.R.8337 - Continuing Appropriations Act, 2021 and Other Extensions Act",
+    "H.R.133, Consolidated Appropriations Act, 2021 - Issues related to COVID-19 relief",
+    "HR 748 CARES Act - Issues related to COVID-19 relief\nIssues related to provider relief fund and medicare advance payment\nH.R.133 - Consolidated Appropriations Act, 2021",
+    "Issues related to COVID-19 relief\nIssues related to provider relief fund and medicare advance payment\nH.R.1319 - American Rescue Plan Act of 2021\nH.R.1868 - To prevent across-the-board direct spending cuts, and for other purposes",
+    "Issues related to regulation of securities",
+    "Issues related to COVID-19 relief\nH.R.1319 - American Rescue Plan Act of 2021\nH.R.1868 - To prevent across-the-board direct spending cuts, and for other purposes",
+    "Issues related to COVID-19 relief\nIssues related to provider relief fund and Medicare advance payment",
+    "Issues related to COVID-19 relief\nIssues related to provider relief fund and Medicare advance payment\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act",
+    "Issues related to COVID-19 relief",
+    "Issues related to COVID-19 relief\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act",
+    "Public Health Emergency Policies and Funding; Medicare coverage and reimbursement issues; Medicaid coverage issues",
+    "Medicare coverage and reimbursement issues Medicaid coverage issues",
+    "Medicare coverage and reimbursement issues Medicaid coverage issues Enhanced advanced premium tax credit (EAPTC)",
+    "Medicare coverage and reimbursement issues Medicaid coverage issues Enhanced advanced premium tax credit (EAPTC) Medicaid provider tax issue State directed payments",
+    "Medicare coverage and reimbursement issues Medicaid coverage issues Enhanced advanced premium tax credit (EAPTC) Medicaid provider tax issue State directed payments issues related to ASC's"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 32,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 506667,
+  "peakYear": 2021,
+  "lobbyistCount": 14,
+  "firmCount": 1,
+  "issueCount": 3
+}

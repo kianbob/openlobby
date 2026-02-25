@@ -1,1 +1,99 @@
-{"id":184450,"name":"STATE FUND CONGRESSIONAL ACTION GROUP (SFCAG)","slug":"state-fund-congressional-action-group-sfcag","state":"UT","description":"Group of state workers compensation funds","totalSpending":2600000,"filings":29,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":320000},{"year":2022,"income":360000},{"year":2023,"income":440000},{"year":2024,"income":400000},{"year":2025,"income":360000}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["JOHN RAFFAELLI","JAMES MCCRERY","SHANNON FINLEY","DREW GOESL","DAVID JONES","CHARLES BOUSTANY","JACK CAMPBELL","MONIQUE FRAZIER","WARREN TRYON","AARON COHEN","JOSEPH EANNELLO"],"issues":["HCR","LBR","TAX","BUD",null,"INS"],"sampleDescriptions":["Tax issues related to healthcare; Legislative issues related to workers compensation.","Tax issues; Legislative issues related to workers compensation.","Legislative & administrative issues related to workers compensation & transportation.","Tax issues; legislative issues related to workers compensation.","Matters related to workers compensation oversight in FY 2023 Labor, Health and Human Services Appropriations measure and H.R. 5376 the Build Back Better Act.","Matters related to workers compensation oversight in FY 2023 Labor, Health and Human Services Appropriations measure, H.R. 2617 - Consolidated Appropriations Act, 2023 (P.L. No: 117-328) and H.R. 5376 the Build Back Better Act.","Tax issues; legislative issues related to workers' compensation.","Matters related to labor and health issues.","Matters related to FY 2024 Labor, Health and Human Services Appropriations measure.","Matters related to FAA re-authorization (H.R.3935 - Securing Growth and Robust Leadership in American Aviation Act).","Matters related to FY 2025 Labor, Health and Human Services Appropriations measure.","Matters related to FY 2026 Labor, Health and Human Services Appropriations measure."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184450,
+  "name": "STATE FUND CONGRESSIONAL ACTION GROUP (SFCAG)",
+  "slug": "state-fund-congressional-action-group-sfcag",
+  "state": "UT",
+  "description": "Group of state workers compensation funds",
+  "totalSpending": 2600000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 400000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "CAPITOL COUNSEL LLC"
+  ],
+  "lobbyists": [
+    "JOHN RAFFAELLI",
+    "JAMES MCCRERY",
+    "SHANNON FINLEY",
+    "DREW GOESL",
+    "DAVID JONES",
+    "CHARLES BOUSTANY",
+    "JACK CAMPBELL",
+    "MONIQUE FRAZIER",
+    "WARREN TRYON",
+    "AARON COHEN",
+    "JOSEPH EANNELLO"
+  ],
+  "issues": [
+    "HCR",
+    "LBR",
+    "TAX",
+    "BUD",
+    null,
+    "INS"
+  ],
+  "sampleDescriptions": [
+    "Tax issues related to healthcare; Legislative issues related to workers compensation.",
+    "Tax issues; Legislative issues related to workers compensation.",
+    "Legislative & administrative issues related to workers compensation & transportation.",
+    "Tax issues; legislative issues related to workers compensation.",
+    "Matters related to workers compensation oversight in FY 2023 Labor, Health and Human Services Appropriations measure and H.R. 5376 the Build Back Better Act.",
+    "Matters related to workers compensation oversight in FY 2023 Labor, Health and Human Services Appropriations measure, H.R. 2617 - Consolidated Appropriations Act, 2023 (P.L. No: 117-328) and H.R. 5376 the Build Back Better Act.",
+    "Tax issues; legislative issues related to workers' compensation.",
+    "Matters related to labor and health issues.",
+    "Matters related to FY 2024 Labor, Health and Human Services Appropriations measure.",
+    "Matters related to FAA re-authorization (H.R.3935 - Securing Growth and Robust Leadership in American Aviation Act).",
+    "Matters related to FY 2025 Labor, Health and Human Services Appropriations measure.",
+    "Matters related to FY 2026 Labor, Health and Human Services Appropriations measure."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 50,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 325000,
+  "peakYear": 2023,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 5
+}

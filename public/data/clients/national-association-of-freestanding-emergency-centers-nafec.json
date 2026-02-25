@@ -1,1 +1,102 @@
-{"id":176476,"name":"NATIONAL ASSOCIATION OF FREESTANDING EMERGENCY CENTERS (NAFEC)","slug":"national-association-of-freestanding-emergency-centers-nafec","state":"TX","description":"Represent the spectrum of FECs, including independent, hospital-owned, and hybrid models.","totalSpending":1860000,"filings":32,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":100000},{"year":2020,"income":420000},{"year":2021,"income":240000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["THE MCMANUS GROUP"],"lobbyists":["JOHN MCMANUS","BARRETT THORNHILL","CHRISTINA HOCHUL","PAUL CRONAN","WILLIAM RHYNE","ALANNA TEMME","LAWREN GEER","ALEX WHALEN"],"issues":["BUD","MMM","HCR",null],"sampleDescriptions":["Including funding for freestanding emergency centers in H.R. 1625 - Consolidated Appropriations Act, 2018.","Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers.","Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers. Support for S. 3531 - Emergency Care Improvement Act.","Support for surprise billing reform.","Support for surprise billing reform, including H.R. 3502, to amend the Public Health Service Act and title XI of the Social Security Act to protect health care consumers from surprise billing practices, and for other purposes; H.R 3630, the No Surprises Act; S. 1895, the Lower Health Care Costs Act; and S. 1531, the Stopping The Outrageous Practice of Surprise Medical Bills Act of 2019.","Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers. Support H.R. 2282/S. 966, the Medicare Care Coordination Improvement Act.","Surprise billing reform, including H.R 3630, the No Surprises Act, and S. 1895, the Lower Health Care Costs Act.","Surprise billing reform, including S. 1895, the Lower Health Care Costs Act, H.R. 3630, the No Surprises Act, H.R. 5826, the Consumer Protections Against Surprise Medical Bills Act, and H.R. 5800, the Ban Surprise Bills Act.","Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including H.R. 748, the CARES Act, and CMS-1744-IFC.","Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, and CMS-5531-IFC.","Requirements related to COVID-19 testing. Surprise billing reform, including S. 1895, the Lower Health Care Costs Act, H.R. 3630, the No Surprises Act, H.R. 5826, the Consumer Protections Against Surprise Medical Bills Act, and H.R. 5800, the Ban Surprise Bills Act.","Requirements related to COVID-19 testing. Surprise billing reform, including Title 1 of Division BB in H.R. 133 - The Consolidated Appropriations Act of 2020.","Implementation of surprise billing reform including in Division BB, Title I of H.R. 133 - Consolidated Appropriations Act, 2021.","Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, CMS-5531-IFC, CMS-1853-P, and CMS-9909-IFC.","Implementation of surprise billing reform including in Division BB, Title I of H.R. 133 - Consolidated Appropriations Act, 2021  and CMS-9909-IFC.","Implementation of surprise billing reform including in Division BB, Title I of H.R. 133 - Consolidated Appropriations Act, 2021  and CMS-9909-IFC and CMS-9908-IFC.","Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, CMS-5531-IFC, CMS-1853-P.\n\nIssues related to CMS vaccine mandate regulation (CMS-3415-IFC).","Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, CMS-5531-IFC, CMS-1853-P.","Implementation of surprise billing reform including in Division BB, Title I of H.R. 133 - Consolidated Appropriations Act, 2021 and CMS-9909-IFC and CMS-9908-IFC.","Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, CMS-5531-IFC, CMS-1853-P, and H.R.8597 - Emergency Care Improvement Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 176476,
+  "name": "NATIONAL ASSOCIATION OF FREESTANDING EMERGENCY CENTERS (NAFEC)",
+  "slug": "national-association-of-freestanding-emergency-centers-nafec",
+  "state": "TX",
+  "description": "Represent the spectrum of FECs, including independent, hospital-owned, and hybrid models.",
+  "totalSpending": 1860000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 100000
+    },
+    {
+      "year": 2020,
+      "income": 420000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "THE MCMANUS GROUP"
+  ],
+  "lobbyists": [
+    "JOHN MCMANUS",
+    "BARRETT THORNHILL",
+    "CHRISTINA HOCHUL",
+    "PAUL CRONAN",
+    "WILLIAM RHYNE",
+    "ALANNA TEMME",
+    "LAWREN GEER",
+    "ALEX WHALEN"
+  ],
+  "issues": [
+    "BUD",
+    "MMM",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Including funding for freestanding emergency centers in H.R. 1625 - Consolidated Appropriations Act, 2018.",
+    "Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers.",
+    "Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers. Support for S. 3531 - Emergency Care Improvement Act.",
+    "Support for surprise billing reform.",
+    "Support for surprise billing reform, including H.R. 3502, to amend the Public Health Service Act and title XI of the Social Security Act to protect health care consumers from surprise billing practices, and for other purposes; H.R 3630, the No Surprises Act; S. 1895, the Lower Health Care Costs Act; and S. 1531, the Stopping The Outrageous Practice of Surprise Medical Bills Act of 2019.",
+    "Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers. Support H.R. 2282/S. 966, the Medicare Care Coordination Improvement Act.",
+    "Surprise billing reform, including H.R 3630, the No Surprises Act, and S. 1895, the Lower Health Care Costs Act.",
+    "Surprise billing reform, including S. 1895, the Lower Health Care Costs Act, H.R. 3630, the No Surprises Act, H.R. 5826, the Consumer Protections Against Surprise Medical Bills Act, and H.R. 5800, the Ban Surprise Bills Act.",
+    "Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including H.R. 748, the CARES Act, and CMS-1744-IFC.",
+    "Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, and CMS-5531-IFC.",
+    "Requirements related to COVID-19 testing. Surprise billing reform, including S. 1895, the Lower Health Care Costs Act, H.R. 3630, the No Surprises Act, H.R. 5826, the Consumer Protections Against Surprise Medical Bills Act, and H.R. 5800, the Ban Surprise Bills Act.",
+    "Requirements related to COVID-19 testing. Surprise billing reform, including Title 1 of Division BB in H.R. 133 - The Consolidated Appropriations Act of 2020.",
+    "Implementation of surprise billing reform including in Division BB, Title I of H.R. 133 - Consolidated Appropriations Act, 2021.",
+    "Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, CMS-5531-IFC, CMS-1853-P, and CMS-9909-IFC.",
+    "Implementation of surprise billing reform including in Division BB, Title I of H.R. 133 - Consolidated Appropriations Act, 2021  and CMS-9909-IFC.",
+    "Implementation of surprise billing reform including in Division BB, Title I of H.R. 133 - Consolidated Appropriations Act, 2021  and CMS-9909-IFC and CMS-9908-IFC.",
+    "Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, CMS-5531-IFC, CMS-1853-P.\n\nIssues related to CMS vaccine mandate regulation (CMS-3415-IFC).",
+    "Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, CMS-5531-IFC, CMS-1853-P.",
+    "Implementation of surprise billing reform including in Division BB, Title I of H.R. 133 - Consolidated Appropriations Act, 2021 and CMS-9909-IFC and CMS-9908-IFC.",
+    "Education and advocacy regarding emergency services and Medicare reimbursement of freestanding emergency centers, including CMS-1744-IFC, CMS-5531-IFC, CMS-1853-P, and H.R.8597 - Emergency Care Improvement Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 232500,
+  "peakYear": 2020,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 3
+}

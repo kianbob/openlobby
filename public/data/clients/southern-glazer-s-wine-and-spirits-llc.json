@@ -1,1 +1,69 @@
-{"id":206701,"name":"SOUTHERN GLAZER'S WINE AND SPIRITS, LLC","slug":"southern-glazer-s-wine-and-spirits-llc","state":"FL","description":"Wine and spirits distributor","totalSpending":1390000,"filings":17,"yearlySpending":[{"year":2020,"income":50000},{"year":2021,"income":230000},{"year":2022,"income":240000},{"year":2023,"income":200000},{"year":2024,"income":520000},{"year":2025,"income":150000}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","DANIEL MCFAUL"],"issues":["BEV","TAR","LBR",null],"sampleDescriptions":["Advocate to exclude tariffs on wine and spirits.","Executive order about antitrust."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 206701,
+  "name": "SOUTHERN GLAZER'S WINE AND SPIRITS, LLC",
+  "slug": "southern-glazer-s-wine-and-spirits-llc",
+  "state": "FL",
+  "description": "Wine and spirits distributor",
+  "totalSpending": 1390000,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 50000
+    },
+    {
+      "year": 2021,
+      "income": 230000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 520000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "BALLARD PARTNERS"
+  ],
+  "lobbyists": [
+    "BRIAN BALLARD",
+    "SYLVESTER LUKIS",
+    "DANIEL MCFAUL"
+  ],
+  "issues": [
+    "BEV",
+    "TAR",
+    "LBR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Advocate to exclude tariffs on wine and spirits.",
+    "Executive order about antitrust."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 200,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 231667,
+  "peakYear": 2024,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 3
+}

@@ -1,1 +1,55 @@
-{"id":200744,"name":"CITGO PETROLEUM CORPORATION","slug":"citgo-petroleum-corporation","state":"TX","description":"Petroleum corporation","totalSpending":4200000,"filings":16,"yearlySpending":[{"year":2018,"income":2160000},{"year":2019,"income":1620000},{"year":2020,"income":420000}],"firms":["VANTAGEKNIGHT LLC"],"lobbyists":["MANUEL ORTIZ"],"issues":["ENG","FUE","FOR"],"sampleDescriptions":["Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuation of assets \nSanctions related issues","Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuation of assets\nSanctions related issues","Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuations of assets","Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuation of assets","Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuations of assets \nSanctions related issues"],"years":[2018,2019,2020]}
+{
+  "id": 200744,
+  "name": "CITGO PETROLEUM CORPORATION",
+  "slug": "citgo-petroleum-corporation",
+  "state": "TX",
+  "description": "Petroleum corporation",
+  "totalSpending": 4200000,
+  "filings": 16,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 2160000
+    },
+    {
+      "year": 2019,
+      "income": 1620000
+    },
+    {
+      "year": 2020,
+      "income": 420000
+    }
+  ],
+  "firms": [
+    "VANTAGEKNIGHT LLC"
+  ],
+  "lobbyists": [
+    "MANUEL ORTIZ"
+  ],
+  "issues": [
+    "ENG",
+    "FUE",
+    "FOR"
+  ],
+  "sampleDescriptions": [
+    "Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuation of assets \nSanctions related issues",
+    "Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuation of assets\nSanctions related issues",
+    "Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuations of assets",
+    "Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuation of assets",
+    "Potential impact of U.S. energy & foreign policy restrictions on CITGO Petroleum Corporation's operations and valuations of assets \nSanctions related issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "growthRate": -81,
+  "trajectory": "declining",
+  "yearsActive": 3,
+  "avgAnnualSpending": 1400000,
+  "peakYear": 2018,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "energy"
+}

@@ -1,1 +1,84 @@
-{"id":110335,"name":"TALOS ENERGY","slug":"talos-energy","state":"TX","description":"oil and gas","totalSpending":3010000,"filings":24,"yearlySpending":[{"year":2019,"income":120000},{"year":2020,"income":440000},{"year":2021,"income":430000},{"year":2022,"income":1350000},{"year":2023,"income":360000},{"year":2024,"income":180000},{"year":2025,"income":130000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["JON HROBSKY","DOUGLAS MAGUIRE","JASON BUCKNER","RADHA MOHAN","R. NICHOLSON","EDWARD ROYCE","SAMANTHA CARL-YODER","KATE GONZALES","JESSICA KRAMER","GRACE SAUNDERS"],"issues":["FOR","NAT",null],"sampleDescriptions":["International relations","Issues related to offshore exploration","Issues related to domestic oil and gas","Issues related to offshore exploration in Mexico","Issues related to offshore domestic oil and gas"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110335,
+  "name": "TALOS ENERGY",
+  "slug": "talos-energy",
+  "state": "TX",
+  "description": "oil and gas",
+  "totalSpending": 3010000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 440000
+    },
+    {
+      "year": 2021,
+      "income": 430000
+    },
+    {
+      "year": 2022,
+      "income": 1350000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 130000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "JON HROBSKY",
+    "DOUGLAS MAGUIRE",
+    "JASON BUCKNER",
+    "RADHA MOHAN",
+    "R. NICHOLSON",
+    "EDWARD ROYCE",
+    "SAMANTHA CARL-YODER",
+    "KATE GONZALES",
+    "JESSICA KRAMER",
+    "GRACE SAUNDERS"
+  ],
+  "issues": [
+    "FOR",
+    "NAT",
+    null
+  ],
+  "sampleDescriptions": [
+    "International relations",
+    "Issues related to offshore exploration",
+    "Issues related to domestic oil and gas",
+    "Issues related to offshore exploration in Mexico",
+    "Issues related to offshore domestic oil and gas"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 8,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 430000,
+  "peakYear": 2022,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "energy"
+}

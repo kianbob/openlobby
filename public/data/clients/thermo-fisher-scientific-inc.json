@@ -1,1 +1,101 @@
-{"id":182940,"name":"THERMO FISHER SCIENTIFIC INC","slug":"thermo-fisher-scientific-inc","state":"MA","description":"Multinational biotechnology product development company","totalSpending":1530000,"filings":23,"yearlySpending":[{"year":2018,"income":30000},{"year":2019,"income":160000},{"year":2020,"income":300000},{"year":2021,"income":300000},{"year":2022,"income":60000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":260000}],"firms":["MONUMENT ADVOCACY"],"lobbyists":["ANDREW HOWELL","KATHRYN MILLS","MELANIE LEHNHARDT","CHARLES VERDERY","MICHELLE KIRKMAN","POORVIE BISHNOI","E. ASHLEY HOY","JORDAN EVICH","RICH THOMAS"],"issues":["HOM","DEF","FOR","LAW","BUD",null,"HCR"],"sampleDescriptions":["Issues related to DHS chemical and nuclear detection programs","Issues related to S.954, H.R.2070, the POWER Act; DHS chemical and nuclear detection programs; implementation of Support for Patients and Communities Act; rapid DNA","Issues related to to H.R.6395 FY21 National Defense Authorization Act","Issues related to S.954, H.R.2070, the POWER Act; DHS chemical and nuclear detection programs; implementation of Support for Patients and Communities Act; rapid DNA; S.4514 Fighting Emerging Narcotics Through Additional Nations to Yield Lasting Results Act; H.R.7990 - FENTANYL Results Act","Issues related to gender-based violence","Issues related to DHS chemical and nuclear detection programs; Issues related to rapid DNA","Issues related to federal funding of chemical detection technology","Issues related to federal funding of chemical detection technology; Issues related to gender-based violence","Issues related to gender-based violence; FY22 SFOPS Appropriations","Issues related to federal funding of chemical detection technology; Issues related to gender-based violence; FY22 SFOPS Appropriations","Issues related to gender-based violence; FY23 SFOPS Appropriations; H.R. 7691 - Additional Ukraine Supplemental Appropriations Act, 2022.","Issues related to gender-based violence; FY23 SFOPS Appropriations; H.R. 7691 - Additional Ukraine Supplemental Appropriations Act, 2022","Issues related to gender-based violence and H.R. 2617, the Consolidated Appropriations Act FY23","General Thermo Fisher Scientific education, National Institutes of Health funding, future pandemic preparedness and response.","Issues related to the deployment of Rapid DNA technologies."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 182940,
+  "name": "THERMO FISHER SCIENTIFIC INC",
+  "slug": "thermo-fisher-scientific-inc",
+  "state": "MA",
+  "description": "Multinational biotechnology product development company",
+  "totalSpending": 1530000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 30000
+    },
+    {
+      "year": 2019,
+      "income": 160000
+    },
+    {
+      "year": 2020,
+      "income": 300000
+    },
+    {
+      "year": 2021,
+      "income": 300000
+    },
+    {
+      "year": 2022,
+      "income": 60000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 260000
+    }
+  ],
+  "firms": [
+    "MONUMENT ADVOCACY"
+  ],
+  "lobbyists": [
+    "ANDREW HOWELL",
+    "KATHRYN MILLS",
+    "MELANIE LEHNHARDT",
+    "CHARLES VERDERY",
+    "MICHELLE KIRKMAN",
+    "POORVIE BISHNOI",
+    "E. ASHLEY HOY",
+    "JORDAN EVICH",
+    "RICH THOMAS"
+  ],
+  "issues": [
+    "HOM",
+    "DEF",
+    "FOR",
+    "LAW",
+    "BUD",
+    null,
+    "HCR"
+  ],
+  "sampleDescriptions": [
+    "Issues related to DHS chemical and nuclear detection programs",
+    "Issues related to S.954, H.R.2070, the POWER Act; DHS chemical and nuclear detection programs; implementation of Support for Patients and Communities Act; rapid DNA",
+    "Issues related to to H.R.6395 FY21 National Defense Authorization Act",
+    "Issues related to S.954, H.R.2070, the POWER Act; DHS chemical and nuclear detection programs; implementation of Support for Patients and Communities Act; rapid DNA; S.4514 Fighting Emerging Narcotics Through Additional Nations to Yield Lasting Results Act; H.R.7990 - FENTANYL Results Act",
+    "Issues related to gender-based violence",
+    "Issues related to DHS chemical and nuclear detection programs; Issues related to rapid DNA",
+    "Issues related to federal funding of chemical detection technology",
+    "Issues related to federal funding of chemical detection technology; Issues related to gender-based violence",
+    "Issues related to gender-based violence; FY22 SFOPS Appropriations",
+    "Issues related to federal funding of chemical detection technology; Issues related to gender-based violence; FY22 SFOPS Appropriations",
+    "Issues related to gender-based violence; FY23 SFOPS Appropriations; H.R. 7691 - Additional Ukraine Supplemental Appropriations Act, 2022.",
+    "Issues related to gender-based violence; FY23 SFOPS Appropriations; H.R. 7691 - Additional Ukraine Supplemental Appropriations Act, 2022",
+    "Issues related to gender-based violence and H.R. 2617, the Consolidated Appropriations Act FY23",
+    "General Thermo Fisher Scientific education, National Institutes of Health funding, future pandemic preparedness and response.",
+    "Issues related to the deployment of Rapid DNA technologies."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 767,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 191250,
+  "peakYear": 2020,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 6
+}

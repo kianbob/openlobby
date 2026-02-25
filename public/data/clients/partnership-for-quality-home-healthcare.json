@@ -1,1 +1,87 @@
-{"id":188707,"name":"PARTNERSHIP FOR QUALITY HOME HEALTHCARE","slug":"partnership-for-quality-home-healthcare","state":"DC","description":"To improve the quality of home health care for individuals who are ill.","totalSpending":2120000,"filings":26,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":400000},{"year":2022,"income":220000},{"year":2023,"income":300000},{"year":2024,"income":280000},{"year":2025,"income":80000}],"firms":["LIBERTY PARTNERS GROUP, LLC"],"lobbyists":["ANDREW WOODS","STACEY SMITH"],"issues":["HCR","MMM",null],"sampleDescriptions":["Home health care, health products, health care services.","Home health policy and reimbursement issues.","Home health policy and reimbursement issues; Home Health Payment Innovation Act of 2019 (S. 433).","Home health policy and reimbursement issues; Home Health Payment Innovation Act of 2019 (S. 433 / H.R. 2573).","Home health policy and reimbursement issues; Home Health Payment Innovation Act of 2019 (S. 433 / H.R. 2573); Issues impacting the home health provider community related to COVID-19; H.R. 748/S. 3548 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.","Home health policy and reimbursement issues; Issues impacting the home health provider community related to COVID-19; Implementation of CARES Act (Public Law No:  116-136).","Home health policy and reimbursement issues; issues impacting the home health providers related to COVID-19; Implementation of CARES Act (Public Law No: 116-136).","Home health policy and reimbursement issues; issues impacting the home health providers related to COVID-19; Implementation of CARES Act (Public Law No: 116-136); S. 2562, the Choose Home Care Act of 2021.","Home health policy and reimbursement issues; issues impacting the home health providers related to COVID-19; Implementation of CARES Act (Public Law No: 116-136); S. 2562, the Choose Home Care Act of 2021; H.R. 8581 and S. 4605 Preserving Access to Home Health Act of 2022.","Home health policy and reimbursement issues; issues impacting the home health providers; S. 2137 Preserving Access to Home Health Act of 2023; Impact of proposed 2024 home health rule.","Home health policy and reimbursement issues; issues impacting the home health providers."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 188707,
+  "name": "PARTNERSHIP FOR QUALITY HOME HEALTHCARE",
+  "slug": "partnership-for-quality-home-healthcare",
+  "state": "DC",
+  "description": "To improve the quality of home health care for individuals who are ill.",
+  "totalSpending": 2120000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 400000
+    },
+    {
+      "year": 2022,
+      "income": 220000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 280000
+    },
+    {
+      "year": 2025,
+      "income": 80000
+    }
+  ],
+  "firms": [
+    "LIBERTY PARTNERS GROUP, LLC"
+  ],
+  "lobbyists": [
+    "ANDREW WOODS",
+    "STACEY SMITH"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Home health care, health products, health care services.",
+    "Home health policy and reimbursement issues.",
+    "Home health policy and reimbursement issues; Home Health Payment Innovation Act of 2019 (S. 433).",
+    "Home health policy and reimbursement issues; Home Health Payment Innovation Act of 2019 (S. 433 / H.R. 2573).",
+    "Home health policy and reimbursement issues; Home Health Payment Innovation Act of 2019 (S. 433 / H.R. 2573); Issues impacting the home health provider community related to COVID-19; H.R. 748/S. 3548 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+    "Home health policy and reimbursement issues; Issues impacting the home health provider community related to COVID-19; Implementation of CARES Act (Public Law No:  116-136).",
+    "Home health policy and reimbursement issues; issues impacting the home health providers related to COVID-19; Implementation of CARES Act (Public Law No: 116-136).",
+    "Home health policy and reimbursement issues; issues impacting the home health providers related to COVID-19; Implementation of CARES Act (Public Law No: 116-136); S. 2562, the Choose Home Care Act of 2021.",
+    "Home health policy and reimbursement issues; issues impacting the home health providers related to COVID-19; Implementation of CARES Act (Public Law No: 116-136); S. 2562, the Choose Home Care Act of 2021; H.R. 8581 and S. 4605 Preserving Access to Home Health Act of 2022.",
+    "Home health policy and reimbursement issues; issues impacting the home health providers; S. 2137 Preserving Access to Home Health Act of 2023; Impact of proposed 2024 home health rule.",
+    "Home health policy and reimbursement issues; issues impacting the home health providers."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -60,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 265000,
+  "peakYear": 2021,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "healthcare"
+}

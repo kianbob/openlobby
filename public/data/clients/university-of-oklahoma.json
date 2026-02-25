@@ -1,1 +1,94 @@
-{"id":145632,"name":"UNIVERSITY OF OKLAHOMA","slug":"university-of-oklahoma","state":null,"description":null,"totalSpending":1450000,"filings":29,"yearlySpending":[{"year":2018,"income":190000},{"year":2019,"income":170000},{"year":2020,"income":120000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":220000}],"firms":["STEPTOE LLP"],"lobbyists":["LESLIE BELCHER","CHRISTOPHER CARON","LEEANN GOHEEN","JEREMY USSERY","ASHELEN VICUNA"],"issues":["HCR","SCI","BUD","EDU","DEF",null,"TRA","SPO"],"sampleDescriptions":["Issues related to teaching hospitals.","Issues related to science research programs.","General appropriations issues related to University funding.","Issues related to higher education.","Work related to defense, security and intelligence issues.","Issues related to teaching hospitals, and health research funding.","General appropriations issues related to University and federal research funding.","Issues related to teaching hospitals and health research funding.","Issues related to University general aviation airport funding.","Issues related to college athletics."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 145632,
+  "name": "UNIVERSITY OF OKLAHOMA",
+  "slug": "university-of-oklahoma",
+  "state": null,
+  "description": null,
+  "totalSpending": 1450000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 190000
+    },
+    {
+      "year": 2019,
+      "income": 170000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 220000
+    }
+  ],
+  "firms": [
+    "STEPTOE LLP"
+  ],
+  "lobbyists": [
+    "LESLIE BELCHER",
+    "CHRISTOPHER CARON",
+    "LEEANN GOHEEN",
+    "JEREMY USSERY",
+    "ASHELEN VICUNA"
+  ],
+  "issues": [
+    "HCR",
+    "SCI",
+    "BUD",
+    "EDU",
+    "DEF",
+    null,
+    "TRA",
+    "SPO"
+  ],
+  "sampleDescriptions": [
+    "Issues related to teaching hospitals.",
+    "Issues related to science research programs.",
+    "General appropriations issues related to University funding.",
+    "Issues related to higher education.",
+    "Work related to defense, security and intelligence issues.",
+    "Issues related to teaching hospitals, and health research funding.",
+    "General appropriations issues related to University and federal research funding.",
+    "Issues related to teaching hospitals and health research funding.",
+    "Issues related to University general aviation airport funding.",
+    "Issues related to college athletics."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 16,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 181250,
+  "peakYear": 2025,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 7,
+  "industry": "education"
+}

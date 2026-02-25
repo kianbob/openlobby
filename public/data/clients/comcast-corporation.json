@@ -1,1 +1,104 @@
-{"id":199325,"name":"COMCAST CORPORATION","slug":"comcast-corporation","state":"DC","description":"Cable Company","totalSpending":1410000,"filings":30,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":280000},{"year":2020,"income":240000},{"year":2021,"income":160000},{"year":2022,"income":160000},{"year":2023,"income":150000},{"year":2024,"income":90000},{"year":2025,"income":90000}],"firms":["HARBINGER STRATEGIES, LLC"],"lobbyists":["MANNY ROSSMAN","STEVE STOMBRES","KYLE NEVINS","JOHN O'NEILL","JONATHAN SLEMROD","PARKER POLING","JOHN LEGANSKI"],"issues":["FIN","TAX","TEC","DEF","COM","ECN",null,"ART"],"sampleDescriptions":["The Foreign Investment Risk Review Modernization Act of 2018 (H.R. 5841, S. 2098):  general monitoring of issues related to CFIUS review.","H.R.1, Tax Reform Act of 2017 (Public Law No. 115-97) - Issues related to tax reform.","Resolution providing for the congressional disapproval under chapter 8 of title 5, USC, of the rule submitted by the Federal Communications Commission relating to Restoring Internet Freedom. (H.J.Res 129);  issues related to net neutrality.  Privacy issues; General monitoring of issues related to reform of the Telecommunications Act, patent litigation reform, FCC regulations, and general monitoring of cyber security issues.","The Fiscal Year 2019 National Defense Authorization Act (H.R. 5515, S. 1519):  general monitoring of issues related to CFIUS review.","H.R.1, Tax Reform Act of 2017 (Public Law No. 115-97):  Issues related to tax reform.","The Foreign Investment Risk Review Modernization Act of 2018 (H.R. 5841, S. 2098): general monitoring of issues related to CFIUS review;  The Fiscal Year 2019 National Defense Authorization Act (H.R. 5515, S. 1519): general monitoring of issues related to CFIUS review.","The John S. McCain National Defense Authorization Act for FY 2019 (Public Law 115-232):  general monitoring of issues related to CFIUS review.","General Monitoring of issues related to the Tax Reform Act of 2017 (Public Law No. 115-97).","Save the Internet Act (H.R.1644, S.682):  issues related to net neutrality. Privacy issues:  general monitoring of issues related to reform of the Telecommunications Act, patent litigation reform, FCC regulations, and general monitoring of cyber security issues.","Issues related to the COVID-19 Pandemic.","Save the Internet Act (No Bill Number):  Issues related to net neutrality.  Privacy issues:  general monitoring of issues related to reform of the Telecommunications Act, patent litigation reform, FCC regulations, and cyber security.","Save the Internet Act (No Bill Number): Issues related to net neutrality. Privacy issues: general monitoring of issues related to reform of the Telecommunications Act, patent litigation reform, FCC regulations, and cyber security.","Save the Internet Act (No Bill Number): issues related to net neutrality. The American Data Privacy and Protection Act (H.R. 8152): Issues related to reform of the Telecommunications Act, patent litigation reform, FCC Regulations, and cyber security.","Save the Internet Act (No Bill Number): issues related to net neutrality. The American Privacy Rights Act (No Bill Number): issues related to data privacy and cyber security.","Issues related to the foreign distribution of U.S. films.","The FY2025 National Defense Authorization Act (H.R. 8070): issues related to censorship of U.S. films.","Save the Internet Act (No Bill Number): issues related to net neutrality. Issues related to data privacy and cyber security.","The FY2026 National Defense Authorization Act (H.R.3838/S2296): Issues related to DoD collaboration with the U.S. film industry.","The One Big Beautiful Bill Act (H.R.1): issues related to business tax issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199325,
+  "name": "COMCAST CORPORATION",
+  "slug": "comcast-corporation",
+  "state": "DC",
+  "description": "Cable Company",
+  "totalSpending": 1410000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 280000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 160000
+    },
+    {
+      "year": 2023,
+      "income": 150000
+    },
+    {
+      "year": 2024,
+      "income": 90000
+    },
+    {
+      "year": 2025,
+      "income": 90000
+    }
+  ],
+  "firms": [
+    "HARBINGER STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "MANNY ROSSMAN",
+    "STEVE STOMBRES",
+    "KYLE NEVINS",
+    "JOHN O'NEILL",
+    "JONATHAN SLEMROD",
+    "PARKER POLING",
+    "JOHN LEGANSKI"
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "TEC",
+    "DEF",
+    "COM",
+    "ECN",
+    null,
+    "ART"
+  ],
+  "sampleDescriptions": [
+    "The Foreign Investment Risk Review Modernization Act of 2018 (H.R. 5841, S. 2098):  general monitoring of issues related to CFIUS review.",
+    "H.R.1, Tax Reform Act of 2017 (Public Law No. 115-97) - Issues related to tax reform.",
+    "Resolution providing for the congressional disapproval under chapter 8 of title 5, USC, of the rule submitted by the Federal Communications Commission relating to Restoring Internet Freedom. (H.J.Res 129);  issues related to net neutrality.  Privacy issues; General monitoring of issues related to reform of the Telecommunications Act, patent litigation reform, FCC regulations, and general monitoring of cyber security issues.",
+    "The Fiscal Year 2019 National Defense Authorization Act (H.R. 5515, S. 1519):  general monitoring of issues related to CFIUS review.",
+    "H.R.1, Tax Reform Act of 2017 (Public Law No. 115-97):  Issues related to tax reform.",
+    "The Foreign Investment Risk Review Modernization Act of 2018 (H.R. 5841, S. 2098): general monitoring of issues related to CFIUS review;  The Fiscal Year 2019 National Defense Authorization Act (H.R. 5515, S. 1519): general monitoring of issues related to CFIUS review.",
+    "The John S. McCain National Defense Authorization Act for FY 2019 (Public Law 115-232):  general monitoring of issues related to CFIUS review.",
+    "General Monitoring of issues related to the Tax Reform Act of 2017 (Public Law No. 115-97).",
+    "Save the Internet Act (H.R.1644, S.682):  issues related to net neutrality. Privacy issues:  general monitoring of issues related to reform of the Telecommunications Act, patent litigation reform, FCC regulations, and general monitoring of cyber security issues.",
+    "Issues related to the COVID-19 Pandemic.",
+    "Save the Internet Act (No Bill Number):  Issues related to net neutrality.  Privacy issues:  general monitoring of issues related to reform of the Telecommunications Act, patent litigation reform, FCC regulations, and cyber security.",
+    "Save the Internet Act (No Bill Number): Issues related to net neutrality. Privacy issues: general monitoring of issues related to reform of the Telecommunications Act, patent litigation reform, FCC regulations, and cyber security.",
+    "Save the Internet Act (No Bill Number): issues related to net neutrality. The American Data Privacy and Protection Act (H.R. 8152): Issues related to reform of the Telecommunications Act, patent litigation reform, FCC Regulations, and cyber security.",
+    "Save the Internet Act (No Bill Number): issues related to net neutrality. The American Privacy Rights Act (No Bill Number): issues related to data privacy and cyber security.",
+    "Issues related to the foreign distribution of U.S. films.",
+    "The FY2025 National Defense Authorization Act (H.R. 8070): issues related to censorship of U.S. films.",
+    "Save the Internet Act (No Bill Number): issues related to net neutrality. Issues related to data privacy and cyber security.",
+    "The FY2026 National Defense Authorization Act (H.R.3838/S2296): Issues related to DoD collaboration with the U.S. film industry.",
+    "The One Big Beautiful Bill Act (H.R.1): issues related to business tax issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -62,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 176250,
+  "peakYear": 2019,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 7
+}

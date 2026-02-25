@@ -1,1 +1,96 @@
-{"id":201942,"name":"ENCOMPASS HEALTH","slug":"encompass-health","state":"AL","description":"Healthcare Services Provider","totalSpending":3080000,"filings":28,"yearlySpending":[{"year":2018,"income":440000},{"year":2019,"income":330000},{"year":2020,"income":440000},{"year":2021,"income":440000},{"year":2022,"income":330000},{"year":2023,"income":440000},{"year":2024,"income":330000},{"year":2025,"income":330000}],"firms":["SCULLY ROSKEY AND MISSMAR"],"lobbyists":["THOMAS SCULLY","COLIN ROSKEY","RUDY MISSMAR"],"issues":["MMM",null],"sampleDescriptions":["HR 1892 \"Bipartisan Budget Act of 2018\" (legislative proposals pertaining to post-acute care providers, including payment reform);  HR 1625 \"Consolidated Appropriations Act, 2018\" (post-acute care reimbursement); CY 2018 Home Health PPS Proposed Rule, Home Health Groupings Model.","General health care regulatory work and advice.","HR 1892 \"Bipartisan Budget Act of 2018\" (legislative proposals pertaining to post-acute care providers, including payment reform);  HR 1625 \"Consolidated Appropriations Act, 2018\" (post-acute care reimbursement); CY 2018 Home Health PPS Proposed Rule, Home Health Groupings Model.\n\nMedicare and Medicaid Programs; CY 2019 Home Health Prospective Payment System Rate Update and CY 2020 Case-Mix Adjustment Methodology Refinements; Home Health Value-Based Purchasing Model; Home Health Quality Reporting Requirements; Home Infusion Therapy Requirements; and Training Requirements for Surveyors of National Accrediting Organizations, 83 Fed. Reg. 32,340 (July 12, 2018).","HR 1892 \"Bipartisan Budget Act of 2018\" (legislative proposals pertaining to post-acute care providers, including payment reform); HR 1625 \"Consolidated Appropriations Act, 2018\" (post-acute care reimbursement); CY 2018 Home Health PPS Proposed Rule, Home Health Groupings Model.\n\nMedicare and Medicaid Programs; CY 2019 Home Health Prospective Payment System Rate Update and CY 2020 Case-Mix Adjustment Methodology Refinements; Home Health Value-Based Purchasing Model; Home Health Quality Reporting Requirements; Home Infusion Therapy Requirements; and Training Requirements for Surveyors of National Accrediting Organizations, 83 Fed. Reg. 32,340 (July 12, 2018).","CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model.","CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model. \nOutreach on the implementation of the Improving Medicare Post-Acute Transformation Act (IMPACT Act).\nOutreach to include 3-hour rule waiver for inpatient rehabilitation facilities responding to COVID-19 pandemic in CARES Act (H.R. 748/S. 3548--Coronavirus Aid, Relief, and Economic Security Act).","CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model. \nOutreach on the implementation of the Improving Medicare Post-Acute Transformation Act (IMPACT Act).\nOutreach to include 3-hour rule waiver for inpatient rehabilitation facilities responding to COVID-19 pandemic in Paycheck Protection Program and Healthcare Enhancement Act (CARES 2.0) (H.R. 266).","CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model. \nOutreach on the implementation of the Improving Medicare Post-Acute Transformation Act (IMPACT Act).","CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model.\nOutreach on the implementation of the Improving Medicare Post-Acute Transformation Act (IMPACT Act).","CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model.\nH.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule and CY 2022 Home Health Aide (HHA) Prospective Payment System Proposed Rule.","CY 2022 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model.\nH.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule; CMS-10765 Agency Information Collection Activities: Proposed Collection; Comment Request","H.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule; CMS-10765 Agency Information Collection Activities: Proposed Collection; Comment Request H.R. 2471, Consolidated Appropriations Act, 2022","H.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule; CMS-10765 Agency Information Collection Activities: Proposed Collection; Comment Request","H.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule; CMS-10765 Agency Information Collection Activities: Proposed Collection; Comment Request H.R. 2167, Consolidated Appropriations Act of 2023","CMS 4207-NC Request for Information on Medicare Advantage data; ongoing attention to CMS Review Choice Demonstration Program for Inpatient Rehabilitaton Facility Care","CMS 4207-NC Request for Information on Medicare Advantage data; ongoing attention to CMS Review Choice Demonstration Program for Inpatient Rehabilitaton Facility Care; FY 2025 Proposed Rule for Inpatient Rehabilitation Facilities; Medicare Advantage network adequacy standards for inpatient rehabilitation facility services","CMS Review Choice Demonstration Program for Inpatient Rehabilitaton Facility Care; Medicare Advantage Policy & Technical Change Proposed Rule for 2026; Medicare Advantage network adequacy standards for inpatient rehabilitation facility services","CMS Review Choice Demonstration Program for Inpatient Rehabilitaton Facility Care; Medicare Advanatage Policy & Technical Change Proposed Rule for 2026; Medicare Advantage network adequacy standards for inpatient rehabilitation facility services; issues related to post-acute care and Medicare policy for same.","CMS Review Choice Demonstration Program for Inpatient Rehabilitation Facility (IRF) services; issues relating to Medicare Advantage enrollee access to inpatient rehabilitation facility care; issues related to FY 26 IRF PPS proposed rule.","CMS Review Choice Demonstration Program for Inpatient Rehabilitation Facility (IRF) services; issues relating to Medicare Advantage enrolled access to inpatient rehabilitation facility care; general monitoring and issues related to telehealth waiver extension authorities."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 201942,
+  "name": "ENCOMPASS HEALTH",
+  "slug": "encompass-health",
+  "state": "AL",
+  "description": "Healthcare Services Provider",
+  "totalSpending": 3080000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 440000
+    },
+    {
+      "year": 2019,
+      "income": 330000
+    },
+    {
+      "year": 2020,
+      "income": 440000
+    },
+    {
+      "year": 2021,
+      "income": 440000
+    },
+    {
+      "year": 2022,
+      "income": 330000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 330000
+    },
+    {
+      "year": 2025,
+      "income": 330000
+    }
+  ],
+  "firms": [
+    "SCULLY ROSKEY AND MISSMAR"
+  ],
+  "lobbyists": [
+    "THOMAS SCULLY",
+    "COLIN ROSKEY",
+    "RUDY MISSMAR"
+  ],
+  "issues": [
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "HR 1892 \"Bipartisan Budget Act of 2018\" (legislative proposals pertaining to post-acute care providers, including payment reform);  HR 1625 \"Consolidated Appropriations Act, 2018\" (post-acute care reimbursement); CY 2018 Home Health PPS Proposed Rule, Home Health Groupings Model.",
+    "General health care regulatory work and advice.",
+    "HR 1892 \"Bipartisan Budget Act of 2018\" (legislative proposals pertaining to post-acute care providers, including payment reform);  HR 1625 \"Consolidated Appropriations Act, 2018\" (post-acute care reimbursement); CY 2018 Home Health PPS Proposed Rule, Home Health Groupings Model.\n\nMedicare and Medicaid Programs; CY 2019 Home Health Prospective Payment System Rate Update and CY 2020 Case-Mix Adjustment Methodology Refinements; Home Health Value-Based Purchasing Model; Home Health Quality Reporting Requirements; Home Infusion Therapy Requirements; and Training Requirements for Surveyors of National Accrediting Organizations, 83 Fed. Reg. 32,340 (July 12, 2018).",
+    "HR 1892 \"Bipartisan Budget Act of 2018\" (legislative proposals pertaining to post-acute care providers, including payment reform); HR 1625 \"Consolidated Appropriations Act, 2018\" (post-acute care reimbursement); CY 2018 Home Health PPS Proposed Rule, Home Health Groupings Model.\n\nMedicare and Medicaid Programs; CY 2019 Home Health Prospective Payment System Rate Update and CY 2020 Case-Mix Adjustment Methodology Refinements; Home Health Value-Based Purchasing Model; Home Health Quality Reporting Requirements; Home Infusion Therapy Requirements; and Training Requirements for Surveyors of National Accrediting Organizations, 83 Fed. Reg. 32,340 (July 12, 2018).",
+    "CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model.",
+    "CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model. \nOutreach on the implementation of the Improving Medicare Post-Acute Transformation Act (IMPACT Act).\nOutreach to include 3-hour rule waiver for inpatient rehabilitation facilities responding to COVID-19 pandemic in CARES Act (H.R. 748/S. 3548--Coronavirus Aid, Relief, and Economic Security Act).",
+    "CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model. \nOutreach on the implementation of the Improving Medicare Post-Acute Transformation Act (IMPACT Act).\nOutreach to include 3-hour rule waiver for inpatient rehabilitation facilities responding to COVID-19 pandemic in Paycheck Protection Program and Healthcare Enhancement Act (CARES 2.0) (H.R. 266).",
+    "CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model. \nOutreach on the implementation of the Improving Medicare Post-Acute Transformation Act (IMPACT Act).",
+    "CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model.\nOutreach on the implementation of the Improving Medicare Post-Acute Transformation Act (IMPACT Act).",
+    "CY 2020 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model.\nH.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule and CY 2022 Home Health Aide (HHA) Prospective Payment System Proposed Rule.",
+    "CY 2022 Medicare Home Health Prospective Payment System (PPS) rule and the Patient-Driven Groupings Model.\nH.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule; CMS-10765 Agency Information Collection Activities: Proposed Collection; Comment Request",
+    "H.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule; CMS-10765 Agency Information Collection Activities: Proposed Collection; Comment Request H.R. 2471, Consolidated Appropriations Act, 2022",
+    "H.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule; CMS-10765 Agency Information Collection Activities: Proposed Collection; Comment Request",
+    "H.R. 2455, The Resetting the Improving Medicare Post-Acute Transformation Act (IMPACT Act) of 2021; FY 2022 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Proposed Rule; CMS-10765 Agency Information Collection Activities: Proposed Collection; Comment Request H.R. 2167, Consolidated Appropriations Act of 2023",
+    "CMS 4207-NC Request for Information on Medicare Advantage data; ongoing attention to CMS Review Choice Demonstration Program for Inpatient Rehabilitaton Facility Care",
+    "CMS 4207-NC Request for Information on Medicare Advantage data; ongoing attention to CMS Review Choice Demonstration Program for Inpatient Rehabilitaton Facility Care; FY 2025 Proposed Rule for Inpatient Rehabilitation Facilities; Medicare Advantage network adequacy standards for inpatient rehabilitation facility services",
+    "CMS Review Choice Demonstration Program for Inpatient Rehabilitaton Facility Care; Medicare Advantage Policy & Technical Change Proposed Rule for 2026; Medicare Advantage network adequacy standards for inpatient rehabilitation facility services",
+    "CMS Review Choice Demonstration Program for Inpatient Rehabilitaton Facility Care; Medicare Advanatage Policy & Technical Change Proposed Rule for 2026; Medicare Advantage network adequacy standards for inpatient rehabilitation facility services; issues related to post-acute care and Medicare policy for same.",
+    "CMS Review Choice Demonstration Program for Inpatient Rehabilitation Facility (IRF) services; issues relating to Medicare Advantage enrollee access to inpatient rehabilitation facility care; issues related to FY 26 IRF PPS proposed rule.",
+    "CMS Review Choice Demonstration Program for Inpatient Rehabilitation Facility (IRF) services; issues relating to Medicare Advantage enrolled access to inpatient rehabilitation facility care; general monitoring and issues related to telehealth waiver extension authorities."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 385000,
+  "peakYear": 2018,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

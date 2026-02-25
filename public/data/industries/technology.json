@@ -1,0 +1,434 @@
+{
+  "industry": "technology",
+  "totalSpending": 6384399850.1,
+  "totalFilings": 99945,
+  "clientCount": 7775,
+  "topClients": [
+    {
+      "name": "CHAMBER OF COMMERCE OF THE U.S.A.",
+      "state": "DC",
+      "spending": 226590000,
+      "filings": 14,
+      "desc": null
+    },
+    {
+      "name": "AMAZON.COM SERVICES LLC",
+      "state": "DC",
+      "spending": 150615000,
+      "filings": 90,
+      "desc": null
+    },
+    {
+      "name": "COMCAST CORPORATION",
+      "state": "PA",
+      "spending": 122730625,
+      "filings": 487,
+      "desc": "Media, entertainment and communications services"
+    },
+    {
+      "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION",
+      "state": "DC",
+      "spending": 111531000,
+      "filings": 206,
+      "desc": "NCTA is the principal trade association of the cable television industry in the US"
+    },
+    {
+      "name": "QUALCOMM INCORPORATED",
+      "state": "CA",
+      "spending": 107550000,
+      "filings": 156,
+      "desc": "Semiconductor and telecommunications equipment company."
+    },
+    {
+      "name": "GOOGLE CLIENT SERVICES LLC",
+      "state": "DC",
+      "spending": 98945000,
+      "filings": 244,
+      "desc": "Internet search engine provider"
+    },
+    {
+      "name": "MICROSOFT CORPORATION",
+      "state": "DC",
+      "spending": 92797500,
+      "filings": 407,
+      "desc": "Software and technology."
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF BROADCASTERS",
+      "state": "DC",
+      "spending": 90690000,
+      "filings": 106,
+      "desc": "A trade association representing over-the-air radio and television broadcasters."
+    },
+    {
+      "name": "GENENTECH INC",
+      "state": "DC",
+      "spending": 90365000,
+      "filings": 112,
+      "desc": "Pharmaceutical manufacturer."
+    },
+    {
+      "name": "GENERAL MOTORS COMPANY",
+      "state": "DC",
+      "spending": 88400000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "BUSINESS ROUNDTABLE INC",
+      "state": "DC",
+      "spending": 86520000,
+      "filings": 16,
+      "desc": null
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC AND VARIOUS SUBSIDIARIES",
+      "state": "DC",
+      "spending": 84918060,
+      "filings": 51,
+      "desc": null
+    },
+    {
+      "name": "KOCH GOVERNMENT AFFAIRS, LLC",
+      "state": "KS",
+      "spending": 83520000,
+      "filings": 109,
+      "desc": "Energy, trading, operations and investment company"
+    },
+    {
+      "name": "META PLATFORMS, INC. AND VARIOUS SUBSIDIARIES",
+      "state": "DC",
+      "spending": 75090000,
+      "filings": 16,
+      "desc": null
+    },
+    {
+      "name": "RTX CORPORATION AND AFFILIATES",
+      "state": "VA",
+      "spending": 72130000,
+      "filings": 63,
+      "desc": "Advanced systems, technologies, and technical services for the federal government"
+    },
+    {
+      "name": "NATIONAL RETAIL FEDERATION",
+      "state": "DC",
+      "spending": 70308000,
+      "filings": 170,
+      "desc": null
+    },
+    {
+      "name": "APPLE INC",
+      "state": "DC",
+      "spending": 69850000,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "ORACLE CORPORATION",
+      "state": "CA",
+      "spending": 61700000,
+      "filings": 201,
+      "desc": "Computer hardware and enterprise software products"
+    },
+    {
+      "name": "TOYOTA MOTOR NORTH AMERICA INC (TMA)",
+      "state": "DC",
+      "spending": 56744018,
+      "filings": 36,
+      "desc": null
+    },
+    {
+      "name": "AT&T SERVICES INC AND ITS AFFILIATES",
+      "state": "DC",
+      "spending": 53330000,
+      "filings": 32,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF MANUFACTURERS",
+      "state": "DC",
+      "spending": 48526048,
+      "filings": 16,
+      "desc": null
+    },
+    {
+      "name": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+      "state": "DC",
+      "spending": 47850400,
+      "filings": 176,
+      "desc": "video technology"
+    },
+    {
+      "name": "INTEL CORPORATION",
+      "state": "CA",
+      "spending": 46490000,
+      "filings": 274,
+      "desc": "semiconductor manufacturer"
+    },
+    {
+      "name": "AICPA ASSOCIATION OF INTERNATIONAL CERTIFIED PROFESSIONAL ACCOUNTANTS",
+      "state": "DC",
+      "spending": 42699000,
+      "filings": 112,
+      "desc": "member association representing the accounting profession"
+    },
+    {
+      "name": "SAMSUNG ELECTRONICS AMERICA, INC.",
+      "state": "DC",
+      "spending": 38630000,
+      "filings": 49,
+      "desc": null
+    },
+    {
+      "name": "RAI SERVICES COMPANY",
+      "state": "DC",
+      "spending": 38537220,
+      "filings": 495,
+      "desc": "Tobacco"
+    },
+    {
+      "name": "IHEARTMEDIA INC",
+      "state": "DC",
+      "spending": 38326544,
+      "filings": 104,
+      "desc": "Global media and entertainment company specializing in mobile and on-demand entertainment"
+    },
+    {
+      "name": "CONSUMER TECHNOLOGY ASSOCIATION",
+      "state": "VA",
+      "spending": 36310000,
+      "filings": 178,
+      "desc": "Consumer technology industry association."
+    },
+    {
+      "name": "PARAMOUNT SKYDANCE CORPORATION (FKA PARAMOUNT GLOBAL)",
+      "state": "DC",
+      "spending": 34448150,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "DELTA AIR LINES INC",
+      "state": "DC",
+      "spending": 34072481,
+      "filings": 53,
+      "desc": "Airline"
+    },
+    {
+      "name": "AMERICAN ASSOCIATION OF AIRPORT EXECUTIVES",
+      "state": "VA",
+      "spending": 31449926,
+      "filings": 137,
+      "desc": "Represent interests of airport executives"
+    },
+    {
+      "name": "INTUIT, INC. AND AFFILIATES (FORMERLY INTUIT, INC.)",
+      "state": "DC",
+      "spending": 29540000,
+      "filings": 129,
+      "desc": "Developer of Financial Management software"
+    },
+    {
+      "name": "DELL TECHNOLOGIES INC",
+      "state": "DC",
+      "spending": 29340000,
+      "filings": 25,
+      "desc": null
+    },
+    {
+      "name": "BIOTECHNOLOGY INNOVATION ORGANIZATION",
+      "state": "DC",
+      "spending": 28680000,
+      "filings": 79,
+      "desc": null
+    },
+    {
+      "name": "ALIBABA GROUP HOLDING LIMITED",
+      "state": null,
+      "spending": 28366325,
+      "filings": 150,
+      "desc": "&#226;€‹E-commerce and data security company."
+    },
+    {
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "CO",
+      "spending": 28125000,
+      "filings": 117,
+      "desc": null
+    },
+    {
+      "name": "BNSF RAILWAY COMPANY",
+      "state": "TX",
+      "spending": 28050000,
+      "filings": 143,
+      "desc": "Freight Rail Company"
+    },
+    {
+      "name": "MICRON TECHNOLOGY, INC.",
+      "state": "ID",
+      "spending": 27420000,
+      "filings": 144,
+      "desc": null
+    },
+    {
+      "name": "AIRBUS AMERICAS INC",
+      "state": "VA",
+      "spending": 26890000,
+      "filings": 53,
+      "desc": "Aerospce/General defense contractor"
+    },
+    {
+      "name": "FOX CORPORATION",
+      "state": "DC",
+      "spending": 25560000,
+      "filings": 75,
+      "desc": "Media corporation"
+    },
+    {
+      "name": "L3HARRIS TECHNOLOGIES INC",
+      "state": "DC",
+      "spending": 24930000,
+      "filings": 68,
+      "desc": null
+    },
+    {
+      "name": "UBER TECHNOLOGIES, INC.",
+      "state": "CA",
+      "spending": 24607500,
+      "filings": 170,
+      "desc": "Technology company connecting passengers and drivers using innovative mobile application."
+    },
+    {
+      "name": "MOTION PICTURE ASSOCIATION INC",
+      "state": "DC",
+      "spending": 24570000,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "LUMEN TECHNOLOGIES, INC.",
+      "state": "DC",
+      "spending": 23670000,
+      "filings": 33,
+      "desc": "Tech, telecom & broadband provider."
+    },
+    {
+      "name": "DISNEY WORLDWIDE SERVICES INC",
+      "state": "DC",
+      "spending": 23580000,
+      "filings": 25,
+      "desc": null
+    },
+    {
+      "name": "HEWLETT PACKARD ENTERPRISE COMPANY & AFFILIATES",
+      "state": "DC",
+      "spending": 22415000,
+      "filings": 27,
+      "desc": null
+    },
+    {
+      "name": "SPACE EXPLORATION TECHNOLOGIES",
+      "state": "DC",
+      "spending": 22250000,
+      "filings": 55,
+      "desc": null
+    },
+    {
+      "name": "HONEYWELL INTERNATIONAL",
+      "state": "DC",
+      "spending": 22040000,
+      "filings": 42,
+      "desc": "invention and manufacture of technologies"
+    },
+    {
+      "name": "CISCO SYSTEMS INC",
+      "state": "DC",
+      "spending": 21890000,
+      "filings": 58,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN TOWER CORPORATION",
+      "state": "DC",
+      "spending": 21590000,
+      "filings": 30,
+      "desc": null
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 577918553.82
+    },
+    {
+      "year": 2019,
+      "spending": 657391529.6300001
+    },
+    {
+      "year": 2020,
+      "spending": 683273770.4
+    },
+    {
+      "year": 2021,
+      "spending": 838864923.4499999
+    },
+    {
+      "year": 2022,
+      "spending": 922913151.1400001
+    },
+    {
+      "year": 2023,
+      "spending": 905901175.1500001
+    },
+    {
+      "year": 2024,
+      "spending": 778006113.93
+    },
+    {
+      "year": 2025,
+      "spending": 1020130632.58
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "count": 19061
+    },
+    {
+      "code": "DEF",
+      "count": 17093
+    },
+    {
+      "code": "TAX",
+      "count": 11550
+    },
+    {
+      "code": "TRD",
+      "count": 9627
+    },
+    {
+      "code": "SCI",
+      "count": 9055
+    },
+    {
+      "code": "TEC",
+      "count": 8172
+    },
+    {
+      "code": "TRA",
+      "count": 7382
+    },
+    {
+      "code": "HCR",
+      "count": 6915
+    },
+    {
+      "code": "CPI",
+      "count": 6607
+    },
+    {
+      "code": "CPT",
+      "count": 5897
+    }
+  ]
+}

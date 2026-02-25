@@ -1,1 +1,77 @@
-{"id":205403,"name":"OAK VIEW GROUP, LLC","slug":"oak-view-group-llc","state":"CA","description":"Sports and entertainment development and investment company.","totalSpending":1730000,"filings":20,"yearlySpending":[{"year":2020,"income":330000},{"year":2021,"income":330000},{"year":2022,"income":220000},{"year":2023,"income":250000},{"year":2024,"income":80000},{"year":2025,"income":520000}],"firms":["MILLER STRATEGIES, LLC"],"lobbyists":["JESSICA MANDEL","JEFFREY MILLER","JONATHAN HILER","STEFAN PASSANTINO"],"issues":["TAX","GOV",null,"ART","CSP"],"sampleDescriptions":["Issues as they relate to business liability. Issues as they relate to corporate taxation.","Issues as they relate to corporate taxation.","Issues as they relate to business liability.","Issues as they relate to corporate taxation; general tax issues including H.R.2294 - Historic Tax Credit Growth and Opportunity Act of 2021","Issues as they relate to corporate taxation; general tax issues including H.R.2294 - Historic Tax Credit Growth and Opportunity Act of 2021.","Issues as they relate to Arts and Entertainment.","General issues related to ticketing; including S.3457 - Fans First Act; S. 1303 - The TICKET Act; and H.R. 3950 - The TICKET Act.","Issues related to anti trust enforcement"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 205403,
+  "name": "OAK VIEW GROUP, LLC",
+  "slug": "oak-view-group-llc",
+  "state": "CA",
+  "description": "Sports and entertainment development and investment company.",
+  "totalSpending": 1730000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 330000
+    },
+    {
+      "year": 2021,
+      "income": 330000
+    },
+    {
+      "year": 2022,
+      "income": 220000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 80000
+    },
+    {
+      "year": 2025,
+      "income": 520000
+    }
+  ],
+  "firms": [
+    "MILLER STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "JESSICA MANDEL",
+    "JEFFREY MILLER",
+    "JONATHAN HILER",
+    "STEFAN PASSANTINO"
+  ],
+  "issues": [
+    "TAX",
+    "GOV",
+    null,
+    "ART",
+    "CSP"
+  ],
+  "sampleDescriptions": [
+    "Issues as they relate to business liability. Issues as they relate to corporate taxation.",
+    "Issues as they relate to corporate taxation.",
+    "Issues as they relate to business liability.",
+    "Issues as they relate to corporate taxation; general tax issues including H.R.2294 - Historic Tax Credit Growth and Opportunity Act of 2021",
+    "Issues as they relate to corporate taxation; general tax issues including H.R.2294 - Historic Tax Credit Growth and Opportunity Act of 2021.",
+    "Issues as they relate to Arts and Entertainment.",
+    "General issues related to ticketing; including S.3457 - Fans First Act; S. 1303 - The TICKET Act; and H.R. 3950 - The TICKET Act.",
+    "Issues related to anti trust enforcement"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 58,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 288333,
+  "peakYear": 2025,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 4
+}

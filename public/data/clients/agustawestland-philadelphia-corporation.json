@@ -1,1 +1,81 @@
-{"id":211536,"name":"AGUSTAWESTLAND PHILADELPHIA CORPORATION","slug":"agustawestland-philadelphia-corporation","state":"PA","description":"Aircraft technology","totalSpending":2180000,"filings":19,"yearlySpending":[{"year":2021,"income":170000},{"year":2022,"income":450000},{"year":2023,"income":780000},{"year":2024,"income":390000},{"year":2025,"income":390000}],"firms":["LSN PARTNERS, LLC"],"lobbyists":["TOM QUINN","JOSE FUENTES","NEIL OHLHAUSEN"],"issues":["DEF","BUD","AVI","HOM","FOR",null],"sampleDescriptions":["Emergency Management Helicopters and National Security Systems","H.R.4432, Department of Defense Appropriations Act, FY2022, Helicopter procurement","No lobbying activity","Foreign Military Sales of Helicopters","Helicopter procurement related issues, as follows: H.R.4432, Department of Defense Appropriations Act, FY2022 Public Law 117-103, Consolidated Appropriations Act, FY2022 Department of Defense Appropriations Act, FY2023 The National Defense Authorization Act for Fiscal Year 2023","Helicopter procurement related issues, as follows: H.R.8263, Department of Defense Appropriations Act, FY2023 H.R.7900, The National Defense Authorization Act for Fiscal Year 2023","Helicopter procurement related issues, as follows: H.R.8263/S.4663, Department of Defense Appropriations Act, FY2023 H.R.7900/S.4543, The National Defense Authorization Act for Fiscal Year 2023","Helicopter procurement related issues, as follows: H.R.8263/S.4663, Department of Defense Appropriations Act, FY2023 Public Law 117-328, Consolidated Appropriations Act, FY2023, Public Law 117-263, James M Inhofe National Defense Authorization Act for Fiscal Year 2023","H.R.3935, Securing Growth and Robust Leadership in American Aviation Act, Power Lift issues","Helicopter procurement related issues, as follows: Department of Defense Appropriations Act, FY2025 National Defense Authorization Act for Fiscal Year 2025","Monitor Public Law 118-63, FAA Reauthorization Act of 2024, Power Lift issues","Helicopter procurement related issues, as follows: H.R.8774, Department of Defense Appropriations Act, FY2025 H.R.8070, Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025","Helicopter procurement related issues, as follows: H.R.8774/S.4921, Department of Defense Appropriations Act, FY2025 Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025","Helicopter procurement related issues, as follows: H.R.8774/S.4921, Department of Defense Appropriations Act, FY2025 Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 Department of Defense Appropriations Act, FY2026 National Defense Authorization Act for Fiscal Year 2026","Helicopter procurement related issues, as follows: H.R.3838, Streamlining Procurement for Effective Execution and Delivery Act of 2025, National Defense Authorization FY2026 H.R.4016, Department of Defense Appropriations Act, FY2026","Helicopter procurement related issues, as follows: Public Law 119-60, National Defense Authorization FY2026 H.R.4016/S.2572, Department of Defense Appropriations Act, FY2026"],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 211536,
+  "name": "AGUSTAWESTLAND PHILADELPHIA CORPORATION",
+  "slug": "agustawestland-philadelphia-corporation",
+  "state": "PA",
+  "description": "Aircraft technology",
+  "totalSpending": 2180000,
+  "filings": 19,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 170000
+    },
+    {
+      "year": 2022,
+      "income": 450000
+    },
+    {
+      "year": 2023,
+      "income": 780000
+    },
+    {
+      "year": 2024,
+      "income": 390000
+    },
+    {
+      "year": 2025,
+      "income": 390000
+    }
+  ],
+  "firms": [
+    "LSN PARTNERS, LLC"
+  ],
+  "lobbyists": [
+    "TOM QUINN",
+    "JOSE FUENTES",
+    "NEIL OHLHAUSEN"
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    "AVI",
+    "HOM",
+    "FOR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Emergency Management Helicopters and National Security Systems",
+    "H.R.4432, Department of Defense Appropriations Act, FY2022, Helicopter procurement",
+    "No lobbying activity",
+    "Foreign Military Sales of Helicopters",
+    "Helicopter procurement related issues, as follows: H.R.4432, Department of Defense Appropriations Act, FY2022 Public Law 117-103, Consolidated Appropriations Act, FY2022 Department of Defense Appropriations Act, FY2023 The National Defense Authorization Act for Fiscal Year 2023",
+    "Helicopter procurement related issues, as follows: H.R.8263, Department of Defense Appropriations Act, FY2023 H.R.7900, The National Defense Authorization Act for Fiscal Year 2023",
+    "Helicopter procurement related issues, as follows: H.R.8263/S.4663, Department of Defense Appropriations Act, FY2023 H.R.7900/S.4543, The National Defense Authorization Act for Fiscal Year 2023",
+    "Helicopter procurement related issues, as follows: H.R.8263/S.4663, Department of Defense Appropriations Act, FY2023 Public Law 117-328, Consolidated Appropriations Act, FY2023, Public Law 117-263, James M Inhofe National Defense Authorization Act for Fiscal Year 2023",
+    "H.R.3935, Securing Growth and Robust Leadership in American Aviation Act, Power Lift issues",
+    "Helicopter procurement related issues, as follows: Department of Defense Appropriations Act, FY2025 National Defense Authorization Act for Fiscal Year 2025",
+    "Monitor Public Law 118-63, FAA Reauthorization Act of 2024, Power Lift issues",
+    "Helicopter procurement related issues, as follows: H.R.8774, Department of Defense Appropriations Act, FY2025 H.R.8070, Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025",
+    "Helicopter procurement related issues, as follows: H.R.8774/S.4921, Department of Defense Appropriations Act, FY2025 Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025",
+    "Helicopter procurement related issues, as follows: H.R.8774/S.4921, Department of Defense Appropriations Act, FY2025 Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 Department of Defense Appropriations Act, FY2026 National Defense Authorization Act for Fiscal Year 2026",
+    "Helicopter procurement related issues, as follows: H.R.3838, Streamlining Procurement for Effective Execution and Delivery Act of 2025, National Defense Authorization FY2026 H.R.4016, Department of Defense Appropriations Act, FY2026",
+    "Helicopter procurement related issues, as follows: Public Law 119-60, National Defense Authorization FY2026 H.R.4016/S.2572, Department of Defense Appropriations Act, FY2026"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 129,
+  "trajectory": "exploding",
+  "yearsActive": 5,
+  "avgAnnualSpending": 436000,
+  "peakYear": 2023,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "technology"
+}

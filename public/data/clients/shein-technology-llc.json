@@ -1,1 +1,68 @@
-{"id":53028,"name":"SHEIN TECHNOLOGY LLC","slug":"shein-technology-llc","state":"CA","description":"Global fashion and lifestyle e-retailer","totalSpending":1840000,"filings":12,"yearlySpending":[{"year":2022,"income":190000},{"year":2023,"income":790000},{"year":2024,"income":680000},{"year":2025,"income":180000}],"firms":["VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)"],"lobbyists":["BENJAMIN QUAYLE","RASHID HALLAWAY","HAMILTON BLOOM","DAVID NATONSKI","ROBERT HOBART"],"issues":["APP","TRD","TAX",null],"sampleDescriptions":["Legislative and regulatory issues impacting the apparel industry and e-retailers, including trade and tax related matters. General education regarding SHEINs presence, operating footprint, and economic impact in the United States.","Legislative and regulatory issues impacting the apparel industry and e-retailers, including trade, tax, data protection, and privacy related matters. General education regarding SHEINs presence, operating footprint, and economic impact in the United States.","Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters; General education regarding SHEINs presence, operating footprint, and economic impact in the United States.","Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters; FY25 National Defense Authorization Act, H.R.8070; General education regarding SHEINs presence, operating footprint, and economic impact in the United States.","Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters; FY25 National Defense Authorization Act, H.R.8070/S.4638; General education regarding SHEINs presence, operating footprint, and economic impact in the United States.","Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters and sustainability; General education regarding SHEINs presence, operating footprint, and economic impact in the United States. Issues related to trade provisions in H.R. 8070, the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 and H.R. 10545, the American Relief Act of 2025.","Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters and sustainability; General education regarding SHEINs presence, operating footprint, and economic impact in the United States.","Tax issues regarding de minimis; H.R.1, One Big Beautiful Bill Act."],"years":[2022,2023,2024,2025]}
+{
+  "id": 53028,
+  "name": "SHEIN TECHNOLOGY LLC",
+  "slug": "shein-technology-llc",
+  "state": "CA",
+  "description": "Global fashion and lifestyle e-retailer",
+  "totalSpending": 1840000,
+  "filings": 12,
+  "yearlySpending": [
+    {
+      "year": 2022,
+      "income": 190000
+    },
+    {
+      "year": 2023,
+      "income": 790000
+    },
+    {
+      "year": 2024,
+      "income": 680000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)"
+  ],
+  "lobbyists": [
+    "BENJAMIN QUAYLE",
+    "RASHID HALLAWAY",
+    "HAMILTON BLOOM",
+    "DAVID NATONSKI",
+    "ROBERT HOBART"
+  ],
+  "issues": [
+    "APP",
+    "TRD",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislative and regulatory issues impacting the apparel industry and e-retailers, including trade and tax related matters. General education regarding SHEINs presence, operating footprint, and economic impact in the United States.",
+    "Legislative and regulatory issues impacting the apparel industry and e-retailers, including trade, tax, data protection, and privacy related matters. General education regarding SHEINs presence, operating footprint, and economic impact in the United States.",
+    "Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters; General education regarding SHEINs presence, operating footprint, and economic impact in the United States.",
+    "Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters; FY25 National Defense Authorization Act, H.R.8070; General education regarding SHEINs presence, operating footprint, and economic impact in the United States.",
+    "Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters; FY25 National Defense Authorization Act, H.R.8070/S.4638; General education regarding SHEINs presence, operating footprint, and economic impact in the United States.",
+    "Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters and sustainability; General education regarding SHEINs presence, operating footprint, and economic impact in the United States. Issues related to trade provisions in H.R. 8070, the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 and H.R. 10545, the American Relief Act of 2025.",
+    "Legislative and regulatory issues impacting the fashion and on-demand apparel industry, e-retailing and overall online competition, including trade related matters and sustainability; General education regarding SHEINs presence, operating footprint, and economic impact in the United States.",
+    "Tax issues regarding de minimis; H.R.1, One Big Beautiful Bill Act."
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -5,
+  "trajectory": "stable",
+  "yearsActive": 4,
+  "avgAnnualSpending": 460000,
+  "peakYear": 2023,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

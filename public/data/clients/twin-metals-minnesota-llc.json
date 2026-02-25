@@ -1,1 +1,67 @@
-{"id":151833,"name":"TWIN METALS MINNESOTA LLC","slug":"twin-metals-minnesota-llc","state":"MN","description":"Mining","totalSpending":1710000,"filings":20,"yearlySpending":[{"year":2018,"income":440000},{"year":2019,"income":330000},{"year":2020,"income":330000},{"year":2021,"income":230000},{"year":2022,"income":180000},{"year":2023,"income":200000}],"firms":["WILMER CUTLER PICKERING HALE AND DORR LLP"],"lobbyists":["ROBERT LEHMAN","TIMOTHY MARTIN","DAVID ROSS","BRIAN SKRETNY"],"issues":["NAT",null],"sampleDescriptions":["Mining issues"],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 151833,
+  "name": "TWIN METALS MINNESOTA LLC",
+  "slug": "twin-metals-minnesota-llc",
+  "state": "MN",
+  "description": "Mining",
+  "totalSpending": 1710000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 440000
+    },
+    {
+      "year": 2019,
+      "income": 330000
+    },
+    {
+      "year": 2020,
+      "income": 330000
+    },
+    {
+      "year": 2021,
+      "income": 230000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "WILMER CUTLER PICKERING HALE AND DORR LLP"
+  ],
+  "lobbyists": [
+    "ROBERT LEHMAN",
+    "TIMOTHY MARTIN",
+    "DAVID ROSS",
+    "BRIAN SKRETNY"
+  ],
+  "issues": [
+    "NAT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Mining issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -55,
+  "trajectory": "declining",
+  "yearsActive": 6,
+  "avgAnnualSpending": 285000,
+  "peakYear": 2018,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1
+}

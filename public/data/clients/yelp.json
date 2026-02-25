@@ -1,1 +1,99 @@
-{"id":110244,"name":"YELP","slug":"yelp","state":"DC","description":"Online platform","totalSpending":1500000,"filings":30,"yearlySpending":[{"year":2018,"income":100000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":250000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["ALFRED MOTTUR","WILLIAM MOSCHELLA","MARC LAMPKIN","ZACHARY PFISTER","GRETA JOYNES","MILAN DALAL","BRIAN MCGUIRE","ELIZABETH MAIER","TRAVIS NORTON","RUSSELL SULLIVAN","ALLEN GRUNES","ANDREW LITTMAN","ANDREW USYK","HAROLD HANCOCK","MARK WARREN","ALICE LUGO","JOHN MENGES"],"issues":["LBR","CPI",null],"sampleDescriptions":["Competition issues affecting the internet","Competition issues affecting the internet\nTax issues related to COVID-19","Competition issues affecting the internet\nTax issues related to COVID-19\nH.R.1319 - American Rescue Plan Act of 2021","Competition issues affecting the internet Tax issues related to COVID-19 S.2992 - American Innovation and Choice Online Act","Competition issues affecting the internet S. 2992, American Innovation and Choice Online Act","Competition issues affecting the internet American Innovation and Choice Online Act Appropriations 2024","Competition issues affecting the internet American Innovation and Choice Online Act Appropriations 2025","Competition issues affecting the internet American Innovation and Choice Online Act Appropriations 2025 S.1409 - Kids Online Safety Act","Competition issues affecting the internet American Innovation and Choice Online Act Appropriations 2026 Kids Online Safety Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110244,
+  "name": "YELP",
+  "slug": "yelp",
+  "state": "DC",
+  "description": "Online platform",
+  "totalSpending": 1500000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 100000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "ALFRED MOTTUR",
+    "WILLIAM MOSCHELLA",
+    "MARC LAMPKIN",
+    "ZACHARY PFISTER",
+    "GRETA JOYNES",
+    "MILAN DALAL",
+    "BRIAN MCGUIRE",
+    "ELIZABETH MAIER",
+    "TRAVIS NORTON",
+    "RUSSELL SULLIVAN",
+    "ALLEN GRUNES",
+    "ANDREW LITTMAN",
+    "ANDREW USYK",
+    "HAROLD HANCOCK",
+    "MARK WARREN",
+    "ALICE LUGO",
+    "JOHN MENGES"
+  ],
+  "issues": [
+    "LBR",
+    "CPI",
+    null
+  ],
+  "sampleDescriptions": [
+    "Competition issues affecting the internet",
+    "Competition issues affecting the internet\nTax issues related to COVID-19",
+    "Competition issues affecting the internet\nTax issues related to COVID-19\nH.R.1319 - American Rescue Plan Act of 2021",
+    "Competition issues affecting the internet Tax issues related to COVID-19 S.2992 - American Innovation and Choice Online Act",
+    "Competition issues affecting the internet S. 2992, American Innovation and Choice Online Act",
+    "Competition issues affecting the internet American Innovation and Choice Online Act Appropriations 2024",
+    "Competition issues affecting the internet American Innovation and Choice Online Act Appropriations 2025",
+    "Competition issues affecting the internet American Innovation and Choice Online Act Appropriations 2025 S.1409 - Kids Online Safety Act",
+    "Competition issues affecting the internet American Innovation and Choice Online Act Appropriations 2026 Kids Online Safety Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 187500,
+  "peakYear": 2023,
+  "lobbyistCount": 17,
+  "firmCount": 1,
+  "issueCount": 2
+}

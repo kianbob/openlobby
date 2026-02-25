@@ -1,1 +1,95 @@
-{"id":112270,"name":"BJC HEALTHCARE","slug":"bjc-healthcare","state":"MO","description":null,"totalSpending":1500000,"filings":30,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["CASSIDY & ASSOCIATES, INC."],"lobbyists":["JORDAN BERNSTEIN","DEVIN BARRETT"],"issues":["HCR","BUD","VET",null],"sampleDescriptions":["Extension of Medicare GME rules \nIssues related to Medicare reimbursement \nIssues related to healthcare reform \nHealthcare issues in tax reform (H.R.1)","FY18 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act(H.R.3358 & S.1771)-healthcare funding","Veteran's transplant issues (H.R.5674 & S.2372)","FY19 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act(H.R.6157)-healthcare funding","FY19 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act(H.R.6470 & S.3158)-healthcare funding","FY20 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding","Extension of Medicare GME rules\nIssues related to Medicare reimbursement\nIssues related to healthcare reform\nHealthcare issues in tax reform (H.R.1)","FY20 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding\nIssues related to COVID relief.","FY21 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding\nIssues related to COVID relief.","Extension of Medicare GME rules\nIssues related to Medicare reimbursement\nIssues related to healthcare reform\nHealthcare issues in reconciliation","FY22 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding\nIssues related to COVID relief.","FY23 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding Issues related to COVID relief.","Extension of Medicare GME rules Issues related to Medicare reimbursement Issues related to healthcare reform Healthcare issues in reconciliation","FY23/FY24 Department of Labor, HHS, & Education-healthcare funding","Medicare GME rules Issues related to Medicare reimbursement Issues related to healthcare reform","FY25 Department of Labor, HHS, & Education-healthcare funding","FY26 Department of Labor, HHS, & Education-healthcare funding","Medicare GME rules Issues related to Medicare reimbursement Issues related to healthcare reform H.R.1 - One Big Beautiful Bill Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 112270,
+  "name": "BJC HEALTHCARE",
+  "slug": "bjc-healthcare",
+  "state": "MO",
+  "description": null,
+  "totalSpending": 1500000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CASSIDY & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "JORDAN BERNSTEIN",
+    "DEVIN BARRETT"
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    "VET",
+    null
+  ],
+  "sampleDescriptions": [
+    "Extension of Medicare GME rules \nIssues related to Medicare reimbursement \nIssues related to healthcare reform \nHealthcare issues in tax reform (H.R.1)",
+    "FY18 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act(H.R.3358 & S.1771)-healthcare funding",
+    "Veteran's transplant issues (H.R.5674 & S.2372)",
+    "FY19 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act(H.R.6157)-healthcare funding",
+    "FY19 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act(H.R.6470 & S.3158)-healthcare funding",
+    "FY20 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding",
+    "Extension of Medicare GME rules\nIssues related to Medicare reimbursement\nIssues related to healthcare reform\nHealthcare issues in tax reform (H.R.1)",
+    "FY20 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding\nIssues related to COVID relief.",
+    "FY21 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding\nIssues related to COVID relief.",
+    "Extension of Medicare GME rules\nIssues related to Medicare reimbursement\nIssues related to healthcare reform\nHealthcare issues in reconciliation",
+    "FY22 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding\nIssues related to COVID relief.",
+    "FY23 Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act -healthcare funding Issues related to COVID relief.",
+    "Extension of Medicare GME rules Issues related to Medicare reimbursement Issues related to healthcare reform Healthcare issues in reconciliation",
+    "FY23/FY24 Department of Labor, HHS, & Education-healthcare funding",
+    "Medicare GME rules Issues related to Medicare reimbursement Issues related to healthcare reform",
+    "FY25 Department of Labor, HHS, & Education-healthcare funding",
+    "FY26 Department of Labor, HHS, & Education-healthcare funding",
+    "Medicare GME rules Issues related to Medicare reimbursement Issues related to healthcare reform H.R.1 - One Big Beautiful Bill Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 187500,
+  "peakYear": 2018,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "healthcare"
+}

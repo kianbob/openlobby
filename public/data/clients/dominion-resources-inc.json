@@ -1,1 +1,90 @@
-{"id":132130,"name":"DOMINION RESOURCES INC","slug":"dominion-resources-inc","state":"VA","description":null,"totalSpending":1620000,"filings":29,"yearlySpending":[{"year":2018,"income":60000},{"year":2019,"income":120000},{"year":2020,"income":120000},{"year":2021,"income":250000},{"year":2022,"income":200000},{"year":2023,"income":170000},{"year":2024,"income":300000},{"year":2025,"income":400000}],"firms":["MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP)"],"lobbyists":["LEE LILLEY","LF PAYNE","AMANDA ANDERSON","PAUL REAGAN","ROBERT WASINGER","RYAN BERNSTEIN"],"issues":["ENG","UTI","TAX","BUD",null],"sampleDescriptions":["Overall electricity legislation","Proposed Interstate Natural Gas Pipeline approval/congressional report","Mobile Workforce Tax Simplification Legislation H.R. 1393, S. 540","Overall electricity legislation, tax policy with respect to Build Back Better","Overall electricity legislation, tax policy with respect to Build Back Better; Coast Guard Authorization","Overall electricity legislation, tax policy with respect to the Inflation Reduction Act; Coast Guard Authorization","Energy and budget legislation generally","Administration implementation on inflation reduction tax","Electric generation, transmission, and AI development"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 132130,
+  "name": "DOMINION RESOURCES INC",
+  "slug": "dominion-resources-inc",
+  "state": "VA",
+  "description": null,
+  "totalSpending": 1620000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 60000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 250000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 170000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 400000
+    }
+  ],
+  "firms": [
+    "MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP)"
+  ],
+  "lobbyists": [
+    "LEE LILLEY",
+    "LF PAYNE",
+    "AMANDA ANDERSON",
+    "PAUL REAGAN",
+    "ROBERT WASINGER",
+    "RYAN BERNSTEIN"
+  ],
+  "issues": [
+    "ENG",
+    "UTI",
+    "TAX",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Overall electricity legislation",
+    "Proposed Interstate Natural Gas Pipeline approval/congressional report",
+    "Mobile Workforce Tax Simplification Legislation H.R. 1393, S. 540",
+    "Overall electricity legislation, tax policy with respect to Build Back Better",
+    "Overall electricity legislation, tax policy with respect to Build Back Better; Coast Guard Authorization",
+    "Overall electricity legislation, tax policy with respect to the Inflation Reduction Act; Coast Guard Authorization",
+    "Energy and budget legislation generally",
+    "Administration implementation on inflation reduction tax",
+    "Electric generation, transmission, and AI development"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 567,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 202500,
+  "peakYear": 2025,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 4
+}

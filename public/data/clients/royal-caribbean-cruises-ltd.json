@@ -1,1 +1,95 @@
-{"id":204027,"name":"ROYAL CARIBBEAN CRUISES LTD.","slug":"royal-caribbean-cruises-ltd","state":"FL","description":"Cruise line","totalSpending":1680000,"filings":19,"yearlySpending":[{"year":2020,"income":420000},{"year":2021,"income":270000},{"year":2022,"income":270000},{"year":2023,"income":360000},{"year":2024,"income":90000},{"year":2025,"income":270000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["GEOFFREY BURR","NORMAN BROWNSTEIN","WILLIAM MOSCHELLA","BRIAN WILD","BRIAN MCKEON","DAVID REID","JEROME MURRAY","DAVID COHEN","SAMANTHA CARL-YODER","ANDREW USYK","NADEAM ELSHAMI","ANNMARIE CONBOY-DEPASQUALE","HAROLD HANCOCK","JOHN REISING"],"issues":["TOU","GOV","IMM",null,"TAX"],"sampleDescriptions":["Issues related to the cruise industry","Issues related to COVID-19, CARES Act","Issues related to Coronavirus pandemic","Issues related to the cruise industry, including the coronavirus pandemic","Issues related to the cruise industry, including recommencement of sailing","Issues related to the cruise industry, including recommencement of sailing\nH.R.1318/S.593 - Alaska Tourism Restoration Act","Issues related to visas","Issues related to the cruise industry, including recommencement of sailing Application of the Passenger Vessel Services Act S.3683 - Alaska Tourism Restoration Extension Act","Issues related to the cruise industry, including recommencement of sailing Application of the Passenger Vessel Services Act S. 4802, Coast Guard Authorization Act of 2022 including authorization for new ice breakers","Application of the Passenger Vessel Services Act S. 4802, Coast Guard Authorization Act of 2022 including authorization for new ice breakers","Issues impacting the cruise line industry","Education regarding tax issues affecting the cruise line industry, including clean energy tax incentives","General issues impacting the cruise line industry","Education regarding tax issues affecting the cruise line industry, including clean energy tax incentives and section 883","Economic impacts affecting the cruise line industry Immigration Inspection User Fee- Section 70018 of H.R. 1 Implementation","Economic impacts affecting the cruise line industry Immigration Inspection User Fee- Section 70018 of P.L. 119-21 (H.R. 1) Implementation Visa processing issues"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 204027,
+  "name": "ROYAL CARIBBEAN CRUISES LTD.",
+  "slug": "royal-caribbean-cruises-ltd",
+  "state": "FL",
+  "description": "Cruise line",
+  "totalSpending": 1680000,
+  "filings": 19,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 420000
+    },
+    {
+      "year": 2021,
+      "income": 270000
+    },
+    {
+      "year": 2022,
+      "income": 270000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 90000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "GEOFFREY BURR",
+    "NORMAN BROWNSTEIN",
+    "WILLIAM MOSCHELLA",
+    "BRIAN WILD",
+    "BRIAN MCKEON",
+    "DAVID REID",
+    "JEROME MURRAY",
+    "DAVID COHEN",
+    "SAMANTHA CARL-YODER",
+    "ANDREW USYK",
+    "NADEAM ELSHAMI",
+    "ANNMARIE CONBOY-DEPASQUALE",
+    "HAROLD HANCOCK",
+    "JOHN REISING"
+  ],
+  "issues": [
+    "TOU",
+    "GOV",
+    "IMM",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "Issues related to the cruise industry",
+    "Issues related to COVID-19, CARES Act",
+    "Issues related to Coronavirus pandemic",
+    "Issues related to the cruise industry, including the coronavirus pandemic",
+    "Issues related to the cruise industry, including recommencement of sailing",
+    "Issues related to the cruise industry, including recommencement of sailing\nH.R.1318/S.593 - Alaska Tourism Restoration Act",
+    "Issues related to visas",
+    "Issues related to the cruise industry, including recommencement of sailing Application of the Passenger Vessel Services Act S.3683 - Alaska Tourism Restoration Extension Act",
+    "Issues related to the cruise industry, including recommencement of sailing Application of the Passenger Vessel Services Act S. 4802, Coast Guard Authorization Act of 2022 including authorization for new ice breakers",
+    "Application of the Passenger Vessel Services Act S. 4802, Coast Guard Authorization Act of 2022 including authorization for new ice breakers",
+    "Issues impacting the cruise line industry",
+    "Education regarding tax issues affecting the cruise line industry, including clean energy tax incentives",
+    "General issues impacting the cruise line industry",
+    "Education regarding tax issues affecting the cruise line industry, including clean energy tax incentives and section 883",
+    "Economic impacts affecting the cruise line industry Immigration Inspection User Fee- Section 70018 of H.R. 1 Implementation",
+    "Economic impacts affecting the cruise line industry Immigration Inspection User Fee- Section 70018 of P.L. 119-21 (H.R. 1) Implementation Visa processing issues"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -36,
+  "trajectory": "reducing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 280000,
+  "peakYear": 2020,
+  "lobbyistCount": 14,
+  "firmCount": 1,
+  "issueCount": 4
+}

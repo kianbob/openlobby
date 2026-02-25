@@ -1,1 +1,88 @@
-{"id":106255,"name":"UNIVERSITY OF MISSISSIPPI","slug":"university-of-mississippi","state":"MS","description":"Higher Education","totalSpending":1580000,"filings":29,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":210000},{"year":2021,"income":150000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":240000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["GO GRIFFITH","LOREN MONROE","ERSKINE WELLS","PETE LANDRUM","HALEY BARBOUR"],"issues":["BUD",null],"sampleDescriptions":["FY 2018 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY 2018 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY 2018 Energy and Water Appropriations Act; FY 2018 Department of Defense Appropriations Act; FY 2018 Commerce, Justice, Science and Related Water Appropriations Act; FY 2018 Transportation, Housing and Urban Development and Related Agencies Appropriations Act","FY 2019 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY 2019 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY 2019 Energy and Water Appropriations Act; FY 2019 Department of Defense Appropriations Act; FY 2019 Commerce, Justice, Science and Related Water Appropriations Act; FY 2019 Transportation, Housing and Urban Development and Related Agencies Appropriations Act","FY '20 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '20 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '20 Energy and Water Appropriations Act; FY '20 Department of Defense Appropriations Act; FY '20 Commerce, Justice, Science and Related Water Appropriations Act; FY '20 Transportation, Housing and Urban Development and Related Agencies Appropriations Act","FY '21 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '21 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '21 Energy and Water Appropriations Act; FY '21 Department of Defense Appropriations Act; FY '21 Commerce, Justice, Science and Related Water Appropriations Act; FY '21 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Congressional consideration of COVID relief packages","FY '22 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '22 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '22 Energy and Water Appropriations Act; FY '22 Department of Defense Appropriations Act; FY '22 Commerce, Justice, Science and Related Water Appropriations Act; FY '22 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Congressional consideration of COVID relief packages; Endless Frontier Act","FY '22 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '22 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '22 Energy and Water Appropriations Act; FY '22 Department of Defense Appropriations Act; FY '22 Commerce, Justice, Science and Related Water Appropriations Act; FY '22 Transportation, Housing and Urban Development and Related Agencies Appropriations Act;  Endless Frontier Act; Bipartisan infrastructure bill; federal regulation of cannabis research","FY '23 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '23 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '23 Energy and Water Appropriations Act; FY '23 Department of Defense Appropriations Act; FY '23 Commerce, Justice, Science and Related Water Appropriations Act; FY '23 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Endless Frontiers Act; bipartisan infrastructure bill; federal regulation of cannabis research","FY '23 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '23 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '23 Energy and Water Appropriations Act; FY '23 Department of Defense Appropriations Act; FY '23 Commerce, Justice, Science and Related Water Appropriations Act; FY '23 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Endless Frontiers Act; bipartisan infrastructure bill; federal regulation of cannabis research; HR 2617 Consolidated Appropriations Act of 2023","FY '25 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '25 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '25 Energy and Water Appropriations Act; FY '25 Department of Defense Appropriations Act; FY '25 Commerce, Justice, Science and Related Water Appropriations Act; FY '25 Transportation, Housing and Urban Development and Related Agencies Appropriations Act ; Implementation of the CHIPS and Science Act; federal regulation of cannabis research","FY '26 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '26 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '26 Energy and Water Appropriations Act; FY '26 Department of Defense Appropriations Act; FY '26 Commerce, Justice, Science and Related Water Appropriations Act; FY '26 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Implementation of the CHIPS and Science Act; federal regulation of cannabis research"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 106255,
+  "name": "UNIVERSITY OF MISSISSIPPI",
+  "slug": "university-of-mississippi",
+  "state": "MS",
+  "description": "Higher Education",
+  "totalSpending": 1580000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 210000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "GO GRIFFITH",
+    "LOREN MONROE",
+    "ERSKINE WELLS",
+    "PETE LANDRUM",
+    "HALEY BARBOUR"
+  ],
+  "issues": [
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "FY 2018 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY 2018 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY 2018 Energy and Water Appropriations Act; FY 2018 Department of Defense Appropriations Act; FY 2018 Commerce, Justice, Science and Related Water Appropriations Act; FY 2018 Transportation, Housing and Urban Development and Related Agencies Appropriations Act",
+    "FY 2019 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY 2019 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY 2019 Energy and Water Appropriations Act; FY 2019 Department of Defense Appropriations Act; FY 2019 Commerce, Justice, Science and Related Water Appropriations Act; FY 2019 Transportation, Housing and Urban Development and Related Agencies Appropriations Act",
+    "FY '20 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '20 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '20 Energy and Water Appropriations Act; FY '20 Department of Defense Appropriations Act; FY '20 Commerce, Justice, Science and Related Water Appropriations Act; FY '20 Transportation, Housing and Urban Development and Related Agencies Appropriations Act",
+    "FY '21 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '21 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '21 Energy and Water Appropriations Act; FY '21 Department of Defense Appropriations Act; FY '21 Commerce, Justice, Science and Related Water Appropriations Act; FY '21 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Congressional consideration of COVID relief packages",
+    "FY '22 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '22 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '22 Energy and Water Appropriations Act; FY '22 Department of Defense Appropriations Act; FY '22 Commerce, Justice, Science and Related Water Appropriations Act; FY '22 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Congressional consideration of COVID relief packages; Endless Frontier Act",
+    "FY '22 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '22 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '22 Energy and Water Appropriations Act; FY '22 Department of Defense Appropriations Act; FY '22 Commerce, Justice, Science and Related Water Appropriations Act; FY '22 Transportation, Housing and Urban Development and Related Agencies Appropriations Act;  Endless Frontier Act; Bipartisan infrastructure bill; federal regulation of cannabis research",
+    "FY '23 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '23 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '23 Energy and Water Appropriations Act; FY '23 Department of Defense Appropriations Act; FY '23 Commerce, Justice, Science and Related Water Appropriations Act; FY '23 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Endless Frontiers Act; bipartisan infrastructure bill; federal regulation of cannabis research",
+    "FY '23 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '23 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '23 Energy and Water Appropriations Act; FY '23 Department of Defense Appropriations Act; FY '23 Commerce, Justice, Science and Related Water Appropriations Act; FY '23 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Endless Frontiers Act; bipartisan infrastructure bill; federal regulation of cannabis research; HR 2617 Consolidated Appropriations Act of 2023",
+    "FY '25 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '25 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '25 Energy and Water Appropriations Act; FY '25 Department of Defense Appropriations Act; FY '25 Commerce, Justice, Science and Related Water Appropriations Act; FY '25 Transportation, Housing and Urban Development and Related Agencies Appropriations Act ; Implementation of the CHIPS and Science Act; federal regulation of cannabis research",
+    "FY '26 Departments of Labor, Health and Human Services, Education and Related Agencies Appropriations Act, FY '26 Agriculture, Rural Development, Food and Drug Administration and Related Agencies Appropriations Act; FY '26 Energy and Water Appropriations Act; FY '26 Department of Defense Appropriations Act; FY '26 Commerce, Justice, Science and Related Water Appropriations Act; FY '26 Transportation, Housing and Urban Development and Related Agencies Appropriations Act; Implementation of the CHIPS and Science Act; federal regulation of cannabis research"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 197500,
+  "peakYear": 2018,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "education"
+}

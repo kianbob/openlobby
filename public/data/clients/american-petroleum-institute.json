@@ -1,1 +1,107 @@
-{"id":110333,"name":"AMERICAN PETROLEUM INSTITUTE","slug":"american-petroleum-institute","state":"DC","description":"Trade association for natural gas and oil industry","totalSpending":1550000,"filings":25,"yearlySpending":[{"year":2019,"income":120000},{"year":2020,"income":210000},{"year":2021,"income":120000},{"year":2022,"income":300000},{"year":2023,"income":360000},{"year":2024,"income":240000},{"year":2025,"income":200000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["JEROME MURRAY","NADEAM ELSHAMI","ZACHARY PFISTER","BRIAN MCKEON","RUSSELL SULLIVAN","ANNE STARKE","SAMANTHA CARL-YODER","ALFRED MOTTUR","MARK WARREN","MARK PRYOR","LAUREN DIEKMAN","WILLIAM DUNHAM","BRIAN MCGUIRE","WILLIAM MOSCHELLA","ANDREW USYK","GREGORY SUNSTRUM","BRANDT ANDERSON","TRIPP MCKEMEY"],"issues":["NAT","TAX",null],"sampleDescriptions":["Issues related to USMCA, workforce development, and infrastructure; issues relates to offshore exploration; HR 205, HR 1941, HR 1146","Issues related to workforce development and infrastructure; issues relates to offshore exploration; HR 205, HR 1941, HR 1146","Issues related to workforce development and infrastructure; issues relates to offshore exploration","Issues related workforce development, and infrastructure; issues relates to offshore exploration; Energy tax issues","Energy tax issues\nH.R.5376 - Build Back Better Act","Issues related workforce development, and infrastructure; issues relates to offshore exploration; Energy tax issues\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act","Issues related workforce development, and infrastructure; issues relates to offshore exploration; Energy tax issues H.R.5376 - Build Back Better Act H.R.3684 - Infrastructure Investment and Jobs Act","Energy tax issues H.R.5376 - Build Back Better Act","Issues related workforce development, and infrastructure; Issues relates to offshore exploration; Energy tax issues H.R.5376 - Build Back Better Act Issues related to Infrastructure Investment and Jobs Act (PL 117-58) implementation","Energy tax issues H.R.5376 - Build Back Better Act Note: Senate post-employment restrictions for Mark Warren ended 4/8/22","Issues related workforce development, and infrastructure; issues related to offshore and onshore exploration and leasing H.R.5376 - Build Back Better Act regarding climate and energy H.R.5376 Inflation Reduction Act of 2022","Energy tax issues Corporate tax issues H.R.5376 - Inflation Reduction Act of 2022","Issues related workforce development, and infrastructure; issues related to offshore and onshore exploration and leasing H.R.5376 Inflation Reduction Act of 2022 S.977 - NOPEC H.R. 7776, the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023\"","Issues related workforce development, and infrastructure; issues related to offshore and onshore exploration and leasing NOPEC NDAA FY 2024 Coast Guard Reauthorization","Energy tax issues Corporate and international tax issues Inflation Reduction Act of 2022 Implementation LNG Permits","Issues related workforce development, and infrastructure; issues related to offshore and onshore exploration and leasing NOPEC NDAA FY 2025 Coast Guard Reauthorization Issues related to pipeline safety PHMSA Reauthorization","Issues related to infrastructure; issues related to offshore and onshore exploration and leasing; NDAA FY 2025; Coast Guard Reauthorization; Issues related to pipeline safety; European Union regulations on corporate sustainability","Energy tax issues; Corporate and international tax issues; Inflation Reduction Act of 2022 Implementation; LNG Permits","Energy tax issues Corporate and international tax issues Inflation Reduction Act of 2022 Implementation","Issues related to infrastructure; issues related to offshore and onshore exploration and leasing NDAA FY 2025 Coast Guard Reauthorization Issues related to pipeline safety European Union regulations on corporate sustainability Permitting Reform"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110333,
+  "name": "AMERICAN PETROLEUM INSTITUTE",
+  "slug": "american-petroleum-institute",
+  "state": "DC",
+  "description": "Trade association for natural gas and oil industry",
+  "totalSpending": 1550000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 210000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "JEROME MURRAY",
+    "NADEAM ELSHAMI",
+    "ZACHARY PFISTER",
+    "BRIAN MCKEON",
+    "RUSSELL SULLIVAN",
+    "ANNE STARKE",
+    "SAMANTHA CARL-YODER",
+    "ALFRED MOTTUR",
+    "MARK WARREN",
+    "MARK PRYOR",
+    "LAUREN DIEKMAN",
+    "WILLIAM DUNHAM",
+    "BRIAN MCGUIRE",
+    "WILLIAM MOSCHELLA",
+    "ANDREW USYK",
+    "GREGORY SUNSTRUM",
+    "BRANDT ANDERSON",
+    "TRIPP MCKEMEY"
+  ],
+  "issues": [
+    "NAT",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to USMCA, workforce development, and infrastructure; issues relates to offshore exploration; HR 205, HR 1941, HR 1146",
+    "Issues related to workforce development and infrastructure; issues relates to offshore exploration; HR 205, HR 1941, HR 1146",
+    "Issues related to workforce development and infrastructure; issues relates to offshore exploration",
+    "Issues related workforce development, and infrastructure; issues relates to offshore exploration; Energy tax issues",
+    "Energy tax issues\nH.R.5376 - Build Back Better Act",
+    "Issues related workforce development, and infrastructure; issues relates to offshore exploration; Energy tax issues\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act",
+    "Issues related workforce development, and infrastructure; issues relates to offshore exploration; Energy tax issues H.R.5376 - Build Back Better Act H.R.3684 - Infrastructure Investment and Jobs Act",
+    "Energy tax issues H.R.5376 - Build Back Better Act",
+    "Issues related workforce development, and infrastructure; Issues relates to offshore exploration; Energy tax issues H.R.5376 - Build Back Better Act Issues related to Infrastructure Investment and Jobs Act (PL 117-58) implementation",
+    "Energy tax issues H.R.5376 - Build Back Better Act Note: Senate post-employment restrictions for Mark Warren ended 4/8/22",
+    "Issues related workforce development, and infrastructure; issues related to offshore and onshore exploration and leasing H.R.5376 - Build Back Better Act regarding climate and energy H.R.5376 Inflation Reduction Act of 2022",
+    "Energy tax issues Corporate tax issues H.R.5376 - Inflation Reduction Act of 2022",
+    "Issues related workforce development, and infrastructure; issues related to offshore and onshore exploration and leasing H.R.5376 Inflation Reduction Act of 2022 S.977 - NOPEC H.R. 7776, the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023\"",
+    "Issues related workforce development, and infrastructure; issues related to offshore and onshore exploration and leasing NOPEC NDAA FY 2024 Coast Guard Reauthorization",
+    "Energy tax issues Corporate and international tax issues Inflation Reduction Act of 2022 Implementation LNG Permits",
+    "Issues related workforce development, and infrastructure; issues related to offshore and onshore exploration and leasing NOPEC NDAA FY 2025 Coast Guard Reauthorization Issues related to pipeline safety PHMSA Reauthorization",
+    "Issues related to infrastructure; issues related to offshore and onshore exploration and leasing; NDAA FY 2025; Coast Guard Reauthorization; Issues related to pipeline safety; European Union regulations on corporate sustainability",
+    "Energy tax issues; Corporate and international tax issues; Inflation Reduction Act of 2022 Implementation; LNG Permits",
+    "Energy tax issues Corporate and international tax issues Inflation Reduction Act of 2022 Implementation",
+    "Issues related to infrastructure; issues related to offshore and onshore exploration and leasing NDAA FY 2025 Coast Guard Reauthorization Issues related to pipeline safety European Union regulations on corporate sustainability Permitting Reform"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 67,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 221429,
+  "peakYear": 2023,
+  "lobbyistCount": 18,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "energy"
+}

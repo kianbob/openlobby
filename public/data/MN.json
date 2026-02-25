@@ -1,1 +1,329 @@
-{"abbreviation":"MN","name":"Minnesota","totalSpending":160980260,"totalFilings":9106,"clientCount":497,"yearlySpending":[{"year":2018,"income":12963372},{"year":2019,"income":11623290},{"year":2020,"income":14255500},{"year":2021,"income":14907250},{"year":2022,"income":17616940},{"year":2023,"income":45122500},{"year":2024,"income":20207000},{"year":2025,"income":24284408}],"topClients":[{"name":"POLARIS INDUSTRIES","income":4460000},{"name":"TWIN METALS MINNESOTA LLC","income":4210000},{"name":"STARKEY HEARING TECHNOLOGIES","income":3126000},{"name":"SHAKOPEE MDEWAKANTON DAKOTA (SIOUX) COMMUNITY","income":3090000},{"name":"MEDICA","income":2840000},{"name":"FAIRVIEW HEALTH SERVICES","income":2740000},{"name":"NMDP","income":2720000},{"name":"ECMC GROUP","income":2530000},{"name":"UNITEDHEALTH GROUP","income":2520000},{"name":"MILLE LACS BAND OF OJIBWE INDIANS","income":2380000},{"name":"UNIVERSITY OF MINNESOTA","income":2270000},{"name":"SKYWATER TECHNOLOGY FOUNDRY","income":2210000},{"name":"NEWRANGE COPPER NICKEL LLC","income":2180000},{"name":"CARGILL INC","income":2140000},{"name":"CARGILL, INC.","income":1960000},{"name":"BEST BUY CO. INC.","income":1940000},{"name":"LAND O'LAKES INC","income":1940000},{"name":"PRIME THERAPEUTICS","income":1788000},{"name":"ECOLAB INC. ON BEHALF OF NALCO COMPANY","income":1700000},{"name":"STRATEGIC EDUCATION INC (FKA CAPELLA EDUCATION COMPANY)","income":1660000},{"name":"NATIONAL INDEPENDENT VENUE ASSOCIATION","income":1620000},{"name":"STRATASYS, INC.","income":1600000},{"name":"XCEL ENERGY SERVICES, INC.","income":1530000},{"name":"MEDTRONIC, INC.","income":1520000},{"name":"HEALTHPARTNERS","income":1450000},{"name":"PRAIRIE ISLAND INDIAN COMMUNITY","income":1423200},{"name":"ESSENTIA HEALTH","income":1410000},{"name":"TARGET CORPORATION","income":1410000},{"name":"SIGNATORY WALL AND CEILING CONTRACTORS ALLIANCE","income":1390000},{"name":"CIBO TECHNOLOGIES","income":1390000},{"name":"GEOSYNTHETIC MATERIALS ASSOCIATION - ATA (FORMERLY KNOWN AS GMA - IFAI)","income":1380000},{"name":"HORMEL FOODS CORPORATION","income":1370000},{"name":"ACA INTERNATIONAL","income":1360690},{"name":"MINNESOTA CORN GROWERS","income":1360000},{"name":"C. H. ROBINSON WORLDWIDE, INC.","income":1320000},{"name":"CITY OF ST. PAUL","income":1315000},{"name":"ENVOY MEDICAL CORPORATION","income":1235000},{"name":"HAZELDEN BETTY FORD FOUNDATION","income":1210000},{"name":"LAND O'LAKES, INC.","income":1210000},{"name":"VERDE TECHNOLOGIES","income":1190000},{"name":"AMERICAN REGISTRY OF RADIOLOGIC TECHNOLOGISTS","income":1180000},{"name":"NIRON MAGNETICS","income":1180000},{"name":"ALLINA HEALTH","income":1170000},{"name":"BIOMADE","income":1160000},{"name":"TALON NICKEL (USA) LLC","income":1100000},{"name":"AMERICAN ACADEMY OF NEUROLOGY","income":1091387},{"name":"CENTRACARE HEALTH","income":1050000},{"name":"CARGILL, INC","income":1040000},{"name":"SECURIAN FINANCIAL GROUP","income":1000000},{"name":"NEW FLYER OF AMERICA INC.","income":990000}],"topIssues":[{"code":"BUD","income":35509050},{"code":"HCR","income":32329512},{"code":"MMM","income":20200387},{"code":"TAX","income":18198800},{"code":"AGR","income":17463500},{"code":"DEF","income":17307660},{"code":"TRA","income":14214500},{"code":"TRD","income":11796660},{"code":"IND","income":8989950},{"code":"NAT","income":8737750},{"code":"EDU","income":8114500},{"code":"ENG","income":7689000},{"code":"ENV","income":6160000},{"code":"MAN","income":5787000},{"code":"GOV","income":5506660},{"code":"CSP","income":5444000},{"code":"LBR","income":4778125},{"code":"VET","income":4395250},{"code":"AVI","income":3773500},{"code":"FIN","income":3346023}]}
+{
+  "abbreviation": "MN",
+  "name": "Minnesota",
+  "totalSpending": 160980260,
+  "totalFilings": 9106,
+  "clientCount": 497,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 12963372
+    },
+    {
+      "year": 2019,
+      "income": 11623290
+    },
+    {
+      "year": 2020,
+      "income": 14255500
+    },
+    {
+      "year": 2021,
+      "income": 14907250
+    },
+    {
+      "year": 2022,
+      "income": 17616940
+    },
+    {
+      "year": 2023,
+      "income": 45122500
+    },
+    {
+      "year": 2024,
+      "income": 20207000
+    },
+    {
+      "year": 2025,
+      "income": 24284408
+    }
+  ],
+  "topClients": [
+    {
+      "name": "POLARIS INDUSTRIES",
+      "income": 4460000
+    },
+    {
+      "name": "TWIN METALS MINNESOTA LLC",
+      "income": 4210000
+    },
+    {
+      "name": "STARKEY HEARING TECHNOLOGIES",
+      "income": 3126000
+    },
+    {
+      "name": "SHAKOPEE MDEWAKANTON DAKOTA (SIOUX) COMMUNITY",
+      "income": 3090000
+    },
+    {
+      "name": "MEDICA",
+      "income": 2840000
+    },
+    {
+      "name": "FAIRVIEW HEALTH SERVICES",
+      "income": 2740000
+    },
+    {
+      "name": "NMDP",
+      "income": 2720000
+    },
+    {
+      "name": "ECMC GROUP",
+      "income": 2530000
+    },
+    {
+      "name": "UNITEDHEALTH GROUP",
+      "income": 2520000
+    },
+    {
+      "name": "MILLE LACS BAND OF OJIBWE INDIANS",
+      "income": 2380000
+    },
+    {
+      "name": "UNIVERSITY OF MINNESOTA",
+      "income": 2270000
+    },
+    {
+      "name": "SKYWATER TECHNOLOGY FOUNDRY",
+      "income": 2210000
+    },
+    {
+      "name": "NEWRANGE COPPER NICKEL LLC",
+      "income": 2180000
+    },
+    {
+      "name": "CARGILL INC",
+      "income": 2140000
+    },
+    {
+      "name": "CARGILL, INC.",
+      "income": 1960000
+    },
+    {
+      "name": "BEST BUY CO. INC.",
+      "income": 1940000
+    },
+    {
+      "name": "LAND O'LAKES INC",
+      "income": 1940000
+    },
+    {
+      "name": "PRIME THERAPEUTICS",
+      "income": 1788000
+    },
+    {
+      "name": "ECOLAB INC. ON BEHALF OF NALCO COMPANY",
+      "income": 1700000
+    },
+    {
+      "name": "STRATEGIC EDUCATION INC (FKA CAPELLA EDUCATION COMPANY)",
+      "income": 1660000
+    },
+    {
+      "name": "NATIONAL INDEPENDENT VENUE ASSOCIATION",
+      "income": 1620000
+    },
+    {
+      "name": "STRATASYS, INC.",
+      "income": 1600000
+    },
+    {
+      "name": "XCEL ENERGY SERVICES, INC.",
+      "income": 1530000
+    },
+    {
+      "name": "MEDTRONIC, INC.",
+      "income": 1520000
+    },
+    {
+      "name": "HEALTHPARTNERS",
+      "income": 1450000
+    },
+    {
+      "name": "PRAIRIE ISLAND INDIAN COMMUNITY",
+      "income": 1423200
+    },
+    {
+      "name": "ESSENTIA HEALTH",
+      "income": 1410000
+    },
+    {
+      "name": "TARGET CORPORATION",
+      "income": 1410000
+    },
+    {
+      "name": "SIGNATORY WALL AND CEILING CONTRACTORS ALLIANCE",
+      "income": 1390000
+    },
+    {
+      "name": "CIBO TECHNOLOGIES",
+      "income": 1390000
+    },
+    {
+      "name": "GEOSYNTHETIC MATERIALS ASSOCIATION - ATA (FORMERLY KNOWN AS GMA - IFAI)",
+      "income": 1380000
+    },
+    {
+      "name": "HORMEL FOODS CORPORATION",
+      "income": 1370000
+    },
+    {
+      "name": "ACA INTERNATIONAL",
+      "income": 1360690
+    },
+    {
+      "name": "MINNESOTA CORN GROWERS",
+      "income": 1360000
+    },
+    {
+      "name": "C. H. ROBINSON WORLDWIDE, INC.",
+      "income": 1320000
+    },
+    {
+      "name": "CITY OF ST. PAUL",
+      "income": 1315000
+    },
+    {
+      "name": "ENVOY MEDICAL CORPORATION",
+      "income": 1235000
+    },
+    {
+      "name": "HAZELDEN BETTY FORD FOUNDATION",
+      "income": 1210000
+    },
+    {
+      "name": "LAND O'LAKES, INC.",
+      "income": 1210000
+    },
+    {
+      "name": "VERDE TECHNOLOGIES",
+      "income": 1190000
+    },
+    {
+      "name": "AMERICAN REGISTRY OF RADIOLOGIC TECHNOLOGISTS",
+      "income": 1180000
+    },
+    {
+      "name": "NIRON MAGNETICS",
+      "income": 1180000
+    },
+    {
+      "name": "ALLINA HEALTH",
+      "income": 1170000
+    },
+    {
+      "name": "BIOMADE",
+      "income": 1160000
+    },
+    {
+      "name": "TALON NICKEL (USA) LLC",
+      "income": 1100000
+    },
+    {
+      "name": "AMERICAN ACADEMY OF NEUROLOGY",
+      "income": 1091387
+    },
+    {
+      "name": "CENTRACARE HEALTH",
+      "income": 1050000
+    },
+    {
+      "name": "CARGILL, INC",
+      "income": 1040000
+    },
+    {
+      "name": "SECURIAN FINANCIAL GROUP",
+      "income": 1000000
+    },
+    {
+      "name": "NEW FLYER OF AMERICA INC.",
+      "income": 990000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 35509050
+    },
+    {
+      "code": "HCR",
+      "income": 32329512
+    },
+    {
+      "code": "MMM",
+      "income": 20200387
+    },
+    {
+      "code": "TAX",
+      "income": 18198800
+    },
+    {
+      "code": "AGR",
+      "income": 17463500
+    },
+    {
+      "code": "DEF",
+      "income": 17307660
+    },
+    {
+      "code": "TRA",
+      "income": 14214500
+    },
+    {
+      "code": "TRD",
+      "income": 11796660
+    },
+    {
+      "code": "IND",
+      "income": 8989950
+    },
+    {
+      "code": "NAT",
+      "income": 8737750
+    },
+    {
+      "code": "EDU",
+      "income": 8114500
+    },
+    {
+      "code": "ENG",
+      "income": 7689000
+    },
+    {
+      "code": "ENV",
+      "income": 6160000
+    },
+    {
+      "code": "MAN",
+      "income": 5787000
+    },
+    {
+      "code": "GOV",
+      "income": 5506660
+    },
+    {
+      "code": "CSP",
+      "income": 5444000
+    },
+    {
+      "code": "LBR",
+      "income": 4778125
+    },
+    {
+      "code": "VET",
+      "income": 4395250
+    },
+    {
+      "code": "AVI",
+      "income": 3773500
+    },
+    {
+      "code": "FIN",
+      "income": 3346023
+    }
+  ],
+  "perCapita": 49.47,
+  "population": 5737915,
+  "nationalRank": 19,
+  "perCapitaRank": 14
+}

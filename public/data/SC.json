@@ -1,1 +1,329 @@
-{"abbreviation":"SC","name":"South Carolina","totalSpending":120770811.91,"totalFilings":4957,"clientCount":292,"yearlySpending":[{"year":2018,"income":8145006},{"year":2019,"income":8397250},{"year":2020,"income":9255440},{"year":2021,"income":10911626.25},{"year":2022,"income":17571125},{"year":2023,"income":34971764.66},{"year":2024,"income":14155100},{"year":2025,"income":17363500}],"topClients":[{"name":"RENEWABLE ENERGY AGGREGATORS, INC.","income":5590000},{"name":"BELL LEGAL GROUP","income":5315000},{"name":"CONNECTED COMMERCE COUNCIL","income":5002500},{"name":"AMEDISYS, INC.","income":3200000},{"name":"NEW INDY CATAWBA LLC","income":3200000},{"name":"ONE WORLD TECHNOLOGIES, INC.","income":2830000},{"name":"ADVANCED TECHNOLOGY INTERNATIONAL","income":2400000},{"name":"INGEVITY CORPORATION","income":2350000},{"name":"PIEDMONT MUNICIPAL POWER AGENCY","income":2182500},{"name":"SPARTANBURG REGIONAL HEALTHCARE SYSTEM","income":2040000},{"name":"CLEMSON UNIVERSITY","income":1949500},{"name":"ADP LLC","income":1890000},{"name":"NATIONAL INSTALLMENT LENDERS ASSOCIATION","income":1800000},{"name":"SOUTH CAROLINA PORTS AUTHORITY","income":1780000},{"name":"NATIONAL WILD TURKEY FEDERATION","income":1660000},{"name":"BLUECROSS BLUESHIELD OF SOUTH CAROLINA","income":1650000},{"name":"DOMTAR CORPORATION FKA PAPER EXCELLENCE HOLDINGS CORPORATION FKA DOMTAR","income":1580000},{"name":"ROPER ST. FRANCIS HEALTHCARE","income":1530000},{"name":"NOVOLEX (FORMERLY HILEX POLY COMPANY)","income":1520000},{"name":"MANAGEYOURID","income":1510000},{"name":"STURGEON INDUSTRY ALLIANCE OF AMERICA","income":1490000},{"name":"KYOCERA INTERNATIONAL (FKA KYOCERA AVX)","income":1465000},{"name":"ADVANCED TECHNOLOGY INTERNATIONAL ON BEHALF OF NATIONAL ARMAMENTS CONSORTIUM","income":1460000},{"name":"PURPOSE FINANCIAL, INC.","income":1450000},{"name":"ANMED HEALTH SYSTEM","income":1450000},{"name":"BLUE CROSS BLUE SHIELD OF SOUTH CAROLINA","income":1330000},{"name":"PORT OF NEW ORLEANS","income":1280000},{"name":"MEDICAL UNIVERSITY HOSPITAL AUTHORITY","income":1240000},{"name":"INSP","income":1230000},{"name":"NATIONAL MEDAL OF HONOR MUSEUM","income":1179000},{"name":"BDV SOLUTIONS, LLC","income":1110000},{"name":"CHARLESTON COUNTY GOVERNMENT","income":1108500},{"name":"SIXAXIS LLC","income":1100000},{"name":"GREATER COLUMBIA CHAMBER OF COMMERCE","income":1080000},{"name":"THE GORDIAN GROUP, LLC","income":1040000},{"name":"NEPHRON PHARMACEUTICALS CORPORATION","income":1025000},{"name":"CATAWBA INDIAN NATION OF SOUTH CAROLINA","income":980000},{"name":"PRESERVATION STATIONS PRESERVE","income":930000},{"name":"3D SYSTEMS CORPORATION","income":870000},{"name":"MSI-DEFENSE SYSTEMS US, INC","income":856000},{"name":"GRAND STRAND BUSINESS ALLIANCE","income":830000},{"name":"VANTEO (FORMERLY KNOWN AS BDV SOLUTIONS)","income":810000},{"name":"NEXANS HIGH VOLTAGE USA","income":790000},{"name":"CONSERVATIVES FOR PROPERTY RIGHTS","income":781100},{"name":"MILLIKEN & COMPANY","income":780000},{"name":"COLUMBIA INTERNATIONAL UNIVERSITY","income":750000},{"name":"PROTERRA INC.","income":730000},{"name":"FIRST FINANCIAL LOAN COMPANY","income":720000},{"name":"CITY OF COLUMBIA","income":700000},{"name":"AMERICAN LEPROSY MISSIONS","income":690000}],"topIssues":[{"code":"BUD","income":24869725},{"code":"HCR","income":15560850},{"code":"DEF","income":15534250},{"code":"ENG","income":10723350},{"code":"TAX","income":8974350},{"code":"TRD","income":6848087.25},{"code":"ENV","income":6257500},{"code":"VET","income":5793000},{"code":"MAN","income":5695000},{"code":"SMB","income":4632500},{"code":"ECN","income":4427500},{"code":"TRA","income":4377500},{"code":"EDU","income":4053132.33},{"code":"MMM","income":3963500},{"code":"FIN","income":3870000},{"code":"GOV","income":3826145},{"code":"CSP","income":3150000},{"code":"MAR","income":2960000},{"code":"ROD","income":2935000},{"code":"INS","income":2760000}]}
+{
+  "abbreviation": "SC",
+  "name": "South Carolina",
+  "totalSpending": 120770811.91,
+  "totalFilings": 4957,
+  "clientCount": 292,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 8145006
+    },
+    {
+      "year": 2019,
+      "income": 8397250
+    },
+    {
+      "year": 2020,
+      "income": 9255440
+    },
+    {
+      "year": 2021,
+      "income": 10911626.25
+    },
+    {
+      "year": 2022,
+      "income": 17571125
+    },
+    {
+      "year": 2023,
+      "income": 34971764.66
+    },
+    {
+      "year": 2024,
+      "income": 14155100
+    },
+    {
+      "year": 2025,
+      "income": 17363500
+    }
+  ],
+  "topClients": [
+    {
+      "name": "RENEWABLE ENERGY AGGREGATORS, INC.",
+      "income": 5590000
+    },
+    {
+      "name": "BELL LEGAL GROUP",
+      "income": 5315000
+    },
+    {
+      "name": "CONNECTED COMMERCE COUNCIL",
+      "income": 5002500
+    },
+    {
+      "name": "AMEDISYS, INC.",
+      "income": 3200000
+    },
+    {
+      "name": "NEW INDY CATAWBA LLC",
+      "income": 3200000
+    },
+    {
+      "name": "ONE WORLD TECHNOLOGIES, INC.",
+      "income": 2830000
+    },
+    {
+      "name": "ADVANCED TECHNOLOGY INTERNATIONAL",
+      "income": 2400000
+    },
+    {
+      "name": "INGEVITY CORPORATION",
+      "income": 2350000
+    },
+    {
+      "name": "PIEDMONT MUNICIPAL POWER AGENCY",
+      "income": 2182500
+    },
+    {
+      "name": "SPARTANBURG REGIONAL HEALTHCARE SYSTEM",
+      "income": 2040000
+    },
+    {
+      "name": "CLEMSON UNIVERSITY",
+      "income": 1949500
+    },
+    {
+      "name": "ADP LLC",
+      "income": 1890000
+    },
+    {
+      "name": "NATIONAL INSTALLMENT LENDERS ASSOCIATION",
+      "income": 1800000
+    },
+    {
+      "name": "SOUTH CAROLINA PORTS AUTHORITY",
+      "income": 1780000
+    },
+    {
+      "name": "NATIONAL WILD TURKEY FEDERATION",
+      "income": 1660000
+    },
+    {
+      "name": "BLUECROSS BLUESHIELD OF SOUTH CAROLINA",
+      "income": 1650000
+    },
+    {
+      "name": "DOMTAR CORPORATION FKA PAPER EXCELLENCE HOLDINGS CORPORATION FKA DOMTAR",
+      "income": 1580000
+    },
+    {
+      "name": "ROPER ST. FRANCIS HEALTHCARE",
+      "income": 1530000
+    },
+    {
+      "name": "NOVOLEX (FORMERLY HILEX POLY COMPANY)",
+      "income": 1520000
+    },
+    {
+      "name": "MANAGEYOURID",
+      "income": 1510000
+    },
+    {
+      "name": "STURGEON INDUSTRY ALLIANCE OF AMERICA",
+      "income": 1490000
+    },
+    {
+      "name": "KYOCERA INTERNATIONAL (FKA KYOCERA AVX)",
+      "income": 1465000
+    },
+    {
+      "name": "ADVANCED TECHNOLOGY INTERNATIONAL ON BEHALF OF NATIONAL ARMAMENTS CONSORTIUM",
+      "income": 1460000
+    },
+    {
+      "name": "PURPOSE FINANCIAL, INC.",
+      "income": 1450000
+    },
+    {
+      "name": "ANMED HEALTH SYSTEM",
+      "income": 1450000
+    },
+    {
+      "name": "BLUE CROSS BLUE SHIELD OF SOUTH CAROLINA",
+      "income": 1330000
+    },
+    {
+      "name": "PORT OF NEW ORLEANS",
+      "income": 1280000
+    },
+    {
+      "name": "MEDICAL UNIVERSITY HOSPITAL AUTHORITY",
+      "income": 1240000
+    },
+    {
+      "name": "INSP",
+      "income": 1230000
+    },
+    {
+      "name": "NATIONAL MEDAL OF HONOR MUSEUM",
+      "income": 1179000
+    },
+    {
+      "name": "BDV SOLUTIONS, LLC",
+      "income": 1110000
+    },
+    {
+      "name": "CHARLESTON COUNTY GOVERNMENT",
+      "income": 1108500
+    },
+    {
+      "name": "SIXAXIS LLC",
+      "income": 1100000
+    },
+    {
+      "name": "GREATER COLUMBIA CHAMBER OF COMMERCE",
+      "income": 1080000
+    },
+    {
+      "name": "THE GORDIAN GROUP, LLC",
+      "income": 1040000
+    },
+    {
+      "name": "NEPHRON PHARMACEUTICALS CORPORATION",
+      "income": 1025000
+    },
+    {
+      "name": "CATAWBA INDIAN NATION OF SOUTH CAROLINA",
+      "income": 980000
+    },
+    {
+      "name": "PRESERVATION STATIONS PRESERVE",
+      "income": 930000
+    },
+    {
+      "name": "3D SYSTEMS CORPORATION",
+      "income": 870000
+    },
+    {
+      "name": "MSI-DEFENSE SYSTEMS US, INC",
+      "income": 856000
+    },
+    {
+      "name": "GRAND STRAND BUSINESS ALLIANCE",
+      "income": 830000
+    },
+    {
+      "name": "VANTEO (FORMERLY KNOWN AS BDV SOLUTIONS)",
+      "income": 810000
+    },
+    {
+      "name": "NEXANS HIGH VOLTAGE USA",
+      "income": 790000
+    },
+    {
+      "name": "CONSERVATIVES FOR PROPERTY RIGHTS",
+      "income": 781100
+    },
+    {
+      "name": "MILLIKEN & COMPANY",
+      "income": 780000
+    },
+    {
+      "name": "COLUMBIA INTERNATIONAL UNIVERSITY",
+      "income": 750000
+    },
+    {
+      "name": "PROTERRA INC.",
+      "income": 730000
+    },
+    {
+      "name": "FIRST FINANCIAL LOAN COMPANY",
+      "income": 720000
+    },
+    {
+      "name": "CITY OF COLUMBIA",
+      "income": 700000
+    },
+    {
+      "name": "AMERICAN LEPROSY MISSIONS",
+      "income": 690000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 24869725
+    },
+    {
+      "code": "HCR",
+      "income": 15560850
+    },
+    {
+      "code": "DEF",
+      "income": 15534250
+    },
+    {
+      "code": "ENG",
+      "income": 10723350
+    },
+    {
+      "code": "TAX",
+      "income": 8974350
+    },
+    {
+      "code": "TRD",
+      "income": 6848087.25
+    },
+    {
+      "code": "ENV",
+      "income": 6257500
+    },
+    {
+      "code": "VET",
+      "income": 5793000
+    },
+    {
+      "code": "MAN",
+      "income": 5695000
+    },
+    {
+      "code": "SMB",
+      "income": 4632500
+    },
+    {
+      "code": "ECN",
+      "income": 4427500
+    },
+    {
+      "code": "TRA",
+      "income": 4377500
+    },
+    {
+      "code": "EDU",
+      "income": 4053132.33
+    },
+    {
+      "code": "MMM",
+      "income": 3963500
+    },
+    {
+      "code": "FIN",
+      "income": 3870000
+    },
+    {
+      "code": "GOV",
+      "income": 3826145
+    },
+    {
+      "code": "CSP",
+      "income": 3150000
+    },
+    {
+      "code": "MAR",
+      "income": 2960000
+    },
+    {
+      "code": "ROD",
+      "income": 2935000
+    },
+    {
+      "code": "INS",
+      "income": 2760000
+    }
+  ],
+  "perCapita": 21.91,
+  "population": 5373555,
+  "nationalRank": 32,
+  "perCapitaRank": 41
+}

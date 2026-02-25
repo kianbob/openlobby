@@ -1,1 +1,109 @@
-{"id":102163,"name":"AMERICAN FLOOD COALITION ACTION INC","slug":"american-flood-coalition-action-inc","state":"DC","description":"Member driven non-profit advocating for national solutions to flooding and sea level rise","totalSpending":1800000,"filings":30,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":300000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":180000}],"firms":["ALPINE GROUP PARTNERS, LLC."],"lobbyists":["JASON SCHENDLE","COURTNEY JOHNSON","MICHAEL HENRY","LAWRENCE SPIVEY","CORNELL TEAGUE","KEENAN AUSTIN REED","ALISON GRAAB"],"issues":["DEF","BUD","ENG","ROD","ENV","DIS","VET","AGR","SCI",null,"TRA","HOU"],"sampleDescriptions":["Issues pertaining to flooding and critical infrastructure.","Defense access roads","Issues pertaining to flooding and critical infrastructure","FY20 MilCon/VA Appropriations Act","Lobby Congress on issues pertaining to flooding and sea level rise","FY20 MilCon/VA Appropriations Act\nFY20 NDAA Infrastructure \nInfrastructure resilience and defense","Issues pertaining to flooding & sea level rise\nInfrastructure resilience and defense \nFY20 NDAA infrastructure","Issues pertaining to flooding and sea level rise","Flood infrastructure policies","FY21 MilCon/VA Appropriations Act\nFY21 NDAA Infrastructure \nInfrastructure resilience and defense","Issues pertaining to flooding & sea level rise\nInfrastructure resilience and defense \nFY21 NDAA infrastructure","Issues pertaining to flooding and sea level rise; H.R. 4358, Preliminary Damage Assessment Act of 2019","Issues pertaining to flooding and sea level rise; H.R. 2866, VA Community Infrastructure Act","Issues pertaining to flooding and sea level rise\nWater Resources Development Act 2020 (WRDA)","Issues pertaining to flooding & sea level rise\nInfrastructure resilience and defense \nFY21 NDAA infrastructure \nH.R. 2 Moving Forward Act","Policies related to potential infrastructure legislation including flood mitigation, resilience and disaster preparedness","Infrastructure resilience and defense","Issues pertaining to flooding and sea level rise \nInfrastructure resilience and defense","Policies related to potential infrastructure legislation including flood mitigation, resilience and disaster preparedness \nHR 3684 (Invest in America Act)\nS 1931 (Surface Transportation Reauthorization Act of 2021)","Policies related to potential infrastructure legislation including flood mitigation, resilience and disaster preparedness \nHR 3684 (Invest in America Act)\nS 1931 (Surface Transportation Reauthorization Act of 2021)\nHR 5376 (Build Back Better)"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 102163,
+  "name": "AMERICAN FLOOD COALITION ACTION INC",
+  "slug": "american-flood-coalition-action-inc",
+  "state": "DC",
+  "description": "Member driven non-profit advocating for national solutions to flooding and sea level rise",
+  "totalSpending": 1800000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "ALPINE GROUP PARTNERS, LLC."
+  ],
+  "lobbyists": [
+    "JASON SCHENDLE",
+    "COURTNEY JOHNSON",
+    "MICHAEL HENRY",
+    "LAWRENCE SPIVEY",
+    "CORNELL TEAGUE",
+    "KEENAN AUSTIN REED",
+    "ALISON GRAAB"
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    "ENG",
+    "ROD",
+    "ENV",
+    "DIS",
+    "VET",
+    "AGR",
+    "SCI",
+    null,
+    "TRA",
+    "HOU"
+  ],
+  "sampleDescriptions": [
+    "Issues pertaining to flooding and critical infrastructure.",
+    "Defense access roads",
+    "Issues pertaining to flooding and critical infrastructure",
+    "FY20 MilCon/VA Appropriations Act",
+    "Lobby Congress on issues pertaining to flooding and sea level rise",
+    "FY20 MilCon/VA Appropriations Act\nFY20 NDAA Infrastructure \nInfrastructure resilience and defense",
+    "Issues pertaining to flooding & sea level rise\nInfrastructure resilience and defense \nFY20 NDAA infrastructure",
+    "Issues pertaining to flooding and sea level rise",
+    "Flood infrastructure policies",
+    "FY21 MilCon/VA Appropriations Act\nFY21 NDAA Infrastructure \nInfrastructure resilience and defense",
+    "Issues pertaining to flooding & sea level rise\nInfrastructure resilience and defense \nFY21 NDAA infrastructure",
+    "Issues pertaining to flooding and sea level rise; H.R. 4358, Preliminary Damage Assessment Act of 2019",
+    "Issues pertaining to flooding and sea level rise; H.R. 2866, VA Community Infrastructure Act",
+    "Issues pertaining to flooding and sea level rise\nWater Resources Development Act 2020 (WRDA)",
+    "Issues pertaining to flooding & sea level rise\nInfrastructure resilience and defense \nFY21 NDAA infrastructure \nH.R. 2 Moving Forward Act",
+    "Policies related to potential infrastructure legislation including flood mitigation, resilience and disaster preparedness",
+    "Infrastructure resilience and defense",
+    "Issues pertaining to flooding and sea level rise \nInfrastructure resilience and defense",
+    "Policies related to potential infrastructure legislation including flood mitigation, resilience and disaster preparedness \nHR 3684 (Invest in America Act)\nS 1931 (Surface Transportation Reauthorization Act of 2021)",
+    "Policies related to potential infrastructure legislation including flood mitigation, resilience and disaster preparedness \nHR 3684 (Invest in America Act)\nS 1931 (Surface Transportation Reauthorization Act of 2021)\nHR 5376 (Build Back Better)"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 225000,
+  "peakYear": 2022,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 11
+}

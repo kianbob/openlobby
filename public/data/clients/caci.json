@@ -1,1 +1,63 @@
-{"id":199648,"name":"CACI","slug":"caci","state":"VA","description":"Defense, intelligence, homeland/national security","totalSpending":1380000,"filings":23,"yearlySpending":[{"year":2018,"income":450000},{"year":2019,"income":430000},{"year":2020,"income":500000}],"firms":["ISEMAN & ASSOCIATES LLC"],"lobbyists":["VICKI ISEMAN","SEAN O'REILLY","KYLE LOEBER"],"issues":["TRA","BUD","GOV","DEF"],"sampleDescriptions":["Airport Security","Transportation Security; and Personnel and Pay Systems; Counter-Unmanned Aerial Systems","Background Checks/Security Clearances","Defense, Veterans, Homeland Security, Contracting and Intel issues; Cyber-security; Sequestration; Budget Outlook; Background Checks/Security Clearances; Personnel and Pay systems and logistics","Defense, Veterans, Homeland Security, Contracting and Intel issues; Cyber-security; Sequestration; Budget Outlook; Background Checks/Security Clearances; Personnel and Pay systems and logistics; Counter-Unmanned Aerial Systems","Defense, Veterans, Homeland Security, Contracting and Intel issues; Cyber-Security; Sequestration; Budget Outlook; Background Checks/Security Clearances; Personnel and Pay Systems and Logistics; Counter-Unmanned Aerial Systems; Electronic Warfare","Defense, Veterans, Homeland Security, Contracting and Intel issues; Cyber-security; Sequestration; Budget Outlook; Background checks/Security Clearances; Personnel and Pay systems and logistics; Counter-Unmanned Aerial Systems","Transportation Security; Personnel and Pay systems; Counter-Unmanned Aerial Systems","Background checks/Security clearances","Transportation Security; Personnel and Pay systems; Counter-Unmanned Aerial Systems; COVID-19 relief/recovery legislation"],"years":[2018,2019,2020]}
+{
+  "id": 199648,
+  "name": "CACI",
+  "slug": "caci",
+  "state": "VA",
+  "description": "Defense, intelligence, homeland/national security",
+  "totalSpending": 1380000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 450000
+    },
+    {
+      "year": 2019,
+      "income": 430000
+    },
+    {
+      "year": 2020,
+      "income": 500000
+    }
+  ],
+  "firms": [
+    "ISEMAN & ASSOCIATES LLC"
+  ],
+  "lobbyists": [
+    "VICKI ISEMAN",
+    "SEAN O'REILLY",
+    "KYLE LOEBER"
+  ],
+  "issues": [
+    "TRA",
+    "BUD",
+    "GOV",
+    "DEF"
+  ],
+  "sampleDescriptions": [
+    "Airport Security",
+    "Transportation Security; and Personnel and Pay Systems; Counter-Unmanned Aerial Systems",
+    "Background Checks/Security Clearances",
+    "Defense, Veterans, Homeland Security, Contracting and Intel issues; Cyber-security; Sequestration; Budget Outlook; Background Checks/Security Clearances; Personnel and Pay systems and logistics",
+    "Defense, Veterans, Homeland Security, Contracting and Intel issues; Cyber-security; Sequestration; Budget Outlook; Background Checks/Security Clearances; Personnel and Pay systems and logistics; Counter-Unmanned Aerial Systems",
+    "Defense, Veterans, Homeland Security, Contracting and Intel issues; Cyber-Security; Sequestration; Budget Outlook; Background Checks/Security Clearances; Personnel and Pay Systems and Logistics; Counter-Unmanned Aerial Systems; Electronic Warfare",
+    "Defense, Veterans, Homeland Security, Contracting and Intel issues; Cyber-security; Sequestration; Budget Outlook; Background checks/Security Clearances; Personnel and Pay systems and logistics; Counter-Unmanned Aerial Systems",
+    "Transportation Security; Personnel and Pay systems; Counter-Unmanned Aerial Systems",
+    "Background checks/Security clearances",
+    "Transportation Security; Personnel and Pay systems; Counter-Unmanned Aerial Systems; COVID-19 relief/recovery legislation"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "growthRate": 11,
+  "trajectory": "stable",
+  "yearsActive": 3,
+  "avgAnnualSpending": 460000,
+  "peakYear": 2020,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "defense"
+}

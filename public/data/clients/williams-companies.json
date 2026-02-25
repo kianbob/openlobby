@@ -1,1 +1,81 @@
-{"id":197583,"name":"WILLIAMS COMPANIES","slug":"williams-companies","state":"OK","description":"Natural gas pipeline and midstream production company","totalSpending":3334000,"filings":33,"yearlySpending":[{"year":2018,"income":451000},{"year":2019,"income":339000},{"year":2020,"income":452000},{"year":2021,"income":312000},{"year":2022,"income":538500},{"year":2023,"income":561500},{"year":2024,"income":550000},{"year":2025,"income":130000}],"firms":["SBL STRATEGIES, LLC"],"lobbyists":["JEFFREY LOVENG","HENRY BRADLEY","JOHN SULLIVAN"],"issues":["FUE",null,"TAX"],"sampleDescriptions":["Natural Gas Pipeline Issues","Sec 401 Permitting; Natural Gas Policy;Environmental Policy; Infrastructure Policy","Sec 401 Permitting; Natural Gas Policy; Environmental Policy; Infrastructure Policy","2025 Reconciliation package"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 197583,
+  "name": "WILLIAMS COMPANIES",
+  "slug": "williams-companies",
+  "state": "OK",
+  "description": "Natural gas pipeline and midstream production company",
+  "totalSpending": 3334000,
+  "filings": 33,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 451000
+    },
+    {
+      "year": 2019,
+      "income": 339000
+    },
+    {
+      "year": 2020,
+      "income": 452000
+    },
+    {
+      "year": 2021,
+      "income": 312000
+    },
+    {
+      "year": 2022,
+      "income": 538500
+    },
+    {
+      "year": 2023,
+      "income": 561500
+    },
+    {
+      "year": 2024,
+      "income": 550000
+    },
+    {
+      "year": 2025,
+      "income": 130000
+    }
+  ],
+  "firms": [
+    "SBL STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "JEFFREY LOVENG",
+    "HENRY BRADLEY",
+    "JOHN SULLIVAN"
+  ],
+  "issues": [
+    "FUE",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "Natural Gas Pipeline Issues",
+    "Sec 401 Permitting; Natural Gas Policy;Environmental Policy; Infrastructure Policy",
+    "Sec 401 Permitting; Natural Gas Policy; Environmental Policy; Infrastructure Policy",
+    "2025 Reconciliation package"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -71,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 416750,
+  "peakYear": 2023,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "energy"
+}

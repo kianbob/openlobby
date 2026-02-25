@@ -1,1 +1,88 @@
-{"id":195959,"name":"MASSDEVELOPMENT","slug":"massdevelopment","state":"MA","description":"MassDevelopment is the finance and development authority for Massachusetts","totalSpending":2560000,"filings":32,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":480000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":320000}],"firms":["THE ROOSEVELT GROUP"],"lobbyists":["JOHN SIMMONS","CHRISTOPHER GOODE","KATHLEEN FERGUSON","KEVIN FELIX","MATTHEW HERRMANN","BOBBY CORNETT"],"issues":["DEF","TRA",null],"sampleDescriptions":["FY19 Defense Appropriations Bill; FY19 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization and Futures Command.","FAA re-authorization and UAS Test Range Initiative.","FY20 Defense Appropriations Bill; FY20 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization and Futures Command.","FY21 Defense Appropriations Bill; FY21 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization and Futures Command.","FY22 Defense Appropriations Bill; FY22 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization.","FY23 Defense Appropriations Bill; FY23 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization.","FY24 Defense Appropriations Bill; FY24 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization.","FY25 Defense Appropriations Bill; FY25 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization.","FY26 Defense Appropriations Bill; FY23 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 195959,
+  "name": "MASSDEVELOPMENT",
+  "slug": "massdevelopment",
+  "state": "MA",
+  "description": "MassDevelopment is the finance and development authority for Massachusetts",
+  "totalSpending": 2560000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 480000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "THE ROOSEVELT GROUP"
+  ],
+  "lobbyists": [
+    "JOHN SIMMONS",
+    "CHRISTOPHER GOODE",
+    "KATHLEEN FERGUSON",
+    "KEVIN FELIX",
+    "MATTHEW HERRMANN",
+    "BOBBY CORNETT"
+  ],
+  "issues": [
+    "DEF",
+    "TRA",
+    null
+  ],
+  "sampleDescriptions": [
+    "FY19 Defense Appropriations Bill; FY19 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization and Futures Command.",
+    "FAA re-authorization and UAS Test Range Initiative.",
+    "FY20 Defense Appropriations Bill; FY20 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization and Futures Command.",
+    "FY21 Defense Appropriations Bill; FY21 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization and Futures Command.",
+    "FY22 Defense Appropriations Bill; FY22 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization.",
+    "FY23 Defense Appropriations Bill; FY23 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization.",
+    "FY24 Defense Appropriations Bill; FY24 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization.",
+    "FY25 Defense Appropriations Bill; FY25 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization.",
+    "FY26 Defense Appropriations Bill; FY23 National Defense Authorization Act; Air Force Material Command; USCYBERCOM, Air National Guard Force Structure, Army Modernization."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 320000,
+  "peakYear": 2021,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 2
+}

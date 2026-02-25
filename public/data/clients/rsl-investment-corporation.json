@@ -1,1 +1,38 @@
-{"id":64412,"name":"RSL INVESTMENT CORPORATION","slug":"rsl-investment-corporation","state":"NY","description":"Financial Investing","totalSpending":1430000,"filings":4,"yearlySpending":[{"year":2025,"income":1430000}],"firms":["MERCURY PUBLIC AFFAIRS, LLC"],"lobbyists":["BRYAN LANZA","PATRICK COSTELLO"],"issues":["FIN"],"sampleDescriptions":["issues related to investing"],"years":[2025]}
+{
+  "id": 64412,
+  "name": "RSL INVESTMENT CORPORATION",
+  "slug": "rsl-investment-corporation",
+  "state": "NY",
+  "description": "Financial Investing",
+  "totalSpending": 1430000,
+  "filings": 4,
+  "yearlySpending": [
+    {
+      "year": 2025,
+      "income": 1430000
+    }
+  ],
+  "firms": [
+    "MERCURY PUBLIC AFFAIRS, LLC"
+  ],
+  "lobbyists": [
+    "BRYAN LANZA",
+    "PATRICK COSTELLO"
+  ],
+  "issues": [
+    "FIN"
+  ],
+  "sampleDescriptions": [
+    "issues related to investing"
+  ],
+  "years": [
+    2025
+  ],
+  "yearsActive": 1,
+  "avgAnnualSpending": 1430000,
+  "peakYear": 2025,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

@@ -1,1 +1,100 @@
-{"id":198946,"name":"AMERIQUAL GROUP, LLC","slug":"ameriqual-group-llc","state":"IN","description":"production, packaging, assembly, distribution of high-quality, shelf-stable food products","totalSpending":1520000,"filings":28,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":150000},{"year":2020,"income":100000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)"],"lobbyists":["RASHID HALLAWAY","ROBERT HOBART","BENJAMIN QUAYLE","HAMILTON BLOOM","WILL BREWSTER"],"issues":["DEF","HOM","ECN","AGR",null],"sampleDescriptions":["H.R.3219/Senate, Department of Defense Appropriations Act, 2018; H.R.1892, Bipartisan Budget Act of 2018 (P.L.115-123); H.R.1625, Consolidated Appropriations Act, 2018 (P.L.115-141);\nFY19 Department of Defense Appropriations and FY19 National Defense Authorization Act;\nOperational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate.","FEMA logistics contracts for self-heating and disaster relief meals.","H.R.6157/S.3159, Department of Defense Appropriations Act, 2019;\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019;\nOperational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate.","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nH.R.6157/S.3159, Department of Defense Appropriations Act, 2019;\nH.R.6157, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019 (P.L.115-245);\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232).","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nH.R.6157, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019 (P.L.115-245);\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232).","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nH.J.Res.31, Consolidated Appropriations Act, 2019 (P.L.116-6);\nFY 2020 Department of Defense Appropriations;\nFY 2020 National Defense Authorization Act.","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nH.R.2968, Department of Defense Appropriations Act, 2020;\nS.1790/H.R.2500, National Defense Authorization Act for Fiscal Year 2020.","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nS.1790/H.R.2500, National Defense Authorization Act for Fiscal Year 2020 (P.L.116-92);\nH.R.2968/S.2474, Department of Defense Appropriations Act, 2020;\nH.R.1158, Consolidated Appropriations Act, 2020 (P.L.116-93).","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nFY21 National Defense Authorization Act (H.R.6395/S.4049);\nFY21 Department of Defense Appropriations.","Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), and H.R.748, CARES Act (P.L.116-136).\nAgricultural Marketing Service and Farmers to Families Food Box Program.","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nFY2021 Department of Defense Appropriations Act (H.R.7617) and FY2021 National Defense Authorization (H.R.6395/S.4049).","Agricultural Marketing Service and Farmers to Families Food Box Program.","Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), H.R.748, CARES Act (P.L.116-136), and additional COVID-19 legislative proposals.","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nFY22 National Defense Authorization Act;\nFY22 Department of Defense Appropriations Act;\nH.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation;\nH.R.1319, American Rescue Plan Act of 2021 (P.L.117-2).","Monitored economic impact of the COVID-19 pandemic to include response efforts and monitored infrastructure issues; H.R.748, CARES Act (P.L.116-136) implementation; H.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation; H.R.1319, American Rescue Plan Act of 2021 (P.L.117-2).","Discussions related to Emergency Food Assistance Program (TFAP).","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate; FY22 National Defense Authorization Act (H.R.4350/S.2792); FY22 Department of Defense Appropriations Act (H.R.4432).","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate; FY22 National Defense Authorization Act (H.R.4350, S.2792, S.1605, P.L.117-81); FY22 Department of Defense Appropriations Act (H.R.4432, S.3023).","Issues related FEMA contracts for self-heating and disaster relief meals including logistics and workforce related matters.","Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate; FY22 Consolidated Appropriations Act (H.R.2471, P.L.117-103); FY23 National Defense Authorization Act; FY23 Department of Defense Appropriations."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 198946,
+  "name": "AMERIQUAL GROUP, LLC",
+  "slug": "ameriqual-group-llc",
+  "state": "IN",
+  "description": "production, packaging, assembly, distribution of high-quality, shelf-stable food products",
+  "totalSpending": 1520000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 100000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)"
+  ],
+  "lobbyists": [
+    "RASHID HALLAWAY",
+    "ROBERT HOBART",
+    "BENJAMIN QUAYLE",
+    "HAMILTON BLOOM",
+    "WILL BREWSTER"
+  ],
+  "issues": [
+    "DEF",
+    "HOM",
+    "ECN",
+    "AGR",
+    null
+  ],
+  "sampleDescriptions": [
+    "H.R.3219/Senate, Department of Defense Appropriations Act, 2018; H.R.1892, Bipartisan Budget Act of 2018 (P.L.115-123); H.R.1625, Consolidated Appropriations Act, 2018 (P.L.115-141);\nFY19 Department of Defense Appropriations and FY19 National Defense Authorization Act;\nOperational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate.",
+    "FEMA logistics contracts for self-heating and disaster relief meals.",
+    "H.R.6157/S.3159, Department of Defense Appropriations Act, 2019;\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019;\nOperational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate.",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nH.R.6157/S.3159, Department of Defense Appropriations Act, 2019;\nH.R.6157, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019 (P.L.115-245);\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232).",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nH.R.6157, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019 (P.L.115-245);\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (P.L.115-232).",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nH.J.Res.31, Consolidated Appropriations Act, 2019 (P.L.116-6);\nFY 2020 Department of Defense Appropriations;\nFY 2020 National Defense Authorization Act.",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nH.R.2968, Department of Defense Appropriations Act, 2020;\nS.1790/H.R.2500, National Defense Authorization Act for Fiscal Year 2020.",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nS.1790/H.R.2500, National Defense Authorization Act for Fiscal Year 2020 (P.L.116-92);\nH.R.2968/S.2474, Department of Defense Appropriations Act, 2020;\nH.R.1158, Consolidated Appropriations Act, 2020 (P.L.116-93).",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nFY21 National Defense Authorization Act (H.R.6395/S.4049);\nFY21 Department of Defense Appropriations.",
+    "Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), and H.R.748, CARES Act (P.L.116-136).\nAgricultural Marketing Service and Farmers to Families Food Box Program.",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nFY2021 Department of Defense Appropriations Act (H.R.7617) and FY2021 National Defense Authorization (H.R.6395/S.4049).",
+    "Agricultural Marketing Service and Farmers to Families Food Box Program.",
+    "Monitored economic impact of the COVID-19 pandemic to include Congressional and Administration response efforts within H.R.6074, Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (P.L.116-123), H.R.6201, Families First Coronavirus Response Act (P.L.116-127), H.R.748, CARES Act (P.L.116-136), and additional COVID-19 legislative proposals.",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate;\nFY22 National Defense Authorization Act;\nFY22 Department of Defense Appropriations Act;\nH.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation;\nH.R.1319, American Rescue Plan Act of 2021 (P.L.117-2).",
+    "Monitored economic impact of the COVID-19 pandemic to include response efforts and monitored infrastructure issues; H.R.748, CARES Act (P.L.116-136) implementation; H.R.133, Consolidated Appropriations Act, 2021 (P.L.116-260) implementation; H.R.1319, American Rescue Plan Act of 2021 (P.L.117-2).",
+    "Discussions related to Emergency Food Assistance Program (TFAP).",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate; FY22 National Defense Authorization Act (H.R.4350/S.2792); FY22 Department of Defense Appropriations Act (H.R.4432).",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate; FY22 National Defense Authorization Act (H.R.4350, S.2792, S.1605, P.L.117-81); FY22 Department of Defense Appropriations Act (H.R.4432, S.3023).",
+    "Issues related FEMA contracts for self-heating and disaster relief meals including logistics and workforce related matters.",
+    "Operational Rations Program, Meals Ready to Eat War Reserve, and sustainment rate; FY22 Consolidated Appropriations Act (H.R.2471, P.L.117-103); FY23 National Defense Authorization Act; FY23 Department of Defense Appropriations."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -37,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 190000,
+  "peakYear": 2018,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 4
+}

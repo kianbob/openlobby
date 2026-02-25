@@ -1,1 +1,81 @@
-{"id":172617,"name":"ACG ADVOCACY ON BEHALF OF RELX INC.","slug":"acg-advocacy-on-behalf-of-relx-inc","state":"DC","description":"Government Affairs / Information and analytics company.","totalSpending":1910000,"filings":28,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":260000},{"year":2020,"income":280000},{"year":2021,"income":280000},{"year":2022,"income":280000},{"year":2023,"income":280000},{"year":2024,"income":140000},{"year":2025,"income":210000}],"firms":["MARLA GROSSMAN LLC"],"lobbyists":["MARLA GROSSMAN","LUKE LYNCH"],"issues":["TRD","CPT",null],"sampleDescriptions":["General trade issues.","Intellectual property issues.\nGovernment agency information technology issues.","General trade issues.\nOpen Access issues.","Intellectual property issues. Government agency information technology issues.","General trade issues. Open Access issues.","Intellectual Property Issues. Government agency information technology issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 172617,
+  "name": "ACG ADVOCACY ON BEHALF OF RELX INC.",
+  "slug": "acg-advocacy-on-behalf-of-relx-inc",
+  "state": "DC",
+  "description": "Government Affairs / Information and analytics company.",
+  "totalSpending": 1910000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 260000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 280000
+    },
+    {
+      "year": 2022,
+      "income": 280000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 140000
+    },
+    {
+      "year": 2025,
+      "income": 210000
+    }
+  ],
+  "firms": [
+    "MARLA GROSSMAN LLC"
+  ],
+  "lobbyists": [
+    "MARLA GROSSMAN",
+    "LUKE LYNCH"
+  ],
+  "issues": [
+    "TRD",
+    "CPT",
+    null
+  ],
+  "sampleDescriptions": [
+    "General trade issues.",
+    "Intellectual property issues.\nGovernment agency information technology issues.",
+    "General trade issues.\nOpen Access issues.",
+    "Intellectual property issues. Government agency information technology issues.",
+    "General trade issues. Open Access issues.",
+    "Intellectual Property Issues. Government agency information technology issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 17,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 238750,
+  "peakYear": 2020,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 2
+}

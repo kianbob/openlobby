@@ -1,1 +1,96 @@
-{"id":159187,"name":"TWIN RIVERS PAPER COMPANY","slug":"twin-rivers-paper-company","state":"ME","description":"Specialty paper company manufacturing high-quality paper, pulp, and lumber.","totalSpending":2030000,"filings":28,"yearlySpending":[{"year":2018,"income":260000},{"year":2019,"income":310000},{"year":2020,"income":160000},{"year":2021,"income":290000},{"year":2022,"income":320000},{"year":2023,"income":280000},{"year":2024,"income":320000},{"year":2025,"income":90000}],"firms":["TONIO BURGOS & ASSOCIATES, INC."],"lobbyists":["STEVEN FIER","TIMOTHY URSPRUNG","OLIVER RIQUELME","JERMAINE SIMMONS","SHAWN BLOCH"],"issues":["FIN","HCR",null],"sampleDescriptions":["Issues related to the Softwood Lumber Agreement. \n\nAgriculture, Rural Development, Food & Drug Administration & Related Agencies FY18 appropriations legislation.","Issues related to SEC proposed rule 30e-3 and the FY 2018 Financial Services and General Government appropriations legislation\n\nIssues relating to The Cody Miller Patient Medical Information Act.","Issues related to the Softwood Lumber Agreement. \n\nAgriculture, Rural Development, Food & Drug Administration & Related Agencies FY19 appropriations legislation.","Issues related to SEC proposed rule 30e-3 and the FY 2019 Financial Services and General Government appropriations legislation\n\nIssues relating to The Cody Miller Patient Medical Information Act.","Issues relating to patient medical information.\n\nH.R.2500/S.1790 - National Defense Authorization Act for Fiscal Year 2020.","Issues related to the Softwood Lumber Agreement. \n\nAgriculture, Rural Development, Food & Drug Administration & Related Agencies FY20 appropriations legislation.","Issues relating to patient medication information.\n\nH.R.2500/S.1790 - National Defense Authorization Act for Fiscal Year 2020.","H.R. 5198; Patients' Right to Know Their Medication Act of 2019.\n\nNational Defense Authorization Act for FY21","Issues related to the Softwood Lumber Agreement. \n\nAgriculture, Rural Development, Food & Drug Administration & Related Agencies FY 21 appropriations legislation.","Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations legislation for Fiscal Year 2022 - FDAE-Labeling.","FDA e-labeling\nPrescription Drug User Fee Act reauthorization","Prescription Drug User Fee Act reauthorization","Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations legislation for Fiscal Year 2022 and 2023 - FDAE-Labeling.","e-label policy rider inclusion in HR271 Consolidated Appropriations Act, 2022.","H.R. 1503, Prescription Information Modernization Act of 2023, regarding all provisions. H.R. 1173, Patients Right to Know Their Medication Act of 2023, regarding all provisions. Issues surrounding e-label appropriations policy rider.","Fiscal Year 2024 e-labeling issues.","Fiscal Year 2024 e-labeling issues. US Forest Services Wood Innovations Grant Program.","FY2026 Congressional Appropriations process."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 159187,
+  "name": "TWIN RIVERS PAPER COMPANY",
+  "slug": "twin-rivers-paper-company",
+  "state": "ME",
+  "description": "Specialty paper company manufacturing high-quality paper, pulp, and lumber.",
+  "totalSpending": 2030000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 260000
+    },
+    {
+      "year": 2019,
+      "income": 310000
+    },
+    {
+      "year": 2020,
+      "income": 160000
+    },
+    {
+      "year": 2021,
+      "income": 290000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 90000
+    }
+  ],
+  "firms": [
+    "TONIO BURGOS & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "STEVEN FIER",
+    "TIMOTHY URSPRUNG",
+    "OLIVER RIQUELME",
+    "JERMAINE SIMMONS",
+    "SHAWN BLOCH"
+  ],
+  "issues": [
+    "FIN",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to the Softwood Lumber Agreement. \n\nAgriculture, Rural Development, Food & Drug Administration & Related Agencies FY18 appropriations legislation.",
+    "Issues related to SEC proposed rule 30e-3 and the FY 2018 Financial Services and General Government appropriations legislation\n\nIssues relating to The Cody Miller Patient Medical Information Act.",
+    "Issues related to the Softwood Lumber Agreement. \n\nAgriculture, Rural Development, Food & Drug Administration & Related Agencies FY19 appropriations legislation.",
+    "Issues related to SEC proposed rule 30e-3 and the FY 2019 Financial Services and General Government appropriations legislation\n\nIssues relating to The Cody Miller Patient Medical Information Act.",
+    "Issues relating to patient medical information.\n\nH.R.2500/S.1790 - National Defense Authorization Act for Fiscal Year 2020.",
+    "Issues related to the Softwood Lumber Agreement. \n\nAgriculture, Rural Development, Food & Drug Administration & Related Agencies FY20 appropriations legislation.",
+    "Issues relating to patient medication information.\n\nH.R.2500/S.1790 - National Defense Authorization Act for Fiscal Year 2020.",
+    "H.R. 5198; Patients' Right to Know Their Medication Act of 2019.\n\nNational Defense Authorization Act for FY21",
+    "Issues related to the Softwood Lumber Agreement. \n\nAgriculture, Rural Development, Food & Drug Administration & Related Agencies FY 21 appropriations legislation.",
+    "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations legislation for Fiscal Year 2022 - FDAE-Labeling.",
+    "FDA e-labeling\nPrescription Drug User Fee Act reauthorization",
+    "Prescription Drug User Fee Act reauthorization",
+    "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations legislation for Fiscal Year 2022 and 2023 - FDAE-Labeling.",
+    "e-label policy rider inclusion in HR271 Consolidated Appropriations Act, 2022.",
+    "H.R. 1503, Prescription Information Modernization Act of 2023, regarding all provisions. H.R. 1173, Patients Right to Know Their Medication Act of 2023, regarding all provisions. Issues surrounding e-label appropriations policy rider.",
+    "Fiscal Year 2024 e-labeling issues.",
+    "Fiscal Year 2024 e-labeling issues. US Forest Services Wood Innovations Grant Program.",
+    "FY2026 Congressional Appropriations process."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -65,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 253750,
+  "peakYear": 2022,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2
+}

@@ -1,1 +1,93 @@
-{"id":102172,"name":"NEC CORPORATION OF AMERICA","slug":"nec-corporation-of-america","state":"TX","description":"Information and Communications Technology","totalSpending":1530000,"filings":27,"yearlySpending":[{"year":2019,"income":130000},{"year":2020,"income":200000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["ALPINE GROUP PARTNERS, LLC."],"lobbyists":["CORNELL TEAGUE","LAWRENCE SPIVEY","CURTIS PHILIP","KEENAN AUSTIN REED","ABBEY OVERLAND"],"issues":["BUD","DEF","HOM","LAW","SCI",null],"sampleDescriptions":["Bio-metric and facial recognition technology\nFY20 Appropriations","Bio-metric and facial recognition technology, FY20 DoD appropriations","FY20 DoD & DHS Appropriations","Bio-metric and facial recognition technology","FY20 DOD & DHS Appropriations","Bio-metric and facial recognition technology, FY20 DOD appropriations","FY21 DOD & DHS Appropriations","Bio-metric and facial recognition technology, FY21 DOD appropriations","Biometric and advanced recognition technology, FY21 DOD appropriations","Biometric and advanced recognition technology","Biometric and advanced recognition technology, FY22 DOD appropriations","FY22 DOD and DHS appropriations","FY23 DOD and DHS appropriations","Biometric and advanced recognition technology, FY23 DOD appropriations","FY25 DOD and DHS appropriations","FY25 and FY26 DOD and DHS Appropriations","FY26 DOD and DHS Appropriations"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 102172,
+  "name": "NEC CORPORATION OF AMERICA",
+  "slug": "nec-corporation-of-america",
+  "state": "TX",
+  "description": "Information and Communications Technology",
+  "totalSpending": 1530000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 130000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "ALPINE GROUP PARTNERS, LLC."
+  ],
+  "lobbyists": [
+    "CORNELL TEAGUE",
+    "LAWRENCE SPIVEY",
+    "CURTIS PHILIP",
+    "KEENAN AUSTIN REED",
+    "ABBEY OVERLAND"
+  ],
+  "issues": [
+    "BUD",
+    "DEF",
+    "HOM",
+    "LAW",
+    "SCI",
+    null
+  ],
+  "sampleDescriptions": [
+    "Bio-metric and facial recognition technology\nFY20 Appropriations",
+    "Bio-metric and facial recognition technology, FY20 DoD appropriations",
+    "FY20 DoD & DHS Appropriations",
+    "Bio-metric and facial recognition technology",
+    "FY20 DOD & DHS Appropriations",
+    "Bio-metric and facial recognition technology, FY20 DOD appropriations",
+    "FY21 DOD & DHS Appropriations",
+    "Bio-metric and facial recognition technology, FY21 DOD appropriations",
+    "Biometric and advanced recognition technology, FY21 DOD appropriations",
+    "Biometric and advanced recognition technology",
+    "Biometric and advanced recognition technology, FY22 DOD appropriations",
+    "FY22 DOD and DHS appropriations",
+    "FY23 DOD and DHS appropriations",
+    "Biometric and advanced recognition technology, FY23 DOD appropriations",
+    "FY25 DOD and DHS appropriations",
+    "FY25 and FY26 DOD and DHS Appropriations",
+    "FY26 DOD and DHS Appropriations"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 85,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 218571,
+  "peakYear": 2021,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 5
+}

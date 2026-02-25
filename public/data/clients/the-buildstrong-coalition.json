@@ -1,1 +1,73 @@
-{"id":172712,"name":"THE BUILDSTRONG COALITION","slug":"the-buildstrong-coalition","state":"DC","description":"Dedicated to stronger building codes to protect property and lives from Nat. Disasters","totalSpending":1760000,"filings":22,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":240000},{"year":2023,"income":320000}],"firms":["NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)"],"lobbyists":["PHILMORE ANDERSON","NATALIE ENCLADE"],"issues":["DIS",null],"sampleDescriptions":["General issues regarding pre disaster mitigation\nH.R. 4460, Disaster Recovery Reform Act\nH.R. 1892, Bipartisan Budget Act of 2018","General issues regarding pre disaster mitigation\nH.R.302 - FAA Reauthorization Act of 2018\nDisaster Recovery Reform Act\nH.R. 1892, Bipartisan Budget Act of 2018","General issues regarding pre-disaster mitigation\nH.R.302, FAA Reauthorization Act of 2018\nH.R.4460, Disaster Recovery Reform Act\nH.R. 1892, Bipartisan Budget Act of 2018","General issues regarding pre-disaster mitigation and building/infrastructure resilience.","General issues regarding disaster mitigation and building/infrastructure resilience.\nMonitoring issues related to infrastructure in the American Jobs Plan.","General issues regarding disaster mitigation and building/infrastructure resilience.\nMonitoring issues related to infrastructure in the American Jobs Plan and federal infrastructure reform package(s).","General issues regarding disaster mitigation and building/infrastructure resilience.\nMonitoring issues related to infrastructure in the American Jobs Plan and federal infrastructure reform package(s).\nH.R.5689 - Resilient AMERICA Act","General issues regarding disaster mitigation and building/infrastructure resilience. H.R.5689 - Resilient AMERICA Act"],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 172712,
+  "name": "THE BUILDSTRONG COALITION",
+  "slug": "the-buildstrong-coalition",
+  "state": "DC",
+  "description": "Dedicated to stronger building codes to protect property and lives from Nat. Disasters",
+  "totalSpending": 1760000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)"
+  ],
+  "lobbyists": [
+    "PHILMORE ANDERSON",
+    "NATALIE ENCLADE"
+  ],
+  "issues": [
+    "DIS",
+    null
+  ],
+  "sampleDescriptions": [
+    "General issues regarding pre disaster mitigation\nH.R. 4460, Disaster Recovery Reform Act\nH.R. 1892, Bipartisan Budget Act of 2018",
+    "General issues regarding pre disaster mitigation\nH.R.302 - FAA Reauthorization Act of 2018\nDisaster Recovery Reform Act\nH.R. 1892, Bipartisan Budget Act of 2018",
+    "General issues regarding pre-disaster mitigation\nH.R.302, FAA Reauthorization Act of 2018\nH.R.4460, Disaster Recovery Reform Act\nH.R. 1892, Bipartisan Budget Act of 2018",
+    "General issues regarding pre-disaster mitigation and building/infrastructure resilience.",
+    "General issues regarding disaster mitigation and building/infrastructure resilience.\nMonitoring issues related to infrastructure in the American Jobs Plan.",
+    "General issues regarding disaster mitigation and building/infrastructure resilience.\nMonitoring issues related to infrastructure in the American Jobs Plan and federal infrastructure reform package(s).",
+    "General issues regarding disaster mitigation and building/infrastructure resilience.\nMonitoring issues related to infrastructure in the American Jobs Plan and federal infrastructure reform package(s).\nH.R.5689 - Resilient AMERICA Act",
+    "General issues regarding disaster mitigation and building/infrastructure resilience. H.R.5689 - Resilient AMERICA Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 293333,
+  "peakYear": 2019,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "real-estate"
+}

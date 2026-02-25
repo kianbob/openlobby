@@ -1,1 +1,98 @@
-{"id":110145,"name":"WHITE MOUNTAIN APACHE TRIBE","slug":"white-mountain-apache-tribe","state":"AZ","description":"American Indian tribal entity","totalSpending":1470000,"filings":29,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":170000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["RYAN SMITH","SARAH MURRAY","JASON BUCKNER","KATE GONZALES","NADEAM ELSHAMI","BRIAN MCGUIRE","BELLA SEWALL WOLITZ"],"issues":["BUD","FIN","GOV",null],"sampleDescriptions":["Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System\nS. 140 - A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund\nIssues related to the financial operations of tribes, BIA law enforcement","Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System\nA bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund - PL 115-227\nIssues related to the financial operations of tribes, BIA law enforcement","Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System\nIssues related to the financial operations of tribes, BIA law enforcement\nDepartment of Corrections Facilities Management and Construction","Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement \nIssues related to the financial operations of tribes, BIA law enforcement\nDepartment of Corrections Facilities Management and Construction","Issues related to ERISA","CARES Act - Issues related to COVID-19 Relief","Issues related to COVID-19 relief","Issues related to COVID-19 relief\nH.R.133 - Consolidated Appropriations Act, 2021","Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement\nIssues related to the financial operations of tribes, BIA law enforcement                                                                     Department of Corrections Facilities Management and Construction","Issues related to COVID-19 Relief\nH.R.1319 - American Rescue Plan Act of 2021","Issues related to COVID-19 Relief","Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement\nIssues related to the financial operations of tribes, BIA law enforcement                                                                     Department of Corrections Facilities Management and Construction\nS.3168 HR5880 - A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes.","Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement Issues related to the financial operations of tribes, BIA law enforcement Department of Corrections Facilities Management and Construction S.3168 HR5880 - A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes.","Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement S. 3168/H.R.5880, A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes BIA law enforcement Department of Corrections facilities management and construction","Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement BIA law enforcement Department of Corrections Facilities Management and Construction S.3168 HR5880 - 117th Congress (2021-2022) A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes.","Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement BIA law enforcement Department of Corrections Facilities Management and Construction Funding for the White Mountain Apache Tribe Water Rights Quantification Funding for ESA management Forest Health Management"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110145,
+  "name": "WHITE MOUNTAIN APACHE TRIBE",
+  "slug": "white-mountain-apache-tribe",
+  "state": "AZ",
+  "description": "American Indian tribal entity",
+  "totalSpending": 1470000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 170000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "RYAN SMITH",
+    "SARAH MURRAY",
+    "JASON BUCKNER",
+    "KATE GONZALES",
+    "NADEAM ELSHAMI",
+    "BRIAN MCGUIRE",
+    "BELLA SEWALL WOLITZ"
+  ],
+  "issues": [
+    "BUD",
+    "FIN",
+    "GOV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System\nS. 140 - A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund\nIssues related to the financial operations of tribes, BIA law enforcement",
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System\nA bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund - PL 115-227\nIssues related to the financial operations of tribes, BIA law enforcement",
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System\nIssues related to the financial operations of tribes, BIA law enforcement\nDepartment of Corrections Facilities Management and Construction",
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement \nIssues related to the financial operations of tribes, BIA law enforcement\nDepartment of Corrections Facilities Management and Construction",
+    "Issues related to ERISA",
+    "CARES Act - Issues related to COVID-19 Relief",
+    "Issues related to COVID-19 relief",
+    "Issues related to COVID-19 relief\nH.R.133 - Consolidated Appropriations Act, 2021",
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement\nIssues related to the financial operations of tribes, BIA law enforcement                                                                     Department of Corrections Facilities Management and Construction",
+    "Issues related to COVID-19 Relief\nH.R.1319 - American Rescue Plan Act of 2021",
+    "Issues related to COVID-19 Relief",
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement\nIssues related to the financial operations of tribes, BIA law enforcement                                                                     Department of Corrections Facilities Management and Construction\nS.3168 HR5880 - A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes.",
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement Issues related to the financial operations of tribes, BIA law enforcement Department of Corrections Facilities Management and Construction S.3168 HR5880 - A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes.",
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement S. 3168/H.R.5880, A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes BIA law enforcement Department of Corrections facilities management and construction",
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement BIA law enforcement Department of Corrections Facilities Management and Construction S.3168 HR5880 - 117th Congress (2021-2022) A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes.",
+    "Federal appropriations and authorizations for the White Mountain Apache Tribe Rural Water System and water settlement BIA law enforcement Department of Corrections Facilities Management and Construction Funding for the White Mountain Apache Tribe Water Rights Quantification Funding for ESA management Forest Health Management"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -15,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 183750,
+  "peakYear": 2018,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

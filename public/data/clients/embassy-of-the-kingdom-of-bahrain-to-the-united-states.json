@@ -1,1 +1,71 @@
-{"id":106741,"name":"EMBASSY OF THE KINGDOM OF BAHRAIN TO THE UNITED STATES","slug":"embassy-of-the-kingdom-of-bahrain-to-the-united-states","state":"DC","description":"Embassy","totalSpending":4600000,"filings":23,"yearlySpending":[{"year":2018,"income":400000},{"year":2019,"income":800000},{"year":2020,"income":850000},{"year":2021,"income":820000},{"year":2022,"income":800000},{"year":2023,"income":930000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["EDWARD ROGERS","MAYA SEIDEN","MARK TAVLARIDES","DAVID URBAN","HUNTER STRUPP"],"issues":["FOR",null],"sampleDescriptions":["U.S.-Bahrain relations","Bilateral U.S.-Bahrain relations","Bilateral US-Bahrain relations"],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 106741,
+  "name": "EMBASSY OF THE KINGDOM OF BAHRAIN TO THE UNITED STATES",
+  "slug": "embassy-of-the-kingdom-of-bahrain-to-the-united-states",
+  "state": "DC",
+  "description": "Embassy",
+  "totalSpending": 4600000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 400000
+    },
+    {
+      "year": 2019,
+      "income": 800000
+    },
+    {
+      "year": 2020,
+      "income": 850000
+    },
+    {
+      "year": 2021,
+      "income": 820000
+    },
+    {
+      "year": 2022,
+      "income": 800000
+    },
+    {
+      "year": 2023,
+      "income": 930000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "EDWARD ROGERS",
+    "MAYA SEIDEN",
+    "MARK TAVLARIDES",
+    "DAVID URBAN",
+    "HUNTER STRUPP"
+  ],
+  "issues": [
+    "FOR",
+    null
+  ],
+  "sampleDescriptions": [
+    "U.S.-Bahrain relations",
+    "Bilateral U.S.-Bahrain relations",
+    "Bilateral US-Bahrain relations"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": 133,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 766667,
+  "peakYear": 2023,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

@@ -1,1 +1,95 @@
-{"id":103388,"name":"GENERAL DYNAMICS","slug":"general-dynamics","state":"VA","description":"Defense contractor.","totalSpending":1460000,"filings":30,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":180000},{"year":2023,"income":190000},{"year":2024,"income":200000},{"year":2025,"income":140000}],"firms":["AMERICAN DEFENSE INTERNATIONAL, INC."],"lobbyists":["MICHAEL HERSON","TODD HARMER","MATT WEINSTEIN","DAVID MYERS","JOSH MARTIN","CATHERINE EDMONSON","PATRICK LARGE","NEIL MCKIERNAN"],"issues":["DEF",null],"sampleDescriptions":["National Defense Authorization Act, provisions relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.\n\nDepartment of Defense Appropriations Act, provisions relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.","Meetings with officials relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.\n\nDepartment of Defense Appropriations Act, provisions relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.","Meetings with officials relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.","Issues related to the LCS program, Stryker program and foreign military sales.","Meetings with officials regarding Issues related to the United States Air Force Compass Call upgrades, the LCS program,  the Stryker program and foreign military sales.","Meetings with officials regarding Issues related to the United States Air Force Compass Call upgrades, the LCS program,  the Stryker program, vaccine development programs, and foreign military sales;\n\nMeetings with officials regarding defense industrial base and supply chain issues, and army ground vehicles","Issues related to the United States Air Force Compass Call upgrades, the LCS program, the Stryker program, vaccine development programs, foreign military sales, defense industrial base and supply chain issues, and army ground vehicles.","Issues relating to defense industrial base and supply chain, vaccines and submarine funding.","Issues related to submarine industrial base and Defense Information Systems Agency modernization programs\nDepartment of Defense Appropriations Act for FY22, provisions relating to Stryker.\nNational Defense Authorization Act for FY22, provisions relating to Stryker.\nIssues related to military vaccines programs and military cloud issues as well","Issues related to submarine industrial base and Defense Information Systems Agency modernization programs Department of Defense Appropriations Act for FY22, provisions relating to Stryker. National Defense Authorization Act for FY22, provisions relating to Stryker. Issues related to military vaccines programs and military cloud issues","Department of Defense Appropriations Act for FY23, issues related to submarine industrial base provisions and military vehicles.","Department of Defense Appropriations Act and National Defense Authorization Act (NDAA), issues relating to combat vehicles and submarine supplier industrial base and air traffic control software solutions..","Department of Defense Appropriations Act and National Defense Authorization Act (NDAA), issues relating to combat vehicles and submarine supplier industrial base and air traffic control software solutions. updates on congressional action on submarines, prep for HAC-D sessions","Department of Defense Appropriations Act and National Defense Authorization Act (NDAA), issues relating to combat vehicles and submarine supplier industrial base and air traffic control software solutions.","Department of Defense Appropriations Act and National Defense Authorization Act (NDAA), issues relating to combat vehicles, submarine supplier industrial base and air traffic control software solutions."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 103388,
+  "name": "GENERAL DYNAMICS",
+  "slug": "general-dynamics",
+  "state": "VA",
+  "description": "Defense contractor.",
+  "totalSpending": 1460000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 190000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 140000
+    }
+  ],
+  "firms": [
+    "AMERICAN DEFENSE INTERNATIONAL, INC."
+  ],
+  "lobbyists": [
+    "MICHAEL HERSON",
+    "TODD HARMER",
+    "MATT WEINSTEIN",
+    "DAVID MYERS",
+    "JOSH MARTIN",
+    "CATHERINE EDMONSON",
+    "PATRICK LARGE",
+    "NEIL MCKIERNAN"
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "National Defense Authorization Act, provisions relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.\n\nDepartment of Defense Appropriations Act, provisions relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.",
+    "Meetings with officials relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.\n\nDepartment of Defense Appropriations Act, provisions relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.",
+    "Meetings with officials relating to Navy/Air Force platforms, airborne radar, army communications systems, Navy ship building, electronic warfare systems and foreign military sales.",
+    "Issues related to the LCS program, Stryker program and foreign military sales.",
+    "Meetings with officials regarding Issues related to the United States Air Force Compass Call upgrades, the LCS program,  the Stryker program and foreign military sales.",
+    "Meetings with officials regarding Issues related to the United States Air Force Compass Call upgrades, the LCS program,  the Stryker program, vaccine development programs, and foreign military sales;\n\nMeetings with officials regarding defense industrial base and supply chain issues, and army ground vehicles",
+    "Issues related to the United States Air Force Compass Call upgrades, the LCS program, the Stryker program, vaccine development programs, foreign military sales, defense industrial base and supply chain issues, and army ground vehicles.",
+    "Issues relating to defense industrial base and supply chain, vaccines and submarine funding.",
+    "Issues related to submarine industrial base and Defense Information Systems Agency modernization programs\nDepartment of Defense Appropriations Act for FY22, provisions relating to Stryker.\nNational Defense Authorization Act for FY22, provisions relating to Stryker.\nIssues related to military vaccines programs and military cloud issues as well",
+    "Issues related to submarine industrial base and Defense Information Systems Agency modernization programs Department of Defense Appropriations Act for FY22, provisions relating to Stryker. National Defense Authorization Act for FY22, provisions relating to Stryker. Issues related to military vaccines programs and military cloud issues",
+    "Department of Defense Appropriations Act for FY23, issues related to submarine industrial base provisions and military vehicles.",
+    "Department of Defense Appropriations Act and National Defense Authorization Act (NDAA), issues relating to combat vehicles and submarine supplier industrial base and air traffic control software solutions..",
+    "Department of Defense Appropriations Act and National Defense Authorization Act (NDAA), issues relating to combat vehicles and submarine supplier industrial base and air traffic control software solutions. updates on congressional action on submarines, prep for HAC-D sessions",
+    "Department of Defense Appropriations Act and National Defense Authorization Act (NDAA), issues relating to combat vehicles and submarine supplier industrial base and air traffic control software solutions.",
+    "Department of Defense Appropriations Act and National Defense Authorization Act (NDAA), issues relating to combat vehicles, submarine supplier industrial base and air traffic control software solutions."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -30,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 182500,
+  "peakYear": 2018,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 1
+}

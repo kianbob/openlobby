@@ -1,1 +1,557 @@
-{"code":"HOU","name":"Housing","totalSpending":302271985.28,"totalFilings":13632,"yearlySpending":[{"year":2018,"income":26642551.48,"filings":1255},{"year":2019,"income":28504777,"filings":1451},{"year":2020,"income":30737932,"filings":1505},{"year":2021,"income":33466415,"filings":1669},{"year":2022,"income":40630097.7,"filings":1836},{"year":2023,"income":48212373.1,"filings":2024},{"year":2024,"income":42723001,"filings":1827},{"year":2025,"income":51354838,"filings":2065}],"topClients":[{"name":"LEADING BUILDERS OF AMERICA","income":6475000},{"name":"NATIONAL ASSOCIATION OF REALTORS","income":5170000},{"name":"CHRYSALIS HOLDINGS, INC. (D.B.A. NEWDAY)","income":4260000},{"name":"CITY AND COUNTY OF SAN FRANCISCO","income":4230000},{"name":"AFFORDABLE HOUSING DEVELOPERS COUNCIL","income":3260000},{"name":"CBC NATIONAL BANK MORTGAGE","income":2887500},{"name":"CAPTIAL FUNDING GROUP INC","income":2830000},{"name":"MORTGAGE BANKERS ASSOCIATION","income":2610000},{"name":"NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS","income":2440000},{"name":"ROCK CENTRAL","income":2440000},{"name":"CERBERUS CAPITAL MANAGEMENT, L.P.","income":2385000},{"name":"FREEDOM MORTGAGE CORPORATION","income":2210000},{"name":"LIBERTY MUTUAL GROUP","income":2190000},{"name":"ZILLOW INC","income":2170000},{"name":"COALITION FOR SUSTAINABLE MULTIFAMILY HOUSING","income":2160000},{"name":"MANUFACTURED HOUSING INSTITUTE","income":2133000},{"name":"SAN DIEGO COUNTY","income":2070000},{"name":"FEDERAL HOME LOAN BANK OF SAN FRANCISCO","income":2070000},{"name":"ARCH CAPITAL GROUP (U.S.) INC.","income":2060000},{"name":"HCBS ADVOCACY, LLC","income":2000000},{"name":"CITY OF OAKLAND","income":1909492},{"name":"CITY OF PHOENIX AZ","income":1890000},{"name":"FEDERAL HOME LOAN BANK OF NEW YORK","income":1860000},{"name":"NAREIT","income":1760000},{"name":"ALDEN TORCH FINANCIAL LLC","income":1750000},{"name":"NATIONAL RENTAL HOME COUNCIL","income":1620000},{"name":"CITY OF SEATTLE, WA","income":1560000},{"name":"MISSISSIPPI BAND OF CHOCTAW INDIANS","income":1530000},{"name":"AMERICAN LAND TITLE ASSOCIATION","income":1520000},{"name":"NATIONAL APARTMENT ASSOCIATION","income":1470000},{"name":"COUNTY OF ALAMEDA CALIFORNIA","income":1450000},{"name":"CHICKASAW NATION","income":1440000},{"name":"CMH SERVICES","income":1440000},{"name":"VOLUNTEERS OF AMERICA","income":1430000},{"name":"CITY OF SAN ANTONIO","income":1406750},{"name":"THE AMHERST GROUP, LLC","income":1370000},{"name":"COUNTY OF SAN BERNARDINO, CA","income":1336300},{"name":"CREA","income":1320000},{"name":"CLACKAMAS COUNTY, OR","income":1310000},{"name":"COHNREZNICK LLP","income":1300000},{"name":"THE AMERICAN INSTITUTE OF ARCHITECTS","income":1260000},{"name":"SAGENT M&C, LLC","income":1250000},{"name":"U.S. MORTGAGE INSURERS","income":1232500},{"name":"MORTGAGE RESEARCH CENTER, LLC","income":1210000},{"name":"MIAMI-DADE COUNTY FLORIDA","income":1200000},{"name":"CALIFORNIA STATE ASSOCIATION OF COUNTIES","income":1170000},{"name":"ENTERPRISE COMMUNITY PARTNERS, INC.","income":1160000},{"name":"CA STATE ASSEMBLY","income":1160000},{"name":"LOS ANGELES COUNTY DEVELOPMENT AUTHORITY","income":1130000},{"name":"DELOS LIVING, LLC","income":1123000}],"topFirms":[{"name":"HOLLAND & KNIGHT LLP","income":22600000},{"name":"MINDSET ADVOCACY, LLC","income":10400000},{"name":"MG HOUSING STRATEGIES LLC","income":8987500},{"name":"TOWNSEND PUBLIC AFFAIRS, INC","income":7926879},{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":7080000},{"name":"FEDERAL HALL POLICY ADVISORS, LLC","income":6410000},{"name":"THE MAJORITY GROUP, LLC","income":6232500},{"name":"INVARIANT LLC","income":6220000},{"name":"ACG ADVOCACY","income":6150000},{"name":"CAPITOL COUNSEL LLC","income":5810000},{"name":"VAN SCOYOC ASSOCIATES","income":5580000},{"name":"RICH FEUER ANDERSON","income":4910000},{"name":"PORTERFIELD, FETTIG & SEARS, LLC","income":4300000},{"name":"FORBES-TATE","income":4210000},{"name":"THE MADISON GROUP","income":3818500},{"name":"POTOMAC PARTNERS DC","income":3524800},{"name":"BALLARD PARTNERS","income":3410000},{"name":"THE OB-C GROUP, LLC","income":3400000},{"name":"SQUIRE PATTON BOGGS","income":3370000},{"name":"THE FERGUSON GROUP","income":3215000},{"name":"WINNING STRATEGIES WASHINGTON","income":3020000},{"name":"TIBER CREEK ASSOCIATES OF CAPITOL HILL, INC.","income":3005000},{"name":"THORN RUN PARTNERS","income":2940000},{"name":"GREENBERG TRAURIG, LLP","income":2930000},{"name":"GORDON THOMAS HONEYWELL GOVERNMENTAL AFFAIRS","income":2861000},{"name":"PARAGON GOVERNMENT RELATIONS","income":2750000},{"name":"MEHLMAN CONSULTING, INC.","income":2740000},{"name":"CGCN GROUP, LLC","income":2712540},{"name":"CJ LAKE, LLC","income":2710000},{"name":"MILLER STRATEGIES, LLC","income":2670000}],"sampleDescriptions":["Reform of government sponsored enterprises.","Affordable Housing","Issues related to Project-based Section 8 housing","Housing/rental affordability issues\nSupport expansion of low income housing tax credit","Issues related to barriers to housing production","Issues related to Veteran Housing.","Regulation of appraisers, including modernization of regulatory structure, including H.R. 2133, the \"Community Lending Enhancement and Regulatory Relief Act of 2017,\" and S.2155, the \"Economic Growth,","Issues relating to full and proper implementation of the Manufactured Housing Improvement Act of 2000, including finance related matters.","Inform members and staff of home mortgage issues facing consumers","Issues relating to the full and proper implementation of the Manufactured Housing Improvement Act of 2000 and relating matters, as well as issues relating to the full and proper implementation of the ","Continued to track and work on different GSE reform proposals and issues relating to capital requirements for the GSEs with key housing stakeholders. Continue to work on FHA policy issues impeding FHA","Continued to track and work on different GSE reform proposals and issues relating to capital requirements for the GSEs with key housing stakeholders.","FHA Loan Programs","MultiFamily Loan Issues, including FHA and GSEs","Reverse Mortgage Loan Issues","Housing and Community Development Issues","Issues Affecting Non-bank Community Mortgage Lenders","Issues affecting Mortgage Servicing and Student Loan Servicing","Changes to the Obama Administration Fair Housing Regulations.","Housing finance reform and operation of the Federal Housing Administration and the Federal government-sponsored housing enterprises, including H.R. 3556, the \"Taxpayer Protections and Market Access fo"]}
+{
+  "code": "HOU",
+  "name": "Housing",
+  "totalSpending": 302271985.28,
+  "totalFilings": 13632,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 26642551.48,
+      "filings": 1255
+    },
+    {
+      "year": 2019,
+      "income": 28504777,
+      "filings": 1451
+    },
+    {
+      "year": 2020,
+      "income": 30737932,
+      "filings": 1505
+    },
+    {
+      "year": 2021,
+      "income": 33466415,
+      "filings": 1669
+    },
+    {
+      "year": 2022,
+      "income": 40630097.7,
+      "filings": 1836
+    },
+    {
+      "year": 2023,
+      "income": 48212373.1,
+      "filings": 2024
+    },
+    {
+      "year": 2024,
+      "income": 42723001,
+      "filings": 1827
+    },
+    {
+      "year": 2025,
+      "income": 51354838,
+      "filings": 2065
+    }
+  ],
+  "topClients": [
+    {
+      "name": "LEADING BUILDERS OF AMERICA",
+      "income": 6475000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF REALTORS",
+      "income": 5170000
+    },
+    {
+      "name": "CHRYSALIS HOLDINGS, INC. (D.B.A. NEWDAY)",
+      "income": 4260000
+    },
+    {
+      "name": "CITY AND COUNTY OF SAN FRANCISCO",
+      "income": 4230000
+    },
+    {
+      "name": "AFFORDABLE HOUSING DEVELOPERS COUNCIL",
+      "income": 3260000
+    },
+    {
+      "name": "CBC NATIONAL BANK MORTGAGE",
+      "income": 2887500
+    },
+    {
+      "name": "CAPTIAL FUNDING GROUP INC",
+      "income": 2830000
+    },
+    {
+      "name": "MORTGAGE BANKERS ASSOCIATION",
+      "income": 2610000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS",
+      "income": 2440000
+    },
+    {
+      "name": "ROCK CENTRAL",
+      "income": 2440000
+    },
+    {
+      "name": "CERBERUS CAPITAL MANAGEMENT, L.P.",
+      "income": 2385000
+    },
+    {
+      "name": "FREEDOM MORTGAGE CORPORATION",
+      "income": 2210000
+    },
+    {
+      "name": "LIBERTY MUTUAL GROUP",
+      "income": 2190000
+    },
+    {
+      "name": "ZILLOW INC",
+      "income": 2170000
+    },
+    {
+      "name": "COALITION FOR SUSTAINABLE MULTIFAMILY HOUSING",
+      "income": 2160000
+    },
+    {
+      "name": "MANUFACTURED HOUSING INSTITUTE",
+      "income": 2133000
+    },
+    {
+      "name": "SAN DIEGO COUNTY",
+      "income": 2070000
+    },
+    {
+      "name": "FEDERAL HOME LOAN BANK OF SAN FRANCISCO",
+      "income": 2070000
+    },
+    {
+      "name": "ARCH CAPITAL GROUP (U.S.) INC.",
+      "income": 2060000
+    },
+    {
+      "name": "HCBS ADVOCACY, LLC",
+      "income": 2000000
+    },
+    {
+      "name": "CITY OF OAKLAND",
+      "income": 1909492
+    },
+    {
+      "name": "CITY OF PHOENIX AZ",
+      "income": 1890000
+    },
+    {
+      "name": "FEDERAL HOME LOAN BANK OF NEW YORK",
+      "income": 1860000
+    },
+    {
+      "name": "NAREIT",
+      "income": 1760000
+    },
+    {
+      "name": "ALDEN TORCH FINANCIAL LLC",
+      "income": 1750000
+    },
+    {
+      "name": "NATIONAL RENTAL HOME COUNCIL",
+      "income": 1620000
+    },
+    {
+      "name": "CITY OF SEATTLE, WA",
+      "income": 1560000
+    },
+    {
+      "name": "MISSISSIPPI BAND OF CHOCTAW INDIANS",
+      "income": 1530000
+    },
+    {
+      "name": "AMERICAN LAND TITLE ASSOCIATION",
+      "income": 1520000
+    },
+    {
+      "name": "NATIONAL APARTMENT ASSOCIATION",
+      "income": 1470000
+    },
+    {
+      "name": "COUNTY OF ALAMEDA CALIFORNIA",
+      "income": 1450000
+    },
+    {
+      "name": "CHICKASAW NATION",
+      "income": 1440000
+    },
+    {
+      "name": "CMH SERVICES",
+      "income": 1440000
+    },
+    {
+      "name": "VOLUNTEERS OF AMERICA",
+      "income": 1430000
+    },
+    {
+      "name": "CITY OF SAN ANTONIO",
+      "income": 1406750
+    },
+    {
+      "name": "THE AMHERST GROUP, LLC",
+      "income": 1370000
+    },
+    {
+      "name": "COUNTY OF SAN BERNARDINO, CA",
+      "income": 1336300
+    },
+    {
+      "name": "CREA",
+      "income": 1320000
+    },
+    {
+      "name": "CLACKAMAS COUNTY, OR",
+      "income": 1310000
+    },
+    {
+      "name": "COHNREZNICK LLP",
+      "income": 1300000
+    },
+    {
+      "name": "THE AMERICAN INSTITUTE OF ARCHITECTS",
+      "income": 1260000
+    },
+    {
+      "name": "SAGENT M&C, LLC",
+      "income": 1250000
+    },
+    {
+      "name": "U.S. MORTGAGE INSURERS",
+      "income": 1232500
+    },
+    {
+      "name": "MORTGAGE RESEARCH CENTER, LLC",
+      "income": 1210000
+    },
+    {
+      "name": "MIAMI-DADE COUNTY FLORIDA",
+      "income": 1200000
+    },
+    {
+      "name": "CALIFORNIA STATE ASSOCIATION OF COUNTIES",
+      "income": 1170000
+    },
+    {
+      "name": "ENTERPRISE COMMUNITY PARTNERS, INC.",
+      "income": 1160000
+    },
+    {
+      "name": "CA STATE ASSEMBLY",
+      "income": 1160000
+    },
+    {
+      "name": "LOS ANGELES COUNTY DEVELOPMENT AUTHORITY",
+      "income": 1130000
+    },
+    {
+      "name": "DELOS LIVING, LLC",
+      "income": 1123000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 22600000
+    },
+    {
+      "name": "MINDSET ADVOCACY, LLC",
+      "income": 10400000
+    },
+    {
+      "name": "MG HOUSING STRATEGIES LLC",
+      "income": 8987500
+    },
+    {
+      "name": "TOWNSEND PUBLIC AFFAIRS, INC",
+      "income": 7926879
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 7080000
+    },
+    {
+      "name": "FEDERAL HALL POLICY ADVISORS, LLC",
+      "income": 6410000
+    },
+    {
+      "name": "THE MAJORITY GROUP, LLC",
+      "income": 6232500
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 6220000
+    },
+    {
+      "name": "ACG ADVOCACY",
+      "income": 6150000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 5810000
+    },
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 5580000
+    },
+    {
+      "name": "RICH FEUER ANDERSON",
+      "income": 4910000
+    },
+    {
+      "name": "PORTERFIELD, FETTIG & SEARS, LLC",
+      "income": 4300000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 4210000
+    },
+    {
+      "name": "THE MADISON GROUP",
+      "income": 3818500
+    },
+    {
+      "name": "POTOMAC PARTNERS DC",
+      "income": 3524800
+    },
+    {
+      "name": "BALLARD PARTNERS",
+      "income": 3410000
+    },
+    {
+      "name": "THE OB-C GROUP, LLC",
+      "income": 3400000
+    },
+    {
+      "name": "SQUIRE PATTON BOGGS",
+      "income": 3370000
+    },
+    {
+      "name": "THE FERGUSON GROUP",
+      "income": 3215000
+    },
+    {
+      "name": "WINNING STRATEGIES WASHINGTON",
+      "income": 3020000
+    },
+    {
+      "name": "TIBER CREEK ASSOCIATES OF CAPITOL HILL, INC.",
+      "income": 3005000
+    },
+    {
+      "name": "THORN RUN PARTNERS",
+      "income": 2940000
+    },
+    {
+      "name": "GREENBERG TRAURIG, LLP",
+      "income": 2930000
+    },
+    {
+      "name": "GORDON THOMAS HONEYWELL GOVERNMENTAL AFFAIRS",
+      "income": 2861000
+    },
+    {
+      "name": "PARAGON GOVERNMENT RELATIONS",
+      "income": 2750000
+    },
+    {
+      "name": "MEHLMAN CONSULTING, INC.",
+      "income": 2740000
+    },
+    {
+      "name": "CGCN GROUP, LLC",
+      "income": 2712540
+    },
+    {
+      "name": "CJ LAKE, LLC",
+      "income": 2710000
+    },
+    {
+      "name": "MILLER STRATEGIES, LLC",
+      "income": 2670000
+    }
+  ],
+  "sampleDescriptions": [
+    "Reform of government sponsored enterprises.",
+    "Affordable Housing",
+    "Issues related to Project-based Section 8 housing",
+    "Housing/rental affordability issues\nSupport expansion of low income housing tax credit",
+    "Issues related to barriers to housing production",
+    "Issues related to Veteran Housing.",
+    "Regulation of appraisers, including modernization of regulatory structure, including H.R. 2133, the \"Community Lending Enhancement and Regulatory Relief Act of 2017,\" and S.2155, the \"Economic Growth,",
+    "Issues relating to full and proper implementation of the Manufactured Housing Improvement Act of 2000, including finance related matters.",
+    "Inform members and staff of home mortgage issues facing consumers",
+    "Issues relating to the full and proper implementation of the Manufactured Housing Improvement Act of 2000 and relating matters, as well as issues relating to the full and proper implementation of the ",
+    "Continued to track and work on different GSE reform proposals and issues relating to capital requirements for the GSEs with key housing stakeholders. Continue to work on FHA policy issues impeding FHA",
+    "Continued to track and work on different GSE reform proposals and issues relating to capital requirements for the GSEs with key housing stakeholders.",
+    "FHA Loan Programs",
+    "MultiFamily Loan Issues, including FHA and GSEs",
+    "Reverse Mortgage Loan Issues",
+    "Housing and Community Development Issues",
+    "Issues Affecting Non-bank Community Mortgage Lenders",
+    "Issues affecting Mortgage Servicing and Student Loan Servicing",
+    "Changes to the Obama Administration Fair Housing Regulations.",
+    "Housing finance reform and operation of the Federal Housing Administration and the Federal government-sponsored housing enterprises, including H.R. 3556, the \"Taxpayer Protections and Market Access fo"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 286,
+      "spending": 6829109.014611234
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 317,
+      "spending": 5815967.096612893
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 299,
+      "spending": 6259158.266834242
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 353,
+      "spending": 7563540.629321469
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 352,
+      "spending": 6998686.681989398
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 405,
+      "spending": 8390687.976994831
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 317,
+      "spending": 6775776.148114791
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 377,
+      "spending": 7352357.490732116
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 344,
+      "spending": 7619556.951872628
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 362,
+      "spending": 8347807.825200347
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 421,
+      "spending": 7955629.221131956
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 378,
+      "spending": 8842135.298931193
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 338,
+      "spending": 6851844.248308332
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 430,
+      "spending": 9860001.220831024
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 440,
+      "spending": 8911715.275544195
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 461,
+      "spending": 8769730.261213435
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 414,
+      "spending": 8898367.265278146
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 483,
+      "spending": 11387401.784091601
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 475,
+      "spending": 10433286.778600415
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 464,
+      "spending": 11776066.425389523
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 521,
+      "spending": 12731796.87124286
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 507,
+      "spending": 13119490.132262833
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 507,
+      "spending": 12125812.953215053
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 489,
+      "spending": 14083095.415945694
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 411,
+      "spending": 10516542.319050392
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 502,
+      "spending": 12689331.525798334
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 455,
+      "spending": 11086334.891100965
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 459,
+      "spending": 12713975.44221411
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 437,
+      "spending": 10716470.61728024
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 574,
+      "spending": 14941219.73244308
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 500,
+      "spending": 12890375.75700586
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 554,
+      "spending": 13032868.811067777
+    }
+  ],
+  "totalEstimatedSpending": 316286140
+}

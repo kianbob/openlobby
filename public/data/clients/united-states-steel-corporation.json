@@ -1,1 +1,57 @@
-{"id":204227,"name":"UNITED STATES STEEL CORPORATION","slug":"united-states-steel-corporation","state":"PA","description":"Steel production.","totalSpending":2830000,"filings":10,"yearlySpending":[{"year":2020,"income":30000},{"year":2024,"income":1680000},{"year":2025,"income":1120000}],"firms":["HOGAN LOVELLS US LLP"],"lobbyists":["AARON CUTLER","MICHAEL BELL","NORM COLEMAN","TIMOTHY BERGREEN","EDUARDO ZAPIEN"],"issues":["TAX","MAN"],"sampleDescriptions":["COVID-19 related issues and implementation of the CARES Act (H.R. 748).","Proposed combination with Nippon Steel Corporation","Issues related to the proposed investment in U. S. Steel by Nippon Steel Corporation, including necessary federal regulatory reviews (Antitrust, CFIUS) - no specific legislation.","Issues related to the proposed investment in U.S. Steel by Nippon Steel Corporation, including necessary federal regulatory reviews (Antitrust, CFIUS) - no specific legislation.","Issues related to the proposed investment in U.S. Steel by Nippon Steel Corporation, including necessary federal regulatory reviews (Antitrust, CFIUS) no specific legislation."],"years":[2020,2024,2025]}
+{
+  "id": 204227,
+  "name": "UNITED STATES STEEL CORPORATION",
+  "slug": "united-states-steel-corporation",
+  "state": "PA",
+  "description": "Steel production.",
+  "totalSpending": 2830000,
+  "filings": 10,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 30000
+    },
+    {
+      "year": 2024,
+      "income": 1680000
+    },
+    {
+      "year": 2025,
+      "income": 1120000
+    }
+  ],
+  "firms": [
+    "HOGAN LOVELLS US LLP"
+  ],
+  "lobbyists": [
+    "AARON CUTLER",
+    "MICHAEL BELL",
+    "NORM COLEMAN",
+    "TIMOTHY BERGREEN",
+    "EDUARDO ZAPIEN"
+  ],
+  "issues": [
+    "TAX",
+    "MAN"
+  ],
+  "sampleDescriptions": [
+    "COVID-19 related issues and implementation of the CARES Act (H.R. 748).",
+    "Proposed combination with Nippon Steel Corporation",
+    "Issues related to the proposed investment in U. S. Steel by Nippon Steel Corporation, including necessary federal regulatory reviews (Antitrust, CFIUS) - no specific legislation.",
+    "Issues related to the proposed investment in U.S. Steel by Nippon Steel Corporation, including necessary federal regulatory reviews (Antitrust, CFIUS) - no specific legislation.",
+    "Issues related to the proposed investment in U.S. Steel by Nippon Steel Corporation, including necessary federal regulatory reviews (Antitrust, CFIUS) no specific legislation."
+  ],
+  "years": [
+    2020,
+    2024,
+    2025
+  ],
+  "growthRate": 3633,
+  "trajectory": "exploding",
+  "yearsActive": 3,
+  "avgAnnualSpending": 943333,
+  "peakYear": 2024,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2
+}

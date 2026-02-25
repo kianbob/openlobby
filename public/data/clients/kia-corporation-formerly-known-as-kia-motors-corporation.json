@@ -1,1 +1,79 @@
-{"id":151846,"name":"KIA CORPORATION (FORMERLY KNOWN AS KIA MOTORS CORPORATION)","slug":"kia-corporation-formerly-known-as-kia-motors-corporation","state":"DC","description":"Automotive manufacturing and sales","totalSpending":1570000,"filings":25,"yearlySpending":[{"year":2018,"income":80000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":300000},{"year":2024,"income":240000},{"year":2025,"income":50000}],"firms":["WILMER CUTLER PICKERING HALE AND DORR LLP"],"lobbyists":["ROBERT LEHMAN","TIMOTHY MARTIN","DAVID ROSS","ERICA RHODES","JONATHAN YAROWSKY","JEFFREY WIEAND"],"issues":["AUT",null],"sampleDescriptions":["Issues related to automotive manufacturing and automotive sales"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 151846,
+  "name": "KIA CORPORATION (FORMERLY KNOWN AS KIA MOTORS CORPORATION)",
+  "slug": "kia-corporation-formerly-known-as-kia-motors-corporation",
+  "state": "DC",
+  "description": "Automotive manufacturing and sales",
+  "totalSpending": 1570000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 80000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 50000
+    }
+  ],
+  "firms": [
+    "WILMER CUTLER PICKERING HALE AND DORR LLP"
+  ],
+  "lobbyists": [
+    "ROBERT LEHMAN",
+    "TIMOTHY MARTIN",
+    "DAVID ROSS",
+    "ERICA RHODES",
+    "JONATHAN YAROWSKY",
+    "JEFFREY WIEAND"
+  ],
+  "issues": [
+    "AUT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to automotive manufacturing and automotive sales"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -37,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 196250,
+  "peakYear": 2023,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1
+}

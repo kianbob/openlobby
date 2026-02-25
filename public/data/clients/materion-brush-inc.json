@@ -1,1 +1,107 @@
-{"id":184270,"name":"MATERION BRUSH INC.","slug":"materion-brush-inc","state":"OH","description":"supplier of engineered materials including beryllium-based products","totalSpending":4240000,"filings":32,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":510000},{"year":2020,"income":480000},{"year":2021,"income":560000},{"year":2022,"income":700000},{"year":2023,"income":600000},{"year":2024,"income":610000},{"year":2025,"income":600000}],"firms":["J.A. GREEN AND COMPANY","J.A. GREEN AND COMPANY (FORMERLY LLC)"],"lobbyists":["JEFFERY GREEN","GEORGE CALDWELL","CHRISTOPHER MINAKOWSKI","DAVID FURNESS","LEONOR TOMERO","SHANNON GREEN","KARSTEN HECKL","EDWARD CROSSMAN","JACKSON CARTWRIGHT"],"issues":["DEF","LBR","BUD","TRD","ENG",null,"TAX"],"sampleDescriptions":["National Defense Authorization Act for Fiscal Year 2019; issues related to beryllium production; Defense Appropriations Act for Fiscal Year 2019","Issues related to beryllium production","Issues related to beryllium production, National Defense Authorization Act FY20, Defense Appropriations Act FY20, Energy and Water Appropriations Act FY20","Issues related to beryllium production, National Defense Authorization Act FY20, Defense Appropriations Act FY20, Energy and Water Appropriations FY20","Issues related to beryllium production, National Defense Authorization Act FY20, Defense Appropriation Act FY20, Energy & Water Appropriations FY20","Issues related to beryllium production, National Defense Authorization Act FY20, Defense Appropriation Act FY20","Issues related to beryllium production, National Defense Authorization Act FY20 - H.R. 2500, Defense Appropriations FY20 - H.R. 2968, E&W Appropriation - H.R. 2960","Issues related to beryllium production, National Defense Authorization Act FY20 - H.R. 2500, Defense Appropriation Act FY20 - H.R. 2968","Issues related to beryllium production, National Defense Authorization Act FY20 - H.R. 2500, Defense Appropriations FY20 - H.R. 2968, S. 2474, E&W Appropriation - H.R. 2960","Issues related to beryllium production, National Defense Authorization Act FY20 - H.R. 2500, Defense Appropriation Act FY20 - H.R. 2968, S. 2474","Issues related to beryllium production.","Issues related to beryllium production; NDAA FY20 - H.R. 2500, Defense Approps FY20 - H.R. 2968, E&W Appropriation - H.R. 2960","Issues related to beryllium production; FY21 Defense Appropriations, FY21 Energy & Water Appropriations","Issues related to beryllium production and issues related to rare earths; FY21 Defense Appropriations, FY21 Energy & Water Appropriations","Issues related to beryllium production;FY21 Defense Appropriations, FY21 Energy & Water Appropriations","Issues related to beryllium production; FY22 Defense Appropriations, FY22 Energy & Water Appropriations","Issues related to beryllium production and issues related to rare earths; FY22 Defense Appropriations, FY22 Energy & Water Appropriations","Issues related to beryllium production; FY22 Defense Appropriations, H.R. 4322; FY22 Energy & Water Appropriations","Issues related to beryllium production and issues related to rare earths; FY22 Defense Appropriations, H.R. 4322; FY22 Energy & Water Appropriations","Issues related to beryllium production; issues related to rare earths;FY23 Defense Appropriations, FY23 Energy & Water Appropriations"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184270,
+  "name": "MATERION BRUSH INC.",
+  "slug": "materion-brush-inc",
+  "state": "OH",
+  "description": "supplier of engineered materials including beryllium-based products",
+  "totalSpending": 4240000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 510000
+    },
+    {
+      "year": 2020,
+      "income": 480000
+    },
+    {
+      "year": 2021,
+      "income": 560000
+    },
+    {
+      "year": 2022,
+      "income": 700000
+    },
+    {
+      "year": 2023,
+      "income": 600000
+    },
+    {
+      "year": 2024,
+      "income": 610000
+    },
+    {
+      "year": 2025,
+      "income": 600000
+    }
+  ],
+  "firms": [
+    "J.A. GREEN AND COMPANY",
+    "J.A. GREEN AND COMPANY (FORMERLY LLC)"
+  ],
+  "lobbyists": [
+    "JEFFERY GREEN",
+    "GEORGE CALDWELL",
+    "CHRISTOPHER MINAKOWSKI",
+    "DAVID FURNESS",
+    "LEONOR TOMERO",
+    "SHANNON GREEN",
+    "KARSTEN HECKL",
+    "EDWARD CROSSMAN",
+    "JACKSON CARTWRIGHT"
+  ],
+  "issues": [
+    "DEF",
+    "LBR",
+    "BUD",
+    "TRD",
+    "ENG",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "National Defense Authorization Act for Fiscal Year 2019; issues related to beryllium production; Defense Appropriations Act for Fiscal Year 2019",
+    "Issues related to beryllium production",
+    "Issues related to beryllium production, National Defense Authorization Act FY20, Defense Appropriations Act FY20, Energy and Water Appropriations Act FY20",
+    "Issues related to beryllium production, National Defense Authorization Act FY20, Defense Appropriations Act FY20, Energy and Water Appropriations FY20",
+    "Issues related to beryllium production, National Defense Authorization Act FY20, Defense Appropriation Act FY20, Energy & Water Appropriations FY20",
+    "Issues related to beryllium production, National Defense Authorization Act FY20, Defense Appropriation Act FY20",
+    "Issues related to beryllium production, National Defense Authorization Act FY20 - H.R. 2500, Defense Appropriations FY20 - H.R. 2968, E&W Appropriation - H.R. 2960",
+    "Issues related to beryllium production, National Defense Authorization Act FY20 - H.R. 2500, Defense Appropriation Act FY20 - H.R. 2968",
+    "Issues related to beryllium production, National Defense Authorization Act FY20 - H.R. 2500, Defense Appropriations FY20 - H.R. 2968, S. 2474, E&W Appropriation - H.R. 2960",
+    "Issues related to beryllium production, National Defense Authorization Act FY20 - H.R. 2500, Defense Appropriation Act FY20 - H.R. 2968, S. 2474",
+    "Issues related to beryllium production.",
+    "Issues related to beryllium production; NDAA FY20 - H.R. 2500, Defense Approps FY20 - H.R. 2968, E&W Appropriation - H.R. 2960",
+    "Issues related to beryllium production; FY21 Defense Appropriations, FY21 Energy & Water Appropriations",
+    "Issues related to beryllium production and issues related to rare earths; FY21 Defense Appropriations, FY21 Energy & Water Appropriations",
+    "Issues related to beryllium production;FY21 Defense Appropriations, FY21 Energy & Water Appropriations",
+    "Issues related to beryllium production; FY22 Defense Appropriations, FY22 Energy & Water Appropriations",
+    "Issues related to beryllium production and issues related to rare earths; FY22 Defense Appropriations, FY22 Energy & Water Appropriations",
+    "Issues related to beryllium production; FY22 Defense Appropriations, H.R. 4322; FY22 Energy & Water Appropriations",
+    "Issues related to beryllium production and issues related to rare earths; FY22 Defense Appropriations, H.R. 4322; FY22 Energy & Water Appropriations",
+    "Issues related to beryllium production; issues related to rare earths;FY23 Defense Appropriations, FY23 Energy & Water Appropriations"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 233,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 530000,
+  "peakYear": 2022,
+  "lobbyistCount": 9,
+  "firmCount": 2,
+  "issueCount": 6
+}

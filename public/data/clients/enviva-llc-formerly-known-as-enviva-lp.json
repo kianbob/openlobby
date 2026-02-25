@@ -1,1 +1,106 @@
-{"id":182952,"name":"ENVIVA LLC (FORMERLY KNOWN AS ENVIVA LP)","slug":"enviva-llc-formerly-known-as-enviva-lp","state":"MD","description":"Wood pellet manufacturing","totalSpending":1690000,"filings":31,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":320000},{"year":2020,"income":230000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":120000}],"firms":["MONUMENT ADVOCACY"],"lobbyists":["E. ASHLEY HOY","JOHN MULLIGAN","THOMAS HAWKS","TIMOTHY PUNKE","STACEY HUTCHINSON","LILIA HORDER","KIMBERLY ELLIS","LAWRENCE DUNCAN","NICK MINER"],"issues":["ENV","ENG","MAN","TRD","TAX","FUE",null],"sampleDescriptions":["Environmental regulatory issues","Issues related to renewable energy and working forest management","Introduction to the company and issues related to the manufacturing industry, specifically the forest products sector, manufacturing of wood pellets, and regulatory changes related to COVID 19 and economic recovery","Introduction to the company and issues related to the manufacturing industry, specifically the forest products sector, manufacturing of wood pellets, and regulatory changes related to COVID 19 and economic recovery; H.R. 133 - FY 2021 Omnibus and Covid Relief and Response Act","Issues related to Japans Ministry of Economy, Trade and Industry (METI) feed-in tariff (FIT) program","Introduction to the company and issues related to the manufacturing industry, specifically the forest products sector, manufacturing of wood pellets","Issues related to Germanys treatment of wood bioenergy as it relates subsidies","Issues related to renewable energy and working forest management; H.R. 9036; H.R. 1512 - Clean Future Act","Issues related to Germany treatment of bioenergy as it relates to subsidies; issues related to Japans Ministry of Economy, Trade and Industry (METI) feed-in tariff (FIT) program)","Issues related to H.R. 9036; S. 1191 / H.R. 3251 - BTU Act of 2021","Issues related to renewable energy and working forest management; H.R. 1512 - Clean Future Act; R 5376, support for a clean energy transition that is inclusive of all clean energy technologies","Issues related to H.R. 9036; H.R. 5899, Biomass and Biogas Electric Vehicles Act","Issues related to sustainable aviation fuel production","Issues related to renewable energy and working forest management; H.R. 5376, support for a clean energy transition that is inclusive of all clean energy technologies","Issues related to renewable wood energy exports","Issues related to renewable energy and working forest management; energy security","Issues related to renewable wood energy exports; energy security.","Introduction to the company and issues related to the manufacturing industry, specifically the forest products sector, manufacturing of wood pellets.","Issues related to sustainable aviation fuel production.","Issues related to renewable energy and working forest management; energy security."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 182952,
+  "name": "ENVIVA LLC (FORMERLY KNOWN AS ENVIVA LP)",
+  "slug": "enviva-llc-formerly-known-as-enviva-lp",
+  "state": "MD",
+  "description": "Wood pellet manufacturing",
+  "totalSpending": 1690000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 230000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "MONUMENT ADVOCACY"
+  ],
+  "lobbyists": [
+    "E. ASHLEY HOY",
+    "JOHN MULLIGAN",
+    "THOMAS HAWKS",
+    "TIMOTHY PUNKE",
+    "STACEY HUTCHINSON",
+    "LILIA HORDER",
+    "KIMBERLY ELLIS",
+    "LAWRENCE DUNCAN",
+    "NICK MINER"
+  ],
+  "issues": [
+    "ENV",
+    "ENG",
+    "MAN",
+    "TRD",
+    "TAX",
+    "FUE",
+    null
+  ],
+  "sampleDescriptions": [
+    "Environmental regulatory issues",
+    "Issues related to renewable energy and working forest management",
+    "Introduction to the company and issues related to the manufacturing industry, specifically the forest products sector, manufacturing of wood pellets, and regulatory changes related to COVID 19 and economic recovery",
+    "Introduction to the company and issues related to the manufacturing industry, specifically the forest products sector, manufacturing of wood pellets, and regulatory changes related to COVID 19 and economic recovery; H.R. 133 - FY 2021 Omnibus and Covid Relief and Response Act",
+    "Issues related to Japans Ministry of Economy, Trade and Industry (METI) feed-in tariff (FIT) program",
+    "Introduction to the company and issues related to the manufacturing industry, specifically the forest products sector, manufacturing of wood pellets",
+    "Issues related to Germanys treatment of wood bioenergy as it relates subsidies",
+    "Issues related to renewable energy and working forest management; H.R. 9036; H.R. 1512 - Clean Future Act",
+    "Issues related to Germany treatment of bioenergy as it relates to subsidies; issues related to Japans Ministry of Economy, Trade and Industry (METI) feed-in tariff (FIT) program)",
+    "Issues related to H.R. 9036; S. 1191 / H.R. 3251 - BTU Act of 2021",
+    "Issues related to renewable energy and working forest management; H.R. 1512 - Clean Future Act; R 5376, support for a clean energy transition that is inclusive of all clean energy technologies",
+    "Issues related to H.R. 9036; H.R. 5899, Biomass and Biogas Electric Vehicles Act",
+    "Issues related to sustainable aviation fuel production",
+    "Issues related to renewable energy and working forest management; H.R. 5376, support for a clean energy transition that is inclusive of all clean energy technologies",
+    "Issues related to renewable wood energy exports",
+    "Issues related to renewable energy and working forest management; energy security",
+    "Issues related to renewable wood energy exports; energy security.",
+    "Introduction to the company and issues related to the manufacturing industry, specifically the forest products sector, manufacturing of wood pellets.",
+    "Issues related to sustainable aviation fuel production.",
+    "Issues related to renewable energy and working forest management; energy security."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -62,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 211250,
+  "peakYear": 2018,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 6
+}

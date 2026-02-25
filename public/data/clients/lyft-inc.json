@@ -1,1 +1,83 @@
-{"id":173139,"name":"LYFT INC.","slug":"lyft-inc","state":"CA","description":"A mobile phone application company that facilitates peer-to-peer ride sharing.","totalSpending":1350000,"filings":29,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":200000},{"year":2020,"income":190000},{"year":2021,"income":200000},{"year":2022,"income":210000},{"year":2023,"income":200000},{"year":2024,"income":80000},{"year":2025,"income":120000}],"firms":["FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)"],"lobbyists":["GREGG ROTHSCHILD","CATHARINE RANSOM","JOSHUA GROSS","PAUL POTEET","MIKE IGER","NICK SUTTER","LAUREN MARSHALL","ROB MEJIA"],"issues":["TRA","TAX",null,"LBR"],"sampleDescriptions":["Lobbying related to issues impacting transportation network companies."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 173139,
+  "name": "LYFT INC.",
+  "slug": "lyft-inc",
+  "state": "CA",
+  "description": "A mobile phone application company that facilitates peer-to-peer ride sharing.",
+  "totalSpending": 1350000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 190000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 210000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 80000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)"
+  ],
+  "lobbyists": [
+    "GREGG ROTHSCHILD",
+    "CATHARINE RANSOM",
+    "JOSHUA GROSS",
+    "PAUL POTEET",
+    "MIKE IGER",
+    "NICK SUTTER",
+    "LAUREN MARSHALL",
+    "ROB MEJIA"
+  ],
+  "issues": [
+    "TRA",
+    "TAX",
+    null,
+    "LBR"
+  ],
+  "sampleDescriptions": [
+    "Lobbying related to issues impacting transportation network companies."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 168750,
+  "peakYear": 2022,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 3
+}

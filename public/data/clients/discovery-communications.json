@@ -1,1 +1,90 @@
-{"id":163121,"name":"DISCOVERY COMMUNICATIONS","slug":"discovery-communications","state":"MD","description":"Global mass media and entertainment company","totalSpending":1620000,"filings":27,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":120000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":180000}],"firms":["CAPITOL TAX PARTNERS, LLP"],"lobbyists":["JONATHAN TALISMAN","RANDOLPH HERNDON","SARAH SHIVE","KATHERINE MONGE","CAROLINE HARRIS"],"issues":["TAX",null],"sampleDescriptions":["Issues related to tax reform and affecting the film and television industry, including H.R. 1892, Bipartisan Budget Act of 2018.","Issues related to tax reform and affecting the film and television industry.","Issues affecting the film and television industry and regarding Tax Cuts & Jobs Act.","Issues affecting the film and television industry, international tax, and regarding Tax Cuts & Jobs Act.","Issues affecting the film and television industry including H.R. 133, Consolidated Appropriations Act, 2021, international tax, and regarding Tax Cuts & Jobs Act.","Issues affecting the &#239;&#172;�lm and television industry.","Issues affecting the &#239;&#172;�lm and television industry and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.","Issues affecting the ﬁlm and television industry and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.","Issues affecting the ﬁlm and television industry and the Inflation Reduction Act.","Issues affecting the film and television industry including International tax and the Inflation Reduction Act, and H.R. 7024, Tax Relief for American Families and Workers Act of 2024.","Issues affecting the film and television industry including H.R. 1, 2025 Budget Reconciliation Bill.","Issues affecting the film and television industry including P.L. 119-21.","Issues affecting the film and television industry."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 163121,
+  "name": "DISCOVERY COMMUNICATIONS",
+  "slug": "discovery-communications",
+  "state": "MD",
+  "description": "Global mass media and entertainment company",
+  "totalSpending": 1620000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "CAPITOL TAX PARTNERS, LLP"
+  ],
+  "lobbyists": [
+    "JONATHAN TALISMAN",
+    "RANDOLPH HERNDON",
+    "SARAH SHIVE",
+    "KATHERINE MONGE",
+    "CAROLINE HARRIS"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to tax reform and affecting the film and television industry, including H.R. 1892, Bipartisan Budget Act of 2018.",
+    "Issues related to tax reform and affecting the film and television industry.",
+    "Issues affecting the film and television industry and regarding Tax Cuts & Jobs Act.",
+    "Issues affecting the film and television industry, international tax, and regarding Tax Cuts & Jobs Act.",
+    "Issues affecting the film and television industry including H.R. 133, Consolidated Appropriations Act, 2021, international tax, and regarding Tax Cuts & Jobs Act.",
+    "Issues affecting the &#239;&#172;�lm and television industry.",
+    "Issues affecting the &#239;&#172;�lm and television industry and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "Issues affecting the ﬁlm and television industry and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "Issues affecting the ﬁlm and television industry and the Inflation Reduction Act.",
+    "Issues affecting the film and television industry including International tax and the Inflation Reduction Act, and H.R. 7024, Tax Relief for American Families and Workers Act of 2024.",
+    "Issues affecting the film and television industry including H.R. 1, 2025 Budget Reconciliation Bill.",
+    "Issues affecting the film and television industry including P.L. 119-21.",
+    "Issues affecting the film and television industry."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 202500,
+  "peakYear": 2021,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1
+}

@@ -1,1 +1,80 @@
-{"id":210778,"name":"IONQ INC.","slug":"ionq-inc","state":"MD","description":"Quantum computing hardware and software company.","totalSpending":1750000,"filings":18,"yearlySpending":[{"year":2021,"income":270000},{"year":2022,"income":460000},{"year":2023,"income":360000},{"year":2024,"income":400000},{"year":2025,"income":260000}],"firms":["CLARK STREET ASSOCIATES"],"lobbyists":["VIJENDRA SAHI"],"issues":["BUD","SCI","DEF",null],"sampleDescriptions":["Issues related to quantum computing R&D and development.","H.R. 4373 - National Defense Authorization Act for FY 2022 and National Defense Authorization Act for FY 2022 (not yet introduced) - issues related to quantum computing.","Defense Appropriations Bill for FY 2022(not yet introduced) - issues related to quantum computing.\nCommerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022 (not yet introduced) - issues related to quantum computing.","Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022 (not yet introduced); S. 1260 Endless Frontier/United States Innovation and Competition Act of 2021 - issues related to quantum computing.","H.R. 4373 - National Defense Authorization Act for FY 2022 and H.R. 4350 - National Defense Authorization Act for FY 2022 - issues related to quantum computing.","H.R. 4432 - Defense Appropriations Bill for FY 2022 - issues related to quantum computing.\nH.R. 4505 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022 - issues related to quantum computing.","H.R. 4505 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022; S. 1260 Endless Frontier/United States Innovation and Competition Act of 2021 - issues related to quantum computing.","H.R. 4432 - National Defense Appropriations Bill for FY 2022 and H.R. 4350 - National Defense Authorization Act for FY 2022 - issues related to quantum computing.","H.R. 4432 - Defense Appropriations Bill for FY 2022 / Defense Appropriations for FY 2023 (not yet introduced) - issues related to quantum computing. H.R. 4505 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022 / Commerce, Justice, Science appropriations for FY 2023 (not yet introduced) - issues related to quantum computing.","H.R. 4432 - National Defense Appropriations Bill for FY 2022 and H.R. 4350 - National Defense Authorization Act for FY 2022 - issues related to quantum computing. FY 2471, FY 2022 Consolidated Appropriations Act - issues related to quantum computing. National Defense Authorization Act for FY 2023 and Defense Appropriations for FY 2023 (not yet introduced) - issues related to quantum computing.","H.R. 4505 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022; S. 1260 Endless Frontier/United States Innovation and Competition Act of 2021 - issues related to quantum computing. Energy & Water Appropriations Bill for FY 2023 (not yet introduced) - issues related to quantum computing.","H.R. 8236 - Defense Appropriations for FY 2023 - issues related to quantum computing. H.R. 8256 - Commerce, Justice, Science appropriations for FY 2023 - issues related to quantum computing.","H.R. 7900 - National Defense Authorization Act for FY 2023 and H.R. 8236 - Defense Appropriations for FY 2023 - issues related to quantum computing.","S. 1260 - United States Innovation and Competition Act of 2021/ H.R. 4521 - American Competes Act - issues related to quantum computing. H.R. 8255 - Energy & Water Appropriations Bill for FY 2023 - issues related to quantum computing. H.R. 8256 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2023 - issues related to quantum computing.","H.R. 8236 - Defense Appropriations Bill for FY2023 - issues related to quantum computing. H.R. 8256 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY2023 - issues related to quantum computing. H.R. 8255 - Energy & Water Appropriations bill for FY2023 - issues related to quantum computing.","H.R. 7900/S. 4543 - National Defense Authorization Act for FY 2023 and H.R. 8236 - Defense Appropriations for FY 2023 - issues related to quantum computing.","H.R. 8256 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY2023 - issues related to quantum computing. H.R. 4346 - CHIPS and Science Act - issues related to quantum computing. H.R. 8255 - Energy & Water Appropriations bill for FY2023 - issues related to quantum computing.","H.R. 4365 & S.2587 - Department of Defense Appropriations Act, 2024, issues related to quantum technology; H.R. 2670 & S.2226 - National Defense Authorization Act for Fiscal Year 2024, issues related to quantum technology; Unnumbered FY25 Department of Defense Appropriations bill; Unnumbered FY25 National Defense Authorization Act; H.R. 6213 - The National Quantum Initiative Reauthorization Act, all provisions.","H.R. 4365 & S.2587 - Department of Defense Appropriations Act, 2024, issues related to quantum technology; H.R. 5893 & S.2321 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024, issues related to quantum technology; H.R.4394 & S. 2443 - Energy and Water Development and Related Agencies Appropriations Act, 2024, issues related to quantum technology; Unnumbered FY25 Department of Defense Appropriations bill; Unnumbered FY25 National Defense Authorization Act; H.R. 6213 - The National Quantum Initiative Reauthorization Act, all provisions.","H.R. 3987 - Leveraging Quantum Computing Act - entire bill; H.R.6213 - National Quantum Initiative Reauthorization Act - all provisions."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 210778,
+  "name": "IONQ INC.",
+  "slug": "ionq-inc",
+  "state": "MD",
+  "description": "Quantum computing hardware and software company.",
+  "totalSpending": 1750000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 270000
+    },
+    {
+      "year": 2022,
+      "income": 460000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 400000
+    },
+    {
+      "year": 2025,
+      "income": 260000
+    }
+  ],
+  "firms": [
+    "CLARK STREET ASSOCIATES"
+  ],
+  "lobbyists": [
+    "VIJENDRA SAHI"
+  ],
+  "issues": [
+    "BUD",
+    "SCI",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to quantum computing R&D and development.",
+    "H.R. 4373 - National Defense Authorization Act for FY 2022 and National Defense Authorization Act for FY 2022 (not yet introduced) - issues related to quantum computing.",
+    "Defense Appropriations Bill for FY 2022(not yet introduced) - issues related to quantum computing.\nCommerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022 (not yet introduced) - issues related to quantum computing.",
+    "Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022 (not yet introduced); S. 1260 Endless Frontier/United States Innovation and Competition Act of 2021 - issues related to quantum computing.",
+    "H.R. 4373 - National Defense Authorization Act for FY 2022 and H.R. 4350 - National Defense Authorization Act for FY 2022 - issues related to quantum computing.",
+    "H.R. 4432 - Defense Appropriations Bill for FY 2022 - issues related to quantum computing.\nH.R. 4505 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022 - issues related to quantum computing.",
+    "H.R. 4505 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022; S. 1260 Endless Frontier/United States Innovation and Competition Act of 2021 - issues related to quantum computing.",
+    "H.R. 4432 - National Defense Appropriations Bill for FY 2022 and H.R. 4350 - National Defense Authorization Act for FY 2022 - issues related to quantum computing.",
+    "H.R. 4432 - Defense Appropriations Bill for FY 2022 / Defense Appropriations for FY 2023 (not yet introduced) - issues related to quantum computing. H.R. 4505 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022 / Commerce, Justice, Science appropriations for FY 2023 (not yet introduced) - issues related to quantum computing.",
+    "H.R. 4432 - National Defense Appropriations Bill for FY 2022 and H.R. 4350 - National Defense Authorization Act for FY 2022 - issues related to quantum computing. FY 2471, FY 2022 Consolidated Appropriations Act - issues related to quantum computing. National Defense Authorization Act for FY 2023 and Defense Appropriations for FY 2023 (not yet introduced) - issues related to quantum computing.",
+    "H.R. 4505 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY 2022; S. 1260 Endless Frontier/United States Innovation and Competition Act of 2021 - issues related to quantum computing. Energy & Water Appropriations Bill for FY 2023 (not yet introduced) - issues related to quantum computing.",
+    "H.R. 8236 - Defense Appropriations for FY 2023 - issues related to quantum computing. H.R. 8256 - Commerce, Justice, Science appropriations for FY 2023 - issues related to quantum computing.",
+    "H.R. 7900 - National Defense Authorization Act for FY 2023 and H.R. 8236 - Defense Appropriations for FY 2023 - issues related to quantum computing.",
+    "S. 1260 - United States Innovation and Competition Act of 2021/ H.R. 4521 - American Competes Act - issues related to quantum computing. H.R. 8255 - Energy & Water Appropriations Bill for FY 2023 - issues related to quantum computing. H.R. 8256 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2023 - issues related to quantum computing.",
+    "H.R. 8236 - Defense Appropriations Bill for FY2023 - issues related to quantum computing. H.R. 8256 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY2023 - issues related to quantum computing. H.R. 8255 - Energy & Water Appropriations bill for FY2023 - issues related to quantum computing.",
+    "H.R. 7900/S. 4543 - National Defense Authorization Act for FY 2023 and H.R. 8236 - Defense Appropriations for FY 2023 - issues related to quantum computing.",
+    "H.R. 8256 - Commerce, Justice, Science and Related Agencies Appropriations Bill for FY2023 - issues related to quantum computing. H.R. 4346 - CHIPS and Science Act - issues related to quantum computing. H.R. 8255 - Energy & Water Appropriations bill for FY2023 - issues related to quantum computing.",
+    "H.R. 4365 & S.2587 - Department of Defense Appropriations Act, 2024, issues related to quantum technology; H.R. 2670 & S.2226 - National Defense Authorization Act for Fiscal Year 2024, issues related to quantum technology; Unnumbered FY25 Department of Defense Appropriations bill; Unnumbered FY25 National Defense Authorization Act; H.R. 6213 - The National Quantum Initiative Reauthorization Act, all provisions.",
+    "H.R. 4365 & S.2587 - Department of Defense Appropriations Act, 2024, issues related to quantum technology; H.R. 5893 & S.2321 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024, issues related to quantum technology; H.R.4394 & S. 2443 - Energy and Water Development and Related Agencies Appropriations Act, 2024, issues related to quantum technology; Unnumbered FY25 Department of Defense Appropriations bill; Unnumbered FY25 National Defense Authorization Act; H.R. 6213 - The National Quantum Initiative Reauthorization Act, all provisions.",
+    "H.R. 3987 - Leveraging Quantum Computing Act - entire bill; H.R.6213 - National Quantum Initiative Reauthorization Act - all provisions."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -4,
+  "trajectory": "stable",
+  "yearsActive": 5,
+  "avgAnnualSpending": 350000,
+  "peakYear": 2022,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 3
+}

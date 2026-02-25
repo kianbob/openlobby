@@ -1,1 +1,110 @@
-{"id":199152,"name":"MOLSON COORS BEVERAGE COMPANY USA LLC (FORMERLY KNOWN AS MILLERCOORS LLC)","slug":"molson-coors-beverage-company-usa-llc-formerly-known-as-millercoors-llc","state":"DC","description":"Brewing Company","totalSpending":1740000,"filings":29,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["FIERCE GOVERNMENT RELATIONS"],"lobbyists":["WILLIAM BLALOCK","KIRSTEN CHADWICK","MICHAEL CHAPPELL","ALEIX JARVIS","KATE HULL","WILLIAM PIPER","TYLER STEPHENS","ERIC ZULKOSKY","PATRICK CLIFTON","JACOBUS VREEBURG"],"issues":["AGR","TRD","TAX","HCR","FOO","BEV",null,"LBR","CDT","DIS"],"sampleDescriptions":["Aluminum Issues- Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security","Trade Facilitation and Trade Enforcement Act of 2015 (TFTEA)","Aluminum Issues- Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, S. 3042- Agriculture Improvement Act of 2018","Aluminum Issues- Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium","Aluminum Issues- Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, Issues relating to dietary guidelines, S. 3569-APEX Act, H.R. 6927-APEX Act, H.R 2- Agriculture Improvement Act of 2018","Aluminum Issues - Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, Issues relating to dietary guidelines","Aluminum Issues - Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, CFTC Reauthorization, S. 1953- Aluminum Pricing Examination Act, H.R. 1406- APEX Act, Aluminum Market Oversight","Nominations, Tax Cuts and Jobs Act- Section 245","Aluminum Issues - Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, CFTC Reauthorization, S. 1953- Aluminum Pricing Examination Act, H.R. 1406- APEX Act, H.R. 4895- CFTC Reauthorization Act of 2019","Tax Cuts and Jobs Act- Section 245, S. 362- Craft Beverage Modernization and Tax Reform Act of 2019, Nominations","International Trade Issues","Cross-border Trade","Tax Cuts and Jobs Act- Section 245","Alcohol Excise Tax Delay","COVID-19 Best Practices, WHO Priorities","Food Spoilage","Dietary Guidelines, Perishable Food and Beverage Products Associated with effects of COVID-19","Aluminum Issues - Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium","WHO Priorities","Dietary Guidelines, Sustainability Efforts"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199152,
+  "name": "MOLSON COORS BEVERAGE COMPANY USA LLC (FORMERLY KNOWN AS MILLERCOORS LLC)",
+  "slug": "molson-coors-beverage-company-usa-llc-formerly-known-as-millercoors-llc",
+  "state": "DC",
+  "description": "Brewing Company",
+  "totalSpending": 1740000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "FIERCE GOVERNMENT RELATIONS"
+  ],
+  "lobbyists": [
+    "WILLIAM BLALOCK",
+    "KIRSTEN CHADWICK",
+    "MICHAEL CHAPPELL",
+    "ALEIX JARVIS",
+    "KATE HULL",
+    "WILLIAM PIPER",
+    "TYLER STEPHENS",
+    "ERIC ZULKOSKY",
+    "PATRICK CLIFTON",
+    "JACOBUS VREEBURG"
+  ],
+  "issues": [
+    "AGR",
+    "TRD",
+    "TAX",
+    "HCR",
+    "FOO",
+    "BEV",
+    null,
+    "LBR",
+    "CDT",
+    "DIS"
+  ],
+  "sampleDescriptions": [
+    "Aluminum Issues- Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security",
+    "Trade Facilitation and Trade Enforcement Act of 2015 (TFTEA)",
+    "Aluminum Issues- Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, S. 3042- Agriculture Improvement Act of 2018",
+    "Aluminum Issues- Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium",
+    "Aluminum Issues- Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, Issues relating to dietary guidelines, S. 3569-APEX Act, H.R. 6927-APEX Act, H.R 2- Agriculture Improvement Act of 2018",
+    "Aluminum Issues - Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, Issues relating to dietary guidelines",
+    "Aluminum Issues - Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, CFTC Reauthorization, S. 1953- Aluminum Pricing Examination Act, H.R. 1406- APEX Act, Aluminum Market Oversight",
+    "Nominations, Tax Cuts and Jobs Act- Section 245",
+    "Aluminum Issues - Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium, CFTC Reauthorization, S. 1953- Aluminum Pricing Examination Act, H.R. 1406- APEX Act, H.R. 4895- CFTC Reauthorization Act of 2019",
+    "Tax Cuts and Jobs Act- Section 245, S. 362- Craft Beverage Modernization and Tax Reform Act of 2019, Nominations",
+    "International Trade Issues",
+    "Cross-border Trade",
+    "Tax Cuts and Jobs Act- Section 245",
+    "Alcohol Excise Tax Delay",
+    "COVID-19 Best Practices, WHO Priorities",
+    "Food Spoilage",
+    "Dietary Guidelines, Perishable Food and Beverage Products Associated with effects of COVID-19",
+    "Aluminum Issues - Section 232 Investigation on the effects of Imports of Aluminum on U.S. National Security, Midwest Premium",
+    "WHO Priorities",
+    "Dietary Guidelines, Sustainability Efforts"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 217500,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 9
+}

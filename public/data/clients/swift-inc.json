@@ -1,1 +1,97 @@
-{"id":172558,"name":"SWIFT, INC.","slug":"swift-inc","state":"VA","description":"Financial messaging services","totalSpending":1740000,"filings":29,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":120000},{"year":2025,"income":240000}],"firms":["RICH FEUER ANDERSON"],"lobbyists":["PETER RICH","MITCHELL FEUER","JOHN ANDERSON","ALEX TEEL","ANDREW PALMER","SARAH BROWN","THOMAS KOONCE","JAE JANG","CAROLINE MOORE","BEN HARNEY","MATTHEW KELLOGG","JENNIFER RUST"],"issues":["SCI","BAN","FIN","FOR","TRD",null],"sampleDescriptions":["Issues related to cyber security.","Imposition of sanctions on financial messaging services with respect to institutions in other countries, including H.R.1644, the \"Korean Interdiction and Modernization of Sanctions Act;\" and S.1591, the \"Otto Warmbier Banking Restrictions Involving North Korea Act of 2017.\"  Issues related to cyber security.","Imposition of sanctions on financial messaging services with respect to institutions in other countries, including H.R.1644, the \"Korean Interdiction and Modernization of Sanctions Act;\" and S.1591, the \"Otto Warmbier Banking Restrictions Involving North Korea Act of 2017.\"","Imposition of sanctions on financial messaging services with respect to institutions in other countries.","Digitization and messaging of international trade documentation.","Imposition of sanctions on financial messaging services with respect to institutions in other countries, including S.1260, the \"United States Innovation and Competition Act of 2021.\"","Imposition of sanctions on financial messaging services with respect to institutions in other countries, including S.1260, the \"United States Innovation and Competition Act of 2021,\" and H.R.3524, the \"EAGLE Act.\"","Imposition of sanctions on financial messaging services with respect to institutions in other countries, including S.1260, the \"United States Innovation and Competition Act of 2021,\" and H.R.3524, the \"EAGLE Act.\"  Issues related to central bank digital currencies.","Imposition of sanctions on financial messaging services with respect to institutions in other countries, including S.1260, the \"United States Innovation and Competition Act of 2021,\" and H.R.3524, the \"EAGLE Act.\" Issues related to central bank digital currencies."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 172558,
+  "name": "SWIFT, INC.",
+  "slug": "swift-inc",
+  "state": "VA",
+  "description": "Financial messaging services",
+  "totalSpending": 1740000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "RICH FEUER ANDERSON"
+  ],
+  "lobbyists": [
+    "PETER RICH",
+    "MITCHELL FEUER",
+    "JOHN ANDERSON",
+    "ALEX TEEL",
+    "ANDREW PALMER",
+    "SARAH BROWN",
+    "THOMAS KOONCE",
+    "JAE JANG",
+    "CAROLINE MOORE",
+    "BEN HARNEY",
+    "MATTHEW KELLOGG",
+    "JENNIFER RUST"
+  ],
+  "issues": [
+    "SCI",
+    "BAN",
+    "FIN",
+    "FOR",
+    "TRD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to cyber security.",
+    "Imposition of sanctions on financial messaging services with respect to institutions in other countries, including H.R.1644, the \"Korean Interdiction and Modernization of Sanctions Act;\" and S.1591, the \"Otto Warmbier Banking Restrictions Involving North Korea Act of 2017.\"  Issues related to cyber security.",
+    "Imposition of sanctions on financial messaging services with respect to institutions in other countries, including H.R.1644, the \"Korean Interdiction and Modernization of Sanctions Act;\" and S.1591, the \"Otto Warmbier Banking Restrictions Involving North Korea Act of 2017.\"",
+    "Imposition of sanctions on financial messaging services with respect to institutions in other countries.",
+    "Digitization and messaging of international trade documentation.",
+    "Imposition of sanctions on financial messaging services with respect to institutions in other countries, including S.1260, the \"United States Innovation and Competition Act of 2021.\"",
+    "Imposition of sanctions on financial messaging services with respect to institutions in other countries, including S.1260, the \"United States Innovation and Competition Act of 2021,\" and H.R.3524, the \"EAGLE Act.\"",
+    "Imposition of sanctions on financial messaging services with respect to institutions in other countries, including S.1260, the \"United States Innovation and Competition Act of 2021,\" and H.R.3524, the \"EAGLE Act.\"  Issues related to central bank digital currencies.",
+    "Imposition of sanctions on financial messaging services with respect to institutions in other countries, including S.1260, the \"United States Innovation and Competition Act of 2021,\" and H.R.3524, the \"EAGLE Act.\" Issues related to central bank digital currencies."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 217500,
+  "peakYear": 2018,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 5
+}

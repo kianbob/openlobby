@@ -1,1 +1,91 @@
-{"id":112659,"name":"NORTH CAROLINA MILITARY AFFAIRS COMMISSION","slug":"north-carolina-military-affairs-commission","state":"NC","description":"North Carolina commission dedicated to the health of the NC military community","totalSpending":2020000,"filings":26,"yearlySpending":[{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":400000},{"year":2023,"income":320000},{"year":2024,"income":220000},{"year":2025,"income":360000}],"firms":["CASSIDY & ASSOCIATES, INC."],"lobbyists":["VERNON SIMMONS","BARRY RHOADS","CHARLES SYDNOR","MICHAEL JOHNSON","SARAH YOUNG GLACKIN"],"issues":["DEF","BUD",null],"sampleDescriptions":["FY20 National Defense Authorization Act\nFY20 Department of Defense Appropriations Act\nFY20 MILCON/VA Appropriations Act","FY21 National Defense Authorization Act\nFY21 Department of Defense Appropriations Act\nFY21 MILCON/VA Appropriations Act","H.R.6395, FY21 National Defense Authorization Act\nFY21 Department of Defense Appropriations Act\nFY21 MILCON/VA Appropriations Act","FY21 Department of Defense Appropriations Act\nFY21 MILCON/VA Appropriations Act","FY22 National Defense Authorization Act\nFY22 Department of Defense Appropriations Act\nFY22 MILCON/VA Appropriations Act","FY22 Department of Defense Appropriations Act\nFY22 MILCON/VA Appropriations Act","FY23 National Defense Authorization Act FY23 Department of Defense Appropriations Act FY23 MILCON/VA Appropriations Act","FY23 Department of Defense Appropriations Act FY23 MILCON/VA Appropriations Act","FY23 National Defense Authorization Act","FY24 National Defense Authorization Act","FY24 Department of Defense Appropriations Act FY24 MILCON/VA Appropriations Act","FY25 National Defense Authorization Act","FY25 Department of Defense Appropriations Act FY25 MILCON/VA Appropriations Act","FY25 & FY26 National Defense Authorization Act","FY25 & FY26 Department of Defense Appropriations Act FY25 & FY26 MILCON/VA Appropriations Act","FY26 National Defense Authorization Act","FY26 Department of Defense Appropriations Act FY26 MILCON/VA Appropriations Act"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 112659,
+  "name": "NORTH CAROLINA MILITARY AFFAIRS COMMISSION",
+  "slug": "north-carolina-military-affairs-commission",
+  "state": "NC",
+  "description": "North Carolina commission dedicated to the health of the NC military community",
+  "totalSpending": 2020000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 400000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 220000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "CASSIDY & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "VERNON SIMMONS",
+    "BARRY RHOADS",
+    "CHARLES SYDNOR",
+    "MICHAEL JOHNSON",
+    "SARAH YOUNG GLACKIN"
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "FY20 National Defense Authorization Act\nFY20 Department of Defense Appropriations Act\nFY20 MILCON/VA Appropriations Act",
+    "FY21 National Defense Authorization Act\nFY21 Department of Defense Appropriations Act\nFY21 MILCON/VA Appropriations Act",
+    "H.R.6395, FY21 National Defense Authorization Act\nFY21 Department of Defense Appropriations Act\nFY21 MILCON/VA Appropriations Act",
+    "FY21 Department of Defense Appropriations Act\nFY21 MILCON/VA Appropriations Act",
+    "FY22 National Defense Authorization Act\nFY22 Department of Defense Appropriations Act\nFY22 MILCON/VA Appropriations Act",
+    "FY22 Department of Defense Appropriations Act\nFY22 MILCON/VA Appropriations Act",
+    "FY23 National Defense Authorization Act FY23 Department of Defense Appropriations Act FY23 MILCON/VA Appropriations Act",
+    "FY23 Department of Defense Appropriations Act FY23 MILCON/VA Appropriations Act",
+    "FY23 National Defense Authorization Act",
+    "FY24 National Defense Authorization Act",
+    "FY24 Department of Defense Appropriations Act FY24 MILCON/VA Appropriations Act",
+    "FY25 National Defense Authorization Act",
+    "FY25 Department of Defense Appropriations Act FY25 MILCON/VA Appropriations Act",
+    "FY25 & FY26 National Defense Authorization Act",
+    "FY25 & FY26 Department of Defense Appropriations Act FY25 & FY26 MILCON/VA Appropriations Act",
+    "FY26 National Defense Authorization Act",
+    "FY26 Department of Defense Appropriations Act FY26 MILCON/VA Appropriations Act"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 50,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 288571,
+  "peakYear": 2022,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "technology"
+}

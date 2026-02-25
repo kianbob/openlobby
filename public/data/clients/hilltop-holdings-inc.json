@@ -1,1 +1,91 @@
-{"id":135937,"name":"HILLTOP HOLDINGS INC.","slug":"hilltop-holdings-inc","state":"TX","description":"Real Estate Consulting","totalSpending":2400000,"filings":30,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":160000},{"year":2020,"income":480000},{"year":2021,"income":160000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":320000}],"firms":["PACE, LLP"],"lobbyists":["JAMES WISE","SCOTT LANE","LAUREN WILSON","ROSS ARNETT"],"issues":["BAN","FIN","CPT",null],"sampleDescriptions":["Dodd-Frank Reform\nDepartment of Treasury Appropriations Bill","Dodd-Frank Reform\nDepartment of Treasury Appropriations Bill\nDOJ Appropriations Bill","Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation","Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation\nThe \"Secure Act\" - The Setting Every Community Up for Retirement Enhancement Act of 2019","Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation\nThe \"Secure Act\" - The Setting Every Community Up for Retirement Enhancement Act of 2019\nCOVID Response","Municipal Bond Financing","Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation\nThe \"Secure Act\" - The Setting Every Community Up for Retirement Enhancement Act of 2019\nCOVID Response\nMunicipal Bond financing","Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation\nPaycheck Protection Program\nCOVID Response\nMunicipal Bond financing","Covered Business Method","IRS reporting proposal - budget reconciliation process","IRS reporting proposal","General Banking issues","General Banking Issues"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 135937,
+  "name": "HILLTOP HOLDINGS INC.",
+  "slug": "hilltop-holdings-inc",
+  "state": "TX",
+  "description": "Real Estate Consulting",
+  "totalSpending": 2400000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 160000
+    },
+    {
+      "year": 2020,
+      "income": 480000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "PACE, LLP"
+  ],
+  "lobbyists": [
+    "JAMES WISE",
+    "SCOTT LANE",
+    "LAUREN WILSON",
+    "ROSS ARNETT"
+  ],
+  "issues": [
+    "BAN",
+    "FIN",
+    "CPT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Dodd-Frank Reform\nDepartment of Treasury Appropriations Bill",
+    "Dodd-Frank Reform\nDepartment of Treasury Appropriations Bill\nDOJ Appropriations Bill",
+    "Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation",
+    "Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation\nThe \"Secure Act\" - The Setting Every Community Up for Retirement Enhancement Act of 2019",
+    "Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation\nThe \"Secure Act\" - The Setting Every Community Up for Retirement Enhancement Act of 2019\nCOVID Response",
+    "Municipal Bond Financing",
+    "Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation\nThe \"Secure Act\" - The Setting Every Community Up for Retirement Enhancement Act of 2019\nCOVID Response\nMunicipal Bond financing",
+    "Dodd-Frank Reform \nPredatory Lending Practices\nEquity Buy Back Legislation\nPaycheck Protection Program\nCOVID Response\nMunicipal Bond financing",
+    "Covered Business Method",
+    "IRS reporting proposal - budget reconciliation process",
+    "IRS reporting proposal",
+    "General Banking issues",
+    "General Banking Issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 300000,
+  "peakYear": 2020,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 3
+}

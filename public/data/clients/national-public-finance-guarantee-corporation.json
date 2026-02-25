@@ -1,1 +1,93 @@
-{"id":164964,"name":"NATIONAL PUBLIC FINANCE GUARANTEE CORPORATION","slug":"national-public-finance-guarantee-corporation","state":"NY","description":"finance/lending","totalSpending":4810000,"filings":33,"yearlySpending":[{"year":2018,"income":2380000},{"year":2019,"income":360000},{"year":2020,"income":230000},{"year":2021,"income":200000},{"year":2022,"income":520000},{"year":2023,"income":760000},{"year":2024,"income":200000},{"year":2025,"income":160000}],"firms":["MERCURY PUBLIC AFFAIRS, LLC"],"lobbyists":["MICHAEL MCSHERRY","JENNIFER KAUFMAN","STEPHEN AARON","GRAHAM HAILE","VIN WEBER","ROBERT SMITH","TOBY MOFFETT","VINCE GALKO","CHERI BUSTOS"],"issues":["BAN","FIN","TAX","ENG",null,"DEF","GOV"],"sampleDescriptions":["Puerto Rico Debt Reform","S.1774 Puerto Rico Chapter 9 Uniformity Act of 2015  and HR 870 Puerto Rico Chapter 9 Uniformity Act of 2015","Issues related to energy production on the island of Puerto Rico","Puerto Rico Dept Reform","US house of Representatives, US Senate, WH, NEC, US Treausry","Federal office vacancies, Military Housing","issues related to Federal office vacancies, issues related to Military Housing"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 164964,
+  "name": "NATIONAL PUBLIC FINANCE GUARANTEE CORPORATION",
+  "slug": "national-public-finance-guarantee-corporation",
+  "state": "NY",
+  "description": "finance/lending",
+  "totalSpending": 4810000,
+  "filings": 33,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 2380000
+    },
+    {
+      "year": 2019,
+      "income": 360000
+    },
+    {
+      "year": 2020,
+      "income": 230000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 520000
+    },
+    {
+      "year": 2023,
+      "income": 760000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 160000
+    }
+  ],
+  "firms": [
+    "MERCURY PUBLIC AFFAIRS, LLC"
+  ],
+  "lobbyists": [
+    "MICHAEL MCSHERRY",
+    "JENNIFER KAUFMAN",
+    "STEPHEN AARON",
+    "GRAHAM HAILE",
+    "VIN WEBER",
+    "ROBERT SMITH",
+    "TOBY MOFFETT",
+    "VINCE GALKO",
+    "CHERI BUSTOS"
+  ],
+  "issues": [
+    "BAN",
+    "FIN",
+    "TAX",
+    "ENG",
+    null,
+    "DEF",
+    "GOV"
+  ],
+  "sampleDescriptions": [
+    "Puerto Rico Debt Reform",
+    "S.1774 Puerto Rico Chapter 9 Uniformity Act of 2015  and HR 870 Puerto Rico Chapter 9 Uniformity Act of 2015",
+    "Issues related to energy production on the island of Puerto Rico",
+    "Puerto Rico Dept Reform",
+    "US house of Representatives, US Senate, WH, NEC, US Treausry",
+    "Federal office vacancies, Military Housing",
+    "issues related to Federal office vacancies, issues related to Military Housing"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -93,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 601250,
+  "peakYear": 2018,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 6
+}

@@ -1,1 +1,110 @@
-{"id":199162,"name":"CISCO SYSTEMS, INC","slug":"cisco-systems-inc","state":"DC","description":"Networking Equipment and Networking Management","totalSpending":1560000,"filings":26,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":180000},{"year":2020,"income":180000},{"year":2021,"income":180000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["FIERCE GOVERNMENT RELATIONS"],"lobbyists":["WILLIAM BLALOCK","MICHAEL CHAPPELL","KIRSTEN CHADWICK","ALEIX JARVIS","KATE HULL","WILLIAM PIPER","TYLER STEPHENS","ERIC ZULKOSKY","PATRICK CLIFTON","JACOBUS VREEBURG"],"issues":["CPT","TRD","TEC","IMM","TAX","LBR",null,"ENV","CPI","BAN"],"sampleDescriptions":["Patent Reform, S. 2154- PACED Act","NAFTA, Government Procurement","Encrypted Traffic Analytics, Modernizing Government Technology","Immigration Reform","International Competitiveness, NAFTA/USMCA - Government Procurement","Supply Chain Security","Supply Chain Security, Cyber-Security, IOT Security, 5G Security and Deployment, Nominations","International Competitiveness, NAFTA/USMCA, China Tariffs, Border Issues related to Commerce","S. 1790- National Defense Authorization Act for Fiscal Year 2020, H.R. 2500 - National Defense Authorization Act for Fiscal Year 2020, Intellectual property protection, Supply Chain Security","NAFTA/USMCA, China Tariffs","Supply Chain Security, Cyber-Security,5G Security and Deployment","S. 386- Fairness for High-Skilled Immigrants Act of 2019","Cyber-Security, 5G Security and Deployment","H.R. 748 - CARES Act","Cyber-Security","Intellectual property protection, Patents","COVID-19 Response","Cyber-Security, Supply Chain, Teleworking Technology, International Litigation, Semiconductor Manufacturing, CARES Act Implementation, H.R.4998 - Secure and Trusted Communications Networks Act of 2019","Patents","Repatriation of U.S. Citizens, Executive Action as it relates to Visas"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199162,
+  "name": "CISCO SYSTEMS, INC",
+  "slug": "cisco-systems-inc",
+  "state": "DC",
+  "description": "Networking Equipment and Networking Management",
+  "totalSpending": 1560000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 120000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "FIERCE GOVERNMENT RELATIONS"
+  ],
+  "lobbyists": [
+    "WILLIAM BLALOCK",
+    "MICHAEL CHAPPELL",
+    "KIRSTEN CHADWICK",
+    "ALEIX JARVIS",
+    "KATE HULL",
+    "WILLIAM PIPER",
+    "TYLER STEPHENS",
+    "ERIC ZULKOSKY",
+    "PATRICK CLIFTON",
+    "JACOBUS VREEBURG"
+  ],
+  "issues": [
+    "CPT",
+    "TRD",
+    "TEC",
+    "IMM",
+    "TAX",
+    "LBR",
+    null,
+    "ENV",
+    "CPI",
+    "BAN"
+  ],
+  "sampleDescriptions": [
+    "Patent Reform, S. 2154- PACED Act",
+    "NAFTA, Government Procurement",
+    "Encrypted Traffic Analytics, Modernizing Government Technology",
+    "Immigration Reform",
+    "International Competitiveness, NAFTA/USMCA - Government Procurement",
+    "Supply Chain Security",
+    "Supply Chain Security, Cyber-Security, IOT Security, 5G Security and Deployment, Nominations",
+    "International Competitiveness, NAFTA/USMCA, China Tariffs, Border Issues related to Commerce",
+    "S. 1790- National Defense Authorization Act for Fiscal Year 2020, H.R. 2500 - National Defense Authorization Act for Fiscal Year 2020, Intellectual property protection, Supply Chain Security",
+    "NAFTA/USMCA, China Tariffs",
+    "Supply Chain Security, Cyber-Security,5G Security and Deployment",
+    "S. 386- Fairness for High-Skilled Immigrants Act of 2019",
+    "Cyber-Security, 5G Security and Deployment",
+    "H.R. 748 - CARES Act",
+    "Cyber-Security",
+    "Intellectual property protection, Patents",
+    "COVID-19 Response",
+    "Cyber-Security, Supply Chain, Teleworking Technology, International Litigation, Semiconductor Manufacturing, CARES Act Implementation, H.R.4998 - Secure and Trusted Communications Networks Act of 2019",
+    "Patents",
+    "Repatriation of U.S. Citizens, Executive Action as it relates to Visas"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 195000,
+  "peakYear": 2023,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 9
+}

@@ -1,1 +1,83 @@
-{"id":203942,"name":"MCWANE, INC.","slug":"mcwane-inc","state":"AL","description":"Manufacturer of water distribution and infrastructure products.","totalSpending":1800000,"filings":20,"yearlySpending":[{"year":2020,"income":270000},{"year":2021,"income":360000},{"year":2022,"income":360000},{"year":2023,"income":360000},{"year":2024,"income":180000},{"year":2025,"income":270000}],"firms":["BALCH & BINGHAM, LLP"],"lobbyists":["STEPHEN STILL","BRIAN RELL"],"issues":["CAW","TRD","MAN","DEF","BUD","HOM",null],"sampleDescriptions":["Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including Buy America; Federal Infrastructure legislation.","Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation.","Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; FEMA BRIC funding.","Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; water technology grant program.","Customs enforcement; domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation.","Customs enforcement; trade enforcement AD/CVD; domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation.","Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; trade enforcement; HR2667/S805 Fighting Trade Cheats Act.","Customs enforcement; trade enforcement AD/CVD; domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; HR2667/S805 Fighting Trade Cheats Act.","Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; trade enforcement; HR2667/S805 Fighting Trade Cheats Act; domestic manufacturing; PFAs.","Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; trade enforcement; Fighting Trade Cheats Act, domestic manufacturing; PFAs","Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; FEMA BRIC funding","Fighting Trade Cheats Act and Level the Playing Field 2.0","BuyAmerica","Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; trade enforcement; Fighting Trade Cheats Act, domestic manufacturing; PFAS"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 203942,
+  "name": "MCWANE, INC.",
+  "slug": "mcwane-inc",
+  "state": "AL",
+  "description": "Manufacturer of water distribution and infrastructure products.",
+  "totalSpending": 1800000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 270000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "BALCH & BINGHAM, LLP"
+  ],
+  "lobbyists": [
+    "STEPHEN STILL",
+    "BRIAN RELL"
+  ],
+  "issues": [
+    "CAW",
+    "TRD",
+    "MAN",
+    "DEF",
+    "BUD",
+    "HOM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including Buy America; Federal Infrastructure legislation.",
+    "Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation.",
+    "Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; FEMA BRIC funding.",
+    "Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; water technology grant program.",
+    "Customs enforcement; domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation.",
+    "Customs enforcement; trade enforcement AD/CVD; domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation.",
+    "Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; trade enforcement; HR2667/S805 Fighting Trade Cheats Act.",
+    "Customs enforcement; trade enforcement AD/CVD; domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; HR2667/S805 Fighting Trade Cheats Act.",
+    "Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; trade enforcement; HR2667/S805 Fighting Trade Cheats Act; domestic manufacturing; PFAs.",
+    "Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; trade enforcement; Fighting Trade Cheats Act, domestic manufacturing; PFAs",
+    "Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; FEMA BRIC funding",
+    "Fighting Trade Cheats Act and Level the Playing Field 2.0",
+    "BuyAmerica",
+    "Domestic procurement preference policies applicable to taxpayer-finance infrastructure spending, including BuyAmerica; Federal Infrastructure legislation; trade enforcement; Fighting Trade Cheats Act, domestic manufacturing; PFAS"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 6,
+  "avgAnnualSpending": 300000,
+  "peakYear": 2021,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 6
+}

@@ -1,1 +1,105 @@
-{"id":199118,"name":"AMERICAN GAMING ASSOCIATION","slug":"american-gaming-association","state":"DC","description":"Trade Association","totalSpending":1350000,"filings":27,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":150000}],"firms":["FIERCE GOVERNMENT RELATIONS"],"lobbyists":["WILLIAM BLALOCK","MICHAEL CHAPPELL","KIRSTEN CHADWICK","ALEIX JARVIS","KATE HULL","WILLIAM PIPER","TYLER STEPHENS","ERIC ZULKOSKY","PATRICK CLIFTON","JACOBUS VREEBURG"],"issues":["GAM","TAX","ENG",null,"AGR"],"sampleDescriptions":["General Gaming Issues, Illegal Gaming, PASPA Repeal","General Gaming Issues, Illegal Gaming, Professional and Amateur Sports Protection Act of 1992 Repeal, Sports Betting","Qualified Improvement Property Tax, Slot Withholding","General Gaming Issues, Illegal Gaming, Sports Betting","Nuclear Waste Repository","Slot Withholding","General Gaming Issues, Illegal Gaming, Sports Betting, Resort Fees","General Gaming Issues, Illegal Gaming, Sports Betting, Resort Fees, H.R. 4489-Hotel Advertising Transparency Act of 2019","Slot Withholding, Quality Improvement Tax","General Gaming Issues, Internet Gaming, H.R. 748- CARES Act, CARES Act Implementation","CARES Act Implementation, COVID-19 Relief, Liability Reform","COVID-19 Relief, COVID-19 Liability Protections, Issues related to National Nuclear Waste Repository, Sports Betting, Executive Order 13943- Addressing the Threat Posed by WeChat","Food perishability associatedwith the impacts of COVID-19","Food perishability associated with the impacts of COVID-19, Employee Retention Tax Credit, Enhanced Cleaning/PPE Tax Credit, Work Opportunity Tax Credit","COVID-19 Relief, COVID-19 Liability Protections, Payroll Protection Program, Off-reservation Tribal Gaming","COVID-19 Liability Protections, S. Amdt. 853 - Support for the Hospitality and Entertainment Industries, H.R. 1346 - Hospitality and Commerce Job Recovery Act of 2021, S. 477 - Hospitality and Commerce Job Recovery Act of 202, H.R. 1319- American Rescue Plan Act of 2021","Slot Withholding, Federal Taxation of Sports Betting","COVID-19 Relief Efforts, PPP Eligibility, S. 477 - Hospitality and Commerce Job Recovery Act of 202, S. 1519 - Save Hotel Jobs Act, H.R. 3093 - Save Hotel Jobs Act","Slot Withholding, Federal Taxation of Sports Betting, H.R. 2350- Discriminatory Gaming Tax Repeal Act of 2021","H.R.2350 - Discriminatory Gaming Tax Repeal Act of 2021, H.R.5376 - Build Back Better Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199118,
+  "name": "AMERICAN GAMING ASSOCIATION",
+  "slug": "american-gaming-association",
+  "state": "DC",
+  "description": "Trade Association",
+  "totalSpending": 1350000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "FIERCE GOVERNMENT RELATIONS"
+  ],
+  "lobbyists": [
+    "WILLIAM BLALOCK",
+    "MICHAEL CHAPPELL",
+    "KIRSTEN CHADWICK",
+    "ALEIX JARVIS",
+    "KATE HULL",
+    "WILLIAM PIPER",
+    "TYLER STEPHENS",
+    "ERIC ZULKOSKY",
+    "PATRICK CLIFTON",
+    "JACOBUS VREEBURG"
+  ],
+  "issues": [
+    "GAM",
+    "TAX",
+    "ENG",
+    null,
+    "AGR"
+  ],
+  "sampleDescriptions": [
+    "General Gaming Issues, Illegal Gaming, PASPA Repeal",
+    "General Gaming Issues, Illegal Gaming, Professional and Amateur Sports Protection Act of 1992 Repeal, Sports Betting",
+    "Qualified Improvement Property Tax, Slot Withholding",
+    "General Gaming Issues, Illegal Gaming, Sports Betting",
+    "Nuclear Waste Repository",
+    "Slot Withholding",
+    "General Gaming Issues, Illegal Gaming, Sports Betting, Resort Fees",
+    "General Gaming Issues, Illegal Gaming, Sports Betting, Resort Fees, H.R. 4489-Hotel Advertising Transparency Act of 2019",
+    "Slot Withholding, Quality Improvement Tax",
+    "General Gaming Issues, Internet Gaming, H.R. 748- CARES Act, CARES Act Implementation",
+    "CARES Act Implementation, COVID-19 Relief, Liability Reform",
+    "COVID-19 Relief, COVID-19 Liability Protections, Issues related to National Nuclear Waste Repository, Sports Betting, Executive Order 13943- Addressing the Threat Posed by WeChat",
+    "Food perishability associatedwith the impacts of COVID-19",
+    "Food perishability associated with the impacts of COVID-19, Employee Retention Tax Credit, Enhanced Cleaning/PPE Tax Credit, Work Opportunity Tax Credit",
+    "COVID-19 Relief, COVID-19 Liability Protections, Payroll Protection Program, Off-reservation Tribal Gaming",
+    "COVID-19 Liability Protections, S. Amdt. 853 - Support for the Hospitality and Entertainment Industries, H.R. 1346 - Hospitality and Commerce Job Recovery Act of 2021, S. 477 - Hospitality and Commerce Job Recovery Act of 202, H.R. 1319- American Rescue Plan Act of 2021",
+    "Slot Withholding, Federal Taxation of Sports Betting",
+    "COVID-19 Relief Efforts, PPP Eligibility, S. 477 - Hospitality and Commerce Job Recovery Act of 202, S. 1519 - Save Hotel Jobs Act, H.R. 3093 - Save Hotel Jobs Act",
+    "Slot Withholding, Federal Taxation of Sports Betting, H.R. 2350- Discriminatory Gaming Tax Repeal Act of 2021",
+    "H.R.2350 - Discriminatory Gaming Tax Repeal Act of 2021, H.R.5376 - Build Back Better Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 168750,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 4
+}

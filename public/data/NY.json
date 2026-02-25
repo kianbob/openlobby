@@ -1,1 +1,329 @@
-{"abbreviation":"NY","name":"New York","totalSpending":983107017.7,"totalFilings":39344,"clientCount":2496,"yearlySpending":[{"year":2018,"income":78536124.48},{"year":2019,"income":80114978},{"year":2020,"income":93280680.73},{"year":2021,"income":101015106},{"year":2022,"income":114656657.83999999},{"year":2023,"income":244611830.35999998},{"year":2024,"income":108676725},{"year":2025,"income":162214915.29}],"topClients":[{"name":"THE BLACKSTONE GROUP","income":14975000},{"name":"APOLLO GLOBAL MANAGEMENT","income":14960000},{"name":"JPMORGAN CHASE HOLDINGS LLC","income":10180000},{"name":"MCKINSEY & COMPANY","income":8035000},{"name":"EVERYTOWN FOR GUN SAFETY ACTION FUND","income":7185000},{"name":"VERIZON COMMUNICATIONS INC AND VARIOUS SUBSIDIARIES","income":5940000},{"name":"NATIONAL PUBLIC FINANCE GUARANTEE CORPORATION","income":5570000},{"name":"LIBERTY MARITIME CORPORATION","income":5340000},{"name":"GLOBALFOUNDRIES U.S. INC.","income":5330000},{"name":"ARGENTEM CREEK PARTNERS LP","income":5170000},{"name":"AMERICAN SOCIETY OF MECHANICAL ENGINEERS","income":5010000},{"name":"CERBERUS CAPITAL MANAGEMENT, L.P.","income":5000000},{"name":"ASSURED GUARANTY MUNICIPAL CORP.","income":4900000},{"name":"STANDARD INDUSTRIES","income":4900000},{"name":"TL MANAGEMENT","income":4875000},{"name":"VERIZON COMMUNICATIONS INC","income":4660000},{"name":"REGENERON PHARMACEUTICALS, INC.","income":4640000},{"name":"GREATER NEW YORK HOSPITAL ASSOCIATION","income":4360000},{"name":"MAJOR LEAGUE BASEBALL","income":4350000},{"name":"INVEST IN EDUCATION COALITION","income":4156500},{"name":"PFIZER INC.","income":3830000},{"name":"ALTRIA CLIENT SERVICES LLC","income":3745500},{"name":"APOLLO INVESTMENT MANAGEMENT LP","income":3580000},{"name":"CLEAR","income":3470000},{"name":"DISCOVERY COMMUNICATIONS, LLC","income":3433500},{"name":"AMERICAN SOCIETY OF COMPOSERS, AUTHORS AND PUBLISHERS (ASCAP)","income":3410000},{"name":"BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP L.P.","income":3400000},{"name":"BLUE OWL CAPITAL HOLDINGS LLC","income":3390000},{"name":"NEW YORK LIFE INSURANCE COMPANY","income":3370000},{"name":"PEPSICO","income":3370000},{"name":"INSTITUTE OF INTERNATIONAL BANKERS","income":3362500},{"name":"ESTEE LAUDER COMPANIES","income":3300000},{"name":"AMERICAN SOCIETY OF COMPOSERS, AUTHORS, AND PUBLISHERS","income":3300000},{"name":"AMBAC ASSURANCE CORPORATION","income":3220000},{"name":"NORTHWELL HEALTH INC (FKA NSLIJ HEALTH SYSTEM)","income":3210000},{"name":"IEX GROUP, INC.","income":3195000},{"name":"SCHOTT NORTH AMERICA INC AND AFFILIATE (FORMERLY SCHOTT NORTH AMERICA INC)","income":3100000},{"name":"BLACKROCK FUNDS SERVICES GROUP LLC (FORMERLY BLACKROCK CAPITAL MANAGEMENT INC.)","income":3080000},{"name":"DEBEVOISE & PLIMPTON LLP (ON BEHALF OF GRAMERCY FUNDS MANAGEMENT)","income":3080000},{"name":"SRC INC.","income":3080000},{"name":"PFIZER","income":3060000},{"name":"MONTEFIORE MEDICAL CENTER","income":3020000},{"name":"PFIZER, INC.","income":2950000},{"name":"MASTERCARD INTERNATIONAL INCORPORATED","income":2890000},{"name":"TOM JAMES COMPANY","income":2850000},{"name":"SL GREEN REALTY CORP.","income":2770000},{"name":"PLANNED PARENTHOOD FEDERATION OF AMERICA, INC","income":2760000},{"name":"EMPIRE STATE DEVELOPMENT CORPORATION","income":2700000},{"name":"NEWS CORPORATION","income":2699000},{"name":"THE BROADWAY LEAGUE","income":2670000}],"topIssues":[{"code":"TAX","income":157122402.48000002},{"code":"FIN","income":155479149},{"code":"BUD","income":123854681},{"code":"HCR","income":121826316.66000001},{"code":"BAN","income":62258000},{"code":"DEF","income":57420005},{"code":"TRD","income":49319230},{"code":"MMM","income":45139937.730000004},{"code":"TEC","income":39889730},{"code":"EDU","income":38508037},{"code":"GOV","income":37490449},{"code":"CPT","income":34710500},{"code":"ENG","income":33619859.29},{"code":"TRA","income":32566852.48},{"code":"LBR","income":31311252.48},{"code":"ENV","income":30575100},{"code":"CSP","income":27132500},{"code":"SCI","income":23334629},{"code":"FOR","income":22377749},{"code":"MAN","income":21363000}]}
+{
+  "abbreviation": "NY",
+  "name": "New York",
+  "totalSpending": 983107017.7,
+  "totalFilings": 39344,
+  "clientCount": 2496,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 78536124.48
+    },
+    {
+      "year": 2019,
+      "income": 80114978
+    },
+    {
+      "year": 2020,
+      "income": 93280680.73
+    },
+    {
+      "year": 2021,
+      "income": 101015106
+    },
+    {
+      "year": 2022,
+      "income": 114656657.83999999
+    },
+    {
+      "year": 2023,
+      "income": 244611830.35999998
+    },
+    {
+      "year": 2024,
+      "income": 108676725
+    },
+    {
+      "year": 2025,
+      "income": 162214915.29
+    }
+  ],
+  "topClients": [
+    {
+      "name": "THE BLACKSTONE GROUP",
+      "income": 14975000
+    },
+    {
+      "name": "APOLLO GLOBAL MANAGEMENT",
+      "income": 14960000
+    },
+    {
+      "name": "JPMORGAN CHASE HOLDINGS LLC",
+      "income": 10180000
+    },
+    {
+      "name": "MCKINSEY & COMPANY",
+      "income": 8035000
+    },
+    {
+      "name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+      "income": 7185000
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC AND VARIOUS SUBSIDIARIES",
+      "income": 5940000
+    },
+    {
+      "name": "NATIONAL PUBLIC FINANCE GUARANTEE CORPORATION",
+      "income": 5570000
+    },
+    {
+      "name": "LIBERTY MARITIME CORPORATION",
+      "income": 5340000
+    },
+    {
+      "name": "GLOBALFOUNDRIES U.S. INC.",
+      "income": 5330000
+    },
+    {
+      "name": "ARGENTEM CREEK PARTNERS LP",
+      "income": 5170000
+    },
+    {
+      "name": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS",
+      "income": 5010000
+    },
+    {
+      "name": "CERBERUS CAPITAL MANAGEMENT, L.P.",
+      "income": 5000000
+    },
+    {
+      "name": "ASSURED GUARANTY MUNICIPAL CORP.",
+      "income": 4900000
+    },
+    {
+      "name": "STANDARD INDUSTRIES",
+      "income": 4900000
+    },
+    {
+      "name": "TL MANAGEMENT",
+      "income": 4875000
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC",
+      "income": 4660000
+    },
+    {
+      "name": "REGENERON PHARMACEUTICALS, INC.",
+      "income": 4640000
+    },
+    {
+      "name": "GREATER NEW YORK HOSPITAL ASSOCIATION",
+      "income": 4360000
+    },
+    {
+      "name": "MAJOR LEAGUE BASEBALL",
+      "income": 4350000
+    },
+    {
+      "name": "INVEST IN EDUCATION COALITION",
+      "income": 4156500
+    },
+    {
+      "name": "PFIZER INC.",
+      "income": 3830000
+    },
+    {
+      "name": "ALTRIA CLIENT SERVICES LLC",
+      "income": 3745500
+    },
+    {
+      "name": "APOLLO INVESTMENT MANAGEMENT LP",
+      "income": 3580000
+    },
+    {
+      "name": "CLEAR",
+      "income": 3470000
+    },
+    {
+      "name": "DISCOVERY COMMUNICATIONS, LLC",
+      "income": 3433500
+    },
+    {
+      "name": "AMERICAN SOCIETY OF COMPOSERS, AUTHORS AND PUBLISHERS (ASCAP)",
+      "income": 3410000
+    },
+    {
+      "name": "BLACKSTONE ADMINISTRATIVE SERVICES PARTNERSHIP L.P.",
+      "income": 3400000
+    },
+    {
+      "name": "BLUE OWL CAPITAL HOLDINGS LLC",
+      "income": 3390000
+    },
+    {
+      "name": "NEW YORK LIFE INSURANCE COMPANY",
+      "income": 3370000
+    },
+    {
+      "name": "PEPSICO",
+      "income": 3370000
+    },
+    {
+      "name": "INSTITUTE OF INTERNATIONAL BANKERS",
+      "income": 3362500
+    },
+    {
+      "name": "ESTEE LAUDER COMPANIES",
+      "income": 3300000
+    },
+    {
+      "name": "AMERICAN SOCIETY OF COMPOSERS, AUTHORS, AND PUBLISHERS",
+      "income": 3300000
+    },
+    {
+      "name": "AMBAC ASSURANCE CORPORATION",
+      "income": 3220000
+    },
+    {
+      "name": "NORTHWELL HEALTH INC (FKA NSLIJ HEALTH SYSTEM)",
+      "income": 3210000
+    },
+    {
+      "name": "IEX GROUP, INC.",
+      "income": 3195000
+    },
+    {
+      "name": "SCHOTT NORTH AMERICA INC AND AFFILIATE (FORMERLY SCHOTT NORTH AMERICA INC)",
+      "income": 3100000
+    },
+    {
+      "name": "BLACKROCK FUNDS SERVICES GROUP LLC (FORMERLY BLACKROCK CAPITAL MANAGEMENT INC.)",
+      "income": 3080000
+    },
+    {
+      "name": "DEBEVOISE & PLIMPTON LLP (ON BEHALF OF GRAMERCY FUNDS MANAGEMENT)",
+      "income": 3080000
+    },
+    {
+      "name": "SRC INC.",
+      "income": 3080000
+    },
+    {
+      "name": "PFIZER",
+      "income": 3060000
+    },
+    {
+      "name": "MONTEFIORE MEDICAL CENTER",
+      "income": 3020000
+    },
+    {
+      "name": "PFIZER, INC.",
+      "income": 2950000
+    },
+    {
+      "name": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "income": 2890000
+    },
+    {
+      "name": "TOM JAMES COMPANY",
+      "income": 2850000
+    },
+    {
+      "name": "SL GREEN REALTY CORP.",
+      "income": 2770000
+    },
+    {
+      "name": "PLANNED PARENTHOOD FEDERATION OF AMERICA, INC",
+      "income": 2760000
+    },
+    {
+      "name": "EMPIRE STATE DEVELOPMENT CORPORATION",
+      "income": 2700000
+    },
+    {
+      "name": "NEWS CORPORATION",
+      "income": 2699000
+    },
+    {
+      "name": "THE BROADWAY LEAGUE",
+      "income": 2670000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "TAX",
+      "income": 157122402.48000002
+    },
+    {
+      "code": "FIN",
+      "income": 155479149
+    },
+    {
+      "code": "BUD",
+      "income": 123854681
+    },
+    {
+      "code": "HCR",
+      "income": 121826316.66000001
+    },
+    {
+      "code": "BAN",
+      "income": 62258000
+    },
+    {
+      "code": "DEF",
+      "income": 57420005
+    },
+    {
+      "code": "TRD",
+      "income": 49319230
+    },
+    {
+      "code": "MMM",
+      "income": 45139937.730000004
+    },
+    {
+      "code": "TEC",
+      "income": 39889730
+    },
+    {
+      "code": "EDU",
+      "income": 38508037
+    },
+    {
+      "code": "GOV",
+      "income": 37490449
+    },
+    {
+      "code": "CPT",
+      "income": 34710500
+    },
+    {
+      "code": "ENG",
+      "income": 33619859.29
+    },
+    {
+      "code": "TRA",
+      "income": 32566852.48
+    },
+    {
+      "code": "LBR",
+      "income": 31311252.48
+    },
+    {
+      "code": "ENV",
+      "income": 30575100
+    },
+    {
+      "code": "CSP",
+      "income": 27132500
+    },
+    {
+      "code": "SCI",
+      "income": 23334629
+    },
+    {
+      "code": "FOR",
+      "income": 22377749
+    },
+    {
+      "code": "MAN",
+      "income": 21363000
+    }
+  ],
+  "perCapita": 66.48,
+  "population": 19571216,
+  "nationalRank": 5,
+  "perCapitaRank": 10
+}

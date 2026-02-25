@@ -1,1 +1,75 @@
-{"id":201374,"name":"FIRSTENERGY SERVICE COMPANY","slug":"firstenergy-service-company","state":"OH","description":"diversified energy company","totalSpending":1860000,"filings":24,"yearlySpending":[{"year":2018,"income":330000},{"year":2019,"income":440000},{"year":2020,"income":310000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":60000}],"firms":["MILLER STRATEGIES, LLC"],"lobbyists":["JEFFREY MILLER","GEORGE CARAM","JONATHAN HILER","STEPHEN RUPPEL"],"issues":["UTI",null],"sampleDescriptions":["Issues related to grid resilience.","Issues related to grid resilience","Issues related to grid resilience and supply chain including HR 7171 Distribution Transformer Efficiency and Supply Chain Reliability Act of 2024"],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 201374,
+  "name": "FIRSTENERGY SERVICE COMPANY",
+  "slug": "firstenergy-service-company",
+  "state": "OH",
+  "description": "diversified energy company",
+  "totalSpending": 1860000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 330000
+    },
+    {
+      "year": 2019,
+      "income": 440000
+    },
+    {
+      "year": 2020,
+      "income": 310000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 60000
+    }
+  ],
+  "firms": [
+    "MILLER STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "JEFFREY MILLER",
+    "GEORGE CARAM",
+    "JONATHAN HILER",
+    "STEPHEN RUPPEL"
+  ],
+  "issues": [
+    "UTI",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to grid resilience.",
+    "Issues related to grid resilience",
+    "Issues related to grid resilience and supply chain including HR 7171 Distribution Transformer Efficiency and Supply Chain Reliability Act of 2024"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -82,
+  "trajectory": "declining",
+  "yearsActive": 7,
+  "avgAnnualSpending": 265714,
+  "peakYear": 2019,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "energy"
+}

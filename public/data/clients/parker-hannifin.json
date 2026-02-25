@@ -1,1 +1,129 @@
-{"id":182991,"name":"PARKER HANNIFIN","slug":"parker-hannifin","state":"OH","description":null,"totalSpending":3120000,"filings":28,"yearlySpending":[{"year":2018,"income":310000},{"year":2019,"income":150000},{"year":2020,"income":330000},{"year":2021,"income":420000},{"year":2022,"income":610000},{"year":2023,"income":350000},{"year":2024,"income":370000},{"year":2025,"income":580000}],"firms":["LNE GROUP"],"lobbyists":["LEE WEINGART","SCOTT OWENS","JASON SMITH","GABE BELOW","JOSHUA KRAMER"],"issues":["TRD","MAN","DEF","URB","AGR","AER","BUD","ENV","CHM","ENG","FOO","EDU","LBR","CPI","FUE","MED","DIS","TAX","CPT","ECN","HCR","TRU","CSP","AVI","GOV","HOM","SCI","CAW","ROD","AUT","CDT","TRA","WAS",null],"sampleDescriptions":["Lobbied for issues related to trade.","Lobbied for issues related to manufacturing.","Lobbied for issues related to defense.","Lobbied for issues related to urban development.","Lobbied for agricultural issues.","Lobbied for aerospace issues.","Lobbied for issues related to the budget/appropriations.","Lobbied for issues related to the environment.","Lobbied for issues related to the chemicals industry.","Lobbied for issues related to energy.","Lobbied for issues related to the food industry.","Lobbied for issues related to education.","Lobbied for issues related to labor.","Lobbied for issues related to the computer industry.","Lobbied for issues related to oil and gas.","Lobbied for issues related to medical research.","Lobbied for issues related to disaster planning.","Lobbied for issues related to taxation.","Lobbied for issues related to copyrights, patents and trademarks.","Lobbied for issues related to economic development."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 182991,
+  "name": "PARKER HANNIFIN",
+  "slug": "parker-hannifin",
+  "state": "OH",
+  "description": null,
+  "totalSpending": 3120000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 310000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 330000
+    },
+    {
+      "year": 2021,
+      "income": 420000
+    },
+    {
+      "year": 2022,
+      "income": 610000
+    },
+    {
+      "year": 2023,
+      "income": 350000
+    },
+    {
+      "year": 2024,
+      "income": 370000
+    },
+    {
+      "year": 2025,
+      "income": 580000
+    }
+  ],
+  "firms": [
+    "LNE GROUP"
+  ],
+  "lobbyists": [
+    "LEE WEINGART",
+    "SCOTT OWENS",
+    "JASON SMITH",
+    "GABE BELOW",
+    "JOSHUA KRAMER"
+  ],
+  "issues": [
+    "TRD",
+    "MAN",
+    "DEF",
+    "URB",
+    "AGR",
+    "AER",
+    "BUD",
+    "ENV",
+    "CHM",
+    "ENG",
+    "FOO",
+    "EDU",
+    "LBR",
+    "CPI",
+    "FUE",
+    "MED",
+    "DIS",
+    "TAX",
+    "CPT",
+    "ECN",
+    "HCR",
+    "TRU",
+    "CSP",
+    "AVI",
+    "GOV",
+    "HOM",
+    "SCI",
+    "CAW",
+    "ROD",
+    "AUT",
+    "CDT",
+    "TRA",
+    "WAS",
+    null
+  ],
+  "sampleDescriptions": [
+    "Lobbied for issues related to trade.",
+    "Lobbied for issues related to manufacturing.",
+    "Lobbied for issues related to defense.",
+    "Lobbied for issues related to urban development.",
+    "Lobbied for agricultural issues.",
+    "Lobbied for aerospace issues.",
+    "Lobbied for issues related to the budget/appropriations.",
+    "Lobbied for issues related to the environment.",
+    "Lobbied for issues related to the chemicals industry.",
+    "Lobbied for issues related to energy.",
+    "Lobbied for issues related to the food industry.",
+    "Lobbied for issues related to education.",
+    "Lobbied for issues related to labor.",
+    "Lobbied for issues related to the computer industry.",
+    "Lobbied for issues related to oil and gas.",
+    "Lobbied for issues related to medical research.",
+    "Lobbied for issues related to disaster planning.",
+    "Lobbied for issues related to taxation.",
+    "Lobbied for issues related to copyrights, patents and trademarks.",
+    "Lobbied for issues related to economic development."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 87,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 390000,
+  "peakYear": 2022,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 33
+}

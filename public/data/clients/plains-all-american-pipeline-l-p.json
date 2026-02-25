@@ -1,1 +1,82 @@
-{"id":199577,"name":"PLAINS ALL AMERICAN PIPELINE, L.P.","slug":"plains-all-american-pipeline-l-p","state":"TX","description":"midstream energy company","totalSpending":2670000,"filings":23,"yearlySpending":[{"year":2018,"income":220000},{"year":2019,"income":550000},{"year":2020,"income":870000},{"year":2021,"income":600000},{"year":2022,"income":400000},{"year":2023,"income":30000}],"firms":["MICHAEL BEST STRATEGIES LLC"],"lobbyists":["DENISE BODE","KEVIN SWANSON","PATRICK FIRTH","MICHAEL DANKLER","HARRISON COLLINS","SARAH HELTON","BRIDGET VISCONTI","MOLLY MARTELL","RACHEL SPIVEY"],"issues":["TRD","ENG","TAX",null],"sampleDescriptions":["issues related to midstream asset development and steel import tariffs","issues related to midstream asset development","issues related to midstream asset development, steal import tariffs, and cross border permits","issues related to midstream asset development; issues related to PHMSA re-authorization","issues related to midstream asset development; issues related to PHMSA re-authorization; issues related to MLP modernization","Issues related to midstream asset development; issues related to PHMSA re-authorization; issues related to MLP modernization","issues related to the midstream energy sector","issues related to the midstream energy sector and energy storage capabilities"],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 199577,
+  "name": "PLAINS ALL AMERICAN PIPELINE, L.P.",
+  "slug": "plains-all-american-pipeline-l-p",
+  "state": "TX",
+  "description": "midstream energy company",
+  "totalSpending": 2670000,
+  "filings": 23,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 220000
+    },
+    {
+      "year": 2019,
+      "income": 550000
+    },
+    {
+      "year": 2020,
+      "income": 870000
+    },
+    {
+      "year": 2021,
+      "income": 600000
+    },
+    {
+      "year": 2022,
+      "income": 400000
+    },
+    {
+      "year": 2023,
+      "income": 30000
+    }
+  ],
+  "firms": [
+    "MICHAEL BEST STRATEGIES LLC"
+  ],
+  "lobbyists": [
+    "DENISE BODE",
+    "KEVIN SWANSON",
+    "PATRICK FIRTH",
+    "MICHAEL DANKLER",
+    "HARRISON COLLINS",
+    "SARAH HELTON",
+    "BRIDGET VISCONTI",
+    "MOLLY MARTELL",
+    "RACHEL SPIVEY"
+  ],
+  "issues": [
+    "TRD",
+    "ENG",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "issues related to midstream asset development and steel import tariffs",
+    "issues related to midstream asset development",
+    "issues related to midstream asset development, steal import tariffs, and cross border permits",
+    "issues related to midstream asset development; issues related to PHMSA re-authorization",
+    "issues related to midstream asset development; issues related to PHMSA re-authorization; issues related to MLP modernization",
+    "Issues related to midstream asset development; issues related to PHMSA re-authorization; issues related to MLP modernization",
+    "issues related to the midstream energy sector",
+    "issues related to the midstream energy sector and energy storage capabilities"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -86,
+  "trajectory": "declining",
+  "yearsActive": 6,
+  "avgAnnualSpending": 445000,
+  "peakYear": 2020,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

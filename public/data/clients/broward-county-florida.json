@@ -1,1 +1,83 @@
-{"id":163724,"name":"BROWARD COUNTY FLORIDA","slug":"broward-county-florida","state":"FL","description":"Local Government","totalSpending":1650000,"filings":33,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":300000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["THE CORMAC GROUP, LLC"],"lobbyists":["JONATHAN SLADE","JOHN TIMMONS","JAMES LINK","COLIN MUELLER","TERRENCE WOLFE"],"issues":["GOV",null],"sampleDescriptions":["Local Government Issues: WRRDA, Port Authority, Transportation, Border Protection, Ryan White, Sober Homes","Local government issues, WRRDA, Port Authority, Transportation, Border Protection, Ryan White, Sober Homes.","Local government issues, WRRDA, Port Authority, transportation, border protection, Ryan White, Sober homes","Local government issues, WRRDA, Port Authority, transportation, border protection, Ryan White, Sober homes.","Local government issues, WRRDA, Port Authority, transportation, border protection, Ryan White, Sober homes, appropriations, and FEMA.","Local government issues, WRRDA, Port Authority, transportation, border protection, Ryan White, Sober homes, appropriations, FEMA."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 163724,
+  "name": "BROWARD COUNTY FLORIDA",
+  "slug": "broward-county-florida",
+  "state": "FL",
+  "description": "Local Government",
+  "totalSpending": 1650000,
+  "filings": 33,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 300000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "THE CORMAC GROUP, LLC"
+  ],
+  "lobbyists": [
+    "JONATHAN SLADE",
+    "JOHN TIMMONS",
+    "JAMES LINK",
+    "COLIN MUELLER",
+    "TERRENCE WOLFE"
+  ],
+  "issues": [
+    "GOV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Local Government Issues: WRRDA, Port Authority, Transportation, Border Protection, Ryan White, Sober Homes",
+    "Local government issues, WRRDA, Port Authority, Transportation, Border Protection, Ryan White, Sober Homes.",
+    "Local government issues, WRRDA, Port Authority, transportation, border protection, Ryan White, Sober homes",
+    "Local government issues, WRRDA, Port Authority, transportation, border protection, Ryan White, Sober homes.",
+    "Local government issues, WRRDA, Port Authority, transportation, border protection, Ryan White, Sober homes, appropriations, and FEMA.",
+    "Local government issues, WRRDA, Port Authority, transportation, border protection, Ryan White, Sober homes, appropriations, FEMA."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 206250,
+  "peakYear": 2019,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1
+}

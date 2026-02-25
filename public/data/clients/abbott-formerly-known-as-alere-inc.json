@@ -1,1 +1,109 @@
-{"id":181314,"name":"ABBOTT (FORMERLY KNOWN AS ALERE INC.)","slug":"abbott-formerly-known-as-alere-inc","state":"MA","description":"Alere manufactures innovative point of care health care diagnostics","totalSpending":2560000,"filings":32,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":400000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":320000}],"firms":["TARPLIN, DOWNS & YOUNG, LLC"],"lobbyists":["RAISSA DOWNS","JENNIFER YOUNG","MICHELLE EASTON","ELIZABETH MURRAY","CHARLOTTE IVANCIC","PAMELA SMITH","EMILY MURRY","KIMBERLY BRANDT","MARGARET JOSEPH","PETER FISE","LAURA FRIEDEL","PARICK CARROLL"],"issues":["HCR","TAX","MMM","BUD","TRD",null,"ENV"],"sampleDescriptions":["medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids\nPL 114-255 - 21st Century Cures, implementation\nH.R. 2430 - FDA Reauthorization Act of 2017","S. 108- Medical Device Access and Innovation Protection Act\nH.R. 184 - Protect Medical Innovation Act of 2017\nH.R. 1- Tax Cuts and Jobs Act","Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nH.R. 3921 - Healthy Kids Act\nS. 1827 - Kids Act of 2017\nOpioids\ndiagnostics","H.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018","H.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\nH.R. 6157 - HHS appropriations and continuing resolution","S. 108- Medical Device Access and Innovation Protection Act\nH.R. 184 - Protect Medical Innovation Act of 2017\nH.R. 1- Tax Cuts and Jobs Act\nH.R. 195 - CR","medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids\nPL 114-255 - 21st Century Cures, implementation\nH.R. 2430 - FDA Reauthorization Act of 2017\nH.R. 6 - SUPPORT for Patients and Communities Act\nS. 3120 - HEAL Substance Use Disorders Act\nS. 2680 - Opioid Crisis Response Act","Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nH.R. 3921 - Healthy Kids Act\nS. 1827 - Kids Act of 2017\nOpioids\ndiagnostics\nPAMA, CLIA\nSelf-testing\nNutrition","H.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\nH.R. 6157 - HHS appropriations and continuing resolution\nH.R. 695 - Department of Defense Appropriations Act","S. 692 - Protect Medical Innovation Act of 2019\nmedical device tax","medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids, software as a medical device, interoperability, cybersecurity, data privacy","Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nOpioids\ndiagnostics\nPAMA, CLIA\nSelf-testing\nNutrition","Appropriations, budget\nH.J.Res. 31, Consolidated Appropriations Act, 2019","medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids, software as a medical device, interoperability, cybersecurity, data privacy, effective pain management\n\nS. 1895 - Lower Health Care Costs Act","Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nOpioids\ndiagnostics\nPAMA, CLIA\nSelf-testing\nNutrition\nMalnutrition and hospital readmissions","Appropriations, budget\nH.R. 2740 - HHS Appropriations, 2020\nH.R. 3164 - FDA Appropriations, 2020","H.R. 2207/S. 692 - Protect Medical Innovation Act of 2019\nmedical device tax","Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nOpioids\ndiagnostics\nPAMA, CLIA\nSelf-testing\nNutrition\nMalnutrition and hospital readmissions\nEmerging medical device technology","medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids, software as a medical device, interoperability, cybersecurity, data privacy, effective pain management, Sunshine\n\nS. 1895 - Lower Health Care Costs Act","Appropriations, budget\nH.R. 2740 - HHS Appropriations, 2020\nH.R. 3164 - FDA Appropriations, 2020\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 181314,
+  "name": "ABBOTT (FORMERLY KNOWN AS ALERE INC.)",
+  "slug": "abbott-formerly-known-as-alere-inc",
+  "state": "MA",
+  "description": "Alere manufactures innovative point of care health care diagnostics",
+  "totalSpending": 2560000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 400000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "TARPLIN, DOWNS & YOUNG, LLC"
+  ],
+  "lobbyists": [
+    "RAISSA DOWNS",
+    "JENNIFER YOUNG",
+    "MICHELLE EASTON",
+    "ELIZABETH MURRAY",
+    "CHARLOTTE IVANCIC",
+    "PAMELA SMITH",
+    "EMILY MURRY",
+    "KIMBERLY BRANDT",
+    "MARGARET JOSEPH",
+    "PETER FISE",
+    "LAURA FRIEDEL",
+    "PARICK CARROLL"
+  ],
+  "issues": [
+    "HCR",
+    "TAX",
+    "MMM",
+    "BUD",
+    "TRD",
+    null,
+    "ENV"
+  ],
+  "sampleDescriptions": [
+    "medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids\nPL 114-255 - 21st Century Cures, implementation\nH.R. 2430 - FDA Reauthorization Act of 2017",
+    "S. 108- Medical Device Access and Innovation Protection Act\nH.R. 184 - Protect Medical Innovation Act of 2017\nH.R. 1- Tax Cuts and Jobs Act",
+    "Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nH.R. 3921 - Healthy Kids Act\nS. 1827 - Kids Act of 2017\nOpioids\ndiagnostics",
+    "H.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018",
+    "H.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\nH.R. 6157 - HHS appropriations and continuing resolution",
+    "S. 108- Medical Device Access and Innovation Protection Act\nH.R. 184 - Protect Medical Innovation Act of 2017\nH.R. 1- Tax Cuts and Jobs Act\nH.R. 195 - CR",
+    "medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids\nPL 114-255 - 21st Century Cures, implementation\nH.R. 2430 - FDA Reauthorization Act of 2017\nH.R. 6 - SUPPORT for Patients and Communities Act\nS. 3120 - HEAL Substance Use Disorders Act\nS. 2680 - Opioid Crisis Response Act",
+    "Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nH.R. 3921 - Healthy Kids Act\nS. 1827 - Kids Act of 2017\nOpioids\ndiagnostics\nPAMA, CLIA\nSelf-testing\nNutrition",
+    "H.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\nH.R. 6157 - HHS appropriations and continuing resolution\nH.R. 695 - Department of Defense Appropriations Act",
+    "S. 692 - Protect Medical Innovation Act of 2019\nmedical device tax",
+    "medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids, software as a medical device, interoperability, cybersecurity, data privacy",
+    "Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nOpioids\ndiagnostics\nPAMA, CLIA\nSelf-testing\nNutrition",
+    "Appropriations, budget\nH.J.Res. 31, Consolidated Appropriations Act, 2019",
+    "medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids, software as a medical device, interoperability, cybersecurity, data privacy, effective pain management\n\nS. 1895 - Lower Health Care Costs Act",
+    "Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nOpioids\ndiagnostics\nPAMA, CLIA\nSelf-testing\nNutrition\nMalnutrition and hospital readmissions",
+    "Appropriations, budget\nH.R. 2740 - HHS Appropriations, 2020\nH.R. 3164 - FDA Appropriations, 2020",
+    "H.R. 2207/S. 692 - Protect Medical Innovation Act of 2019\nmedical device tax",
+    "Medicare reimbursement\nMedicare competitive bidding for diabetic supplies\nOpioids\ndiagnostics\nPAMA, CLIA\nSelf-testing\nNutrition\nMalnutrition and hospital readmissions\nEmerging medical device technology",
+    "medical device user fee reauthorization, diagnostics regulation, in vitro diagnostics, influenza preparedness, opioids, software as a medical device, interoperability, cybersecurity, data privacy, effective pain management, Sunshine\n\nS. 1895 - Lower Health Care Costs Act",
+    "Appropriations, budget\nH.R. 2740 - HHS Appropriations, 2020\nH.R. 3164 - FDA Appropriations, 2020\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 320000,
+  "peakYear": 2022,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 6
+}

@@ -1,1 +1,84 @@
-{"id":209002,"name":"MODERNA US INC.","slug":"moderna-us-inc","state":"MA","description":"Pharmaceuticals","totalSpending":1370000,"filings":18,"yearlySpending":[{"year":2021,"income":100000},{"year":2022,"income":310000},{"year":2023,"income":400000},{"year":2024,"income":320000},{"year":2025,"income":240000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["CARMENCITA WHONDER","MARC LAMPKIN","ARACELI GUTIERREZ","NADEAM ELSHAMI","EMILY FELDER","LAKEITHA ANDERSON","SAMANTHA CARL-YODER","EDWARD ROYCE","DOUGLAS MAGUIRE","ALFRED MOTTUR","ANDREW USYK","MARCKIA HAYES","BRIAN MCGUIRE","ADAM STEINMETZ","JONATHAN TOWERS","BRANDT ANDERSON","TRAVIS NORTON","ARI ZIMMERMAN","DEEMA TARAZI"],"issues":["PHA","FOR","HCR",null],"sampleDescriptions":["Issues related to mRNA drug discovery, drug development, and vaccine technologies","Issues related to international vaccine deployment","Issues related to mRNA vaccines, drug discovery, drug development, and vaccine technologies","Issues related to drug discovery, drug development, vaccine technologies, and coverage and reimbursement.","Issues related to international vaccine deployment.","Issues related to drug discovery, drug development, vaccine technologies, and coverage and reimbursement Issues related to biotechnology legislation and supply chain"],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 209002,
+  "name": "MODERNA US INC.",
+  "slug": "moderna-us-inc",
+  "state": "MA",
+  "description": "Pharmaceuticals",
+  "totalSpending": 1370000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 100000
+    },
+    {
+      "year": 2022,
+      "income": 310000
+    },
+    {
+      "year": 2023,
+      "income": 400000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "CARMENCITA WHONDER",
+    "MARC LAMPKIN",
+    "ARACELI GUTIERREZ",
+    "NADEAM ELSHAMI",
+    "EMILY FELDER",
+    "LAKEITHA ANDERSON",
+    "SAMANTHA CARL-YODER",
+    "EDWARD ROYCE",
+    "DOUGLAS MAGUIRE",
+    "ALFRED MOTTUR",
+    "ANDREW USYK",
+    "MARCKIA HAYES",
+    "BRIAN MCGUIRE",
+    "ADAM STEINMETZ",
+    "JONATHAN TOWERS",
+    "BRANDT ANDERSON",
+    "TRAVIS NORTON",
+    "ARI ZIMMERMAN",
+    "DEEMA TARAZI"
+  ],
+  "issues": [
+    "PHA",
+    "FOR",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to mRNA drug discovery, drug development, and vaccine technologies",
+    "Issues related to international vaccine deployment",
+    "Issues related to mRNA vaccines, drug discovery, drug development, and vaccine technologies",
+    "Issues related to drug discovery, drug development, vaccine technologies, and coverage and reimbursement.",
+    "Issues related to international vaccine deployment.",
+    "Issues related to drug discovery, drug development, vaccine technologies, and coverage and reimbursement Issues related to biotechnology legislation and supply chain"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 140,
+  "trajectory": "exploding",
+  "yearsActive": 5,
+  "avgAnnualSpending": 274000,
+  "peakYear": 2023,
+  "lobbyistCount": 19,
+  "firmCount": 1,
+  "issueCount": 3
+}

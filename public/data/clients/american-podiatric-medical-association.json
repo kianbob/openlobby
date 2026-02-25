@@ -1,1 +1,99 @@
-{"id":165725,"name":"AMERICAN PODIATRIC MEDICAL ASSOCIATION","slug":"american-podiatric-medical-association","state":"MD","description":"Organization representing podiatric physicians and surgeons.","totalSpending":1380000,"filings":29,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":160000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":250000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":100000}],"firms":["CAPITOL HILL CONSULTING GROUP"],"lobbyists":["BRIAN SUTTER","THOMAS WHARTON","EMILY WILKINSON-HOLLAND","CHRISTOPHER DAVIS"],"issues":["HCR","VET","MMM",null],"sampleDescriptions":["Medicaid and VA coverage of podiatric services.","Issues related to H.R. 1058 / S. 1871, VA Provider Equity Act","Issues related to H.R. 1542 / S. 1533 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.\nIssues related H.R. 1625, the Consolidated Appropriations Act of 2018","Issues related to H.R. 1542 / S. 1533 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.\nIssues related H.R. 1625, the Consolidated Appropriations Act of 2018. Issues relating to physicians payments (E&M codes).","Issues related to H.R. 1542 / S. 1533 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.","Issues related to S. 863 to clarify the VA Provider Equity Act","Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.","Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act. Issues related to therapeutic shoes.","Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act. Issues related to therapeutic shoes.Issues related to coronavirus, including funding and regulatory flexibility for providers.","Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act. \nIssues related to therapeutic shoes.\nIssues related to coronavirus, including funding and regulatory flexibility for providers.","Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act. \nIssues related to therapeutic shoes.\nIssues related to coronavirus, including funding and regulatory flexibility for providers.\nIssues related to the HHS Provider Relief Fund\nIssues regarding physician reimbursement","Issues related to S. 863 to clarify the VA Provider Equity Act.","Issues related to reintroduction of H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.\nIssues related to therapeutic shoes.\nIssues related to coronavirus, including funding and regulatory flexibility for providers.\nIssues related to the HHS Provider Relief Fund\nIssues regarding physician reimbursement","Issues related to reintroduction of H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians S. 2769 (HELLPP) Act.\nIssues related to therapeutic shoes.\nIssues related to coronavirus, including funding and regulatory flexibility for providers.\nIssues related to the HHS Provider Relief Fund\nIssues regarding physician reimbursement","Issues to clarify the VA Provider Equity Act including H.R. 2545 and S 2787.","Issues related to reintroduction of H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians S. 2769 (HELLPP) Act. Issues related to therapeutic shoes. Issues related to coronavirus, including funding and regulatory flexibility for providers. Issues related to the HHS Provider Relief Fund Issues regarding physician reimbursement","Issues to clarify the VA Provider Equity Act including H.R. 2545 and S 2787. Expanded services through the Veterans Affairs Administration.","Issues related to reintroduction of H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians S. 2769 (HELLPP) Act. Issues related to therapeutic shoes. Issues related to coronavirus, including funding and regulatory flexibility for providers. Issues regarding physician reimbursement","Issues related to H.R. 1634 / S. 1367 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act Issues related to therapeutic shoes. Issues regarding physician reimbursement","Issues to clarify the VA Provider Equity Act including H.R.1634. Expanded services through the Veterans Affairs Administration."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 165725,
+  "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION",
+  "slug": "american-podiatric-medical-association",
+  "state": "MD",
+  "description": "Organization representing podiatric physicians and surgeons.",
+  "totalSpending": 1380000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 120000
+    },
+    {
+      "year": 2019,
+      "income": 160000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 250000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 100000
+    }
+  ],
+  "firms": [
+    "CAPITOL HILL CONSULTING GROUP"
+  ],
+  "lobbyists": [
+    "BRIAN SUTTER",
+    "THOMAS WHARTON",
+    "EMILY WILKINSON-HOLLAND",
+    "CHRISTOPHER DAVIS"
+  ],
+  "issues": [
+    "HCR",
+    "VET",
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Medicaid and VA coverage of podiatric services.",
+    "Issues related to H.R. 1058 / S. 1871, VA Provider Equity Act",
+    "Issues related to H.R. 1542 / S. 1533 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.\nIssues related H.R. 1625, the Consolidated Appropriations Act of 2018",
+    "Issues related to H.R. 1542 / S. 1533 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.\nIssues related H.R. 1625, the Consolidated Appropriations Act of 2018. Issues relating to physicians payments (E&M codes).",
+    "Issues related to H.R. 1542 / S. 1533 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.",
+    "Issues related to S. 863 to clarify the VA Provider Equity Act",
+    "Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.",
+    "Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act. Issues related to therapeutic shoes.",
+    "Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act. Issues related to therapeutic shoes.Issues related to coronavirus, including funding and regulatory flexibility for providers.",
+    "Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act. \nIssues related to therapeutic shoes.\nIssues related to coronavirus, including funding and regulatory flexibility for providers.",
+    "Issues related to H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act. \nIssues related to therapeutic shoes.\nIssues related to coronavirus, including funding and regulatory flexibility for providers.\nIssues related to the HHS Provider Relief Fund\nIssues regarding physician reimbursement",
+    "Issues related to S. 863 to clarify the VA Provider Equity Act.",
+    "Issues related to reintroduction of H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act.\nIssues related to therapeutic shoes.\nIssues related to coronavirus, including funding and regulatory flexibility for providers.\nIssues related to the HHS Provider Relief Fund\nIssues regarding physician reimbursement",
+    "Issues related to reintroduction of H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians S. 2769 (HELLPP) Act.\nIssues related to therapeutic shoes.\nIssues related to coronavirus, including funding and regulatory flexibility for providers.\nIssues related to the HHS Provider Relief Fund\nIssues regarding physician reimbursement",
+    "Issues to clarify the VA Provider Equity Act including H.R. 2545 and S 2787.",
+    "Issues related to reintroduction of H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians S. 2769 (HELLPP) Act. Issues related to therapeutic shoes. Issues related to coronavirus, including funding and regulatory flexibility for providers. Issues related to the HHS Provider Relief Fund Issues regarding physician reimbursement",
+    "Issues to clarify the VA Provider Equity Act including H.R. 2545 and S 2787. Expanded services through the Veterans Affairs Administration.",
+    "Issues related to reintroduction of H.R. 2235 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians S. 2769 (HELLPP) Act. Issues related to therapeutic shoes. Issues related to coronavirus, including funding and regulatory flexibility for providers. Issues regarding physician reimbursement",
+    "Issues related to H.R. 1634 / S. 1367 Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians (HELLPP) Act Issues related to therapeutic shoes. Issues regarding physician reimbursement",
+    "Issues to clarify the VA Provider Equity Act including H.R.1634. Expanded services through the Veterans Affairs Administration."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -17,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 172500,
+  "peakYear": 2022,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "healthcare"
+}

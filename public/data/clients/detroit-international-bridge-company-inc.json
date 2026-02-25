@@ -1,1 +1,67 @@
-{"id":201265,"name":"DETROIT INTERNATIONAL BRIDGE COMPANY, INC.","slug":"detroit-international-bridge-company-inc","state":"MI","description":"Transportation and Logistics Company","totalSpending":2720000,"filings":14,"yearlySpending":[{"year":2018,"income":700000},{"year":2019,"income":690000},{"year":2020,"income":920000},{"year":2021,"income":160000},{"year":2025,"income":250000}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","PAMELA BONDI","AARON SAMPSON","MICAH KETCHEL","HUNTER MORGEN","TRACIE POUGH"],"issues":["TRD","TRA","GOV"],"sampleDescriptions":["Transportation Regulation and Policy","Issues related to construction and operation of international bridges."],"years":[2018,2019,2020,2021,2025]}
+{
+  "id": 201265,
+  "name": "DETROIT INTERNATIONAL BRIDGE COMPANY, INC.",
+  "slug": "detroit-international-bridge-company-inc",
+  "state": "MI",
+  "description": "Transportation and Logistics Company",
+  "totalSpending": 2720000,
+  "filings": 14,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 700000
+    },
+    {
+      "year": 2019,
+      "income": 690000
+    },
+    {
+      "year": 2020,
+      "income": 920000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2025,
+      "income": 250000
+    }
+  ],
+  "firms": [
+    "BALLARD PARTNERS"
+  ],
+  "lobbyists": [
+    "BRIAN BALLARD",
+    "SYLVESTER LUKIS",
+    "PAMELA BONDI",
+    "AARON SAMPSON",
+    "MICAH KETCHEL",
+    "HUNTER MORGEN",
+    "TRACIE POUGH"
+  ],
+  "issues": [
+    "TRD",
+    "TRA",
+    "GOV"
+  ],
+  "sampleDescriptions": [
+    "Transportation Regulation and Policy",
+    "Issues related to construction and operation of international bridges."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2025
+  ],
+  "growthRate": -64,
+  "trajectory": "declining",
+  "yearsActive": 5,
+  "avgAnnualSpending": 544000,
+  "peakYear": 2020,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 3
+}

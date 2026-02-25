@@ -1,1 +1,97 @@
-{"id":177452,"name":"POET LLC","slug":"poet-llc","state":"SD","description":null,"totalSpending":1830000,"filings":27,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":120000},{"year":2022,"income":180000},{"year":2023,"income":310000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["BOCKORNY GROUP, INC."],"lobbyists":["PAUL SHEARER","DAVID BOCKORNY","NICOLE VENABLE","PETER LAWSON","BLAIR LARKINS","JOE BLISS","JEFFREY BECKER","ERIC BOHL"],"issues":["TRD","AGR","TAX","ENG",null],"sampleDescriptions":["Issues related to country of origin labeling","Issues related to the implementation of the Agriculture Act of 2014 (Energy Issues)\nIssues related to country of origin labeling","Issues related to tax credits for the installation of blender pumps\nIssues related to cellulosic tax credits\nIssues related to ethanol and renewable fuels tax issues\nTechnical text corrections related to Section 199A deduction for qualified business income of pass-through entities","Issues related to the Renewable Fuel Standard (RFS)\nIssues related to E-15, flex-fuel vehicles, and blender pumps\nIssues related to the RFS \"point of obligation\"\nH.R.1311 - Consumer and Fuel Retailer Choice Act\nS.517 - Consumer and Fuel Retailer Choice Act","Issues related to cellulosic tax extenders\nIssues related to the Renewable Fuel Standard (RFS)\nIssues related to E-15, flex-fuel vehicles, and blender pumps\nIssues related to the RFS \"point of obligation\"","Issues related to cellulosic tax extenders\nIssues related to the Renewable Fuel Standard (RFS)\nIssues related to E-15, flex-fuel vehicles, and blender pumps\nIssues related to the RFS \"point of obligation\"\nClean Fuel Deployment Amendment to H.R.2 INVEST in America Act and S.3986 A bill to approve certain advanced biofuel registrations, to require the consideration of certain advanced biofuel pathways, and to reduce greenhouse gas emissions, and for other purposes","Issues related to cellulosic tax extenders\nIssues related to the Renewable Fuel Standard (RFS)\nIssues related to E-15, flex-fuel vehicles, and blender pumps\nIssues related to the RFS \"point of obligation\"\nS.3986 A bill to approve certain advanced biofuel registrations, to require the consideration of certain advanced biofuel pathways, and to reduce greenhouse gas emissions, and for other purposes\nH.R.8759 Streamlining Advanced Biofuels Registration Act of 2020","Introductions to POET","Issues related to EPA cellulosic tax extenders\nIssues related to renewable fuel standard\nIssues related to funding for biofuel infrastructure","Issues related to renewable fuel standard Issues related to funding for biofuel infrastructure Issues to getting E-15 year round","Issues related to renewable fuel standard Issues related to funding for biofuel infrastructure Issues to getting E-15 year round Issues related to definitions of low carbon fuels Issues related to sustainable aviation fuel","Issues related to renewable fuel standard Issues related to funding for biofuel infrastructure Issues to getting E-15 year round Issues related to definitions of low carbon fuels Issues related to sustainable aviation fuel Issues related to low carbon tax credits","Issues related to renewable fuel standard Issues to getting E-15 year round Issues related to definitions of low carbon fuels Issues related to low carbon tax credits","Issues related to renewable fuel standard Issues related to getting E-15 year round Issues related to low carbon tax credits"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 177452,
+  "name": "POET LLC",
+  "slug": "poet-llc",
+  "state": "SD",
+  "description": null,
+  "totalSpending": 1830000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 310000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "BOCKORNY GROUP, INC."
+  ],
+  "lobbyists": [
+    "PAUL SHEARER",
+    "DAVID BOCKORNY",
+    "NICOLE VENABLE",
+    "PETER LAWSON",
+    "BLAIR LARKINS",
+    "JOE BLISS",
+    "JEFFREY BECKER",
+    "ERIC BOHL"
+  ],
+  "issues": [
+    "TRD",
+    "AGR",
+    "TAX",
+    "ENG",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to country of origin labeling",
+    "Issues related to the implementation of the Agriculture Act of 2014 (Energy Issues)\nIssues related to country of origin labeling",
+    "Issues related to tax credits for the installation of blender pumps\nIssues related to cellulosic tax credits\nIssues related to ethanol and renewable fuels tax issues\nTechnical text corrections related to Section 199A deduction for qualified business income of pass-through entities",
+    "Issues related to the Renewable Fuel Standard (RFS)\nIssues related to E-15, flex-fuel vehicles, and blender pumps\nIssues related to the RFS \"point of obligation\"\nH.R.1311 - Consumer and Fuel Retailer Choice Act\nS.517 - Consumer and Fuel Retailer Choice Act",
+    "Issues related to cellulosic tax extenders\nIssues related to the Renewable Fuel Standard (RFS)\nIssues related to E-15, flex-fuel vehicles, and blender pumps\nIssues related to the RFS \"point of obligation\"",
+    "Issues related to cellulosic tax extenders\nIssues related to the Renewable Fuel Standard (RFS)\nIssues related to E-15, flex-fuel vehicles, and blender pumps\nIssues related to the RFS \"point of obligation\"\nClean Fuel Deployment Amendment to H.R.2 INVEST in America Act and S.3986 A bill to approve certain advanced biofuel registrations, to require the consideration of certain advanced biofuel pathways, and to reduce greenhouse gas emissions, and for other purposes",
+    "Issues related to cellulosic tax extenders\nIssues related to the Renewable Fuel Standard (RFS)\nIssues related to E-15, flex-fuel vehicles, and blender pumps\nIssues related to the RFS \"point of obligation\"\nS.3986 A bill to approve certain advanced biofuel registrations, to require the consideration of certain advanced biofuel pathways, and to reduce greenhouse gas emissions, and for other purposes\nH.R.8759 Streamlining Advanced Biofuels Registration Act of 2020",
+    "Introductions to POET",
+    "Issues related to EPA cellulosic tax extenders\nIssues related to renewable fuel standard\nIssues related to funding for biofuel infrastructure",
+    "Issues related to renewable fuel standard Issues related to funding for biofuel infrastructure Issues to getting E-15 year round",
+    "Issues related to renewable fuel standard Issues related to funding for biofuel infrastructure Issues to getting E-15 year round Issues related to definitions of low carbon fuels Issues related to sustainable aviation fuel",
+    "Issues related to renewable fuel standard Issues related to funding for biofuel infrastructure Issues to getting E-15 year round Issues related to definitions of low carbon fuels Issues related to sustainable aviation fuel Issues related to low carbon tax credits",
+    "Issues related to renewable fuel standard Issues to getting E-15 year round Issues related to definitions of low carbon fuels Issues related to low carbon tax credits",
+    "Issues related to renewable fuel standard Issues related to getting E-15 year round Issues related to low carbon tax credits"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 228750,
+  "peakYear": 2025,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 4
+}

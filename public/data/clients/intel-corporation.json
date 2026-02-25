@@ -1,1 +1,112 @@
-{"id":186676,"name":"INTEL CORPORATION","slug":"intel-corporation","state":"DC","description":"Semiconductor Company and Inventor of Microprocessors","totalSpending":1400000,"filings":27,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":210000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000}],"firms":["KOUNTOUPES DENHAM CARR & REID, LLC"],"lobbyists":["LORI DENHAM","MARY REID","ROSE SULLIVAN (LISTED IN ERROR)","DAVID PELUSO","JULIE CARR","LISA KOUNTOUPES","MJ KENNY","ADAM HECHAVARRIA","CLAYTON HAYES","DENISE MOUSOURIS","DENISE NORTHRUP","MARY BEAL"],"issues":["TRD","CPI","CPT","TEC","HCR","AVI","SCI","FIN","ENG","DEF","TAX","BUD","FOR","MAN",null],"sampleDescriptions":["Issues related to trade, customs and trade facilitation as they relate to the semi-conductor industry.  The Committee on Foreign Investment in the United States (CFIUS).  Import and export control systems.","Innovation and competitive issues as they affect the semi-conductor industry, spectrum policy and cybersecurity.  Issues relating to prioritizing fundamental science, basic research and development and exascale computing.","Issues related to intellectual property protection and patent reform.  Issues related to Standard Essential Patents.","The development of smart, integrated systems and devices including the Internet of Things, Smart America and Artificial Intelligence.  H. R. 1576, the Innovation Corps Act of 2017.  Issues related to 5G. Issues related to autonomous vehicles.  S.1885, AV START Act and H. R. 3388 SELF DRIVE Act.  S.19, MOBILE NOW Act and H. R. 4986, RAY BAUM's Act of 2018.  CPU security-related issues.  Issues related to federal technology acquisition and use.","Issues related to the implementation and adoption of health information technology, genomics and precision medicine including remote patient monitoring.  H. R. 5062, Advancing Access to Precision Medicine Act, S.1016, CONNECT for Health Act, and provisions included in H. R. 1625 related to health IT.","Issues related to Federal Aviation Administration small unmanned aerial systems/UAS registration rules and UAS petitions.","Issues relating to prioritizing fundamental science, basic research and development, quantum computing and exascale computing.","Issues related to telemedicine and remote patient monitoring.  Issues related to the implementation and adoption of health information technology, genomics and precision medicine.","Issues related to trade, customs and trade facilitation as they relate to the semi-conductor industry, the Committee on Foreign Investment in the United States (CFIUS), and import and export control systems.","The development of smart, integrated systems and devices including the Internet of Things, Smart America and Artificial Intelligence.  H. R. 1576, the Innovation Corps Act of 2017.  Issues related to 5G. Issues related to autonomous vehicles.  S.1885, AV START Act and H. R. 3388 SELF DRIVE Act.  S.19, MOBILE NOW Act.  CPU security-related issues.  Issues related to federal technology acquisition and use. H. R. 4953/S.1682 AIRWAVES Act.","The development of smart, integrated systems and devices including the Internet of Things, Smart America and Artificial Intelligence.  H. R. 1576, the Innovation Corps Act of 2017.  Issues related to 5G. Issues related to autonomous vehicles.  S.1885, AV START Act and H. R. 3388 SELF DRIVE Act.  CPU security-related issues.  Issues related to federal technology acquisition and use. H. R. 4953/S.1682 AIRWAVES Act.  Issues related to data privacy.","Issues related to the Intel Capital Diversity Initiative, which invests in businesses founded and/or managed by women, under-represented minorities, U. S. military veterans, the physically disabled, and the LGBTQ community.","Issues related to telemedicine and remote patient monitoring.  Issues related to the implementation and adoption of health information technology, genomics and precision medicine.  H. R. 5062, Advancing Access to Precision Medicine Act.","Issues relating to prioritizing fundamental science, basic research and development, quantum computing and exascale computing.  S.3143 and H. R. 6227, the National Quantum Initiative Act.","The development of smart, integrated systems and devices including the Internet of Things, Smart America and Artificial Intelligence.  H. R. 1576, the Innovation Corps Act of 2017.  Issues related to 5G. Issues related to privacy.  Issues related to autonomous vehicles.  S.1885, AV START Act and H. R. 3388 SELF DRIVE Act.  CPU security-related issues.  Issues related to federal technology acquisition and use. H. R. 4953/S.1682 AIRWAVES Act.  Issues related to data privacy.","Innovation and competitive issues as they affect the semi-conductor industry, spectrum policy, privacy and cybersecurity.  Issues relating to prioritizing fundamental science, basic research and development and exascale computing.","Issues related to trade, customs and trade facilitation as they relate to the semi-conductor industry.","Issues related to telemedicine and remote patient monitoring.  Issues related to the implementation and adoption of health information technology, genomics and precision medicine.  Issues related to Intel's Connected Care benefits and implications for the health care delivery system.  Issues related to the application of Artificial Intelligence in health care.","The development of smart, integrated systems and devices including the Internet of Things and Artificial Intelligence.  Issues related to consumer privacy, 5G and autonomous vehicles.  CPU security-related issues.  Issues related to federal technology acquisition and use.","Issues related to the application of Artificial Intelligence in health care.  Issues related to the implementation and adoption of health information technology, genomics and precision medicine."],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 186676,
+  "name": "INTEL CORPORATION",
+  "slug": "intel-corporation",
+  "state": "DC",
+  "description": "Semiconductor Company and Inventor of Microprocessors",
+  "totalSpending": 1400000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 210000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "KOUNTOUPES DENHAM CARR & REID, LLC"
+  ],
+  "lobbyists": [
+    "LORI DENHAM",
+    "MARY REID",
+    "ROSE SULLIVAN (LISTED IN ERROR)",
+    "DAVID PELUSO",
+    "JULIE CARR",
+    "LISA KOUNTOUPES",
+    "MJ KENNY",
+    "ADAM HECHAVARRIA",
+    "CLAYTON HAYES",
+    "DENISE MOUSOURIS",
+    "DENISE NORTHRUP",
+    "MARY BEAL"
+  ],
+  "issues": [
+    "TRD",
+    "CPI",
+    "CPT",
+    "TEC",
+    "HCR",
+    "AVI",
+    "SCI",
+    "FIN",
+    "ENG",
+    "DEF",
+    "TAX",
+    "BUD",
+    "FOR",
+    "MAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to trade, customs and trade facilitation as they relate to the semi-conductor industry.  The Committee on Foreign Investment in the United States (CFIUS).  Import and export control systems.",
+    "Innovation and competitive issues as they affect the semi-conductor industry, spectrum policy and cybersecurity.  Issues relating to prioritizing fundamental science, basic research and development and exascale computing.",
+    "Issues related to intellectual property protection and patent reform.  Issues related to Standard Essential Patents.",
+    "The development of smart, integrated systems and devices including the Internet of Things, Smart America and Artificial Intelligence.  H. R. 1576, the Innovation Corps Act of 2017.  Issues related to 5G. Issues related to autonomous vehicles.  S.1885, AV START Act and H. R. 3388 SELF DRIVE Act.  S.19, MOBILE NOW Act and H. R. 4986, RAY BAUM's Act of 2018.  CPU security-related issues.  Issues related to federal technology acquisition and use.",
+    "Issues related to the implementation and adoption of health information technology, genomics and precision medicine including remote patient monitoring.  H. R. 5062, Advancing Access to Precision Medicine Act, S.1016, CONNECT for Health Act, and provisions included in H. R. 1625 related to health IT.",
+    "Issues related to Federal Aviation Administration small unmanned aerial systems/UAS registration rules and UAS petitions.",
+    "Issues relating to prioritizing fundamental science, basic research and development, quantum computing and exascale computing.",
+    "Issues related to telemedicine and remote patient monitoring.  Issues related to the implementation and adoption of health information technology, genomics and precision medicine.",
+    "Issues related to trade, customs and trade facilitation as they relate to the semi-conductor industry, the Committee on Foreign Investment in the United States (CFIUS), and import and export control systems.",
+    "The development of smart, integrated systems and devices including the Internet of Things, Smart America and Artificial Intelligence.  H. R. 1576, the Innovation Corps Act of 2017.  Issues related to 5G. Issues related to autonomous vehicles.  S.1885, AV START Act and H. R. 3388 SELF DRIVE Act.  S.19, MOBILE NOW Act.  CPU security-related issues.  Issues related to federal technology acquisition and use. H. R. 4953/S.1682 AIRWAVES Act.",
+    "The development of smart, integrated systems and devices including the Internet of Things, Smart America and Artificial Intelligence.  H. R. 1576, the Innovation Corps Act of 2017.  Issues related to 5G. Issues related to autonomous vehicles.  S.1885, AV START Act and H. R. 3388 SELF DRIVE Act.  CPU security-related issues.  Issues related to federal technology acquisition and use. H. R. 4953/S.1682 AIRWAVES Act.  Issues related to data privacy.",
+    "Issues related to the Intel Capital Diversity Initiative, which invests in businesses founded and/or managed by women, under-represented minorities, U. S. military veterans, the physically disabled, and the LGBTQ community.",
+    "Issues related to telemedicine and remote patient monitoring.  Issues related to the implementation and adoption of health information technology, genomics and precision medicine.  H. R. 5062, Advancing Access to Precision Medicine Act.",
+    "Issues relating to prioritizing fundamental science, basic research and development, quantum computing and exascale computing.  S.3143 and H. R. 6227, the National Quantum Initiative Act.",
+    "The development of smart, integrated systems and devices including the Internet of Things, Smart America and Artificial Intelligence.  H. R. 1576, the Innovation Corps Act of 2017.  Issues related to 5G. Issues related to privacy.  Issues related to autonomous vehicles.  S.1885, AV START Act and H. R. 3388 SELF DRIVE Act.  CPU security-related issues.  Issues related to federal technology acquisition and use. H. R. 4953/S.1682 AIRWAVES Act.  Issues related to data privacy.",
+    "Innovation and competitive issues as they affect the semi-conductor industry, spectrum policy, privacy and cybersecurity.  Issues relating to prioritizing fundamental science, basic research and development and exascale computing.",
+    "Issues related to trade, customs and trade facilitation as they relate to the semi-conductor industry.",
+    "Issues related to telemedicine and remote patient monitoring.  Issues related to the implementation and adoption of health information technology, genomics and precision medicine.  Issues related to Intel's Connected Care benefits and implications for the health care delivery system.  Issues related to the application of Artificial Intelligence in health care.",
+    "The development of smart, integrated systems and devices including the Internet of Things and Artificial Intelligence.  Issues related to consumer privacy, 5G and autonomous vehicles.  CPU security-related issues.  Issues related to federal technology acquisition and use.",
+    "Issues related to the application of Artificial Intelligence in health care.  Issues related to the implementation and adoption of health information technology, genomics and precision medicine."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -37,
+  "trajectory": "reducing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 200000,
+  "peakYear": 2018,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 14
+}

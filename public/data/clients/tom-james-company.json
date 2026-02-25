@@ -1,1 +1,96 @@
-{"id":151409,"name":"TOM JAMES COMPANY","slug":"tom-james-company","state":"NY","description":"Apparel manufacturer.","totalSpending":2430000,"filings":16,"yearlySpending":[{"year":2020,"income":190000},{"year":2021,"income":450000},{"year":2022,"income":640000},{"year":2023,"income":420000},{"year":2024,"income":300000},{"year":2025,"income":430000}],"firms":["WILLIAMS AND JENSEN, PLLC"],"lobbyists":["DAVID STARR","SUSAN HIRSCHMANN","SCOTT GRAVES","LEAH KIM","CHRISTOPHER HATCHER","MATTHEW HOEKSTRA","ANN MARIE BUERKLE","LAURA SIMMONS","CHRISTOPHER WILCOX","MAHLET MAKONNEN","MELINDA MAXFIELD","MARTI THOMAS","DANIEL ZIEGLER"],"issues":["TRD","APP","MAN",null],"sampleDescriptions":["Duties on wool and cotton fabrics; 2018 Farm Bill. (H.R.2; S. 3042)","Duties on wool and cotton fabrics; 2018 Farm Bill, (H.R.2; S. 3042); Duties on cashmere fabrics (S. 3470).","Duties on wool and cotton fabrics; 2018 Farm Bill implementation.","Duties on wool and cotton fabrics; 2018 Farm Bill implementation; federal initiatives to support domestic manufacturing.  Duties on fabrics for PPEs.","Issues related to personal protective equipment; buy American provisions; S. 3548.","Issues related to personal protective equipment; buy American provisions; S. 3548; assistance for manufacturers in HEROES Act (HR 6800).","Assistance for apparel and textile manufacturers.","Issues related to personal protective equipment; funding for PPE and buy American provisions (H.R. 1466; S. 869; American Recovery Act (H.R, 1319); Endless Frontier Act).","Duties on cotton and wool fabrics; 2018 Farm Bill implementation;  federal initiatives to support domestic manufacturing. Duties on Fabrics for PPEs.","Issues related to personal protective equipment; funding for PPE and buy American provisions (S. 1260; H.R. 1466; S. 869; American Recovery Act (H.R, 1319); Endless Frontier Act).","Issues related to personal protective equipment; funding for PPE and buy American provisions (H.R. 3684; S. 1260; H.R. 1466; S. 869; American Recovery Act (H.R, 1319); Endless Frontier Act).","Duties on cotton and wool fabrics; 2018 Farm Bill implementation; federal initiatives to support domestic manufacturing. Duties on Fabrics for PPEs.","Issues related to personal protective equipment; funding for PPE and buy American provisions (Infrastructure Investment and Jobs Act (P.L. 117-58); S. 1260; H.R. 1466; S. 869; American Recovery Plan Act (P.L. 117-7).","Duties on cotton and wool fabrics; 2018 Farm Bill implementation; 2023 Farm Bill reauthorization; federal initiatives to support domestic manufacturing.","Duties on cotton and wool fabrics; 2018 Farm Bill implementation; 2024 Farm Bill reauthorization; federal initiatives to support domestic manufacturing.","Duties on cotton and wool fabrics; 2018 Farm Bill implementation; 2024 Farm Bill reauthorization and extension; federal initiatives to support domestic manufacturing.","Duties on cotton and wool fabrics; 2025 Farm Bill extension implementation; Farm Bill reauthorization and extension; Federal initiatives to support domestic manufacturing.","Duties on cotton and wool fabrics; 2025 Farm Bill extension implementation; Farm Bill reauthorization and extension, and related provisions of H.R 1; Federal initiatives to support domestic manufacturing. Implementation of the One Big Beautiful Bill Act (P.L. 119-21).","Duties on cotton and wool fabrics; Farm Bill reauthorization and extension; Federal initiatives to support domestic manufacturing. Implementation of the One Big Beautiful Bill Act (P.L. 119-21)."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 151409,
+  "name": "TOM JAMES COMPANY",
+  "slug": "tom-james-company",
+  "state": "NY",
+  "description": "Apparel manufacturer.",
+  "totalSpending": 2430000,
+  "filings": 16,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 190000
+    },
+    {
+      "year": 2021,
+      "income": 450000
+    },
+    {
+      "year": 2022,
+      "income": 640000
+    },
+    {
+      "year": 2023,
+      "income": 420000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 430000
+    }
+  ],
+  "firms": [
+    "WILLIAMS AND JENSEN, PLLC"
+  ],
+  "lobbyists": [
+    "DAVID STARR",
+    "SUSAN HIRSCHMANN",
+    "SCOTT GRAVES",
+    "LEAH KIM",
+    "CHRISTOPHER HATCHER",
+    "MATTHEW HOEKSTRA",
+    "ANN MARIE BUERKLE",
+    "LAURA SIMMONS",
+    "CHRISTOPHER WILCOX",
+    "MAHLET MAKONNEN",
+    "MELINDA MAXFIELD",
+    "MARTI THOMAS",
+    "DANIEL ZIEGLER"
+  ],
+  "issues": [
+    "TRD",
+    "APP",
+    "MAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Duties on wool and cotton fabrics; 2018 Farm Bill. (H.R.2; S. 3042)",
+    "Duties on wool and cotton fabrics; 2018 Farm Bill, (H.R.2; S. 3042); Duties on cashmere fabrics (S. 3470).",
+    "Duties on wool and cotton fabrics; 2018 Farm Bill implementation.",
+    "Duties on wool and cotton fabrics; 2018 Farm Bill implementation; federal initiatives to support domestic manufacturing.  Duties on fabrics for PPEs.",
+    "Issues related to personal protective equipment; buy American provisions; S. 3548.",
+    "Issues related to personal protective equipment; buy American provisions; S. 3548; assistance for manufacturers in HEROES Act (HR 6800).",
+    "Assistance for apparel and textile manufacturers.",
+    "Issues related to personal protective equipment; funding for PPE and buy American provisions (H.R. 1466; S. 869; American Recovery Act (H.R, 1319); Endless Frontier Act).",
+    "Duties on cotton and wool fabrics; 2018 Farm Bill implementation;  federal initiatives to support domestic manufacturing. Duties on Fabrics for PPEs.",
+    "Issues related to personal protective equipment; funding for PPE and buy American provisions (S. 1260; H.R. 1466; S. 869; American Recovery Act (H.R, 1319); Endless Frontier Act).",
+    "Issues related to personal protective equipment; funding for PPE and buy American provisions (H.R. 3684; S. 1260; H.R. 1466; S. 869; American Recovery Act (H.R, 1319); Endless Frontier Act).",
+    "Duties on cotton and wool fabrics; 2018 Farm Bill implementation; federal initiatives to support domestic manufacturing. Duties on Fabrics for PPEs.",
+    "Issues related to personal protective equipment; funding for PPE and buy American provisions (Infrastructure Investment and Jobs Act (P.L. 117-58); S. 1260; H.R. 1466; S. 869; American Recovery Plan Act (P.L. 117-7).",
+    "Duties on cotton and wool fabrics; 2018 Farm Bill implementation; 2023 Farm Bill reauthorization; federal initiatives to support domestic manufacturing.",
+    "Duties on cotton and wool fabrics; 2018 Farm Bill implementation; 2024 Farm Bill reauthorization; federal initiatives to support domestic manufacturing.",
+    "Duties on cotton and wool fabrics; 2018 Farm Bill implementation; 2024 Farm Bill reauthorization and extension; federal initiatives to support domestic manufacturing.",
+    "Duties on cotton and wool fabrics; 2025 Farm Bill extension implementation; Farm Bill reauthorization and extension; Federal initiatives to support domestic manufacturing.",
+    "Duties on cotton and wool fabrics; 2025 Farm Bill extension implementation; Farm Bill reauthorization and extension, and related provisions of H.R 1; Federal initiatives to support domestic manufacturing. Implementation of the One Big Beautiful Bill Act (P.L. 119-21).",
+    "Duties on cotton and wool fabrics; Farm Bill reauthorization and extension; Federal initiatives to support domestic manufacturing. Implementation of the One Big Beautiful Bill Act (P.L. 119-21)."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 126,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 405000,
+  "peakYear": 2022,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 3
+}

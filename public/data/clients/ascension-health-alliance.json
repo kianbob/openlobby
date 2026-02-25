@@ -1,1 +1,128 @@
-{"id":175484,"name":"ASCENSION HEALTH ALLIANCE","slug":"ascension-health-alliance","state":"MO","description":null,"totalSpending":1680000,"filings":30,"yearlySpending":[{"year":2018,"income":250000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":160000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":300000}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["BRUCE MEHLMAN","DAVID CASTAGNETTI","DEAN ROSEN","DAVID THOMAS","ELISE FINLEY PICKERING","CHARLES WOOTERS","SOHINI GUPTA","SAGE EASTMAN","LAUREN ARONSON","MICHAEL ROBINSON","MICHAEL COLLINS","CONSTANTINE HINGSON","STEVE HARO","HELEN TOLAR","NICHOLE DISTEFANO","MCKENZIE BRICE","PAUL THORNELL","STEPHEN COTE","ALEXANDER PERKINS","VICTORIA FLOOD","ROSEMARY GUTIERREZ","ZACHARY MALLOVE","CAITLIN VAN SANT","LISA GOLDMAN","ALYENE MLINAR","ERICA CHABOT","ANNIE WOLF","NAVEEN PARMAR","JON ADAME","JOSEPH BROWN","EARL FLOOD"],"issues":["HCR","MMM","PHA","INS",null,"TAX"],"sampleDescriptions":["Drug Pricing.\nGraham-Cassidy Amendment; Bi-partisan Healthcare Stabilization Act of 2017 (Alexander-Murray).\n340B Drug Pricing Program.\nS. 974 - CREATES Act of 2017.\nH.R. 1892 - Bi-partisan Budget Act of 208, Omnibus.","Medicaid issues.\nGraham-Cassidy Amendment; Bi-partisan Healthcare Stabilization Act of 2017 (Alexander-Murray).\nH.R. 1892 -Bi-partisan Budget Act of 208, Omnibus.","Prescription drug pricing.\nS. 974 - CREATES Act of 2017.\n340B Drug Pricing Program.\nH.R. 1892 -Bi-partisan Budget Act of 208, Omnibus.","Drug Pricing.\n340B Drug Pricing Program.\nS. 974 - CREATES Act of 2017.","Medicaid issues.","Drug Pricing.\n340B Drug Pricing Program.\nS. 974 - CREATES Act of 2017.\nH.R. 6 - SUPPORT for Patients and Communities Act\nS. 3120 - HEAL Act of 2018.","Prescription drug pricing.\nS. 974 - CREATES Act of 2017.\n340B Drug Pricing Program.\nH.R. 6 - SUPPORT for Patients and Communities Act.\nS. 3120 - HEAL Act of 2018.","Medicaid issues.\nStark and Anti-kickback statute.\nH.R. 6 - SUPPORT for Patients and Communities Act.\nS. 3120 - HEAL Act of 2018.","Affordable prescription drugs.\n340B Drug pricing program","Medicaid issues.\nStark and anti-kickback law changes.","340B Drug Pricing Program.","340B Drug Pricing Program. \nS.1895 - Lower Health Care Costs Act","Affordable prescription drugs.\n340B Drug pricing program.\nS.1895 - Lower Health Care Costs Act\nS.340 - CREATES Act of 2019\nH.R. 987 - CREATES Act of 2019\nS.1391 - Fair Accountability and Innovative Research Drug Pricing Act of 2019\nS.1531 - Stopping The Outrageous Practice of Surprise Medical Bills Act of 2019\nH.R. 2740 - Labor/HHS/Ed Appropriations FY 2020\nH.R.1520 - Purple Book Continuity Act of 2019\nH.R.1503 - Orange Book Transparency Act of 2019","Medicaid issues. Medicare issues.\nStark and anti-kickback law changes.","Affordable prescription drugs.\n340B Drug pricing program.\nS.1895 - Lower Health Care Costs Act\nS.340 - CREATES Act of 2019\nH.R. 987 - CREATES Act of 2019\nS.1391 - Fair Accountability and Innovative Research Drug Pricing Act of 2019\nS.1531 - Stopping The Outrageous Practice of Surprise Medical Bills Act of 2019\nH.R. 2740 - Labor/HHS/Ed Appropriations FY 2020\nH.R.1520 - Purple Book Continuity Act of 2019\nH.R.1503 - Orange Book Transparency Act of 2019\nH.R.3 - Lower Drug Costs Now Act of 2019\nS.2543 - Prescription Drug Pricing Reduction Act of 2019","Medicaid issues. Medicare issues.\nStark and anti-kickback law changes.\nMedicare Advantage plan selection issues.\nMedicaid disproportionate share program.","340B Drug Pricing Program. \nS.1895 - Lower Health Care Costs Act\nH.R. 1865 - Further Consolidated Appropriations Act, 2020","Medicaid issues. Medicare issues.\nStark and anti-kickback law changes.\nMedicare Advantage plan selection issues.\nMedicaid disproportionate share program.\nH.R. 1865 - Further Consolidated Appropriations Act, 2020","Affordable prescription drugs.\n340B Drug pricing program.\nS.1895 - Lower Health Care Costs Act\nS.340 - CREATES Act of 2019\nH.R. 987 - CREATES Act of 2019\nS.1391 - Fair Accountability and Innovative Research Drug Pricing Act of 2019\nS.1531 - Stopping The Outrageous Practice of Surprise Medical Bills Act of 2019\nH.R. 2740 - Labor/HHS/Ed Appropriations FY 2020\nH.R.1520 - Purple Book Continuity Act of 2019\nH.R.1503 - Orange Book Transparency Act of 2019\nH.R.3 - Lower Drug Costs Now Act of 2019\nS.2543 - Prescription Drug Pricing Reduction Act of 2019\nH.R. 1865 - Further Consolidated Appropriations Act, 2020\nHealth care privacy","Affordable prescription drugs.\n340B Drug pricing program.\nS.1895 - Lower Health Care Costs Act\nH.R. 2740 - Labor/HHS/Ed Appropriations FY 2020\nH.R.3 - Lower Drug Costs Now Act of 2019\nS.2543 - Prescription Drug Pricing Reduction Act of 2019\nHealth care privacy\nPatient privacy issues\nH.R. 6074, the Coronavirus Preparedness and Response Supplemental Appropriations Act - Public Law No: 116-123\nH.R. 6201, the Families First Coronavirus Response Act - Public Law No: 116-127\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136\nFinancial support for providers for diagnosis and treatment related to COVID-19, coverage of COVID-19 related conditions, access to PPE and other materials and equipment related to the treatment of patients with COVID-19"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 175484,
+  "name": "ASCENSION HEALTH ALLIANCE",
+  "slug": "ascension-health-alliance",
+  "state": "MO",
+  "description": null,
+  "totalSpending": 1680000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 250000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 160000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 300000
+    }
+  ],
+  "firms": [
+    "MEHLMAN CONSULTING, INC."
+  ],
+  "lobbyists": [
+    "BRUCE MEHLMAN",
+    "DAVID CASTAGNETTI",
+    "DEAN ROSEN",
+    "DAVID THOMAS",
+    "ELISE FINLEY PICKERING",
+    "CHARLES WOOTERS",
+    "SOHINI GUPTA",
+    "SAGE EASTMAN",
+    "LAUREN ARONSON",
+    "MICHAEL ROBINSON",
+    "MICHAEL COLLINS",
+    "CONSTANTINE HINGSON",
+    "STEVE HARO",
+    "HELEN TOLAR",
+    "NICHOLE DISTEFANO",
+    "MCKENZIE BRICE",
+    "PAUL THORNELL",
+    "STEPHEN COTE",
+    "ALEXANDER PERKINS",
+    "VICTORIA FLOOD",
+    "ROSEMARY GUTIERREZ",
+    "ZACHARY MALLOVE",
+    "CAITLIN VAN SANT",
+    "LISA GOLDMAN",
+    "ALYENE MLINAR",
+    "ERICA CHABOT",
+    "ANNIE WOLF",
+    "NAVEEN PARMAR",
+    "JON ADAME",
+    "JOSEPH BROWN",
+    "EARL FLOOD"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "PHA",
+    "INS",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "Drug Pricing.\nGraham-Cassidy Amendment; Bi-partisan Healthcare Stabilization Act of 2017 (Alexander-Murray).\n340B Drug Pricing Program.\nS. 974 - CREATES Act of 2017.\nH.R. 1892 - Bi-partisan Budget Act of 208, Omnibus.",
+    "Medicaid issues.\nGraham-Cassidy Amendment; Bi-partisan Healthcare Stabilization Act of 2017 (Alexander-Murray).\nH.R. 1892 -Bi-partisan Budget Act of 208, Omnibus.",
+    "Prescription drug pricing.\nS. 974 - CREATES Act of 2017.\n340B Drug Pricing Program.\nH.R. 1892 -Bi-partisan Budget Act of 208, Omnibus.",
+    "Drug Pricing.\n340B Drug Pricing Program.\nS. 974 - CREATES Act of 2017.",
+    "Medicaid issues.",
+    "Drug Pricing.\n340B Drug Pricing Program.\nS. 974 - CREATES Act of 2017.\nH.R. 6 - SUPPORT for Patients and Communities Act\nS. 3120 - HEAL Act of 2018.",
+    "Prescription drug pricing.\nS. 974 - CREATES Act of 2017.\n340B Drug Pricing Program.\nH.R. 6 - SUPPORT for Patients and Communities Act.\nS. 3120 - HEAL Act of 2018.",
+    "Medicaid issues.\nStark and Anti-kickback statute.\nH.R. 6 - SUPPORT for Patients and Communities Act.\nS. 3120 - HEAL Act of 2018.",
+    "Affordable prescription drugs.\n340B Drug pricing program",
+    "Medicaid issues.\nStark and anti-kickback law changes.",
+    "340B Drug Pricing Program.",
+    "340B Drug Pricing Program. \nS.1895 - Lower Health Care Costs Act",
+    "Affordable prescription drugs.\n340B Drug pricing program.\nS.1895 - Lower Health Care Costs Act\nS.340 - CREATES Act of 2019\nH.R. 987 - CREATES Act of 2019\nS.1391 - Fair Accountability and Innovative Research Drug Pricing Act of 2019\nS.1531 - Stopping The Outrageous Practice of Surprise Medical Bills Act of 2019\nH.R. 2740 - Labor/HHS/Ed Appropriations FY 2020\nH.R.1520 - Purple Book Continuity Act of 2019\nH.R.1503 - Orange Book Transparency Act of 2019",
+    "Medicaid issues. Medicare issues.\nStark and anti-kickback law changes.",
+    "Affordable prescription drugs.\n340B Drug pricing program.\nS.1895 - Lower Health Care Costs Act\nS.340 - CREATES Act of 2019\nH.R. 987 - CREATES Act of 2019\nS.1391 - Fair Accountability and Innovative Research Drug Pricing Act of 2019\nS.1531 - Stopping The Outrageous Practice of Surprise Medical Bills Act of 2019\nH.R. 2740 - Labor/HHS/Ed Appropriations FY 2020\nH.R.1520 - Purple Book Continuity Act of 2019\nH.R.1503 - Orange Book Transparency Act of 2019\nH.R.3 - Lower Drug Costs Now Act of 2019\nS.2543 - Prescription Drug Pricing Reduction Act of 2019",
+    "Medicaid issues. Medicare issues.\nStark and anti-kickback law changes.\nMedicare Advantage plan selection issues.\nMedicaid disproportionate share program.",
+    "340B Drug Pricing Program. \nS.1895 - Lower Health Care Costs Act\nH.R. 1865 - Further Consolidated Appropriations Act, 2020",
+    "Medicaid issues. Medicare issues.\nStark and anti-kickback law changes.\nMedicare Advantage plan selection issues.\nMedicaid disproportionate share program.\nH.R. 1865 - Further Consolidated Appropriations Act, 2020",
+    "Affordable prescription drugs.\n340B Drug pricing program.\nS.1895 - Lower Health Care Costs Act\nS.340 - CREATES Act of 2019\nH.R. 987 - CREATES Act of 2019\nS.1391 - Fair Accountability and Innovative Research Drug Pricing Act of 2019\nS.1531 - Stopping The Outrageous Practice of Surprise Medical Bills Act of 2019\nH.R. 2740 - Labor/HHS/Ed Appropriations FY 2020\nH.R.1520 - Purple Book Continuity Act of 2019\nH.R.1503 - Orange Book Transparency Act of 2019\nH.R.3 - Lower Drug Costs Now Act of 2019\nS.2543 - Prescription Drug Pricing Reduction Act of 2019\nH.R. 1865 - Further Consolidated Appropriations Act, 2020\nHealth care privacy",
+    "Affordable prescription drugs.\n340B Drug pricing program.\nS.1895 - Lower Health Care Costs Act\nH.R. 2740 - Labor/HHS/Ed Appropriations FY 2020\nH.R.3 - Lower Drug Costs Now Act of 2019\nS.2543 - Prescription Drug Pricing Reduction Act of 2019\nHealth care privacy\nPatient privacy issues\nH.R. 6074, the Coronavirus Preparedness and Response Supplemental Appropriations Act - Public Law No: 116-123\nH.R. 6201, the Families First Coronavirus Response Act - Public Law No: 116-127\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136\nFinancial support for providers for diagnosis and treatment related to COVID-19, coverage of COVID-19 related conditions, access to PPE and other materials and equipment related to the treatment of patients with COVID-19"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 210000,
+  "peakYear": 2025,
+  "lobbyistCount": 31,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "healthcare"
+}

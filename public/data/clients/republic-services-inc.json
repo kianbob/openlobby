@@ -1,1 +1,94 @@
-{"id":199061,"name":"REPUBLIC SERVICES, INC.","slug":"republic-services-inc","state":"AZ","description":"Waste management services.","totalSpending":1500000,"filings":25,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000}],"firms":["WEST FRONT STRATEGIES LLC"],"lobbyists":["ASHLEY DAVIS","CYNTHIA BROWN","MALLOY MCDANIEL","KRISTI REMINGTON","SHIMON STEIN","CRAIG KALKUT","CHRISTOPHER BUKI"],"issues":["TAX","ENG","WAS","TRA","HOM","LBR",null],"sampleDescriptions":["Issues related to corporate tax.","Issues related to renewable energy and waste management.","Issues related to the Westlake Landfill located in Bridgeton, Missouri.","Issues related to renewable energy and waste management;\nissues related to Per- and polyfluoroalkyl substances (PFAS).","Issues related to Per- and polyfluoroalkyl substances (PFAS).","Issues related to hours of service during a declaration of public health emergency.","Issues related to the acquisition of PPE for workforce; \nissues related to the designation of Essential Critical Infrastructure Workforce.","Issues related to renewable energy tax credits.","Protecting the Right to Organize Act, H.R. 842 and S. 420.","Issues related to renewable energy tax credits, including 45Q and provisions related to electric vehicles.","Issues related to renewable energy tax credits, including 45Q and provisions related to electric vehicles, including in the 2022 budget and reconciliation process and the Build Back Better Act, H.R. 5376.","Issues related to Per- and polyfluoroalkyl substances (PFAS); issues related to recycling policy.","Issues related to renewable energy tax credits, including 45Q and provisions related to electric vehicles, including in the 2022 budget and reconciliation process and the Inflation Reduction Act, H.R. 5376.","Issues related to renewable energy tax credits and carbon capture, including 45Q and provisions related to electric vehicles.","Issues related to Per- and polyfluoroalkyl substances (PFAS), including the Resource Management PFAS Liability Protection Act of 2023 (S. 1429) and the National Defense Authorization Act; issues related to recycling policy."],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 199061,
+  "name": "REPUBLIC SERVICES, INC.",
+  "slug": "republic-services-inc",
+  "state": "AZ",
+  "description": "Waste management services.",
+  "totalSpending": 1500000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "WEST FRONT STRATEGIES LLC"
+  ],
+  "lobbyists": [
+    "ASHLEY DAVIS",
+    "CYNTHIA BROWN",
+    "MALLOY MCDANIEL",
+    "KRISTI REMINGTON",
+    "SHIMON STEIN",
+    "CRAIG KALKUT",
+    "CHRISTOPHER BUKI"
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    "WAS",
+    "TRA",
+    "HOM",
+    "LBR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to corporate tax.",
+    "Issues related to renewable energy and waste management.",
+    "Issues related to the Westlake Landfill located in Bridgeton, Missouri.",
+    "Issues related to renewable energy and waste management;\nissues related to Per- and polyfluoroalkyl substances (PFAS).",
+    "Issues related to Per- and polyfluoroalkyl substances (PFAS).",
+    "Issues related to hours of service during a declaration of public health emergency.",
+    "Issues related to the acquisition of PPE for workforce; \nissues related to the designation of Essential Critical Infrastructure Workforce.",
+    "Issues related to renewable energy tax credits.",
+    "Protecting the Right to Organize Act, H.R. 842 and S. 420.",
+    "Issues related to renewable energy tax credits, including 45Q and provisions related to electric vehicles.",
+    "Issues related to renewable energy tax credits, including 45Q and provisions related to electric vehicles, including in the 2022 budget and reconciliation process and the Build Back Better Act, H.R. 5376.",
+    "Issues related to Per- and polyfluoroalkyl substances (PFAS); issues related to recycling policy.",
+    "Issues related to renewable energy tax credits, including 45Q and provisions related to electric vehicles, including in the 2022 budget and reconciliation process and the Inflation Reduction Act, H.R. 5376.",
+    "Issues related to renewable energy tax credits and carbon capture, including 45Q and provisions related to electric vehicles.",
+    "Issues related to Per- and polyfluoroalkyl substances (PFAS), including the Resource Management PFAS Liability Protection Act of 2023 (S. 1429) and the National Defense Authorization Act; issues related to recycling policy."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 214286,
+  "peakYear": 2020,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 6
+}

@@ -1,1 +1,100 @@
-{"id":102147,"name":"EDISON ELECTRIC INSTITUTE","slug":"edison-electric-institute","state":"DC","description":"&#226;€‹Association of shareholder-owned electric companies","totalSpending":1410000,"filings":29,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":150000}],"firms":["ALPINE GROUP PARTNERS, LLC."],"lobbyists":["MICHAEL HAYWOOD","CORNELL TEAGUE"],"issues":["CDT","TAX","ENV","ENG","BUD",null,"HOM"],"sampleDescriptions":["CEA Reauthorization","Corporate Tax Reform","Energy Issues, Architecture of Abundance, and Comprehensive Energy Bill","Energy Issues,  Architecture of Abundance, and Comprehensive Energy Bill","Comprehensive Energy Bill","CFTC re-authorization","House & Senate Appropriations bills FY20","H.R. 9 Climate Action Now Act","Pipeline re-authorization","Implementation of the Jobs & Taxation Act","House & Senate Appropriations bills FY21","Pipeline re-authorization \nExecutive Order on Bulk Power Systems and Moratorium On electric cutoffs","House and Senate appropriations bills FY22","Implementation of the Jobs and Taxation Act","Pipeline re-authorization \nExecutive Order on Bulk Power Systems and Moratorium on electric cutoffs","Pipeline re-authorization \nExecutive Order on Bulk Power Systems and Moratorium on electric cutoffs \nInfrastructure Investment and Jobs Act","House and Senate appropriations bills FY23","Reconciliation Act for FY22 - solar and wind tax credits","Pipeline re-authorization Executive Order on Bulk Power Systems and Moratorium on electric cutoffs Infrastructure Investment and Jobs Act","House and Senate budget and appropriations FY25"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 102147,
+  "name": "EDISON ELECTRIC INSTITUTE",
+  "slug": "edison-electric-institute",
+  "state": "DC",
+  "description": "&#226;€‹Association of shareholder-owned electric companies",
+  "totalSpending": 1410000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "ALPINE GROUP PARTNERS, LLC."
+  ],
+  "lobbyists": [
+    "MICHAEL HAYWOOD",
+    "CORNELL TEAGUE"
+  ],
+  "issues": [
+    "CDT",
+    "TAX",
+    "ENV",
+    "ENG",
+    "BUD",
+    null,
+    "HOM"
+  ],
+  "sampleDescriptions": [
+    "CEA Reauthorization",
+    "Corporate Tax Reform",
+    "Energy Issues, Architecture of Abundance, and Comprehensive Energy Bill",
+    "Energy Issues,  Architecture of Abundance, and Comprehensive Energy Bill",
+    "Comprehensive Energy Bill",
+    "CFTC re-authorization",
+    "House & Senate Appropriations bills FY20",
+    "H.R. 9 Climate Action Now Act",
+    "Pipeline re-authorization",
+    "Implementation of the Jobs & Taxation Act",
+    "House & Senate Appropriations bills FY21",
+    "Pipeline re-authorization \nExecutive Order on Bulk Power Systems and Moratorium On electric cutoffs",
+    "House and Senate appropriations bills FY22",
+    "Implementation of the Jobs and Taxation Act",
+    "Pipeline re-authorization \nExecutive Order on Bulk Power Systems and Moratorium on electric cutoffs",
+    "Pipeline re-authorization \nExecutive Order on Bulk Power Systems and Moratorium on electric cutoffs \nInfrastructure Investment and Jobs Act",
+    "House and Senate appropriations bills FY23",
+    "Reconciliation Act for FY22 - solar and wind tax credits",
+    "Pipeline re-authorization Executive Order on Bulk Power Systems and Moratorium on electric cutoffs Infrastructure Investment and Jobs Act",
+    "House and Senate budget and appropriations FY25"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -6,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 176250,
+  "peakYear": 2019,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 6,
+  "industry": "energy"
+}

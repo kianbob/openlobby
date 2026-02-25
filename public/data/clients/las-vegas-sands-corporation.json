@@ -1,1 +1,100 @@
-{"id":184522,"name":"LAS VEGAS SANDS CORPORATION","slug":"las-vegas-sands-corporation","state":"NV","description":"Entertainment","totalSpending":1710000,"filings":30,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":230000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["AARON COHEN","DAVID OLANDER","DREW GOESL","DAVID BRIDGES","JACK CAMPBELL"],"issues":["TAX","GAM","ENG","SMB","FOR",null,"TOU"],"sampleDescriptions":["Monitoring federal policy issues related to the Tax Cuts and Jobs Act.","Monitoring Federal policy issues related to internet gambling.","Monitoring federal policy issues related to Yucca Mountain.","Legislative and regulatory federal policy issues related to the Tax Cuts and Jobs Act (P.L. 115-97).","Legislative and regulatory federal policy issues related to internet gambling.","Legislative and regulatory federal policy issues related to Yucca Mountain.","Legislative and regulatory federal policy issues related to coronavirus response efforts.","Legislative and regulatory federal policy issues related to the Tax Cuts and Jobs Act (P.L. 115-97). Legislative efforts related to supporting the convention, trade show and travel industries.","Legislative issues related to S.477 and H.R. 1366, the Hospitality and Commerce Job Recovery Act of 2021; monitor related legislative efforts supporting the convention, trade show and travel industries; monitor legislative and regulatory impacts of the Tax Cuts and Jobs Act (P.L. 115-97).","Issues related to US-China relations.","Monitor legislative efforts related to hospitality, convention, trade show and travel industries; monitor legislative and regulatory impacts of the Tax Cuts and Jobs Act (P.L. 115-97); monitor legislative impacts related to H.R.5376 the Inflation Reduction Act of 2022 (P.L. No: 117-169).","Issues related to international business and travel, and tourism.","Monitor federal legislative and regulatory policy issues related to internet gambling.","Monitor legislative efforts related to hospitality, convention, trade show and travel industries. Monitor issues related to Tax Cuts and Jobs Act (TCJA) P.L. 115-97.","Monitor issues related to US-China relations.","Monitor issues related to international business and travel, and tourism.","Monitor legislative efforts related to hospitality, convention, trade show and travel industries. Monitor issues related to H.R. 1, the One Big Beautiful Bill Act (OBBB) P.L. 119-21."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184522,
+  "name": "LAS VEGAS SANDS CORPORATION",
+  "slug": "las-vegas-sands-corporation",
+  "state": "NV",
+  "description": "Entertainment",
+  "totalSpending": 1710000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 230000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CAPITOL COUNSEL LLC"
+  ],
+  "lobbyists": [
+    "AARON COHEN",
+    "DAVID OLANDER",
+    "DREW GOESL",
+    "DAVID BRIDGES",
+    "JACK CAMPBELL"
+  ],
+  "issues": [
+    "TAX",
+    "GAM",
+    "ENG",
+    "SMB",
+    "FOR",
+    null,
+    "TOU"
+  ],
+  "sampleDescriptions": [
+    "Monitoring federal policy issues related to the Tax Cuts and Jobs Act.",
+    "Monitoring Federal policy issues related to internet gambling.",
+    "Monitoring federal policy issues related to Yucca Mountain.",
+    "Legislative and regulatory federal policy issues related to the Tax Cuts and Jobs Act (P.L. 115-97).",
+    "Legislative and regulatory federal policy issues related to internet gambling.",
+    "Legislative and regulatory federal policy issues related to Yucca Mountain.",
+    "Legislative and regulatory federal policy issues related to coronavirus response efforts.",
+    "Legislative and regulatory federal policy issues related to the Tax Cuts and Jobs Act (P.L. 115-97). Legislative efforts related to supporting the convention, trade show and travel industries.",
+    "Legislative issues related to S.477 and H.R. 1366, the Hospitality and Commerce Job Recovery Act of 2021; monitor related legislative efforts supporting the convention, trade show and travel industries; monitor legislative and regulatory impacts of the Tax Cuts and Jobs Act (P.L. 115-97).",
+    "Issues related to US-China relations.",
+    "Monitor legislative efforts related to hospitality, convention, trade show and travel industries; monitor legislative and regulatory impacts of the Tax Cuts and Jobs Act (P.L. 115-97); monitor legislative impacts related to H.R.5376 the Inflation Reduction Act of 2022 (P.L. No: 117-169).",
+    "Issues related to international business and travel, and tourism.",
+    "Monitor federal legislative and regulatory policy issues related to internet gambling.",
+    "Monitor legislative efforts related to hospitality, convention, trade show and travel industries. Monitor issues related to Tax Cuts and Jobs Act (TCJA) P.L. 115-97.",
+    "Monitor issues related to US-China relations.",
+    "Monitor issues related to international business and travel, and tourism.",
+    "Monitor legislative efforts related to hospitality, convention, trade show and travel industries. Monitor issues related to H.R. 1, the One Big Beautiful Bill Act (OBBB) P.L. 119-21."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 11,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 213750,
+  "peakYear": 2020,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 6,
+  "industry": "energy"
+}

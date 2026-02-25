@@ -1,1 +1,88 @@
-{"id":125983,"name":"SOUTHERN COMPANY SERVICES INC","slug":"southern-company-services-inc","state":"DC","description":null,"totalSpending":2000000,"filings":31,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":320000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":220000},{"year":2025,"income":240000}],"firms":["HUNTON ANDREWS KURTH LLP"],"lobbyists":["JOSEPH STANKO","FREDERICK EAMES","ERIC HUTCHINS","JULIA D'HEMECOURT","MARISA HARRILCHAK"],"issues":["CAW","UTI","TAX","ENV","ENG",null],"sampleDescriptions":["Climate, Energy, Environmental Legislation","Congressional - FERC Relations\nClimate, Energy, Environmental Legislation\nTax","Tax legislation","Congressional - FERC Relations Climate, Energy, Environmental Legislation Tax","Congressional - FERC Relations, Climate, Energy, Environmental Legislation, Tax","Congressional - Climate, Energy, Environmental Legislation, Tax, H.R. 1","Congressional - Climate, Energy, Environmental Legislation, Tax"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 125983,
+  "name": "SOUTHERN COMPANY SERVICES INC",
+  "slug": "southern-company-services-inc",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 2000000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 220000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "HUNTON ANDREWS KURTH LLP"
+  ],
+  "lobbyists": [
+    "JOSEPH STANKO",
+    "FREDERICK EAMES",
+    "ERIC HUTCHINS",
+    "JULIA D'HEMECOURT",
+    "MARISA HARRILCHAK"
+  ],
+  "issues": [
+    "CAW",
+    "UTI",
+    "TAX",
+    "ENV",
+    "ENG",
+    null
+  ],
+  "sampleDescriptions": [
+    "Climate, Energy, Environmental Legislation",
+    "Congressional - FERC Relations\nClimate, Energy, Environmental Legislation\nTax",
+    "Tax legislation",
+    "Congressional - FERC Relations Climate, Energy, Environmental Legislation Tax",
+    "Congressional - FERC Relations, Climate, Energy, Environmental Legislation, Tax",
+    "Congressional - Climate, Energy, Environmental Legislation, Tax, H.R. 1",
+    "Congressional - Climate, Energy, Environmental Legislation, Tax"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 250000,
+  "peakYear": 2018,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 5
+}

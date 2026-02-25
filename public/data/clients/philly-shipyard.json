@@ -1,1 +1,70 @@
-{"id":103065,"name":"PHILLY SHIPYARD","slug":"philly-shipyard","state":"PA","description":"U.S. commercial shipyard.","totalSpending":1580000,"filings":21,"yearlySpending":[{"year":2019,"income":360000},{"year":2020,"income":270000},{"year":2021,"income":350000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":120000}],"firms":["ACG ADVOCACY"],"lobbyists":["MICHAEL BARBERA","ERIADE WILLIAMS","DAVID URBAN"],"issues":["MAN","DEF",null],"sampleDescriptions":["Defense Industrial Base.\nNational Ship Building.","National Ship Building.","Defense Industrial Base.","Defense Industrial Base. National Ship Building."],"years":[2019,2020,2021,2022,2023,2024]}
+{
+  "id": 103065,
+  "name": "PHILLY SHIPYARD",
+  "slug": "philly-shipyard",
+  "state": "PA",
+  "description": "U.S. commercial shipyard.",
+  "totalSpending": 1580000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 360000
+    },
+    {
+      "year": 2020,
+      "income": 270000
+    },
+    {
+      "year": 2021,
+      "income": 350000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "ACG ADVOCACY"
+  ],
+  "lobbyists": [
+    "MICHAEL BARBERA",
+    "ERIADE WILLIAMS",
+    "DAVID URBAN"
+  ],
+  "issues": [
+    "MAN",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "Defense Industrial Base.\nNational Ship Building.",
+    "National Ship Building.",
+    "Defense Industrial Base.",
+    "Defense Industrial Base. National Ship Building."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -67,
+  "trajectory": "declining",
+  "yearsActive": 6,
+  "avgAnnualSpending": 263333,
+  "peakYear": 2019,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 2
+}

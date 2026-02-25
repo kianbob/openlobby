@@ -1,1 +1,93 @@
-{"id":202535,"name":"ARTHUR J. GALLAGHER & CO.","slug":"arthur-j-gallagher-co","state":"IL","description":"US-based global insurance brokerage and risk management services firm","totalSpending":1756462,"filings":30,"yearlySpending":[{"year":2018,"income":192500},{"year":2019,"income":390000},{"year":2020,"income":453962},{"year":2021,"income":155000},{"year":2022,"income":112500},{"year":2023,"income":150000},{"year":2024,"income":150000},{"year":2025,"income":152500}],"firms":["THE VOGEL GROUP"],"lobbyists":["SAMIR KAPADIA","ALEXANDER VOGEL","BRIAN JOHNSON","ALI KHIMJI","STEPHEN BORG"],"issues":["TAX","GOV",null],"sampleDescriptions":["Interpretation of Section 45 refined coal tax credit and related agency actions; extension of Section 45 credits.","Coal tax credit, Treasury guidance","Issues relating to corporate reporting and financial disclosures for public companies","Issues around corporate reporting as mandated by the SEC for public companies","Section 45 coal credits, IRS","Section 45 coal credits, IRS, An unnumbered House and Senate bills to To amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal","Issues around corporate reporting as mandated by the SEC for public companies, HR 748/S 3548 CARES Act,  S. 4290 / H.R. 7734 - Building Businesses Back Act of 2020","Section 45 coal credits, IRS, An unnumbered House and Senate bills to To amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal, H.R. 2622/S. 1405","Section 45e8, energy production tax issues, refined coal tax, general business tax issues, tax and policy issues around electrical power generation","Issues around quarterly reporting and SEC filings","Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies. Lobbied in support of extending the time period for the tax credit for refined coal and the Sen. Daines Amendment to the Inflation Reduction Act.","Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies.","Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies. Lobbied in support of Section 45 tax credits.","Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies. Lobbied in support of Section 45 tax credits during debate on H.R. 1, the One Big Beautiful Bill Act.","Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies. Lobbied in support of SEC reporting reforms. Lobbied in support of Section 45 tax credit related to refined coal. Lobbied in support of 45Q tax credits (Treasury)."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202535,
+  "name": "ARTHUR J. GALLAGHER & CO.",
+  "slug": "arthur-j-gallagher-co",
+  "state": "IL",
+  "description": "US-based global insurance brokerage and risk management services firm",
+  "totalSpending": 1756462,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 192500
+    },
+    {
+      "year": 2019,
+      "income": 390000
+    },
+    {
+      "year": 2020,
+      "income": 453962
+    },
+    {
+      "year": 2021,
+      "income": 155000
+    },
+    {
+      "year": 2022,
+      "income": 112500
+    },
+    {
+      "year": 2023,
+      "income": 150000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 152500
+    }
+  ],
+  "firms": [
+    "THE VOGEL GROUP"
+  ],
+  "lobbyists": [
+    "SAMIR KAPADIA",
+    "ALEXANDER VOGEL",
+    "BRIAN JOHNSON",
+    "ALI KHIMJI",
+    "STEPHEN BORG"
+  ],
+  "issues": [
+    "TAX",
+    "GOV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Interpretation of Section 45 refined coal tax credit and related agency actions; extension of Section 45 credits.",
+    "Coal tax credit, Treasury guidance",
+    "Issues relating to corporate reporting and financial disclosures for public companies",
+    "Issues around corporate reporting as mandated by the SEC for public companies",
+    "Section 45 coal credits, IRS",
+    "Section 45 coal credits, IRS, An unnumbered House and Senate bills to To amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal",
+    "Issues around corporate reporting as mandated by the SEC for public companies, HR 748/S 3548 CARES Act,  S. 4290 / H.R. 7734 - Building Businesses Back Act of 2020",
+    "Section 45 coal credits, IRS, An unnumbered House and Senate bills to To amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal, H.R. 2622/S. 1405",
+    "Section 45e8, energy production tax issues, refined coal tax, general business tax issues, tax and policy issues around electrical power generation",
+    "Issues around quarterly reporting and SEC filings",
+    "Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies. Lobbied in support of extending the time period for the tax credit for refined coal and the Sen. Daines Amendment to the Inflation Reduction Act.",
+    "Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies.",
+    "Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies. Lobbied in support of Section 45 tax credits.",
+    "Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies. Lobbied in support of Section 45 tax credits during debate on H.R. 1, the One Big Beautiful Bill Act.",
+    "Lobbied in support of needed changes to the Treasury Department negotiated OECD Pillar 2 tax provisions and educated on the detrimental effects these provisions would have on American companies. Lobbied in support of SEC reporting reforms. Lobbied in support of Section 45 tax credit related to refined coal. Lobbied in support of 45Q tax credits (Treasury)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -21,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 219558,
+  "peakYear": 2020,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2
+}

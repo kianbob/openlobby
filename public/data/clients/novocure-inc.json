@@ -1,1 +1,65 @@
-{"id":120768,"name":"NOVOCURE INC.","slug":"novocure-inc","state":"NH","description":"Commercial stage oncology dedicated to advancement of TTF therapy to treat solid tumors","totalSpending":1540000,"filings":14,"yearlySpending":[{"year":2018,"income":250000},{"year":2019,"income":530000},{"year":2020,"income":420000},{"year":2021,"income":340000}],"firms":["FOLEY & LARDNER LLP"],"lobbyists":["MICHAEL CROSSEN","MICHAEL CAPUANO"],"issues":["HCR","CPT","VET","MMM","INS","SCI","MAN","BUD","MED"],"sampleDescriptions":["Advocate for client before members of the U.S. House of Representatives, U.S. Senate, and staffs to each, and before the Department of Health and Human Services, sub-agencies, and staffs to each, with respect to coverage and pricing issues; review relevant statutes and regulations regarding same.","&#226;€‹Advocate for client before members of the U.S. House of Representatives, U.S. Senate, and staffs to each, and before the Department of Health and Human Services, sub-agencies, and staffs to each, with respect to coverage and pricing issues; review relevant statutes and regulations regarding same.","&#226;€‹Medical devices","Medical devices"],"years":[2018,2019,2020,2021]}
+{
+  "id": 120768,
+  "name": "NOVOCURE INC.",
+  "slug": "novocure-inc",
+  "state": "NH",
+  "description": "Commercial stage oncology dedicated to advancement of TTF therapy to treat solid tumors",
+  "totalSpending": 1540000,
+  "filings": 14,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 250000
+    },
+    {
+      "year": 2019,
+      "income": 530000
+    },
+    {
+      "year": 2020,
+      "income": 420000
+    },
+    {
+      "year": 2021,
+      "income": 340000
+    }
+  ],
+  "firms": [
+    "FOLEY & LARDNER LLP"
+  ],
+  "lobbyists": [
+    "MICHAEL CROSSEN",
+    "MICHAEL CAPUANO"
+  ],
+  "issues": [
+    "HCR",
+    "CPT",
+    "VET",
+    "MMM",
+    "INS",
+    "SCI",
+    "MAN",
+    "BUD",
+    "MED"
+  ],
+  "sampleDescriptions": [
+    "Advocate for client before members of the U.S. House of Representatives, U.S. Senate, and staffs to each, and before the Department of Health and Human Services, sub-agencies, and staffs to each, with respect to coverage and pricing issues; review relevant statutes and regulations regarding same.",
+    "&#226;€‹Advocate for client before members of the U.S. House of Representatives, U.S. Senate, and staffs to each, and before the Department of Health and Human Services, sub-agencies, and staffs to each, with respect to coverage and pricing issues; review relevant statutes and regulations regarding same.",
+    "&#226;€‹Medical devices",
+    "Medical devices"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "growthRate": 36,
+  "trajectory": "growing",
+  "yearsActive": 4,
+  "avgAnnualSpending": 385000,
+  "peakYear": 2019,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 9
+}

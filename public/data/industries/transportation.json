@@ -1,0 +1,434 @@
+{
+  "industry": "transportation",
+  "totalSpending": 1689277432.7100003,
+  "totalFilings": 22613,
+  "clientCount": 1508,
+  "topClients": [
+    {
+      "name": "CHAMBER OF COMMERCE OF THE U.S.A.",
+      "state": "DC",
+      "spending": 283040000,
+      "filings": 16,
+      "desc": null
+    },
+    {
+      "name": "FEDEX CORPORATION",
+      "state": "TN",
+      "spending": 92285000,
+      "filings": 237,
+      "desc": "Logistics services company"
+    },
+    {
+      "name": "ALLIANCE FOR AUTOMOTIVE INNOVATION",
+      "state": "DC",
+      "spending": 54927473,
+      "filings": 102,
+      "desc": null
+    },
+    {
+      "name": "UNITED AIRLINES INC",
+      "state": "IL",
+      "spending": 52344000,
+      "filings": 103,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION",
+      "state": "DC",
+      "spending": 46942000,
+      "filings": 178,
+      "desc": "Trade association"
+    },
+    {
+      "name": "AIR TRANSPORT ASSOCIATION OF AMERICA, INC. (D/B/A AIRLINES FOR AMERICA)",
+      "state": "DC",
+      "spending": 43575300,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "UPS (UNITED PARCEL SERVICE)",
+      "state": "DC",
+      "spending": 42314446,
+      "filings": 52,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN AIRLINES INC",
+      "state": "DC",
+      "spending": 42066000,
+      "filings": 119,
+      "desc": null
+    },
+    {
+      "name": "ASSOCIATION OF AMERICAN RAILROADS",
+      "state": null,
+      "spending": 41465445,
+      "filings": 138,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN ASSOCIATION FOR JUSTICE",
+      "state": "DC",
+      "spending": 35285000,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+      "state": "TX",
+      "spending": 32060000,
+      "filings": 90,
+      "desc": "Financial Services"
+    },
+    {
+      "name": "U.S. TRAVEL ASSOCIATION",
+      "state": "DC",
+      "spending": 21762500,
+      "filings": 81,
+      "desc": "Travel and Tourism Trade Association"
+    },
+    {
+      "name": "AMERICAN TRUCKING ASSOCIATIONS",
+      "state": "VA",
+      "spending": 21313000,
+      "filings": 140,
+      "desc": "Trade association representing the trucking industry"
+    },
+    {
+      "name": "UNION PACIFIC CORPORATION",
+      "state": "DC",
+      "spending": 16976426,
+      "filings": 25,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL BUSINESS AVIATION ASSOCIATION INC",
+      "state": null,
+      "spending": 16050000,
+      "filings": 59,
+      "desc": null
+    },
+    {
+      "name": "ENTERPRISE HOLDINGS, INC. DBA ENTERPRISE MOBILITY",
+      "state": "MO",
+      "spending": 15966000,
+      "filings": 71,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN PUBLIC TRANSPORTATION ASSOCIATION",
+      "state": "DC",
+      "spending": 14965500,
+      "filings": 74,
+      "desc": "public transportation advocacy"
+    },
+    {
+      "name": "AMERICAN SHORT LINE AND REGIONAL RAILROAD ASSOCIATION",
+      "state": "DC",
+      "spending": 13302400,
+      "filings": 88,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN INTERNATIONAL AUTOMOBILE DEALERS ASSOCIATION",
+      "state": "VA",
+      "spending": 12841000,
+      "filings": 55,
+      "desc": null
+    },
+    {
+      "name": "SOUTHWEST AIRLINES",
+      "state": "TX",
+      "spending": 12730000,
+      "filings": 134,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN HONDA MOTOR CO., INC.",
+      "state": "DC",
+      "spending": 10738847,
+      "filings": 41,
+      "desc": "Automobile manufacturing"
+    },
+    {
+      "name": "AUTO CARE ASSOCIATION",
+      "state": "MD",
+      "spending": 10666172,
+      "filings": 52,
+      "desc": "Trade association."
+    },
+    {
+      "name": "AMERICAN AIRLINES, INC.",
+      "state": "DC",
+      "spending": 10222000,
+      "filings": 139,
+      "desc": "Airline"
+    },
+    {
+      "name": "LYFT",
+      "state": "CA",
+      "spending": 9650000,
+      "filings": 29,
+      "desc": "Issues related to Transportation Network Companies, the workforce, and autonomous vehicles"
+    },
+    {
+      "name": "AIRLINES FOR AMERICA",
+      "state": "DC",
+      "spending": 9490000,
+      "filings": 176,
+      "desc": "Airline trade association"
+    },
+    {
+      "name": "TEXAS INSTRUMENTS INCORPORATED",
+      "state": "TX",
+      "spending": 9311000,
+      "filings": 27,
+      "desc": null
+    },
+    {
+      "name": "LAND O'LAKES INC",
+      "state": "MN",
+      "spending": 9003688,
+      "filings": 14,
+      "desc": null
+    },
+    {
+      "name": "ALASKA AIRLINES INC",
+      "state": "DC",
+      "spending": 8820000,
+      "filings": 24,
+      "desc": null
+    },
+    {
+      "name": "TRANSPORTATION TRADES DEPARTMENT AFL-CIO",
+      "state": "DC",
+      "spending": 8345000,
+      "filings": 26,
+      "desc": null
+    },
+    {
+      "name": "GENERAL MOTORS COMPANY",
+      "state": "DC",
+      "spending": 8115000,
+      "filings": 214,
+      "desc": "Automobile & Automotive Parts Manufacturer; Vehicle Sales & Service and Motor Credit"
+    },
+    {
+      "name": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
+      "state": "DC",
+      "spending": 8004425.01,
+      "filings": 33,
+      "desc": "International Union representing 1.4 million members in various crafts"
+    },
+    {
+      "name": "ALLIED PILOTS ASSOCIATION",
+      "state": "TX",
+      "spending": 7528678,
+      "filings": 57,
+      "desc": "Transportation and financial services"
+    },
+    {
+      "name": "GENERAL AVIATION MANUFACTURERS ASSOCIATION",
+      "state": "DC",
+      "spending": 7285000,
+      "filings": 85,
+      "desc": "Aviation industry trade association"
+    },
+    {
+      "name": "WALMART INC",
+      "state": "AR",
+      "spending": 7180000,
+      "filings": 4,
+      "desc": null
+    },
+    {
+      "name": "FORD MOTOR COMPANY",
+      "state": "DC",
+      "spending": 6765000,
+      "filings": 171,
+      "desc": null
+    },
+    {
+      "name": "OMNITRAX, INC.",
+      "state": "CO",
+      "spending": 6350000,
+      "filings": 32,
+      "desc": "Short line and regional freight railroad holding company"
+    },
+    {
+      "name": "AUTOS DRIVE AMERICA",
+      "state": "DC",
+      "spending": 6320000,
+      "filings": 59,
+      "desc": null
+    },
+    {
+      "name": "NORFOLK SOUTHERN CORPORATION",
+      "state": "DC",
+      "spending": 6210000,
+      "filings": 154,
+      "desc": "Shipping and transportation company"
+    },
+    {
+      "name": "ANDEAVOR",
+      "state": "DC",
+      "spending": 5735269,
+      "filings": 4,
+      "desc": null
+    },
+    {
+      "name": "VOLVO CAR CORPORATION",
+      "state": "DC",
+      "spending": 5565000,
+      "filings": 40,
+      "desc": "Manufacturers Motor Vehicles"
+    },
+    {
+      "name": "VOLKSWAGEN GROUP OF AMERICA, INC.",
+      "state": "DC",
+      "spending": 5560000,
+      "filings": 79,
+      "desc": "Automotive Manufacturer"
+    },
+    {
+      "name": "TOYOTA MOTOR NORTH AMERICA, INC.",
+      "state": "NY",
+      "spending": 5290000,
+      "filings": 93,
+      "desc": "automobile maker"
+    },
+    {
+      "name": "GENESEE & WYOMING INC",
+      "state": "PA",
+      "spending": 5190000,
+      "filings": 27,
+      "desc": null
+    },
+    {
+      "name": "CONTINENTAL AUTOMOTIVE SYSTEMS, INC.",
+      "state": "DC",
+      "spending": 5000000,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "AUTODESK INC",
+      "state": "CA",
+      "spending": 4995000,
+      "filings": 27,
+      "desc": null
+    },
+    {
+      "name": "HAWAIIAN AIRLINES, INC.",
+      "state": "DC",
+      "spending": 4870000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "REGIONAL AIRLINE ASSOCIATION",
+      "state": "DC",
+      "spending": 4500000,
+      "filings": 66,
+      "desc": null
+    },
+    {
+      "name": "ADVOCATES FOR HIGHWAY AND AUTO SAFETY",
+      "state": "DC",
+      "spending": 4451999,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "LYFT, INC.",
+      "state": "CA",
+      "spending": 4380000,
+      "filings": 80,
+      "desc": "On-demand Transportation Company"
+    },
+    {
+      "name": "TRANSPORTATION INTERMEDIARIES ASSOCIATION",
+      "state": "VA",
+      "spending": 4367500,
+      "filings": 54,
+      "desc": null
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 177391100.94
+    },
+    {
+      "year": 2019,
+      "spending": 168365784.73000002
+    },
+    {
+      "year": 2020,
+      "spending": 181178057.05
+    },
+    {
+      "year": 2021,
+      "spending": 157065620
+    },
+    {
+      "year": 2022,
+      "spending": 191614978.18
+    },
+    {
+      "year": 2023,
+      "spending": 301011863.99
+    },
+    {
+      "year": 2024,
+      "spending": 247789936.99
+    },
+    {
+      "year": 2025,
+      "spending": 264860090.82999998
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "TRA",
+      "count": 11040
+    },
+    {
+      "code": "BUD",
+      "count": 5748
+    },
+    {
+      "code": "AVI",
+      "count": 5158
+    },
+    {
+      "code": "TAX",
+      "count": 3785
+    },
+    {
+      "code": "AUT",
+      "count": 3337
+    },
+    {
+      "code": "TRD",
+      "count": 2495
+    },
+    {
+      "code": "RRR",
+      "count": 1750
+    },
+    {
+      "code": "DEF",
+      "count": 1575
+    },
+    {
+      "code": "ENV",
+      "count": 1522
+    },
+    {
+      "code": "HOM",
+      "count": 1267
+    }
+  ]
+}

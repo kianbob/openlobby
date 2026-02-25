@@ -1,1 +1,84 @@
-{"id":201797,"name":"MAXIMUS, INC.","slug":"maximus-inc","state":"VA","description":"Government contractor; operates government health and human services programs","totalSpending":1620000,"filings":27,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":180000},{"year":2020,"income":180000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":240000}],"firms":["GUIDEPOSTSTRATEGIES, LLC"],"lobbyists":["PHIL COX","MARIE SANDERSON","LAINE STRIEGEL"],"issues":["HCR","GOV","WEL"],"sampleDescriptions":["SNAP; flexibility to contract services","flexibility to contract services","SNAP; welfare reform","SNAP","SNAP; welfare reform; flexibility to contract services","flexibility to contract services; SNAP COVID-19 response language","Workforce Issues.","Monitor workforce issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 201797,
+  "name": "MAXIMUS, INC.",
+  "slug": "maximus-inc",
+  "state": "VA",
+  "description": "Government contractor; operates government health and human services programs",
+  "totalSpending": 1620000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "GUIDEPOSTSTRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "PHIL COX",
+    "MARIE SANDERSON",
+    "LAINE STRIEGEL"
+  ],
+  "issues": [
+    "HCR",
+    "GOV",
+    "WEL"
+  ],
+  "sampleDescriptions": [
+    "SNAP; flexibility to contract services",
+    "flexibility to contract services",
+    "SNAP; welfare reform",
+    "SNAP",
+    "SNAP; welfare reform; flexibility to contract services",
+    "flexibility to contract services; SNAP COVID-19 response language",
+    "Workforce Issues.",
+    "Monitor workforce issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 202500,
+  "peakYear": 2022,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 3
+}

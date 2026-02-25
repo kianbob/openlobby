@@ -1,1 +1,83 @@
-{"id":133480,"name":"KARL STORZ ENDOSCOPY - AMERICA, INC","slug":"karl-storz-endoscopy-america-inc","state":"CA","description":"Distributor of endoscopes, medical instruments, and devices.","totalSpending":1630000,"filings":29,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":180000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["ML STRATEGIES, LLC"],"lobbyists":["ALEXANDER HECHT","RODNEY WHITLOCK","ELI GREENSPAN","FRANK GUINTA","AARON JOSEPHSON","ANTHONY DEMAIO"],"issues":["HCR",null],"sampleDescriptions":["Issues related to the FDA regulation of third-party repair of medical devices.","Issues related to the FDA oversight of medical device servicing.","Issues related to the FDA oversight of medical device servicing and remanufacturing.","Issues related to the FDA oversight of medical device servicing and remanufacturing","Issues related to the FDA oversight of medical device servicing and remanufacturing; Clarifying Remanufacturing to Protect Patient Safety Act of 2022 (H.R. 7253)"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 133480,
+  "name": "KARL STORZ ENDOSCOPY - AMERICA, INC",
+  "slug": "karl-storz-endoscopy-america-inc",
+  "state": "CA",
+  "description": "Distributor of endoscopes, medical instruments, and devices.",
+  "totalSpending": 1630000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "ML STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "ALEXANDER HECHT",
+    "RODNEY WHITLOCK",
+    "ELI GREENSPAN",
+    "FRANK GUINTA",
+    "AARON JOSEPHSON",
+    "ANTHONY DEMAIO"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to the FDA regulation of third-party repair of medical devices.",
+    "Issues related to the FDA oversight of medical device servicing.",
+    "Issues related to the FDA oversight of medical device servicing and remanufacturing.",
+    "Issues related to the FDA oversight of medical device servicing and remanufacturing",
+    "Issues related to the FDA oversight of medical device servicing and remanufacturing; Clarifying Remanufacturing to Protect Patient Safety Act of 2022 (H.R. 7253)"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -17,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 203750,
+  "peakYear": 2018,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1
+}

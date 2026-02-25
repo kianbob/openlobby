@@ -1,1 +1,329 @@
-{"abbreviation":"TN","name":"Tennessee","totalSpending":163787009,"totalFilings":6120,"clientCount":407,"yearlySpending":[{"year":2018,"income":10336999},{"year":2019,"income":13324166},{"year":2020,"income":15884000},{"year":2021,"income":16474500},{"year":2022,"income":19402050},{"year":2023,"income":45017700},{"year":2024,"income":18653994},{"year":2025,"income":24693600}],"topClients":[{"name":"LIFEPOINT HEALTH","income":5580000},{"name":"WACKER POLYSILICON NORTH AMERICA LLC","income":5410000},{"name":"FEDEX CORPORATION","income":5400000},{"name":"TEAMHEALTH","income":4845000},{"name":"HCA","income":3540000},{"name":"BALLAD HEALTH","income":3390000},{"name":"ENVISION HEALTHCARE (FORMERLY KNOWN AS EMCARE INC.)","income":3360000},{"name":"EASTMAN CHEMICAL COMPANY","income":3005000},{"name":"CORECIVIC","income":2819000},{"name":"NISSAN NORTH AMERICA, INC.","income":2600000},{"name":"CORECIVIC INC","income":2480000},{"name":"ARDENT HEALTH SERVICES","income":2390000},{"name":"BRIDGESTONE AMERICAS HOLDING INC","income":2260000},{"name":"PILOT TRAVEL CENTERS LLC (F/K/A PILOT FLYING J)","income":2020000},{"name":"CHSPSC, LLC","income":1980000},{"name":"INTERNATIONAL PAPER COMPANY","income":1955000},{"name":"THE ORTHOFORUM","income":1951500},{"name":"CMH SERVICES","income":1710000},{"name":"TIVITY HEALTH, INC.","income":1690000},{"name":"BROADCAST MUSIC INC","income":1650000},{"name":"SESAC RIGHTS MANAGEMENT, INC.","income":1640000},{"name":"UNITED SEATING AND MOBILITY, LLC DBA NUMOTION","income":1620000},{"name":"PERMOBIL, INC.","income":1610000},{"name":"KNOXVILLE AREA HOSPITAL ALLIANCE (INFORMAL COALITION)","income":1610000},{"name":"PILOT TRAVEL CENTERS LLC","income":1580000},{"name":"INGRAM BARGE COMPANY","income":1540000},{"name":"NYRSTAR","income":1486250},{"name":"NISSAN NORTH AMERICA INC","income":1450000},{"name":"FISHER & PHILLIPS LLP, ON BEHALF OF FORTREX, INC. LTD.","income":1370000},{"name":"ELECTRIC POWER BOARD","income":1350000},{"name":"MEHARRY MEDICAL COLLEGE","income":1345000},{"name":"HCA HEALTHCARE","income":1340000},{"name":"FORETREX, INC. LTD (FORMERLY PACKERS SANITATION SERVICES, INC., LTD.)","income":1320000},{"name":"JARDEN ZINC PRODUCTS","income":1310000},{"name":"GLOBAL GRAB TECHNOLOGIES","income":1300000},{"name":"TENNESSEE RURAL HEALTH IMPROVEMENT ASSOCIATION","income":1260000},{"name":"ONEONCOLOGY INC.","income":1220000},{"name":"TENNESSEE VALLEY PUBLIC POWER ASSOCIATION","income":1210000},{"name":"BROOKDALE SENIOR LIVING INC.","income":1200000},{"name":"ASURION LLC","income":1080000},{"name":"ACADIA HEALTHCARE","income":1080000},{"name":"ENVISION HEALTHCARE","income":1060000},{"name":"TENNESSEE TECHNOLOGICAL UNIVERSITY","income":1050000},{"name":"CITY OF KNOXVILLE, TENNESSEE","income":1050000},{"name":"DELEK US HOLDINGS, INC.","income":1030000},{"name":"CITY OF MEMPHIS, TENNESSEE","income":1030000},{"name":"UNIVERSITY OF TENNESSEE","income":1015000},{"name":"UNAKA COMPANY, INC.","income":1000000},{"name":"ACADIA HEALTHCARE INC.","income":997500},{"name":"TEAM HEALTH","income":995000}],"topIssues":[{"code":"HCR","income":44438200},{"code":"MMM","income":30940000},{"code":"TAX","income":21016500},{"code":"BUD","income":18618500},{"code":"TRD","income":14219500},{"code":"TRA","income":10567515},{"code":"LBR","income":10091850},{"code":"ENG","income":9386000},{"code":"AGR","income":6740000},{"code":"FIN","income":6004000},{"code":"ENV","income":5715000},{"code":"GOV","income":5111000},{"code":"AVI","income":4620000},{"code":"IMM","income":4090000},{"code":"CPT","income":3996000},{"code":"HOU","income":3910000},{"code":"BAN","income":3324000},{"code":"FOO","income":3220000},{"code":"EDU","income":3145894},{"code":"DEF","income":3128650}]}
+{
+  "abbreviation": "TN",
+  "name": "Tennessee",
+  "totalSpending": 163787009,
+  "totalFilings": 6120,
+  "clientCount": 407,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 10336999
+    },
+    {
+      "year": 2019,
+      "income": 13324166
+    },
+    {
+      "year": 2020,
+      "income": 15884000
+    },
+    {
+      "year": 2021,
+      "income": 16474500
+    },
+    {
+      "year": 2022,
+      "income": 19402050
+    },
+    {
+      "year": 2023,
+      "income": 45017700
+    },
+    {
+      "year": 2024,
+      "income": 18653994
+    },
+    {
+      "year": 2025,
+      "income": 24693600
+    }
+  ],
+  "topClients": [
+    {
+      "name": "LIFEPOINT HEALTH",
+      "income": 5580000
+    },
+    {
+      "name": "WACKER POLYSILICON NORTH AMERICA LLC",
+      "income": 5410000
+    },
+    {
+      "name": "FEDEX CORPORATION",
+      "income": 5400000
+    },
+    {
+      "name": "TEAMHEALTH",
+      "income": 4845000
+    },
+    {
+      "name": "HCA",
+      "income": 3540000
+    },
+    {
+      "name": "BALLAD HEALTH",
+      "income": 3390000
+    },
+    {
+      "name": "ENVISION HEALTHCARE (FORMERLY KNOWN AS EMCARE INC.)",
+      "income": 3360000
+    },
+    {
+      "name": "EASTMAN CHEMICAL COMPANY",
+      "income": 3005000
+    },
+    {
+      "name": "CORECIVIC",
+      "income": 2819000
+    },
+    {
+      "name": "NISSAN NORTH AMERICA, INC.",
+      "income": 2600000
+    },
+    {
+      "name": "CORECIVIC INC",
+      "income": 2480000
+    },
+    {
+      "name": "ARDENT HEALTH SERVICES",
+      "income": 2390000
+    },
+    {
+      "name": "BRIDGESTONE AMERICAS HOLDING INC",
+      "income": 2260000
+    },
+    {
+      "name": "PILOT TRAVEL CENTERS LLC (F/K/A PILOT FLYING J)",
+      "income": 2020000
+    },
+    {
+      "name": "CHSPSC, LLC",
+      "income": 1980000
+    },
+    {
+      "name": "INTERNATIONAL PAPER COMPANY",
+      "income": 1955000
+    },
+    {
+      "name": "THE ORTHOFORUM",
+      "income": 1951500
+    },
+    {
+      "name": "CMH SERVICES",
+      "income": 1710000
+    },
+    {
+      "name": "TIVITY HEALTH, INC.",
+      "income": 1690000
+    },
+    {
+      "name": "BROADCAST MUSIC INC",
+      "income": 1650000
+    },
+    {
+      "name": "SESAC RIGHTS MANAGEMENT, INC.",
+      "income": 1640000
+    },
+    {
+      "name": "UNITED SEATING AND MOBILITY, LLC DBA NUMOTION",
+      "income": 1620000
+    },
+    {
+      "name": "PERMOBIL, INC.",
+      "income": 1610000
+    },
+    {
+      "name": "KNOXVILLE AREA HOSPITAL ALLIANCE (INFORMAL COALITION)",
+      "income": 1610000
+    },
+    {
+      "name": "PILOT TRAVEL CENTERS LLC",
+      "income": 1580000
+    },
+    {
+      "name": "INGRAM BARGE COMPANY",
+      "income": 1540000
+    },
+    {
+      "name": "NYRSTAR",
+      "income": 1486250
+    },
+    {
+      "name": "NISSAN NORTH AMERICA INC",
+      "income": 1450000
+    },
+    {
+      "name": "FISHER & PHILLIPS LLP, ON BEHALF OF FORTREX, INC. LTD.",
+      "income": 1370000
+    },
+    {
+      "name": "ELECTRIC POWER BOARD",
+      "income": 1350000
+    },
+    {
+      "name": "MEHARRY MEDICAL COLLEGE",
+      "income": 1345000
+    },
+    {
+      "name": "HCA HEALTHCARE",
+      "income": 1340000
+    },
+    {
+      "name": "FORETREX, INC. LTD (FORMERLY PACKERS SANITATION SERVICES, INC., LTD.)",
+      "income": 1320000
+    },
+    {
+      "name": "JARDEN ZINC PRODUCTS",
+      "income": 1310000
+    },
+    {
+      "name": "GLOBAL GRAB TECHNOLOGIES",
+      "income": 1300000
+    },
+    {
+      "name": "TENNESSEE RURAL HEALTH IMPROVEMENT ASSOCIATION",
+      "income": 1260000
+    },
+    {
+      "name": "ONEONCOLOGY INC.",
+      "income": 1220000
+    },
+    {
+      "name": "TENNESSEE VALLEY PUBLIC POWER ASSOCIATION",
+      "income": 1210000
+    },
+    {
+      "name": "BROOKDALE SENIOR LIVING INC.",
+      "income": 1200000
+    },
+    {
+      "name": "ASURION LLC",
+      "income": 1080000
+    },
+    {
+      "name": "ACADIA HEALTHCARE",
+      "income": 1080000
+    },
+    {
+      "name": "ENVISION HEALTHCARE",
+      "income": 1060000
+    },
+    {
+      "name": "TENNESSEE TECHNOLOGICAL UNIVERSITY",
+      "income": 1050000
+    },
+    {
+      "name": "CITY OF KNOXVILLE, TENNESSEE",
+      "income": 1050000
+    },
+    {
+      "name": "DELEK US HOLDINGS, INC.",
+      "income": 1030000
+    },
+    {
+      "name": "CITY OF MEMPHIS, TENNESSEE",
+      "income": 1030000
+    },
+    {
+      "name": "UNIVERSITY OF TENNESSEE",
+      "income": 1015000
+    },
+    {
+      "name": "UNAKA COMPANY, INC.",
+      "income": 1000000
+    },
+    {
+      "name": "ACADIA HEALTHCARE INC.",
+      "income": 997500
+    },
+    {
+      "name": "TEAM HEALTH",
+      "income": 995000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "HCR",
+      "income": 44438200
+    },
+    {
+      "code": "MMM",
+      "income": 30940000
+    },
+    {
+      "code": "TAX",
+      "income": 21016500
+    },
+    {
+      "code": "BUD",
+      "income": 18618500
+    },
+    {
+      "code": "TRD",
+      "income": 14219500
+    },
+    {
+      "code": "TRA",
+      "income": 10567515
+    },
+    {
+      "code": "LBR",
+      "income": 10091850
+    },
+    {
+      "code": "ENG",
+      "income": 9386000
+    },
+    {
+      "code": "AGR",
+      "income": 6740000
+    },
+    {
+      "code": "FIN",
+      "income": 6004000
+    },
+    {
+      "code": "ENV",
+      "income": 5715000
+    },
+    {
+      "code": "GOV",
+      "income": 5111000
+    },
+    {
+      "code": "AVI",
+      "income": 4620000
+    },
+    {
+      "code": "IMM",
+      "income": 4090000
+    },
+    {
+      "code": "CPT",
+      "income": 3996000
+    },
+    {
+      "code": "HOU",
+      "income": 3910000
+    },
+    {
+      "code": "BAN",
+      "income": 3324000
+    },
+    {
+      "code": "FOO",
+      "income": 3220000
+    },
+    {
+      "code": "EDU",
+      "income": 3145894
+    },
+    {
+      "code": "DEF",
+      "income": 3128650
+    }
+  ],
+  "perCapita": 36.93,
+  "population": 7126489,
+  "nationalRank": 20,
+  "perCapitaRank": 24
+}

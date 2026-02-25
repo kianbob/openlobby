@@ -1,1 +1,115 @@
-{"id":101084,"name":"AIR EVAC LIFETEAM","slug":"air-evac-lifeteam","state":"MO","description":"Air medical services provider","totalSpending":7110000,"filings":19,"yearlySpending":[{"year":2018,"income":300000},{"year":2019,"income":2300000},{"year":2020,"income":3260000},{"year":2021,"income":1060000},{"year":2022,"income":190000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["CONNER BRACE","MATT HAWKINS","HANS RICKHOFF","JOHN GILLILAND","GORDON BATES","ED PAGANO","SAM OLSWANGER","CHRISTOPHER TREANOR","DANIEL GRAVER","CHRISTINA HALEY","LAUREN O'BRIEN","SUSAN LENT","RYAN THOMPSON","JULIE NOLAN","LOUIS AGNELLO","LAMAR SMITH","CHARLIE JOHNSON","JOEL JANKOWSKY","GEOFF VERHOFF","BRIAN POMPER","KAREN GREEN","KATIE BROSSY","SEAN D'ARCY","BRENDAN DUNN","DENISE DESIDERIO","CASEY HIGGINS","JOSHUA TEITELBAUM","GALEN ROEHL","CARYN LESTER","JEFF MCMILLEN","MARTHA KENDRICK","ZACHARY RUDISILL","RYAN ELLIS","ILEANA ROS-LEHTINEN","MATTHEW HITTLE","ANNA ABRAM"],"issues":["MMM","TRA","HCR"],"sampleDescriptions":["Advocacy regarding the Ensuring Access to Air Ambulance Services Act of 2017 (H.R. 3378); Air Ambulance Quality and Accountability Act (H.R. 3780).","Advocacy concerning the FAA Reauthorization Act of 2018 (H.R. 4), and issues pertaining to its administration; Air Ambulance Consumer Protection Act (S. 2812).","Advocacy regarding the Ensuring Access to Air Ambulances Services Act of 2017 (H.R. 3378; S. 2121); Air Ambulance Quality and Accountability Act (H.R. 3780).","Advocacy regarding air ambulance Medicare rate adjustment; medical billing issues.","Issues related to formation of the Air Ambulance and Patient Billing Advisory Committee.","Issues related to Air Ambulance and Patient Billing Advisory Committee (AAPB Advisory Committee); Ensuring Access to Air Ambulance Services.","Issues related to medical billing and ensuring access to air ambulance services.","Advocacy regarding Air Ambulance and Patient Billing Advisory Committee (AAPB Advisory Committee); Ensuring Access to Air Ambulance Services.","Advocacy regarding the Air Ambulance and Patient Billing Advisory Committee and ensuring access to emergency air ambulance services.","Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas; legislative proposals including the Lower Health Care Costs Act (S. 1895) and the No Surprises Act (H.R. 3630); support for air ambulance cost and claims data reporting program.","Advocacy regarding Medicare reimbursement for emergency air ambulance services and the Air Ambulance and Patient Billing Advisory Committee.","Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas, including the Lower Health Care Costs Act (S. 1895),  No Surprises Act (H.R. 3630), Ban Surprise Billing Act (H.R. 5800), Consumer Protections Against Surprise Medical Bills Act of 2020 (H.R. 5826), the Coronavirus Preparedness and Response Supplemental Appropriations Act (H.R. 6074), and CARES Act (H.R. 748); support for air ambulance cost and claims data reporting program; support for emergency first responder COVID-19 relief.","Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas, including the Lower Health Care Costs Act (S. 1895), No Surprises Act (H.R. 3630), Ban Surprise Billing Act (H.R. 5800), Consumer Protections Against Surprise Medical Bills Act of 2020 (H.R. 5826), the Coronavirus Preparedness and Response Supplemental Appropriations Act (H.R. 6074), and CARES Act (H.R. 748); Paycheck Protection Program and Health Care Enhancement Act (H.R. 266); support for air ambulance cost and claims data reporting program; support for emergency first responder COVID-19 relief.","Advocacy regarding Medicare reimbursement for emergency air ambulance services, the Air Ambulance and Patient Billing Advisory Committee, and CMS report on air ambulance costs (P.L. 116-93).","Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas, including the Lower Health Care Costs Act (S. 1895), No Surprises Act (H.R. 3630), Ban Surprise Billing Act (H.R. 5800), Consumer Protections Against Surprise Medical Bills Act of 2020 (H.R. 5826), the Coronavirus Preparedness and Response Supplemental Appropriations Act (H.R. 6074), and CARES Act (H.R. 748); implementation of Paycheck Protection Program and Health Care Enhancement Act (H.R. 266); support for air ambulance cost and claims data reporting program; support for emergency first responder COVID-19 relief.","Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas, including the Consolidated Appropriations Act, 2021 (H.R. 133), Lower Health Care Costs Act (S. 1895), No Surprises Act (H.R. 3630), Ban Surprise Billing Act (H.R. 5800), Consumer Protections Against Surprise Medical Bills Act of 2020 (H.R. 5826), the Coronavirus Preparedness and Response Supplemental Appropriations Act (H.R. 6074), and CARES Act (H.R. 748); Paycheck Protection Program and Health Care Enhancement Act (H.R. 266); support for air ambulance cost and claims data reporting program; support for emergency first responder COVID-19 relief.","Advocacy regarding Medicare reimbursement for emergency air ambulance services, the Air Ambulance and Patient Billing Advisory Committee, and COVID-19 reimbursement.","Advocacy regarding solutions to preserve access to emergency air ambulance services, particularly in rural areas, including implementation of the Consolidated Appropriations Act, 2021 (including the No Surprises Act), (H.R. 133 116th Cong.); support for air ambulance cost and claims data reporting program and Medicare reimbursement; support for emergency first responder COVID-19 relief and funding through the Provider Relief Fund.","Implementation of the No Surprises Act (Consolidated Appropriations Act, 2021; H.R. 133 116th Cong.) including solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas.","Air Ambulance and Patient Billing Advisory Committee, and implementation of the No Surprises Act, as included in the Consolidated Appropriations Act, 2021 (P.L. 116-260); eliminating the Provider Relief Fund Tax Penalties Act of 2021 (H.R. 2079)"],"years":[2018,2019,2020,2021,2022]}
+{
+  "id": 101084,
+  "name": "AIR EVAC LIFETEAM",
+  "slug": "air-evac-lifeteam",
+  "state": "MO",
+  "description": "Air medical services provider",
+  "totalSpending": 7110000,
+  "filings": 19,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 300000
+    },
+    {
+      "year": 2019,
+      "income": 2300000
+    },
+    {
+      "year": 2020,
+      "income": 3260000
+    },
+    {
+      "year": 2021,
+      "income": 1060000
+    },
+    {
+      "year": 2022,
+      "income": 190000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "CONNER BRACE",
+    "MATT HAWKINS",
+    "HANS RICKHOFF",
+    "JOHN GILLILAND",
+    "GORDON BATES",
+    "ED PAGANO",
+    "SAM OLSWANGER",
+    "CHRISTOPHER TREANOR",
+    "DANIEL GRAVER",
+    "CHRISTINA HALEY",
+    "LAUREN O'BRIEN",
+    "SUSAN LENT",
+    "RYAN THOMPSON",
+    "JULIE NOLAN",
+    "LOUIS AGNELLO",
+    "LAMAR SMITH",
+    "CHARLIE JOHNSON",
+    "JOEL JANKOWSKY",
+    "GEOFF VERHOFF",
+    "BRIAN POMPER",
+    "KAREN GREEN",
+    "KATIE BROSSY",
+    "SEAN D'ARCY",
+    "BRENDAN DUNN",
+    "DENISE DESIDERIO",
+    "CASEY HIGGINS",
+    "JOSHUA TEITELBAUM",
+    "GALEN ROEHL",
+    "CARYN LESTER",
+    "JEFF MCMILLEN",
+    "MARTHA KENDRICK",
+    "ZACHARY RUDISILL",
+    "RYAN ELLIS",
+    "ILEANA ROS-LEHTINEN",
+    "MATTHEW HITTLE",
+    "ANNA ABRAM"
+  ],
+  "issues": [
+    "MMM",
+    "TRA",
+    "HCR"
+  ],
+  "sampleDescriptions": [
+    "Advocacy regarding the Ensuring Access to Air Ambulance Services Act of 2017 (H.R. 3378); Air Ambulance Quality and Accountability Act (H.R. 3780).",
+    "Advocacy concerning the FAA Reauthorization Act of 2018 (H.R. 4), and issues pertaining to its administration; Air Ambulance Consumer Protection Act (S. 2812).",
+    "Advocacy regarding the Ensuring Access to Air Ambulances Services Act of 2017 (H.R. 3378; S. 2121); Air Ambulance Quality and Accountability Act (H.R. 3780).",
+    "Advocacy regarding air ambulance Medicare rate adjustment; medical billing issues.",
+    "Issues related to formation of the Air Ambulance and Patient Billing Advisory Committee.",
+    "Issues related to Air Ambulance and Patient Billing Advisory Committee (AAPB Advisory Committee); Ensuring Access to Air Ambulance Services.",
+    "Issues related to medical billing and ensuring access to air ambulance services.",
+    "Advocacy regarding Air Ambulance and Patient Billing Advisory Committee (AAPB Advisory Committee); Ensuring Access to Air Ambulance Services.",
+    "Advocacy regarding the Air Ambulance and Patient Billing Advisory Committee and ensuring access to emergency air ambulance services.",
+    "Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas; legislative proposals including the Lower Health Care Costs Act (S. 1895) and the No Surprises Act (H.R. 3630); support for air ambulance cost and claims data reporting program.",
+    "Advocacy regarding Medicare reimbursement for emergency air ambulance services and the Air Ambulance and Patient Billing Advisory Committee.",
+    "Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas, including the Lower Health Care Costs Act (S. 1895),  No Surprises Act (H.R. 3630), Ban Surprise Billing Act (H.R. 5800), Consumer Protections Against Surprise Medical Bills Act of 2020 (H.R. 5826), the Coronavirus Preparedness and Response Supplemental Appropriations Act (H.R. 6074), and CARES Act (H.R. 748); support for air ambulance cost and claims data reporting program; support for emergency first responder COVID-19 relief.",
+    "Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas, including the Lower Health Care Costs Act (S. 1895), No Surprises Act (H.R. 3630), Ban Surprise Billing Act (H.R. 5800), Consumer Protections Against Surprise Medical Bills Act of 2020 (H.R. 5826), the Coronavirus Preparedness and Response Supplemental Appropriations Act (H.R. 6074), and CARES Act (H.R. 748); Paycheck Protection Program and Health Care Enhancement Act (H.R. 266); support for air ambulance cost and claims data reporting program; support for emergency first responder COVID-19 relief.",
+    "Advocacy regarding Medicare reimbursement for emergency air ambulance services, the Air Ambulance and Patient Billing Advisory Committee, and CMS report on air ambulance costs (P.L. 116-93).",
+    "Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas, including the Lower Health Care Costs Act (S. 1895), No Surprises Act (H.R. 3630), Ban Surprise Billing Act (H.R. 5800), Consumer Protections Against Surprise Medical Bills Act of 2020 (H.R. 5826), the Coronavirus Preparedness and Response Supplemental Appropriations Act (H.R. 6074), and CARES Act (H.R. 748); implementation of Paycheck Protection Program and Health Care Enhancement Act (H.R. 266); support for air ambulance cost and claims data reporting program; support for emergency first responder COVID-19 relief.",
+    "Advocacy regarding solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas, including the Consolidated Appropriations Act, 2021 (H.R. 133), Lower Health Care Costs Act (S. 1895), No Surprises Act (H.R. 3630), Ban Surprise Billing Act (H.R. 5800), Consumer Protections Against Surprise Medical Bills Act of 2020 (H.R. 5826), the Coronavirus Preparedness and Response Supplemental Appropriations Act (H.R. 6074), and CARES Act (H.R. 748); Paycheck Protection Program and Health Care Enhancement Act (H.R. 266); support for air ambulance cost and claims data reporting program; support for emergency first responder COVID-19 relief.",
+    "Advocacy regarding Medicare reimbursement for emergency air ambulance services, the Air Ambulance and Patient Billing Advisory Committee, and COVID-19 reimbursement.",
+    "Advocacy regarding solutions to preserve access to emergency air ambulance services, particularly in rural areas, including implementation of the Consolidated Appropriations Act, 2021 (including the No Surprises Act), (H.R. 133 116th Cong.); support for air ambulance cost and claims data reporting program and Medicare reimbursement; support for emergency first responder COVID-19 relief and funding through the Provider Relief Fund.",
+    "Implementation of the No Surprises Act (Consolidated Appropriations Act, 2021; H.R. 133 116th Cong.) including solutions to address balance billing and preserve access to emergency air ambulance services, particularly in rural areas.",
+    "Air Ambulance and Patient Billing Advisory Committee, and implementation of the No Surprises Act, as included in the Consolidated Appropriations Act, 2021 (P.L. 116-260); eliminating the Provider Relief Fund Tax Penalties Act of 2021 (H.R. 2079)"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "growthRate": -37,
+  "trajectory": "reducing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 1422000,
+  "peakYear": 2020,
+  "lobbyistCount": 36,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

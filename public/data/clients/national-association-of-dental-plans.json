@@ -1,1 +1,101 @@
-{"id":197056,"name":"NATIONAL ASSOCIATION OF DENTAL PLANS","slug":"national-association-of-dental-plans","state":"TX","description":"Dental/Healthcare","totalSpending":1780000,"filings":31,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":300000},{"year":2021,"income":120000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["HOOPER, LUNDY & BOOKMAN, P.C."],"lobbyists":["MARTIN CORRY","LISA LAYMAN","MONICA MASSARO","KELLY DELMORE"],"issues":["TAX","HCR","BUD","INS","MMM","SMB",null],"sampleDescriptions":["HR 1606, Dental and Optometric Care Access Act; HR 1628, American Health Care Act of 2017 in relation to the business of dental benefits & amendments/repeal to ACA; bills related to changes in federal taxes of dental plans & regulations relating to fees to operate exchanges; HR 3922, bill combining funding extensions for both CHIP & community health centers & bills on which these funding extensions could be considered, operation of Exchanges, including proposed Notice of Benefit & Payment Parameters for Federal Marketplace Plan Year 2019 & Draft 2019 Letter to Issuers in Federally-facilitated Marketplaces; regulatory requirements to register dentists to provide supplemental dental services to Medicare Part C plans.","Issues and policies related to ensuring tax incentives for employers and individuals to purchase dental coverage including the health insurance tax and the Cadillac tax; H.R. 1892 - The Bipartisan Budget Act of 2018- provisions related to the health insurance tax.","H.R. 1892 - The Bipartisan Budget Act of 2018","HR 1606 Dental and Optometric Care Access Act; H.R. 1892 - The Bipartisan Budget Act of 2018 - provisions related to extending funding for the Childrens Health Insurance Program;  policies related to maintaining dental benefits under Medicaid; policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits.","HR 1606 Dental and Optometric Care Access Act; HR 5138 - Bipartisan HSA Improvement Act; Issues and policies related to ensuring tax incentives for employers and individuals to purchase dental coverage including the health insurance tax and the Cadillac tax.","HR 1606 Dental and Optometric Care Access Act; HR 5138 - Bipartisan HSA Improvement Act;  policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits.","HR 1606 Dental and Optometric Care Access Act; HR 5138 - Bipartisan HSA Improvement Act; policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits.","Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits.","Issues and policies related to ensuring tax incentives for employers and individuals to purchase dental coverage including the health insurance tax and the Cadillac tax.","(S. 22) Medicare Dental Benefit Act of 2019; (HR 576) Seniors Have Eyes, Ears, and Teeth Medicare Dental Benefit Act of 2019 (S. 22); Seniors Have Eyes, Ears, and Teeth Act (HR 576); Medicare Dental, Vision and Hearing Benefit Act of 2019 (HR 1393).","Competitive Health Insurance Reform Act of 2019 (S 350/HR 1418).","Health Insurance Tax Relief Act of 2019 (S 172/HR 1398.","Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits; The Lower Health Care Costs Act of 2019 (S. 1895), Provisions related to the All Payer Claims Database.","Medicare and Medicaid Dental, Vision, and Hearing Benefit Act of 2019 (S. 1423); Seniors Have Eyes, Ears, and Teeth Act (H.R. 576); Medicare Dental Benefit Act of 2019 (S. 22); Medicare Dental, Vision, and Hearing Benefit Act of 2019 (H.R. 1393).","Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits; The Lower Health Care Costs Act of 2019 (S. 1895), Provisions related to the All Payer Claims Database; Dental and Optometric Care Access Act of 2019 (H.R. 3762).","Competitive Health Insurance Reform Act of 2019 (S 350/HR 1418); Dental and Optometric Care Access Act of 2019 (H.R. 3762).","Health Insurance Tax Relief Act of 2019 (S 172/HR 1398).","Medicare and Medicaid Dental, Vision, and Hearing Benefit Act of 2019 (S. 1423); Seniors Have Eyes, Ears, and Teeth Act (H.R. 576); Medicare Dental Benefit Act of 2019 (S. 22/H.R. 2951); Medicare Dental, Vision, and Hearing Benefit Act of 2019 (H.R. 1393); Medicare Dental Act of 2019 (H.R. 4650);\nElijah E. Cummings Lower Drug Costs Now Act (H.R. 3).","Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits; The Lower Health Care Costs Act of 2019 (S. 1895), Provisions related to the All Payer Claims Database; Dental and Optometric Care Access Act of 2019 (H.R. 3762); Families First Coronavirus Response Act (H.R. 6201); Coronavirus Aid, Relief and Economic Security Act (H.R. 748).","Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits; The Lower Health Care Costs Act of 2019 (S. 1895), Provisions related to the All Payer Claims Database; Families First Coronavirus Response Act (H.R. 6201); Coronavirus Aid, Relief and Economic Security Act (H.R. 748)."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 197056,
+  "name": "NATIONAL ASSOCIATION OF DENTAL PLANS",
+  "slug": "national-association-of-dental-plans",
+  "state": "TX",
+  "description": "Dental/Healthcare",
+  "totalSpending": 1780000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 300000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "HOOPER, LUNDY & BOOKMAN, P.C."
+  ],
+  "lobbyists": [
+    "MARTIN CORRY",
+    "LISA LAYMAN",
+    "MONICA MASSARO",
+    "KELLY DELMORE"
+  ],
+  "issues": [
+    "TAX",
+    "HCR",
+    "BUD",
+    "INS",
+    "MMM",
+    "SMB",
+    null
+  ],
+  "sampleDescriptions": [
+    "HR 1606, Dental and Optometric Care Access Act; HR 1628, American Health Care Act of 2017 in relation to the business of dental benefits & amendments/repeal to ACA; bills related to changes in federal taxes of dental plans & regulations relating to fees to operate exchanges; HR 3922, bill combining funding extensions for both CHIP & community health centers & bills on which these funding extensions could be considered, operation of Exchanges, including proposed Notice of Benefit & Payment Parameters for Federal Marketplace Plan Year 2019 & Draft 2019 Letter to Issuers in Federally-facilitated Marketplaces; regulatory requirements to register dentists to provide supplemental dental services to Medicare Part C plans.",
+    "Issues and policies related to ensuring tax incentives for employers and individuals to purchase dental coverage including the health insurance tax and the Cadillac tax; H.R. 1892 - The Bipartisan Budget Act of 2018- provisions related to the health insurance tax.",
+    "H.R. 1892 - The Bipartisan Budget Act of 2018",
+    "HR 1606 Dental and Optometric Care Access Act; H.R. 1892 - The Bipartisan Budget Act of 2018 - provisions related to extending funding for the Childrens Health Insurance Program;  policies related to maintaining dental benefits under Medicaid; policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits.",
+    "HR 1606 Dental and Optometric Care Access Act; HR 5138 - Bipartisan HSA Improvement Act; Issues and policies related to ensuring tax incentives for employers and individuals to purchase dental coverage including the health insurance tax and the Cadillac tax.",
+    "HR 1606 Dental and Optometric Care Access Act; HR 5138 - Bipartisan HSA Improvement Act;  policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits.",
+    "HR 1606 Dental and Optometric Care Access Act; HR 5138 - Bipartisan HSA Improvement Act; policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits.",
+    "Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits.",
+    "Issues and policies related to ensuring tax incentives for employers and individuals to purchase dental coverage including the health insurance tax and the Cadillac tax.",
+    "(S. 22) Medicare Dental Benefit Act of 2019; (HR 576) Seniors Have Eyes, Ears, and Teeth Medicare Dental Benefit Act of 2019 (S. 22); Seniors Have Eyes, Ears, and Teeth Act (HR 576); Medicare Dental, Vision and Hearing Benefit Act of 2019 (HR 1393).",
+    "Competitive Health Insurance Reform Act of 2019 (S 350/HR 1418).",
+    "Health Insurance Tax Relief Act of 2019 (S 172/HR 1398.",
+    "Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits; The Lower Health Care Costs Act of 2019 (S. 1895), Provisions related to the All Payer Claims Database.",
+    "Medicare and Medicaid Dental, Vision, and Hearing Benefit Act of 2019 (S. 1423); Seniors Have Eyes, Ears, and Teeth Act (H.R. 576); Medicare Dental Benefit Act of 2019 (S. 22); Medicare Dental, Vision, and Hearing Benefit Act of 2019 (H.R. 1393).",
+    "Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits; The Lower Health Care Costs Act of 2019 (S. 1895), Provisions related to the All Payer Claims Database; Dental and Optometric Care Access Act of 2019 (H.R. 3762).",
+    "Competitive Health Insurance Reform Act of 2019 (S 350/HR 1418); Dental and Optometric Care Access Act of 2019 (H.R. 3762).",
+    "Health Insurance Tax Relief Act of 2019 (S 172/HR 1398).",
+    "Medicare and Medicaid Dental, Vision, and Hearing Benefit Act of 2019 (S. 1423); Seniors Have Eyes, Ears, and Teeth Act (H.R. 576); Medicare Dental Benefit Act of 2019 (S. 22/H.R. 2951); Medicare Dental, Vision, and Hearing Benefit Act of 2019 (H.R. 1393); Medicare Dental Act of 2019 (H.R. 4650);\nElijah E. Cummings Lower Drug Costs Now Act (H.R. 3).",
+    "Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits; The Lower Health Care Costs Act of 2019 (S. 1895), Provisions related to the All Payer Claims Database; Dental and Optometric Care Access Act of 2019 (H.R. 3762); Families First Coronavirus Response Act (H.R. 6201); Coronavirus Aid, Relief and Economic Security Act (H.R. 748).",
+    "Policies related to operation of the Affordable Care Act Exchanges, including enrollment functions and independent purchase of dental benefits; The Lower Health Care Costs Act of 2019 (S. 1895), Provisions related to the All Payer Claims Database; Families First Coronavirus Response Act (H.R. 6201); Coronavirus Aid, Relief and Economic Security Act (H.R. 748)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 222500,
+  "peakYear": 2020,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 6
+}

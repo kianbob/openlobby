@@ -1,1 +1,123 @@
-{"id":175660,"name":"AMERICAN SOCIETY OF ECHOCARDIOGRAPHY","slug":"american-society-of-echocardiography","state":"NC","description":"A professional organization of physicians and others involved in echocardiography.","totalSpending":1400000,"filings":28,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":100000},{"year":2025,"income":200000}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["BRUCE MEHLMAN","DAVID CASTAGNETTI","DEAN ROSEN","DAVID THOMAS","ELISE FINLEY PICKERING","CHARLES WOOTERS","SOHINI GUPTA","SAGE EASTMAN","LAUREN ARONSON","MICHAEL ROBINSON","MICHAEL COLLINS","CONSTANTINE HINGSON","STEVE HARO","HELEN TOLAR","NICHOLE DISTEFANO","MCKENZIE BRICE","PAUL THORNELL","STEPHEN COTE","ALEXANDER PERKINS","VICTORIA FLOOD","ROSEMARY GUTIERREZ","ZACHARY MALLOVE","CAITLIN VAN SANT","LISA GOLDMAN","ALYENE MLINAR","ERICA CHABOT","ANNIE WOLF","NAVEEN PARMAR","JON ADAME","JOSEPH BROWN"],"issues":["MMM","HCR",null],"sampleDescriptions":["Medicare Reimbursement issues.\nQuality issues for cardiac patients and providers.","Medicare Reimbursement issues.\nQuality issues for cardiac patients and providers.\nMedicare Physician Payment Proposal Rule.","Physician medicare issues.","Physician medicare issues. Site neutrality.","Physician medicare coverage reimbursement issues. Site neutrality. Accreditation.","Physician medicare coverage reimbursement issues. Site neutrality. Accreditation.\nH.R. 6074, the Coronavirus Preparedness and Response Supplemental Appropriations Act - Public Law No: 116-123\nH.R. 6201, the Families First Coronavirus Response Act - Public Law No: 116-127\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136","H.R. 266, Paycheck Protection Program and Health Care Enhancement Act                                                          H.R. 6800, HEROES Act\nS. 178 - HEALS Act","Physician medicare coverage reimbursement issues. Site neutrality. Accreditation.\nH.R. 6074, the Coronavirus Preparedness and Response Supplemental Appropriations Act - Public Law No: 116-123\nH.R. 6201, the Families First Coronavirus Response Act - Public Law No: 116-127\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136 \nH.R. 266, Paycheck Protection Program and Health Care Enhancement Act                                                          .R. 6800, HEROES Act \nS. 178 - HEALS Act","Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. \nH.R. 133 - Consolidated Appropriations Act, 2021.","H.R. 133 - Consolidated Appropriations Act, 2021.","Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. \nH.R. 1868, Sequester relief.","Health care policy issues impacting physicians.","Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. \nTelehealth.\nThe Build Back Better Act, A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S. Con. Res. 14.","Health care policy issues impacting physicians.\nThe Build Back Better Act, A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S. Con. Res. 14.\nTelehealth.","Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. \nTelehealth.\nH.R. 5376 - Build Back Better Act.\nMedicare sequestration delay; Statutory Pay-Go impact on physician reimbursement.","Health care policy issues impacting physicians.\nH.R. 5376 - Build Back Better Act.\nTelehealth.","Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. Telehealth. H.R. 5376 - Build Back Better Act. Medicare sequestration delay; Statutory Pay-Go impact on physician reimbursement. H.R. 2471 - Consolidated Appropriations Act (2022 Omnibus).","Health care policy issues impacting physicians. H.R. 5376 - Build Back Better Act. Telehealth. H.R. 2471 - Consolidated Appropriations Act (2022 Omnibus).","Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. Telehealth. H.R. 5376 - Build Back Better Act. Statutory Pay-Go impact on physician reimbursement. Public Health Emergency and Telehealth Waivers.","Health care policy issues impacting physicians. H.R. 5376 - Build Back Better Act/Sequester. Telehealth."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 175660,
+  "name": "AMERICAN SOCIETY OF ECHOCARDIOGRAPHY",
+  "slug": "american-society-of-echocardiography",
+  "state": "NC",
+  "description": "A professional organization of physicians and others involved in echocardiography.",
+  "totalSpending": 1400000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 100000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "MEHLMAN CONSULTING, INC."
+  ],
+  "lobbyists": [
+    "BRUCE MEHLMAN",
+    "DAVID CASTAGNETTI",
+    "DEAN ROSEN",
+    "DAVID THOMAS",
+    "ELISE FINLEY PICKERING",
+    "CHARLES WOOTERS",
+    "SOHINI GUPTA",
+    "SAGE EASTMAN",
+    "LAUREN ARONSON",
+    "MICHAEL ROBINSON",
+    "MICHAEL COLLINS",
+    "CONSTANTINE HINGSON",
+    "STEVE HARO",
+    "HELEN TOLAR",
+    "NICHOLE DISTEFANO",
+    "MCKENZIE BRICE",
+    "PAUL THORNELL",
+    "STEPHEN COTE",
+    "ALEXANDER PERKINS",
+    "VICTORIA FLOOD",
+    "ROSEMARY GUTIERREZ",
+    "ZACHARY MALLOVE",
+    "CAITLIN VAN SANT",
+    "LISA GOLDMAN",
+    "ALYENE MLINAR",
+    "ERICA CHABOT",
+    "ANNIE WOLF",
+    "NAVEEN PARMAR",
+    "JON ADAME",
+    "JOSEPH BROWN"
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Medicare Reimbursement issues.\nQuality issues for cardiac patients and providers.",
+    "Medicare Reimbursement issues.\nQuality issues for cardiac patients and providers.\nMedicare Physician Payment Proposal Rule.",
+    "Physician medicare issues.",
+    "Physician medicare issues. Site neutrality.",
+    "Physician medicare coverage reimbursement issues. Site neutrality. Accreditation.",
+    "Physician medicare coverage reimbursement issues. Site neutrality. Accreditation.\nH.R. 6074, the Coronavirus Preparedness and Response Supplemental Appropriations Act - Public Law No: 116-123\nH.R. 6201, the Families First Coronavirus Response Act - Public Law No: 116-127\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136",
+    "H.R. 266, Paycheck Protection Program and Health Care Enhancement Act                                                          H.R. 6800, HEROES Act\nS. 178 - HEALS Act",
+    "Physician medicare coverage reimbursement issues. Site neutrality. Accreditation.\nH.R. 6074, the Coronavirus Preparedness and Response Supplemental Appropriations Act - Public Law No: 116-123\nH.R. 6201, the Families First Coronavirus Response Act - Public Law No: 116-127\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136 \nH.R. 266, Paycheck Protection Program and Health Care Enhancement Act                                                          .R. 6800, HEROES Act \nS. 178 - HEALS Act",
+    "Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. \nH.R. 133 - Consolidated Appropriations Act, 2021.",
+    "H.R. 133 - Consolidated Appropriations Act, 2021.",
+    "Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. \nH.R. 1868, Sequester relief.",
+    "Health care policy issues impacting physicians.",
+    "Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. \nTelehealth.\nThe Build Back Better Act, A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S. Con. Res. 14.",
+    "Health care policy issues impacting physicians.\nThe Build Back Better Act, A bill to provide for reconciliation pursuant to title II of the Concurrent Resolution on the Budget for Fiscal Year 2022, S. Con. Res. 14.\nTelehealth.",
+    "Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. \nTelehealth.\nH.R. 5376 - Build Back Better Act.\nMedicare sequestration delay; Statutory Pay-Go impact on physician reimbursement.",
+    "Health care policy issues impacting physicians.\nH.R. 5376 - Build Back Better Act.\nTelehealth.",
+    "Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. Telehealth. H.R. 5376 - Build Back Better Act. Medicare sequestration delay; Statutory Pay-Go impact on physician reimbursement. H.R. 2471 - Consolidated Appropriations Act (2022 Omnibus).",
+    "Health care policy issues impacting physicians. H.R. 5376 - Build Back Better Act. Telehealth. H.R. 2471 - Consolidated Appropriations Act (2022 Omnibus).",
+    "Physician Medicare coverage reimbursement issues. Site neutrality. Accreditation. Telehealth. H.R. 5376 - Build Back Better Act. Statutory Pay-Go impact on physician reimbursement. Public Health Emergency and Telehealth Waivers.",
+    "Health care policy issues impacting physicians. H.R. 5376 - Build Back Better Act/Sequester. Telehealth."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 175000,
+  "peakYear": 2018,
+  "lobbyistCount": 30,
+  "firmCount": 1,
+  "issueCount": 2
+}

@@ -1,1 +1,89 @@
-{"id":163091,"name":"UNITED SERVICES AUTOMOBILE ASSOCIATION","slug":"united-services-automobile-association","state":"TX","description":"Financial Services","totalSpending":1360000,"filings":27,"yearlySpending":[{"year":2018,"income":210000},{"year":2019,"income":100000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":150000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["CAPITOL TAX PARTNERS, LLP"],"lobbyists":["LAWRENCE WILLCOX","JONATHAN TALISMAN","MELISSA MUELLER","WILLIAM DAVIS"],"issues":["TAX",null],"sampleDescriptions":["Legislative services related to life insurance and banking taxation issues and H.R. 1, Bill to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 (bill formerly known as the Tax Cuts and Jobs Act).","Legislative services related to life insurance and banking taxation issues and Public Law 115-97 (Tax Cuts and Jobs Act).","Legislative services related to life insurance and banking taxation issues and Public Law 115-97 (Tax Cuts and Jobs Act), and H. R. 1994 the SECURE ACT.","Legislative services related to life insurance and banking taxation issues.","Legislative services related to life insurance and banking taxation issues, and H.R. 1319, American Rescue Plan Act.","Legislative services related to life insurance and banking taxation issues, H.R. 2954, Securing a Strong Retirement Act or SECURE 2.0, and H.R. 1319, American Rescue Plan Act.","Legislative services related to life insurance and banking taxation issues, and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.","Legislative services related to life insurance and banking taxation issues, H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14, and H.R. 2954, Securing a Strong Retirement Act of 2021.","Legislative services related to life insurance and banking taxation issues, H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14, H.R. 2954, Securing a Strong Retirement Act of 2021, and S. 4808, Enhancing American Retirement Now Act.","Legislative services related to life insurance and banking taxation issues, H.R. 2617, Consolidated Appropriations Act, 2023, Securing a Strong Retirement Act of 2021, and S. 4808, Enhancing American Retirement Now Act.","Legislative services related to insurance and banking taxation issues.","Legislative services related to insurance and banking taxation issues and P.L. 119-21."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 163091,
+  "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "slug": "united-services-automobile-association",
+  "state": "TX",
+  "description": "Financial Services",
+  "totalSpending": 1360000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 210000
+    },
+    {
+      "year": 2019,
+      "income": 100000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 150000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "CAPITOL TAX PARTNERS, LLP"
+  ],
+  "lobbyists": [
+    "LAWRENCE WILLCOX",
+    "JONATHAN TALISMAN",
+    "MELISSA MUELLER",
+    "WILLIAM DAVIS"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislative services related to life insurance and banking taxation issues and H.R. 1, Bill to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 (bill formerly known as the Tax Cuts and Jobs Act).",
+    "Legislative services related to life insurance and banking taxation issues and Public Law 115-97 (Tax Cuts and Jobs Act).",
+    "Legislative services related to life insurance and banking taxation issues and Public Law 115-97 (Tax Cuts and Jobs Act), and H. R. 1994 the SECURE ACT.",
+    "Legislative services related to life insurance and banking taxation issues.",
+    "Legislative services related to life insurance and banking taxation issues, and H.R. 1319, American Rescue Plan Act.",
+    "Legislative services related to life insurance and banking taxation issues, H.R. 2954, Securing a Strong Retirement Act or SECURE 2.0, and H.R. 1319, American Rescue Plan Act.",
+    "Legislative services related to life insurance and banking taxation issues, and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "Legislative services related to life insurance and banking taxation issues, H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14, and H.R. 2954, Securing a Strong Retirement Act of 2021.",
+    "Legislative services related to life insurance and banking taxation issues, H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14, H.R. 2954, Securing a Strong Retirement Act of 2021, and S. 4808, Enhancing American Retirement Now Act.",
+    "Legislative services related to life insurance and banking taxation issues, H.R. 2617, Consolidated Appropriations Act, 2023, Securing a Strong Retirement Act of 2021, and S. 4808, Enhancing American Retirement Now Act.",
+    "Legislative services related to insurance and banking taxation issues.",
+    "Legislative services related to insurance and banking taxation issues and P.L. 119-21."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -29,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 170000,
+  "peakYear": 2018,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "transportation"
+}

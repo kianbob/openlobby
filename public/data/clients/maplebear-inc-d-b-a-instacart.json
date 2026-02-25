@@ -1,1 +1,79 @@
-{"id":205264,"name":"MAPLEBEAR INC. D/B/A INSTACART","slug":"maplebear-inc-d-b-a-instacart","state":"CA","description":"Online grocery delivery and pick-up service.","totalSpending":1380000,"filings":24,"yearlySpending":[{"year":2020,"income":100000},{"year":2021,"income":200000},{"year":2022,"income":240000},{"year":2023,"income":300000},{"year":2024,"income":240000},{"year":2025,"income":300000}],"firms":["HARBINGER STRATEGIES, LLC"],"lobbyists":["STEVE STOMBRES","MANNY ROSSMAN","JOHN O'NEILL","KYLE NEVINS","JONATHAN SLEMROD","PARKER POLING","JOHN LEGANSKI"],"issues":["FOO","LBR",null,"SCI"],"sampleDescriptions":["Issues related to food delivery service, including food supply chains, employment classification, SNAP, and health and safety.","Issues related to consumer access, including SNAP policy.","Worker classification; PPE safe harbor (Helping Gig Economy Workers Act of 2020).","Worker classification; PPE safe harbor.","Worker classification.","Monitoring of congressional action related to privacy and artificial intelligence.","Issues related to SNAP policy. Issues related to nutrition within the Medicare Advantage program. Issues relating to pricing.","Issues relating to pricing."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 205264,
+  "name": "MAPLEBEAR INC. D/B/A INSTACART",
+  "slug": "maplebear-inc-d-b-a-instacart",
+  "state": "CA",
+  "description": "Online grocery delivery and pick-up service.",
+  "totalSpending": 1380000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 100000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 300000
+    }
+  ],
+  "firms": [
+    "HARBINGER STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "STEVE STOMBRES",
+    "MANNY ROSSMAN",
+    "JOHN O'NEILL",
+    "KYLE NEVINS",
+    "JONATHAN SLEMROD",
+    "PARKER POLING",
+    "JOHN LEGANSKI"
+  ],
+  "issues": [
+    "FOO",
+    "LBR",
+    null,
+    "SCI"
+  ],
+  "sampleDescriptions": [
+    "Issues related to food delivery service, including food supply chains, employment classification, SNAP, and health and safety.",
+    "Issues related to consumer access, including SNAP policy.",
+    "Worker classification; PPE safe harbor (Helping Gig Economy Workers Act of 2020).",
+    "Worker classification; PPE safe harbor.",
+    "Worker classification.",
+    "Monitoring of congressional action related to privacy and artificial intelligence.",
+    "Issues related to SNAP policy. Issues related to nutrition within the Medicare Advantage program. Issues relating to pricing.",
+    "Issues relating to pricing."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 200,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 230000,
+  "peakYear": 2023,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 3
+}

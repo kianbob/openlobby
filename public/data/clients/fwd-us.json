@@ -1,1 +1,105 @@
-{"id":127201,"name":"FWD.US","slug":"fwd-us","state":"DC","description":"Public policy and grassroots education.","totalSpending":1410000,"filings":27,"yearlySpending":[{"year":2018,"income":260000},{"year":2019,"income":110000},{"year":2020,"income":280000},{"year":2021,"income":270000},{"year":2022,"income":290000},{"year":2023,"income":100000},{"year":2024,"income":40000},{"year":2025,"income":60000}],"firms":["TIBER CREEK GROUP"],"lobbyists":["JOHN GONZALEZ","JEFFREY PECK","JONATHON JONES","TIMOTHY MOLINO","JENNIFER OLSON","JEFFREY SHAPIRO","ASHLI PALMER","NIKOLE BURROUGHS"],"issues":["IMM","UNM","BAN","TAX","SMB","LAW",null],"sampleDescriptions":["H.R.1625 - Consolidated Appropriations Act, 2018, H.R.1301 - Continuing Appropriations Amendments Act, 2018; issues related to immigration reform. H.R. 3440/S. 1615 DREAM Act of 2017","general immigration issues, issues related to Deferred Action for Childhood Arrivals (DACA); general issues with immigration discharge petition; HR 6136 Border Security and Immigration Reform Act of 2018","General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); General issues with immigration discharge petition; HR 6136 Border Security and Immigration Reform Act of 2018","General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act","HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136)","Issues related to criminal justice reform","HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136); H.R. 6800, the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act","Issues related to criminal justice reform; H.R. 7120 Justice in Policing Act of 2020; S. 3985, JUSTICE Act;","H.R. 133 - Consolidated Appropriations Act, 2021 (PL 116-260)","Issues related to criminal justice reform; H.R. 7120 Justice in Policing Act of 2020; S. 3985, JUSTICE Act","General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; H.R. 1603 - Farm Workforce Modernization Act of 2021.","General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; H.R. 1603 - Farm Workforce Modernization Act of 2021; H.R. 5376 - Build Back Better Act.","General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; H.R. 1603 - Farm Workforce Modernization Act of 2021; H.R. 5376 - Build Back Better Act, issues related to immigration.","General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; S. 1260 - United States Innovation and Competition Act of 2021, issues related to immigration; S. 264 - The Dream Act; H.R. 7472 - H4 Work Authorization Act.","General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; S. 1260 - United States Innovation and Competition Act of 2021, issues related to immigration; S. 264 - The Dream Act; H.R. 7442 - H4 Work Authorization Act.","General immigration issues; H.R. 1511/S.2606 - Renewing Immigration Provisions of the Immigration Act of 1929; H.R. 1698 - The American Families United Act; H.R.3599 - DIGNIDAD (Dignity) Act of 2023; Administrative Action on Temporary Protected Status (TPS), S. Amdt. 1388 to H.R. 815 - National Security Act, 2024, issues related to border security.","General immigration issues; Temporary Protection Status (TPS) for Nicaragua, Ecuador, and Venezuela; H-1B modernization Rule; Rule for the Automatic Extension Period for Employment Authorization.","General immigration issues; Issues related to the Deferred Action for Childhood Arrivals policy.","General immigration issues; Issues related to the Deferred Action for Childhood Arrivals policy; Issues related to One Big Beautiful Bill Act (PL 119-21); Issues related to immigration in the homeland and judiciary titles.","General immigration issues; Issues related to the Deferred Action for Childhood Arrivals policy; Issues related to immigration in the homeland and judiciary titles."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 127201,
+  "name": "FWD.US",
+  "slug": "fwd-us",
+  "state": "DC",
+  "description": "Public policy and grassroots education.",
+  "totalSpending": 1410000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 260000
+    },
+    {
+      "year": 2019,
+      "income": 110000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 270000
+    },
+    {
+      "year": 2022,
+      "income": 290000
+    },
+    {
+      "year": 2023,
+      "income": 100000
+    },
+    {
+      "year": 2024,
+      "income": 40000
+    },
+    {
+      "year": 2025,
+      "income": 60000
+    }
+  ],
+  "firms": [
+    "TIBER CREEK GROUP"
+  ],
+  "lobbyists": [
+    "JOHN GONZALEZ",
+    "JEFFREY PECK",
+    "JONATHON JONES",
+    "TIMOTHY MOLINO",
+    "JENNIFER OLSON",
+    "JEFFREY SHAPIRO",
+    "ASHLI PALMER",
+    "NIKOLE BURROUGHS"
+  ],
+  "issues": [
+    "IMM",
+    "UNM",
+    "BAN",
+    "TAX",
+    "SMB",
+    "LAW",
+    null
+  ],
+  "sampleDescriptions": [
+    "H.R.1625 - Consolidated Appropriations Act, 2018, H.R.1301 - Continuing Appropriations Amendments Act, 2018; issues related to immigration reform. H.R. 3440/S. 1615 DREAM Act of 2017",
+    "general immigration issues, issues related to Deferred Action for Childhood Arrivals (DACA); general issues with immigration discharge petition; HR 6136 Border Security and Immigration Reform Act of 2018",
+    "General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); General issues with immigration discharge petition; HR 6136 Border Security and Immigration Reform Act of 2018",
+    "General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act",
+    "HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136)",
+    "Issues related to criminal justice reform",
+    "HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136); H.R. 6800, the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act",
+    "Issues related to criminal justice reform; H.R. 7120 Justice in Policing Act of 2020; S. 3985, JUSTICE Act;",
+    "H.R. 133 - Consolidated Appropriations Act, 2021 (PL 116-260)",
+    "Issues related to criminal justice reform; H.R. 7120 Justice in Policing Act of 2020; S. 3985, JUSTICE Act",
+    "General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; H.R. 1603 - Farm Workforce Modernization Act of 2021.",
+    "General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; H.R. 1603 - Farm Workforce Modernization Act of 2021; H.R. 5376 - Build Back Better Act.",
+    "General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; H.R. 1603 - Farm Workforce Modernization Act of 2021; H.R. 5376 - Build Back Better Act, issues related to immigration.",
+    "General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; S. 1260 - United States Innovation and Competition Act of 2021, issues related to immigration; S. 264 - The Dream Act; H.R. 7472 - H4 Work Authorization Act.",
+    "General immigration issues; Issues related to Deferred Action for Childhood Arrivals (DACA); H.R. 6 - The Dream and Promise Act; S. 1260 - United States Innovation and Competition Act of 2021, issues related to immigration; S. 264 - The Dream Act; H.R. 7442 - H4 Work Authorization Act.",
+    "General immigration issues; H.R. 1511/S.2606 - Renewing Immigration Provisions of the Immigration Act of 1929; H.R. 1698 - The American Families United Act; H.R.3599 - DIGNIDAD (Dignity) Act of 2023; Administrative Action on Temporary Protected Status (TPS), S. Amdt. 1388 to H.R. 815 - National Security Act, 2024, issues related to border security.",
+    "General immigration issues; Temporary Protection Status (TPS) for Nicaragua, Ecuador, and Venezuela; H-1B modernization Rule; Rule for the Automatic Extension Period for Employment Authorization.",
+    "General immigration issues; Issues related to the Deferred Action for Childhood Arrivals policy.",
+    "General immigration issues; Issues related to the Deferred Action for Childhood Arrivals policy; Issues related to One Big Beautiful Bill Act (PL 119-21); Issues related to immigration in the homeland and judiciary titles.",
+    "General immigration issues; Issues related to the Deferred Action for Childhood Arrivals policy; Issues related to immigration in the homeland and judiciary titles."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -77,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 176250,
+  "peakYear": 2022,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 6
+}

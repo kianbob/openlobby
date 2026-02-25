@@ -1,1 +1,115 @@
-{"id":184933,"name":"THE AMERICAN COUNCIL OF LIFE INSURERS","slug":"the-american-council-of-life-insurers","state":"DC","description":"Promote retirement saving and financial wellness.","totalSpending":2470000,"filings":27,"yearlySpending":[{"year":2018,"income":40000},{"year":2019,"income":240000},{"year":2020,"income":320000},{"year":2021,"income":360000},{"year":2022,"income":360000},{"year":2023,"income":380000},{"year":2024,"income":330000},{"year":2025,"income":440000}],"firms":["INVARIANT LLC"],"lobbyists":["HEATHER PODESTA","MARY STANTON","PATRICE WILLOUGHBY","MATTHEW RUSSELL","NICOLE VENABLE","CAROLYN CODA","NOAH MARINE","JOSEPH VAUGHAN","ASHLEY O'SULLIVAN","PAUL NEMETZ","JENNIFER JACOBY","MARCUS DAVIS-MERCER"],"issues":["RET","INS","FIN","BUD","TRD","TAX","FAM","CIV","LAW","LBR",null,"CSP","HCR"],"sampleDescriptions":["Promote the retirement and life insurance industry.","Monitor S. 488, the JOBS and Investor Confidence Act of 2018.","Monitor end of the year appropriations bills for inclusion of S. 488, the JOBS and Investor Confidence Act of 2018.","Monitor H.R. 5282 / S. 2526, the Retirement Enhancement and Savings Act of 2018.","Monitor congressional trade agenda relative to international trade in financial services products.","Monitor H.R. 1957 / S. 928, the Taxpayer First Act of 2019; monitor efforts to change the corporate tax rate for subsection L of the code.","Monitor and discuss H.R. 1007, the Retirement Enhancement and Savings Act of 2019; H.R. 1994, the Setting Every Community Up for Retirement Enhancement (SECURE) Act of 2019; and H.R. 1084, the Family Savings Act of 2019; monitor retirement proposals.","Monitor proposals for paid family and medical leave; monitor H.R. 1185 / S. 463, the FAMILY Act.","Monitor international insurance proposals; monitor H.R. 1862, the Federal Insurance Office Abolishment Act of 2019, and S. 603, Financial Stability Oversight Council Improvement Act of 2019.","Discuss H.R. 1007, the Retirement Enhancement and Savings Act of 2019; support H.R. 1994, the Setting Every Community Up for Retirement Enhancement (SECURE) Act of 2019, and H.R. 1084, the Family Savings Act of 2019; monitor retirement proposals.","Monitor congressional trade agenda relative to international trade in financial services products; discuss USMCA negotiations and implementation language.","Monitor and discuss diversity and inclusion issues in the insurance industry.","Monitor H.R. 1957 / S. 928, the Taxpayer First Act of 2019; monitor efforts to change the corporate tax rate for subchapter L of the code.","Monitor international insurance proposals; monitor H.R. 1862, the Federal Insurance Office Abolishment Act of 2019, and S. 603, Financial Stability Oversight Council Improvement Act of 2019; monitor cannabis-related issues including H.R. 1595 / S. 1200, the Secure And Fair Enforcement Banking Act of 2019; monitor draft International Capital Standards legislation.","Monitor efforts to change the corporate tax rate for subchapter L of the code.","Monitor international insurance proposals; monitor H.R. 1862, the Federal Insurance Office Abolishment Act of 2019, and S. 603, Financial Stability Oversight Council Improvement Act of 2019; monitor cannabis-related issues including H.R. 1595 / S. 1200, the Secure And Fair Enforcement Banking Act of 2019; monitor draft International Capital Standards legislation; monitor H.R. 1865 and reauthorization of the Terrorism Risk Insurance Program.","Monitor efforts to change the corporate tax rate for subchapter L of the code; monitor proposals related to tax in H.R. 748, the CARES Act.","Monitor retirement proposals as it relates to H.R. 748, the CARES Act.","Monitor H.R. 1862, the Federal Insurance Office Abolishment Act of 2019, and S. 603, Financial Stability Oversight Council Improvement Act of 2019; monitor cannabis-related issues including H.R. 1595 / S. 1200, the Secure And Fair Enforcement Banking Act of 2019; monitor draft International Capital Standards legislation.","Monitor proposals for paid family and medical leave, including in H.R. 6201, the Families First Coronavirus Response Act, and H.R. 748, the CARES Act; monitor H.R. 1185 / S. 463, the FAMILY Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184933,
+  "name": "THE AMERICAN COUNCIL OF LIFE INSURERS",
+  "slug": "the-american-council-of-life-insurers",
+  "state": "DC",
+  "description": "Promote retirement saving and financial wellness.",
+  "totalSpending": 2470000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 40000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 380000
+    },
+    {
+      "year": 2024,
+      "income": 330000
+    },
+    {
+      "year": 2025,
+      "income": 440000
+    }
+  ],
+  "firms": [
+    "INVARIANT LLC"
+  ],
+  "lobbyists": [
+    "HEATHER PODESTA",
+    "MARY STANTON",
+    "PATRICE WILLOUGHBY",
+    "MATTHEW RUSSELL",
+    "NICOLE VENABLE",
+    "CAROLYN CODA",
+    "NOAH MARINE",
+    "JOSEPH VAUGHAN",
+    "ASHLEY O'SULLIVAN",
+    "PAUL NEMETZ",
+    "JENNIFER JACOBY",
+    "MARCUS DAVIS-MERCER"
+  ],
+  "issues": [
+    "RET",
+    "INS",
+    "FIN",
+    "BUD",
+    "TRD",
+    "TAX",
+    "FAM",
+    "CIV",
+    "LAW",
+    "LBR",
+    null,
+    "CSP",
+    "HCR"
+  ],
+  "sampleDescriptions": [
+    "Promote the retirement and life insurance industry.",
+    "Monitor S. 488, the JOBS and Investor Confidence Act of 2018.",
+    "Monitor end of the year appropriations bills for inclusion of S. 488, the JOBS and Investor Confidence Act of 2018.",
+    "Monitor H.R. 5282 / S. 2526, the Retirement Enhancement and Savings Act of 2018.",
+    "Monitor congressional trade agenda relative to international trade in financial services products.",
+    "Monitor H.R. 1957 / S. 928, the Taxpayer First Act of 2019; monitor efforts to change the corporate tax rate for subsection L of the code.",
+    "Monitor and discuss H.R. 1007, the Retirement Enhancement and Savings Act of 2019; H.R. 1994, the Setting Every Community Up for Retirement Enhancement (SECURE) Act of 2019; and H.R. 1084, the Family Savings Act of 2019; monitor retirement proposals.",
+    "Monitor proposals for paid family and medical leave; monitor H.R. 1185 / S. 463, the FAMILY Act.",
+    "Monitor international insurance proposals; monitor H.R. 1862, the Federal Insurance Office Abolishment Act of 2019, and S. 603, Financial Stability Oversight Council Improvement Act of 2019.",
+    "Discuss H.R. 1007, the Retirement Enhancement and Savings Act of 2019; support H.R. 1994, the Setting Every Community Up for Retirement Enhancement (SECURE) Act of 2019, and H.R. 1084, the Family Savings Act of 2019; monitor retirement proposals.",
+    "Monitor congressional trade agenda relative to international trade in financial services products; discuss USMCA negotiations and implementation language.",
+    "Monitor and discuss diversity and inclusion issues in the insurance industry.",
+    "Monitor H.R. 1957 / S. 928, the Taxpayer First Act of 2019; monitor efforts to change the corporate tax rate for subchapter L of the code.",
+    "Monitor international insurance proposals; monitor H.R. 1862, the Federal Insurance Office Abolishment Act of 2019, and S. 603, Financial Stability Oversight Council Improvement Act of 2019; monitor cannabis-related issues including H.R. 1595 / S. 1200, the Secure And Fair Enforcement Banking Act of 2019; monitor draft International Capital Standards legislation.",
+    "Monitor efforts to change the corporate tax rate for subchapter L of the code.",
+    "Monitor international insurance proposals; monitor H.R. 1862, the Federal Insurance Office Abolishment Act of 2019, and S. 603, Financial Stability Oversight Council Improvement Act of 2019; monitor cannabis-related issues including H.R. 1595 / S. 1200, the Secure And Fair Enforcement Banking Act of 2019; monitor draft International Capital Standards legislation; monitor H.R. 1865 and reauthorization of the Terrorism Risk Insurance Program.",
+    "Monitor efforts to change the corporate tax rate for subchapter L of the code; monitor proposals related to tax in H.R. 748, the CARES Act.",
+    "Monitor retirement proposals as it relates to H.R. 748, the CARES Act.",
+    "Monitor H.R. 1862, the Federal Insurance Office Abolishment Act of 2019, and S. 603, Financial Stability Oversight Council Improvement Act of 2019; monitor cannabis-related issues including H.R. 1595 / S. 1200, the Secure And Fair Enforcement Banking Act of 2019; monitor draft International Capital Standards legislation.",
+    "Monitor proposals for paid family and medical leave, including in H.R. 6201, the Families First Coronavirus Response Act, and H.R. 748, the CARES Act; monitor H.R. 1185 / S. 463, the FAMILY Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 1000,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 308750,
+  "peakYear": 2025,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 12
+}

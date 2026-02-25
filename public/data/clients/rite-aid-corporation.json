@@ -1,1 +1,101 @@
-{"id":184510,"name":"RITE AID CORPORATION","slug":"rite-aid-corporation","state":"PA","description":"Drug store chain","totalSpending":1350000,"filings":27,"yearlySpending":[{"year":2018,"income":220000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":30000}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["SHANNON FINLEY","JAMES MCCRERY","AARON COHEN","DREW GOESL","LUKE HATZIS","CHARLES FRENCH","JOHN RAFFAELLI","DAVID JONES","BRADLEY MOLLET","ROBERT DIAMOND","LYNDON BOOZER","MARTHA KENDRICK","JOHN MARTIN","JEFFREY CARROLL","MICHELLE MATHY"],"issues":["HCR","MMM","FOO",null],"sampleDescriptions":["Prescription drug track and trace legislation, including implementation of related provisions in the Drug Quality and Security Act (P.L. 113-54); and Issues related to TRICARE in HR 1735, the National Defense authorization Act of FY 2017.","Medication therapy management, including related legislation to Medication Therapy Management Empowerment Act; Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act.","Legislative issues relating to the Supplemental Nutrition Assistance Program (SNAP) Retailer Eligibility Standards proposed rule.","Prescription drug track and trace legislation, including implementation of related provisions in the Drug Quality and Security Act (P.L. 113-54).","Legislative and regulatory issues related to pharmacies. Prescription drug track and trace legislation, including implementation of related provisions in the Drug Quality and Security Act (P.L. 113-54). Coronavirus response efforts.","Legislative and regulatory issues related to pharmacies. Medication therapy management, including related legislation to Medication Therapy Management Empowerment Act; Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act.  Coronavirus response efforts.","Legislative and regulatory issues related to pharmacies. Medication therapy management, including related legislation to Medication Therapy Management Empowerment Act; Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act. Coronavirus response efforts.","Monitoring legislative and regulatory issues related to pharmacies. Prescription drug track and trace legislation, including implementation of related provisions in the Drug Quality and Security Act (P.L. 113-54) and PBM reform including S.2973 - Modernizing and Ensuring PBM Accountability Act and H.R.5378 - Lower Costs, More Transparency Act.","Monitoring legislative and regulatory issues related to pharmacies. Medication therapy management. Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act.","Monitoring legislative and regulatory issues related to pharmacies. Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act.","Monitoring legislative and regulatory issues related to pharmacies."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184510,
+  "name": "RITE AID CORPORATION",
+  "slug": "rite-aid-corporation",
+  "state": "PA",
+  "description": "Drug store chain",
+  "totalSpending": 1350000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 220000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 30000
+    }
+  ],
+  "firms": [
+    "CAPITOL COUNSEL LLC"
+  ],
+  "lobbyists": [
+    "SHANNON FINLEY",
+    "JAMES MCCRERY",
+    "AARON COHEN",
+    "DREW GOESL",
+    "LUKE HATZIS",
+    "CHARLES FRENCH",
+    "JOHN RAFFAELLI",
+    "DAVID JONES",
+    "BRADLEY MOLLET",
+    "ROBERT DIAMOND",
+    "LYNDON BOOZER",
+    "MARTHA KENDRICK",
+    "JOHN MARTIN",
+    "JEFFREY CARROLL",
+    "MICHELLE MATHY"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "FOO",
+    null
+  ],
+  "sampleDescriptions": [
+    "Prescription drug track and trace legislation, including implementation of related provisions in the Drug Quality and Security Act (P.L. 113-54); and Issues related to TRICARE in HR 1735, the National Defense authorization Act of FY 2017.",
+    "Medication therapy management, including related legislation to Medication Therapy Management Empowerment Act; Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act.",
+    "Legislative issues relating to the Supplemental Nutrition Assistance Program (SNAP) Retailer Eligibility Standards proposed rule.",
+    "Prescription drug track and trace legislation, including implementation of related provisions in the Drug Quality and Security Act (P.L. 113-54).",
+    "Legislative and regulatory issues related to pharmacies. Prescription drug track and trace legislation, including implementation of related provisions in the Drug Quality and Security Act (P.L. 113-54). Coronavirus response efforts.",
+    "Legislative and regulatory issues related to pharmacies. Medication therapy management, including related legislation to Medication Therapy Management Empowerment Act; Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act.  Coronavirus response efforts.",
+    "Legislative and regulatory issues related to pharmacies. Medication therapy management, including related legislation to Medication Therapy Management Empowerment Act; Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act. Coronavirus response efforts.",
+    "Monitoring legislative and regulatory issues related to pharmacies. Prescription drug track and trace legislation, including implementation of related provisions in the Drug Quality and Security Act (P.L. 113-54) and PBM reform including S.2973 - Modernizing and Ensuring PBM Accountability Act and H.R.5378 - Lower Costs, More Transparency Act.",
+    "Monitoring legislative and regulatory issues related to pharmacies. Medication therapy management. Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act.",
+    "Monitoring legislative and regulatory issues related to pharmacies. Medicaid prescription drug reimbursement, including implementation of related provisions in the Patient Protection and Affordable Care Act.",
+    "Monitoring legislative and regulatory issues related to pharmacies."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -86,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 168750,
+  "peakYear": 2018,
+  "lobbyistCount": 15,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

@@ -1,1 +1,92 @@
-{"id":100982,"name":"INNOVATION ALLIANCE","slug":"innovation-alliance","state":"DC","description":"Informal coalition interested in patent reform","totalSpending":2160000,"filings":27,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":160000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["BRIAN POMPER"],"issues":["CPT","TRD",null],"sampleDescriptions":["Issues relating to legislation regarding patent litigation; STRONGER Patents Act (S. 1390/H.R. 5340).","Issues relating to U.S.-China negotiations on intellectual property.","Issues relating to legislation regarding patents; issues relating to U.S.-China negotiations on intellectual property; issues relating to standard essential patents.","Issues relating to legislation regarding patents.","Advancing America's Interests Act, HR 8037.","Issues relating to legislation regarding patents.; Issues relating to Notice of Proposed Rulemaking relating to the Patent Trial and Appeal Board.; Advancing America's Interests Act, HR 8037.","Advancing America's Interests Act, HR 5184.","Issues relating to legislation regarding patents; Advancing America's Interests Act, HR 5184.","HR 5184, Advancing America's Interests Act.","Issues relating to legislation regarding patents; S. 2891, the Restoring the America Invents Act; HR 5184, Advancing America's Interests Act.","Issues relating to legislation regarding patents; S. 2891, the Restoring the America Invents Act; S. 4417, Patent Trial and Appeal Board Reform Act of 2022; HR 5184, Advancing America's Interests Act.","Issues relating to legislation regarding patents; S. 2891, the Restoring the America Invents Act; S. 4417, Patent Trial and Appeal Board Reform Act of 2022; S. 2774, the Pride in Patent Ownership Act; S. 4704, the Patent Examination and Quality Improvement Act; S. 4734, the Patent Eligibility Restoration Act of 2022; H.R. 7900, S. 4543, the National Defense Authorization Act for Fiscal Year 2023.","Issues relating to legislation regarding patents; H.R. 4370/ S. 2220 - the Promoting and Respecting Economically Vital American Innovation Leadership (PREVAIL) Act; S. 2140 - the Patent Eligibility Restoration Act of 2023.","H.R. 3535 - Advancing America's Interests Act; Issues regarding Section 337.","Issues relating to legislation regarding patents; H.R. 4370/ S. 2220 - the Promoting and Respecting Economically Vital American Innovation Leadership (PREVAIL) Act; S. 2140 - the Patent Eligibility Restoration Act of 2023; terminal disclaimer NPRM.","Issues relating to legislation regarding patents; H.R. 4370/ S. 2220 - Promoting and Respecting Economically Vital American Innovation Leadership (PREVAIL) Act; S. 2140 - Patent Eligibility Restoration Act; H.R. 9221/ S. 4840 - RESTORE Patent Rights Act of 2024.","Issues relating to legislation regarding patents; H.R. 4370/ S. 2220 - Promoting and Respecting Economically Vital American Innovation Leadership (PREVAIL) Act (118th Congress); S. 2140 - Patent Eligibility Restoration Act (118th Congress); H.R. 9221/ S. 4840 - RESTORE Patent Rights Act of 2024 (118th Congress).","Issues related to patent enforcement; Issues related to H.R. 3160/S. 1553 - PREVAIL Act; Issues related to H.R. 3152/S. 1546 - Patent Eligibility Restoration Act of 2025; Issues related to H.R. 1574/S. 708 - RESTORE Patent Rights Act of 2025."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 100982,
+  "name": "INNOVATION ALLIANCE",
+  "slug": "innovation-alliance",
+  "state": "DC",
+  "description": "Informal coalition interested in patent reform",
+  "totalSpending": 2160000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 160000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "BRIAN POMPER"
+  ],
+  "issues": [
+    "CPT",
+    "TRD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues relating to legislation regarding patent litigation; STRONGER Patents Act (S. 1390/H.R. 5340).",
+    "Issues relating to U.S.-China negotiations on intellectual property.",
+    "Issues relating to legislation regarding patents; issues relating to U.S.-China negotiations on intellectual property; issues relating to standard essential patents.",
+    "Issues relating to legislation regarding patents.",
+    "Advancing America's Interests Act, HR 8037.",
+    "Issues relating to legislation regarding patents.; Issues relating to Notice of Proposed Rulemaking relating to the Patent Trial and Appeal Board.; Advancing America's Interests Act, HR 8037.",
+    "Advancing America's Interests Act, HR 5184.",
+    "Issues relating to legislation regarding patents; Advancing America's Interests Act, HR 5184.",
+    "HR 5184, Advancing America's Interests Act.",
+    "Issues relating to legislation regarding patents; S. 2891, the Restoring the America Invents Act; HR 5184, Advancing America's Interests Act.",
+    "Issues relating to legislation regarding patents; S. 2891, the Restoring the America Invents Act; S. 4417, Patent Trial and Appeal Board Reform Act of 2022; HR 5184, Advancing America's Interests Act.",
+    "Issues relating to legislation regarding patents; S. 2891, the Restoring the America Invents Act; S. 4417, Patent Trial and Appeal Board Reform Act of 2022; S. 2774, the Pride in Patent Ownership Act; S. 4704, the Patent Examination and Quality Improvement Act; S. 4734, the Patent Eligibility Restoration Act of 2022; H.R. 7900, S. 4543, the National Defense Authorization Act for Fiscal Year 2023.",
+    "Issues relating to legislation regarding patents; H.R. 4370/ S. 2220 - the Promoting and Respecting Economically Vital American Innovation Leadership (PREVAIL) Act; S. 2140 - the Patent Eligibility Restoration Act of 2023.",
+    "H.R. 3535 - Advancing America's Interests Act; Issues regarding Section 337.",
+    "Issues relating to legislation regarding patents; H.R. 4370/ S. 2220 - the Promoting and Respecting Economically Vital American Innovation Leadership (PREVAIL) Act; S. 2140 - the Patent Eligibility Restoration Act of 2023; terminal disclaimer NPRM.",
+    "Issues relating to legislation regarding patents; H.R. 4370/ S. 2220 - Promoting and Respecting Economically Vital American Innovation Leadership (PREVAIL) Act; S. 2140 - Patent Eligibility Restoration Act; H.R. 9221/ S. 4840 - RESTORE Patent Rights Act of 2024.",
+    "Issues relating to legislation regarding patents; H.R. 4370/ S. 2220 - Promoting and Respecting Economically Vital American Innovation Leadership (PREVAIL) Act (118th Congress); S. 2140 - Patent Eligibility Restoration Act (118th Congress); H.R. 9221/ S. 4840 - RESTORE Patent Rights Act of 2024 (118th Congress).",
+    "Issues related to patent enforcement; Issues related to H.R. 3160/S. 1553 - PREVAIL Act; Issues related to H.R. 3152/S. 1546 - Patent Eligibility Restoration Act of 2025; Issues related to H.R. 1574/S. 708 - RESTORE Patent Rights Act of 2025."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -33,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 270000,
+  "peakYear": 2020,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 2
+}

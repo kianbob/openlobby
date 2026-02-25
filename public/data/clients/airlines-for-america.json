@@ -1,1 +1,81 @@
-{"id":200753,"name":"AIRLINES FOR AMERICA","slug":"airlines-for-america","state":"DC","description":"trade association","totalSpending":1430000,"filings":28,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":120000},{"year":2020,"income":270000},{"year":2021,"income":200000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":120000},{"year":2025,"income":60000}],"firms":["B+S STRATEGIES"],"lobbyists":["ELIZABETH SPIVEY","CHRISTOPHER BERTRAM"],"issues":["AVI",null],"sampleDescriptions":["Air Traffic Control Reform","FAA Reauthorization","Federal Aviation Administration Issues","Aviation policy and FAA funding.","Aviation policy, Federal Aviation Administration (FAA)","FAA Modernization."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 200753,
+  "name": "AIRLINES FOR AMERICA",
+  "slug": "airlines-for-america",
+  "state": "DC",
+  "description": "trade association",
+  "totalSpending": 1430000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 270000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 60000
+    }
+  ],
+  "firms": [
+    "B+S STRATEGIES"
+  ],
+  "lobbyists": [
+    "ELIZABETH SPIVEY",
+    "CHRISTOPHER BERTRAM"
+  ],
+  "issues": [
+    "AVI",
+    null
+  ],
+  "sampleDescriptions": [
+    "Air Traffic Control Reform",
+    "FAA Reauthorization",
+    "Federal Aviation Administration Issues",
+    "Aviation policy and FAA funding.",
+    "Aviation policy, Federal Aviation Administration (FAA)",
+    "FAA Modernization."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -67,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 178750,
+  "peakYear": 2020,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

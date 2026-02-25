@@ -1,1 +1,122 @@
-{"id":109917,"name":"ZUFFA AND AFFILIATES","slug":"zuffa-and-affiliates","state":"NV","description":"Organizing and promoting mixed martial arts sporting events","totalSpending":2630000,"filings":30,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":630000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["WILLIAM MOSCHELLA","ZACHARY PFISTER","MARC LAMPKIN","BRIAN WILD","DAVID COHEN","ANDREW LITTMAN","ALFRED MOTTUR","BRIAN MCKEON","DAVID REID","DOUGLAS MAGUIRE","CARMENCITA WHONDER","SAMANTHA CARL-YODER","GREGORY SUNSTRUM","BRANDT ANDERSON","MAXWELL HUNTLEY","TRIPP MCKEMEY","JOHN REISING","MELISSA KUIPERS BLAKE","THOMAS WOTKA","ANDREW USYK","MARK PRYOR","DANIEL JOSEPH","ALICE LUGO","TIM SHADYAC","NADEAM ELSHAMI"],"issues":["CPT","SPO","LBR","IMM",null,"ART","GOV"],"sampleDescriptions":["Piracy of copyrighted programming","Mixed martial arts\nH.R. 44 - Muhammad Ali Expansion Act","Mixed martial arts","Issues relating to independent contractors","Issues related to P visas","Issues related to visas","Piracy of copyrighted programming\nH.R.133 - Consolidated Appropriations Act, 2021","Foreign relations issues; market access; visa issues","Mixed martial arts issues","H.R.842/S.420 - Protecting the Right to Organize Act of 2021\nEmployment status of mixed martial artists","H.R.842/S.420 - Protecting the Right to Organize Act of 2021 Employment status of mixed martial artists","Foreign relations issues Market access Visa issues","General education on the sport of mixed martial arts","H.R. 842/S. 420, Protecting the Right to Organize Act of 2021 Employment status of mixed martial artists","Foreign relations issues; Market access; Visa issues","General education on the sport of mixed martial arts S. 1303/H.R. 3950 Transparency in Charges for Key Events Ticketing (TICKET) Act H.R. 6568 Speculative Ticketing Oversight and Prohibition Act","Education about Endeavor Brands including WME Talent agency","Issues relating to military recruitment and partnership","\"General education on combat sports, including the sport of mixed martial arts and boxing S. 281 Speculative Ticketing Oversight and Prohibition Act S. 430/ H.R. 1402 TICKET Act Issues related to ticket transparency","General education on combat sports, including the sport of mixed martial arts and boxing S. 281 Speculative Ticketing Oversight and Prohibition Act S. 430/ H.R. 1402 TICKET Act Issues related to ticket transparency Advocate for the enactment of legislation permitting a unified boxing organization to promote and host boxing events"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 109917,
+  "name": "ZUFFA AND AFFILIATES",
+  "slug": "zuffa-and-affiliates",
+  "state": "NV",
+  "description": "Organizing and promoting mixed martial arts sporting events",
+  "totalSpending": 2630000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 630000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "WILLIAM MOSCHELLA",
+    "ZACHARY PFISTER",
+    "MARC LAMPKIN",
+    "BRIAN WILD",
+    "DAVID COHEN",
+    "ANDREW LITTMAN",
+    "ALFRED MOTTUR",
+    "BRIAN MCKEON",
+    "DAVID REID",
+    "DOUGLAS MAGUIRE",
+    "CARMENCITA WHONDER",
+    "SAMANTHA CARL-YODER",
+    "GREGORY SUNSTRUM",
+    "BRANDT ANDERSON",
+    "MAXWELL HUNTLEY",
+    "TRIPP MCKEMEY",
+    "JOHN REISING",
+    "MELISSA KUIPERS BLAKE",
+    "THOMAS WOTKA",
+    "ANDREW USYK",
+    "MARK PRYOR",
+    "DANIEL JOSEPH",
+    "ALICE LUGO",
+    "TIM SHADYAC",
+    "NADEAM ELSHAMI"
+  ],
+  "issues": [
+    "CPT",
+    "SPO",
+    "LBR",
+    "IMM",
+    null,
+    "ART",
+    "GOV"
+  ],
+  "sampleDescriptions": [
+    "Piracy of copyrighted programming",
+    "Mixed martial arts\nH.R. 44 - Muhammad Ali Expansion Act",
+    "Mixed martial arts",
+    "Issues relating to independent contractors",
+    "Issues related to P visas",
+    "Issues related to visas",
+    "Piracy of copyrighted programming\nH.R.133 - Consolidated Appropriations Act, 2021",
+    "Foreign relations issues; market access; visa issues",
+    "Mixed martial arts issues",
+    "H.R.842/S.420 - Protecting the Right to Organize Act of 2021\nEmployment status of mixed martial artists",
+    "H.R.842/S.420 - Protecting the Right to Organize Act of 2021 Employment status of mixed martial artists",
+    "Foreign relations issues Market access Visa issues",
+    "General education on the sport of mixed martial arts",
+    "H.R. 842/S. 420, Protecting the Right to Organize Act of 2021 Employment status of mixed martial artists",
+    "Foreign relations issues; Market access; Visa issues",
+    "General education on the sport of mixed martial arts S. 1303/H.R. 3950 Transparency in Charges for Key Events Ticketing (TICKET) Act H.R. 6568 Speculative Ticketing Oversight and Prohibition Act",
+    "Education about Endeavor Brands including WME Talent agency",
+    "Issues relating to military recruitment and partnership",
+    "\"General education on combat sports, including the sport of mixed martial arts and boxing S. 281 Speculative Ticketing Oversight and Prohibition Act S. 430/ H.R. 1402 TICKET Act Issues related to ticket transparency",
+    "General education on combat sports, including the sport of mixed martial arts and boxing S. 281 Speculative Ticketing Oversight and Prohibition Act S. 430/ H.R. 1402 TICKET Act Issues related to ticket transparency Advocate for the enactment of legislation permitting a unified boxing organization to promote and host boxing events"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 163,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 328750,
+  "peakYear": 2025,
+  "lobbyistCount": 25,
+  "firmCount": 1,
+  "issueCount": 6
+}

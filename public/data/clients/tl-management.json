@@ -1,1 +1,76 @@
-{"id":205597,"name":"TL MANAGEMENT","slug":"tl-management","state":"NY","description":"Operator of skilled nursing facilities","totalSpending":4295000,"filings":21,"yearlySpending":[{"year":2020,"income":170000},{"year":2021,"income":480000},{"year":2022,"income":480000},{"year":2023,"income":480000},{"year":2024,"income":790000},{"year":2025,"income":1895000}],"firms":["STONINGTON GLOBAL"],"lobbyists":["NICOLAS MUZIN"],"issues":["MMM","HCR","FOR",null,"HOM"],"sampleDescriptions":["Obtaining federal and state assistance for nursing homes dealing with COVID-19","COVID-related funding and liability issues for the nursing home industry","Support for religious pilgrims to travel to Ukraine for festival.","Issues affecting skilled nursing facilities","Issues affecting senior care.","TSA issues.","Issues affecting New York's Consumer Directed Patient Assistance Program (CDPAP)","New York's Consumer Directed Patient Assistance Program (CDPAP) Proposed Federal Medicaid Cuts","Proposed Federal Medicaid Cuts","CMS Regulations regarding Medicaid and Medicare coverage Proposed Federal Medicaid Cuts"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 205597,
+  "name": "TL MANAGEMENT",
+  "slug": "tl-management",
+  "state": "NY",
+  "description": "Operator of skilled nursing facilities",
+  "totalSpending": 4295000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 170000
+    },
+    {
+      "year": 2021,
+      "income": 480000
+    },
+    {
+      "year": 2022,
+      "income": 480000
+    },
+    {
+      "year": 2023,
+      "income": 480000
+    },
+    {
+      "year": 2024,
+      "income": 790000
+    },
+    {
+      "year": 2025,
+      "income": 1895000
+    }
+  ],
+  "firms": [
+    "STONINGTON GLOBAL"
+  ],
+  "lobbyists": [
+    "NICOLAS MUZIN"
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "FOR",
+    null,
+    "HOM"
+  ],
+  "sampleDescriptions": [
+    "Obtaining federal and state assistance for nursing homes dealing with COVID-19",
+    "COVID-related funding and liability issues for the nursing home industry",
+    "Support for religious pilgrims to travel to Ukraine for festival.",
+    "Issues affecting skilled nursing facilities",
+    "Issues affecting senior care.",
+    "TSA issues.",
+    "Issues affecting New York's Consumer Directed Patient Assistance Program (CDPAP)",
+    "New York's Consumer Directed Patient Assistance Program (CDPAP) Proposed Federal Medicaid Cuts",
+    "Proposed Federal Medicaid Cuts",
+    "CMS Regulations regarding Medicaid and Medicare coverage Proposed Federal Medicaid Cuts"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 1015,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 715833,
+  "peakYear": 2025,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 4
+}

@@ -1,1 +1,104 @@
-{"id":101067,"name":"FMR LLC","slug":"fmr-llc","state":"DC","description":"Financial services company.","totalSpending":1450000,"filings":29,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["LAUREN O'BRIEN","JEFF MCMILLEN","SEAN D'ARCY","JULIE NOLAN","CASEY HIGGINS","ZACHARY RUDISILL","ED PAGANO","GEOFF VERHOFF"],"issues":["FIN","TAX","RET","HCR","IMM",null],"sampleDescriptions":["Electronic delivery of investor materials.","HSA's; taxation of savings incentives; implementation of international tax reform provisions.","Retirement savings proposals/issues, including the Retirement Enhancement and Savings Act.","Legislative efforts related to expansion and modernization of health savings accounts (HSA's); implementation of international tax reform provisions.","Retirement savings proposals/issues, including S.2526/H.R.5282, the Retirement Enhancement and Savings Act and H.R.6757, The Family Savings Act; implementation of changes to 401(k) hardship distribution rules in Bipartisan Budget Act of 2018; Executive order regarding required minimum distribution rules.","Proposed changes to Health reimbursement Arrangements.","Legislative discussions relating to e-delivery.","Legislative efforts related to expansion and modernization of health savings accounts (HSA); Executive Order related to expansion of Health Reimbursement Arrangements; implementation of international tax reform provisions.","Retirement savings proposals/issues, including the Retirement Enhancement and Savings Act (S. 972), the SECURE Act (H.R. 1994); implementation of changes to 401(k) hardship distribution rules in Bipartisan Budget Act of 2018; student loan relief.","Legislative efforts related to expansion and modernization of health savings accounts (HSA);  implementation of international tax reform provisions.","Legislative efforts related to expansion and modernization of health savings accounts (HSA);  implementation of international tax reform provisions; issues related to student loans.","Retirement savings proposals/issues, including the Retirement Enhancement and Savings Act (S. 972), the SECURE Act (H.R. 1994); implementation of changes to 401(k) hardship distribution rules in Bipartisan Budget Act of 2018; student loan relief; implementation of ERISA, Employee Retirement Income Security Act.","Legislative efforts related to expansion and modernization of health savings accounts (HSA); implementation of international tax reform provisions; issues related to student loans. Issues related to Covid.","Retirement savings proposals/issues, including the Retirement Enhancement and Savings Act (S. 972), the SECURE Act (H.R. 1994); implementation of changes to 401(k) hardship distribution rules in Bipartisan Budget Act of 2018; student loan relief; implementation of ERISA, Employee Retirement Income Security Act. Issues related to Covid.","Issues related to Visa processing","Issues related to visa processing.","Provide counsel on issues related to visa processing.","Legislative efforts related to expansion and modernization of health savings accounts (HSA); Implementation of international tax reform provisions; Issues related to student loans; SECURE 2.0.","Legislative efforts related to expansion and modernization of health savings accounts (HSA); Implementation of international tax reform provisions; Issues related to student loans; Implementation of SECURE 2.0.","Legislative efforts related to expansion and modernization of health savings accounts (HSA); Implementation of international tax reform provisions; Issues related to student loans; Implementation of SECURE 2.0; Issues related to retirement policy; Issues related to mutual funds."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 101067,
+  "name": "FMR LLC",
+  "slug": "fmr-llc",
+  "state": "DC",
+  "description": "Financial services company.",
+  "totalSpending": 1450000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "LAUREN O'BRIEN",
+    "JEFF MCMILLEN",
+    "SEAN D'ARCY",
+    "JULIE NOLAN",
+    "CASEY HIGGINS",
+    "ZACHARY RUDISILL",
+    "ED PAGANO",
+    "GEOFF VERHOFF"
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    "RET",
+    "HCR",
+    "IMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Electronic delivery of investor materials.",
+    "HSA's; taxation of savings incentives; implementation of international tax reform provisions.",
+    "Retirement savings proposals/issues, including the Retirement Enhancement and Savings Act.",
+    "Legislative efforts related to expansion and modernization of health savings accounts (HSA's); implementation of international tax reform provisions.",
+    "Retirement savings proposals/issues, including S.2526/H.R.5282, the Retirement Enhancement and Savings Act and H.R.6757, The Family Savings Act; implementation of changes to 401(k) hardship distribution rules in Bipartisan Budget Act of 2018; Executive order regarding required minimum distribution rules.",
+    "Proposed changes to Health reimbursement Arrangements.",
+    "Legislative discussions relating to e-delivery.",
+    "Legislative efforts related to expansion and modernization of health savings accounts (HSA); Executive Order related to expansion of Health Reimbursement Arrangements; implementation of international tax reform provisions.",
+    "Retirement savings proposals/issues, including the Retirement Enhancement and Savings Act (S. 972), the SECURE Act (H.R. 1994); implementation of changes to 401(k) hardship distribution rules in Bipartisan Budget Act of 2018; student loan relief.",
+    "Legislative efforts related to expansion and modernization of health savings accounts (HSA);  implementation of international tax reform provisions.",
+    "Legislative efforts related to expansion and modernization of health savings accounts (HSA);  implementation of international tax reform provisions; issues related to student loans.",
+    "Retirement savings proposals/issues, including the Retirement Enhancement and Savings Act (S. 972), the SECURE Act (H.R. 1994); implementation of changes to 401(k) hardship distribution rules in Bipartisan Budget Act of 2018; student loan relief; implementation of ERISA, Employee Retirement Income Security Act.",
+    "Legislative efforts related to expansion and modernization of health savings accounts (HSA); implementation of international tax reform provisions; issues related to student loans. Issues related to Covid.",
+    "Retirement savings proposals/issues, including the Retirement Enhancement and Savings Act (S. 972), the SECURE Act (H.R. 1994); implementation of changes to 401(k) hardship distribution rules in Bipartisan Budget Act of 2018; student loan relief; implementation of ERISA, Employee Retirement Income Security Act. Issues related to Covid.",
+    "Issues related to Visa processing",
+    "Issues related to visa processing.",
+    "Provide counsel on issues related to visa processing.",
+    "Legislative efforts related to expansion and modernization of health savings accounts (HSA); Implementation of international tax reform provisions; Issues related to student loans; SECURE 2.0.",
+    "Legislative efforts related to expansion and modernization of health savings accounts (HSA); Implementation of international tax reform provisions; Issues related to student loans; Implementation of SECURE 2.0.",
+    "Legislative efforts related to expansion and modernization of health savings accounts (HSA); Implementation of international tax reform provisions; Issues related to student loans; Implementation of SECURE 2.0; Issues related to retirement policy; Issues related to mutual funds."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 181250,
+  "peakYear": 2020,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 5
+}

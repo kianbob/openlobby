@@ -1,1 +1,329 @@
-{"abbreviation":"GA","name":"Georgia","totalSpending":279334326,"totalFilings":12376,"clientCount":742,"yearlySpending":[{"year":2018,"income":22597975},{"year":2019,"income":24168258},{"year":2020,"income":25391027},{"year":2021,"income":26103968},{"year":2022,"income":30129527},{"year":2023,"income":71228672},{"year":2024,"income":32858241},{"year":2025,"income":46856658}],"topClients":[{"name":"DELTA AIR LINES, INC.","income":5940000},{"name":"AFLAC","income":4866500},{"name":"UCB, INC.","income":4727500},{"name":"AFLAC, INC.","income":4450000},{"name":"EQUIFAX INC.","income":4280000},{"name":"THE COCA COLA COMPANY","income":4040000},{"name":"PARTNERSHIP FOR CONSERVATION","income":3160000},{"name":"THE COCA-COLA COMPANY","income":3020000},{"name":"UNITED PARCEL SERVICE","income":2970000},{"name":"SIX CONTINENTS HOTELS, INC. D/B/A IHG HOTELS & RESORTS","income":2640000},{"name":"AMERICAN TRANSACTION PROCESSORS COALITION","income":2360000},{"name":"CITY OF ATLANTA, GA","income":2260000},{"name":"WOLTERS KLUWER","income":2212000},{"name":"PFS INVESTMENTS, INC.","income":2160000},{"name":"FEDERAL HOME LOAN BANK OF ATLANTA","income":2110000},{"name":"DELTA AIR LINES","income":2100000},{"name":"GOVERNOR'S DEFENSE INITIATIVE, GEORGIA DEPT. OF ECONOMIC DEVELOPMENT","income":2080000},{"name":"INTRALOT USA","income":2030000},{"name":"GENTIVA (FORMERLY REPORTED AS HUMANA & KINDRED AT HOME)","income":1900000},{"name":"EQUIFAX, INC.","income":1860000},{"name":"SMURFIT WESTROCK(FKA WESTROCK)","income":1843771},{"name":"ECOVEST CAPITAL, INC.","income":1828000},{"name":"INVESCO LTD","income":1730000},{"name":"BOLDYN NETWORKS (FKA SIGNAL POINT SYSTEMS, INC.)","income":1710000},{"name":"THE AARON'S COMPANY, INC.","income":1710000},{"name":"AUGUSTA UNIVERSITY RESEARCH INSTITUTE","income":1700000},{"name":"PRATT INDUSTRIES (USA), INC.","income":1683656},{"name":"INTERCONTINENTALEXCHANGE, INC.","income":1670000},{"name":"INFANT NUTRITION COUNCIL OF AMERICA","income":1670000},{"name":"ASIAN AMERICAN HOTEL OWNERS ASSOCIATION","income":1640000},{"name":"PRIMERICA, INC.","income":1620000},{"name":"GEORGIA PORTS AUTHORITY","income":1580000},{"name":"UNITED EGG PRODUCERS","income":1578000},{"name":"KABBAGE, INC.","income":1570000},{"name":"CRH AMERICAS MATERIALS, INC.","income":1570000},{"name":"CHILDREN'S HEALTHCARE OF ATLANTA","income":1550000},{"name":"SCIENTIFIC RESEARCH CORPORATION","income":1545000},{"name":"PIEDMONT HEALTHCARE","income":1535500},{"name":"PHOEBE PUTNEY HEALTH SYSTEM","income":1530000},{"name":"RHEEM MANUFACTURING COMPANY","income":1500000},{"name":"SOUTHERN COMPANY SERVICES INC","income":1480000},{"name":"NATIONAL ASSOCIATION OF BANKRUPTCY TRUSTEES","income":1427500},{"name":"GRAPHIC PACKAGING INTERNATIONAL","income":1421721},{"name":"GEORGIA INSTITUTE OF TECHNOLOGY","income":1400000},{"name":"ATLANTA REGIONAL COMMISSION","income":1380000},{"name":"SOUTHWIRE COMPANY","income":1380000},{"name":"GEORGIA SOUTHERN UNIVERSITY","income":1380000},{"name":"PROFESSIONAL PHOTOGRAPHERS OF AMERICA","income":1370000},{"name":"TENCATE PROTECTIVE FABRICS NORTH AMERICA","income":1360000},{"name":"EXHIBITIONS & CONFERENCES ALLIANCE","income":1360000}],"topIssues":[{"code":"BUD","income":49712958},{"code":"TAX","income":44727562},{"code":"HCR","income":34767450},{"code":"DEF","income":27190800},{"code":"ENG","income":20214312},{"code":"FIN","income":19570709},{"code":"TRA","income":18836000},{"code":"TRD","income":16167119},{"code":"MMM","income":13883500},{"code":"AGR","income":13072800},{"code":"ENV","income":12563812},{"code":"GOV","income":9775000},{"code":"AVI","income":9740000},{"code":"INS","income":9676500},{"code":"HOM","income":8092500},{"code":"LBR","income":8070000},{"code":"EDU","income":7226000},{"code":"BAN","income":7106500},{"code":"SCI","income":5670000},{"code":"MAN","income":5157500}]}
+{
+  "abbreviation": "GA",
+  "name": "Georgia",
+  "totalSpending": 279334326,
+  "totalFilings": 12376,
+  "clientCount": 742,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 22597975
+    },
+    {
+      "year": 2019,
+      "income": 24168258
+    },
+    {
+      "year": 2020,
+      "income": 25391027
+    },
+    {
+      "year": 2021,
+      "income": 26103968
+    },
+    {
+      "year": 2022,
+      "income": 30129527
+    },
+    {
+      "year": 2023,
+      "income": 71228672
+    },
+    {
+      "year": 2024,
+      "income": 32858241
+    },
+    {
+      "year": 2025,
+      "income": 46856658
+    }
+  ],
+  "topClients": [
+    {
+      "name": "DELTA AIR LINES, INC.",
+      "income": 5940000
+    },
+    {
+      "name": "AFLAC",
+      "income": 4866500
+    },
+    {
+      "name": "UCB, INC.",
+      "income": 4727500
+    },
+    {
+      "name": "AFLAC, INC.",
+      "income": 4450000
+    },
+    {
+      "name": "EQUIFAX INC.",
+      "income": 4280000
+    },
+    {
+      "name": "THE COCA COLA COMPANY",
+      "income": 4040000
+    },
+    {
+      "name": "PARTNERSHIP FOR CONSERVATION",
+      "income": 3160000
+    },
+    {
+      "name": "THE COCA-COLA COMPANY",
+      "income": 3020000
+    },
+    {
+      "name": "UNITED PARCEL SERVICE",
+      "income": 2970000
+    },
+    {
+      "name": "SIX CONTINENTS HOTELS, INC. D/B/A IHG HOTELS & RESORTS",
+      "income": 2640000
+    },
+    {
+      "name": "AMERICAN TRANSACTION PROCESSORS COALITION",
+      "income": 2360000
+    },
+    {
+      "name": "CITY OF ATLANTA, GA",
+      "income": 2260000
+    },
+    {
+      "name": "WOLTERS KLUWER",
+      "income": 2212000
+    },
+    {
+      "name": "PFS INVESTMENTS, INC.",
+      "income": 2160000
+    },
+    {
+      "name": "FEDERAL HOME LOAN BANK OF ATLANTA",
+      "income": 2110000
+    },
+    {
+      "name": "DELTA AIR LINES",
+      "income": 2100000
+    },
+    {
+      "name": "GOVERNOR'S DEFENSE INITIATIVE, GEORGIA DEPT. OF ECONOMIC DEVELOPMENT",
+      "income": 2080000
+    },
+    {
+      "name": "INTRALOT USA",
+      "income": 2030000
+    },
+    {
+      "name": "GENTIVA (FORMERLY REPORTED AS HUMANA & KINDRED AT HOME)",
+      "income": 1900000
+    },
+    {
+      "name": "EQUIFAX, INC.",
+      "income": 1860000
+    },
+    {
+      "name": "SMURFIT WESTROCK(FKA WESTROCK)",
+      "income": 1843771
+    },
+    {
+      "name": "ECOVEST CAPITAL, INC.",
+      "income": 1828000
+    },
+    {
+      "name": "INVESCO LTD",
+      "income": 1730000
+    },
+    {
+      "name": "BOLDYN NETWORKS (FKA SIGNAL POINT SYSTEMS, INC.)",
+      "income": 1710000
+    },
+    {
+      "name": "THE AARON'S COMPANY, INC.",
+      "income": 1710000
+    },
+    {
+      "name": "AUGUSTA UNIVERSITY RESEARCH INSTITUTE",
+      "income": 1700000
+    },
+    {
+      "name": "PRATT INDUSTRIES (USA), INC.",
+      "income": 1683656
+    },
+    {
+      "name": "INTERCONTINENTALEXCHANGE, INC.",
+      "income": 1670000
+    },
+    {
+      "name": "INFANT NUTRITION COUNCIL OF AMERICA",
+      "income": 1670000
+    },
+    {
+      "name": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION",
+      "income": 1640000
+    },
+    {
+      "name": "PRIMERICA, INC.",
+      "income": 1620000
+    },
+    {
+      "name": "GEORGIA PORTS AUTHORITY",
+      "income": 1580000
+    },
+    {
+      "name": "UNITED EGG PRODUCERS",
+      "income": 1578000
+    },
+    {
+      "name": "KABBAGE, INC.",
+      "income": 1570000
+    },
+    {
+      "name": "CRH AMERICAS MATERIALS, INC.",
+      "income": 1570000
+    },
+    {
+      "name": "CHILDREN'S HEALTHCARE OF ATLANTA",
+      "income": 1550000
+    },
+    {
+      "name": "SCIENTIFIC RESEARCH CORPORATION",
+      "income": 1545000
+    },
+    {
+      "name": "PIEDMONT HEALTHCARE",
+      "income": 1535500
+    },
+    {
+      "name": "PHOEBE PUTNEY HEALTH SYSTEM",
+      "income": 1530000
+    },
+    {
+      "name": "RHEEM MANUFACTURING COMPANY",
+      "income": 1500000
+    },
+    {
+      "name": "SOUTHERN COMPANY SERVICES INC",
+      "income": 1480000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF BANKRUPTCY TRUSTEES",
+      "income": 1427500
+    },
+    {
+      "name": "GRAPHIC PACKAGING INTERNATIONAL",
+      "income": 1421721
+    },
+    {
+      "name": "GEORGIA INSTITUTE OF TECHNOLOGY",
+      "income": 1400000
+    },
+    {
+      "name": "ATLANTA REGIONAL COMMISSION",
+      "income": 1380000
+    },
+    {
+      "name": "SOUTHWIRE COMPANY",
+      "income": 1380000
+    },
+    {
+      "name": "GEORGIA SOUTHERN UNIVERSITY",
+      "income": 1380000
+    },
+    {
+      "name": "PROFESSIONAL PHOTOGRAPHERS OF AMERICA",
+      "income": 1370000
+    },
+    {
+      "name": "TENCATE PROTECTIVE FABRICS NORTH AMERICA",
+      "income": 1360000
+    },
+    {
+      "name": "EXHIBITIONS & CONFERENCES ALLIANCE",
+      "income": 1360000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 49712958
+    },
+    {
+      "code": "TAX",
+      "income": 44727562
+    },
+    {
+      "code": "HCR",
+      "income": 34767450
+    },
+    {
+      "code": "DEF",
+      "income": 27190800
+    },
+    {
+      "code": "ENG",
+      "income": 20214312
+    },
+    {
+      "code": "FIN",
+      "income": 19570709
+    },
+    {
+      "code": "TRA",
+      "income": 18836000
+    },
+    {
+      "code": "TRD",
+      "income": 16167119
+    },
+    {
+      "code": "MMM",
+      "income": 13883500
+    },
+    {
+      "code": "AGR",
+      "income": 13072800
+    },
+    {
+      "code": "ENV",
+      "income": 12563812
+    },
+    {
+      "code": "GOV",
+      "income": 9775000
+    },
+    {
+      "code": "AVI",
+      "income": 9740000
+    },
+    {
+      "code": "INS",
+      "income": 9676500
+    },
+    {
+      "code": "HOM",
+      "income": 8092500
+    },
+    {
+      "code": "LBR",
+      "income": 8070000
+    },
+    {
+      "code": "EDU",
+      "income": 7226000
+    },
+    {
+      "code": "BAN",
+      "income": 7106500
+    },
+    {
+      "code": "SCI",
+      "income": 5670000
+    },
+    {
+      "code": "MAN",
+      "income": 5157500
+    }
+  ],
+  "perCapita": 38.58,
+  "population": 11029227,
+  "nationalRank": 13,
+  "perCapitaRank": 21
+}

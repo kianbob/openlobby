@@ -1,1 +1,81 @@
-{"id":102536,"name":"TIVITY HEALTH, INC.","slug":"tivity-health-inc","state":"TN","description":"Health improvement programs.","totalSpending":1450000,"filings":27,"yearlySpending":[{"year":2018,"income":100000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":290000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000}],"firms":["ALSTON & BIRD LLP"],"lobbyists":["MICHAEL PARK","MARK RAYDER","JENNIFER BUTLER","EARL POMEROY","ZOE ATCHINSON","ELINOR HILLER","Y. BRIAN LEE","SOFIA MOLODANOF","ADAM NAVARA"],"issues":["HCR","MMM",null],"sampleDescriptions":["Medicare and healthcare issues.","Older Americans Act and Medicare and healthcare issues.","Older Americans Act and Medicare and healthcare issues. Reimbursement for prescribed physical activity."],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 102536,
+  "name": "TIVITY HEALTH, INC.",
+  "slug": "tivity-health-inc",
+  "state": "TN",
+  "description": "Health improvement programs.",
+  "totalSpending": 1450000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 100000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 290000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "ALSTON & BIRD LLP"
+  ],
+  "lobbyists": [
+    "MICHAEL PARK",
+    "MARK RAYDER",
+    "JENNIFER BUTLER",
+    "EARL POMEROY",
+    "ZOE ATCHINSON",
+    "ELINOR HILLER",
+    "Y. BRIAN LEE",
+    "SOFIA MOLODANOF",
+    "ADAM NAVARA"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Medicare and healthcare issues.",
+    "Older Americans Act and Medicare and healthcare issues.",
+    "Older Americans Act and Medicare and healthcare issues. Reimbursement for prescribed physical activity."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": 80,
+  "trajectory": "growing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 207143,
+  "peakYear": 2021,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "healthcare"
+}

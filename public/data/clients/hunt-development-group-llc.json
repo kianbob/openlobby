@@ -1,1 +1,102 @@
-{"id":168043,"name":"HUNT DEVELOPMENT GROUP LLC","slug":"hunt-development-group-llc","state":"TX","description":"Government Relations","totalSpending":2540000,"filings":26,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":480000},{"year":2020,"income":190000},{"year":2021,"income":70000},{"year":2022,"income":420000},{"year":2023,"income":520000},{"year":2024,"income":60000},{"year":2025,"income":560000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["MICHELLE MRDEZA","THOMAS SHIPMAN","JAMES RICHARDS","JOHN KEAST","JOSEPH BARTON","CHRISTOPHER SARLEY","WILLIAM SMITH","ANTHONY LAZARSKI","MICHAEL SMITH","SUSAN SWEAT","WILLIAM TODD","STACY RICH","TODD WEBSTER","CHRISTOPHER HODGSON","CHRISTIAN LEE","MATT SCHNAPPAUF"],"issues":["BUD","VET","LAW","DEF","ECN","HOM",null],"sampleDescriptions":["Public/Private Partnerships","Public Private Partnerships with Department of Veterans Affairs, House and Senate Veterans Affairs Committees","Public/Private Partnerships, Basic Allowance for Housing","Public/Private Partnerships, military housing issues","Public/Private Partnerships, Basic Allowance for Housing, military housing issues","Public/Private Partnerships, military housing issues.","Public/Private Partnerships; military housing issues.","Coast Guard Reauthorization.","Public/Private Partnerships, Basic Allowance for Housing, military housing issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 168043,
+  "name": "HUNT DEVELOPMENT GROUP LLC",
+  "slug": "hunt-development-group-llc",
+  "state": "TX",
+  "description": "Government Relations",
+  "totalSpending": 2540000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 480000
+    },
+    {
+      "year": 2020,
+      "income": 190000
+    },
+    {
+      "year": 2021,
+      "income": 70000
+    },
+    {
+      "year": 2022,
+      "income": 420000
+    },
+    {
+      "year": 2023,
+      "income": 520000
+    },
+    {
+      "year": 2024,
+      "income": 60000
+    },
+    {
+      "year": 2025,
+      "income": 560000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "MICHELLE MRDEZA",
+    "THOMAS SHIPMAN",
+    "JAMES RICHARDS",
+    "JOHN KEAST",
+    "JOSEPH BARTON",
+    "CHRISTOPHER SARLEY",
+    "WILLIAM SMITH",
+    "ANTHONY LAZARSKI",
+    "MICHAEL SMITH",
+    "SUSAN SWEAT",
+    "WILLIAM TODD",
+    "STACY RICH",
+    "TODD WEBSTER",
+    "CHRISTOPHER HODGSON",
+    "CHRISTIAN LEE",
+    "MATT SCHNAPPAUF"
+  ],
+  "issues": [
+    "BUD",
+    "VET",
+    "LAW",
+    "DEF",
+    "ECN",
+    "HOM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Public/Private Partnerships",
+    "Public Private Partnerships with Department of Veterans Affairs, House and Senate Veterans Affairs Committees",
+    "Public/Private Partnerships, Basic Allowance for Housing",
+    "Public/Private Partnerships, military housing issues",
+    "Public/Private Partnerships, Basic Allowance for Housing, military housing issues",
+    "Public/Private Partnerships, military housing issues.",
+    "Public/Private Partnerships; military housing issues.",
+    "Coast Guard Reauthorization.",
+    "Public/Private Partnerships, Basic Allowance for Housing, military housing issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 133,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 317500,
+  "peakYear": 2025,
+  "lobbyistCount": 16,
+  "firmCount": 1,
+  "issueCount": 6
+}

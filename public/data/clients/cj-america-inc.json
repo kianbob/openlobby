@@ -1,1 +1,69 @@
-{"id":208840,"name":"CJ AMERICA, INC.","slug":"cj-america-inc","state":"CA","description":"Food service, biotechnology, entertainment and media, and retail and logistics Company","totalSpending":1620000,"filings":18,"yearlySpending":[{"year":2021,"income":300000},{"year":2022,"income":320000},{"year":2023,"income":400000},{"year":2024,"income":200000},{"year":2025,"income":400000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["JONATHAN MANTZ","ERSKINE WELLS","BRENT DEL MONTE","JOSEPH LAI","CACHAVIOUS ENGLISH","MAYA SEIDEN","BILL VINEY","FRED TURNER"],"issues":["FOO","TRD","MAN",null],"sampleDescriptions":["Provide guidance and strategic counsel with regard to regulations and legislation that could impact CJ America, Inc."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 208840,
+  "name": "CJ AMERICA, INC.",
+  "slug": "cj-america-inc",
+  "state": "CA",
+  "description": "Food service, biotechnology, entertainment and media, and retail and logistics Company",
+  "totalSpending": 1620000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 300000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 400000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 400000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "JONATHAN MANTZ",
+    "ERSKINE WELLS",
+    "BRENT DEL MONTE",
+    "JOSEPH LAI",
+    "CACHAVIOUS ENGLISH",
+    "MAYA SEIDEN",
+    "BILL VINEY",
+    "FRED TURNER"
+  ],
+  "issues": [
+    "FOO",
+    "TRD",
+    "MAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Provide guidance and strategic counsel with regard to regulations and legislation that could impact CJ America, Inc."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 324000,
+  "peakYear": 2023,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

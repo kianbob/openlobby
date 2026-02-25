@@ -1,1 +1,127 @@
-{"id":101183,"name":"SIEMENS HEALTHINEERS (FKA VARIAN MEDICAL SYSTEMS, INC.)","slug":"siemens-healthineers-fka-varian-medical-systems-inc","state":"DC","description":"Medical device manufacturer","totalSpending":1800000,"filings":31,"yearlySpending":[{"year":2018,"income":140000},{"year":2019,"income":220000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["STEPHEN KHO","BRIAN POMPER","JUSTIN MCCARTHY","BRENDAN DUNN","FRANCINE FRIEDMAN","CHRISTINA HALEY","CHRISTOPHER TREANOR","CASEY HIGGINS","CARYN LESTER","VIC FAZIO","JULIE NOLAN","LAUREN O'BRIEN","GEOFF VERHOFF","VIRGIL MILLER","HEIDE BAJNRAUH","JOSE BORJON","SAM OLSWANGER","LOUIS AGNELLO","SEAN FEELY","GALEN ROEHL","MICHAEL BARNARD","ANNA ABRAM","FILEMON VELA","ED PAGANO","ERIC ETTORRE","MIA HECK","JOCELYN WILES","KELLY ANN SHAW"],"issues":["TRD","HCR","MMM","BUD","CPT","CSP",null,"TAX"],"sampleDescriptions":["USTR 301 Action.","USTR 301 action","Issues relating to cancer radiotherapy treatment equipment.","USTR 301 action.","Issues relating to cyber-security, health information technology.","Issues related to radiation therapy reimbursement and alternative payment models.","Issues related to radiation therapy reimbursement and alternative payment models; extension of device updates; certification of rural providers.","Issues related to USTR 301 action.","Issues related to radiation therapy reimbursement and alternative payment models; issues related to telehealth.","Section 301 tariff exclusion","US-Brazil CEO Forum; tracking executive orders on supply chains.","General issues regarding access to cancer care and treatment.","Issues related to radiation therapy reimbursement and alternative payment models; issues related to telehealth.; issues related to COVID-19 testing.","Section 301 tariff exclusion; issues regarding USTR and device used for cancer care and treatment","Issues regarding U.S.-Africa trade.","Issues related to Medicare reimbursement for oncology care and alternative payment models; issues related to telehealth; issues related to COVID-19 testing.","Issues regarding access to cancer care and treatment.","H.R. 4479, the Facilitating Innovative Nuclear Diagnostics (FIND) Act of 2021; issues related to radiation therapy reimbursement and alternative payment models; issues related to telehealth; issues related to COVID-19 testing; H.R. 4479/S. 2609 - the Facilitating Innovative Nuclear Diagnostics (FIND) Act of 2021.","Issues re: copyright and the Library of Congress","H.R. 4479/S. 2609 - the Facilitating Innovative Nuclear Diagnostics (FIND) Act of 2021; issues re: radiation therapy reimbursement and alternative payment models; issues re: telehealth; issues re: COVID-19 testing."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 101183,
+  "name": "SIEMENS HEALTHINEERS (FKA VARIAN MEDICAL SYSTEMS, INC.)",
+  "slug": "siemens-healthineers-fka-varian-medical-systems-inc",
+  "state": "DC",
+  "description": "Medical device manufacturer",
+  "totalSpending": 1800000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 140000
+    },
+    {
+      "year": 2019,
+      "income": 220000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "STEPHEN KHO",
+    "BRIAN POMPER",
+    "JUSTIN MCCARTHY",
+    "BRENDAN DUNN",
+    "FRANCINE FRIEDMAN",
+    "CHRISTINA HALEY",
+    "CHRISTOPHER TREANOR",
+    "CASEY HIGGINS",
+    "CARYN LESTER",
+    "VIC FAZIO",
+    "JULIE NOLAN",
+    "LAUREN O'BRIEN",
+    "GEOFF VERHOFF",
+    "VIRGIL MILLER",
+    "HEIDE BAJNRAUH",
+    "JOSE BORJON",
+    "SAM OLSWANGER",
+    "LOUIS AGNELLO",
+    "SEAN FEELY",
+    "GALEN ROEHL",
+    "MICHAEL BARNARD",
+    "ANNA ABRAM",
+    "FILEMON VELA",
+    "ED PAGANO",
+    "ERIC ETTORRE",
+    "MIA HECK",
+    "JOCELYN WILES",
+    "KELLY ANN SHAW"
+  ],
+  "issues": [
+    "TRD",
+    "HCR",
+    "MMM",
+    "BUD",
+    "CPT",
+    "CSP",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "USTR 301 Action.",
+    "USTR 301 action",
+    "Issues relating to cancer radiotherapy treatment equipment.",
+    "USTR 301 action.",
+    "Issues relating to cyber-security, health information technology.",
+    "Issues related to radiation therapy reimbursement and alternative payment models.",
+    "Issues related to radiation therapy reimbursement and alternative payment models; extension of device updates; certification of rural providers.",
+    "Issues related to USTR 301 action.",
+    "Issues related to radiation therapy reimbursement and alternative payment models; issues related to telehealth.",
+    "Section 301 tariff exclusion",
+    "US-Brazil CEO Forum; tracking executive orders on supply chains.",
+    "General issues regarding access to cancer care and treatment.",
+    "Issues related to radiation therapy reimbursement and alternative payment models; issues related to telehealth.; issues related to COVID-19 testing.",
+    "Section 301 tariff exclusion; issues regarding USTR and device used for cancer care and treatment",
+    "Issues regarding U.S.-Africa trade.",
+    "Issues related to Medicare reimbursement for oncology care and alternative payment models; issues related to telehealth; issues related to COVID-19 testing.",
+    "Issues regarding access to cancer care and treatment.",
+    "H.R. 4479, the Facilitating Innovative Nuclear Diagnostics (FIND) Act of 2021; issues related to radiation therapy reimbursement and alternative payment models; issues related to telehealth; issues related to COVID-19 testing; H.R. 4479/S. 2609 - the Facilitating Innovative Nuclear Diagnostics (FIND) Act of 2021.",
+    "Issues re: copyright and the Library of Congress",
+    "H.R. 4479/S. 2609 - the Facilitating Innovative Nuclear Diagnostics (FIND) Act of 2021; issues re: radiation therapy reimbursement and alternative payment models; issues re: telehealth; issues re: COVID-19 testing."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 71,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 225000,
+  "peakYear": 2020,
+  "lobbyistCount": 28,
+  "firmCount": 1,
+  "issueCount": 7,
+  "industry": "healthcare"
+}

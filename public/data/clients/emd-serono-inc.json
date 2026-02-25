@@ -1,1 +1,101 @@
-{"id":176458,"name":"EMD SERONO, INC.","slug":"emd-serono-inc","state":"MA","description":"Client is a biopharmaceutical company.","totalSpending":1550000,"filings":31,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["THE MCMANUS GROUP"],"lobbyists":["BARRETT THORNHILL","JOHN MCMANUS","PAUL CRONAN","CHRISTINA HOCHUL","ALANNA TEMME","LAWREN GEER","ALEX WHALEN"],"issues":["HCR","MMM",null,"TAX"],"sampleDescriptions":["General pharmaceutical coverage and reimbursement issues, health exchange policy; issues and activities affecting oncology, neurodegenerative and fertility products.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform. H.R. 2113, the Prescription Drug STAR Act.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform in H.R. 3, the Lower Drug Costs Now Act, and S. 2543, the Prescription Pricing Reduction Act.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform in S. 2543, the Prescription Drug Pricing Reduction Act of 2019, H.R. 3, the Lower Drug Costs Now Act of 2019, and H.R. 19/ S. 3129, the Lower Costs, More Cures Act of 2019.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform in S. 2543 and H.R. 19/ S. 3129, the Lower Costs, More Cures Act of 2019.","General pharmaceutical coverage and reimbursement issues, issues and activities affecting oncology, neurodegenerative and fertility products.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products.\n\nProvisions included in Subtitle J - Drug Pricing of H.R. 5376 - Build Back Better Act.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products.\n\nProvisions included in Subtitle J of H.R. 5376 - Build Back Better Act.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Provisions included in Subtitle J of H.R. 5376 - Build Back Better Act.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Provisions included in Subtitle J of H.R. 5376 - Build Back Better Act and Senate reconciliation bill.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Provisions included in Title I-Subtitle B of PL. 177-169/H.R. 5376 - Inflation Reduction Act of 2022.","General pharmaceutical coverage and reimbursement issues, issues and activities affecting oncology, neurodegenerative and fertility products. Issues related to reforming and increasing transparency within the 340B Drug Pricing Program including in H.R. 3290 - To amend title III of the Public Health Service Act to ensure transparency and oversight of the 340B drug discount program. H.R. 5378: Lower Costs, More Transparency Act, S.3430 - Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023 Issues related to commercial delinking of PBMs in H.R.6283 - DRUG Act, S.1542 - DRUG Act H.R.7085 - BIOSECURE Act Issues related to IVF treatments.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Implementation of provisions included in Subtitle B of PL. 117-169 - Inflation Reduction Act of 2022. Issues related to Part D delinking of PBMs in H.R.2880 - Protecting Patients Against PBM Abuses Act, S.1967 - PBM Act H.R. 5378: Lower Costs, More Transparency Act, S.3430: Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023","Issues related to research and development tax amortization in H.R. 2673 American Innovation and R&D competitiveness Act of 2023. H.R.7024 - Tax Relief for American Families and Workers Act of 2024","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Implementation of provisions included in Subtitle B of PL. 117-169 - Inflation Reduction Act of 2022. Issues related to Part D delinking of PBMs in H.R.2880 - Protecting Patients Against PBM Abuses Act, S.1967 - PBM Act, S. 2973 - The Modernizing and Ensuring PBM Accountability (MEPA) Act, H.R.8261 - Preserving Telehealth, Hospital, and Ambulance Access Act H.R. 5378: Lower Costs, More Transparency Act, S.3430: Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023","Issues related to research and development tax amortization in H.R. 2673 American Innovation and R&D competitiveness Act of 2023.","General pharmaceutical coverage and reimbursement issues, issues and activities affecting oncology, neurodegenerative and fertility products. Issues related to reforming and increasing transparency within the 340B Drug Pricing Program including in H.R. 3290 - To amend title III of the Public Health Service Act to ensure transparency and oversight of the 340B drug discount program. H.R. 5378: Lower Costs, More Transparency Act, S.3430 - Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023 Issues related to commercial delinking of PBMs in H.R.6283 - DRUG Act, S.1542 - DRUG Act Issues related to IVF treatments.","Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Implementation of provisions included in Subtitle B of PL. 117-169 - Inflation Reduction Act of 2022. Issues related to Part D delinking of PBMs in H.R.2880 - Protecting Patients Against PBM Abuses Act, S.1967 - PBM Act, S. 2973 - The Modernizing and Ensuring PBM Accountability (MEPA) Act, H.R.8261 - Preserving Telehealth, Hospital, and Ambulance Access Act, H.R.7623 - Telehealth Modernization Act H.R. 5378: Lower Costs, More Transparency Act, S.3430: Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 176458,
+  "name": "EMD SERONO, INC.",
+  "slug": "emd-serono-inc",
+  "state": "MA",
+  "description": "Client is a biopharmaceutical company.",
+  "totalSpending": 1550000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "THE MCMANUS GROUP"
+  ],
+  "lobbyists": [
+    "BARRETT THORNHILL",
+    "JOHN MCMANUS",
+    "PAUL CRONAN",
+    "CHRISTINA HOCHUL",
+    "ALANNA TEMME",
+    "LAWREN GEER",
+    "ALEX WHALEN"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "General pharmaceutical coverage and reimbursement issues, health exchange policy; issues and activities affecting oncology, neurodegenerative and fertility products.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform. H.R. 2113, the Prescription Drug STAR Act.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform in H.R. 3, the Lower Drug Costs Now Act, and S. 2543, the Prescription Pricing Reduction Act.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform in S. 2543, the Prescription Drug Pricing Reduction Act of 2019, H.R. 3, the Lower Drug Costs Now Act of 2019, and H.R. 19/ S. 3129, the Lower Costs, More Cures Act of 2019.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Part D reimbursement reform in S. 2543 and H.R. 19/ S. 3129, the Lower Costs, More Cures Act of 2019.",
+    "General pharmaceutical coverage and reimbursement issues, issues and activities affecting oncology, neurodegenerative and fertility products.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products.\n\nProvisions included in Subtitle J - Drug Pricing of H.R. 5376 - Build Back Better Act.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products.\n\nProvisions included in Subtitle J of H.R. 5376 - Build Back Better Act.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Provisions included in Subtitle J of H.R. 5376 - Build Back Better Act.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Provisions included in Subtitle J of H.R. 5376 - Build Back Better Act and Senate reconciliation bill.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Provisions included in Title I-Subtitle B of PL. 177-169/H.R. 5376 - Inflation Reduction Act of 2022.",
+    "General pharmaceutical coverage and reimbursement issues, issues and activities affecting oncology, neurodegenerative and fertility products. Issues related to reforming and increasing transparency within the 340B Drug Pricing Program including in H.R. 3290 - To amend title III of the Public Health Service Act to ensure transparency and oversight of the 340B drug discount program. H.R. 5378: Lower Costs, More Transparency Act, S.3430 - Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023 Issues related to commercial delinking of PBMs in H.R.6283 - DRUG Act, S.1542 - DRUG Act H.R.7085 - BIOSECURE Act Issues related to IVF treatments.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Implementation of provisions included in Subtitle B of PL. 117-169 - Inflation Reduction Act of 2022. Issues related to Part D delinking of PBMs in H.R.2880 - Protecting Patients Against PBM Abuses Act, S.1967 - PBM Act H.R. 5378: Lower Costs, More Transparency Act, S.3430: Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023",
+    "Issues related to research and development tax amortization in H.R. 2673 American Innovation and R&D competitiveness Act of 2023. H.R.7024 - Tax Relief for American Families and Workers Act of 2024",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Implementation of provisions included in Subtitle B of PL. 117-169 - Inflation Reduction Act of 2022. Issues related to Part D delinking of PBMs in H.R.2880 - Protecting Patients Against PBM Abuses Act, S.1967 - PBM Act, S. 2973 - The Modernizing and Ensuring PBM Accountability (MEPA) Act, H.R.8261 - Preserving Telehealth, Hospital, and Ambulance Access Act H.R. 5378: Lower Costs, More Transparency Act, S.3430: Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023",
+    "Issues related to research and development tax amortization in H.R. 2673 American Innovation and R&D competitiveness Act of 2023.",
+    "General pharmaceutical coverage and reimbursement issues, issues and activities affecting oncology, neurodegenerative and fertility products. Issues related to reforming and increasing transparency within the 340B Drug Pricing Program including in H.R. 3290 - To amend title III of the Public Health Service Act to ensure transparency and oversight of the 340B drug discount program. H.R. 5378: Lower Costs, More Transparency Act, S.3430 - Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023 Issues related to commercial delinking of PBMs in H.R.6283 - DRUG Act, S.1542 - DRUG Act Issues related to IVF treatments.",
+    "Medicare and Medicaid pharmaceutical coverage and reimbursement issues, particularly regarding neurodegenerative products. Implementation of provisions included in Subtitle B of PL. 117-169 - Inflation Reduction Act of 2022. Issues related to Part D delinking of PBMs in H.R.2880 - Protecting Patients Against PBM Abuses Act, S.1967 - PBM Act, S. 2973 - The Modernizing and Ensuring PBM Accountability (MEPA) Act, H.R.8261 - Preserving Telehealth, Hospital, and Ambulance Access Act, H.R.7623 - Telehealth Modernization Act H.R. 5378: Lower Costs, More Transparency Act, S.3430: Better Mental Health Care, Lower-Cost Drugs, and Extenders Act of 2023"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 193750,
+  "peakYear": 2018,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 3
+}

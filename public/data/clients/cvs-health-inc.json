@@ -1,1 +1,99 @@
-{"id":177453,"name":"CVS HEALTH INC","slug":"cvs-health-inc","state":"DC","description":"Name Change - CVS Caremark is now CVS Health","totalSpending":2150000,"filings":26,"yearlySpending":[{"year":2018,"income":480000},{"year":2019,"income":360000},{"year":2020,"income":400000},{"year":2021,"income":260000},{"year":2022,"income":150000},{"year":2023,"income":250000},{"year":2025,"income":250000}],"firms":["BOCKORNY GROUP, INC."],"lobbyists":["DAVID BOCKORNY","NICOLE VENABLE","DANIEL FERNANDEZ","ALLEN JAMERSON","BRAD HANTLER","MARTI THOMAS","JOSEPH RUBIN","BLAIR LARKINS","SCOTT STYLES","GAVIN PROFFITT","RAPHAEL GOODSTEIN","MARTIN DEPOY","JEFFREY BECKER"],"issues":["TAX","PHA","BUD",null],"sampleDescriptions":["Issues related to corporate tax policy reform\nIssues related to taxes on employee health plans\nH.R.1 - Tax Cuts and Jobs Act of 2017","Issues related to PBM's\nIssues related to drug supply chain\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nS.637 - Creating Transparency to Have Drug Rebates Unlocked (C-THRU) Act of 2017\nH.R.2212 - CREATES Act of 2017\nJudiciary issues related to the drug supply chain","Issues related to PBM's\nIssues related to drug supply chain\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nH.R.2212 - CREATES Act of 2017\nJudiciary issues related to the drug supply chain","Issues related to PBM's\nIssues related to drug supply chain\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nJudiciary issues related to the drug supply chain \nIssues related to the company's merger with Aetna \nIssues related to the \"Gag Rule\" bill","Issues related to PBM's\nIssues related to drug supply chain\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nJudiciary issues related to the drug supply chain \nIssues related to the company's merger with Aetna \nIssues related to the \"Gag Rule\" bill \nIssues relating to dialysis reimbursements","Issues related to PBMs\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nIssues related to the \"Gag Rule\" bill\nIssues related to dialysis reimbursements","Issues related to PBMs\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nIssues related to the \"Gag Rule\" bill\nIssues related to dialysis reimbursements\nIssues related to representation in COVID-19-related packages","Issues related to PBMs\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nIssues related to the \"Gag Rule\" bill\nIssues related to dialysis reimbursements\nIssues related to representation in COVID-19-related packages\nH.R. 133 Consolidated Appropriations Act, 2021","Issues related to PBMs\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nIssues related to the \"Gag Rule\" bill\nIssues related to dialysis reimbursements\nIssues related to representation in COVID-19-related packages\nHR 1319 American Rescue Plan","Issues related to hospital payments\nIssues related to hospital inclusion and representation in COVID-19 packages\nPublic Law Number 116-136 CARES Act\nH.R. 133 Consolidated Appropriations Act, 2021\nH.R. 1868 An Act to prevent across-the-board direct spending cuts, and for other purposes\nHR 5376 Build Back Better Act Budget Reconciliation Legislative Recommendations Relating to Medicaid; Budget Reconciliation Legislative Recommendations Relating to CHIP; Budget Reconciliation Legislative Recommendations Relating to Medicare (Sec. 30801, 30803, 30804, 30805)","Issues related to drug pricing Issues related to health reform proposals Issues related to representation in COVID-19-related packages","Issues related to hospital payments Issues related to hospital inclusion and representation in COVID-19 packages Public Law Number 116-136 CARES Act H.R. 133 Consolidated Appropriations Act, 2021 H.R. 1868 An Act to prevent across-the-board direct spending cuts, and for other purposes HR 5376 Build Back Better Act Budget Reconciliation Legislative Recommendations Relating to Medicaid; Budget Reconciliation Legislative Recommendations Relating to CHIP; Budget Reconciliation Legislative Recommendations Relating to Medicare (Sec. 30801, 30803, 30804, 30805)","Issues related to drug pricing Issues related to health reform proposals Issues related to representation in COVID-19-related packages HR 7213, Equitable Community Access to Pharmacist Services Act","Issues related to hospital payments Issues related to hospital inclusion and representation in COVID-19 packages; HR 7213 Public Law Number 116-136 CARES Act H.R. 133 Consolidated Appropriations Act, 2021 H.R. 1868 An Act to prevent across-the-board direct spending cuts, and for other purposes HR 5376 Build Back Better Act Budget Reconciliation Legislative Recommendations Relating to Medicaid; Budget Reconciliation Legislative Recommendations Relating to CHIP; Budget Reconciliation Legislative Recommendations Relating to Medicare (Sec. 30801, 30803, 30804, 30805)","Pharmacy","Issues relating to legislation and regulations affecting Pharmacy Benefit Managers."],"years":[2018,2019,2020,2021,2022,2023,2025]}
+{
+  "id": 177453,
+  "name": "CVS HEALTH INC",
+  "slug": "cvs-health-inc",
+  "state": "DC",
+  "description": "Name Change - CVS Caremark is now CVS Health",
+  "totalSpending": 2150000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 480000
+    },
+    {
+      "year": 2019,
+      "income": 360000
+    },
+    {
+      "year": 2020,
+      "income": 400000
+    },
+    {
+      "year": 2021,
+      "income": 260000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2025,
+      "income": 250000
+    }
+  ],
+  "firms": [
+    "BOCKORNY GROUP, INC."
+  ],
+  "lobbyists": [
+    "DAVID BOCKORNY",
+    "NICOLE VENABLE",
+    "DANIEL FERNANDEZ",
+    "ALLEN JAMERSON",
+    "BRAD HANTLER",
+    "MARTI THOMAS",
+    "JOSEPH RUBIN",
+    "BLAIR LARKINS",
+    "SCOTT STYLES",
+    "GAVIN PROFFITT",
+    "RAPHAEL GOODSTEIN",
+    "MARTIN DEPOY",
+    "JEFFREY BECKER"
+  ],
+  "issues": [
+    "TAX",
+    "PHA",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to corporate tax policy reform\nIssues related to taxes on employee health plans\nH.R.1 - Tax Cuts and Jobs Act of 2017",
+    "Issues related to PBM's\nIssues related to drug supply chain\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nS.637 - Creating Transparency to Have Drug Rebates Unlocked (C-THRU) Act of 2017\nH.R.2212 - CREATES Act of 2017\nJudiciary issues related to the drug supply chain",
+    "Issues related to PBM's\nIssues related to drug supply chain\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nH.R.2212 - CREATES Act of 2017\nJudiciary issues related to the drug supply chain",
+    "Issues related to PBM's\nIssues related to drug supply chain\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nJudiciary issues related to the drug supply chain \nIssues related to the company's merger with Aetna \nIssues related to the \"Gag Rule\" bill",
+    "Issues related to PBM's\nIssues related to drug supply chain\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nJudiciary issues related to the drug supply chain \nIssues related to the company's merger with Aetna \nIssues related to the \"Gag Rule\" bill \nIssues relating to dialysis reimbursements",
+    "Issues related to PBMs\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nIssues related to the \"Gag Rule\" bill\nIssues related to dialysis reimbursements",
+    "Issues related to PBMs\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nIssues related to the \"Gag Rule\" bill\nIssues related to dialysis reimbursements\nIssues related to representation in COVID-19-related packages",
+    "Issues related to PBMs\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nIssues related to the \"Gag Rule\" bill\nIssues related to dialysis reimbursements\nIssues related to representation in COVID-19-related packages\nH.R. 133 Consolidated Appropriations Act, 2021",
+    "Issues related to PBMs\nIssues related to drug pricing\nIssues related to Veterans health\nIssues related to opioid abuse\nIssues related to health reform proposals\nIssues related to the \"Gag Rule\" bill\nIssues related to dialysis reimbursements\nIssues related to representation in COVID-19-related packages\nHR 1319 American Rescue Plan",
+    "Issues related to hospital payments\nIssues related to hospital inclusion and representation in COVID-19 packages\nPublic Law Number 116-136 CARES Act\nH.R. 133 Consolidated Appropriations Act, 2021\nH.R. 1868 An Act to prevent across-the-board direct spending cuts, and for other purposes\nHR 5376 Build Back Better Act Budget Reconciliation Legislative Recommendations Relating to Medicaid; Budget Reconciliation Legislative Recommendations Relating to CHIP; Budget Reconciliation Legislative Recommendations Relating to Medicare (Sec. 30801, 30803, 30804, 30805)",
+    "Issues related to drug pricing Issues related to health reform proposals Issues related to representation in COVID-19-related packages",
+    "Issues related to hospital payments Issues related to hospital inclusion and representation in COVID-19 packages Public Law Number 116-136 CARES Act H.R. 133 Consolidated Appropriations Act, 2021 H.R. 1868 An Act to prevent across-the-board direct spending cuts, and for other purposes HR 5376 Build Back Better Act Budget Reconciliation Legislative Recommendations Relating to Medicaid; Budget Reconciliation Legislative Recommendations Relating to CHIP; Budget Reconciliation Legislative Recommendations Relating to Medicare (Sec. 30801, 30803, 30804, 30805)",
+    "Issues related to drug pricing Issues related to health reform proposals Issues related to representation in COVID-19-related packages HR 7213, Equitable Community Access to Pharmacist Services Act",
+    "Issues related to hospital payments Issues related to hospital inclusion and representation in COVID-19 packages; HR 7213 Public Law Number 116-136 CARES Act H.R. 133 Consolidated Appropriations Act, 2021 H.R. 1868 An Act to prevent across-the-board direct spending cuts, and for other purposes HR 5376 Build Back Better Act Budget Reconciliation Legislative Recommendations Relating to Medicaid; Budget Reconciliation Legislative Recommendations Relating to CHIP; Budget Reconciliation Legislative Recommendations Relating to Medicare (Sec. 30801, 30803, 30804, 30805)",
+    "Pharmacy",
+    "Issues relating to legislation and regulations affecting Pharmacy Benefit Managers."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2025
+  ],
+  "growthRate": -48,
+  "trajectory": "reducing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 307143,
+  "peakYear": 2018,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "healthcare"
+}

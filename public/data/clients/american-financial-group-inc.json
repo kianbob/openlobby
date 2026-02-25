@@ -1,1 +1,77 @@
-{"id":151831,"name":"AMERICAN FINANCIAL GROUP, INC.","slug":"american-financial-group-inc","state":"OH","description":"Insurance company","totalSpending":1860000,"filings":31,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["WILMER CUTLER PICKERING HALE AND DORR LLP"],"lobbyists":["ROBERT LEHMAN","TIMOTHY MARTIN","JEFFREY WIEAND"],"issues":["INS",null],"sampleDescriptions":["Insurance related issues"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 151831,
+  "name": "AMERICAN FINANCIAL GROUP, INC.",
+  "slug": "american-financial-group-inc",
+  "state": "OH",
+  "description": "Insurance company",
+  "totalSpending": 1860000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "WILMER CUTLER PICKERING HALE AND DORR LLP"
+  ],
+  "lobbyists": [
+    "ROBERT LEHMAN",
+    "TIMOTHY MARTIN",
+    "JEFFREY WIEAND"
+  ],
+  "issues": [
+    "INS",
+    null
+  ],
+  "sampleDescriptions": [
+    "Insurance related issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 232500,
+  "peakYear": 2019,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

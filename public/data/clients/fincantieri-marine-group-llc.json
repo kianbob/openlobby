@@ -1,1 +1,61 @@
-{"id":213364,"name":"FINCANTIERI MARINE GROUP LLC","slug":"fincantieri-marine-group-llc","state":"WI","description":"Shipbuilding","totalSpending":1400000,"filings":16,"yearlySpending":[{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":440000}],"firms":["STRATEGIC MARKETING INNOVATIONS"],"lobbyists":["JEREMY STESLICKI","BRYAN MAXWELL","ADRIELLE WIESE","NICHOLAS VANCE","MARY WENTWORTH","REBECCA GANSCA"],"issues":["DEF","BUD",null,"HOM"],"sampleDescriptions":["Navy shipbuilding programs"],"years":[2022,2023,2024,2025]}
+{
+  "id": 213364,
+  "name": "FINCANTIERI MARINE GROUP LLC",
+  "slug": "fincantieri-marine-group-llc",
+  "state": "WI",
+  "description": "Shipbuilding",
+  "totalSpending": 1400000,
+  "filings": 16,
+  "yearlySpending": [
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 440000
+    }
+  ],
+  "firms": [
+    "STRATEGIC MARKETING INNOVATIONS"
+  ],
+  "lobbyists": [
+    "JEREMY STESLICKI",
+    "BRYAN MAXWELL",
+    "ADRIELLE WIESE",
+    "NICHOLAS VANCE",
+    "MARY WENTWORTH",
+    "REBECCA GANSCA"
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    null,
+    "HOM"
+  ],
+  "sampleDescriptions": [
+    "Navy shipbuilding programs"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 38,
+  "trajectory": "growing",
+  "yearsActive": 4,
+  "avgAnnualSpending": 350000,
+  "peakYear": 2025,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 3
+}

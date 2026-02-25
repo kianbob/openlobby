@@ -1,1 +1,92 @@
-{"id":204571,"name":"AMERICAN DIABETES ASSOCIATION","slug":"american-diabetes-association","state":"VA","description":"Healthcare","totalSpending":1760000,"filings":27,"yearlySpending":[{"year":2020,"income":220000},{"year":2021,"income":320000},{"year":2022,"income":490000},{"year":2023,"income":220000},{"year":2024,"income":170000},{"year":2025,"income":340000}],"firms":["VENN STRATEGIES"],"lobbyists":["STEPHANIE SILVERMAN","CHRISTOPHER FOX","OLIVIA NEISTAT","ELISE TOLLEFSON","MATTHEW SCOTT","PETER GOELZ","BRIDGET ANSHUS","MARIAH PHILIPS","ALLISON EVERTON","JOHN RICHTER","SAMANTHA CAMPBELL","TAHARVIS ROSS","JAKARA EASON","RACHEL PRATT","MICHELLE SEGER","CECELIA THOMAS","MADISON WEST"],"issues":["HCR","BUD","AGR",null,"MMM"],"sampleDescriptions":["Healthcare policies affecting Americans living with diabetes, especially during the coronavirus pandemic.","Funding for programs and research relevant for people with diabetes.","Healthcare policies affecting Americans living with diabetes.","Promoting access in healthy food for people with diabetes & pre-diabetes.","Healthcare policies affecting Americans living with diabetes and pre-diabetes, including but not limited to measures to advance the prevention of unnecessary amputations and affordable access to medication.","Advocate for access to affordable therapies and technology.","Advocate for access to healthy food for people with diabetes.","Healthcare policies affecting Americans living with diabetes and pre-diabetes, including but not limited to health insurance coverage through Medicaid and the Affordable Care Act, and measures to prevent amputation.","Advocate for access to affordable therapies and technology, and efforts to preserve access to health care coverage for people with diabetes and prediabetes.","Healthcare policies affecting Americans living with diabetes and pre-diabetes, including but not limited to health insurance coverage through Medicaid and the Affordable Care Act."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 204571,
+  "name": "AMERICAN DIABETES ASSOCIATION",
+  "slug": "american-diabetes-association",
+  "state": "VA",
+  "description": "Healthcare",
+  "totalSpending": 1760000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 220000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 490000
+    },
+    {
+      "year": 2023,
+      "income": 220000
+    },
+    {
+      "year": 2024,
+      "income": 170000
+    },
+    {
+      "year": 2025,
+      "income": 340000
+    }
+  ],
+  "firms": [
+    "VENN STRATEGIES"
+  ],
+  "lobbyists": [
+    "STEPHANIE SILVERMAN",
+    "CHRISTOPHER FOX",
+    "OLIVIA NEISTAT",
+    "ELISE TOLLEFSON",
+    "MATTHEW SCOTT",
+    "PETER GOELZ",
+    "BRIDGET ANSHUS",
+    "MARIAH PHILIPS",
+    "ALLISON EVERTON",
+    "JOHN RICHTER",
+    "SAMANTHA CAMPBELL",
+    "TAHARVIS ROSS",
+    "JAKARA EASON",
+    "RACHEL PRATT",
+    "MICHELLE SEGER",
+    "CECELIA THOMAS",
+    "MADISON WEST"
+  ],
+  "issues": [
+    "HCR",
+    "BUD",
+    "AGR",
+    null,
+    "MMM"
+  ],
+  "sampleDescriptions": [
+    "Healthcare policies affecting Americans living with diabetes, especially during the coronavirus pandemic.",
+    "Funding for programs and research relevant for people with diabetes.",
+    "Healthcare policies affecting Americans living with diabetes.",
+    "Promoting access in healthy food for people with diabetes & pre-diabetes.",
+    "Healthcare policies affecting Americans living with diabetes and pre-diabetes, including but not limited to measures to advance the prevention of unnecessary amputations and affordable access to medication.",
+    "Advocate for access to affordable therapies and technology.",
+    "Advocate for access to healthy food for people with diabetes.",
+    "Healthcare policies affecting Americans living with diabetes and pre-diabetes, including but not limited to health insurance coverage through Medicaid and the Affordable Care Act, and measures to prevent amputation.",
+    "Advocate for access to affordable therapies and technology, and efforts to preserve access to health care coverage for people with diabetes and prediabetes.",
+    "Healthcare policies affecting Americans living with diabetes and pre-diabetes, including but not limited to health insurance coverage through Medicaid and the Affordable Care Act."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 55,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 293333,
+  "peakYear": 2022,
+  "lobbyistCount": 17,
+  "firmCount": 1,
+  "issueCount": 4
+}

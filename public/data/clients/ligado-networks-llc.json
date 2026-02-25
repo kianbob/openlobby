@@ -1,1 +1,76 @@
-{"id":173216,"name":"LIGADO NETWORKS, LLC","slug":"ligado-networks-llc","state":"VA","description":"Satellite Communications Company","totalSpending":1932500,"filings":28,"yearlySpending":[{"year":2018,"income":135000},{"year":2019,"income":180000},{"year":2020,"income":420000},{"year":2021,"income":360000},{"year":2022,"income":342500},{"year":2023,"income":180000},{"year":2024,"income":135000},{"year":2025,"income":180000}],"firms":["TELEMEDIA POLICY CORP."],"lobbyists":["JUSTIN LILLEY"],"issues":["TEC",null],"sampleDescriptions":["Legislative & regulatory matters relating to telecommunications and wireless spectrum","Legislative & regulatory matters relating to telecommunications and mid-band wireless spectrum, including the deployment of 5G networks","Legislative & regulatory matters relating to telecommunications and mid-band wireless spectrum, including the deployment of 5G networks."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 173216,
+  "name": "LIGADO NETWORKS, LLC",
+  "slug": "ligado-networks-llc",
+  "state": "VA",
+  "description": "Satellite Communications Company",
+  "totalSpending": 1932500,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 135000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 420000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 342500
+    },
+    {
+      "year": 2023,
+      "income": 180000
+    },
+    {
+      "year": 2024,
+      "income": 135000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "TELEMEDIA POLICY CORP."
+  ],
+  "lobbyists": [
+    "JUSTIN LILLEY"
+  ],
+  "issues": [
+    "TEC",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislative & regulatory matters relating to telecommunications and wireless spectrum",
+    "Legislative & regulatory matters relating to telecommunications and mid-band wireless spectrum, including the deployment of 5G networks",
+    "Legislative & regulatory matters relating to telecommunications and mid-band wireless spectrum, including the deployment of 5G networks."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 241563,
+  "peakYear": 2020,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1
+}

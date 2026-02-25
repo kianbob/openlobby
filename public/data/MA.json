@@ -1,1 +1,329 @@
-{"abbreviation":"MA","name":"Massachusetts","totalSpending":502858723.81,"totalFilings":21145,"clientCount":1242,"yearlySpending":[{"year":2018,"income":32509523},{"year":2019,"income":38159678},{"year":2020,"income":48163620},{"year":2021,"income":54143840},{"year":2022,"income":64558522},{"year":2023,"income":134723758},{"year":2024,"income":57914607},{"year":2025,"income":72685175.81}],"topClients":[{"name":"ALKERMES, INC.","income":8870000},{"name":"EMD SERONO, INC.","income":5650000},{"name":"THERMO FISHER SCIENTIFIC INC","income":5278000},{"name":"ALNYLAM PHARMACEUTICALS, INC.","income":5250000},{"name":"AMERICAN TOWER CORPORATION","income":5200000},{"name":"ALEXION PHARMACEUTICALS, INC.","income":4680000},{"name":"VERTEX PHARMACEUTICALS INCORPORATED","income":4085000},{"name":"HOLOGIC, INC.","income":3880000},{"name":"SAREPTA THERAPEUTICS","income":3740000},{"name":"LIBERTY MUTUAL INSURANCE COMPANY","income":3580000},{"name":"CLEAN ENERGY GROUP STRATEGY/MJB&A COALITIONS","income":3496695},{"name":"MASS GENERAL BRIGHAM","income":3260000},{"name":"NORTHEASTERN UNIVERSITY","income":3022000},{"name":"LIBERTY MUTUAL GROUP INC.","income":2980000},{"name":"ABBOTT (FORMERLY KNOWN AS ALERE INC.)","income":2880000},{"name":"MASSDEVELOPMENT","income":2880000},{"name":"FRESENIUS MEDICAL CARE NORTH AMERICA","income":2635000},{"name":"NATIONAL FIRE PROTECTION ASSOCIATION","income":2590000},{"name":"MASS GENERAL BRIGHAM (FORMERLY KNOWN AS PARTNERS HEALTHCARE)","income":2520000},{"name":"VERTEX PHARMACEUTICALS","income":2460000},{"name":"MERLIN LABS","income":2440000},{"name":"MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY","income":2350000},{"name":"AKEBIA THERAPEUTICS, INC.","income":2345000},{"name":"OCEAN SPRAY CRANBERRIES","income":2280000},{"name":"SHARKNINJA OPERATING LLC","income":2280000},{"name":"STEWARD HEALTHCARE SYSTEMS","income":2260000},{"name":"GRANITE TELECOMMUNICATIONS","income":2250000},{"name":"STATE STREET BANK AND TRUST COMPANY","income":2240000},{"name":"PARTNER THERAPEUTICS","income":2190000},{"name":"DRAFTKINGS INC.","income":2160000},{"name":"AMPLIFON USA","income":2150000},{"name":"CLEAN AIR TASK FORCE","income":2125000},{"name":"CIRCLE","income":2110000},{"name":"CABOT CORPORATION","income":2105000},{"name":"SHORELIGHT EDUCATION","income":2094000},{"name":"IRON MOUNTAIN INFORMATION MANAGEMENT, LLC","income":2040000},{"name":"FOUNDATION MEDICINE","income":2030000},{"name":"BEONE MEDICINES USA, INC. (FKA BEIGENE USA, INC.)","income":1990000},{"name":"AQUABOUNTY TECHNOLOGIES, INC.","income":1960000},{"name":"ORCHARD THERAPEUTICS NORTH AMERICA","income":1960000},{"name":"NATIXIS IM","income":1955000},{"name":"BLUE CROSS BLUE SHIELD OF MASSACHUSETTS","income":1950000},{"name":"TUFTS UNIVERSITY","income":1940000},{"name":"ABIOMED INC","income":1940000},{"name":"BOSTON MEDICAL CENTER","income":1930000},{"name":"GRANITE TELECOMMUNICATIONS, LLC","income":1890000},{"name":"AMAG PHARMACEUTICAL","income":1875000},{"name":"VINEYARD WIND, LLC","income":1860000},{"name":"PCI SECURITY STANDARDS COUNCIL, LLC","income":1810000},{"name":"CULTURAL CARE AU PAIR","income":1810000}],"topIssues":[{"code":"HCR","income":146190096},{"code":"MMM","income":72227120},{"code":"BUD","income":72136875},{"code":"TAX","income":61033525},{"code":"DEF","income":50494550},{"code":"ENG","income":35606750},{"code":"FIN","income":21517500},{"code":"TRD","income":18588000},{"code":"MED","income":18019750},{"code":"EDU","income":16410674.81},{"code":"ENV","income":15790000},{"code":"SCI","income":15765000},{"code":"TEC","income":15550922},{"code":"TRA","income":15280500},{"code":"HOM","income":14095000},{"code":"AGR","income":12025750},{"code":"PHA","income":10915000},{"code":"MAN","income":10193016},{"code":"INS","income":8602500},{"code":"LBR","income":8367000}]}
+{
+  "abbreviation": "MA",
+  "name": "Massachusetts",
+  "totalSpending": 502858723.81,
+  "totalFilings": 21145,
+  "clientCount": 1242,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 32509523
+    },
+    {
+      "year": 2019,
+      "income": 38159678
+    },
+    {
+      "year": 2020,
+      "income": 48163620
+    },
+    {
+      "year": 2021,
+      "income": 54143840
+    },
+    {
+      "year": 2022,
+      "income": 64558522
+    },
+    {
+      "year": 2023,
+      "income": 134723758
+    },
+    {
+      "year": 2024,
+      "income": 57914607
+    },
+    {
+      "year": 2025,
+      "income": 72685175.81
+    }
+  ],
+  "topClients": [
+    {
+      "name": "ALKERMES, INC.",
+      "income": 8870000
+    },
+    {
+      "name": "EMD SERONO, INC.",
+      "income": 5650000
+    },
+    {
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "income": 5278000
+    },
+    {
+      "name": "ALNYLAM PHARMACEUTICALS, INC.",
+      "income": 5250000
+    },
+    {
+      "name": "AMERICAN TOWER CORPORATION",
+      "income": 5200000
+    },
+    {
+      "name": "ALEXION PHARMACEUTICALS, INC.",
+      "income": 4680000
+    },
+    {
+      "name": "VERTEX PHARMACEUTICALS INCORPORATED",
+      "income": 4085000
+    },
+    {
+      "name": "HOLOGIC, INC.",
+      "income": 3880000
+    },
+    {
+      "name": "SAREPTA THERAPEUTICS",
+      "income": 3740000
+    },
+    {
+      "name": "LIBERTY MUTUAL INSURANCE COMPANY",
+      "income": 3580000
+    },
+    {
+      "name": "CLEAN ENERGY GROUP STRATEGY/MJB&A COALITIONS",
+      "income": 3496695
+    },
+    {
+      "name": "MASS GENERAL BRIGHAM",
+      "income": 3260000
+    },
+    {
+      "name": "NORTHEASTERN UNIVERSITY",
+      "income": 3022000
+    },
+    {
+      "name": "LIBERTY MUTUAL GROUP INC.",
+      "income": 2980000
+    },
+    {
+      "name": "ABBOTT (FORMERLY KNOWN AS ALERE INC.)",
+      "income": 2880000
+    },
+    {
+      "name": "MASSDEVELOPMENT",
+      "income": 2880000
+    },
+    {
+      "name": "FRESENIUS MEDICAL CARE NORTH AMERICA",
+      "income": 2635000
+    },
+    {
+      "name": "NATIONAL FIRE PROTECTION ASSOCIATION",
+      "income": 2590000
+    },
+    {
+      "name": "MASS GENERAL BRIGHAM (FORMERLY KNOWN AS PARTNERS HEALTHCARE)",
+      "income": 2520000
+    },
+    {
+      "name": "VERTEX PHARMACEUTICALS",
+      "income": 2460000
+    },
+    {
+      "name": "MERLIN LABS",
+      "income": 2440000
+    },
+    {
+      "name": "MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY",
+      "income": 2350000
+    },
+    {
+      "name": "AKEBIA THERAPEUTICS, INC.",
+      "income": 2345000
+    },
+    {
+      "name": "OCEAN SPRAY CRANBERRIES",
+      "income": 2280000
+    },
+    {
+      "name": "SHARKNINJA OPERATING LLC",
+      "income": 2280000
+    },
+    {
+      "name": "STEWARD HEALTHCARE SYSTEMS",
+      "income": 2260000
+    },
+    {
+      "name": "GRANITE TELECOMMUNICATIONS",
+      "income": 2250000
+    },
+    {
+      "name": "STATE STREET BANK AND TRUST COMPANY",
+      "income": 2240000
+    },
+    {
+      "name": "PARTNER THERAPEUTICS",
+      "income": 2190000
+    },
+    {
+      "name": "DRAFTKINGS INC.",
+      "income": 2160000
+    },
+    {
+      "name": "AMPLIFON USA",
+      "income": 2150000
+    },
+    {
+      "name": "CLEAN AIR TASK FORCE",
+      "income": 2125000
+    },
+    {
+      "name": "CIRCLE",
+      "income": 2110000
+    },
+    {
+      "name": "CABOT CORPORATION",
+      "income": 2105000
+    },
+    {
+      "name": "SHORELIGHT EDUCATION",
+      "income": 2094000
+    },
+    {
+      "name": "IRON MOUNTAIN INFORMATION MANAGEMENT, LLC",
+      "income": 2040000
+    },
+    {
+      "name": "FOUNDATION MEDICINE",
+      "income": 2030000
+    },
+    {
+      "name": "BEONE MEDICINES USA, INC. (FKA BEIGENE USA, INC.)",
+      "income": 1990000
+    },
+    {
+      "name": "AQUABOUNTY TECHNOLOGIES, INC.",
+      "income": 1960000
+    },
+    {
+      "name": "ORCHARD THERAPEUTICS NORTH AMERICA",
+      "income": 1960000
+    },
+    {
+      "name": "NATIXIS IM",
+      "income": 1955000
+    },
+    {
+      "name": "BLUE CROSS BLUE SHIELD OF MASSACHUSETTS",
+      "income": 1950000
+    },
+    {
+      "name": "TUFTS UNIVERSITY",
+      "income": 1940000
+    },
+    {
+      "name": "ABIOMED INC",
+      "income": 1940000
+    },
+    {
+      "name": "BOSTON MEDICAL CENTER",
+      "income": 1930000
+    },
+    {
+      "name": "GRANITE TELECOMMUNICATIONS, LLC",
+      "income": 1890000
+    },
+    {
+      "name": "AMAG PHARMACEUTICAL",
+      "income": 1875000
+    },
+    {
+      "name": "VINEYARD WIND, LLC",
+      "income": 1860000
+    },
+    {
+      "name": "PCI SECURITY STANDARDS COUNCIL, LLC",
+      "income": 1810000
+    },
+    {
+      "name": "CULTURAL CARE AU PAIR",
+      "income": 1810000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "HCR",
+      "income": 146190096
+    },
+    {
+      "code": "MMM",
+      "income": 72227120
+    },
+    {
+      "code": "BUD",
+      "income": 72136875
+    },
+    {
+      "code": "TAX",
+      "income": 61033525
+    },
+    {
+      "code": "DEF",
+      "income": 50494550
+    },
+    {
+      "code": "ENG",
+      "income": 35606750
+    },
+    {
+      "code": "FIN",
+      "income": 21517500
+    },
+    {
+      "code": "TRD",
+      "income": 18588000
+    },
+    {
+      "code": "MED",
+      "income": 18019750
+    },
+    {
+      "code": "EDU",
+      "income": 16410674.81
+    },
+    {
+      "code": "ENV",
+      "income": 15790000
+    },
+    {
+      "code": "SCI",
+      "income": 15765000
+    },
+    {
+      "code": "TEC",
+      "income": 15550922
+    },
+    {
+      "code": "TRA",
+      "income": 15280500
+    },
+    {
+      "code": "HOM",
+      "income": 14095000
+    },
+    {
+      "code": "AGR",
+      "income": 12025750
+    },
+    {
+      "code": "PHA",
+      "income": 10915000
+    },
+    {
+      "code": "MAN",
+      "income": 10193016
+    },
+    {
+      "code": "INS",
+      "income": 8602500
+    },
+    {
+      "code": "LBR",
+      "income": 8367000
+    }
+  ],
+  "perCapita": 108.46,
+  "population": 7001399,
+  "nationalRank": 7,
+  "perCapitaRank": 5
+}

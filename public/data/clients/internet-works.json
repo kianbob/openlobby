@@ -1,1 +1,74 @@
-{"id":207797,"name":"INTERNET WORKS","slug":"internet-works","state":"DC","description":"Coalition representing a diverse set of internet companies in the content moderation debat","totalSpending":1550000,"filings":16,"yearlySpending":[{"year":2020,"income":60000},{"year":2021,"income":360000},{"year":2022,"income":430000},{"year":2023,"income":440000},{"year":2024,"income":260000}],"firms":["FRANKLIN SQUARE GROUP, LLC"],"lobbyists":["MATTHEW TANIELIAN","JOSHUA ACKIL","KARA CALVERT CAMPBELL","BRIAN PETERS","BRIAN WORTH","SARAH BETH JANSEN","TROY PERRY","JESSICA MARTINEZ","WESLEY MCCLELLAND","KEVIN CUMMINS","ROLAND LITTERST"],"issues":["CPI",null],"sampleDescriptions":["issues related to the content moderation debate","Issues related to content moderation on the internet; Section 230 of the Communications Decency Act","Issues related to content moderation on the internet; \nSection 230 of the Communications Decency Act","Issues related to content moderation on the internet; Section 230 of the Communications Decency Act; S. 1409, Kids Online Safety Act; S. 1418, Children and Teens Online Privacy Protection Act (COPPA 2.0); S. 1207, Eliminating Abusive and Rampant Neglect of Interactive Technologies (EARN IT) Act of 2023; S. 1199, Strengthening Transparency and Obligations to Protect Children Suffering from Abuse and Mistreatment Act of 2023 (STOP CSAM Act); H.R. 5082/S. 474, Revising Existing Procedures On Reporting via Technology (REPORT) Act","Issues related to content moderation on the internet; Section 230 of the Communications Decency Act; S. 1409/H.R. 7891, Kids Online Safety Act; S. 1418/H.R. 7890, Children and Teens Online Privacy Protection Act (COPPA 2.0); S. 1207, Eliminating Abusive and Rampant Neglect of Interactive Technologies (EARN IT) Act of 2023; S. 1199, Strengthening Transparency and Obligations to Protect Children Suffering from Abuse and Mistreatment Act of 2023 (STOP CSAM Act); H.R. 5082/S. 474, Revising Existing Procedures On Reporting via Technology (REPORT) Act; S. 4569/H.R. 8989, TAKE IT DOWN Act"],"years":[2020,2021,2022,2023,2024]}
+{
+  "id": 207797,
+  "name": "INTERNET WORKS",
+  "slug": "internet-works",
+  "state": "DC",
+  "description": "Coalition representing a diverse set of internet companies in the content moderation debat",
+  "totalSpending": 1550000,
+  "filings": 16,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 60000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 430000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 260000
+    }
+  ],
+  "firms": [
+    "FRANKLIN SQUARE GROUP, LLC"
+  ],
+  "lobbyists": [
+    "MATTHEW TANIELIAN",
+    "JOSHUA ACKIL",
+    "KARA CALVERT CAMPBELL",
+    "BRIAN PETERS",
+    "BRIAN WORTH",
+    "SARAH BETH JANSEN",
+    "TROY PERRY",
+    "JESSICA MARTINEZ",
+    "WESLEY MCCLELLAND",
+    "KEVIN CUMMINS",
+    "ROLAND LITTERST"
+  ],
+  "issues": [
+    "CPI",
+    null
+  ],
+  "sampleDescriptions": [
+    "issues related to the content moderation debate",
+    "Issues related to content moderation on the internet; Section 230 of the Communications Decency Act",
+    "Issues related to content moderation on the internet; \nSection 230 of the Communications Decency Act",
+    "Issues related to content moderation on the internet; Section 230 of the Communications Decency Act; S. 1409, Kids Online Safety Act; S. 1418, Children and Teens Online Privacy Protection Act (COPPA 2.0); S. 1207, Eliminating Abusive and Rampant Neglect of Interactive Technologies (EARN IT) Act of 2023; S. 1199, Strengthening Transparency and Obligations to Protect Children Suffering from Abuse and Mistreatment Act of 2023 (STOP CSAM Act); H.R. 5082/S. 474, Revising Existing Procedures On Reporting via Technology (REPORT) Act",
+    "Issues related to content moderation on the internet; Section 230 of the Communications Decency Act; S. 1409/H.R. 7891, Kids Online Safety Act; S. 1418/H.R. 7890, Children and Teens Online Privacy Protection Act (COPPA 2.0); S. 1207, Eliminating Abusive and Rampant Neglect of Interactive Technologies (EARN IT) Act of 2023; S. 1199, Strengthening Transparency and Obligations to Protect Children Suffering from Abuse and Mistreatment Act of 2023 (STOP CSAM Act); H.R. 5082/S. 474, Revising Existing Procedures On Reporting via Technology (REPORT) Act; S. 4569/H.R. 8989, TAKE IT DOWN Act"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": 333,
+  "trajectory": "exploding",
+  "yearsActive": 5,
+  "avgAnnualSpending": 310000,
+  "peakYear": 2023,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

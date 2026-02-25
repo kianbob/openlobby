@@ -1,1 +1,70 @@
-{"id":210354,"name":"DISCOVERY COMMUNICATIONS, LLC","slug":"discovery-communications-llc","state":"NY","description":"Media company.","totalSpending":2060000,"filings":18,"yearlySpending":[{"year":2021,"income":260000},{"year":2022,"income":480000},{"year":2023,"income":480000},{"year":2024,"income":360000},{"year":2025,"income":480000}],"firms":["TIBER CREEK GROUP"],"lobbyists":["JENNIFER OLSON","TIMOTHY MOLINO","SEAN RICHARDSON","JAMES HEIMBACH","JEFFREY SHAPIRO","JOSEPH RUSSO"],"issues":["LBR","FOR","COM",null],"sampleDescriptions":["Issues related to competition in the media marketplace.","Issues related to media freedom in Poland.","Issues related to the media.","Issues in the media marketplace.","Issues related to the media marketplace in Mexico."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 210354,
+  "name": "DISCOVERY COMMUNICATIONS, LLC",
+  "slug": "discovery-communications-llc",
+  "state": "NY",
+  "description": "Media company.",
+  "totalSpending": 2060000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 260000
+    },
+    {
+      "year": 2022,
+      "income": 480000
+    },
+    {
+      "year": 2023,
+      "income": 480000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 480000
+    }
+  ],
+  "firms": [
+    "TIBER CREEK GROUP"
+  ],
+  "lobbyists": [
+    "JENNIFER OLSON",
+    "TIMOTHY MOLINO",
+    "SEAN RICHARDSON",
+    "JAMES HEIMBACH",
+    "JEFFREY SHAPIRO",
+    "JOSEPH RUSSO"
+  ],
+  "issues": [
+    "LBR",
+    "FOR",
+    "COM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to competition in the media marketplace.",
+    "Issues related to media freedom in Poland.",
+    "Issues related to the media.",
+    "Issues in the media marketplace.",
+    "Issues related to the media marketplace in Mexico."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 85,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 412000,
+  "peakYear": 2022,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 3
+}

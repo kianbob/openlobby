@@ -1,1 +1,85 @@
-{"id":125574,"name":"GUIDEHOUSE LLP","slug":"guidehouse-llp","state":"DC","description":"Consulting Firm","totalSpending":2070000,"filings":25,"yearlySpending":[{"year":2019,"income":240000},{"year":2020,"income":320000},{"year":2021,"income":240000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":360000},{"year":2025,"income":270000}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["THOMAS DAVIS","JIM DAVIS","DANIEL SENNOTT","MISHA LEHRER","MICHAEL FRIEDBERG"],"issues":["DEF","LBR",null,"VET","TRA"],"sampleDescriptions":["National Defense Authorization Act amendments.","Section 3601 of the CARES Act.","Section 3601 of the CARES Act; audit readiness.","FY 2025 National Defense Authorization Act.","Healthcare modernization and Electronic Health Record Modernization.","Healthcare modernization and Electronic Health Record Modernization; Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act.","Transportation procurement issues.","FY 2026 National Defense Authorization Act.","Healthcare modernization and Electronic Health Record Modernization; Implementation of Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act.","Transportation procurement issues; contracting issues."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 125574,
+  "name": "GUIDEHOUSE LLP",
+  "slug": "guidehouse-llp",
+  "state": "DC",
+  "description": "Consulting Firm",
+  "totalSpending": 2070000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "HOLLAND & KNIGHT LLP"
+  ],
+  "lobbyists": [
+    "THOMAS DAVIS",
+    "JIM DAVIS",
+    "DANIEL SENNOTT",
+    "MISHA LEHRER",
+    "MICHAEL FRIEDBERG"
+  ],
+  "issues": [
+    "DEF",
+    "LBR",
+    null,
+    "VET",
+    "TRA"
+  ],
+  "sampleDescriptions": [
+    "National Defense Authorization Act amendments.",
+    "Section 3601 of the CARES Act.",
+    "Section 3601 of the CARES Act; audit readiness.",
+    "FY 2025 National Defense Authorization Act.",
+    "Healthcare modernization and Electronic Health Record Modernization.",
+    "Healthcare modernization and Electronic Health Record Modernization; Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act.",
+    "Transportation procurement issues.",
+    "FY 2026 National Defense Authorization Act.",
+    "Healthcare modernization and Electronic Health Record Modernization; Implementation of Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act.",
+    "Transportation procurement issues; contracting issues."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 13,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 295714,
+  "peakYear": 2024,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 4
+}

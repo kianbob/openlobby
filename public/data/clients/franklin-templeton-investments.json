@@ -1,1 +1,83 @@
-{"id":163070,"name":"FRANKLIN TEMPLETON INVESTMENTS","slug":"franklin-templeton-investments","state":"FL","description":"Global Investment Management","totalSpending":1680000,"filings":28,"yearlySpending":[{"year":2018,"income":300000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":120000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":120000}],"firms":["CAPITOL TAX PARTNERS, LLP"],"lobbyists":["JOSEPH MIKRUT","CHRISTOPHER JAVENS","WILLIAM DAVIS","KATHERINE MONGE"],"issues":["TAX",null],"sampleDescriptions":["H.R. 1, Bill to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 (bill formerly known as the Tax Cuts and Jobs Act).","International tax issues.","Matters dealing with tax reform and international taxation.","Matters dealing with tax reform and international taxation, H.R. 2617, Consolidated Appropriations Act, 2023.","Matters dealing with corporate and international taxation.","Matters dealing with corporate and international taxation and P.L. 119-21."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 163070,
+  "name": "FRANKLIN TEMPLETON INVESTMENTS",
+  "slug": "franklin-templeton-investments",
+  "state": "FL",
+  "description": "Global Investment Management",
+  "totalSpending": 1680000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 300000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "CAPITOL TAX PARTNERS, LLP"
+  ],
+  "lobbyists": [
+    "JOSEPH MIKRUT",
+    "CHRISTOPHER JAVENS",
+    "WILLIAM DAVIS",
+    "KATHERINE MONGE"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "H.R. 1, Bill to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 (bill formerly known as the Tax Cuts and Jobs Act).",
+    "International tax issues.",
+    "Matters dealing with tax reform and international taxation.",
+    "Matters dealing with tax reform and international taxation, H.R. 2617, Consolidated Appropriations Act, 2023.",
+    "Matters dealing with corporate and international taxation.",
+    "Matters dealing with corporate and international taxation and P.L. 119-21."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -60,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 210000,
+  "peakYear": 2018,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

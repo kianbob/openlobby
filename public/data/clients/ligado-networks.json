@@ -1,1 +1,61 @@
-{"id":51544,"name":"LIGADO NETWORKS","slug":"ligado-networks","state":"VA","description":"Defense Telecommunications","totalSpending":1450000,"filings":15,"yearlySpending":[{"year":2022,"income":280000},{"year":2023,"income":420000},{"year":2024,"income":525000},{"year":2025,"income":225000}],"firms":["CR FEDERAL"],"lobbyists":["SUSAN BUTLER","JOHN LUNDY","TY MABRY","PATRICK THOMPSON"],"issues":["DEF","TEC",null],"sampleDescriptions":["Issues related to mid-band wireless spectrum, 5G Networks Services and Spectrum Usage Rights","Defense","Telecommunications","Telecommunications Issues related to mid-band wireless spectrum, 5G Networks Services and Spectrum Usage Rights"],"years":[2022,2023,2024,2025]}
+{
+  "id": 51544,
+  "name": "LIGADO NETWORKS",
+  "slug": "ligado-networks",
+  "state": "VA",
+  "description": "Defense Telecommunications",
+  "totalSpending": 1450000,
+  "filings": 15,
+  "yearlySpending": [
+    {
+      "year": 2022,
+      "income": 280000
+    },
+    {
+      "year": 2023,
+      "income": 420000
+    },
+    {
+      "year": 2024,
+      "income": 525000
+    },
+    {
+      "year": 2025,
+      "income": 225000
+    }
+  ],
+  "firms": [
+    "CR FEDERAL"
+  ],
+  "lobbyists": [
+    "SUSAN BUTLER",
+    "JOHN LUNDY",
+    "TY MABRY",
+    "PATRICK THOMPSON"
+  ],
+  "issues": [
+    "DEF",
+    "TEC",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to mid-band wireless spectrum, 5G Networks Services and Spectrum Usage Rights",
+    "Defense",
+    "Telecommunications",
+    "Telecommunications Issues related to mid-band wireless spectrum, 5G Networks Services and Spectrum Usage Rights"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -20,
+  "trajectory": "stable",
+  "yearsActive": 4,
+  "avgAnnualSpending": 362500,
+  "peakYear": 2024,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 2
+}

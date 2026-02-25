@@ -1,1 +1,80 @@
-{"id":105715,"name":"EMPIRE STATE DEVELOPMENT CORPORATION","slug":"empire-state-development-corporation","state":"NY","description":"Economic development agency for the State of New York","totalSpending":2420000,"filings":29,"yearlySpending":[{"year":2018,"income":330000},{"year":2019,"income":270000},{"year":2020,"income":360000},{"year":2021,"income":180000},{"year":2022,"income":320000},{"year":2023,"income":280000},{"year":2024,"income":320000},{"year":2025,"income":360000}],"firms":["BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ"],"lobbyists":["STEVEN HYJEK","BRIAN SCHAFFNER"],"issues":["DEF",null],"sampleDescriptions":["Military Base Retention","Base Retention.","Base Retention / FY 21 Defense / Military Construction Appropriations and Authorization Legislation","Base Retention/FY22 Defense/Military Construction Appropriations and Authorization Legislation","Base Retention/FY23 Defense/Military Construction Appropriations and Authorization Legislation","Base Retention/FY25 Defense/Military Construction Appropriations and Authorization Legislation"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 105715,
+  "name": "EMPIRE STATE DEVELOPMENT CORPORATION",
+  "slug": "empire-state-development-corporation",
+  "state": "NY",
+  "description": "Economic development agency for the State of New York",
+  "totalSpending": 2420000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 330000
+    },
+    {
+      "year": 2019,
+      "income": 270000
+    },
+    {
+      "year": 2020,
+      "income": 360000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ"
+  ],
+  "lobbyists": [
+    "STEVEN HYJEK",
+    "BRIAN SCHAFFNER"
+  ],
+  "issues": [
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "Military Base Retention",
+    "Base Retention.",
+    "Base Retention / FY 21 Defense / Military Construction Appropriations and Authorization Legislation",
+    "Base Retention/FY22 Defense/Military Construction Appropriations and Authorization Legislation",
+    "Base Retention/FY23 Defense/Military Construction Appropriations and Authorization Legislation",
+    "Base Retention/FY25 Defense/Military Construction Appropriations and Authorization Legislation"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 9,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 302500,
+  "peakYear": 2020,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 1
+}

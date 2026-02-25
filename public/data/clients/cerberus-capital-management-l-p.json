@@ -1,1 +1,100 @@
-{"id":209358,"name":"CERBERUS CAPITAL MANAGEMENT, L.P.","slug":"cerberus-capital-management-l-p","state":"NY","description":"Private equity firm","totalSpending":3140000,"filings":18,"yearlySpending":[{"year":2021,"income":565000},{"year":2022,"income":760000},{"year":2023,"income":760000},{"year":2024,"income":570000},{"year":2025,"income":485000}],"firms":["THE MADISON GROUP"],"lobbyists":["MARCUS MASON","ARI STORCH","DAVID YOUNGBLOOD","ROBB WATTERS","MICHAEL PLATT","TIFFANY SHACKELFORD","GLADYS BARCENA","CHYNA MELTON"],"issues":["FIN","TEC","TAX","AVI","DEF","BUD","DIS","HOU",null,"AGR","LBR","FOO","RES","HCR","NAT","ENG","MED"],"sampleDescriptions":["Issues pertaining to legislation and policies impacting private equity.","Issues pertaining to Ligado Networks and National Defense Authorization Act.","Issues pertaining to private equity, asset management, real estate, and business finance","H.R. 5376 Build Back Better Act","Issues pertaining to telecommunications, Open Ran (ORAN) and IOT, spectrum policy.","Issues pertaining to hypersonic technologies","Issues pertaining to hypersonic technologies and the National Defense Authorization Act","Issues pertaining to telecommunications, Open Ran (ORAN) and IOT, spectrum policy and the 2022 NDAA","Issues pertaining to disaster relief assistance and recovery.","Issues related to briefing the House Committee on Financial Services Subcommittee on Oversight and Investigations.","Issues pertaining to telecommunications, Open Ran (ORAN) and IOT, spectrum policy; H.R.4634/S.2166 -RETAIN GPS and Satellite Communications Act of 2021","rental housing issues related to briefing the House Committee on Financial Services Subcommittee on Oversight and Investigations.","Issues pertaining to telecommunications, Spectrum Innovation Act; Open Ran (ORAN) and IOT, and spectrum policy.","Issues pertaining to hypersonics technologies; NDAA for Fiscal Year 2024 and Defense Appropriations FY2024","Issues pertaining to hypersonic technologies, Open RAN (ORAN), Spectrum Policy, National Defense Authorization Act for Fiscal Year 2024; H.R. - Department of Defense Appropriations Act, 2024","Issues pertaining to private equity, asset management, real estate, and business finance.","Issues pertaining to housing market and affordable housing.","Issues pertaining to agriculture and food. Outreach relating to the merger of Kroger and Albertsons.","Issues pertaining to agriculture, food and retail. Outreach relating to the merger of Kroger and Albertsons.","Issues pertaining to food, agriculture, retail. Outreach relating to the merger of Kroger and Albertsons"],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 209358,
+  "name": "CERBERUS CAPITAL MANAGEMENT, L.P.",
+  "slug": "cerberus-capital-management-l-p",
+  "state": "NY",
+  "description": "Private equity firm",
+  "totalSpending": 3140000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 565000
+    },
+    {
+      "year": 2022,
+      "income": 760000
+    },
+    {
+      "year": 2023,
+      "income": 760000
+    },
+    {
+      "year": 2024,
+      "income": 570000
+    },
+    {
+      "year": 2025,
+      "income": 485000
+    }
+  ],
+  "firms": [
+    "THE MADISON GROUP"
+  ],
+  "lobbyists": [
+    "MARCUS MASON",
+    "ARI STORCH",
+    "DAVID YOUNGBLOOD",
+    "ROBB WATTERS",
+    "MICHAEL PLATT",
+    "TIFFANY SHACKELFORD",
+    "GLADYS BARCENA",
+    "CHYNA MELTON"
+  ],
+  "issues": [
+    "FIN",
+    "TEC",
+    "TAX",
+    "AVI",
+    "DEF",
+    "BUD",
+    "DIS",
+    "HOU",
+    null,
+    "AGR",
+    "LBR",
+    "FOO",
+    "RES",
+    "HCR",
+    "NAT",
+    "ENG",
+    "MED"
+  ],
+  "sampleDescriptions": [
+    "Issues pertaining to legislation and policies impacting private equity.",
+    "Issues pertaining to Ligado Networks and National Defense Authorization Act.",
+    "Issues pertaining to private equity, asset management, real estate, and business finance",
+    "H.R. 5376 Build Back Better Act",
+    "Issues pertaining to telecommunications, Open Ran (ORAN) and IOT, spectrum policy.",
+    "Issues pertaining to hypersonic technologies",
+    "Issues pertaining to hypersonic technologies and the National Defense Authorization Act",
+    "Issues pertaining to telecommunications, Open Ran (ORAN) and IOT, spectrum policy and the 2022 NDAA",
+    "Issues pertaining to disaster relief assistance and recovery.",
+    "Issues related to briefing the House Committee on Financial Services Subcommittee on Oversight and Investigations.",
+    "Issues pertaining to telecommunications, Open Ran (ORAN) and IOT, spectrum policy; H.R.4634/S.2166 -RETAIN GPS and Satellite Communications Act of 2021",
+    "rental housing issues related to briefing the House Committee on Financial Services Subcommittee on Oversight and Investigations.",
+    "Issues pertaining to telecommunications, Spectrum Innovation Act; Open Ran (ORAN) and IOT, and spectrum policy.",
+    "Issues pertaining to hypersonics technologies; NDAA for Fiscal Year 2024 and Defense Appropriations FY2024",
+    "Issues pertaining to hypersonic technologies, Open RAN (ORAN), Spectrum Policy, National Defense Authorization Act for Fiscal Year 2024; H.R. - Department of Defense Appropriations Act, 2024",
+    "Issues pertaining to private equity, asset management, real estate, and business finance.",
+    "Issues pertaining to housing market and affordable housing.",
+    "Issues pertaining to agriculture and food. Outreach relating to the merger of Kroger and Albertsons.",
+    "Issues pertaining to agriculture, food and retail. Outreach relating to the merger of Kroger and Albertsons.",
+    "Issues pertaining to food, agriculture, retail. Outreach relating to the merger of Kroger and Albertsons"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -14,
+  "trajectory": "stable",
+  "yearsActive": 5,
+  "avgAnnualSpending": 628000,
+  "peakYear": 2022,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 16
+}

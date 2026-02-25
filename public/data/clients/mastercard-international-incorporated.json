@@ -1,1 +1,90 @@
-{"id":143682,"name":"MASTERCARD INTERNATIONAL INCORPORATED","slug":"mastercard-international-incorporated","state":"NY","description":null,"totalSpending":1880000,"filings":32,"yearlySpending":[{"year":2018,"income":400000},{"year":2019,"income":260000},{"year":2020,"income":320000},{"year":2021,"income":250000},{"year":2022,"income":180000},{"year":2023,"income":140000},{"year":2024,"income":260000},{"year":2025,"income":70000}],"firms":["SIDLEY AUSTIN LLP"],"lobbyists":["JAMES MENDENHALL","JOEL FEINBERG","STANLEY BORIS","MICHAEL BORDEN","ERIC SOLOVY"],"issues":["BAN",null,"TRD"],"sampleDescriptions":["Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets","Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, IP infringement and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets","Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets; issues pertaining to digital identity.","Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets; issues pertaining to digital identity; issues regarding the CARES Act.","Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets; issues pertaining to digital identity; issues regarding antitrust.","Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to digital identity; issues regarding antitrust; and issues pertaining to blockchain technology and cryptocurrency.","Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to digital identity; issues regarding antitrust; and issues pertaining to blockchain technology, cryptocurrency and stablecoins.","Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, privacy, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues pertaining to digital identity; issues pertaining to government benefits; issues pertaining to environmental, social and governance positions; issues pertaining to digital identity; issues regarding antitrust; and issues pertaining to blockchain technology, cryptocurrency and stablecoins.","Issues regarding market access in global markets.","Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, privacy, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to interchange fees; issues pertaining to government benefits; issues pertaining to environmental, social and governance positions; issues pertaining to digital identity; issues regarding antitrust; issues pertaining to blockchain technology, cryptocurrency and stablecoins; and issues pertaining to cardholder authentication.","Issues involving payment cards, payment systems and electronic payment transactions, including in connection with healthcare; issues pertaining to data security, cybersecurity, privacy, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to interchange fees; issues pertaining to government benefits; issues pertaining to environmental, social and governance positions; issues pertaining to digital identity; issues regarding antitrust; issues pertaining to blockchain technology, cryptocurrency and stablecoins; issues pertaining to cardholder authentication.","Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, privacy, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to interchange fees; issues pertaining to government benefits; issues pertaining to digital identity; issues pertaining to antitrust; issues pertaining to blockchain technology, cryptocurrency and stablecoins; issues pertaining to cardholder authentication."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 143682,
+  "name": "MASTERCARD INTERNATIONAL INCORPORATED",
+  "slug": "mastercard-international-incorporated",
+  "state": "NY",
+  "description": null,
+  "totalSpending": 1880000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 400000
+    },
+    {
+      "year": 2019,
+      "income": 260000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 250000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 140000
+    },
+    {
+      "year": 2024,
+      "income": 260000
+    },
+    {
+      "year": 2025,
+      "income": 70000
+    }
+  ],
+  "firms": [
+    "SIDLEY AUSTIN LLP"
+  ],
+  "lobbyists": [
+    "JAMES MENDENHALL",
+    "JOEL FEINBERG",
+    "STANLEY BORIS",
+    "MICHAEL BORDEN",
+    "ERIC SOLOVY"
+  ],
+  "issues": [
+    "BAN",
+    null,
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets",
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, IP infringement and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets",
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets; issues pertaining to digital identity.",
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets; issues pertaining to digital identity; issues regarding the CARES Act.",
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; and issues regarding market access in global markets; issues pertaining to digital identity; issues regarding antitrust.",
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to digital identity; issues regarding antitrust; and issues pertaining to blockchain technology and cryptocurrency.",
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to digital identity; issues regarding antitrust; and issues pertaining to blockchain technology, cryptocurrency and stablecoins.",
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, privacy, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues pertaining to digital identity; issues pertaining to government benefits; issues pertaining to environmental, social and governance positions; issues pertaining to digital identity; issues regarding antitrust; and issues pertaining to blockchain technology, cryptocurrency and stablecoins.",
+    "Issues regarding market access in global markets.",
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, privacy, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to interchange fees; issues pertaining to government benefits; issues pertaining to environmental, social and governance positions; issues pertaining to digital identity; issues regarding antitrust; issues pertaining to blockchain technology, cryptocurrency and stablecoins; and issues pertaining to cardholder authentication.",
+    "Issues involving payment cards, payment systems and electronic payment transactions, including in connection with healthcare; issues pertaining to data security, cybersecurity, privacy, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to interchange fees; issues pertaining to government benefits; issues pertaining to environmental, social and governance positions; issues pertaining to digital identity; issues regarding antitrust; issues pertaining to blockchain technology, cryptocurrency and stablecoins; issues pertaining to cardholder authentication.",
+    "Issues involving payment cards, payment systems and electronic payment transactions; issues pertaining to data security, cybersecurity, privacy, and financial technology; issues pertaining to anti-money laundering and economic sanctions; issues regarding market access in global markets; issues pertaining to interchange fees; issues pertaining to government benefits; issues pertaining to digital identity; issues pertaining to antitrust; issues pertaining to blockchain technology, cryptocurrency and stablecoins; issues pertaining to cardholder authentication."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -82,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 235000,
+  "peakYear": 2018,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2
+}

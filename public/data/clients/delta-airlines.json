@@ -1,1 +1,105 @@
-{"id":203116,"name":"DELTA AIRLINES","slug":"delta-airlines","state":"DC","description":"Commercial Aviation.","totalSpending":1800000,"filings":27,"yearlySpending":[{"year":2018,"income":20000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":240000}],"firms":["RESOLUTION PUBLIC AFFAIRS, LLC"],"lobbyists":["HEATHER MCHUGH","LEA SULKALA","ELIZABETH STANLEY","ASHLI SCOTT PALMER","MEGHAN TAIRA"],"issues":["FOR","AVI","TRA","TAR","IMM",null,"ENG","BUD","CSP"],"sampleDescriptions":["Support for enhanced oversight and enforcement of US-Qatar agreement regarding State Owned Enterprises in the international aviation space.","Issues related to consumer aviation generally.","Support for confirmation of US DOT nominations generally for the full staffing of DOT.\nSupport for confirmation of Joel Szabat for Assistant Secretary of Transportation for Aviation and International Affairs.","Support for enhanced oversight and enforcement of US-Qatar agreement regarding State Owned Enterprises in the international aviation space.\nSupport for nomination of Keith Krach to be Under Secretary of State (Economic Growth, Energy, and the Environment.)","Support for confirmation of US DOT nominations generally for the full staffing of DOT.","Issues related to consumer aviation generally.\nGeneral aviation-related employment issues.","Issues related to consumer aviation generally.\nIssues related to aviation employment generally","USTR Tariffs","Issues related to the CARES Act and COVID-19 response.\nIssues related to consumer aviation generally.\nIssues related to aviation employment generally","Issues related to the CARES Act and COVID-19 response.\nExtension of Payroll Support Program for aviation industry\nIssues related to consumer aviation generally.\nIssues related to aviation employment generally","Issues affecting airlines, generally","HR 1319, American Rescue Plan -- affecting Payroll Support Program for airlines\nIssues affecting aviation industry, general","Issues affecting aviation industry, generally","Lifting travel restrictions to/from UK and Europe, Canada","Issues affecting aviation industry, generally General Airline Employment Issues Face Mask Policy Enforcement Unruly Passenger Enforcement/No Fly List International Travel Restrictions","Issues affecting aviation industry, generally General Airline Employment Issues Face Mask Policy Enforcement International Travel Restrictions","Issues affecting aviation industry, generally General Airline Employment Issues","Issues affecting aviation industry, generally General Airline Employment Issues Aircraft Issues Related to Certification, Modernization, Noise and Emissions War Risk Insurance","Issues related to aviation, generally. Issues related to the reauthorization of the Federal Aviation Adminstration, generally Issues related to the expansion of flight slots at Ronald Reagan Washington National Airport","Issues related to the development of sustainable aviation fuels, generally."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 203116,
+  "name": "DELTA AIRLINES",
+  "slug": "delta-airlines",
+  "state": "DC",
+  "description": "Commercial Aviation.",
+  "totalSpending": 1800000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 20000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "RESOLUTION PUBLIC AFFAIRS, LLC"
+  ],
+  "lobbyists": [
+    "HEATHER MCHUGH",
+    "LEA SULKALA",
+    "ELIZABETH STANLEY",
+    "ASHLI SCOTT PALMER",
+    "MEGHAN TAIRA"
+  ],
+  "issues": [
+    "FOR",
+    "AVI",
+    "TRA",
+    "TAR",
+    "IMM",
+    null,
+    "ENG",
+    "BUD",
+    "CSP"
+  ],
+  "sampleDescriptions": [
+    "Support for enhanced oversight and enforcement of US-Qatar agreement regarding State Owned Enterprises in the international aviation space.",
+    "Issues related to consumer aviation generally.",
+    "Support for confirmation of US DOT nominations generally for the full staffing of DOT.\nSupport for confirmation of Joel Szabat for Assistant Secretary of Transportation for Aviation and International Affairs.",
+    "Support for enhanced oversight and enforcement of US-Qatar agreement regarding State Owned Enterprises in the international aviation space.\nSupport for nomination of Keith Krach to be Under Secretary of State (Economic Growth, Energy, and the Environment.)",
+    "Support for confirmation of US DOT nominations generally for the full staffing of DOT.",
+    "Issues related to consumer aviation generally.\nGeneral aviation-related employment issues.",
+    "Issues related to consumer aviation generally.\nIssues related to aviation employment generally",
+    "USTR Tariffs",
+    "Issues related to the CARES Act and COVID-19 response.\nIssues related to consumer aviation generally.\nIssues related to aviation employment generally",
+    "Issues related to the CARES Act and COVID-19 response.\nExtension of Payroll Support Program for aviation industry\nIssues related to consumer aviation generally.\nIssues related to aviation employment generally",
+    "Issues affecting airlines, generally",
+    "HR 1319, American Rescue Plan -- affecting Payroll Support Program for airlines\nIssues affecting aviation industry, general",
+    "Issues affecting aviation industry, generally",
+    "Lifting travel restrictions to/from UK and Europe, Canada",
+    "Issues affecting aviation industry, generally General Airline Employment Issues Face Mask Policy Enforcement Unruly Passenger Enforcement/No Fly List International Travel Restrictions",
+    "Issues affecting aviation industry, generally General Airline Employment Issues Face Mask Policy Enforcement International Travel Restrictions",
+    "Issues affecting aviation industry, generally General Airline Employment Issues",
+    "Issues affecting aviation industry, generally General Airline Employment Issues Aircraft Issues Related to Certification, Modernization, Noise and Emissions War Risk Insurance",
+    "Issues related to aviation, generally. Issues related to the reauthorization of the Federal Aviation Adminstration, generally Issues related to the expansion of flight slots at Ronald Reagan Washington National Airport",
+    "Issues related to the development of sustainable aviation fuels, generally."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 1100,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 225000,
+  "peakYear": 2023,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 8,
+  "industry": "technology"
+}

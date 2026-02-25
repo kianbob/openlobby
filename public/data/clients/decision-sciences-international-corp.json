@@ -1,1 +1,98 @@
-{"id":202670,"name":"DECISION SCIENCES INTERNATIONAL CORP","slug":"decision-sciences-international-corp","state":"VA","description":"Advanced security and contraband detection systems provider","totalSpending":1770000,"filings":28,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":290000},{"year":2021,"income":320000},{"year":2022,"income":240000},{"year":2023,"income":270000},{"year":2024,"income":80000},{"year":2025,"income":90000}],"firms":["FEROX STRATEGIES"],"lobbyists":["LUCIA ALONZO","CRISTINA ANTELO","MARK WILLIAMS","KAMAL PATEL","JAMES FITZELLA","MICHAEL TAGGART"],"issues":["HOM","DEF","TRA",null],"sampleDescriptions":["DHS and DOD appropriations and authorization bills, DHS and DOD technology at land ports of entry and military installations","DHS and DOD technology at land ports of entry and military installations\nS.3109 - Department of Homeland Security Appropriations Act, 2019","H.R.6157/S. 3159 - Department of Defense Appropriations Act, 2019\nH.R.5515/S. 2987 - John S. McCain National Defense Authorization Act for Fiscal Year 2019","DHS and DOD technology at land ports of entry and military installations\nH.R. 6776 / S.3109 - Department of Homeland Security Appropriations Act, 2019","DHS, DOE, and DOD technology at land ports of entry, energy facilities, and military installations\nH.R. 6776 / S.3109 - Department of Homeland Security Appropriations Act, 2019","DHS, DOE, and DOD technology at land ports of entry, energy facilities, and military installations\nGeneral issues related to DHS appropriations","General issues related to DOD appropriations and authorization","H.R.2500/S. 1790 - National Defense Authorization Act for Fiscal Year 2020","DHS, DOE, and DOD technology at land ports of entry, energy facilities, and military installations\nH.R.3931/S. 2582 - Department of Homeland Security Appropriations Act, 2020","DHS, DOE, and DOD technology at land ports of entry, energy facilities, and military installations\nDepartment of Homeland Security Appropriations (no bill)\nH.R.5273 - Securing America's Ports Act","DHS technology at land ports of entry\nDepartment of Homeland Security Appropriations (no bill)\nH.R.5273 - Securing America's Ports Act","DHS technology at land ports of entry\nH.R. 7669 - Department of Homeland Security Appropriations Act\nH.R.5273 - Securing America's Ports Act\nH.R.7944/S. 4224 - Southwest Border Security Technology Improvement Act of 2020","DHS technology at land ports of entry\nH.R.133 - Consolidated Appropriations Act, 2021\nH.R.5273 - Securing America's Ports Act\nH.R.7944/S. 4224 - Southwest Border Security Technology Improvement Act of 2020","DHS technology at land ports of entry.","General issues related to Transportation Appropriations.","General issues related to Transportation Appropriations. INVEST in America Act/Infrastructure Investment and Jobs Act (H.R. 3684).","DHS technology at land ports of entry. General issues related to Homeland Appropriations.","General issues related to the deployment of technology at ports of entry."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202670,
+  "name": "DECISION SCIENCES INTERNATIONAL CORP",
+  "slug": "decision-sciences-international-corp",
+  "state": "VA",
+  "description": "Advanced security and contraband detection systems provider",
+  "totalSpending": 1770000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 290000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 270000
+    },
+    {
+      "year": 2024,
+      "income": 80000
+    },
+    {
+      "year": 2025,
+      "income": 90000
+    }
+  ],
+  "firms": [
+    "FEROX STRATEGIES"
+  ],
+  "lobbyists": [
+    "LUCIA ALONZO",
+    "CRISTINA ANTELO",
+    "MARK WILLIAMS",
+    "KAMAL PATEL",
+    "JAMES FITZELLA",
+    "MICHAEL TAGGART"
+  ],
+  "issues": [
+    "HOM",
+    "DEF",
+    "TRA",
+    null
+  ],
+  "sampleDescriptions": [
+    "DHS and DOD appropriations and authorization bills, DHS and DOD technology at land ports of entry and military installations",
+    "DHS and DOD technology at land ports of entry and military installations\nS.3109 - Department of Homeland Security Appropriations Act, 2019",
+    "H.R.6157/S. 3159 - Department of Defense Appropriations Act, 2019\nH.R.5515/S. 2987 - John S. McCain National Defense Authorization Act for Fiscal Year 2019",
+    "DHS and DOD technology at land ports of entry and military installations\nH.R. 6776 / S.3109 - Department of Homeland Security Appropriations Act, 2019",
+    "DHS, DOE, and DOD technology at land ports of entry, energy facilities, and military installations\nH.R. 6776 / S.3109 - Department of Homeland Security Appropriations Act, 2019",
+    "DHS, DOE, and DOD technology at land ports of entry, energy facilities, and military installations\nGeneral issues related to DHS appropriations",
+    "General issues related to DOD appropriations and authorization",
+    "H.R.2500/S. 1790 - National Defense Authorization Act for Fiscal Year 2020",
+    "DHS, DOE, and DOD technology at land ports of entry, energy facilities, and military installations\nH.R.3931/S. 2582 - Department of Homeland Security Appropriations Act, 2020",
+    "DHS, DOE, and DOD technology at land ports of entry, energy facilities, and military installations\nDepartment of Homeland Security Appropriations (no bill)\nH.R.5273 - Securing America's Ports Act",
+    "DHS technology at land ports of entry\nDepartment of Homeland Security Appropriations (no bill)\nH.R.5273 - Securing America's Ports Act",
+    "DHS technology at land ports of entry\nH.R. 7669 - Department of Homeland Security Appropriations Act\nH.R.5273 - Securing America's Ports Act\nH.R.7944/S. 4224 - Southwest Border Security Technology Improvement Act of 2020",
+    "DHS technology at land ports of entry\nH.R.133 - Consolidated Appropriations Act, 2021\nH.R.5273 - Securing America's Ports Act\nH.R.7944/S. 4224 - Southwest Border Security Technology Improvement Act of 2020",
+    "DHS technology at land ports of entry.",
+    "General issues related to Transportation Appropriations.",
+    "General issues related to Transportation Appropriations. INVEST in America Act/Infrastructure Investment and Jobs Act (H.R. 3684).",
+    "DHS technology at land ports of entry. General issues related to Homeland Appropriations.",
+    "General issues related to the deployment of technology at ports of entry."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -62,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 221250,
+  "peakYear": 2021,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 3
+}

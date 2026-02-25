@@ -1,1 +1,131 @@
-{"id":175641,"name":"CHEVRON U.S.A., INC.","slug":"chevron-u-s-a-inc","state":"DC","description":"Energy company","totalSpending":2030000,"filings":29,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":230000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["BRUCE MEHLMAN","DAVID CASTAGNETTI","DEAN ROSEN","DAVID THOMAS","ELISE FINLEY PICKERING","CHARLES WOOTERS","SOHINI GUPTA","SAGE EASTMAN","LAUREN ARONSON","MICHAEL ROBINSON","MICHAEL COLLINS","CONSTANTINE HINGSON","STEVE HARO","HELEN TOLAR","NICHOLE DISTEFANO","MCKENZIE BRICE","PAUL THORNELL","STEPHEN COTE","ALEXANDER PERKINS","VICTORIA FLOOD","ROSEMARY GUTIERREZ","ZACHARY MALLOVE","CAITLIN VAN SANT","LISA GOLDMAN","ALYENE MLINAR","ERICA CHABOT","ANNIE WOLF","NAVEEN PARMAR","JON ADAME","JOSEPH BROWN","EARL FLOOD"],"issues":["FOR","ENG","CAW","FUE","TAX","DEF","CHM","ENV",null,"MAR"],"sampleDescriptions":["Monitor sanctions affecting the oil and gas industry.","Provide counsel on energy-related issues.","Monitor regulations, Congressional Review Acts, and Executive Orders affecting the oil and gas industry.","Monitor bills and possible regulations related to the oil and gas industry.\nReform of Renewable Fuel Standard.","Comprehensive business tax reform.\nImplementation of PL 115-97 (H.R. 1)","Implementation of PL 115-97 (H.R. 1)","Monitor amendments to H.R. 5515/S. 2987 - National Defense Authorization Act.","Monitor regulations and Executive Orders affecting the oil and gas industry.\nMonitor legislation relating to climate change.","Monitor bills and regulations related to the oil and gas industry.\nMonitor action on the Renewable Fuel Standard (RFS).","Monitor implementation of the Tax Cuts and Jobs Act (TCJA); tax extenders.","Monitor all sanctions affecting the oil and gas industry.","Provide counsel on energy-related issues.\nH.R. 3432 - Safer Pipelines Act of 2019","Issues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act; tax extenders.","Monitor legislation relating to per- and polyfluoroalkyl substances.","NDAA - H.R. 2500, S. 1790; Monitor legislation for sanctions provisions affecting the oil and gas industry.","NDAA; Monitor legislation for sanctions provisions affecting the oil and gas industry.","H.R. 3432 - Safer Pipelines Act of 2019\nProvide counsel on energy related issues and monitored all pipeline issues.","NDAA; Monitor legislation for sanctions provisions affecting the oil and gas industry.\nMonitor all issues affecting the oil and gas industry in the National Defense Authorization Act  of 2021.","H.R. 6395 and S. 4049; Monitor legislation for sanctions provisions affecting the oil and gas industry.\nMonitor all issues affecting the oil and gas industry in the National Defense Authorization Act  of 2021.","Monitor legislation related to the extension of 45Q."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 175641,
+  "name": "CHEVRON U.S.A., INC.",
+  "slug": "chevron-u-s-a-inc",
+  "state": "DC",
+  "description": "Energy company",
+  "totalSpending": 2030000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 230000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "MEHLMAN CONSULTING, INC."
+  ],
+  "lobbyists": [
+    "BRUCE MEHLMAN",
+    "DAVID CASTAGNETTI",
+    "DEAN ROSEN",
+    "DAVID THOMAS",
+    "ELISE FINLEY PICKERING",
+    "CHARLES WOOTERS",
+    "SOHINI GUPTA",
+    "SAGE EASTMAN",
+    "LAUREN ARONSON",
+    "MICHAEL ROBINSON",
+    "MICHAEL COLLINS",
+    "CONSTANTINE HINGSON",
+    "STEVE HARO",
+    "HELEN TOLAR",
+    "NICHOLE DISTEFANO",
+    "MCKENZIE BRICE",
+    "PAUL THORNELL",
+    "STEPHEN COTE",
+    "ALEXANDER PERKINS",
+    "VICTORIA FLOOD",
+    "ROSEMARY GUTIERREZ",
+    "ZACHARY MALLOVE",
+    "CAITLIN VAN SANT",
+    "LISA GOLDMAN",
+    "ALYENE MLINAR",
+    "ERICA CHABOT",
+    "ANNIE WOLF",
+    "NAVEEN PARMAR",
+    "JON ADAME",
+    "JOSEPH BROWN",
+    "EARL FLOOD"
+  ],
+  "issues": [
+    "FOR",
+    "ENG",
+    "CAW",
+    "FUE",
+    "TAX",
+    "DEF",
+    "CHM",
+    "ENV",
+    null,
+    "MAR"
+  ],
+  "sampleDescriptions": [
+    "Monitor sanctions affecting the oil and gas industry.",
+    "Provide counsel on energy-related issues.",
+    "Monitor regulations, Congressional Review Acts, and Executive Orders affecting the oil and gas industry.",
+    "Monitor bills and possible regulations related to the oil and gas industry.\nReform of Renewable Fuel Standard.",
+    "Comprehensive business tax reform.\nImplementation of PL 115-97 (H.R. 1)",
+    "Implementation of PL 115-97 (H.R. 1)",
+    "Monitor amendments to H.R. 5515/S. 2987 - National Defense Authorization Act.",
+    "Monitor regulations and Executive Orders affecting the oil and gas industry.\nMonitor legislation relating to climate change.",
+    "Monitor bills and regulations related to the oil and gas industry.\nMonitor action on the Renewable Fuel Standard (RFS).",
+    "Monitor implementation of the Tax Cuts and Jobs Act (TCJA); tax extenders.",
+    "Monitor all sanctions affecting the oil and gas industry.",
+    "Provide counsel on energy-related issues.\nH.R. 3432 - Safer Pipelines Act of 2019",
+    "Issues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act; tax extenders.",
+    "Monitor legislation relating to per- and polyfluoroalkyl substances.",
+    "NDAA - H.R. 2500, S. 1790; Monitor legislation for sanctions provisions affecting the oil and gas industry.",
+    "NDAA; Monitor legislation for sanctions provisions affecting the oil and gas industry.",
+    "H.R. 3432 - Safer Pipelines Act of 2019\nProvide counsel on energy related issues and monitored all pipeline issues.",
+    "NDAA; Monitor legislation for sanctions provisions affecting the oil and gas industry.\nMonitor all issues affecting the oil and gas industry in the National Defense Authorization Act  of 2021.",
+    "H.R. 6395 and S. 4049; Monitor legislation for sanctions provisions affecting the oil and gas industry.\nMonitor all issues affecting the oil and gas industry in the National Defense Authorization Act  of 2021.",
+    "Monitor legislation related to the extension of 45Q."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 60,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 253750,
+  "peakYear": 2023,
+  "lobbyistCount": 31,
+  "firmCount": 1,
+  "issueCount": 9
+}

@@ -1,1 +1,88 @@
-{"id":109143,"name":"MARINETTE MARINE CORPORATION","slug":"marinette-marine-corporation","state":"WI","description":"Military, Coast Guard and commercial shipbuilding","totalSpending":2030000,"filings":28,"yearlySpending":[{"year":2018,"income":375000},{"year":2019,"income":225000},{"year":2020,"income":375000},{"year":2021,"income":300000},{"year":2022,"income":225000},{"year":2023,"income":300000},{"year":2024,"income":230000}],"firms":["BEAU BOULTER LLC"],"lobbyists":["BEAU BOULTER"],"issues":["DEF","BUD","HOM",null,"MAR"],"sampleDescriptions":["Littoral Combat Ship Program, Defense Appropriations Bill, National Defense Authorization Act; FFG(X) competition; Polar Icebreaker competition","Littoral Combat Ship Program\nFFG(X) Program\nFY 2020 NDAA\nFY 2020 Defense Appropriation Bill\nBuy American Provisions in Defense Appropriation bill and NDAA","FFG(X) Program\nFY 2020 NDAA\nFY 2020 Defense Appropriation Bill\nBuy American Provisions in Defense Appropriation bill and NDAA","FFG(X) Program\nFY 2020 NDAA\nFY 2020 Defense Appropriation Bill\nBuy American Provisions in Defense Appropriation bill and NDAA\nGreat Lakes Icebreaker","FFG(X) Program\nGreat Lakes Icebreaker","Great Lakes Icebreaker","FFG(X) Program\nFY 2020 NDAA\nFY 2020 Defense Appropriation Bill\nFY 2021 NDAA H.R. 6395. S. 4049\nBuy American Provisions in Defense Appropriation bill and NDAA\nGreat Lakes Icebreaker","FFG(X) Program\nFY 2021 Defense Appropriation Bill\nFY 2021 NDAA H.R. 6395. S. 4049\nBuy American Provisions in Defense Appropriation bill and NDAA\nGreat Lakes Icebreaker","FFG(X) Program\nFY 2021 Defense Appropriation Bill\nFY 2021 NDAA H.R. 6395. S. 4049\nBuy American Provisions in Defense Appropriation bill and NDAA\nGreat Lakes Icebreaker\nFY 2022 Budget","Budget, appropriations, oversight for Littoral Combat Ship, Constellation Class FrigateGreat Lakes Icebreaker","Constellation Class Frigate","Budget, appropriations, oversight for Littoral Combat Ship, Constellation Class Frigate Great Lakes Icebreaker","Budget, appropriations, Constellation Class Frigate Great Lakes Icebreaker","Frigate ship construction appropriations, inflation relief, Great lakes Icebreaker competition","Appropriations for Frigate and for Glib","Building the frigate for the Navy.","Building the Frigate for the Navy."],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 109143,
+  "name": "MARINETTE MARINE CORPORATION",
+  "slug": "marinette-marine-corporation",
+  "state": "WI",
+  "description": "Military, Coast Guard and commercial shipbuilding",
+  "totalSpending": 2030000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 375000
+    },
+    {
+      "year": 2019,
+      "income": 225000
+    },
+    {
+      "year": 2020,
+      "income": 375000
+    },
+    {
+      "year": 2021,
+      "income": 300000
+    },
+    {
+      "year": 2022,
+      "income": 225000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 230000
+    }
+  ],
+  "firms": [
+    "BEAU BOULTER LLC"
+  ],
+  "lobbyists": [
+    "BEAU BOULTER"
+  ],
+  "issues": [
+    "DEF",
+    "BUD",
+    "HOM",
+    null,
+    "MAR"
+  ],
+  "sampleDescriptions": [
+    "Littoral Combat Ship Program, Defense Appropriations Bill, National Defense Authorization Act; FFG(X) competition; Polar Icebreaker competition",
+    "Littoral Combat Ship Program\nFFG(X) Program\nFY 2020 NDAA\nFY 2020 Defense Appropriation Bill\nBuy American Provisions in Defense Appropriation bill and NDAA",
+    "FFG(X) Program\nFY 2020 NDAA\nFY 2020 Defense Appropriation Bill\nBuy American Provisions in Defense Appropriation bill and NDAA",
+    "FFG(X) Program\nFY 2020 NDAA\nFY 2020 Defense Appropriation Bill\nBuy American Provisions in Defense Appropriation bill and NDAA\nGreat Lakes Icebreaker",
+    "FFG(X) Program\nGreat Lakes Icebreaker",
+    "Great Lakes Icebreaker",
+    "FFG(X) Program\nFY 2020 NDAA\nFY 2020 Defense Appropriation Bill\nFY 2021 NDAA H.R. 6395. S. 4049\nBuy American Provisions in Defense Appropriation bill and NDAA\nGreat Lakes Icebreaker",
+    "FFG(X) Program\nFY 2021 Defense Appropriation Bill\nFY 2021 NDAA H.R. 6395. S. 4049\nBuy American Provisions in Defense Appropriation bill and NDAA\nGreat Lakes Icebreaker",
+    "FFG(X) Program\nFY 2021 Defense Appropriation Bill\nFY 2021 NDAA H.R. 6395. S. 4049\nBuy American Provisions in Defense Appropriation bill and NDAA\nGreat Lakes Icebreaker\nFY 2022 Budget",
+    "Budget, appropriations, oversight for Littoral Combat Ship, Constellation Class FrigateGreat Lakes Icebreaker",
+    "Constellation Class Frigate",
+    "Budget, appropriations, oversight for Littoral Combat Ship, Constellation Class Frigate Great Lakes Icebreaker",
+    "Budget, appropriations, Constellation Class Frigate Great Lakes Icebreaker",
+    "Frigate ship construction appropriations, inflation relief, Great lakes Icebreaker competition",
+    "Appropriations for Frigate and for Glib",
+    "Building the frigate for the Navy.",
+    "Building the Frigate for the Navy."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -39,
+  "trajectory": "reducing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 290000,
+  "peakYear": 2018,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 4
+}

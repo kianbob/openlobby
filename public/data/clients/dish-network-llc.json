@@ -1,1 +1,124 @@
-{"id":175624,"name":"DISH NETWORK, LLC","slug":"dish-network-llc","state":"DC","description":"Direct broadcast satellite service provider","totalSpending":1470000,"filings":26,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":60000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":120000},{"year":2025,"income":210000}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["BRUCE MEHLMAN","DAVID CASTAGNETTI","DEAN ROSEN","DAVID THOMAS","ELISE FINLEY PICKERING","SOHINI GUPTA","CHARLES WOOTERS","SAGE EASTMAN","LAUREN ARONSON","MICHAEL ROBINSON","MICHAEL COLLINS","CONSTANTINE HINGSON","STEVE HARO","HELEN TOLAR","NICHOLE DISTEFANO","MCKENZIE BRICE","PAUL THORNELL","STEPHEN COTE","ALEXANDER PERKINS","VICTORIA FLOOD","ROSEMARY GUTIERREZ","ZACHARY MALLOVE","CAITLIN VAN SANT","ALYENE MLINAR","ERICA CHABOT","NAVEEN PARMAR","ANNIE WOLF","JON ADAME","JOSEPH BROWN"],"issues":["COM","TEC","BUD","DEF",null],"sampleDescriptions":["Monitor legislation and regulations related to the telecommunications industry, including the proposed Sinclair-Tribune merger and its market impacts","Monitor legislation and regulations related to the telecommunications industry, including spectrum policy.","Monitor legislation and regulations related to the telecommunications industry, including the proposed Sinclair-Tribune merger and its market impacts; re-transmission consent issues.","Monitor legislation and regulations related to the telecommunications industry, including proposed mergers; and re-transmission consent issues.","Monitor legislation and regulations related to the telecommunications industry, including proposed mergers and spectrum policy.","Monitor legislation and regulations related to the telecommunications industry, including proposed mergers and re-transmission consent issues.","Monitor legislation and regulations related to the telecommunications industry, including: merger and acquisition activity; spectrum policy; 5G deployment; retransmission consent reform; the STELAR reauthorization.","Monitor legislation and regulations related to the telecommunications industry, including: merger and acquisition activity; spectrum policy; 5G deployment; retransmission consent reform and the STELAR reauthorization (including provisions in H.R. 1865 - Further Consolidated Appropriations Act, 2020; H.R. 5035 - Television Viewer Protection Act of 2019, and H.R. 5140 - Satellite Television Community Protection and Promotion Act of 2019.)","Monitor legislation and regulations related to the video services industry, including retransmission consent reform.","Monitor legislation and regulations related to the wireless industry, including wireless spectrum management, infrastructure, and competition. \n\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136","NDAA FY2021","Monitor legislation and regulations related to the wireless industry, including wireless spectrum management, infrastructure, and competition. \n\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136\n\nPolicies to promote 5G deployment based on American-made technologies leveraging Open RAN standards - S. 3189 (Utilizing Strategic Allied Telecommunications Act), H.R. 6624 (Utilizing Strategic Allied Telecommunications Act of 2020), S. 3905 (Intelligence Authorization Act of FY 2021), S. 4049 (National Defense Authorization Act for FY 2021)","NDAA FY2021; H.R. 6395 & S. 4049.","Monitor legislation and regulations related to the wireless industry, including wireless spectrum management, infrastructure, and competition. \nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136\nPolicies to promote 5G deployment based on American-made technologies leveraging Open RAN standards - S. 3189 (Utilizing Strategic Allied Telecommunications Act), H.R. 6624 (Utilizing Strategic Allied Telecommunications Act of 2020), S. 3905 (Intelligence Authorization Act of FY 2021), S. 4049 (National Defense Authorization Act for FY 2021)\nH.R. 7856 - Intelligence Authorization Act for Fiscal Year 2021","Monitor legislation and regulations related to the video services industry.","Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition.\nPolicies to promote 5G deployment based on technologies leveraging Open RAN standards - S. 3189 (Utilizing Strategic Allied Telecommunications Act), H.R. 6624 (Utilizing Strategic Allied Telecommunications Act of 2020), S. 3905 (Intelligence Authorization Act of FY 2021), S. 4049 (National Defense Authorization Act for FY 2021, H.R.6395 (National Defense Authorization Act for Fiscal Year 2021)\nH.R. 7856 - Intelligence Authorization Act for Fiscal Year 2021\nH.R. 133 - Consolidated Appropriations Act, 2021","Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition.\nPolicies to promote 5G deployment based on technologies leveraging Open RAN standards.\nS. 1260/H.R. 2731 - U.S. Innovation and Competition Act of 2021.\nH.R. 3684 - Infrastructure Investment and Jobs Act.\nH.R. 5376 - Build Back Better Act (5G Tax Proposal).","Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition. Policies to promote 5G deployment based on technologies leveraging Open RAN standards. S. 1260 - U.S. Innovation and Competition Act of 2021. H.R. 4521 - America COMPETES Act of 2022. H.R. 5376 - Build Back Better Act (5G Tax Proposal).","Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition. Policies to promote 5G deployment based on technologies leveraging Open RAN standards. H.R. 4346 - the CHIPS and Science Act of 2022.","Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition. Policies to promote 5G deployment based on technologies leveraging Open RAN standards. Implementation f P.L. 117-167, the CHIPS and Science Act of 2022."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 175624,
+  "name": "DISH NETWORK, LLC",
+  "slug": "dish-network-llc",
+  "state": "DC",
+  "description": "Direct broadcast satellite service provider",
+  "totalSpending": 1470000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 60000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 210000
+    }
+  ],
+  "firms": [
+    "MEHLMAN CONSULTING, INC."
+  ],
+  "lobbyists": [
+    "BRUCE MEHLMAN",
+    "DAVID CASTAGNETTI",
+    "DEAN ROSEN",
+    "DAVID THOMAS",
+    "ELISE FINLEY PICKERING",
+    "SOHINI GUPTA",
+    "CHARLES WOOTERS",
+    "SAGE EASTMAN",
+    "LAUREN ARONSON",
+    "MICHAEL ROBINSON",
+    "MICHAEL COLLINS",
+    "CONSTANTINE HINGSON",
+    "STEVE HARO",
+    "HELEN TOLAR",
+    "NICHOLE DISTEFANO",
+    "MCKENZIE BRICE",
+    "PAUL THORNELL",
+    "STEPHEN COTE",
+    "ALEXANDER PERKINS",
+    "VICTORIA FLOOD",
+    "ROSEMARY GUTIERREZ",
+    "ZACHARY MALLOVE",
+    "CAITLIN VAN SANT",
+    "ALYENE MLINAR",
+    "ERICA CHABOT",
+    "NAVEEN PARMAR",
+    "ANNIE WOLF",
+    "JON ADAME",
+    "JOSEPH BROWN"
+  ],
+  "issues": [
+    "COM",
+    "TEC",
+    "BUD",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "Monitor legislation and regulations related to the telecommunications industry, including the proposed Sinclair-Tribune merger and its market impacts",
+    "Monitor legislation and regulations related to the telecommunications industry, including spectrum policy.",
+    "Monitor legislation and regulations related to the telecommunications industry, including the proposed Sinclair-Tribune merger and its market impacts; re-transmission consent issues.",
+    "Monitor legislation and regulations related to the telecommunications industry, including proposed mergers; and re-transmission consent issues.",
+    "Monitor legislation and regulations related to the telecommunications industry, including proposed mergers and spectrum policy.",
+    "Monitor legislation and regulations related to the telecommunications industry, including proposed mergers and re-transmission consent issues.",
+    "Monitor legislation and regulations related to the telecommunications industry, including: merger and acquisition activity; spectrum policy; 5G deployment; retransmission consent reform; the STELAR reauthorization.",
+    "Monitor legislation and regulations related to the telecommunications industry, including: merger and acquisition activity; spectrum policy; 5G deployment; retransmission consent reform and the STELAR reauthorization (including provisions in H.R. 1865 - Further Consolidated Appropriations Act, 2020; H.R. 5035 - Television Viewer Protection Act of 2019, and H.R. 5140 - Satellite Television Community Protection and Promotion Act of 2019.)",
+    "Monitor legislation and regulations related to the video services industry, including retransmission consent reform.",
+    "Monitor legislation and regulations related to the wireless industry, including wireless spectrum management, infrastructure, and competition. \n\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136",
+    "NDAA FY2021",
+    "Monitor legislation and regulations related to the wireless industry, including wireless spectrum management, infrastructure, and competition. \n\nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136\n\nPolicies to promote 5G deployment based on American-made technologies leveraging Open RAN standards - S. 3189 (Utilizing Strategic Allied Telecommunications Act), H.R. 6624 (Utilizing Strategic Allied Telecommunications Act of 2020), S. 3905 (Intelligence Authorization Act of FY 2021), S. 4049 (National Defense Authorization Act for FY 2021)",
+    "NDAA FY2021; H.R. 6395 & S. 4049.",
+    "Monitor legislation and regulations related to the wireless industry, including wireless spectrum management, infrastructure, and competition. \nH.R. 748, the Coronavirus Aid, Relief, and Economic Security (CARES) Act - Public Law No: 116-136\nPolicies to promote 5G deployment based on American-made technologies leveraging Open RAN standards - S. 3189 (Utilizing Strategic Allied Telecommunications Act), H.R. 6624 (Utilizing Strategic Allied Telecommunications Act of 2020), S. 3905 (Intelligence Authorization Act of FY 2021), S. 4049 (National Defense Authorization Act for FY 2021)\nH.R. 7856 - Intelligence Authorization Act for Fiscal Year 2021",
+    "Monitor legislation and regulations related to the video services industry.",
+    "Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition.\nPolicies to promote 5G deployment based on technologies leveraging Open RAN standards - S. 3189 (Utilizing Strategic Allied Telecommunications Act), H.R. 6624 (Utilizing Strategic Allied Telecommunications Act of 2020), S. 3905 (Intelligence Authorization Act of FY 2021), S. 4049 (National Defense Authorization Act for FY 2021, H.R.6395 (National Defense Authorization Act for Fiscal Year 2021)\nH.R. 7856 - Intelligence Authorization Act for Fiscal Year 2021\nH.R. 133 - Consolidated Appropriations Act, 2021",
+    "Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition.\nPolicies to promote 5G deployment based on technologies leveraging Open RAN standards.\nS. 1260/H.R. 2731 - U.S. Innovation and Competition Act of 2021.\nH.R. 3684 - Infrastructure Investment and Jobs Act.\nH.R. 5376 - Build Back Better Act (5G Tax Proposal).",
+    "Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition. Policies to promote 5G deployment based on technologies leveraging Open RAN standards. S. 1260 - U.S. Innovation and Competition Act of 2021. H.R. 4521 - America COMPETES Act of 2022. H.R. 5376 - Build Back Better Act (5G Tax Proposal).",
+    "Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition. Policies to promote 5G deployment based on technologies leveraging Open RAN standards. H.R. 4346 - the CHIPS and Science Act of 2022.",
+    "Monitor legislation and regulations related to the wireless industry, including wireless technologies, spectrum management, infrastructure, broadband funding, and competition. Policies to promote 5G deployment based on technologies leveraging Open RAN standards. Implementation f P.L. 117-167, the CHIPS and Science Act of 2022."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -12,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 183750,
+  "peakYear": 2018,
+  "lobbyistCount": 29,
+  "firmCount": 1,
+  "issueCount": 4
+}

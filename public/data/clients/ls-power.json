@@ -1,1 +1,102 @@
-{"id":112346,"name":"LS POWER","slug":"ls-power","state":null,"description":null,"totalSpending":1800000,"filings":30,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":240000}],"firms":["CASSIDY & ASSOCIATES, INC."],"lobbyists":["KAI ANDERSON","JANE WISE THOMPSON","KALEB FROEHLICH","RYAN MULVENON","CHARLES BRITTINGHAM","AMELIA JENKINS","JORDAN BERNSTEIN"],"issues":["UTI","ENV","ENG","TAX",null],"sampleDescriptions":["monitoring electricity planning and construction transmission issues, monitoring comprehensive energy bills (S.1460)\nGrid Resiliency Pricing Rule","monitoring climate change and Clean Air Act related legislation and regulation","Climate change related issues; Electricity transmission infrastructure. Clean Air Act rule makings, hydropower incentives","Climate change related issues; Electricity transmission infrastructure. Clean Air Act rule makings","monitoring electricity transmission issues, monitoring comprehensive energy bills (S.1460)\nGrid Resiliency Pricing Rule","Monitoring climate change and Clean Air Act related legislation and regulation monitoring","Monitoring electricity planning and construction transmission issues","Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.  \nLegislation which impacts wholesale electricity markets","Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.  \nLegislation which impacts wholesale electricity markets\nEnergy Storage","Monitoring electricity planning and construction transmission issues\nS.3107 Electric Power Infrastructure Improvement Act\nS.3109 Interregional Transmission Planning Improvement Act of 2019","Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.  \nLegislation which impacts wholesale electricity markets\nEnergy Storage\nAmerican Energy Innovation Act; S. 2657","energy storage, electric vehicles, and transmission.","energy storage, electric vehicles, and transmission.\nS. 2118, Clean Energy for America Act\nS. 1298, Clean Energy for America Act\nH.R. 848, GREEN Act of 2021","Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.\nLegislation which impacts wholesale electricity markets\nEnergy Storage","energy storage, electric vehicles, and transmission.\nS. 2118, Clean Energy for America Act\nS. 1298, Clean Energy for America Act\nH.R. 848, GREEN Act of 2021\nH.R. 5376, Build Back Better Act.","Energy storage, electric vehicles, and transmission.\nS.2118, Clean Energy for America Act\nS.1298, Clean Energy for America Act\nH.R.848, GREEN Act of 2021\nH.R.5376, Build Back Better Act.","Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.\nLegislation which impacts wholesale electricity markets\nEnergy Storage\nH.R.5376, Build Back Better Act","Climate change related issues; Electricity transmission infrastructure. Clean Air Act rule making. Legislation which impacts wholesale electricity markets Energy Storage H.R.5376, Build Back Better Act","Energy storage, electric vehicles, and transmission. S.2118, Clean Energy for America Act S.1298, Clean Energy for America Act H.R.848, GREEN Act of 2021 H.R.5376, Build Back Better Act.","Climate change related issues; Electricity transmission infrastructure. Clean Air Act rule making. Legislation which impacts wholesale electricity markets Energy Storage H.R.5376, Inflation Reduction Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 112346,
+  "name": "LS POWER",
+  "slug": "ls-power",
+  "state": null,
+  "description": null,
+  "totalSpending": 1800000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "CASSIDY & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "KAI ANDERSON",
+    "JANE WISE THOMPSON",
+    "KALEB FROEHLICH",
+    "RYAN MULVENON",
+    "CHARLES BRITTINGHAM",
+    "AMELIA JENKINS",
+    "JORDAN BERNSTEIN"
+  ],
+  "issues": [
+    "UTI",
+    "ENV",
+    "ENG",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "monitoring electricity planning and construction transmission issues, monitoring comprehensive energy bills (S.1460)\nGrid Resiliency Pricing Rule",
+    "monitoring climate change and Clean Air Act related legislation and regulation",
+    "Climate change related issues; Electricity transmission infrastructure. Clean Air Act rule makings, hydropower incentives",
+    "Climate change related issues; Electricity transmission infrastructure. Clean Air Act rule makings",
+    "monitoring electricity transmission issues, monitoring comprehensive energy bills (S.1460)\nGrid Resiliency Pricing Rule",
+    "Monitoring climate change and Clean Air Act related legislation and regulation monitoring",
+    "Monitoring electricity planning and construction transmission issues",
+    "Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.  \nLegislation which impacts wholesale electricity markets",
+    "Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.  \nLegislation which impacts wholesale electricity markets\nEnergy Storage",
+    "Monitoring electricity planning and construction transmission issues\nS.3107 Electric Power Infrastructure Improvement Act\nS.3109 Interregional Transmission Planning Improvement Act of 2019",
+    "Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.  \nLegislation which impacts wholesale electricity markets\nEnergy Storage\nAmerican Energy Innovation Act; S. 2657",
+    "energy storage, electric vehicles, and transmission.",
+    "energy storage, electric vehicles, and transmission.\nS. 2118, Clean Energy for America Act\nS. 1298, Clean Energy for America Act\nH.R. 848, GREEN Act of 2021",
+    "Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.\nLegislation which impacts wholesale electricity markets\nEnergy Storage",
+    "energy storage, electric vehicles, and transmission.\nS. 2118, Clean Energy for America Act\nS. 1298, Clean Energy for America Act\nH.R. 848, GREEN Act of 2021\nH.R. 5376, Build Back Better Act.",
+    "Energy storage, electric vehicles, and transmission.\nS.2118, Clean Energy for America Act\nS.1298, Clean Energy for America Act\nH.R.848, GREEN Act of 2021\nH.R.5376, Build Back Better Act.",
+    "Climate change related issues; Electricity transmission infrastructure.\nClean Air Act rule making.\nLegislation which impacts wholesale electricity markets\nEnergy Storage\nH.R.5376, Build Back Better Act",
+    "Climate change related issues; Electricity transmission infrastructure. Clean Air Act rule making. Legislation which impacts wholesale electricity markets Energy Storage H.R.5376, Build Back Better Act",
+    "Energy storage, electric vehicles, and transmission. S.2118, Clean Energy for America Act S.1298, Clean Energy for America Act H.R.848, GREEN Act of 2021 H.R.5376, Build Back Better Act.",
+    "Climate change related issues; Electricity transmission infrastructure. Clean Air Act rule making. Legislation which impacts wholesale electricity markets Energy Storage H.R.5376, Inflation Reduction Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 225000,
+  "peakYear": 2018,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 4
+}

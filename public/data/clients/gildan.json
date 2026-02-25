@@ -1,1 +1,96 @@
-{"id":186078,"name":"GILDAN","slug":"gildan","state":null,"description":null,"totalSpending":1510000,"filings":30,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":170000},{"year":2021,"income":100000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":240000}],"firms":["SORINI, SAMET & ASSOCIATES, LLC"],"lobbyists":["RONALD SORINI","DANIEL NEUMANN","MEGAN COSTELLO","MATTIE AMAGAI","CHELSEA MURTHA","ALLIE SAUERS","ANDREW SAMET","JACKSON HOUSE"],"issues":["TRD",null,"TAX"],"sampleDescriptions":["North American Free Trade Agreement, Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 3849/S.1943); Foreign Trade Zones; Market access issues in Colombia, 301 Tariffs on China","North American Free Trade Agreement, Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 3849/S.1943); Market access issues in Colombia, 301 Tariffs on China","North American Free Trade Agreement/U.S., Mexico, Canada Agreement; Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 3849/S.1943); Market access issues in Colombia, 301 Tariffs on China","North American Free Trade Agreement (NAFTA)/U.S. Mexico Canada Agreement (USMCA), Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, 301 tariffs on China","North American Free Trade Agreement (NAFTA)/U.S. Mexico Canada Agreement (USMCA), Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia; Tariffs on imports from China under Sec. 301 of the Trade Act of 1974, as amended.","North American Free Trade Agreement (NAFTA)/U.S. Mexico Canada Agreement (USMCA), Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia","North American Free Trade Agreement (NAFTA)/U.S. Mexico Canada Agreement (USMCA), Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, Generalized Systems of Preferences","Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, Generalized Systems of Preferences","Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, Generalized Systems of Preferences, PPE Procurement","Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, Generalized Systems of Preferences, PPE Procurement, Consolidated Appropriations Act of 2020","CAFTA-DR; Haiti HOPE/HELP Renewal","CAFTA-DR; Haiti HOPE/HELP Renewal; Americas Act","CAFTA-DR; Haiti HOPE/HELP Renewal; Americas Act, Section 301 Nicaragua","CAFTA-DR; Haiti HOPE/HELP Renewal; Americas Act; Section 301 Nicaragua; Tariff Policy (IEEPA)","Buying American Cotton Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 186078,
+  "name": "GILDAN",
+  "slug": "gildan",
+  "state": null,
+  "description": null,
+  "totalSpending": 1510000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 170000
+    },
+    {
+      "year": 2021,
+      "income": 100000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "SORINI, SAMET & ASSOCIATES, LLC"
+  ],
+  "lobbyists": [
+    "RONALD SORINI",
+    "DANIEL NEUMANN",
+    "MEGAN COSTELLO",
+    "MATTIE AMAGAI",
+    "CHELSEA MURTHA",
+    "ALLIE SAUERS",
+    "ANDREW SAMET",
+    "JACKSON HOUSE"
+  ],
+  "issues": [
+    "TRD",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "North American Free Trade Agreement, Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 3849/S.1943); Foreign Trade Zones; Market access issues in Colombia, 301 Tariffs on China",
+    "North American Free Trade Agreement, Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 3849/S.1943); Market access issues in Colombia, 301 Tariffs on China",
+    "North American Free Trade Agreement/U.S., Mexico, Canada Agreement; Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 3849/S.1943); Market access issues in Colombia, 301 Tariffs on China",
+    "North American Free Trade Agreement (NAFTA)/U.S. Mexico Canada Agreement (USMCA), Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, 301 tariffs on China",
+    "North American Free Trade Agreement (NAFTA)/U.S. Mexico Canada Agreement (USMCA), Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia; Tariffs on imports from China under Sec. 301 of the Trade Act of 1974, as amended.",
+    "North American Free Trade Agreement (NAFTA)/U.S. Mexico Canada Agreement (USMCA), Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia",
+    "North American Free Trade Agreement (NAFTA)/U.S. Mexico Canada Agreement (USMCA), Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, Generalized Systems of Preferences",
+    "Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, Generalized Systems of Preferences",
+    "Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, Generalized Systems of Preferences, PPE Procurement",
+    "Caribbean Basin Trade Partnership Act (CBTPA) extension (H.R. 991); Market access issues in Colombia, Generalized Systems of Preferences, PPE Procurement, Consolidated Appropriations Act of 2020",
+    "CAFTA-DR; Haiti HOPE/HELP Renewal",
+    "CAFTA-DR; Haiti HOPE/HELP Renewal; Americas Act",
+    "CAFTA-DR; Haiti HOPE/HELP Renewal; Americas Act, Section 301 Nicaragua",
+    "CAFTA-DR; Haiti HOPE/HELP Renewal; Americas Act; Section 301 Nicaragua; Tariff Policy (IEEPA)",
+    "Buying American Cotton Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 188750,
+  "peakYear": 2025,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 2
+}

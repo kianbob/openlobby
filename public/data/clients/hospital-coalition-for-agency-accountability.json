@@ -1,1 +1,60 @@
-{"id":101132,"name":"HOSPITAL COALITION FOR AGENCY ACCOUNTABILITY","slug":"hospital-coalition-for-agency-accountability","state":"DC","description":"Coalition to promote agency accountability","totalSpending":2320000,"filings":10,"yearlySpending":[{"year":2018,"income":780000},{"year":2019,"income":1460000},{"year":2020,"income":80000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["VIC FAZIO","JOHN JONAS","MARTHA KENDRICK","HANS RICKHOFF","ARSHI SIDDIQUI","GEOFF VERHOFF","MATTHEW TUTEN","JOEL JANKOWSKY","DANIEL GRAVER","STEPHANIE WEBSTER","ED PAGANO"],"issues":["MMM","HCR"],"sampleDescriptions":["Medicare DSH-related matters."],"years":[2018,2019,2020]}
+{
+  "id": 101132,
+  "name": "HOSPITAL COALITION FOR AGENCY ACCOUNTABILITY",
+  "slug": "hospital-coalition-for-agency-accountability",
+  "state": "DC",
+  "description": "Coalition to promote agency accountability",
+  "totalSpending": 2320000,
+  "filings": 10,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 780000
+    },
+    {
+      "year": 2019,
+      "income": 1460000
+    },
+    {
+      "year": 2020,
+      "income": 80000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "VIC FAZIO",
+    "JOHN JONAS",
+    "MARTHA KENDRICK",
+    "HANS RICKHOFF",
+    "ARSHI SIDDIQUI",
+    "GEOFF VERHOFF",
+    "MATTHEW TUTEN",
+    "JOEL JANKOWSKY",
+    "DANIEL GRAVER",
+    "STEPHANIE WEBSTER",
+    "ED PAGANO"
+  ],
+  "issues": [
+    "MMM",
+    "HCR"
+  ],
+  "sampleDescriptions": [
+    "Medicare DSH-related matters."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "growthRate": -90,
+  "trajectory": "declining",
+  "yearsActive": 3,
+  "avgAnnualSpending": 773333,
+  "peakYear": 2019,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "healthcare"
+}

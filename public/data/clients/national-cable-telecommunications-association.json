@@ -1,1 +1,78 @@
-{"id":177192,"name":"NATIONAL CABLE TELECOMMUNICATIONS ASSOCIATION","slug":"national-cable-telecommunications-association","state":"DC","description":null,"totalSpending":1410000,"filings":30,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":180000},{"year":2020,"income":135000},{"year":2021,"income":180000},{"year":2022,"income":180000},{"year":2023,"income":180000},{"year":2024,"income":135000},{"year":2025,"income":180000}],"firms":["THE JOSEPH GROUP, LLC"],"lobbyists":["KEVIN JOSEPH"],"issues":["TEC",null],"sampleDescriptions":["Broadband Deployment, Network Neutrality and Spectrum Issues","Broadband Deployment, Network Neutrality, Spectrum and Privacy Issues","Broadband Deployment, Network Neutrality, Universal Service, Spectrum and Privacy Issues","Broadband Deployment, Network Neutrality, Universal Service, Spectrum Issues and privacy issues"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 177192,
+  "name": "NATIONAL CABLE TELECOMMUNICATIONS ASSOCIATION",
+  "slug": "national-cable-telecommunications-association",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 1410000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 135000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 180000
+    },
+    {
+      "year": 2024,
+      "income": 135000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "THE JOSEPH GROUP, LLC"
+  ],
+  "lobbyists": [
+    "KEVIN JOSEPH"
+  ],
+  "issues": [
+    "TEC",
+    null
+  ],
+  "sampleDescriptions": [
+    "Broadband Deployment, Network Neutrality and Spectrum Issues",
+    "Broadband Deployment, Network Neutrality, Spectrum and Privacy Issues",
+    "Broadband Deployment, Network Neutrality, Universal Service, Spectrum and Privacy Issues",
+    "Broadband Deployment, Network Neutrality, Universal Service, Spectrum Issues and privacy issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 176250,
+  "peakYear": 2018,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "telecom"
+}

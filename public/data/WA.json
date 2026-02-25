@@ -1,1 +1,329 @@
-{"abbreviation":"WA","name":"Washington","totalSpending":273948293.28999996,"totalFilings":13710,"clientCount":783,"yearlySpending":[{"year":2018,"income":24245713},{"year":2019,"income":21919634},{"year":2020,"income":25826220},{"year":2021,"income":26180600},{"year":2022,"income":32299361},{"year":2023,"income":73457243.62},{"year":2024,"income":32910373},{"year":2025,"income":37109148.67}],"topClients":[{"name":"OMEROS CORPORATION","income":11535000},{"name":"BREAKTHROUGH ENERGY, LLC","income":4732495.62},{"name":"WESTERN CONFERENCE OF TEAMSTERS PENSION TRUST","income":4470000},{"name":"STARBUCKS CORPORATION","income":3590000},{"name":"BLUE ORIGIN, LLC","income":3365000},{"name":"MICROSOFT CORPORATION","income":3050000},{"name":"BREAKTHROUGH ENERGY ACTION","income":2840000},{"name":"CENTRAL PUGET SOUND REGIONAL TRANSIT","income":2660000},{"name":"AMAZON.COM","income":2520000},{"name":"CONFEDERATED TRIBES OF THE COLVILLE RESERVATION","income":2400000},{"name":"SEATTLE CHILDREN'S HOSPITAL RESEARCH AND FOUNDATION","income":2375000},{"name":"WASHINGTON STATE UNIVERSITY","income":2370000},{"name":"ALASKA AIRLINES","income":2359250},{"name":"LUMMI NATION","income":2160000},{"name":"KING COUNTY","income":2160000},{"name":"PUGET SOUND ENERGY","income":2025500},{"name":"WASHINGTON STATE DEPARTMENT OF TRANSPORTATION","income":1950000},{"name":"PROVIDENCE ST. JOSEPH HEALTH","income":1900000},{"name":"STARBUCKS","income":1890000},{"name":"AMAZON.COM SERVICES LLC","income":1830000},{"name":"SNOQUALMIE TRIBE","income":1828000},{"name":"CITY OF SEATTLE, WA","income":1800000},{"name":"BORDER TRADE ALLIANCE","income":1785000},{"name":"PORT OF SEATTLE","income":1740000},{"name":"AMAZON","income":1710000},{"name":"TERRAPOWER LLC","income":1703000},{"name":"VIGOR INDUSTRIAL, LLC","income":1700000},{"name":"THE NORTHWEST SEAPORT ALLIANCE","income":1650000},{"name":"STARBUCKS COFFEE CORP","income":1550000},{"name":"TRUEBLUE INC","income":1540000},{"name":"FRED HUTCHINSON CANCER CENTER (FORMERLY KNOWN AS SEATTLE CANCER CARE ALLIANCE)","income":1540000},{"name":"COWLITZ INDIAN TRIBE","income":1495000},{"name":"KALISPEL TRIBE OF INDIANS","income":1490000},{"name":"COUPANG, INC.","income":1470000},{"name":"SALTCHUK RESOURCES, INC.","income":1440000},{"name":"PUYALLUP TRIBE","income":1415000},{"name":"REMITLY, INC.","income":1400000},{"name":"CONFEDERATED TRIBES OF THE CHEHALIS RESERVATION","income":1390000},{"name":"SAFE BOATS INTERNATIONAL, LLC","income":1380000},{"name":"AVISTA CORPORATION","income":1375000},{"name":"MUCKLESHOOT INDIAN TRIBE","income":1370000},{"name":"NLIGHT CORPORATION","income":1360000},{"name":"TERRAPOWER, LLC","income":1300000},{"name":"CENTRAL PUGET SOUND REGIONAL TRANSIT AUTHORITY (SOUND TRANSIT)","income":1289600},{"name":"SSA MARINE","income":1280000},{"name":"YAKIMA BASIN JOINT BOARD","income":1230000},{"name":"CHELAN COUNTY PUBLIC UTILITY DISTRICT","income":1223500},{"name":"CITY OF AUBURN","income":1203000},{"name":"FRED HUTCHINSON CANCER CENTER FORMER \"FRED HUTCHISON CANCER RESEARCH CENTER\"","income":1200000},{"name":"SOUND PHYSICIANS (FKA SOUND INPATIENT PHYSICIANS, INC.)","income":1190000}],"topIssues":[{"code":"BUD","income":81427409},{"code":"TRA","income":44194466.67},{"code":"TAX","income":31537120},{"code":"DEF","income":27827500},{"code":"HCR","income":27537620},{"code":"IND","income":20869000},{"code":"ENG","income":20373800},{"code":"MMM","income":18404500},{"code":"ENV","income":17115500},{"code":"NAT","income":16802000},{"code":"TRD","income":14513000},{"code":"LBR","income":14421554},{"code":"MAR","income":14112300},{"code":"HOU","income":11667900},{"code":"CAW","income":9510000},{"code":"AGR","income":8983500},{"code":"AVI","income":8745535},{"code":"SCI","income":8061500},{"code":"HOM","income":7401000},{"code":"ECN","income":7197000}]}
+{
+  "abbreviation": "WA",
+  "name": "Washington",
+  "totalSpending": 273948293.28999996,
+  "totalFilings": 13710,
+  "clientCount": 783,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 24245713
+    },
+    {
+      "year": 2019,
+      "income": 21919634
+    },
+    {
+      "year": 2020,
+      "income": 25826220
+    },
+    {
+      "year": 2021,
+      "income": 26180600
+    },
+    {
+      "year": 2022,
+      "income": 32299361
+    },
+    {
+      "year": 2023,
+      "income": 73457243.62
+    },
+    {
+      "year": 2024,
+      "income": 32910373
+    },
+    {
+      "year": 2025,
+      "income": 37109148.67
+    }
+  ],
+  "topClients": [
+    {
+      "name": "OMEROS CORPORATION",
+      "income": 11535000
+    },
+    {
+      "name": "BREAKTHROUGH ENERGY, LLC",
+      "income": 4732495.62
+    },
+    {
+      "name": "WESTERN CONFERENCE OF TEAMSTERS PENSION TRUST",
+      "income": 4470000
+    },
+    {
+      "name": "STARBUCKS CORPORATION",
+      "income": 3590000
+    },
+    {
+      "name": "BLUE ORIGIN, LLC",
+      "income": 3365000
+    },
+    {
+      "name": "MICROSOFT CORPORATION",
+      "income": 3050000
+    },
+    {
+      "name": "BREAKTHROUGH ENERGY ACTION",
+      "income": 2840000
+    },
+    {
+      "name": "CENTRAL PUGET SOUND REGIONAL TRANSIT",
+      "income": 2660000
+    },
+    {
+      "name": "AMAZON.COM",
+      "income": 2520000
+    },
+    {
+      "name": "CONFEDERATED TRIBES OF THE COLVILLE RESERVATION",
+      "income": 2400000
+    },
+    {
+      "name": "SEATTLE CHILDREN'S HOSPITAL RESEARCH AND FOUNDATION",
+      "income": 2375000
+    },
+    {
+      "name": "WASHINGTON STATE UNIVERSITY",
+      "income": 2370000
+    },
+    {
+      "name": "ALASKA AIRLINES",
+      "income": 2359250
+    },
+    {
+      "name": "LUMMI NATION",
+      "income": 2160000
+    },
+    {
+      "name": "KING COUNTY",
+      "income": 2160000
+    },
+    {
+      "name": "PUGET SOUND ENERGY",
+      "income": 2025500
+    },
+    {
+      "name": "WASHINGTON STATE DEPARTMENT OF TRANSPORTATION",
+      "income": 1950000
+    },
+    {
+      "name": "PROVIDENCE ST. JOSEPH HEALTH",
+      "income": 1900000
+    },
+    {
+      "name": "STARBUCKS",
+      "income": 1890000
+    },
+    {
+      "name": "AMAZON.COM SERVICES LLC",
+      "income": 1830000
+    },
+    {
+      "name": "SNOQUALMIE TRIBE",
+      "income": 1828000
+    },
+    {
+      "name": "CITY OF SEATTLE, WA",
+      "income": 1800000
+    },
+    {
+      "name": "BORDER TRADE ALLIANCE",
+      "income": 1785000
+    },
+    {
+      "name": "PORT OF SEATTLE",
+      "income": 1740000
+    },
+    {
+      "name": "AMAZON",
+      "income": 1710000
+    },
+    {
+      "name": "TERRAPOWER LLC",
+      "income": 1703000
+    },
+    {
+      "name": "VIGOR INDUSTRIAL, LLC",
+      "income": 1700000
+    },
+    {
+      "name": "THE NORTHWEST SEAPORT ALLIANCE",
+      "income": 1650000
+    },
+    {
+      "name": "STARBUCKS COFFEE CORP",
+      "income": 1550000
+    },
+    {
+      "name": "TRUEBLUE INC",
+      "income": 1540000
+    },
+    {
+      "name": "FRED HUTCHINSON CANCER CENTER (FORMERLY KNOWN AS SEATTLE CANCER CARE ALLIANCE)",
+      "income": 1540000
+    },
+    {
+      "name": "COWLITZ INDIAN TRIBE",
+      "income": 1495000
+    },
+    {
+      "name": "KALISPEL TRIBE OF INDIANS",
+      "income": 1490000
+    },
+    {
+      "name": "COUPANG, INC.",
+      "income": 1470000
+    },
+    {
+      "name": "SALTCHUK RESOURCES, INC.",
+      "income": 1440000
+    },
+    {
+      "name": "PUYALLUP TRIBE",
+      "income": 1415000
+    },
+    {
+      "name": "REMITLY, INC.",
+      "income": 1400000
+    },
+    {
+      "name": "CONFEDERATED TRIBES OF THE CHEHALIS RESERVATION",
+      "income": 1390000
+    },
+    {
+      "name": "SAFE BOATS INTERNATIONAL, LLC",
+      "income": 1380000
+    },
+    {
+      "name": "AVISTA CORPORATION",
+      "income": 1375000
+    },
+    {
+      "name": "MUCKLESHOOT INDIAN TRIBE",
+      "income": 1370000
+    },
+    {
+      "name": "NLIGHT CORPORATION",
+      "income": 1360000
+    },
+    {
+      "name": "TERRAPOWER, LLC",
+      "income": 1300000
+    },
+    {
+      "name": "CENTRAL PUGET SOUND REGIONAL TRANSIT AUTHORITY (SOUND TRANSIT)",
+      "income": 1289600
+    },
+    {
+      "name": "SSA MARINE",
+      "income": 1280000
+    },
+    {
+      "name": "YAKIMA BASIN JOINT BOARD",
+      "income": 1230000
+    },
+    {
+      "name": "CHELAN COUNTY PUBLIC UTILITY DISTRICT",
+      "income": 1223500
+    },
+    {
+      "name": "CITY OF AUBURN",
+      "income": 1203000
+    },
+    {
+      "name": "FRED HUTCHINSON CANCER CENTER FORMER \"FRED HUTCHISON CANCER RESEARCH CENTER\"",
+      "income": 1200000
+    },
+    {
+      "name": "SOUND PHYSICIANS (FKA SOUND INPATIENT PHYSICIANS, INC.)",
+      "income": 1190000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 81427409
+    },
+    {
+      "code": "TRA",
+      "income": 44194466.67
+    },
+    {
+      "code": "TAX",
+      "income": 31537120
+    },
+    {
+      "code": "DEF",
+      "income": 27827500
+    },
+    {
+      "code": "HCR",
+      "income": 27537620
+    },
+    {
+      "code": "IND",
+      "income": 20869000
+    },
+    {
+      "code": "ENG",
+      "income": 20373800
+    },
+    {
+      "code": "MMM",
+      "income": 18404500
+    },
+    {
+      "code": "ENV",
+      "income": 17115500
+    },
+    {
+      "code": "NAT",
+      "income": 16802000
+    },
+    {
+      "code": "TRD",
+      "income": 14513000
+    },
+    {
+      "code": "LBR",
+      "income": 14421554
+    },
+    {
+      "code": "MAR",
+      "income": 14112300
+    },
+    {
+      "code": "HOU",
+      "income": 11667900
+    },
+    {
+      "code": "CAW",
+      "income": 9510000
+    },
+    {
+      "code": "AGR",
+      "income": 8983500
+    },
+    {
+      "code": "AVI",
+      "income": 8745535
+    },
+    {
+      "code": "SCI",
+      "income": 8061500
+    },
+    {
+      "code": "HOM",
+      "income": 7401000
+    },
+    {
+      "code": "ECN",
+      "income": 7197000
+    }
+  ],
+  "perCapita": 41.52,
+  "population": 7812880,
+  "nationalRank": 16,
+  "perCapitaRank": 18
+}

@@ -1,1 +1,92 @@
-{"id":195947,"name":"SRC INC.","slug":"src-inc","state":"NY","description":"Defense and Homeland Security contractor","totalSpending":2100000,"filings":30,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":280000},{"year":2020,"income":210000},{"year":2021,"income":280000},{"year":2022,"income":280000},{"year":2023,"income":280000},{"year":2024,"income":280000},{"year":2025,"income":210000}],"firms":["THE ROOSEVELT GROUP"],"lobbyists":["JOHN SIMMONS","CHRISTOPHER GOODE","KATHLEEN FERGUSON","KEVIN FELIX","JAMIE MILLER","MATTHEW HERRMANN","LAWRENCE MEEHAN","ELANA BROITMAN","KYLE KLEIN"],"issues":["TRA","DEF",null],"sampleDescriptions":["FAA Re-authorization, Counter UAS, Bird Strike Radar and FAA UAS Test Range Initiative.","FY19 Defense Appropriations Act and FY19 National Defense Authorization Act re Counter UAS, JUONS, JEONS, Ground Based Sense and Avoid, and UAS Test Site.","FY20 Defense Appropriations Act and FY20 National Defense Authorization Act re Counter UAS, JUONS, JEONS, Ground Based Sense and Avoid, and UAS Test Site.","FY21 Defense Appropriations Act and FY21 National Defense Authorization Act re Counter UAS, JUONS, JEONS, Ground Based Sense and Avoid, and UAS Test Site.","FY22 Defense Appropriations Act and FY22 National Defense Authorization Act re Counter UAS, EWIRB, Ground Based Sense and Avoid","FY23 Defense Appropriations Act and FY23 National Defense Authorization Act re Counter UAS, EWIRB, Ground-Based Sense and Avoid","FY24 Defense Appropriations Act and FY24 National Defense Authorization Act re Counter UAS, EWIRB, Ground Based Sense and Avoid","FY25 Defense Appropriations Act and FY25 National Defense Authorization Act re Counter UAS, EWIRB, Ground Based Sense and Avoid","FY26 Defense Appropriations Act and FY26 National Defense Authorization Act re Counter UAS, EWIRB, Ground Based Sense and Avoid"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 195947,
+  "name": "SRC INC.",
+  "slug": "src-inc",
+  "state": "NY",
+  "description": "Defense and Homeland Security contractor",
+  "totalSpending": 2100000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 280000
+    },
+    {
+      "year": 2020,
+      "income": 210000
+    },
+    {
+      "year": 2021,
+      "income": 280000
+    },
+    {
+      "year": 2022,
+      "income": 280000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 280000
+    },
+    {
+      "year": 2025,
+      "income": 210000
+    }
+  ],
+  "firms": [
+    "THE ROOSEVELT GROUP"
+  ],
+  "lobbyists": [
+    "JOHN SIMMONS",
+    "CHRISTOPHER GOODE",
+    "KATHLEEN FERGUSON",
+    "KEVIN FELIX",
+    "JAMIE MILLER",
+    "MATTHEW HERRMANN",
+    "LAWRENCE MEEHAN",
+    "ELANA BROITMAN",
+    "KYLE KLEIN"
+  ],
+  "issues": [
+    "TRA",
+    "DEF",
+    null
+  ],
+  "sampleDescriptions": [
+    "FAA Re-authorization, Counter UAS, Bird Strike Radar and FAA UAS Test Range Initiative.",
+    "FY19 Defense Appropriations Act and FY19 National Defense Authorization Act re Counter UAS, JUONS, JEONS, Ground Based Sense and Avoid, and UAS Test Site.",
+    "FY20 Defense Appropriations Act and FY20 National Defense Authorization Act re Counter UAS, JUONS, JEONS, Ground Based Sense and Avoid, and UAS Test Site.",
+    "FY21 Defense Appropriations Act and FY21 National Defense Authorization Act re Counter UAS, JUONS, JEONS, Ground Based Sense and Avoid, and UAS Test Site.",
+    "FY22 Defense Appropriations Act and FY22 National Defense Authorization Act re Counter UAS, EWIRB, Ground Based Sense and Avoid",
+    "FY23 Defense Appropriations Act and FY23 National Defense Authorization Act re Counter UAS, EWIRB, Ground-Based Sense and Avoid",
+    "FY24 Defense Appropriations Act and FY24 National Defense Authorization Act re Counter UAS, EWIRB, Ground Based Sense and Avoid",
+    "FY25 Defense Appropriations Act and FY25 National Defense Authorization Act re Counter UAS, EWIRB, Ground Based Sense and Avoid",
+    "FY26 Defense Appropriations Act and FY26 National Defense Authorization Act re Counter UAS, EWIRB, Ground Based Sense and Avoid"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 262500,
+  "peakYear": 2018,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "defense"
+}

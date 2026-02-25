@@ -1,1 +1,52 @@
-{"id":60291,"name":"MEDICAL COUNTERMEASURES COALITION","slug":"medical-countermeasures-coalition","state":"DC","description":"Coalition to better anticipate and respond to emerging public health threats.","totalSpending":1350000,"filings":9,"yearlySpending":[{"year":2024,"income":670000},{"year":2025,"income":680000}],"firms":["TODD STRATEGY GROUP"],"lobbyists":["ERIC BERGREN","KATHERINE COTTON","PAUL EDATTEL","TED LEHMAN","JEFF LUCAS","NICHOLAS UEHLECKE","KIMBERLY LINTHICUM","TAYLOR SEXTON","DANIEL TODD"],"issues":["HCR"],"sampleDescriptions":["Sustainability of the public health emergency medical countermeasure enterprise."],"years":[2024,2025]}
+{
+  "id": 60291,
+  "name": "MEDICAL COUNTERMEASURES COALITION",
+  "slug": "medical-countermeasures-coalition",
+  "state": "DC",
+  "description": "Coalition to better anticipate and respond to emerging public health threats.",
+  "totalSpending": 1350000,
+  "filings": 9,
+  "yearlySpending": [
+    {
+      "year": 2024,
+      "income": 670000
+    },
+    {
+      "year": 2025,
+      "income": 680000
+    }
+  ],
+  "firms": [
+    "TODD STRATEGY GROUP"
+  ],
+  "lobbyists": [
+    "ERIC BERGREN",
+    "KATHERINE COTTON",
+    "PAUL EDATTEL",
+    "TED LEHMAN",
+    "JEFF LUCAS",
+    "NICHOLAS UEHLECKE",
+    "KIMBERLY LINTHICUM",
+    "TAYLOR SEXTON",
+    "DANIEL TODD"
+  ],
+  "issues": [
+    "HCR"
+  ],
+  "sampleDescriptions": [
+    "Sustainability of the public health emergency medical countermeasure enterprise."
+  ],
+  "years": [
+    2024,
+    2025
+  ],
+  "growthRate": 1,
+  "trajectory": "stable",
+  "yearsActive": 2,
+  "avgAnnualSpending": 675000,
+  "peakYear": 2025,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

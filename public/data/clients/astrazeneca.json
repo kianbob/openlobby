@@ -1,1 +1,105 @@
-{"id":127114,"name":"ASTRAZENECA","slug":"astrazeneca","state":null,"description":null,"totalSpending":1800000,"filings":29,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":100000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":360000}],"firms":["TIBER CREEK GROUP"],"lobbyists":["JONATHON JONES","JOHN GONZALEZ","SEAN RICHARDSON","COREY MALMGREN","TIMOTHY ROBINSON","JOHN TWOMEY","DANIEL ZAWITOSKI"],"issues":["HCR","MMM","TRD","CPT","FOR","BUD","ENV",null],"sampleDescriptions":["S. 469 Affordable and Safe Prescription Drug Importation Act, H.R. 1245 Affordable and Safe Prescription Drug Importation Act, issues related to pharmaceutical pricing and transparency. Issues regarding asthma/severe asthma/Family Asthma Act. Issues relating to 340b pricing.","Issues relating to pharmaceutical pricing and transparency, HR 2550 Medicare Telehealth Parity Act of 2017. P.L. 115-123 - Bipartisan Budget Act of 2018, provisions relating to Part D coverage Gap.","Issues related to pharmaceutical pricing and transparency. Issues relating to 340b pricing.","Issues relating to Medicare Part D coverage Gap.","Issues related to pharmaceutical pricing and transparency.","Issues relating to Medicare Part D coverage gap. Issues relating to Part B pricing reform.","Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. Issues related to promoting value based arrangements in Medicare. Proposal to eliminate Medicaid inflationary cap.\nS.474 - SPIKE Act of 2019\nS. 476 - C-Thru Act of 2019\nS.475 -Rx Cap Act of 2019\nS.62 - Empowering Medicare Seniors to Negotiate Drug Prices Act of 2019","Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019.","Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. Issues related to promoting value based arrangements in Medicare. Proposal to eliminate Medicaid inflationary cap. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019.","Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136) -  drug pricing issues.","Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. Issues related to promoting value based arrangements in Medicare. Proposal to eliminate Medicaid inflationary cap. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136) -  drug pricing issues.","Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136) -  drug pricing issues. H.R. 6800, the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act; Issues related to Covid-19 vaccine development","Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. Issues related to promoting value based arrangements in Medicare. Proposal to eliminate Medicaid inflationary cap. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136) -  drug pricing issues. H.R. 6800, the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act","Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. H.R. 6800, the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act; Issues related to Covid-19 vaccine development. Issues relating to the 340B program and drug pricing legislation;  Executive Order on Lowering Drug Prices by Putting America First","Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. Issues related to Covid-19 vaccine development. Executive Order on Lowering Drug Prices by Putting America First. H.R. 133 / PL 116-260 - FY2021 Omnibus and COVID Relief and Response Act; Issues related to the Medicaid Drug Rebate Program","Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. H.R. 133 / PL 116-260 - FY2021 Omnibus and COVID Relief and Response Act; Issues related to the Medicaid Drug Rebate Program","Issues relating to Intellectual Property protections for Covid-19 treatments and vaccines.","Issues related to pharmaceutical pricing and transparency; Issues related to Covid-19 vaccine development.","Issues relating to Medicare Part D Pricing Reform; Issues relating to Medicare Part B pricing reform; Issues related to Part B refunds for discarded amounts of certain single-dose container or single-use package drugs; H.R.1319 - American Rescue Plan Act of 2021, SEC. 9816, SUNSET OF LIMIT ON MAXIMUM REBATE AMOUNT FOR SINGLE SOURCE DRUGS AND INNOVATOR MULTIPLE SOURCE DRUGS.","S. 1435 - Affordable Prescriptions for Patients Act of 2021; H.R. 2873 - Affordable Prescriptions for Patients Through Promoting Competition Act of 2021."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 127114,
+  "name": "ASTRAZENECA",
+  "slug": "astrazeneca",
+  "state": null,
+  "description": null,
+  "totalSpending": 1800000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 100000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "TIBER CREEK GROUP"
+  ],
+  "lobbyists": [
+    "JONATHON JONES",
+    "JOHN GONZALEZ",
+    "SEAN RICHARDSON",
+    "COREY MALMGREN",
+    "TIMOTHY ROBINSON",
+    "JOHN TWOMEY",
+    "DANIEL ZAWITOSKI"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "TRD",
+    "CPT",
+    "FOR",
+    "BUD",
+    "ENV",
+    null
+  ],
+  "sampleDescriptions": [
+    "S. 469 Affordable and Safe Prescription Drug Importation Act, H.R. 1245 Affordable and Safe Prescription Drug Importation Act, issues related to pharmaceutical pricing and transparency. Issues regarding asthma/severe asthma/Family Asthma Act. Issues relating to 340b pricing.",
+    "Issues relating to pharmaceutical pricing and transparency, HR 2550 Medicare Telehealth Parity Act of 2017. P.L. 115-123 - Bipartisan Budget Act of 2018, provisions relating to Part D coverage Gap.",
+    "Issues related to pharmaceutical pricing and transparency. Issues relating to 340b pricing.",
+    "Issues relating to Medicare Part D coverage Gap.",
+    "Issues related to pharmaceutical pricing and transparency.",
+    "Issues relating to Medicare Part D coverage gap. Issues relating to Part B pricing reform.",
+    "Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. Issues related to promoting value based arrangements in Medicare. Proposal to eliminate Medicaid inflationary cap.\nS.474 - SPIKE Act of 2019\nS. 476 - C-Thru Act of 2019\nS.475 -Rx Cap Act of 2019\nS.62 - Empowering Medicare Seniors to Negotiate Drug Prices Act of 2019",
+    "Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019.",
+    "Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. Issues related to promoting value based arrangements in Medicare. Proposal to eliminate Medicaid inflationary cap. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019.",
+    "Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136) -  drug pricing issues.",
+    "Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. Issues related to promoting value based arrangements in Medicare. Proposal to eliminate Medicaid inflationary cap. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136) -  drug pricing issues.",
+    "Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136) -  drug pricing issues. H.R. 6800, the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act; Issues related to Covid-19 vaccine development",
+    "Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. Issues related to promoting value based arrangements in Medicare. Proposal to eliminate Medicaid inflationary cap. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. HR 6201 Families First Coronavirus Response Act (PL 116-27); CARES Act - S. 3548 (PL 116-136) -  drug pricing issues. H.R. 6800, the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act",
+    "Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. H.R. 6800, the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act; Issues related to Covid-19 vaccine development. Issues relating to the 340B program and drug pricing legislation;  Executive Order on Lowering Drug Prices by Putting America First",
+    "Issues related to pharmaceutical pricing and transparency. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. Issues related to Covid-19 vaccine development. Executive Order on Lowering Drug Prices by Putting America First. H.R. 133 / PL 116-260 - FY2021 Omnibus and COVID Relief and Response Act; Issues related to the Medicaid Drug Rebate Program",
+    "Issues relating to Medicare Part D Pricing Reform. Issues relating to Medicare Part B pricing reform. S. 2543 - The Prescription Drug Price Reduction Act. H.R.3 - Lower Drug Costs Now Act of 2019. H.R. 133 / PL 116-260 - FY2021 Omnibus and COVID Relief and Response Act; Issues related to the Medicaid Drug Rebate Program",
+    "Issues relating to Intellectual Property protections for Covid-19 treatments and vaccines.",
+    "Issues related to pharmaceutical pricing and transparency; Issues related to Covid-19 vaccine development.",
+    "Issues relating to Medicare Part D Pricing Reform; Issues relating to Medicare Part B pricing reform; Issues related to Part B refunds for discarded amounts of certain single-dose container or single-use package drugs; H.R.1319 - American Rescue Plan Act of 2021, SEC. 9816, SUNSET OF LIMIT ON MAXIMUM REBATE AMOUNT FOR SINGLE SOURCE DRUGS AND INNOVATOR MULTIPLE SOURCE DRUGS.",
+    "S. 1435 - Affordable Prescriptions for Patients Act of 2021; H.R. 2873 - Affordable Prescriptions for Patients Through Promoting Competition Act of 2021."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 80,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 225000,
+  "peakYear": 2025,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 7
+}

@@ -1,1 +1,108 @@
-{"id":202412,"name":"AMAZON CORPORATE LLC","slug":"amazon-corporate-llc","state":"DC","description":"Electronic Commerce and Cloud Computing","totalSpending":1370000,"filings":26,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":100000},{"year":2020,"income":250000},{"year":2021,"income":100000},{"year":2022,"income":150000},{"year":2023,"income":230000},{"year":2024,"income":180000},{"year":2025,"income":240000}],"firms":["FEDERAL STREET STRATEGIES, LLC"],"lobbyists":["PAUL BRATHWAITE","DERRON PARKS","RENE MUNOZ","ANDREW JONES","VEN NERALLA","NATALIE ARMIJO","KAADE WALLACE","STACEY LEAVANDOSKY","MARGAUX OCHOA"],"issues":["AGR","TRA","EDU","CSP","BUD","IMM","LBR",null,"TAX"],"sampleDescriptions":["Policy issues related to Transportation, Agriculture and Education.","Issues related to transportation infrastructure.","Issues related to the Farm Bill.","Issues related to Higher Education and workforce development.","Issues related to the Farm Bill.  H.R. 2 - Agriculture Improvement Act of 2018","Issues related to privacy.","Issues related to Farm Bill implementation.","Issues related to workforce development.","H.R. 6201 - Families First Coronavirus Response Act - general issues regarding authorizations and appropriations \n\nH.R. 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act - general issues regarding authorizations and appropriations","Issues related to privacy.\n\nS.3431 - INFORM Consumers Act","H.R. 6201 - Families First Coronavirus Response Act - general issues regarding authorizations and appropriations \n\nH.R. 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act - general issues regarding authorizations and appropriations \n\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act - general issues regarding authorization and appropriations","Issues related to Farm Bill implementation.\n\nSnap online implementation.","H.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act - general issues regarding authorization and appropriations","H.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act - general issues regarding authorization and appropriations\n\nH.R. 133 - Consolidated Appropriations Act, 2021 and Division M - Coronavirus Response and Relief Supplemental Appropriations Act, 2021","Issues related to USCIS visas and workforce policies.","FY 2022 Budget Resolution Process.","Issues related to privacy.\n\nThe INFORM Act.","Issues related to workforce development.\n\nIssues related to computer science education.","H.R. 3843 - the Merger Filing Fee Modernization Act of 2021 \nH.R. 3460 - the State Antitrust Enforcement Venue Act of 2021\nH.R. 3849 - the Augmenting Compatibility and Competition by Enabling Service Switching Act of 2021 or the ACCESS Act of 2021\nH.R. 3826 - the Platform Competition and Opportunity Act of 2021 \nH.R. 3816 - the American Choice and Innovation Online Act \nH.R. 3825 - the Ending Platform Monopolies Act","Issues related to Immigration reform; visas and workforce policies."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202412,
+  "name": "AMAZON CORPORATE LLC",
+  "slug": "amazon-corporate-llc",
+  "state": "DC",
+  "description": "Electronic Commerce and Cloud Computing",
+  "totalSpending": 1370000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 120000
+    },
+    {
+      "year": 2019,
+      "income": 100000
+    },
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 100000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 230000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "FEDERAL STREET STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "PAUL BRATHWAITE",
+    "DERRON PARKS",
+    "RENE MUNOZ",
+    "ANDREW JONES",
+    "VEN NERALLA",
+    "NATALIE ARMIJO",
+    "KAADE WALLACE",
+    "STACEY LEAVANDOSKY",
+    "MARGAUX OCHOA"
+  ],
+  "issues": [
+    "AGR",
+    "TRA",
+    "EDU",
+    "CSP",
+    "BUD",
+    "IMM",
+    "LBR",
+    null,
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "Policy issues related to Transportation, Agriculture and Education.",
+    "Issues related to transportation infrastructure.",
+    "Issues related to the Farm Bill.",
+    "Issues related to Higher Education and workforce development.",
+    "Issues related to the Farm Bill.  H.R. 2 - Agriculture Improvement Act of 2018",
+    "Issues related to privacy.",
+    "Issues related to Farm Bill implementation.",
+    "Issues related to workforce development.",
+    "H.R. 6201 - Families First Coronavirus Response Act - general issues regarding authorizations and appropriations \n\nH.R. 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act - general issues regarding authorizations and appropriations",
+    "Issues related to privacy.\n\nS.3431 - INFORM Consumers Act",
+    "H.R. 6201 - Families First Coronavirus Response Act - general issues regarding authorizations and appropriations \n\nH.R. 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act - general issues regarding authorizations and appropriations \n\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act - general issues regarding authorization and appropriations",
+    "Issues related to Farm Bill implementation.\n\nSnap online implementation.",
+    "H.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act - general issues regarding authorization and appropriations",
+    "H.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act - general issues regarding authorization and appropriations\n\nH.R. 133 - Consolidated Appropriations Act, 2021 and Division M - Coronavirus Response and Relief Supplemental Appropriations Act, 2021",
+    "Issues related to USCIS visas and workforce policies.",
+    "FY 2022 Budget Resolution Process.",
+    "Issues related to privacy.\n\nThe INFORM Act.",
+    "Issues related to workforce development.\n\nIssues related to computer science education.",
+    "H.R. 3843 - the Merger Filing Fee Modernization Act of 2021 \nH.R. 3460 - the State Antitrust Enforcement Venue Act of 2021\nH.R. 3849 - the Augmenting Compatibility and Competition by Enabling Service Switching Act of 2021 or the ACCESS Act of 2021\nH.R. 3826 - the Platform Competition and Opportunity Act of 2021 \nH.R. 3816 - the American Choice and Innovation Online Act \nH.R. 3825 - the Ending Platform Monopolies Act",
+    "Issues related to Immigration reform; visas and workforce policies."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 171250,
+  "peakYear": 2020,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 8
+}

@@ -1,1 +1,109 @@
-{"id":102976,"name":"7 ELEVEN, INC.","slug":"7-eleven-inc","state":"TX","description":"Convenience stores.","totalSpending":1630000,"filings":30,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":230000},{"year":2024,"income":300000},{"year":2025,"income":200000}],"firms":["ACG ADVOCACY"],"lobbyists":["DAVID URBAN","MARY O'DEA AHEARN ALLEN","JULIE PHILP","MANUS COONEY","ROBERTO FIERRO","PATRICK GRANT","PREETI TURPUSEEMA","SEAN BYRNE","SARAH KOHN","ZACHARY SCHILLER"],"issues":["FOO","FUE","IMM","LBR","TOB","SMB","ENG","FIN",null],"sampleDescriptions":["Food Labeling.","Renewable Fuel Standards.","Immigration Policy Issues.","Monitor Immigration Policy Issues.","Monitor Labor Issues.","Please add FDA Electronic Nicotine Delivery Systems Draft Guidance.","FDA Electronic Nicotine Delivery Systems Draft Guidance.","Monitor Labor Issues.\nPublic Health Crisis.","Small Business and Franchising.","Monitor Labor Issues.\nPublic Health Crisis.\nPublic Law No: 116-136: Coronavirus Aid, Relief, and Economic Security Act (CARES) Act.","Electric vehicle policy issues.","Monitor Labor Issues. Public Health Crisis.","Monitor electric vehicle policy issues.","Credit card swipe fees. H.R.8874/S.4674 - Credit Card Competition Act of 2022.","Small business and franchising.","General nutrition issues. Farm bill and hot foods.","Credit card swipe fees. H.R. 3381 - Credit Card Competition Act of 2023.","Credit card swipe fees.","Illicit Chinese vaping products.","Credit card swipe fees. Monetary policy issues. H.R.3074/S.1525: Common Cents Act."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 102976,
+  "name": "7 ELEVEN, INC.",
+  "slug": "7-eleven-inc",
+  "state": "TX",
+  "description": "Convenience stores.",
+  "totalSpending": 1630000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 230000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "ACG ADVOCACY"
+  ],
+  "lobbyists": [
+    "DAVID URBAN",
+    "MARY O'DEA AHEARN ALLEN",
+    "JULIE PHILP",
+    "MANUS COONEY",
+    "ROBERTO FIERRO",
+    "PATRICK GRANT",
+    "PREETI TURPUSEEMA",
+    "SEAN BYRNE",
+    "SARAH KOHN",
+    "ZACHARY SCHILLER"
+  ],
+  "issues": [
+    "FOO",
+    "FUE",
+    "IMM",
+    "LBR",
+    "TOB",
+    "SMB",
+    "ENG",
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Food Labeling.",
+    "Renewable Fuel Standards.",
+    "Immigration Policy Issues.",
+    "Monitor Immigration Policy Issues.",
+    "Monitor Labor Issues.",
+    "Please add FDA Electronic Nicotine Delivery Systems Draft Guidance.",
+    "FDA Electronic Nicotine Delivery Systems Draft Guidance.",
+    "Monitor Labor Issues.\nPublic Health Crisis.",
+    "Small Business and Franchising.",
+    "Monitor Labor Issues.\nPublic Health Crisis.\nPublic Law No: 116-136: Coronavirus Aid, Relief, and Economic Security Act (CARES) Act.",
+    "Electric vehicle policy issues.",
+    "Monitor Labor Issues. Public Health Crisis.",
+    "Monitor electric vehicle policy issues.",
+    "Credit card swipe fees. H.R.8874/S.4674 - Credit Card Competition Act of 2022.",
+    "Small business and franchising.",
+    "General nutrition issues. Farm bill and hot foods.",
+    "Credit card swipe fees. H.R. 3381 - Credit Card Competition Act of 2023.",
+    "Credit card swipe fees.",
+    "Illicit Chinese vaping products.",
+    "Credit card swipe fees. Monetary policy issues. H.R.3074/S.1525: Common Cents Act."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 203750,
+  "peakYear": 2024,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 8
+}

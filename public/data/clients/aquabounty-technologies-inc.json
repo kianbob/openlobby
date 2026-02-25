@@ -1,1 +1,68 @@
-{"id":143850,"name":"AQUABOUNTY TECHNOLOGIES, INC.","slug":"aquabounty-technologies-inc","state":"MA","description":"Aquaculture production company","totalSpending":1430000,"filings":18,"yearlySpending":[{"year":2019,"income":380000},{"year":2020,"income":210000},{"year":2021,"income":400000},{"year":2022,"income":180000},{"year":2023,"income":260000}],"firms":["SIDLEY AUSTIN LLP"],"lobbyists":["TRACEY LATURNER","DEEPTI KULKARNI","PATRICIA DELOATCHE","PETER ROSKAM"],"issues":["SCI","FOO","ANI","AGR","BUD","HCR",null],"sampleDescriptions":["Educate and seek assistance from congressional offices and Administration officials on issues related to genetically engineered foods."],"years":[2019,2020,2021,2022,2023]}
+{
+  "id": 143850,
+  "name": "AQUABOUNTY TECHNOLOGIES, INC.",
+  "slug": "aquabounty-technologies-inc",
+  "state": "MA",
+  "description": "Aquaculture production company",
+  "totalSpending": 1430000,
+  "filings": 18,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 380000
+    },
+    {
+      "year": 2020,
+      "income": 210000
+    },
+    {
+      "year": 2021,
+      "income": 400000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 260000
+    }
+  ],
+  "firms": [
+    "SIDLEY AUSTIN LLP"
+  ],
+  "lobbyists": [
+    "TRACEY LATURNER",
+    "DEEPTI KULKARNI",
+    "PATRICIA DELOATCHE",
+    "PETER ROSKAM"
+  ],
+  "issues": [
+    "SCI",
+    "FOO",
+    "ANI",
+    "AGR",
+    "BUD",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Educate and seek assistance from congressional offices and Administration officials on issues related to genetically engineered foods."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -32,
+  "trajectory": "reducing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 286000,
+  "peakYear": 2021,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 6,
+  "industry": "technology"
+}

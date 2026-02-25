@@ -1,1 +1,39 @@
-{"id":64409,"name":"PRVO PLINARSKO DRUTVO D.O.O.","slug":"prvo-plinarsko-drutvo-d-o-o","state":null,"description":"Energy and Utilities","totalSpending":1490000,"filings":5,"yearlySpending":[{"year":2025,"income":1490000}],"firms":["MERCURY PUBLIC AFFAIRS, LLC"],"lobbyists":["BRYAN LANZA"],"issues":["ENG","TRD"],"sampleDescriptions":["Issues related to energy and trade","issues related to energy and trade","issues related to trade and energy"],"years":[2025]}
+{
+  "id": 64409,
+  "name": "PRVO PLINARSKO DRUTVO D.O.O.",
+  "slug": "prvo-plinarsko-drutvo-d-o-o",
+  "state": null,
+  "description": "Energy and Utilities",
+  "totalSpending": 1490000,
+  "filings": 5,
+  "yearlySpending": [
+    {
+      "year": 2025,
+      "income": 1490000
+    }
+  ],
+  "firms": [
+    "MERCURY PUBLIC AFFAIRS, LLC"
+  ],
+  "lobbyists": [
+    "BRYAN LANZA"
+  ],
+  "issues": [
+    "ENG",
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "Issues related to energy and trade",
+    "issues related to energy and trade",
+    "issues related to trade and energy"
+  ],
+  "years": [
+    2025
+  ],
+  "yearsActive": 1,
+  "avgAnnualSpending": 1490000,
+  "peakYear": 2025,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 2
+}

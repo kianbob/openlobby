@@ -1,1 +1,54 @@
-{"id":198538,"name":"IEX GROUP, INC.","slug":"iex-group-inc","state":"NY","description":"National Stock Exchange","totalSpending":1410000,"filings":12,"yearlySpending":[{"year":2018,"income":190000},{"year":2019,"income":400000},{"year":2020,"income":820000}],"firms":["HILL STRATEGY LLC"],"lobbyists":["PETER HALLER","JAVIER LLANO","DILLON MCGREGOR"],"issues":["FIN"],"sampleDescriptions":["Equity market structure","Equity market structure, Transaction Fee Pilot","Transaction Fee Pilo","Transaction Fee Pilot, equity market structure","equity market structure"],"years":[2018,2019,2020]}
+{
+  "id": 198538,
+  "name": "IEX GROUP, INC.",
+  "slug": "iex-group-inc",
+  "state": "NY",
+  "description": "National Stock Exchange",
+  "totalSpending": 1410000,
+  "filings": 12,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 190000
+    },
+    {
+      "year": 2019,
+      "income": 400000
+    },
+    {
+      "year": 2020,
+      "income": 820000
+    }
+  ],
+  "firms": [
+    "HILL STRATEGY LLC"
+  ],
+  "lobbyists": [
+    "PETER HALLER",
+    "JAVIER LLANO",
+    "DILLON MCGREGOR"
+  ],
+  "issues": [
+    "FIN"
+  ],
+  "sampleDescriptions": [
+    "Equity market structure",
+    "Equity market structure, Transaction Fee Pilot",
+    "Transaction Fee Pilo",
+    "Transaction Fee Pilot, equity market structure",
+    "equity market structure"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "growthRate": 332,
+  "trajectory": "exploding",
+  "yearsActive": 3,
+  "avgAnnualSpending": 470000,
+  "peakYear": 2020,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1
+}

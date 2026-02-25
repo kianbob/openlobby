@@ -1,1 +1,108 @@
-{"id":184846,"name":"GEOTHERMAL EXCHANGE ORGANIZATION","slug":"geothermal-exchange-organization","state":"IL","description":"Trade association for the geothermal heat pump industry.","totalSpending":1740000,"filings":29,"yearlySpending":[{"year":2018,"income":170000},{"year":2019,"income":150000},{"year":2020,"income":280000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["INVARIANT LLC"],"lobbyists":["HEATHER PODESTA","BENJAMIN KLEIN","STEPHEN BAILEY","ANNE PALISI","LANDON STROPKO","ERIN HAYDEN","MAX FRANKEL","IAN FOLEY","BERKLEY LANE","DAMIAN ORTEGA","JARED SONCRANT","JOSEPH BUSHONG","ANNIE D'AMATO","DOUGLAS DZIAK"],"issues":["TAX","ENG",null,"DEF"],"sampleDescriptions":["Advocate extending sections 48a and 25D of the tax code for geothermal heat pumps, including supporting H.R. 1090, the Technologies for Energy Security Act; S. 1409, the Technologies for Energy Jobs and Security Act of 2017; and related provisions in H.R. 1892, the Bipartisan Budget Act of 2018.","Discuss benefits of geothermal heat pumps and innovative financing models.  Monitor S. 1460, the Energy and Natural Resources Act of 2017, to update the federal definition of renewable energy to include geothermal heat pumps.","Discuss benefits of geothermal heat pumps and innovative financing models.  Monitor S. 1460, the Energy and Natural Resources Act of 2017, to update the federal definition of renewable energy to include geothermal heat pumps; educate Administration on geothermal heat pump research needs.","Discuss benefits of geothermal heat pumps and innovative financing models, including on military installations. Monitor S. 1460, the Energy and Natural Resources Act of 2017, to update the federal definition of renewable energy to include geothermal heat pumps.","Discuss benefits of geothermal heat pumps and innovative financing models and the need to update the federal definition of renewable energy to include geothermal heat pumps.","Support efforts to extend commercial and residential tax credits for geothermal heat pumps; support H.R. 3961 / S. 2289, the Renewable Energy Extension Act of 2019.","Discuss benefits of geothermal heat pumps and innovative financing models and the need to update the federal definition of renewable energy to include geothermal heat pumps, including in S. 2657, the Advanced Geothermal Innovation Leadership Act of 2019 (the legislative vehicle for Senate energy bill).","Support efforts to extend commercial and residential tax credits for geothermal heat pumps, and related provisions in H.R. 2, the INVEST in America Act, and the Growing Renewable Energy and Efficiency Now (GREEN) Act of 2020 (draft); support H.R. 3961 / S. 2289, the Renewable Energy Extension Act of 2019.","Discuss benefits of geothermal heat pumps and innovative financing models and the need to update the federal definition of renewable energy to include geothermal heat pumps, including in S. 2657, the Advanced Geothermal Innovation Leadership Act of 2019 (the legislative vehicle for Senate energy bill) and in H.R. 4447, the Clean Economy Jobs and Innovation Act.","Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 2, the INVEST in America Act, H.R. 7330, the Growing Renewable Energy and Efficiency Now (GREEN) Act of 2020, and H.R. 133, the Consolidated Appropriations Act of 2021; support H.R. 3961 / S. 2289, the Renewable Energy Extension Act of 2019.","Discuss benefits of geothermal heat pumps and innovative financing models and the need to update the federal definition of renewable energy to include geothermal heat pumps, including in S. 2657, the Advanced Geothermal Innovation Leadership Act of 2019 (the legislative vehicle for Senate energy bill), H.R. 4447, the Clean Economy Jobs and Innovation Act, and H.R. 133, the Consolidated Appropriations Act of 2021.","Discuss benefits of geothermal heat pumps and innovative financing models.","Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 848, the GREEN Act of 2021, S.1298, Clean Energy for America Act, and H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property. Support efforts to provide tax incentive parity with other commercial technologies.","Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 848, the GREEN Act of 2021, S.1298, Clean Energy for America Act, H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property, and the Build Back Better Act. Support efforts to provide tax incentive parity with other commercial technologies.","Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property, and H.R.5378, Build Back Better Act. Support efforts to provide tax incentive parity with other commercial technologies.","Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property, and H.R.5378, Build Back Better Act and draft Senate legislation. Support efforts to provide tax incentive parity with other commercial technologies.","Discuss benefits of geothermal heat pumps and innovative financing models; monitor the Administrations invocation of the Defense Production Act for clean energy.","Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property, and passage and implementation of P.L. 117-169, Inflation Reduction Act. Support efforts to provide flexible financing for geothermal heat pump deployment.","Discuss benefits of geothermal heat pumps and innovative financing models. Advocate for an alternative approach to the Department of Energys (DOE) notice of proposed rulemaking regarding the test procedure for water-source heat pumps. Monitor and provide input on DOE's implementation plans for Presidential Determination No. 2022-11, invoking authorities under Section 303 of the Defense Production Act (DPA) for heat pumps.","Monitor and support implementation of the electricity production and investment tax credits in P.L. 117-169, the Inflation Reduction Act. Support efforts to provide flexible financing for geothermal heat pump deployment."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184846,
+  "name": "GEOTHERMAL EXCHANGE ORGANIZATION",
+  "slug": "geothermal-exchange-organization",
+  "state": "IL",
+  "description": "Trade association for the geothermal heat pump industry.",
+  "totalSpending": 1740000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 170000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "INVARIANT LLC"
+  ],
+  "lobbyists": [
+    "HEATHER PODESTA",
+    "BENJAMIN KLEIN",
+    "STEPHEN BAILEY",
+    "ANNE PALISI",
+    "LANDON STROPKO",
+    "ERIN HAYDEN",
+    "MAX FRANKEL",
+    "IAN FOLEY",
+    "BERKLEY LANE",
+    "DAMIAN ORTEGA",
+    "JARED SONCRANT",
+    "JOSEPH BUSHONG",
+    "ANNIE D'AMATO",
+    "DOUGLAS DZIAK"
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    null,
+    "DEF"
+  ],
+  "sampleDescriptions": [
+    "Advocate extending sections 48a and 25D of the tax code for geothermal heat pumps, including supporting H.R. 1090, the Technologies for Energy Security Act; S. 1409, the Technologies for Energy Jobs and Security Act of 2017; and related provisions in H.R. 1892, the Bipartisan Budget Act of 2018.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models.  Monitor S. 1460, the Energy and Natural Resources Act of 2017, to update the federal definition of renewable energy to include geothermal heat pumps.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models.  Monitor S. 1460, the Energy and Natural Resources Act of 2017, to update the federal definition of renewable energy to include geothermal heat pumps; educate Administration on geothermal heat pump research needs.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models, including on military installations. Monitor S. 1460, the Energy and Natural Resources Act of 2017, to update the federal definition of renewable energy to include geothermal heat pumps.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models and the need to update the federal definition of renewable energy to include geothermal heat pumps.",
+    "Support efforts to extend commercial and residential tax credits for geothermal heat pumps; support H.R. 3961 / S. 2289, the Renewable Energy Extension Act of 2019.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models and the need to update the federal definition of renewable energy to include geothermal heat pumps, including in S. 2657, the Advanced Geothermal Innovation Leadership Act of 2019 (the legislative vehicle for Senate energy bill).",
+    "Support efforts to extend commercial and residential tax credits for geothermal heat pumps, and related provisions in H.R. 2, the INVEST in America Act, and the Growing Renewable Energy and Efficiency Now (GREEN) Act of 2020 (draft); support H.R. 3961 / S. 2289, the Renewable Energy Extension Act of 2019.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models and the need to update the federal definition of renewable energy to include geothermal heat pumps, including in S. 2657, the Advanced Geothermal Innovation Leadership Act of 2019 (the legislative vehicle for Senate energy bill) and in H.R. 4447, the Clean Economy Jobs and Innovation Act.",
+    "Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 2, the INVEST in America Act, H.R. 7330, the Growing Renewable Energy and Efficiency Now (GREEN) Act of 2020, and H.R. 133, the Consolidated Appropriations Act of 2021; support H.R. 3961 / S. 2289, the Renewable Energy Extension Act of 2019.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models and the need to update the federal definition of renewable energy to include geothermal heat pumps, including in S. 2657, the Advanced Geothermal Innovation Leadership Act of 2019 (the legislative vehicle for Senate energy bill), H.R. 4447, the Clean Economy Jobs and Innovation Act, and H.R. 133, the Consolidated Appropriations Act of 2021.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models.",
+    "Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 848, the GREEN Act of 2021, S.1298, Clean Energy for America Act, and H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property. Support efforts to provide tax incentive parity with other commercial technologies.",
+    "Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 848, the GREEN Act of 2021, S.1298, Clean Energy for America Act, H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property, and the Build Back Better Act. Support efforts to provide tax incentive parity with other commercial technologies.",
+    "Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property, and H.R.5378, Build Back Better Act. Support efforts to provide tax incentive parity with other commercial technologies.",
+    "Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property, and H.R.5378, Build Back Better Act and draft Senate legislation. Support efforts to provide tax incentive parity with other commercial technologies.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models; monitor the Administrations invocation of the Defense Production Act for clean energy.",
+    "Support efforts to extend commercial and residential tax credits for geothermal heat pumps and related provisions in H.R. 3920, To amend the Internal Revenue Code of 1986 to provide tax credit parity for geothermal heat pump property, and passage and implementation of P.L. 117-169, Inflation Reduction Act. Support efforts to provide flexible financing for geothermal heat pump deployment.",
+    "Discuss benefits of geothermal heat pumps and innovative financing models. Advocate for an alternative approach to the Department of Energys (DOE) notice of proposed rulemaking regarding the test procedure for water-source heat pumps. Monitor and provide input on DOE's implementation plans for Presidential Determination No. 2022-11, invoking authorities under Section 303 of the Defense Production Act (DPA) for heat pumps.",
+    "Monitor and support implementation of the electricity production and investment tax credits in P.L. 117-169, the Inflation Reduction Act. Support efforts to provide flexible financing for geothermal heat pump deployment."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 41,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 217500,
+  "peakYear": 2020,
+  "lobbyistCount": 14,
+  "firmCount": 1,
+  "issueCount": 3
+}

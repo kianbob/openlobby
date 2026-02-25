@@ -1,1 +1,103 @@
-{"id":148218,"name":"AUSTAL USA","slug":"austal-usa","state":null,"description":null,"totalSpending":1620000,"filings":27,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":120000}],"firms":["VAN SCOYOC ASSOCIATES"],"lobbyists":["RAY COLE","DOUGLAS GREGORY","GEORGE BERNIER","VAN CARVER","BRIAN MALAT","GRAHAM HALL","CARLISLE CLARKE"],"issues":["HOM","MAN","DEF","BUD","DIS",null],"sampleDescriptions":["Monitor Coast Guard and Shipbuilding issues","Shipbuilding related issues:\n\nPublic Law 115-141, Consolidated Appropriations Act, FY2018, Division C\n\nH.R.3219, Department of Defense Appropriations Act, FY2018\n\nDepartment of Defense Appropriations Act, FY2019\n\nNational Defense Authorization Act for Fiscal Year 2019\n\nMonitor Jones Act","Shipbuilding related issues:\n\nPublic Law 115-141, Consolidated Appropriations Act, FY2018, Division C\n\nH.R.3219, Department of Defense Appropriations Act, FY2018\n\nDepartment of Defense Appropriations Act, FY2019\n\nNational Defense Authorization Act for Fiscal Year 2019","Shipbuilding related issues:\n\nH.R.6157/S.3159, Department of Defense Appropriations Act, FY2019\n\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019","Shipbuilding related issues:\n\nH.R.6157, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, FY2019\n\nPublic Law 115-232, John S. McCain National Defense Authorization Act for Fiscal Year 2019","Shipbuilding related issues:\n\nPublic Law 115-245, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, FY2019\n\nPublic Law 115-232, John S. McCain National Defense Authorization Act for Fiscal Year 2019","Shipbuilding related issues, as follows: \n\nPresident's Budget FY2020\n\nDepartment of Defense Appropriations, FY2020\n\nThe National Defense Authorization Act for Fiscal Year 2020","Shipbuilding related issues, as follows: \n\nH.J.Res.31, Consolidated Appropriations Act, FY2019\n\nPresident's Budget FY2020\n\nDepartment of Defense Appropriations, FY2020\n\nThe National Defense Authorization Act for Fiscal Year 2020","Shipbuilding related issues, as follows: \n\nH.R.2968, Department of Defense Appropriations, FY2020\n\nH.R.2500/S.1790, National Defense Authorization Act for Fiscal Year 2020","Shipbuilding related issues, as follows: \n\nH.R.2968/S.2474, Department of Defense Appropriations, FY2020\n\nH.R.2500/S.1790, National Defense Authorization Act for Fiscal Year 2020","Shipbuilding related issues, as follows: \n\nPublic Law 116-93, Consolidated Appropriations Act, 2020, Division A -- Department of Defense Appropriations Act, FY2020 \n\nPublic Law 116-92, National Defense Authorization Act for Fiscal Year 2020","Shipbuilding related issues, as follows: \n\nPublic Law 116-93, Consolidated Appropriations Act, 2020, Division A -- Department of Defense Appropriations Act, FY2020\n\nPublic Law 116-92, National Defense Authorization Act for Fiscal Year 2020","Shipbuilding related issues, as follows: \n\nDepartment of Defense Appropriations Act, FY2021\n\nNational Defense Authorization Act for Fiscal Year 2021","Public Law 116-136, Coronavirus Aid, Relief, and Economic Security (CARES) Act, Shipbuilding related issues","Monitor Shipbuilding related issues, as follows: \n\nDepartment of Defense Appropriations Act, FY2021\n\nNational Defense Authorization Act for Fiscal Year 2021","Monitor Shipbuilding related issues, as follows: \n\nH.R.7617, Department of Defense Appropriations Act, FY2021\n\nPublic Law 116-283, William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021","Monitor Public Law 116-136, Coronavirus Aid, Relief, and Economic Security (CARES) Act, Shipbuilding related issues","Shipbuilding related issues, as follows:\n\nDepartment of Defense Appropriations Act, FY2022\n\nNational Defense Authorization Act for Fiscal Year 2022","Shipbuilding related issues, as follows:\n\nH.R.4432, Department of Defense Appropriations Act, FY2022\n\nH.R.4350/S.2792, National Defense Authorization Act for Fiscal Year 2022","Monitor Shipbuilding related issues, as follows:\n\nH.R.4432/S.3023, Department of Defense Appropriations Act, FY2022\n\nPublic Law 117-81, National Defense Authorization Act for Fiscal Year 2022"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 148218,
+  "name": "AUSTAL USA",
+  "slug": "austal-usa",
+  "state": null,
+  "description": null,
+  "totalSpending": 1620000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "VAN SCOYOC ASSOCIATES"
+  ],
+  "lobbyists": [
+    "RAY COLE",
+    "DOUGLAS GREGORY",
+    "GEORGE BERNIER",
+    "VAN CARVER",
+    "BRIAN MALAT",
+    "GRAHAM HALL",
+    "CARLISLE CLARKE"
+  ],
+  "issues": [
+    "HOM",
+    "MAN",
+    "DEF",
+    "BUD",
+    "DIS",
+    null
+  ],
+  "sampleDescriptions": [
+    "Monitor Coast Guard and Shipbuilding issues",
+    "Shipbuilding related issues:\n\nPublic Law 115-141, Consolidated Appropriations Act, FY2018, Division C\n\nH.R.3219, Department of Defense Appropriations Act, FY2018\n\nDepartment of Defense Appropriations Act, FY2019\n\nNational Defense Authorization Act for Fiscal Year 2019\n\nMonitor Jones Act",
+    "Shipbuilding related issues:\n\nPublic Law 115-141, Consolidated Appropriations Act, FY2018, Division C\n\nH.R.3219, Department of Defense Appropriations Act, FY2018\n\nDepartment of Defense Appropriations Act, FY2019\n\nNational Defense Authorization Act for Fiscal Year 2019",
+    "Shipbuilding related issues:\n\nH.R.6157/S.3159, Department of Defense Appropriations Act, FY2019\n\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019",
+    "Shipbuilding related issues:\n\nH.R.6157, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, FY2019\n\nPublic Law 115-232, John S. McCain National Defense Authorization Act for Fiscal Year 2019",
+    "Shipbuilding related issues:\n\nPublic Law 115-245, Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, FY2019\n\nPublic Law 115-232, John S. McCain National Defense Authorization Act for Fiscal Year 2019",
+    "Shipbuilding related issues, as follows: \n\nPresident's Budget FY2020\n\nDepartment of Defense Appropriations, FY2020\n\nThe National Defense Authorization Act for Fiscal Year 2020",
+    "Shipbuilding related issues, as follows: \n\nH.J.Res.31, Consolidated Appropriations Act, FY2019\n\nPresident's Budget FY2020\n\nDepartment of Defense Appropriations, FY2020\n\nThe National Defense Authorization Act for Fiscal Year 2020",
+    "Shipbuilding related issues, as follows: \n\nH.R.2968, Department of Defense Appropriations, FY2020\n\nH.R.2500/S.1790, National Defense Authorization Act for Fiscal Year 2020",
+    "Shipbuilding related issues, as follows: \n\nH.R.2968/S.2474, Department of Defense Appropriations, FY2020\n\nH.R.2500/S.1790, National Defense Authorization Act for Fiscal Year 2020",
+    "Shipbuilding related issues, as follows: \n\nPublic Law 116-93, Consolidated Appropriations Act, 2020, Division A -- Department of Defense Appropriations Act, FY2020 \n\nPublic Law 116-92, National Defense Authorization Act for Fiscal Year 2020",
+    "Shipbuilding related issues, as follows: \n\nPublic Law 116-93, Consolidated Appropriations Act, 2020, Division A -- Department of Defense Appropriations Act, FY2020\n\nPublic Law 116-92, National Defense Authorization Act for Fiscal Year 2020",
+    "Shipbuilding related issues, as follows: \n\nDepartment of Defense Appropriations Act, FY2021\n\nNational Defense Authorization Act for Fiscal Year 2021",
+    "Public Law 116-136, Coronavirus Aid, Relief, and Economic Security (CARES) Act, Shipbuilding related issues",
+    "Monitor Shipbuilding related issues, as follows: \n\nDepartment of Defense Appropriations Act, FY2021\n\nNational Defense Authorization Act for Fiscal Year 2021",
+    "Monitor Shipbuilding related issues, as follows: \n\nH.R.7617, Department of Defense Appropriations Act, FY2021\n\nPublic Law 116-283, William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021",
+    "Monitor Public Law 116-136, Coronavirus Aid, Relief, and Economic Security (CARES) Act, Shipbuilding related issues",
+    "Shipbuilding related issues, as follows:\n\nDepartment of Defense Appropriations Act, FY2022\n\nNational Defense Authorization Act for Fiscal Year 2022",
+    "Shipbuilding related issues, as follows:\n\nH.R.4432, Department of Defense Appropriations Act, FY2022\n\nH.R.4350/S.2792, National Defense Authorization Act for Fiscal Year 2022",
+    "Monitor Shipbuilding related issues, as follows:\n\nH.R.4432/S.3023, Department of Defense Appropriations Act, FY2022\n\nPublic Law 117-81, National Defense Authorization Act for Fiscal Year 2022"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -50,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 202500,
+  "peakYear": 2018,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 5
+}

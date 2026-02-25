@@ -1,1 +1,557 @@
-{"code":"RES","name":"Real Estate/Land Use/Conservation","totalSpending":102666254,"totalFilings":5212,"yearlySpending":[{"year":2018,"income":11052272,"filings":531},{"year":2019,"income":10636996,"filings":601},{"year":2020,"income":11715500,"filings":631},{"year":2021,"income":10868460,"filings":569},{"year":2022,"income":13080545,"filings":712},{"year":2023,"income":15349544,"filings":760},{"year":2024,"income":12079164,"filings":630},{"year":2025,"income":17883773,"filings":778}],"topClients":[{"name":"BARRICK GOLD OF NORTH AMERICA INC.","income":2310000},{"name":"GREAT BASIN TRANSMISSION, LLC","income":1800000},{"name":"LEADING BUILDERS OF AMERICA","income":1775000},{"name":"SWITCH","income":1470000},{"name":"CORECIVIC","income":1425000},{"name":"NEWMONT MINING CORPORATION","income":1410000},{"name":"CERBERUS CAPITAL MANAGEMENT, L.P.","income":1245000},{"name":"NEVADA SYSTEM OF HIGHER EDUCATION","income":1170000},{"name":"ENTERPRISE COMMUNITY PARTNERS, INC.","income":1160000},{"name":"DOE RUN COMPANY","income":1150000},{"name":"RESOURCES ENVIRONMENTAL SOLUTIONS (\"RES\")","income":1130000},{"name":"9/11 MEMORIAL","income":1080000},{"name":"GBX GROUP LLC","income":1070000},{"name":"SUBCOM LLC","income":1050000},{"name":"NEAR AIRPORT PARKING INDUSTRY TRADE ASSOCIATION (NAPITA)","income":1020000},{"name":"LAKE CUMBERLAND MARINA LLC","income":1020000},{"name":"BROOKFIELD ASSET MANAGEMENT","income":985000},{"name":"PIERCE COUNTY","income":954000},{"name":"PARTNERSHIP FOR CONSERVATION","income":910000},{"name":"DOUGLAS DEVELOPMENT CORPORATION","income":900000},{"name":"F.E.B. CORP.","income":890000},{"name":"TRI-CITY DEVELOPMENT COUNCIL","income":870000},{"name":"BEACON CAPITAL PARTNERS LLC","income":870000},{"name":"INTERNATIONAL FACILITY MANAGEMENT ASSN","income":870000},{"name":"SAN BERNARDINO VALLEY WATER CONSERVATION DISTRICT","income":870000},{"name":"POTOMAC CENTER NORTH, INC.","income":870000},{"name":"THE UNIVERSITY OF TEXAS SYSTEM","income":870000},{"name":"TULE RIVER TRIBE","income":834060},{"name":"BRENTWOOD SCHOOL","income":830000},{"name":"AGUA CALIENTE BAND OF CAHUILLA INDIANS","income":825000},{"name":"APPRAISAL INSTITUTE","income":810000},{"name":"ZILLOW INC","income":740000},{"name":"SWIRE PROPERTIES, INC.","income":730000},{"name":"WIRELESS INFRASTRUCTURE ASSOCIATION","income":720000},{"name":"CITY OF MINNEAPOLIS","income":695000},{"name":"SOUTHEAST ALASKA REGIONAL HEALTH CONSORTIUM","income":690000},{"name":"DREW COMPANY","income":680000},{"name":"RENRE NORTH AMERICA EMPLOYEE SERVICES INC.","income":640000},{"name":"JAMESTOWN OTS, L.P.","income":630000},{"name":"ECOVEST CAPITAL, INC.","income":620000},{"name":"WESTERN RESERVE LAND CONSERVANCY","income":615000},{"name":"VEROS REAL ESTATE SOLUTIONS, LLC","income":600000},{"name":"UNITED STATES TOUR OPERATORS ASSOCIATION","income":600000},{"name":"ANYWHERE REAL ESTATE INC.","income":600000},{"name":"MEDICAL PROPERTIES TRUST","income":600000},{"name":"THE NATURE CONSERVANCY","income":598857},{"name":"COSTAR GROUP","income":590000},{"name":"ALEXANDER SKOROBOGATKO AND ALEXANDER PONOMARENKO","income":580000},{"name":"ROCKY MOUNTAIN ELK FOUNDATION","income":570000},{"name":"OPEN SPACE INSTITUTE, INC.","income":560000}],"topFirms":[{"name":"CASSIDY & ASSOCIATES, INC.","income":11240000},{"name":"BALLARD PARTNERS","income":4730000},{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":4350000},{"name":"PORTER GROUP, LLC","income":4077000},{"name":"CARMEN GROUP INCORPORATED","income":3132000},{"name":"CAPITOL COUNSEL LLC","income":2670000},{"name":"VAN SCOYOC ASSOCIATES","income":2470000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":2240000},{"name":"ELEVATE GOVERNMENT AFFAIRS, LLC","income":1960000},{"name":"KENNETH GEAR","income":1775000},{"name":"HOLLAND & KNIGHT LLP","income":1750000},{"name":"CAPITOL HILL CONSULTING GROUP","income":1520000},{"name":"ARENTFOX SCHIFF LLP","income":1480000},{"name":"POLARIS GOVERNMENT RELATIONS, LLC","income":1480000},{"name":"THE VOGEL GROUP","income":1458000},{"name":"GORDON THOMAS HONEYWELL GOVERNMENTAL AFFAIRS","income":1323000},{"name":"THE MADISON GROUP","income":1245000},{"name":"SQUIRE PATTON BOGGS","income":1185000},{"name":"TELEGRAPH AVENUE ADVISORS","income":1165000},{"name":"K&L GATES, LLP","income":1100000},{"name":"POTOMAC PARTNERS DC","income":1080000},{"name":"STATE FEDERAL STRATEGIES","income":1025000},{"name":"ACG ADVOCACY","income":930000},{"name":"MISSY EDWARDS STRATEGIES, LLC","income":905000},{"name":"MONUMENT ADVOCACY","income":880000},{"name":"PACE, LLP","income":870000},{"name":"POLICY INTEGRATION PARTNERS, LLC","income":860000},{"name":"QUARLES & BRADY LLP","income":834060},{"name":"RICH FEUER ANDERSON","income":810000},{"name":"INVARIANT LLC","income":810000}],"sampleDescriptions":["Monitoring land tenure issues-no specific legislation Monitored emissions issues associated w/ Clean Air Act Battery recycling issues; long term mine remediation effort at Doe-Run related properties B","Issues related to the purchase of land for a National Wildlife Refuge.","(a)Reform and extension of Business Energy Investment Tax Credit, (b)Preservation of the Modified Accelerated Cost-Recovery System, (c)U.S. trade policy related to import or export of solar equipment ","Issues Related to purchase of land for a National Wildlife Refuge","Issues related to regulation of the forestry sector","Mad River Wind Project","Redevelopment of Vint Hill, Virginia","Land exchange","Federal Preservation Tax Credit","Mitigation & CWA policy\nInfrastructure\nConservation","Executive Order Dated 1/24/2017 Expediting Environmental Reviews and Approvals For High Priority Infrastructure Projects - Dakota Access Pipeline","infrastructure and Federal land development and any other real estate activity.  Also any Veteran Housing or administration relocation or development.","Regulation of appraisers, including modernization of regulatory structure, including H.R. 2133, the \"Community Lending Enhancement and Regulatory Relief Act of 2017,\" and S.2155, the \"Economic Growth,","Proposed disposition of Upper St. Anthony Falls Lock & Dam, Minneapolis, MN.","Lobbying Congress regarding land use and commercial real estate issues in New York.","Land Exchange","Wilderness Exception","Real estate issues and costs pertaining to Federal leasing, including in particular, GSA Prospectus PNJ-01-NW16, DHS, Customs and Border Protection (CBP) in Newark, New Jersey.","HR 2370/S 1073 Escambia County Land Conveyance Act","Waters of the United States rule\nH.R. 3905 (Minnesotas Economic Rights in the Superior National Forest (MINER) Act)"]}
+{
+  "code": "RES",
+  "name": "Real Estate/Land Use/Conservation",
+  "totalSpending": 102666254,
+  "totalFilings": 5212,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 11052272,
+      "filings": 531
+    },
+    {
+      "year": 2019,
+      "income": 10636996,
+      "filings": 601
+    },
+    {
+      "year": 2020,
+      "income": 11715500,
+      "filings": 631
+    },
+    {
+      "year": 2021,
+      "income": 10868460,
+      "filings": 569
+    },
+    {
+      "year": 2022,
+      "income": 13080545,
+      "filings": 712
+    },
+    {
+      "year": 2023,
+      "income": 15349544,
+      "filings": 760
+    },
+    {
+      "year": 2024,
+      "income": 12079164,
+      "filings": 630
+    },
+    {
+      "year": 2025,
+      "income": 17883773,
+      "filings": 778
+    }
+  ],
+  "topClients": [
+    {
+      "name": "BARRICK GOLD OF NORTH AMERICA INC.",
+      "income": 2310000
+    },
+    {
+      "name": "GREAT BASIN TRANSMISSION, LLC",
+      "income": 1800000
+    },
+    {
+      "name": "LEADING BUILDERS OF AMERICA",
+      "income": 1775000
+    },
+    {
+      "name": "SWITCH",
+      "income": 1470000
+    },
+    {
+      "name": "CORECIVIC",
+      "income": 1425000
+    },
+    {
+      "name": "NEWMONT MINING CORPORATION",
+      "income": 1410000
+    },
+    {
+      "name": "CERBERUS CAPITAL MANAGEMENT, L.P.",
+      "income": 1245000
+    },
+    {
+      "name": "NEVADA SYSTEM OF HIGHER EDUCATION",
+      "income": 1170000
+    },
+    {
+      "name": "ENTERPRISE COMMUNITY PARTNERS, INC.",
+      "income": 1160000
+    },
+    {
+      "name": "DOE RUN COMPANY",
+      "income": 1150000
+    },
+    {
+      "name": "RESOURCES ENVIRONMENTAL SOLUTIONS (\"RES\")",
+      "income": 1130000
+    },
+    {
+      "name": "9/11 MEMORIAL",
+      "income": 1080000
+    },
+    {
+      "name": "GBX GROUP LLC",
+      "income": 1070000
+    },
+    {
+      "name": "SUBCOM LLC",
+      "income": 1050000
+    },
+    {
+      "name": "NEAR AIRPORT PARKING INDUSTRY TRADE ASSOCIATION (NAPITA)",
+      "income": 1020000
+    },
+    {
+      "name": "LAKE CUMBERLAND MARINA LLC",
+      "income": 1020000
+    },
+    {
+      "name": "BROOKFIELD ASSET MANAGEMENT",
+      "income": 985000
+    },
+    {
+      "name": "PIERCE COUNTY",
+      "income": 954000
+    },
+    {
+      "name": "PARTNERSHIP FOR CONSERVATION",
+      "income": 910000
+    },
+    {
+      "name": "DOUGLAS DEVELOPMENT CORPORATION",
+      "income": 900000
+    },
+    {
+      "name": "F.E.B. CORP.",
+      "income": 890000
+    },
+    {
+      "name": "TRI-CITY DEVELOPMENT COUNCIL",
+      "income": 870000
+    },
+    {
+      "name": "BEACON CAPITAL PARTNERS LLC",
+      "income": 870000
+    },
+    {
+      "name": "INTERNATIONAL FACILITY MANAGEMENT ASSN",
+      "income": 870000
+    },
+    {
+      "name": "SAN BERNARDINO VALLEY WATER CONSERVATION DISTRICT",
+      "income": 870000
+    },
+    {
+      "name": "POTOMAC CENTER NORTH, INC.",
+      "income": 870000
+    },
+    {
+      "name": "THE UNIVERSITY OF TEXAS SYSTEM",
+      "income": 870000
+    },
+    {
+      "name": "TULE RIVER TRIBE",
+      "income": 834060
+    },
+    {
+      "name": "BRENTWOOD SCHOOL",
+      "income": 830000
+    },
+    {
+      "name": "AGUA CALIENTE BAND OF CAHUILLA INDIANS",
+      "income": 825000
+    },
+    {
+      "name": "APPRAISAL INSTITUTE",
+      "income": 810000
+    },
+    {
+      "name": "ZILLOW INC",
+      "income": 740000
+    },
+    {
+      "name": "SWIRE PROPERTIES, INC.",
+      "income": 730000
+    },
+    {
+      "name": "WIRELESS INFRASTRUCTURE ASSOCIATION",
+      "income": 720000
+    },
+    {
+      "name": "CITY OF MINNEAPOLIS",
+      "income": 695000
+    },
+    {
+      "name": "SOUTHEAST ALASKA REGIONAL HEALTH CONSORTIUM",
+      "income": 690000
+    },
+    {
+      "name": "DREW COMPANY",
+      "income": 680000
+    },
+    {
+      "name": "RENRE NORTH AMERICA EMPLOYEE SERVICES INC.",
+      "income": 640000
+    },
+    {
+      "name": "JAMESTOWN OTS, L.P.",
+      "income": 630000
+    },
+    {
+      "name": "ECOVEST CAPITAL, INC.",
+      "income": 620000
+    },
+    {
+      "name": "WESTERN RESERVE LAND CONSERVANCY",
+      "income": 615000
+    },
+    {
+      "name": "VEROS REAL ESTATE SOLUTIONS, LLC",
+      "income": 600000
+    },
+    {
+      "name": "UNITED STATES TOUR OPERATORS ASSOCIATION",
+      "income": 600000
+    },
+    {
+      "name": "ANYWHERE REAL ESTATE INC.",
+      "income": 600000
+    },
+    {
+      "name": "MEDICAL PROPERTIES TRUST",
+      "income": 600000
+    },
+    {
+      "name": "THE NATURE CONSERVANCY",
+      "income": 598857
+    },
+    {
+      "name": "COSTAR GROUP",
+      "income": 590000
+    },
+    {
+      "name": "ALEXANDER SKOROBOGATKO AND ALEXANDER PONOMARENKO",
+      "income": 580000
+    },
+    {
+      "name": "ROCKY MOUNTAIN ELK FOUNDATION",
+      "income": 570000
+    },
+    {
+      "name": "OPEN SPACE INSTITUTE, INC.",
+      "income": 560000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "CASSIDY & ASSOCIATES, INC.",
+      "income": 11240000
+    },
+    {
+      "name": "BALLARD PARTNERS",
+      "income": 4730000
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 4350000
+    },
+    {
+      "name": "PORTER GROUP, LLC",
+      "income": 4077000
+    },
+    {
+      "name": "CARMEN GROUP INCORPORATED",
+      "income": 3132000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 2670000
+    },
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 2470000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 2240000
+    },
+    {
+      "name": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+      "income": 1960000
+    },
+    {
+      "name": "KENNETH GEAR",
+      "income": 1775000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 1750000
+    },
+    {
+      "name": "CAPITOL HILL CONSULTING GROUP",
+      "income": 1520000
+    },
+    {
+      "name": "ARENTFOX SCHIFF LLP",
+      "income": 1480000
+    },
+    {
+      "name": "POLARIS GOVERNMENT RELATIONS, LLC",
+      "income": 1480000
+    },
+    {
+      "name": "THE VOGEL GROUP",
+      "income": 1458000
+    },
+    {
+      "name": "GORDON THOMAS HONEYWELL GOVERNMENTAL AFFAIRS",
+      "income": 1323000
+    },
+    {
+      "name": "THE MADISON GROUP",
+      "income": 1245000
+    },
+    {
+      "name": "SQUIRE PATTON BOGGS",
+      "income": 1185000
+    },
+    {
+      "name": "TELEGRAPH AVENUE ADVISORS",
+      "income": 1165000
+    },
+    {
+      "name": "K&L GATES, LLP",
+      "income": 1100000
+    },
+    {
+      "name": "POTOMAC PARTNERS DC",
+      "income": 1080000
+    },
+    {
+      "name": "STATE FEDERAL STRATEGIES",
+      "income": 1025000
+    },
+    {
+      "name": "ACG ADVOCACY",
+      "income": 930000
+    },
+    {
+      "name": "MISSY EDWARDS STRATEGIES, LLC",
+      "income": 905000
+    },
+    {
+      "name": "MONUMENT ADVOCACY",
+      "income": 880000
+    },
+    {
+      "name": "PACE, LLP",
+      "income": 870000
+    },
+    {
+      "name": "POLICY INTEGRATION PARTNERS, LLC",
+      "income": 860000
+    },
+    {
+      "name": "QUARLES & BRADY LLP",
+      "income": 834060
+    },
+    {
+      "name": "RICH FEUER ANDERSON",
+      "income": 810000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 810000
+    }
+  ],
+  "sampleDescriptions": [
+    "Monitoring land tenure issues-no specific legislation Monitored emissions issues associated w/ Clean Air Act Battery recycling issues; long term mine remediation effort at Doe-Run related properties B",
+    "Issues related to the purchase of land for a National Wildlife Refuge.",
+    "(a)Reform and extension of Business Energy Investment Tax Credit, (b)Preservation of the Modified Accelerated Cost-Recovery System, (c)U.S. trade policy related to import or export of solar equipment ",
+    "Issues Related to purchase of land for a National Wildlife Refuge",
+    "Issues related to regulation of the forestry sector",
+    "Mad River Wind Project",
+    "Redevelopment of Vint Hill, Virginia",
+    "Land exchange",
+    "Federal Preservation Tax Credit",
+    "Mitigation & CWA policy\nInfrastructure\nConservation",
+    "Executive Order Dated 1/24/2017 Expediting Environmental Reviews and Approvals For High Priority Infrastructure Projects - Dakota Access Pipeline",
+    "infrastructure and Federal land development and any other real estate activity.  Also any Veteran Housing or administration relocation or development.",
+    "Regulation of appraisers, including modernization of regulatory structure, including H.R. 2133, the \"Community Lending Enhancement and Regulatory Relief Act of 2017,\" and S.2155, the \"Economic Growth,",
+    "Proposed disposition of Upper St. Anthony Falls Lock & Dam, Minneapolis, MN.",
+    "Lobbying Congress regarding land use and commercial real estate issues in New York.",
+    "Land Exchange",
+    "Wilderness Exception",
+    "Real estate issues and costs pertaining to Federal leasing, including in particular, GSA Prospectus PNJ-01-NW16, DHS, Customs and Border Protection (CBP) in Newark, New Jersey.",
+    "HR 2370/S 1073 Escambia County Land Conveyance Act",
+    "Waters of the United States rule\nH.R. 3905 (Minnesotas Economic Rights in the Superior National Forest (MINER) Act)"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 122,
+      "spending": 3155744.911227106
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 138,
+      "spending": 2340583.298687423
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 132,
+      "spending": 3272142.005725854
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 139,
+      "spending": 4238556.153848928
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 123,
+      "spending": 2886557.6120712627
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 168,
+      "spending": 3460454.452987891
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 156,
+      "spending": 3287101.8881268725
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 154,
+      "spending": 2923299.6063043624
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 144,
+      "spending": 2836241.6266067266
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 160,
+      "spending": 3748725.7759806076
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 181,
+      "spending": 3458664.176221164
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 146,
+      "spending": 4059234.7297671284
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 122,
+      "spending": 1912509.6190698189
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 156,
+      "spending": 2860522.177849052
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 148,
+      "spending": 2328055.103784957
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 143,
+      "spending": 2228115.376875902
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 176,
+      "spending": 2540886.2375650485
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 172,
+      "spending": 2465899.174358974
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 192,
+      "spending": 2883511.131191031
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 172,
+      "spending": 2676087.742246643
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 187,
+      "spending": 2886389.152711341
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 188,
+      "spending": 2986006.6019314015
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 184,
+      "spending": 2754110.5855712923
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 201,
+      "spending": 2946599.678132978
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 148,
+      "spending": 2597419.371717171
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 166,
+      "spending": 2261378.08174244
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 154,
+      "spending": 2218638.225641025
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 162,
+      "spending": 2231701.3919413923
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 166,
+      "spending": 2268322.900976801
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 212,
+      "spending": 3883755.0326276673
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 195,
+      "spending": 3344075.9627289376
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 205,
+      "spending": 3620074.6877397117
+    }
+  ],
+  "totalEstimatedSpending": 93561364
+}

@@ -1,1 +1,102 @@
-{"id":176430,"name":"WEX HEALTH","slug":"wex-health","state":"CT","description":"Healthcare software/payment solution that administer and manage consumer-directed accounts","totalSpending":1350000,"filings":27,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":150000},{"year":2020,"income":150000},{"year":2021,"income":100000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["THE MCMANUS GROUP"],"lobbyists":["JOHN MCMANUS","PAUL CRONAN","CHRISTINA HOCHUL","BARRETT THORNHILL","ALANNA TEMME","ALEX WHALEN"],"issues":["TAX","BAN",null,"HCR","MMM"],"sampleDescriptions":["H.R. 35 - Health Savings Act of 2017. Support for H.R. 4616 - To amend the Patient Protection and Affordable Care Act to provide for a temporary moratorium on the employer mandate and to provide for a delay in the implementation of the excise tax on high cost employer-sponsored health coverage. Support for Section 4002 of H.R. 195 - Making Further Continuing Appropriations for the Fiscal Year Ending September 30, 2018, and for other purposes. Regulation of health reimbursement accounts pursuant to Executive Order 13813 - Promoting Healthcare Choice and Competition Across the United States.","H.R. 35 / S. 403 - Health Savings Act of 2017. Support for H.R. 4616 - To amend the Patient Protection and Affordable Care Act to provide for a temporary moratorium on the employer mandate and to provide for a delay in the implementation of the excise tax on high-cost employer-sponsored health coverage. Support for H.R. 3798 - Save American Workers Act of 2018.","S. 12 - Health Savings Act of 2019. Support for Cadillac Tax repeal in H.R. 748/S. 684, the Middle Class Health Benefits Tax Repeal Act of 2019. Support S. 1089/H.R. 1922 - the Restoring Access to Medication Act of 2019. Support of 84 FR 28888 RIN 1545-BO46.","S. 12 - Health Savings Act of 2019. Support for Cadillac Tax repeal in H.R. 748/S. 684, the Middle Class Health Benefits Tax Repeal Act of 2019. Support S. 1089/H.R. 1922 - the Restoring Access to Medication Act of 2019.","Opposition to S. 2839, the Eliminating Corporate Shadow Banking Act of 2019.","S. 12 - Health Savings Act of 2019. Support for Cadillac Tax repeal in H.R. 748/S. 684, the Middle Class Health Benefits Tax Repeal Act of 2019. Support S. 1089/H.R. 1922 - the Restoring Access to Medication Act of 2019. Support for Cadillac Tax repeal in H.R. 1865, the Further Consolidated Appropriations Act.","Inclusion of COBRA provision in coronavirus relief legislation, including H.R. 6800, The Heroes Act, and S. 4318, the American Workers, Families, and Employers Assistance Act. Issues related to to Pandemic Health Accounts.","Provisions related to COBRA subsidies and Affordable Care Act exchange subsidies in coronavirus relief legislation, including H.R. 133 - The Consolidated Appropriations Act of 2020.","S. 12 - Health Savings Act of 2019. Inclusion of COBRA provision in coronavirus relief legislation. Issues related to to Pandemic Health Accounts.","Issues related to industrial banks.","Provisions related to COBRA subsidies and Affordable Care Act exchange subsidies in coronavirus relief legislation and H.R. 5376 - Build Back Better Act.","Issues related to proposed tax changes in H.R. 5376 - Build Back Better Act.","Issues related to industrial banks including H.R. 5912 - Close the ILC Loophole Act.","Issues related health savings accounts (HSAs) and individual coverage health reimbursement arrangements (ICHRAs) including in H.R.3799 - CHOICE Arrangement Act. H.R. 5688, the Bipartisan HSA Improvement Act of 2023 H.R. 5687, the HSA Modernization Act of 2023","Issues related health savings accounts (HSAs) and individual coverage health reimbursement arrangements (ICHRAs) including in H.R.3799 - CHOICE Arrangement Act, H.R. 3800/S. 3224 - Chronic Disease Flexible Coverage Act, H.R. 1843/S. 1001 - Telehealth Expansion Act of 2023, H.R. 722/s. 3254 - Lowering Costs for Caregivers Act, and H.R. 5687 - HSA Modernization Act of 2023 H.R. 5688, the Bipartisan HSA Improvement Act of 2023","Issues related to making HSAs more accessible and ubiquitous, including H.R. 548- HSA Modernization Act, H.R.1650/S.763 - Telehealth Expansion Act of 2025, H.R.919 - Chronic Disease Flexible Coverage Act, H.R.138 - Lowering Costs for Caregivers Act of 2025.","Issues related to tax-advantaged savings accounts for Medicare beneficiaries, including the creation and regulation of Medicare Flex Fund Accounts to cover qualified medical expenses","Issues related to making Health Savings Accounts and Health Reimbursement Arrangements more accessible and ubiquitous, including H.R. 548- HSA Modernization Act, H.R.1650/S.763 - Telehealth Expansion Act of 2025, H.R.919 - Chronic Disease Flexible Coverage Act, H.R.138 - Lowering Costs for Caregivers Act of 2025, and provisions in H.Con.Res.14, H.R. 1, and Public Law No: 119-21-The One Big Beautiful Bill Act","Issues related to making Health Savings Accounts and Health Reimbursement Arrangements more accessible and ubiquitous, including H.R. 548- HSA Modernization Act, H.R.919 - Chronic Disease Flexible Coverage Act, S. 2875 - Custom Health Option and Individual Care Expense (CHOICE) Act, H.R. 5463 - Choice Arrangement Act.","Issues related to making Health Savings Accounts and Health Reimbursement Arrangements more accessible and ubiquitous, including H.R. 548- HSA Modernization Act, H.R.919 - Chronic Disease Flexible Coverage Act, S. 2875 - Custom Health Option and Individual Care Expense (CHOICE) Act, H.R. 5463 - Choice Arrangement Act. H.R.1157 - ACCESS Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 176430,
+  "name": "WEX HEALTH",
+  "slug": "wex-health",
+  "state": "CT",
+  "description": "Healthcare software/payment solution that administer and manage consumer-directed accounts",
+  "totalSpending": 1350000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 100000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "THE MCMANUS GROUP"
+  ],
+  "lobbyists": [
+    "JOHN MCMANUS",
+    "PAUL CRONAN",
+    "CHRISTINA HOCHUL",
+    "BARRETT THORNHILL",
+    "ALANNA TEMME",
+    "ALEX WHALEN"
+  ],
+  "issues": [
+    "TAX",
+    "BAN",
+    null,
+    "HCR",
+    "MMM"
+  ],
+  "sampleDescriptions": [
+    "H.R. 35 - Health Savings Act of 2017. Support for H.R. 4616 - To amend the Patient Protection and Affordable Care Act to provide for a temporary moratorium on the employer mandate and to provide for a delay in the implementation of the excise tax on high cost employer-sponsored health coverage. Support for Section 4002 of H.R. 195 - Making Further Continuing Appropriations for the Fiscal Year Ending September 30, 2018, and for other purposes. Regulation of health reimbursement accounts pursuant to Executive Order 13813 - Promoting Healthcare Choice and Competition Across the United States.",
+    "H.R. 35 / S. 403 - Health Savings Act of 2017. Support for H.R. 4616 - To amend the Patient Protection and Affordable Care Act to provide for a temporary moratorium on the employer mandate and to provide for a delay in the implementation of the excise tax on high-cost employer-sponsored health coverage. Support for H.R. 3798 - Save American Workers Act of 2018.",
+    "S. 12 - Health Savings Act of 2019. Support for Cadillac Tax repeal in H.R. 748/S. 684, the Middle Class Health Benefits Tax Repeal Act of 2019. Support S. 1089/H.R. 1922 - the Restoring Access to Medication Act of 2019. Support of 84 FR 28888 RIN 1545-BO46.",
+    "S. 12 - Health Savings Act of 2019. Support for Cadillac Tax repeal in H.R. 748/S. 684, the Middle Class Health Benefits Tax Repeal Act of 2019. Support S. 1089/H.R. 1922 - the Restoring Access to Medication Act of 2019.",
+    "Opposition to S. 2839, the Eliminating Corporate Shadow Banking Act of 2019.",
+    "S. 12 - Health Savings Act of 2019. Support for Cadillac Tax repeal in H.R. 748/S. 684, the Middle Class Health Benefits Tax Repeal Act of 2019. Support S. 1089/H.R. 1922 - the Restoring Access to Medication Act of 2019. Support for Cadillac Tax repeal in H.R. 1865, the Further Consolidated Appropriations Act.",
+    "Inclusion of COBRA provision in coronavirus relief legislation, including H.R. 6800, The Heroes Act, and S. 4318, the American Workers, Families, and Employers Assistance Act. Issues related to to Pandemic Health Accounts.",
+    "Provisions related to COBRA subsidies and Affordable Care Act exchange subsidies in coronavirus relief legislation, including H.R. 133 - The Consolidated Appropriations Act of 2020.",
+    "S. 12 - Health Savings Act of 2019. Inclusion of COBRA provision in coronavirus relief legislation. Issues related to to Pandemic Health Accounts.",
+    "Issues related to industrial banks.",
+    "Provisions related to COBRA subsidies and Affordable Care Act exchange subsidies in coronavirus relief legislation and H.R. 5376 - Build Back Better Act.",
+    "Issues related to proposed tax changes in H.R. 5376 - Build Back Better Act.",
+    "Issues related to industrial banks including H.R. 5912 - Close the ILC Loophole Act.",
+    "Issues related health savings accounts (HSAs) and individual coverage health reimbursement arrangements (ICHRAs) including in H.R.3799 - CHOICE Arrangement Act. H.R. 5688, the Bipartisan HSA Improvement Act of 2023 H.R. 5687, the HSA Modernization Act of 2023",
+    "Issues related health savings accounts (HSAs) and individual coverage health reimbursement arrangements (ICHRAs) including in H.R.3799 - CHOICE Arrangement Act, H.R. 3800/S. 3224 - Chronic Disease Flexible Coverage Act, H.R. 1843/S. 1001 - Telehealth Expansion Act of 2023, H.R. 722/s. 3254 - Lowering Costs for Caregivers Act, and H.R. 5687 - HSA Modernization Act of 2023 H.R. 5688, the Bipartisan HSA Improvement Act of 2023",
+    "Issues related to making HSAs more accessible and ubiquitous, including H.R. 548- HSA Modernization Act, H.R.1650/S.763 - Telehealth Expansion Act of 2025, H.R.919 - Chronic Disease Flexible Coverage Act, H.R.138 - Lowering Costs for Caregivers Act of 2025.",
+    "Issues related to tax-advantaged savings accounts for Medicare beneficiaries, including the creation and regulation of Medicare Flex Fund Accounts to cover qualified medical expenses",
+    "Issues related to making Health Savings Accounts and Health Reimbursement Arrangements more accessible and ubiquitous, including H.R. 548- HSA Modernization Act, H.R.1650/S.763 - Telehealth Expansion Act of 2025, H.R.919 - Chronic Disease Flexible Coverage Act, H.R.138 - Lowering Costs for Caregivers Act of 2025, and provisions in H.Con.Res.14, H.R. 1, and Public Law No: 119-21-The One Big Beautiful Bill Act",
+    "Issues related to making Health Savings Accounts and Health Reimbursement Arrangements more accessible and ubiquitous, including H.R. 548- HSA Modernization Act, H.R.919 - Chronic Disease Flexible Coverage Act, S. 2875 - Custom Health Option and Individual Care Expense (CHOICE) Act, H.R. 5463 - Choice Arrangement Act.",
+    "Issues related to making Health Savings Accounts and Health Reimbursement Arrangements more accessible and ubiquitous, including H.R. 548- HSA Modernization Act, H.R.919 - Chronic Disease Flexible Coverage Act, S. 2875 - Custom Health Option and Individual Care Expense (CHOICE) Act, H.R. 5463 - Choice Arrangement Act. H.R.1157 - ACCESS Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 168750,
+  "peakYear": 2022,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "healthcare"
+}

@@ -1,1 +1,80 @@
-{"id":151804,"name":"AMERICAN SOCIETY OF MECHANICAL ENGINEERS","slug":"american-society-of-mechanical-engineers","state":"NY","description":"Standard setting organization","totalSpending":4050000,"filings":33,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":320000},{"year":2020,"income":190000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":520000},{"year":2024,"income":1540000},{"year":2025,"income":600000}],"firms":["WILMER CUTLER PICKERING HALE AND DORR LLP"],"lobbyists":["MATTHEW ROBINSON","JONATHAN YAROWSKY","PHILIP BESHARA","ROBERT LEHMAN","JEFFREY WIEAND","BRIAN SKRETNY"],"issues":["CPT",null],"sampleDescriptions":["Copyright law.","Copyright law"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 151804,
+  "name": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS",
+  "slug": "american-society-of-mechanical-engineers",
+  "state": "NY",
+  "description": "Standard setting organization",
+  "totalSpending": 4050000,
+  "filings": 33,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 190000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 520000
+    },
+    {
+      "year": 2024,
+      "income": 1540000
+    },
+    {
+      "year": 2025,
+      "income": 600000
+    }
+  ],
+  "firms": [
+    "WILMER CUTLER PICKERING HALE AND DORR LLP"
+  ],
+  "lobbyists": [
+    "MATTHEW ROBINSON",
+    "JONATHAN YAROWSKY",
+    "PHILIP BESHARA",
+    "ROBERT LEHMAN",
+    "JEFFREY WIEAND",
+    "BRIAN SKRETNY"
+  ],
+  "issues": [
+    "CPT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Copyright law.",
+    "Copyright law"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 150,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 506250,
+  "peakYear": 2024,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1
+}

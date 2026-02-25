@@ -1,1 +1,88 @@
-{"id":113638,"name":"INSTITUTE OF INTERNATIONAL BANKERS","slug":"institute-of-international-bankers","state":"NY","description":null,"totalSpending":1432500,"filings":17,"yearlySpending":[{"year":2018,"income":840000},{"year":2019,"income":110000},{"year":2020,"income":60000},{"year":2021,"income":30000},{"year":2022,"income":342500},{"year":2023,"income":10000},{"year":2024,"income":40000}],"firms":["CLEARY GOTTLIEB STEEN & HAMILTON LLP"],"lobbyists":["ERIKA NIJENHUIS","COLIN LLOYD","DEREK BUSH","DIANA WOLLMAN","LAUREN SEMRAD","HUGH CONROY"],"issues":["TAX","FIN","BAN",null],"sampleDescriptions":["Implementation of international tax provisions in H.R. 1 (Pub. L. 115-97)","Implementation of Title VII of Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173)and harmonization and reconciliation of SEC and CFTC guidance and rulemaking.","Implementation of section 165 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173).","Implementation of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173)","Implementation of Title VII of Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173) and harmonization and reconciliation of SEC and CFTC guidance and rulemaking.","Implementation of Title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173)","H.R. 5376, Build Back Better Act (fiscal year 2022 budget reconciliation bill)","Section 163(n)  code changes.","Issues associated with IRS regulation 1.882-5.","Issues associated with IRS regulation 1.882-5 and changes to the corporate alternative minimum tax.","Changes to the corporate alternative minimum tax.","Regulatory Capital Rule: Large Banking Organizations and Banking Organizations With Significant Trading Activity (also referred to as Basel III); Regulatory Capital Rule: Risk-Based Capital Surcharges for Global Systemically Important Bank Holding Companies; Systemic Risk Report (FR Y-15); Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured Depository Institutions."],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 113638,
+  "name": "INSTITUTE OF INTERNATIONAL BANKERS",
+  "slug": "institute-of-international-bankers",
+  "state": "NY",
+  "description": null,
+  "totalSpending": 1432500,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 840000
+    },
+    {
+      "year": 2019,
+      "income": 110000
+    },
+    {
+      "year": 2020,
+      "income": 60000
+    },
+    {
+      "year": 2021,
+      "income": 30000
+    },
+    {
+      "year": 2022,
+      "income": 342500
+    },
+    {
+      "year": 2023,
+      "income": 10000
+    },
+    {
+      "year": 2024,
+      "income": 40000
+    }
+  ],
+  "firms": [
+    "CLEARY GOTTLIEB STEEN & HAMILTON LLP"
+  ],
+  "lobbyists": [
+    "ERIKA NIJENHUIS",
+    "COLIN LLOYD",
+    "DEREK BUSH",
+    "DIANA WOLLMAN",
+    "LAUREN SEMRAD",
+    "HUGH CONROY"
+  ],
+  "issues": [
+    "TAX",
+    "FIN",
+    "BAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Implementation of international tax provisions in H.R. 1 (Pub. L. 115-97)",
+    "Implementation of Title VII of Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173)and harmonization and reconciliation of SEC and CFTC guidance and rulemaking.",
+    "Implementation of section 165 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173).",
+    "Implementation of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173)",
+    "Implementation of Title VII of Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173) and harmonization and reconciliation of SEC and CFTC guidance and rulemaking.",
+    "Implementation of Title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173)",
+    "H.R. 5376, Build Back Better Act (fiscal year 2022 budget reconciliation bill)",
+    "Section 163(n)  code changes.",
+    "Issues associated with IRS regulation 1.882-5.",
+    "Issues associated with IRS regulation 1.882-5 and changes to the corporate alternative minimum tax.",
+    "Changes to the corporate alternative minimum tax.",
+    "Regulatory Capital Rule: Large Banking Organizations and Banking Organizations With Significant Trading Activity (also referred to as Basel III); Regulatory Capital Rule: Risk-Based Capital Surcharges for Global Systemically Important Bank Holding Companies; Systemic Risk Report (FR Y-15); Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured Depository Institutions."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -95,
+  "trajectory": "declining",
+  "yearsActive": 7,
+  "avgAnnualSpending": 204643,
+  "peakYear": 2018,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "finance"
+}

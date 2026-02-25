@@ -1,1 +1,104 @@
-{"id":140661,"name":"GRAND TRUNK CORPORATION","slug":"grand-trunk-corporation","state":"DC","description":"Railroad","totalSpending":3070000,"filings":31,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":350000},{"year":2020,"income":440000},{"year":2021,"income":330000},{"year":2022,"income":440000},{"year":2023,"income":440000},{"year":2024,"income":440000},{"year":2025,"income":310000}],"firms":["PUBLIC STRATEGIES WASHINGTON, INC."],"lobbyists":["JOSEPH O'NEILL","STEVEN EICHENAUER","PATRICK O'NEILL","COLTON HOTARY","THOMAS NAGLE","ALISON MCGUIGAN","AARON SUNTAG","ANGELA ZIMMERMAN","ABBIE SORRENDINO"],"issues":["TRD","RRR","TAX","BUD",null],"sampleDescriptions":["Trade-related activities","Regulations pertaining to freight rail transportation","Corrections to tax reform legislation","FY2018 Appropriations\nFY2019 Appropriations","Issues related to railroads","FY2019 Appropriations","Clarifications to tax reform legislation","FY19 Appropriations\nFY20 appropriations","Trade-related activities, USMCA","FY20 appropriations","Monitor tax legislation","Appropriations","Trade-related activities, USMCA implementation","Regulations pertaining to freight rail transportation \nIssues relating to the INVEST in America Act HR 2","Monitor tax legislation. Monitoring legislative proposals and implementation relating to COVID-19 economic relief.","FY21 Appropriations","FY22 Appropriations","Monitor tax legislation. Ongoing monitoring of the consideration and implementation of the American Rescue Plan.","Monitor tax legislation. Ongoing monitoring of the consideration of the American Jobs Plan and other transportation and infrastructure proposals.","Regulations pertaining to freight rail transportation \nMonitoring of COVID-19 vaccination requirement proposals"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 140661,
+  "name": "GRAND TRUNK CORPORATION",
+  "slug": "grand-trunk-corporation",
+  "state": "DC",
+  "description": "Railroad",
+  "totalSpending": 3070000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 350000
+    },
+    {
+      "year": 2020,
+      "income": 440000
+    },
+    {
+      "year": 2021,
+      "income": 330000
+    },
+    {
+      "year": 2022,
+      "income": 440000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 440000
+    },
+    {
+      "year": 2025,
+      "income": 310000
+    }
+  ],
+  "firms": [
+    "PUBLIC STRATEGIES WASHINGTON, INC."
+  ],
+  "lobbyists": [
+    "JOSEPH O'NEILL",
+    "STEVEN EICHENAUER",
+    "PATRICK O'NEILL",
+    "COLTON HOTARY",
+    "THOMAS NAGLE",
+    "ALISON MCGUIGAN",
+    "AARON SUNTAG",
+    "ANGELA ZIMMERMAN",
+    "ABBIE SORRENDINO"
+  ],
+  "issues": [
+    "TRD",
+    "RRR",
+    "TAX",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Trade-related activities",
+    "Regulations pertaining to freight rail transportation",
+    "Corrections to tax reform legislation",
+    "FY2018 Appropriations\nFY2019 Appropriations",
+    "Issues related to railroads",
+    "FY2019 Appropriations",
+    "Clarifications to tax reform legislation",
+    "FY19 Appropriations\nFY20 appropriations",
+    "Trade-related activities, USMCA",
+    "FY20 appropriations",
+    "Monitor tax legislation",
+    "Appropriations",
+    "Trade-related activities, USMCA implementation",
+    "Regulations pertaining to freight rail transportation \nIssues relating to the INVEST in America Act HR 2",
+    "Monitor tax legislation. Monitoring legislative proposals and implementation relating to COVID-19 economic relief.",
+    "FY21 Appropriations",
+    "FY22 Appropriations",
+    "Monitor tax legislation. Ongoing monitoring of the consideration and implementation of the American Rescue Plan.",
+    "Monitor tax legislation. Ongoing monitoring of the consideration of the American Jobs Plan and other transportation and infrastructure proposals.",
+    "Regulations pertaining to freight rail transportation \nMonitoring of COVID-19 vaccination requirement proposals"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -3,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 383750,
+  "peakYear": 2020,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 4
+}

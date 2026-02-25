@@ -1,1 +1,90 @@
-{"id":201206,"name":"THE MOSAIC COMPANY","slug":"the-mosaic-company","state":"FL","description":"Crop Nutrition and Phosphate Production","totalSpending":1850000,"filings":27,"yearlySpending":[{"year":2018,"income":480000},{"year":2019,"income":180000},{"year":2020,"income":180000},{"year":2021,"income":70000},{"year":2022,"income":130000},{"year":2023,"income":240000},{"year":2024,"income":210000},{"year":2025,"income":360000}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","DANIEL MCFAUL","REBECCA BENN","SUSAN WILES","ADAM GOODMAN"],"issues":["CHM","AGR","CSP","GOV","NAT","FOO",null],"sampleDescriptions":["Natural Resource Policy & Regulation","Natural Resource Policy and Regulation","Critical minerals and fertilizer usage.","Critical minerals and mining policy","Critical minerals and mining policy.","Exploring ways to enhance food supply and food security in America, and around the world."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 201206,
+  "name": "THE MOSAIC COMPANY",
+  "slug": "the-mosaic-company",
+  "state": "FL",
+  "description": "Crop Nutrition and Phosphate Production",
+  "totalSpending": 1850000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 480000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 70000
+    },
+    {
+      "year": 2022,
+      "income": 130000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 210000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "BALLARD PARTNERS"
+  ],
+  "lobbyists": [
+    "BRIAN BALLARD",
+    "SYLVESTER LUKIS",
+    "DANIEL MCFAUL",
+    "REBECCA BENN",
+    "SUSAN WILES",
+    "ADAM GOODMAN"
+  ],
+  "issues": [
+    "CHM",
+    "AGR",
+    "CSP",
+    "GOV",
+    "NAT",
+    "FOO",
+    null
+  ],
+  "sampleDescriptions": [
+    "Natural Resource Policy & Regulation",
+    "Natural Resource Policy and Regulation",
+    "Critical minerals and fertilizer usage.",
+    "Critical minerals and mining policy",
+    "Critical minerals and mining policy.",
+    "Exploring ways to enhance food supply and food security in America, and around the world."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 231250,
+  "peakYear": 2018,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 6,
+  "industry": "technology"
+}

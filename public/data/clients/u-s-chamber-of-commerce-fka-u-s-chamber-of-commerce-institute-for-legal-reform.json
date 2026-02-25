@@ -1,1 +1,98 @@
-{"id":127049,"name":"U.S. CHAMBER OF COMMERCE FKA U.S. CHAMBER OF COMMERCE-INSTITUTE FOR LEGAL REFORM","slug":"u-s-chamber-of-commerce-fka-u-s-chamber-of-commerce-institute-for-legal-reform","state":"DC","description":null,"totalSpending":1520000,"filings":30,"yearlySpending":[{"year":2018,"income":210000},{"year":2019,"income":150000},{"year":2020,"income":250000},{"year":2021,"income":160000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["TIBER CREEK GROUP"],"lobbyists":["JEFFREY PECK","TIMOTHY MOLINO","JENNIFER OLSON"],"issues":["TOR","LAW","BNK","LBR",null],"sampleDescriptions":["H.R. 985, The Fairness in Class Action Litigation Act of 2017. H.R. 906, The Furthering Asbestos Claim Transparency (FACT) Act of 2017. General issues pertaining to arbitration.","H.R. 985, The Fairness in Class Action Litigation Act of 2017. H.R. 906, The Furthering Asbestos Claim Transparency (FACT) Act of 2017. General issues pertaining to arbitration. S. 3615; H.R. 7109 Restoring Justice to Wonders Act","General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act","General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act","General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; H.R. 946 Stopping Bad Robocalls Act; S. 151 Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act; S. 1790 National Defense Authorization Act for Fiscal Year 2020 (Public Law No. 116-92)","General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; S. 1790 National Defense Authorization Act for Fiscal Year 2020 (Public Law No. 116-92)","General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; S. 3398 Eliminating Abusive and Rampant Neglect of Interactive Technologies Act of 2020","General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; S. 3398 Eliminating Abusive and Rampant Neglect of Interactive Technologies Act of 2020; H.R. 8406 HEROES Act; S.1624 HEALS Act; S.4317 SAFE TO WORK Act","General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; S. 3398 Eliminating Abusive and Rampant Neglect of Interactive Technologies Act of 2020; S.1624 HEALS Act; S.4317 SAFE TO WORK Act; H.R. 133 / PL 116-260 - FY2021 Omnibus and COVID Relief and Response Act;  S. 4632, the Online Content Policy Modernization Act","General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; H.R. 1319 - American Rescue Plan Act of 2021 (PL 117-2), issues related to liability protection.","General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; H.R. 1319 - American Rescue Plan Act of 2021 (PL 117-2), issues related to liability protection","S. 2472/H.R. 2096 - SACKLER Act.","S. 1787/H.R. 3460 - State Antitrust Enforcement Venue Act of 2021.","General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; S. 2472/H.R. 2096 - SACKLER Act.","General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; American Rescue Plan Act of 2021 (PL 117-2), issues related to liability protection; S. 2472/H.R. 2096 - SACKLER Act.","General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; S. 2472/H.R. 2096 - SACKLER Act; S. 2342/H.R. 4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021.","General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021 (PL No. 117-90).","General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021 (PL No. 117-90)","General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; S.4524/H.R. 8227 - Speak Out Act.","General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; Speak Out Act (PL 117-224)."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 127049,
+  "name": "U.S. CHAMBER OF COMMERCE FKA U.S. CHAMBER OF COMMERCE-INSTITUTE FOR LEGAL REFORM",
+  "slug": "u-s-chamber-of-commerce-fka-u-s-chamber-of-commerce-institute-for-legal-reform",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 1520000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 210000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 250000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "TIBER CREEK GROUP"
+  ],
+  "lobbyists": [
+    "JEFFREY PECK",
+    "TIMOTHY MOLINO",
+    "JENNIFER OLSON"
+  ],
+  "issues": [
+    "TOR",
+    "LAW",
+    "BNK",
+    "LBR",
+    null
+  ],
+  "sampleDescriptions": [
+    "H.R. 985, The Fairness in Class Action Litigation Act of 2017. H.R. 906, The Furthering Asbestos Claim Transparency (FACT) Act of 2017. General issues pertaining to arbitration.",
+    "H.R. 985, The Fairness in Class Action Litigation Act of 2017. H.R. 906, The Furthering Asbestos Claim Transparency (FACT) Act of 2017. General issues pertaining to arbitration. S. 3615; H.R. 7109 Restoring Justice to Wonders Act",
+    "General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act",
+    "General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act",
+    "General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; H.R. 946 Stopping Bad Robocalls Act; S. 151 Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act; S. 1790 National Defense Authorization Act for Fiscal Year 2020 (Public Law No. 116-92)",
+    "General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; S. 1790 National Defense Authorization Act for Fiscal Year 2020 (Public Law No. 116-92)",
+    "General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; S. 3398 Eliminating Abusive and Rampant Neglect of Interactive Technologies Act of 2020",
+    "General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; S. 3398 Eliminating Abusive and Rampant Neglect of Interactive Technologies Act of 2020; H.R. 8406 HEROES Act; S.1624 HEALS Act; S.4317 SAFE TO WORK Act",
+    "General litigation reform issues; HR 1423/S 610 Forced Arbitration Injustice Act; S 471 Litigation Funding Transparency Act; Justice for Servicemembers Act; S. 3398 Eliminating Abusive and Rampant Neglect of Interactive Technologies Act of 2020; S.1624 HEALS Act; S.4317 SAFE TO WORK Act; H.R. 133 / PL 116-260 - FY2021 Omnibus and COVID Relief and Response Act;  S. 4632, the Online Content Policy Modernization Act",
+    "General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; H.R. 1319 - American Rescue Plan Act of 2021 (PL 117-2), issues related to liability protection.",
+    "General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; H.R. 1319 - American Rescue Plan Act of 2021 (PL 117-2), issues related to liability protection",
+    "S. 2472/H.R. 2096 - SACKLER Act.",
+    "S. 1787/H.R. 3460 - State Antitrust Enforcement Venue Act of 2021.",
+    "General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; S. 2472/H.R. 2096 - SACKLER Act.",
+    "General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; American Rescue Plan Act of 2021 (PL 117-2), issues related to liability protection; S. 2472/H.R. 2096 - SACKLER Act.",
+    "General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; S. 2472/H.R. 2096 - SACKLER Act; S. 2342/H.R. 4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021.",
+    "General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021 (PL No. 117-90).",
+    "General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021 (PL No. 117-90)",
+    "General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; S.4524/H.R. 8227 - Speak Out Act.",
+    "General litigation reform issues; H.R. 963/S. 505 - Forced Arbitration Injustice Repeal Act; Speak Out Act (PL 117-224)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -5,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 190000,
+  "peakYear": 2020,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 4
+}

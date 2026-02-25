@@ -1,1 +1,104 @@
-{"id":140335,"name":"MAXAR TECHNOLOGIES HOLDINGS INC F/K/A SSL MDA HOLDINGS","slug":"maxar-technologies-holdings-inc-f-k-a-ssl-mda-holdings","state":"CA","description":"Satellite communications.","totalSpending":1760000,"filings":22,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":160000}],"firms":["K&L GATES, LLP"],"lobbyists":["PAUL STIMERS","SEAN MCGLYNN","STEVEN MCCAIN","W STEPHENS","STEVEN VALENTINE","BART GORDON","SLADE GORTON","JAMES WALSH","DENNIS POTTER","ELI SCHOOLEY","DOUG HALL","NICHOLAS LEIBHAM","JEFFREY DENHAM","STACY ETTINGER","SCOTT GELBMAN","EUGENE SHESTAKOV","MATTHEW MANNING","ANDREW TABLER","TIM PECKINPAUGH"],"issues":["DEF","AER","SCI",null],"sampleDescriptions":["FY 2019 National Defense Authorization Act: satellite provisions - no bills yet introduced.\nH.R. 3219, FY2018 Department of Defense Appropriations: DARPA provisions.\nH.R. 1625 - Consolidated Appropriations Act, 2018 - DARPA provisions.","H.R. 3267, FY2018 Commerce/Justice/Science Appropriations: NASA provisions.\nH.R. 2809, American Space Commerce Free Enterprise Act, all provisions.\nH.S. 1625 - Consolidated Appropriations Act, 2018 - NASA provisions.","H.R. 5515 & S. 2987 - National Defense Authorization Act, 2019 - satellite provisions.\nH.R. 6157 - Department of Defense Appropriations, 2019 - DARPA provisions.","H.R. 5952 & S. 3072, Commerce/Justice/Science Appropriations,2019 - NASA provisions.\nH.R. 2809, American Space Commerce Free Enterprise Act - all provisions.\nH.R. 5503 - NASA Authorization of 2018 - all provisions.","H.R. 5952 & S. 3072, Commerce/Justice/Science Appropriations,2019 - NASA provisions.\nH.R. 2809, American Space Commerce Free Enterprise Act - all provisions.\nH.R. 5503 - NASA Authorization of 2018 - all provisions.\nS. 3277 - Space Frontier Act of 2018 - all provisions.","H.R. 6157 - Department of Defense Appropriations, 2019 - DARPA provisions.","H.R. 5952 & S. 3072, Commerce/Justice/Science Appropriations,2019 - NASA provisions.\nH.R. 5503 - NASA Authorization of 2018 - all provisions.\nS. 3277 - Space Frontier Act of 2018 - all provisions.","Unnumbered House and Senate Defense FY2020 Appropriations - issues related to satellites.\nUnnumbered National Defense Authorization Act of 2020 - Issues related to satellites","Unnumbered House and Senate Commerce, Justice and Science and Related Agencies FY2020 Appropriations - Issues related to NASA.\nUnnumbered House and Senate Defense FY2020 Appropriations - issues related to space.","H.r. 2968 - Department of Defense FY2020 Appropriations - issues related to satellites.\nH.R. 2500 and S. 1790 - National Defense Authorization Act of 2020 - Issues related to satellites","H.R. 3055 - Commerce, Justice and Science and Related Agencies FY2020 Appropriations - Issues related to NASA.\nH.R. 2968 - Department of Defense FY2020 Appropriations - issues related to space.\nS. 919 - Space Frontier Act - entire bill.","H.R. 2968/S. 2747 - Department of Defense FY2020 Appropriations - issues related to satellites.\nH.R. 2500 and S. 1790 - National Defense Authorization Act of 2020 - Issues related to satellites","H.R. 3055/S. 2584 - Commerce, Justice and Science and Related Agencies FY2020 Appropriations - Issues related to NASA.\nH.R. 2968/S. 2747 - Department of Defense FY2020 Appropriations - issues related to space.\nS. 919 - Space Frontier Act - entire bill.","H.R. 2968/S. 2747 - Department of Defense FY2020 Appropriations and H.R. 1158 - Continuing Appropriations - issues related to satellites.\nH.R. 2500 and S. 1790 - National Defense Authorization Act of 2020 - Issues related to satellites","H.R. 3055/S. 2584 - Commerce, Justice and Science and Related Agencies FY2020 Appropriations and H.R. 1158 - Continuing Appropriations - Issues related to NASA.\nH.R. 2968/S. 2747 - Department of Defense FY2020 Appropriations and H.R. 1158 - Continuing Appropriations- issues related to space.\nS. 2800 National Aeronautics and Space Administration Authorization Act of 2019 - entire bill.","Department of Defense FY2021 Appropriations - issues related to satellites.\nNational Defense Authorization Act of 2021 - Issues related to satellites","Commerce, Justice and Science and Related Agencies FY2021 Appropriations - Issues related to NASA.\nDepartment of Defense FY2021 Appropriations - issues related to space.\nS. 2800 National Aeronautics and Space Administration Authorization Act of 2019 - entire bill.\nH.R. 5666 - National Aeronautics and Space Administration Authorization Act of 2020 - all provisions.","Department of Defense FY2021 Appropriations - issues related to satellites.\nS. 4049/H.R. 6395 - National Defense Authorization Act of 2021 - Issues related to satellites","Commerce, Justice and Science and Related Agencies FY2021 Appropriations - Issues related to NASA.\nS. 2800 National Aeronautics and Space Administration Authorization Act of 2019 - entire bill.\nH.R. 5666 - National Aeronautics and Space Administration Authorization Act of 2020 - all provisions.","H.R. 7617 - Department of Defense FY2021 Appropriations - issues related to satellites.\nS. 4049/H.R. 6395 - National Defense Authorization Act of 2021 - Issues related to satellites"],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 140335,
+  "name": "MAXAR TECHNOLOGIES HOLDINGS INC F/K/A SSL MDA HOLDINGS",
+  "slug": "maxar-technologies-holdings-inc-f-k-a-ssl-mda-holdings",
+  "state": "CA",
+  "description": "Satellite communications.",
+  "totalSpending": 1760000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 160000
+    }
+  ],
+  "firms": [
+    "K&L GATES, LLP"
+  ],
+  "lobbyists": [
+    "PAUL STIMERS",
+    "SEAN MCGLYNN",
+    "STEVEN MCCAIN",
+    "W STEPHENS",
+    "STEVEN VALENTINE",
+    "BART GORDON",
+    "SLADE GORTON",
+    "JAMES WALSH",
+    "DENNIS POTTER",
+    "ELI SCHOOLEY",
+    "DOUG HALL",
+    "NICHOLAS LEIBHAM",
+    "JEFFREY DENHAM",
+    "STACY ETTINGER",
+    "SCOTT GELBMAN",
+    "EUGENE SHESTAKOV",
+    "MATTHEW MANNING",
+    "ANDREW TABLER",
+    "TIM PECKINPAUGH"
+  ],
+  "issues": [
+    "DEF",
+    "AER",
+    "SCI",
+    null
+  ],
+  "sampleDescriptions": [
+    "FY 2019 National Defense Authorization Act: satellite provisions - no bills yet introduced.\nH.R. 3219, FY2018 Department of Defense Appropriations: DARPA provisions.\nH.R. 1625 - Consolidated Appropriations Act, 2018 - DARPA provisions.",
+    "H.R. 3267, FY2018 Commerce/Justice/Science Appropriations: NASA provisions.\nH.R. 2809, American Space Commerce Free Enterprise Act, all provisions.\nH.S. 1625 - Consolidated Appropriations Act, 2018 - NASA provisions.",
+    "H.R. 5515 & S. 2987 - National Defense Authorization Act, 2019 - satellite provisions.\nH.R. 6157 - Department of Defense Appropriations, 2019 - DARPA provisions.",
+    "H.R. 5952 & S. 3072, Commerce/Justice/Science Appropriations,2019 - NASA provisions.\nH.R. 2809, American Space Commerce Free Enterprise Act - all provisions.\nH.R. 5503 - NASA Authorization of 2018 - all provisions.",
+    "H.R. 5952 & S. 3072, Commerce/Justice/Science Appropriations,2019 - NASA provisions.\nH.R. 2809, American Space Commerce Free Enterprise Act - all provisions.\nH.R. 5503 - NASA Authorization of 2018 - all provisions.\nS. 3277 - Space Frontier Act of 2018 - all provisions.",
+    "H.R. 6157 - Department of Defense Appropriations, 2019 - DARPA provisions.",
+    "H.R. 5952 & S. 3072, Commerce/Justice/Science Appropriations,2019 - NASA provisions.\nH.R. 5503 - NASA Authorization of 2018 - all provisions.\nS. 3277 - Space Frontier Act of 2018 - all provisions.",
+    "Unnumbered House and Senate Defense FY2020 Appropriations - issues related to satellites.\nUnnumbered National Defense Authorization Act of 2020 - Issues related to satellites",
+    "Unnumbered House and Senate Commerce, Justice and Science and Related Agencies FY2020 Appropriations - Issues related to NASA.\nUnnumbered House and Senate Defense FY2020 Appropriations - issues related to space.",
+    "H.r. 2968 - Department of Defense FY2020 Appropriations - issues related to satellites.\nH.R. 2500 and S. 1790 - National Defense Authorization Act of 2020 - Issues related to satellites",
+    "H.R. 3055 - Commerce, Justice and Science and Related Agencies FY2020 Appropriations - Issues related to NASA.\nH.R. 2968 - Department of Defense FY2020 Appropriations - issues related to space.\nS. 919 - Space Frontier Act - entire bill.",
+    "H.R. 2968/S. 2747 - Department of Defense FY2020 Appropriations - issues related to satellites.\nH.R. 2500 and S. 1790 - National Defense Authorization Act of 2020 - Issues related to satellites",
+    "H.R. 3055/S. 2584 - Commerce, Justice and Science and Related Agencies FY2020 Appropriations - Issues related to NASA.\nH.R. 2968/S. 2747 - Department of Defense FY2020 Appropriations - issues related to space.\nS. 919 - Space Frontier Act - entire bill.",
+    "H.R. 2968/S. 2747 - Department of Defense FY2020 Appropriations and H.R. 1158 - Continuing Appropriations - issues related to satellites.\nH.R. 2500 and S. 1790 - National Defense Authorization Act of 2020 - Issues related to satellites",
+    "H.R. 3055/S. 2584 - Commerce, Justice and Science and Related Agencies FY2020 Appropriations and H.R. 1158 - Continuing Appropriations - Issues related to NASA.\nH.R. 2968/S. 2747 - Department of Defense FY2020 Appropriations and H.R. 1158 - Continuing Appropriations- issues related to space.\nS. 2800 National Aeronautics and Space Administration Authorization Act of 2019 - entire bill.",
+    "Department of Defense FY2021 Appropriations - issues related to satellites.\nNational Defense Authorization Act of 2021 - Issues related to satellites",
+    "Commerce, Justice and Science and Related Agencies FY2021 Appropriations - Issues related to NASA.\nDepartment of Defense FY2021 Appropriations - issues related to space.\nS. 2800 National Aeronautics and Space Administration Authorization Act of 2019 - entire bill.\nH.R. 5666 - National Aeronautics and Space Administration Authorization Act of 2020 - all provisions.",
+    "Department of Defense FY2021 Appropriations - issues related to satellites.\nS. 4049/H.R. 6395 - National Defense Authorization Act of 2021 - Issues related to satellites",
+    "Commerce, Justice and Science and Related Agencies FY2021 Appropriations - Issues related to NASA.\nS. 2800 National Aeronautics and Space Administration Authorization Act of 2019 - entire bill.\nH.R. 5666 - National Aeronautics and Space Administration Authorization Act of 2020 - all provisions.",
+    "H.R. 7617 - Department of Defense FY2021 Appropriations - issues related to satellites.\nS. 4049/H.R. 6395 - National Defense Authorization Act of 2021 - Issues related to satellites"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -50,
+  "trajectory": "reducing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 293333,
+  "peakYear": 2018,
+  "lobbyistCount": 19,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

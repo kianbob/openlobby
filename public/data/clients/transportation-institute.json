@@ -1,1 +1,87 @@
-{"id":207152,"name":"TRANSPORTATION INSTITUTE","slug":"transportation-institute","state":"MD","description":"A non-profit organization dedicated to maritime research education and promotion","totalSpending":2300000,"filings":21,"yearlySpending":[{"year":2020,"income":240000},{"year":2021,"income":480000},{"year":2022,"income":480000},{"year":2023,"income":360000},{"year":2024,"income":480000},{"year":2025,"income":260000}],"firms":["SQUIRE PATTON BOGGS"],"lobbyists":["JOHN FLYNN","MATTHEW CUTTS","CALLIE HICKOX","DAVID LESSTRANG","DAVID SCHNITTGER","RODNEY EMERY","BRET BOYLES","AUSTIN HARRISON","MARGARET MULLANEY"],"issues":["MAR","TRA",null],"sampleDescriptions":["Funding issues in support of P.L. 480, Food for Peace program, Maritime Security Program (MSP) and Cargo Preference. Support and protection of the Jones Act. \nAdvance and support efforts for ongoing tug engine replacement project.","Advance and support efforts for ongoing tug engine replacement project.  \nFunding issues in support of the Maritime Security Program (MSP) related to COVID-19.  Continued support and protection of the Jones Act.  Issues related to waterborne transportation grant programs other relief measures in the Coronavirus Aid, Relief, and Economic Security Act and subsequent legislative relief measures.","Advance and support efforts for ongoing tug engine replacement project.\nFunding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the National Defense Authorization Act (P.L.116-283).  Continued support and protection of the Jones Act.  Issues related to waterborne transportation grant programs other relief measures in the Coronavirus Aid, Relief, and Economic Security Act and subsequent legislative relief measures.","Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the National Defense Authorization Act (P.L.116-283).  Continued support and protection of the Jones Act.  Issues related to waterborne transportation grant programs other relief measures in the Coronavirus Aid, Relief, and Economic Security Act and subsequent legislative relief measures.","Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the National Defense Authorization Act (P.L.116-283).  Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs.","Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the National Defense Authorization Act (P.L.116-283).  Issues in support of FY22, National Defense Authorization Act (NDAA).  Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs.","Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the Omnibus Appropriations Act. Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs.","Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the FY23 Appropriations cycle. Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs. Issues related to Senate Concurrent Resolution (S.Con.Res.38), declaring a state of emergency due to the Russian invasion of Ukraine.","Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the FY23 Appropriations cycle. Continued support and protection of the Jones Act, Cargo Preference, Tonnage Tax Alternative and other maritime related programs. Issues related to Senate Concurrent Resolution (S.Con.Res.38), declaring a state of emergency due to the Russian invasion of Ukraine.","Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the FY23 Appropriations cycle. Continued support and protection of the Jones Act, Cargo Preference, Tonnage Tax Alternative and other maritime related programs.","Funding issues in support of the Maritime Security program (MSP) and Tanker Security Program in the FY25 Appropriations cycle and National Defense Authorization Act (NDAA). Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs. Issues related to merchant mariners in H.R. 7659, Coast Guard Authorization Act of 2024 and pending introduction of Senate legislation. (House, Senate, U.S. Coast Guard)","Funding issues in support of the Maritime Security program (MSP) and Tanker Security Program in the FY25 Appropriations cycle and National Defense Authorization Act (NDAA). Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs. Issues related to merchant mariners in H.R. 7659, Coast Guard Authorization Act of 2024 and recent introduction of Senate legislation.","Funding and regulatory issues in support of the Maritime Security program (MSP) and Tanker Security Program in the annual Appropriations cycle and National Defense Authorization Act (NDAA). Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs. Issues related to merchant mariners in Coast Guard Authorization legislation and pending introduction of Senate legislation. (House, Senate, U.S. Coast Guard)","Outreach and education to federal partners on the value of repurposing federal award funds for the construction of new tugs."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 207152,
+  "name": "TRANSPORTATION INSTITUTE",
+  "slug": "transportation-institute",
+  "state": "MD",
+  "description": "A non-profit organization dedicated to maritime research education and promotion",
+  "totalSpending": 2300000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 480000
+    },
+    {
+      "year": 2022,
+      "income": 480000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 480000
+    },
+    {
+      "year": 2025,
+      "income": 260000
+    }
+  ],
+  "firms": [
+    "SQUIRE PATTON BOGGS"
+  ],
+  "lobbyists": [
+    "JOHN FLYNN",
+    "MATTHEW CUTTS",
+    "CALLIE HICKOX",
+    "DAVID LESSTRANG",
+    "DAVID SCHNITTGER",
+    "RODNEY EMERY",
+    "BRET BOYLES",
+    "AUSTIN HARRISON",
+    "MARGARET MULLANEY"
+  ],
+  "issues": [
+    "MAR",
+    "TRA",
+    null
+  ],
+  "sampleDescriptions": [
+    "Funding issues in support of P.L. 480, Food for Peace program, Maritime Security Program (MSP) and Cargo Preference. Support and protection of the Jones Act. \nAdvance and support efforts for ongoing tug engine replacement project.",
+    "Advance and support efforts for ongoing tug engine replacement project.  \nFunding issues in support of the Maritime Security Program (MSP) related to COVID-19.  Continued support and protection of the Jones Act.  Issues related to waterborne transportation grant programs other relief measures in the Coronavirus Aid, Relief, and Economic Security Act and subsequent legislative relief measures.",
+    "Advance and support efforts for ongoing tug engine replacement project.\nFunding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the National Defense Authorization Act (P.L.116-283).  Continued support and protection of the Jones Act.  Issues related to waterborne transportation grant programs other relief measures in the Coronavirus Aid, Relief, and Economic Security Act and subsequent legislative relief measures.",
+    "Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the National Defense Authorization Act (P.L.116-283).  Continued support and protection of the Jones Act.  Issues related to waterborne transportation grant programs other relief measures in the Coronavirus Aid, Relief, and Economic Security Act and subsequent legislative relief measures.",
+    "Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the National Defense Authorization Act (P.L.116-283).  Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs.",
+    "Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the National Defense Authorization Act (P.L.116-283).  Issues in support of FY22, National Defense Authorization Act (NDAA).  Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs.",
+    "Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the Omnibus Appropriations Act. Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs.",
+    "Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the FY23 Appropriations cycle. Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs. Issues related to Senate Concurrent Resolution (S.Con.Res.38), declaring a state of emergency due to the Russian invasion of Ukraine.",
+    "Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the FY23 Appropriations cycle. Continued support and protection of the Jones Act, Cargo Preference, Tonnage Tax Alternative and other maritime related programs. Issues related to Senate Concurrent Resolution (S.Con.Res.38), declaring a state of emergency due to the Russian invasion of Ukraine.",
+    "Funding issues in support of the Maritime Security Program (MSP) and Tanker Security Program in the FY23 Appropriations cycle. Continued support and protection of the Jones Act, Cargo Preference, Tonnage Tax Alternative and other maritime related programs.",
+    "Funding issues in support of the Maritime Security program (MSP) and Tanker Security Program in the FY25 Appropriations cycle and National Defense Authorization Act (NDAA). Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs. Issues related to merchant mariners in H.R. 7659, Coast Guard Authorization Act of 2024 and pending introduction of Senate legislation. (House, Senate, U.S. Coast Guard)",
+    "Funding issues in support of the Maritime Security program (MSP) and Tanker Security Program in the FY25 Appropriations cycle and National Defense Authorization Act (NDAA). Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs. Issues related to merchant mariners in H.R. 7659, Coast Guard Authorization Act of 2024 and recent introduction of Senate legislation.",
+    "Funding and regulatory issues in support of the Maritime Security program (MSP) and Tanker Security Program in the annual Appropriations cycle and National Defense Authorization Act (NDAA). Continued support and protection of the Jones Act, Cargo Preference and other maritime related programs. Issues related to merchant mariners in Coast Guard Authorization legislation and pending introduction of Senate legislation. (House, Senate, U.S. Coast Guard)",
+    "Outreach and education to federal partners on the value of repurposing federal award funds for the construction of new tugs."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 8,
+  "trajectory": "stable",
+  "yearsActive": 6,
+  "avgAnnualSpending": 383333,
+  "peakYear": 2021,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "transportation"
+}

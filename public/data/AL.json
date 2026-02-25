@@ -1,1 +1,329 @@
-{"abbreviation":"AL","name":"Alabama","totalSpending":151077107,"totalFilings":6742,"clientCount":399,"yearlySpending":[{"year":2018,"income":8934500},{"year":2019,"income":11496150},{"year":2020,"income":13827300},{"year":2021,"income":14800750},{"year":2022,"income":17634000},{"year":2023,"income":42347000},{"year":2024,"income":19410322},{"year":2025,"income":22627085}],"topClients":[{"name":"DUCTILE IRON PIPE RESEARCH ASSOCIATION","income":6980000},{"name":"SOUTHEASTERN CONFERENCE","income":4290000},{"name":"MCWANE, INC.","income":3630000},{"name":"ENCOMPASS HEALTH","income":3520000},{"name":"VULCAN MATERIALS COMPANY","income":2800000},{"name":"POARCH BAND OF CREEK INDIANS","income":2790000},{"name":"MCWANE INC.","income":2720000},{"name":"PROTECTIVE LIFE CORPORATION","income":2510000},{"name":"RADIANCE TECHNOLOGIES, INC.","income":2194000},{"name":"UAB HEALTH SYSTEM","income":2180000},{"name":"OUTOKUMPU STAINLESS USA, LLC","income":2180000},{"name":"DRUMMOND COMPANY INC.","income":2115000},{"name":"QUANTUM RESEARCH INTERNATIONAL, INC.","income":2080000},{"name":"TORCH TECHNOLOGIES, INC.","income":1950000},{"name":"CITY OF BIRMINGHAM, ALABAMA","income":1847500},{"name":"AUSTAL USA","income":1780000},{"name":"WIGGINS CHILDS PANTAZIS FISHER GOLDFARB","income":1750000},{"name":"GENERAL ATOMICS ELECTROMAGNETIC SYSTEMS","income":1700000},{"name":"TRIDEUM CORPORATION","income":1560000},{"name":"BALDWIN COUNTY COMMISSION","income":1524000},{"name":"RADIANCE TECHNOLOGIES, INC","income":1440000},{"name":"MEDICAL PLACE","income":1410000},{"name":"REGIONS FINANCIAL CORPORATION","income":1400000},{"name":"ADTRAN","income":1390000},{"name":"RESOURCE MANAGEMENT SERVICE LLC","income":1300000},{"name":"MASTER BOAT BUILDERS, INC.","income":1270000},{"name":"COALITION FOR STUDENT OPPORTUNITY AND SUCCESS","income":1220000},{"name":"AUBURN UNIVERSITY","income":1210000},{"name":"QUALIS CORPORATION","income":1160000},{"name":"SOUTHERN POVERTY LAW CENTER","income":1130000},{"name":"DYNETICS INC","income":1090000},{"name":"PERFORMANCE DRONE WORKS","income":1080000},{"name":"MANAGEMENT ASSOCIATION FOR PRIVATE PHOTOGRAMMETRIC SURVEYORS","income":1060000},{"name":"ASSOCIATION OF UNIVERSITY PROGRAMS IN OCCUPATIONAL HEALTH AND SAFETY","income":1040000},{"name":"ALABAMA STATE PORT AUTHORITY","income":1030000},{"name":"NORTHPORT HEALTH SERVICES","income":1030000},{"name":"ALABAMA STATE UNIVERSITY","income":1030000},{"name":"CITY OF HUNTSVILLE, ALABAMA","income":1000000},{"name":"TRIBAL COUNCIL POARCH CREEK INDIANS","income":1000000},{"name":"EOS DEFENSE SYSTEMS USA, INC.","income":1000000},{"name":"TWIN PINES MINERALS, LLC","income":995000},{"name":"WIREGRASS ECONOMIC DEVELOPMENT CORPORATION","income":990000},{"name":"ALABAMA SHIPYARD LLC","income":990000},{"name":"MOBILE AIRPORT AUTHORITY","income":985000},{"name":"THE HUNTSVILLE-MADISON COUNTY AIRPORT AUTHORITY","income":970000},{"name":"JACKSONVILLE STATE UNIVERSITY","income":920000},{"name":"NAVIGATE AFFORDABLE HOUSING PARTNERS, INC.","income":920000},{"name":"CITY OF MOBILE, ALABAMA","income":900000},{"name":"PITTS ENTERPRISES, INC.","income":890000},{"name":"REGIONS FINANCIAL CORP.","income":870000}],"topIssues":[{"code":"BUD","income":49860750},{"code":"DEF","income":32427750},{"code":"TRD","income":12911250},{"code":"TRA","income":11107000},{"code":"HCR","income":10786250},{"code":"MAN","income":10005000},{"code":"EDU","income":9305000},{"code":"HOM","income":8820000},{"code":"MMM","income":8165000},{"code":"TAX","income":5922000},{"code":"ENV","income":4388857},{"code":"MAR","income":3990000},{"code":"ECN","income":3831500},{"code":"LAW","income":3828500},{"code":"CAW","income":3751500},{"code":"SPO","income":3660000},{"code":"GOV","income":3480000},{"code":"IND","income":3402500},{"code":"AER","income":3285650},{"code":"DIS","income":3257000}]}
+{
+  "abbreviation": "AL",
+  "name": "Alabama",
+  "totalSpending": 151077107,
+  "totalFilings": 6742,
+  "clientCount": 399,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 8934500
+    },
+    {
+      "year": 2019,
+      "income": 11496150
+    },
+    {
+      "year": 2020,
+      "income": 13827300
+    },
+    {
+      "year": 2021,
+      "income": 14800750
+    },
+    {
+      "year": 2022,
+      "income": 17634000
+    },
+    {
+      "year": 2023,
+      "income": 42347000
+    },
+    {
+      "year": 2024,
+      "income": 19410322
+    },
+    {
+      "year": 2025,
+      "income": 22627085
+    }
+  ],
+  "topClients": [
+    {
+      "name": "DUCTILE IRON PIPE RESEARCH ASSOCIATION",
+      "income": 6980000
+    },
+    {
+      "name": "SOUTHEASTERN CONFERENCE",
+      "income": 4290000
+    },
+    {
+      "name": "MCWANE, INC.",
+      "income": 3630000
+    },
+    {
+      "name": "ENCOMPASS HEALTH",
+      "income": 3520000
+    },
+    {
+      "name": "VULCAN MATERIALS COMPANY",
+      "income": 2800000
+    },
+    {
+      "name": "POARCH BAND OF CREEK INDIANS",
+      "income": 2790000
+    },
+    {
+      "name": "MCWANE INC.",
+      "income": 2720000
+    },
+    {
+      "name": "PROTECTIVE LIFE CORPORATION",
+      "income": 2510000
+    },
+    {
+      "name": "RADIANCE TECHNOLOGIES, INC.",
+      "income": 2194000
+    },
+    {
+      "name": "UAB HEALTH SYSTEM",
+      "income": 2180000
+    },
+    {
+      "name": "OUTOKUMPU STAINLESS USA, LLC",
+      "income": 2180000
+    },
+    {
+      "name": "DRUMMOND COMPANY INC.",
+      "income": 2115000
+    },
+    {
+      "name": "QUANTUM RESEARCH INTERNATIONAL, INC.",
+      "income": 2080000
+    },
+    {
+      "name": "TORCH TECHNOLOGIES, INC.",
+      "income": 1950000
+    },
+    {
+      "name": "CITY OF BIRMINGHAM, ALABAMA",
+      "income": 1847500
+    },
+    {
+      "name": "AUSTAL USA",
+      "income": 1780000
+    },
+    {
+      "name": "WIGGINS CHILDS PANTAZIS FISHER GOLDFARB",
+      "income": 1750000
+    },
+    {
+      "name": "GENERAL ATOMICS ELECTROMAGNETIC SYSTEMS",
+      "income": 1700000
+    },
+    {
+      "name": "TRIDEUM CORPORATION",
+      "income": 1560000
+    },
+    {
+      "name": "BALDWIN COUNTY COMMISSION",
+      "income": 1524000
+    },
+    {
+      "name": "RADIANCE TECHNOLOGIES, INC",
+      "income": 1440000
+    },
+    {
+      "name": "MEDICAL PLACE",
+      "income": 1410000
+    },
+    {
+      "name": "REGIONS FINANCIAL CORPORATION",
+      "income": 1400000
+    },
+    {
+      "name": "ADTRAN",
+      "income": 1390000
+    },
+    {
+      "name": "RESOURCE MANAGEMENT SERVICE LLC",
+      "income": 1300000
+    },
+    {
+      "name": "MASTER BOAT BUILDERS, INC.",
+      "income": 1270000
+    },
+    {
+      "name": "COALITION FOR STUDENT OPPORTUNITY AND SUCCESS",
+      "income": 1220000
+    },
+    {
+      "name": "AUBURN UNIVERSITY",
+      "income": 1210000
+    },
+    {
+      "name": "QUALIS CORPORATION",
+      "income": 1160000
+    },
+    {
+      "name": "SOUTHERN POVERTY LAW CENTER",
+      "income": 1130000
+    },
+    {
+      "name": "DYNETICS INC",
+      "income": 1090000
+    },
+    {
+      "name": "PERFORMANCE DRONE WORKS",
+      "income": 1080000
+    },
+    {
+      "name": "MANAGEMENT ASSOCIATION FOR PRIVATE PHOTOGRAMMETRIC SURVEYORS",
+      "income": 1060000
+    },
+    {
+      "name": "ASSOCIATION OF UNIVERSITY PROGRAMS IN OCCUPATIONAL HEALTH AND SAFETY",
+      "income": 1040000
+    },
+    {
+      "name": "ALABAMA STATE PORT AUTHORITY",
+      "income": 1030000
+    },
+    {
+      "name": "NORTHPORT HEALTH SERVICES",
+      "income": 1030000
+    },
+    {
+      "name": "ALABAMA STATE UNIVERSITY",
+      "income": 1030000
+    },
+    {
+      "name": "CITY OF HUNTSVILLE, ALABAMA",
+      "income": 1000000
+    },
+    {
+      "name": "TRIBAL COUNCIL POARCH CREEK INDIANS",
+      "income": 1000000
+    },
+    {
+      "name": "EOS DEFENSE SYSTEMS USA, INC.",
+      "income": 1000000
+    },
+    {
+      "name": "TWIN PINES MINERALS, LLC",
+      "income": 995000
+    },
+    {
+      "name": "WIREGRASS ECONOMIC DEVELOPMENT CORPORATION",
+      "income": 990000
+    },
+    {
+      "name": "ALABAMA SHIPYARD LLC",
+      "income": 990000
+    },
+    {
+      "name": "MOBILE AIRPORT AUTHORITY",
+      "income": 985000
+    },
+    {
+      "name": "THE HUNTSVILLE-MADISON COUNTY AIRPORT AUTHORITY",
+      "income": 970000
+    },
+    {
+      "name": "JACKSONVILLE STATE UNIVERSITY",
+      "income": 920000
+    },
+    {
+      "name": "NAVIGATE AFFORDABLE HOUSING PARTNERS, INC.",
+      "income": 920000
+    },
+    {
+      "name": "CITY OF MOBILE, ALABAMA",
+      "income": 900000
+    },
+    {
+      "name": "PITTS ENTERPRISES, INC.",
+      "income": 890000
+    },
+    {
+      "name": "REGIONS FINANCIAL CORP.",
+      "income": 870000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 49860750
+    },
+    {
+      "code": "DEF",
+      "income": 32427750
+    },
+    {
+      "code": "TRD",
+      "income": 12911250
+    },
+    {
+      "code": "TRA",
+      "income": 11107000
+    },
+    {
+      "code": "HCR",
+      "income": 10786250
+    },
+    {
+      "code": "MAN",
+      "income": 10005000
+    },
+    {
+      "code": "EDU",
+      "income": 9305000
+    },
+    {
+      "code": "HOM",
+      "income": 8820000
+    },
+    {
+      "code": "MMM",
+      "income": 8165000
+    },
+    {
+      "code": "TAX",
+      "income": 5922000
+    },
+    {
+      "code": "ENV",
+      "income": 4388857
+    },
+    {
+      "code": "MAR",
+      "income": 3990000
+    },
+    {
+      "code": "ECN",
+      "income": 3831500
+    },
+    {
+      "code": "LAW",
+      "income": 3828500
+    },
+    {
+      "code": "CAW",
+      "income": 3751500
+    },
+    {
+      "code": "SPO",
+      "income": 3660000
+    },
+    {
+      "code": "GOV",
+      "income": 3480000
+    },
+    {
+      "code": "IND",
+      "income": 3402500
+    },
+    {
+      "code": "AER",
+      "income": 3285650
+    },
+    {
+      "code": "DIS",
+      "income": 3257000
+    }
+  ],
+  "perCapita": 31.8,
+  "population": 5108468,
+  "nationalRank": 26,
+  "perCapitaRank": 30
+}

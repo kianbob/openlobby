@@ -1,0 +1,434 @@
+{
+  "industry": "finance",
+  "totalSpending": 3122746782.0400004,
+  "totalFilings": 37768,
+  "clientCount": 2247,
+  "topClients": [
+    {
+      "name": "NATIONAL ASSOCIATION OF REALTORS",
+      "state": "DC",
+      "spending": 441231000,
+      "filings": 28,
+      "desc": null
+    },
+    {
+      "name": "CHAMBER OF COMMERCE OF THE U.S.A.",
+      "state": "DC",
+      "spending": 82290000,
+      "filings": 4,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN BANKERS ASSOCIATION",
+      "state": "DC",
+      "spending": 81442000,
+      "filings": 310,
+      "desc": "Bank trade association"
+    },
+    {
+      "name": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+      "state": "DC",
+      "spending": 67490000,
+      "filings": 72,
+      "desc": "Trade association"
+    },
+    {
+      "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+      "state": "DC",
+      "spending": 54395000,
+      "filings": 189,
+      "desc": null
+    },
+    {
+      "name": "INVESTMENT COMPANY INSTITUTE",
+      "state": "DC",
+      "spending": 46365994,
+      "filings": 345,
+      "desc": null
+    },
+    {
+      "name": "INDEPENDENT COMMUNITY BANKERS OF AMERICA",
+      "state": "DC",
+      "spending": 39833810,
+      "filings": 66,
+      "desc": null
+    },
+    {
+      "name": "CREDIT UNION NATIONAL ASSOCIATION, INC. DBA AMERICA'S CREDIT UNIONS",
+      "state": "DC",
+      "spending": 35542084,
+      "filings": 58,
+      "desc": null
+    },
+    {
+      "name": "ALLSTATE INSURANCE COMPANY",
+      "state": "IL",
+      "spending": 34183797.95999999,
+      "filings": 134,
+      "desc": null
+    },
+    {
+      "name": "PRUDENTIAL FINANCIAL INC",
+      "state": "NJ",
+      "spending": 33714665,
+      "filings": 74,
+      "desc": null
+    },
+    {
+      "name": "CONSUMER BANKERS ASSOCIATION",
+      "state": "DC",
+      "spending": 33174000,
+      "filings": 95,
+      "desc": "&#226;€‹A trade assoc. for today's leaders in banking geared toward consumers & small businesses."
+    },
+    {
+      "name": "JPMORGAN CHASE HOLDINGS LLC",
+      "state": "NY",
+      "spending": 30800000,
+      "filings": 277,
+      "desc": "Global financial services firm"
+    },
+    {
+      "name": "NATIONWIDE MUTUAL INSURANCE COMPANY",
+      "state": "OH",
+      "spending": 28350000,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "LIBERTY MUTUAL GROUP",
+      "state": "DC",
+      "spending": 28330000,
+      "filings": 87,
+      "desc": "Insurance"
+    },
+    {
+      "name": "GOLDMAN SACHS GROUP INC",
+      "state": "DC",
+      "spending": 27617000,
+      "filings": 61,
+      "desc": "Financial services"
+    },
+    {
+      "name": "MORTGAGE BANKERS ASSOCIATION",
+      "state": "DC",
+      "spending": 27608715,
+      "filings": 152,
+      "desc": "Association representing the real estate finance industry"
+    },
+    {
+      "name": "NEW YORK LIFE INSURANCE COMPANY",
+      "state": "NY",
+      "spending": 27110000,
+      "filings": 116,
+      "desc": "insurance"
+    },
+    {
+      "name": "THE NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY",
+      "state": "WI",
+      "spending": 25290000,
+      "filings": 117,
+      "desc": "insurance and financial products"
+    },
+    {
+      "name": "MORGAN STANLEY & CO LLC",
+      "state": "DC",
+      "spending": 24400000,
+      "filings": 58,
+      "desc": "global financial services firm"
+    },
+    {
+      "name": "CAPITAL ONE FINANCIAL CORPORATION",
+      "state": "VA",
+      "spending": 24349000,
+      "filings": 167,
+      "desc": "Financial institution."
+    },
+    {
+      "name": "BUSINESS ROUNDTABLE INC",
+      "state": "DC",
+      "spending": 22670000,
+      "filings": 4,
+      "desc": null
+    },
+    {
+      "name": "ALLY FINANCIAL INC",
+      "state": "DC",
+      "spending": 22050000,
+      "filings": 31,
+      "desc": null
+    },
+    {
+      "name": "MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY",
+      "state": "MA",
+      "spending": 21580000,
+      "filings": 108,
+      "desc": null
+    },
+    {
+      "name": "BANK OF AMERICA CORPORATION",
+      "state": "NC",
+      "spending": 21350000,
+      "filings": 88,
+      "desc": null
+    },
+    {
+      "name": "BANK POLICY INSTITUTE",
+      "state": "DC",
+      "spending": 19865000,
+      "filings": 138,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF FEDERALLY-INSURED CREDIT UNIONS",
+      "state": "VA",
+      "spending": 19540000,
+      "filings": 34,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES",
+      "state": "DC",
+      "spending": 19028080,
+      "filings": 145,
+      "desc": null
+    },
+    {
+      "name": "TRUIST FINANCIAL CORPORATION (FORMERLY KNOWN AS BB&T)",
+      "state": "DC",
+      "spending": 18819918,
+      "filings": 32,
+      "desc": null
+    },
+    {
+      "name": "FINANCIAL SERVICES FORUM",
+      "state": "DC",
+      "spending": 18025000,
+      "filings": 81,
+      "desc": null
+    },
+    {
+      "name": "AMERICAN INVESTMENT COUNCIL F/K/A PEGCC",
+      "state": "DC",
+      "spending": 17851000,
+      "filings": 29,
+      "desc": null
+    },
+    {
+      "name": "SB GROUP US, INC. DBA SOFTBANK GROUP US, INC.",
+      "state": "DC",
+      "spending": 17770500,
+      "filings": 40,
+      "desc": null
+    },
+    {
+      "name": "PRINCIPAL FINANCIAL GROUP",
+      "state": "DC",
+      "spending": 17674000,
+      "filings": 86,
+      "desc": "Investment manager and provider of financial products and services"
+    },
+    {
+      "name": "BLACKROCK FUNDS SERVICES GROUP LLC",
+      "state": "DE",
+      "spending": 17600000,
+      "filings": 76,
+      "desc": null
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS",
+      "state": "VA",
+      "spending": 17286389,
+      "filings": 113,
+      "desc": null
+    },
+    {
+      "name": "ZURICH AMERICAN INSURANCE COMPANY (FKA ZURICH)",
+      "state": "DC",
+      "spending": 17040000,
+      "filings": 36,
+      "desc": null
+    },
+    {
+      "name": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+      "state": "DC",
+      "spending": 16570000,
+      "filings": 59,
+      "desc": null
+    },
+    {
+      "name": "JACKSON NATIONAL LIFE INSURANCE COMPANY",
+      "state": "MI",
+      "spending": 16130000,
+      "filings": 64,
+      "desc": "insurance"
+    },
+    {
+      "name": "THE BLACKSTONE GROUP",
+      "state": "DC",
+      "spending": 15795000,
+      "filings": 101,
+      "desc": "Private Equity Investment Firm"
+    },
+    {
+      "name": "U S CHAMBER INSTITUTE FOR LEGAL REFORM",
+      "state": "DC",
+      "spending": 15020000,
+      "filings": 2,
+      "desc": null
+    },
+    {
+      "name": "DISCOVER FINANCIAL SERVICES",
+      "state": "DC",
+      "spending": 14935000,
+      "filings": 59,
+      "desc": null
+    },
+    {
+      "name": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
+      "state": "DC",
+      "spending": 14623816,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "CHARLES SCHWAB CORPORATION",
+      "state": "DC",
+      "spending": 14590000,
+      "filings": 62,
+      "desc": null
+    },
+    {
+      "name": "PRIMERICA LIFE INSURANCE COMPANY",
+      "state": "GA",
+      "spending": 14050000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "REINSURANCE ASSN OF AMERICA",
+      "state": "DC",
+      "spending": 13270000,
+      "filings": 42,
+      "desc": null
+    },
+    {
+      "name": "SYNCHRONY FINANCIAL",
+      "state": "CT",
+      "spending": 13190000,
+      "filings": 91,
+      "desc": null
+    },
+    {
+      "name": "PACIFIC LIFE INSURANCE COMPANY",
+      "state": "CA",
+      "spending": 13060000,
+      "filings": 66,
+      "desc": null
+    },
+    {
+      "name": "COUNCIL OF INSURANCE AGENTS AND BROKERS",
+      "state": "DC",
+      "spending": 13048000,
+      "filings": 62,
+      "desc": null
+    },
+    {
+      "name": "HARTFORD INSURANCE GROUP (FKA HARTFORD FINANCIAL SERVICES GROUP)",
+      "state": "CT",
+      "spending": 12590000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "STATE STREET BANK AND TRUST COMPANY AND ITS AFFILIATES",
+      "state": "MA",
+      "spending": 12270000,
+      "filings": 30,
+      "desc": null
+    },
+    {
+      "name": "GENWORTH FINANCIAL, INC.",
+      "state": "DC",
+      "spending": 12144635,
+      "filings": 63,
+      "desc": "Insurance company"
+    }
+  ],
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "spending": 299369407.04999995
+    },
+    {
+      "year": 2019,
+      "spending": 334922230.25
+    },
+    {
+      "year": 2020,
+      "spending": 480144368.49
+    },
+    {
+      "year": 2021,
+      "spending": 330597190.94
+    },
+    {
+      "year": 2022,
+      "spending": 411991055.96000004
+    },
+    {
+      "year": 2023,
+      "spending": 439322514
+    },
+    {
+      "year": 2024,
+      "spending": 392795021.48
+    },
+    {
+      "year": 2025,
+      "spending": 433604993.87
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "FIN",
+      "count": 15490
+    },
+    {
+      "code": "BAN",
+      "count": 10794
+    },
+    {
+      "code": "TAX",
+      "count": 10681
+    },
+    {
+      "code": "INS",
+      "count": 4930
+    },
+    {
+      "code": "BUD",
+      "count": 2873
+    },
+    {
+      "code": "RET",
+      "count": 2627
+    },
+    {
+      "code": "HOU",
+      "count": 2346
+    },
+    {
+      "code": "HCR",
+      "count": 1553
+    },
+    {
+      "code": "LBR",
+      "count": 1523
+    },
+    {
+      "code": "TRD",
+      "count": 1506
+    }
+  ]
+}

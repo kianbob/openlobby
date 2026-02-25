@@ -1,1 +1,121 @@
-{"id":104666,"name":"NORC AT THE UNIVERSITY OF CHICAGO","slug":"norc-at-the-university-of-chicago","state":"MD","description":"Independent research institution","totalSpending":1520000,"filings":27,"yearlySpending":[{"year":2018,"income":80000},{"year":2019,"income":90000},{"year":2020,"income":180000},{"year":2021,"income":230000},{"year":2022,"income":240000},{"year":2023,"income":280000},{"year":2024,"income":210000},{"year":2025,"income":210000}],"firms":["ARNOLD & PORTER KAYE SCHOLER LLP"],"lobbyists":["SARA LINDER","L LANDGRAF","DANA WEEKES","AMY DAVENPORT","MARNE MAROTTA","SEBASTIEN LASSEUR","KERI RICHMOND","KEVIN O'NEILL","ROXANA BOYD","JAMIE LEE","TAYLOR CAZEAULT","CARLY SINCAVITCH","JAMES COURTNEY","EBONY SLAUGHTER-JOHNSON","JANICE BASHFORD","KATIE BROWN","DOROTHY ISGUR","LUCAS GORAK","ELAN JONES","NATHAN GRANT","ALLISON JARUS"],"issues":["BUD","HCR","TEC","DIS","GOV","FIR","SCI",null,"EDU"],"sampleDescriptions":["Issues related to research and development.","Issues related to research and development, including opioid research. Issues related to healthcare cost containment.","Issues related to research conducted by telephone.","Issues related to FY 2020 Labor-HHS-Education appropriations and FY 2020 State-Foreign Operations appropriations.","Issues related to healthcare cost containment.","Issues related to FY 2021 Labor-HHS-Education appropriations.","Issues relating to critical infrastructure designations from the Department of Homeland Security and at the state level in response to COVID-19 national emergency.","Issues related to the development of data products at statistical agencies.","Issues related to vaccine distribution surveillance.","Issues related to immunization tracking and survey.","Issues related to the FY 2022 Labor-HHS-Education appropriations.","Issues related to immunization tracking and survey, including the Health STATISTICS Act (H.R. 831).","Issues related to the FY 2022 Labor-HHS-Education appropriations (H.R. 4502).","Issues related to immunization tracking and survey, including the Health STATISTICS Act (H.R. 831). Issues related to food insecurity among healthcare workers.","Issues related to the FY 2022 Labor-HHS-Education appropriations (H.R. 4502/S. 3062).","Issues related to firearms data infrastructure.","Issues related to FY 2022 Labor-HHS-Education appropriations (H.R. 4502/S. 3062), including the FY 2022 Consolidated Appropriations Act (H.R. 2471). Issues related to FY 2023 Labor-HHS-Education and Commerce-Justice-Science appropriations.","Issues related to FY 2022 Labor-HHS-Education appropriations (H.R. 4502/S. 3062), including the FY 2022 Consolidated Appropriations Act (H.R. 2471). Issues related to FY 2023 Labor-HHS-Education (H.R. 8295) and Commerce-Justice-Science (H.R. 8256) appropriations bills.","Issues related to FY 2022 Labor-HHS-Education appropriations (H.R. 4502/S. 3062), including the FY 2022 Consolidated Appropriations Act (H.R. 2471). Issues related to FY 2023 Labor-HHS-Education (H.R. 8295/S. 4659) and Commerce-Justice-Science (H.R. 8256/S.4664) appropriations bills.","Monitored developments surrounding legislation related to gun violence prevention, community violence prevention, children's mental health, and student safety."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 104666,
+  "name": "NORC AT THE UNIVERSITY OF CHICAGO",
+  "slug": "norc-at-the-university-of-chicago",
+  "state": "MD",
+  "description": "Independent research institution",
+  "totalSpending": 1520000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 80000
+    },
+    {
+      "year": 2019,
+      "income": 90000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 230000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 210000
+    },
+    {
+      "year": 2025,
+      "income": 210000
+    }
+  ],
+  "firms": [
+    "ARNOLD & PORTER KAYE SCHOLER LLP"
+  ],
+  "lobbyists": [
+    "SARA LINDER",
+    "L LANDGRAF",
+    "DANA WEEKES",
+    "AMY DAVENPORT",
+    "MARNE MAROTTA",
+    "SEBASTIEN LASSEUR",
+    "KERI RICHMOND",
+    "KEVIN O'NEILL",
+    "ROXANA BOYD",
+    "JAMIE LEE",
+    "TAYLOR CAZEAULT",
+    "CARLY SINCAVITCH",
+    "JAMES COURTNEY",
+    "EBONY SLAUGHTER-JOHNSON",
+    "JANICE BASHFORD",
+    "KATIE BROWN",
+    "DOROTHY ISGUR",
+    "LUCAS GORAK",
+    "ELAN JONES",
+    "NATHAN GRANT",
+    "ALLISON JARUS"
+  ],
+  "issues": [
+    "BUD",
+    "HCR",
+    "TEC",
+    "DIS",
+    "GOV",
+    "FIR",
+    "SCI",
+    null,
+    "EDU"
+  ],
+  "sampleDescriptions": [
+    "Issues related to research and development.",
+    "Issues related to research and development, including opioid research. Issues related to healthcare cost containment.",
+    "Issues related to research conducted by telephone.",
+    "Issues related to FY 2020 Labor-HHS-Education appropriations and FY 2020 State-Foreign Operations appropriations.",
+    "Issues related to healthcare cost containment.",
+    "Issues related to FY 2021 Labor-HHS-Education appropriations.",
+    "Issues relating to critical infrastructure designations from the Department of Homeland Security and at the state level in response to COVID-19 national emergency.",
+    "Issues related to the development of data products at statistical agencies.",
+    "Issues related to vaccine distribution surveillance.",
+    "Issues related to immunization tracking and survey.",
+    "Issues related to the FY 2022 Labor-HHS-Education appropriations.",
+    "Issues related to immunization tracking and survey, including the Health STATISTICS Act (H.R. 831).",
+    "Issues related to the FY 2022 Labor-HHS-Education appropriations (H.R. 4502).",
+    "Issues related to immunization tracking and survey, including the Health STATISTICS Act (H.R. 831). Issues related to food insecurity among healthcare workers.",
+    "Issues related to the FY 2022 Labor-HHS-Education appropriations (H.R. 4502/S. 3062).",
+    "Issues related to firearms data infrastructure.",
+    "Issues related to FY 2022 Labor-HHS-Education appropriations (H.R. 4502/S. 3062), including the FY 2022 Consolidated Appropriations Act (H.R. 2471). Issues related to FY 2023 Labor-HHS-Education and Commerce-Justice-Science appropriations.",
+    "Issues related to FY 2022 Labor-HHS-Education appropriations (H.R. 4502/S. 3062), including the FY 2022 Consolidated Appropriations Act (H.R. 2471). Issues related to FY 2023 Labor-HHS-Education (H.R. 8295) and Commerce-Justice-Science (H.R. 8256) appropriations bills.",
+    "Issues related to FY 2022 Labor-HHS-Education appropriations (H.R. 4502/S. 3062), including the FY 2022 Consolidated Appropriations Act (H.R. 2471). Issues related to FY 2023 Labor-HHS-Education (H.R. 8295/S. 4659) and Commerce-Justice-Science (H.R. 8256/S.4664) appropriations bills.",
+    "Monitored developments surrounding legislation related to gun violence prevention, community violence prevention, children's mental health, and student safety."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 163,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 190000,
+  "peakYear": 2023,
+  "lobbyistCount": 21,
+  "firmCount": 1,
+  "issueCount": 8,
+  "industry": "education"
+}

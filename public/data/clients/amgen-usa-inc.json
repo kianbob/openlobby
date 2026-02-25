@@ -1,1 +1,77 @@
-{"id":102938,"name":"AMGEN USA INC.","slug":"amgen-usa-inc","state":"CA","description":"Human Therapeutics/Biotechnology firm.","totalSpending":1400000,"filings":28,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":150000},{"year":2020,"income":150000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":150000}],"firms":["ACG ADVOCACY"],"lobbyists":["MANUS COONEY"],"issues":["CPT",null],"sampleDescriptions":["Patent policy.\nAmerica Invents Act implementation and related legislation.\nUSPTO funding and oversight.","Patent policy.\nUSPTO funding and oversight.","Patent Policy.","Patent policy."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 102938,
+  "name": "AMGEN USA INC.",
+  "slug": "amgen-usa-inc",
+  "state": "CA",
+  "description": "Human Therapeutics/Biotechnology firm.",
+  "totalSpending": 1400000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 150000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 150000
+    }
+  ],
+  "firms": [
+    "ACG ADVOCACY"
+  ],
+  "lobbyists": [
+    "MANUS COONEY"
+  ],
+  "issues": [
+    "CPT",
+    null
+  ],
+  "sampleDescriptions": [
+    "Patent policy.\nAmerica Invents Act implementation and related legislation.\nUSPTO funding and oversight.",
+    "Patent policy.\nUSPTO funding and oversight.",
+    "Patent Policy.",
+    "Patent policy."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 175000,
+  "peakYear": 2018,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 1
+}

@@ -1,1 +1,99 @@
-{"id":110299,"name":"AMERICAN PUBLIC POWER ASSOCIATION","slug":"american-public-power-association","state":"VA","description":"Electric utility association","totalSpending":1580000,"filings":27,"yearlySpending":[{"year":2019,"income":70000},{"year":2020,"income":150000},{"year":2021,"income":180000},{"year":2022,"income":300000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["NADEAM ELSHAMI","REESE GOLDSMITH","ZACHARY PFISTER","BRIAN MCGUIRE","RUSSELL SULLIVAN","MARK WARREN","ANDREW USYK","GREGORY SUNSTRUM","GRETA JOYNES","LAUREN DIEKMAN","JOHN REISING"],"issues":["ENG","GOV","TAX",null],"sampleDescriptions":["Issues related to public power","Issues related to public power\nIssues related to infrastructure and electric power","Issues related to public power\nIssues related to infrastructure and electric power\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act","Issues related to energy taxes\nH.R.5376 - Build Back Better Act","Issues related to public power Issues related to infrastructure and electric power H.R.5376 - Build Back Better Act H.R.3684 - Infrastructure Investment and Jobs Act","Issues related to energy taxes H.R.5376 - Build Back Better Act","Issues related to public power Issues related to infrastructure and electric power H.R.5376 - Build Back Better Act Issues related to Infrastructure Investment and Jobs Act (PL 117-58) implementation","Issues related to energy taxes Issues related to infrastructure and electric power H.R.5376 - Build Back Better Act Note: Senate post-employment restrictions for Mark Warren ended 4/8/22","Issues related to public power Issues related to infrastructure and electric power H.R.5376 Inflation Reduction Act of 2022","Issues related to energy taxes Issues related to infrastructure and electric power Direct pay Reconciliation","Issues related to public power Issues related to infrastructure and electric power NDAA FY 2024 FAA Reauthorization Appropriations 2024","Issues related to energy taxes Issues related to infrastructure and electric power Direct pay Inflation Reduction Act of 2022 Implementation","Issues related to public power Issues related to infrastructure and electric power NDAA FY 2024 and 2025 FAA Reauthorization Appropriations issues","Issues related to public power Issues related to infrastructure and electric power NDAA FY 2025 Appropriations issues Permitting reform issues","Issues related to public power Issues related to infrastructure and electric power Appropriations issues Permitting reform issues","Issues related to energy taxes Issues related to infrastructure and electric power Direct pay Inflation Reduction Act of 2022 Implementation H.R.1 One Big Beautiful Bill","Issues related to energy taxes Issues related to infrastructure and electric power Direct pay H.R.1 Implementation","Issues related to energy taxes Issues related to infrastructure and electric power Direct pay P.L. 119-21 (H.R. 1): One Big Beautiful Bill implementation"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110299,
+  "name": "AMERICAN PUBLIC POWER ASSOCIATION",
+  "slug": "american-public-power-association",
+  "state": "VA",
+  "description": "Electric utility association",
+  "totalSpending": 1580000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 70000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "NADEAM ELSHAMI",
+    "REESE GOLDSMITH",
+    "ZACHARY PFISTER",
+    "BRIAN MCGUIRE",
+    "RUSSELL SULLIVAN",
+    "MARK WARREN",
+    "ANDREW USYK",
+    "GREGORY SUNSTRUM",
+    "GRETA JOYNES",
+    "LAUREN DIEKMAN",
+    "JOHN REISING"
+  ],
+  "issues": [
+    "ENG",
+    "GOV",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to public power",
+    "Issues related to public power\nIssues related to infrastructure and electric power",
+    "Issues related to public power\nIssues related to infrastructure and electric power\nH.R.5376 - Build Back Better Act\nH.R.3684 - Infrastructure Investment and Jobs Act",
+    "Issues related to energy taxes\nH.R.5376 - Build Back Better Act",
+    "Issues related to public power Issues related to infrastructure and electric power H.R.5376 - Build Back Better Act H.R.3684 - Infrastructure Investment and Jobs Act",
+    "Issues related to energy taxes H.R.5376 - Build Back Better Act",
+    "Issues related to public power Issues related to infrastructure and electric power H.R.5376 - Build Back Better Act Issues related to Infrastructure Investment and Jobs Act (PL 117-58) implementation",
+    "Issues related to energy taxes Issues related to infrastructure and electric power H.R.5376 - Build Back Better Act Note: Senate post-employment restrictions for Mark Warren ended 4/8/22",
+    "Issues related to public power Issues related to infrastructure and electric power H.R.5376 Inflation Reduction Act of 2022",
+    "Issues related to energy taxes Issues related to infrastructure and electric power Direct pay Reconciliation",
+    "Issues related to public power Issues related to infrastructure and electric power NDAA FY 2024 FAA Reauthorization Appropriations 2024",
+    "Issues related to energy taxes Issues related to infrastructure and electric power Direct pay Inflation Reduction Act of 2022 Implementation",
+    "Issues related to public power Issues related to infrastructure and electric power NDAA FY 2024 and 2025 FAA Reauthorization Appropriations issues",
+    "Issues related to public power Issues related to infrastructure and electric power NDAA FY 2025 Appropriations issues Permitting reform issues",
+    "Issues related to public power Issues related to infrastructure and electric power Appropriations issues Permitting reform issues",
+    "Issues related to energy taxes Issues related to infrastructure and electric power Direct pay Inflation Reduction Act of 2022 Implementation H.R.1 One Big Beautiful Bill",
+    "Issues related to energy taxes Issues related to infrastructure and electric power Direct pay H.R.1 Implementation",
+    "Issues related to energy taxes Issues related to infrastructure and electric power Direct pay P.L. 119-21 (H.R. 1): One Big Beautiful Bill implementation"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 357,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 225714,
+  "peakYear": 2023,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "energy"
+}

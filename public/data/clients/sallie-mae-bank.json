@@ -1,1 +1,80 @@
-{"id":168128,"name":"SALLIE MAE BANK","slug":"sallie-mae-bank","state":"DE","description":"Financial services","totalSpending":2160000,"filings":32,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":400000},{"year":2024,"income":240000},{"year":2025,"income":320000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["TODD WEBSTER","JAMES RICHARDS","DAO NGUYEN","MICHAEL GOODMAN"],"issues":["EDU",null],"sampleDescriptions":["Student lending","Issues related to Student lending","Issues related to student lending."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 168128,
+  "name": "SALLIE MAE BANK",
+  "slug": "sallie-mae-bank",
+  "state": "DE",
+  "description": "Financial services",
+  "totalSpending": 2160000,
+  "filings": 32,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 400000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "TODD WEBSTER",
+    "JAMES RICHARDS",
+    "DAO NGUYEN",
+    "MICHAEL GOODMAN"
+  ],
+  "issues": [
+    "EDU",
+    null
+  ],
+  "sampleDescriptions": [
+    "Student lending",
+    "Issues related to Student lending",
+    "Issues related to student lending."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 270000,
+  "peakYear": 2023,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "finance"
+}

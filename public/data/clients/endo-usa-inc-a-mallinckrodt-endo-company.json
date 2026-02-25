@@ -1,1 +1,98 @@
-{"id":120750,"name":"ENDO USA, INC., A MALLINCKRODT-ENDO COMPANY","slug":"endo-usa-inc-a-mallinckrodt-endo-company","state":"PA","description":"pharmaceutical manufacturing","totalSpending":4110000,"filings":53,"yearlySpending":[{"year":2018,"income":540000},{"year":2019,"income":990000},{"year":2020,"income":700000},{"year":2021,"income":630000},{"year":2022,"income":530000},{"year":2023,"income":280000},{"year":2024,"income":210000},{"year":2025,"income":230000}],"firms":["FOLEY & LARDNER LLP"],"lobbyists":["JENNIFER WALSH","THEODORE BORNSTEIN","DENNIS CARDOZA","KATE KROS","JARED RIFIS"],"issues":["PHA","HCR",null],"sampleDescriptions":["FDA Issues; Issues relating to prescription drug abuse; Issues relating to CDC guidance for prescribing opioids; Issues relating to removal of FDA unapproved products from the market","FDA Issues Related to Compounding","FDA issues related to compounding; issues related to Medicare reimbursement of pharmaceuticals.","FDA issues; Issues relating to prescription drug abuse; Issues relating to CDC guidance for prescribing opioids; Issues relating to removal of FDA unapproved products from the market; drug pricing issues","FDA issues; Issues relating to prescription drug abuse; Issues relating to CDC guidance for prescribing opioids; Issues relating to removal of FDA unapproved products from the market.","Issues related to Medicare reimbursement of pharmaceuticals.","Issues related to generic pharmaceuticals; issues related to Medicare reimbursement of pharmaceuticals.","Issues related to taxation; Issues related to Medicare reimbursement of pharmaceuticals.","Issues related to taxation; issues related to Medicare reimbursement of pharmaceuticals.","Issues related to domestic manufacturing; issues related to Strategic National Stockpile; issues related to Medicare reimbursement of pharmaceuticals.","Issues related to domestic manufacturing; Issues related to Strategic National Stockpile; Issues related to Medicare reimbursement of pharmaceuticals.","Issues related to domestic manufacturing; issues related to Medicare reimbursement of pharmaceuticals.","Issues related to domestic manufacturing; issues related to Medicare reimbursement of pharmaceuticals; issues related to OSHA COVID vaccine mandates.","Issues related to Medicare reimbursement of pharmaceuticals; issues related to Medicare policy on single dose containers; issues related to OSHA COVID vaccine mandates.","Issues related to OSHA COVIC vaccine mandates; issues related to Medicare reimbursement of pharmaceuticals; issues related to Medicare policy on single dose containers.","Issues related to Medicare reimbursement of pharmaceuticals and the Inflation Reduction Act; issues related to FDA user fee reauthorization and FDA policy; issues related to implementation of the Bipartisan Infrastructure Law.","Issues relating to FDA user fee reauthorization and associated legislation; Issues relating to rulemaking around Single-use Package Drugs; Issues related to implementation of the Inflation Reduction Act and the Bipartisan Infrastructure Bill","Issues related to Medicare reimbursement of pharmaceuticals and the Inflation Reduction Act; issues related to FDA user fee reauthorization and FDApolicy; issues related to implementation of the Bipartisan Infrastructure Law.","Issues related to implementation of the Inflation Reduction Act and the Bipartisan Infrastructure Bill; Issues related to supply chain resilience.","Issues related to 340B; issues related to implementation of the Inflation Reduction Act and the Bipartisan Infrastructure Bill; Issues related to supply chain resilience."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 120750,
+  "name": "ENDO USA, INC., A MALLINCKRODT-ENDO COMPANY",
+  "slug": "endo-usa-inc-a-mallinckrodt-endo-company",
+  "state": "PA",
+  "description": "pharmaceutical manufacturing",
+  "totalSpending": 4110000,
+  "filings": 53,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 540000
+    },
+    {
+      "year": 2019,
+      "income": 990000
+    },
+    {
+      "year": 2020,
+      "income": 700000
+    },
+    {
+      "year": 2021,
+      "income": 630000
+    },
+    {
+      "year": 2022,
+      "income": 530000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 210000
+    },
+    {
+      "year": 2025,
+      "income": 230000
+    }
+  ],
+  "firms": [
+    "FOLEY & LARDNER LLP"
+  ],
+  "lobbyists": [
+    "JENNIFER WALSH",
+    "THEODORE BORNSTEIN",
+    "DENNIS CARDOZA",
+    "KATE KROS",
+    "JARED RIFIS"
+  ],
+  "issues": [
+    "PHA",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "FDA Issues; Issues relating to prescription drug abuse; Issues relating to CDC guidance for prescribing opioids; Issues relating to removal of FDA unapproved products from the market",
+    "FDA Issues Related to Compounding",
+    "FDA issues related to compounding; issues related to Medicare reimbursement of pharmaceuticals.",
+    "FDA issues; Issues relating to prescription drug abuse; Issues relating to CDC guidance for prescribing opioids; Issues relating to removal of FDA unapproved products from the market; drug pricing issues",
+    "FDA issues; Issues relating to prescription drug abuse; Issues relating to CDC guidance for prescribing opioids; Issues relating to removal of FDA unapproved products from the market.",
+    "Issues related to Medicare reimbursement of pharmaceuticals.",
+    "Issues related to generic pharmaceuticals; issues related to Medicare reimbursement of pharmaceuticals.",
+    "Issues related to taxation; Issues related to Medicare reimbursement of pharmaceuticals.",
+    "Issues related to taxation; issues related to Medicare reimbursement of pharmaceuticals.",
+    "Issues related to domestic manufacturing; issues related to Strategic National Stockpile; issues related to Medicare reimbursement of pharmaceuticals.",
+    "Issues related to domestic manufacturing; Issues related to Strategic National Stockpile; Issues related to Medicare reimbursement of pharmaceuticals.",
+    "Issues related to domestic manufacturing; issues related to Medicare reimbursement of pharmaceuticals.",
+    "Issues related to domestic manufacturing; issues related to Medicare reimbursement of pharmaceuticals; issues related to OSHA COVID vaccine mandates.",
+    "Issues related to Medicare reimbursement of pharmaceuticals; issues related to Medicare policy on single dose containers; issues related to OSHA COVID vaccine mandates.",
+    "Issues related to OSHA COVIC vaccine mandates; issues related to Medicare reimbursement of pharmaceuticals; issues related to Medicare policy on single dose containers.",
+    "Issues related to Medicare reimbursement of pharmaceuticals and the Inflation Reduction Act; issues related to FDA user fee reauthorization and FDA policy; issues related to implementation of the Bipartisan Infrastructure Law.",
+    "Issues relating to FDA user fee reauthorization and associated legislation; Issues relating to rulemaking around Single-use Package Drugs; Issues related to implementation of the Inflation Reduction Act and the Bipartisan Infrastructure Bill",
+    "Issues related to Medicare reimbursement of pharmaceuticals and the Inflation Reduction Act; issues related to FDA user fee reauthorization and FDApolicy; issues related to implementation of the Bipartisan Infrastructure Law.",
+    "Issues related to implementation of the Inflation Reduction Act and the Bipartisan Infrastructure Bill; Issues related to supply chain resilience.",
+    "Issues related to 340B; issues related to implementation of the Inflation Reduction Act and the Bipartisan Infrastructure Bill; Issues related to supply chain resilience."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -57,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 513750,
+  "peakYear": 2019,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 2
+}

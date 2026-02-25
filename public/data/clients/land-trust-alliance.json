@@ -1,1 +1,90 @@
-{"id":163032,"name":"LAND TRUST ALLIANCE","slug":"land-trust-alliance","state":"DC","description":null,"totalSpending":1580000,"filings":35,"yearlySpending":[{"year":2018,"income":440000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":120000},{"year":2025,"income":120000}],"firms":["CAPITOL TAX PARTNERS, LLP"],"lobbyists":["PATRICK HECK","JONATHAN TALISMAN","WILLIAM MCKENNEY","JOSEPH MIKRUT","JACOB TRIOLO","SARAH SHIVE"],"issues":["TAX",null],"sampleDescriptions":["Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including H.R. 4459 and S.2436, Charitable Conservation Easement Program Integrity Act, and IRS Notices 2017-10, 2017-29 and Notice 2017-58.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including H.R. 1992, Bill to amend the Internal Revenue Code to limit the amount of certain qualified conservation contributions, S. 170, Charitable Conservation Easement Program Integrity Act of 2019, and IRS Notices 2017-10, 2017-29 and Notice 2017-58.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including H.R. 1992, Bill to amend the Internal Revenue Code to limit the amount of certain qualified conservation contributions, S. 170, Charitable Conservation Easement Program Integrity Act of 2019, IRS Notices 2017-10, 2017-29 and Notice 2017-58, and S. 4751, Charitable Conservation Easement Program Integrity Act.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including H.R. 1992, Bill to amend the Internal Revenue Code to limit the amount of certain qualified conservation contributions, S. 170, Charitable Conservation Easement Program Integrity Act of 2019, IRS Notices 2017-10, 2017-29 and Notice 2017-58, and S. 4751, (Charitable Conservation Easement Program Integrity Act), H.R. 133, the Consolidated Appropriations Act, 2021, and H.R. 8842 and S. 5019, Charitable Conservation Easement Program Integrity Act of 2020.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain quali&#239;&#172;�ed conservation contributions, S. 170, S.4751, H.R. 1992, and H.R. 8842 Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, and H.R. 1319, American Rescue Plan Act.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain quali&#239;&#172;�ed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, and H.R. 1319, American Rescue Plan Act.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain quali&#239;&#172;�ed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 1319, American Rescue Plan Act,H.R. 3684, Infrastructure Investment and Jobs Act, and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain qualiﬁed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 1319, American Rescue Plan Act,H.R. 3684, Infrastructure Investment and Jobs Act, and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain qualiﬁed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14, and Enhancing American Retirement Now (EARN) Act.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain qualiﬁed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14, and S. 4808, Enhancing American Retirement Now (EARN) Act.","Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain qualiﬁed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 2617, Consolidated Appropriations Act, 2023, and S. 4808, Enhancing American Retirement Now (EARN) Act.","Legislative services related to issues affecting the tax deduction for donations of conservation easements, including implementation of the Charitable Conservation Easement Program Integrity Act, and P.L.117-328."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 163032,
+  "name": "LAND TRUST ALLIANCE",
+  "slug": "land-trust-alliance",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 1580000,
+  "filings": 35,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 440000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "CAPITOL TAX PARTNERS, LLP"
+  ],
+  "lobbyists": [
+    "PATRICK HECK",
+    "JONATHAN TALISMAN",
+    "WILLIAM MCKENNEY",
+    "JOSEPH MIKRUT",
+    "JACOB TRIOLO",
+    "SARAH SHIVE"
+  ],
+  "issues": [
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including H.R. 4459 and S.2436, Charitable Conservation Easement Program Integrity Act, and IRS Notices 2017-10, 2017-29 and Notice 2017-58.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including H.R. 1992, Bill to amend the Internal Revenue Code to limit the amount of certain qualified conservation contributions, S. 170, Charitable Conservation Easement Program Integrity Act of 2019, and IRS Notices 2017-10, 2017-29 and Notice 2017-58.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including H.R. 1992, Bill to amend the Internal Revenue Code to limit the amount of certain qualified conservation contributions, S. 170, Charitable Conservation Easement Program Integrity Act of 2019, IRS Notices 2017-10, 2017-29 and Notice 2017-58, and S. 4751, Charitable Conservation Easement Program Integrity Act.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including H.R. 1992, Bill to amend the Internal Revenue Code to limit the amount of certain qualified conservation contributions, S. 170, Charitable Conservation Easement Program Integrity Act of 2019, IRS Notices 2017-10, 2017-29 and Notice 2017-58, and S. 4751, (Charitable Conservation Easement Program Integrity Act), H.R. 133, the Consolidated Appropriations Act, 2021, and H.R. 8842 and S. 5019, Charitable Conservation Easement Program Integrity Act of 2020.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain quali&#239;&#172;�ed conservation contributions, S. 170, S.4751, H.R. 1992, and H.R. 8842 Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, and H.R. 1319, American Rescue Plan Act.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain quali&#239;&#172;�ed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, and H.R. 1319, American Rescue Plan Act.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain quali&#239;&#172;�ed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 1319, American Rescue Plan Act,H.R. 3684, Infrastructure Investment and Jobs Act, and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain qualiﬁed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 1319, American Rescue Plan Act,H.R. 3684, Infrastructure Investment and Jobs Act, and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain qualiﬁed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14, and Enhancing American Retirement Now (EARN) Act.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain qualiﬁed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14, and S. 4808, Enhancing American Retirement Now (EARN) Act.",
+    "Legislative services related to tax reform and issues affecting the tax deduction for donations of conservation easements, including bills to amend the Internal Revenue Code to limit the amount of certain qualiﬁed conservation contributions, S.2256 and H.R. 4164, Charitable Conservation Easement Program Integrity Act, IRS Notices 2017-10, 2017-29, and Notice 2017-58, H.R. 2617, Consolidated Appropriations Act, 2023, and S. 4808, Enhancing American Retirement Now (EARN) Act.",
+    "Legislative services related to issues affecting the tax deduction for donations of conservation easements, including implementation of the Charitable Conservation Easement Program Integrity Act, and P.L.117-328."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -73,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 197500,
+  "peakYear": 2018,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1
+}

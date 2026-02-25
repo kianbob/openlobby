@@ -1,1 +1,96 @@
-{"id":104641,"name":"HYUNDAI STEEL COMPANY","slug":"hyundai-steel-company","state":null,"description":"Steel manufacturer","totalSpending":1790000,"filings":29,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":280000},{"year":2020,"income":240000},{"year":2021,"income":230000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":280000}],"firms":["ARNOLD & PORTER KAYE SCHOLER LLP"],"lobbyists":["AMY BUDNER SMITH","GREGORY LOUER","MARNE MAROTTA","SAMANTHA MARTIN","KEVIN O'NEILL","SEBASTIEN LASSEUR","J. DAVID PARK","LYNN FISCHER FOX","TAYLOR CAZEAULT","BRIAN BOMBASSARO","ADRIENNE JACKSON","CHRISTINA POEHLITZ","SCARLETT BICKERTON","DREW BENZAIA","DAVID SKILLMAN","MIKAYLA MARCUM","GRACE SUCHANYC","CAITLIN KOVALKOSKI"],"issues":["TRD","BUD",null],"sampleDescriptions":["Issues related to international trade.","FY 2021 Commerce-Justice-Science appropriations issues related to the use of particular market situation in AD/CVD proceedings.","Issues and policy related to international trade, including the Inflation Reduction Act (P.L. 117-169) and the fiscal year 2023 National Defense Authorization Act (S. 4543/H.R. 7900).","Issues and policy related to international trade."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 104641,
+  "name": "HYUNDAI STEEL COMPANY",
+  "slug": "hyundai-steel-company",
+  "state": null,
+  "description": "Steel manufacturer",
+  "totalSpending": 1790000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 280000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 230000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "ARNOLD & PORTER KAYE SCHOLER LLP"
+  ],
+  "lobbyists": [
+    "AMY BUDNER SMITH",
+    "GREGORY LOUER",
+    "MARNE MAROTTA",
+    "SAMANTHA MARTIN",
+    "KEVIN O'NEILL",
+    "SEBASTIEN LASSEUR",
+    "J. DAVID PARK",
+    "LYNN FISCHER FOX",
+    "TAYLOR CAZEAULT",
+    "BRIAN BOMBASSARO",
+    "ADRIENNE JACKSON",
+    "CHRISTINA POEHLITZ",
+    "SCARLETT BICKERTON",
+    "DREW BENZAIA",
+    "DAVID SKILLMAN",
+    "MIKAYLA MARCUM",
+    "GRACE SUCHANYC",
+    "CAITLIN KOVALKOSKI"
+  ],
+  "issues": [
+    "TRD",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to international trade.",
+    "FY 2021 Commerce-Justice-Science appropriations issues related to the use of particular market situation in AD/CVD proceedings.",
+    "Issues and policy related to international trade, including the Inflation Reduction Act (P.L. 117-169) and the fiscal year 2023 National Defense Authorization Act (S. 4543/H.R. 7900).",
+    "Issues and policy related to international trade."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 75,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 223750,
+  "peakYear": 2019,
+  "lobbyistCount": 18,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "technology"
+}

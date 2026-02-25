@@ -1,1 +1,91 @@
-{"id":193518,"name":"GILEAD SCIENCES, INC.","slug":"gilead-sciences-inc","state":"CA","description":"American biotechnology company that researches, develops and commercializes drugs.","totalSpending":1440000,"filings":24,"yearlySpending":[{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":180000}],"firms":["W STRATEGIES, LLC"],"lobbyists":["DARREN WILLCOX"],"issues":["MMM","HCR","TRD",null],"sampleDescriptions":["6 protected classes.\nMedicare Part D.","Education about CMS rule changing protections for beneficiaries in Medicare Part D six protected classes.  \n\nRegulatory and legislative proposals in the Administrations Drug Pricing Blueprint.","Education around access to HIV therapies.","Regulator and legislative proposals in the Administration's Drug Pricing Blueprint.  \n\nH.R.3: Lower Drug Costs Now Act of 2019.\n\nS.2543: Prescription Drug Pricing Reduction Act of 2019.","Regulatory and legislative proposals in the Administration's Drug Pricing Blueprint.  \n\nH.R.3: Lower Drug Costs Now Act of 2019.\n\nH.R.19: Lower Costs, More Cures Act of 2019.\n\nS.2543: Prescription Drug Pricing Reduction Act of 2019.","Issues related to potential therapies for COVID-19.","Education around and issues related to potential therapies for COVID-19.","CMS proposed rule on Medicaid Drug Rebate program.","H.R.3: Elijah E. Cummings Lower Drug Costs Now Act. \n\nH.R.19: Lower Costs, More Cures Act of 2021.","Education around therapies for COVID-19.\n\nEducation around copay accumulators.","Issues related to CovId-19 vaccines and TRIPS at WTO.","FY'22 Budget Reconciliation including H.R.3: Elijah E. Cummings Lower Drug Costs Now Act.  And H.R.19: Lower Costs, More Cures Act of 2021.\n\nS.2911: Seniors Prescription Drug Relief Act.","Issues related to Covid-19 vaccines and TRIPS at WTO.","H.R.5376: Build Back Better Act, including H.R.3: Elijah E. Cummings Lower Drug Costs Now Act, and H.R.19: Lower Costs, More Cures Act of 2021.","Education around triple negative breast cancer and appropriate screenings.","Reauthorization of the Prescription Drug User Fee Act and related issues.","H.R.7667 - Food and Drug Amendments of 2022, S.4348 - FDASLA.","H.R.5376: Build Back Better Act including H.R.3: Elijah E. Cummings Lower Drug Costs Now Act, and H.R.19. Lower Costs, More Cures Act of 2021.","S.4348: FDASLA Act of 2022 and H.R.7667: Food and Drug Amendments of 2022.","H.R.5376 - Inflation Reduction Act of 2022."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 193518,
+  "name": "GILEAD SCIENCES, INC.",
+  "slug": "gilead-sciences-inc",
+  "state": "CA",
+  "description": "American biotechnology company that researches, develops and commercializes drugs.",
+  "totalSpending": 1440000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "W STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "DARREN WILLCOX"
+  ],
+  "issues": [
+    "MMM",
+    "HCR",
+    "TRD",
+    null
+  ],
+  "sampleDescriptions": [
+    "6 protected classes.\nMedicare Part D.",
+    "Education about CMS rule changing protections for beneficiaries in Medicare Part D six protected classes.  \n\nRegulatory and legislative proposals in the Administrations Drug Pricing Blueprint.",
+    "Education around access to HIV therapies.",
+    "Regulator and legislative proposals in the Administration's Drug Pricing Blueprint.  \n\nH.R.3: Lower Drug Costs Now Act of 2019.\n\nS.2543: Prescription Drug Pricing Reduction Act of 2019.",
+    "Regulatory and legislative proposals in the Administration's Drug Pricing Blueprint.  \n\nH.R.3: Lower Drug Costs Now Act of 2019.\n\nH.R.19: Lower Costs, More Cures Act of 2019.\n\nS.2543: Prescription Drug Pricing Reduction Act of 2019.",
+    "Issues related to potential therapies for COVID-19.",
+    "Education around and issues related to potential therapies for COVID-19.",
+    "CMS proposed rule on Medicaid Drug Rebate program.",
+    "H.R.3: Elijah E. Cummings Lower Drug Costs Now Act. \n\nH.R.19: Lower Costs, More Cures Act of 2021.",
+    "Education around therapies for COVID-19.\n\nEducation around copay accumulators.",
+    "Issues related to CovId-19 vaccines and TRIPS at WTO.",
+    "FY'22 Budget Reconciliation including H.R.3: Elijah E. Cummings Lower Drug Costs Now Act.  And H.R.19: Lower Costs, More Cures Act of 2021.\n\nS.2911: Seniors Prescription Drug Relief Act.",
+    "Issues related to Covid-19 vaccines and TRIPS at WTO.",
+    "H.R.5376: Build Back Better Act, including H.R.3: Elijah E. Cummings Lower Drug Costs Now Act, and H.R.19: Lower Costs, More Cures Act of 2021.",
+    "Education around triple negative breast cancer and appropriate screenings.",
+    "Reauthorization of the Prescription Drug User Fee Act and related issues.",
+    "H.R.7667 - Food and Drug Amendments of 2022, S.4348 - FDASLA.",
+    "H.R.5376: Build Back Better Act including H.R.3: Elijah E. Cummings Lower Drug Costs Now Act, and H.R.19. Lower Costs, More Cures Act of 2021.",
+    "S.4348: FDASLA Act of 2022 and H.R.7667: Food and Drug Amendments of 2022.",
+    "H.R.5376 - Inflation Reduction Act of 2022."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 205714,
+  "peakYear": 2020,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "healthcare"
+}

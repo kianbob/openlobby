@@ -1,1 +1,102 @@
-{"id":184936,"name":"DRAFTKINGS INC.","slug":"draftkings-inc","state":"MA","description":"Fantasy sports and sports wagering","totalSpending":1460000,"filings":29,"yearlySpending":[{"year":2018,"income":20000},{"year":2019,"income":240000},{"year":2020,"income":160000},{"year":2021,"income":120000},{"year":2022,"income":150000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":290000}],"firms":["INVARIANT LLC"],"lobbyists":["HEATHER PODESTA","ANNE PALISI","ERIC ROSEN","CAROLYN CODA","TIMOTHY MARTIN","QUINCY ENOCH","MARY STANTON","MATTHEW RUSSELL","JENNIFER JACOBY","JAMES OBRIEN","ALEJANDRO CISNEROS","THEODORE TANZER"],"issues":["SPO","TAX",null,"FIN"],"sampleDescriptions":["Educate policymakers on issues related to fantasy sports and sports wagering.","Monitor general taxation of relevant gaming transactions.","Monitor sports gambling.","Monitor sports gambling; monitor coronavirus relief proposals.","Monitor H.R. 7790, to amend the Internal Revenue Code of 1986 to repeal chapter 35 (relating to taxes on wagering).","Monitor draft legislation to amend the Internal Revenue Code of 1986 to repeal chapter 35 (relating to taxes on wagering).","Monitor sports gambling issues.","Monitor draft legislation to amend the Internal Revenue Code of 1986 to repeal chapter 35 (relating to taxes on wagering). Advocate for guidance on tax issues related to daily fantasy sports (DFS).","Monitor sports gaming issues and legislation, including H.R.1661, the Discriminatory Gaming Tax Repeal Act of 2023. Educate about the company's business model.","Monitor draft legislation to amend the Internal Revenue Code of 1986 to repeal Chapter 35 (relating to taxes on wagering). Educate Members of Congress on tax administration challenges, IRS tax treatment, and the need for guidance on sports gaming issues.","Monitor sports gaming issues and legislation, including H.R.1661, the Discriminatory Gaming Tax Repeal Act of 2023 and S.4872, the WAGER Act. Educate about the company's business model.","Monitor CFTC activity on event contracts.","Monitor sports gaming issues and legislation. Educate about the company's business model.","Monitor legislation to amend the Internal Revenue Code of 1986 to repeal Chapter 35 (relating to taxes on wagering), including H.R. 1440, the Discriminatory Gaming Tax Repeal Act of 2025. Educate Members of Congress on tax administration challenges, IRS tax treatment, and the need for guidance on sports gaming issues.","Monitor legislation to amend the Internal Revenue Code of 1986 to repeal Chapter 35 (relating to taxes on wagering), including H.R. 1440, the Discriminatory Gaming Tax Repeal Act of 2025; S.2773, the WAGER Act; H.R.4630, the WAGER Act of 2025; S.2230, the FULL HOUSE Act; and H.R. 4304, the Fair Accounting for Income Realized from Betting Earnings Taxation Act. Educate Members of Congress on tax administration challenges, IRS tax treatment, and the need for guidance on sports gaming issues.","Monitor legislation to amend the Internal Revenue Code of 1986 to repeal Chapter 35 (relating to taxes on wagering), including H.R. 1440, the Discriminatory Gaming Tax Repeal Act of 2025; and S.2773, the WAGER Act. Monitor legislation to restore full deductibility of wagering losses against winnings, including H.R.4630, the WAGER Act of 2025; S.2230, the FULL HOUSE Act; and H.R. 4304, the Fair Accounting for Income Realized from Betting Earnings Taxation Act. Educate Members of Congress on tax administration challenges, IRS tax treatment, and the need for guidance on sports gaming issues."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184936,
+  "name": "DRAFTKINGS INC.",
+  "slug": "draftkings-inc",
+  "state": "MA",
+  "description": "Fantasy sports and sports wagering",
+  "totalSpending": 1460000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 20000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 160000
+    },
+    {
+      "year": 2021,
+      "income": 120000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 290000
+    }
+  ],
+  "firms": [
+    "INVARIANT LLC"
+  ],
+  "lobbyists": [
+    "HEATHER PODESTA",
+    "ANNE PALISI",
+    "ERIC ROSEN",
+    "CAROLYN CODA",
+    "TIMOTHY MARTIN",
+    "QUINCY ENOCH",
+    "MARY STANTON",
+    "MATTHEW RUSSELL",
+    "JENNIFER JACOBY",
+    "JAMES OBRIEN",
+    "ALEJANDRO CISNEROS",
+    "THEODORE TANZER"
+  ],
+  "issues": [
+    "SPO",
+    "TAX",
+    null,
+    "FIN"
+  ],
+  "sampleDescriptions": [
+    "Educate policymakers on issues related to fantasy sports and sports wagering.",
+    "Monitor general taxation of relevant gaming transactions.",
+    "Monitor sports gambling.",
+    "Monitor sports gambling; monitor coronavirus relief proposals.",
+    "Monitor H.R. 7790, to amend the Internal Revenue Code of 1986 to repeal chapter 35 (relating to taxes on wagering).",
+    "Monitor draft legislation to amend the Internal Revenue Code of 1986 to repeal chapter 35 (relating to taxes on wagering).",
+    "Monitor sports gambling issues.",
+    "Monitor draft legislation to amend the Internal Revenue Code of 1986 to repeal chapter 35 (relating to taxes on wagering). Advocate for guidance on tax issues related to daily fantasy sports (DFS).",
+    "Monitor sports gaming issues and legislation, including H.R.1661, the Discriminatory Gaming Tax Repeal Act of 2023. Educate about the company's business model.",
+    "Monitor draft legislation to amend the Internal Revenue Code of 1986 to repeal Chapter 35 (relating to taxes on wagering). Educate Members of Congress on tax administration challenges, IRS tax treatment, and the need for guidance on sports gaming issues.",
+    "Monitor sports gaming issues and legislation, including H.R.1661, the Discriminatory Gaming Tax Repeal Act of 2023 and S.4872, the WAGER Act. Educate about the company's business model.",
+    "Monitor CFTC activity on event contracts.",
+    "Monitor sports gaming issues and legislation. Educate about the company's business model.",
+    "Monitor legislation to amend the Internal Revenue Code of 1986 to repeal Chapter 35 (relating to taxes on wagering), including H.R. 1440, the Discriminatory Gaming Tax Repeal Act of 2025. Educate Members of Congress on tax administration challenges, IRS tax treatment, and the need for guidance on sports gaming issues.",
+    "Monitor legislation to amend the Internal Revenue Code of 1986 to repeal Chapter 35 (relating to taxes on wagering), including H.R. 1440, the Discriminatory Gaming Tax Repeal Act of 2025; S.2773, the WAGER Act; H.R.4630, the WAGER Act of 2025; S.2230, the FULL HOUSE Act; and H.R. 4304, the Fair Accounting for Income Realized from Betting Earnings Taxation Act. Educate Members of Congress on tax administration challenges, IRS tax treatment, and the need for guidance on sports gaming issues.",
+    "Monitor legislation to amend the Internal Revenue Code of 1986 to repeal Chapter 35 (relating to taxes on wagering), including H.R. 1440, the Discriminatory Gaming Tax Repeal Act of 2025; and S.2773, the WAGER Act. Monitor legislation to restore full deductibility of wagering losses against winnings, including H.R.4630, the WAGER Act of 2025; S.2230, the FULL HOUSE Act; and H.R. 4304, the Fair Accounting for Income Realized from Betting Earnings Taxation Act. Educate Members of Congress on tax administration challenges, IRS tax treatment, and the need for guidance on sports gaming issues."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 1350,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 182500,
+  "peakYear": 2025,
+  "lobbyistCount": 12,
+  "firmCount": 1,
+  "issueCount": 3
+}

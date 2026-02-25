@@ -1,1 +1,81 @@
-{"id":172478,"name":"INFECTIOUS DISEASE SOCIETY OF AMERICA","slug":"infectious-disease-society-of-america","state":"VA","description":null,"totalSpending":1770000,"filings":29,"yearlySpending":[{"year":2018,"income":100000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":210000},{"year":2023,"income":280000},{"year":2024,"income":280000},{"year":2025,"income":350000}],"firms":["HART HEALTH STRATEGIES"],"lobbyists":["SUSAN RAMTHUN","VICKI HART","TIMOTHY YEHL","MATTHEW DUCKWORTH","ANDREW VOGT"],"issues":["HCR",null],"sampleDescriptions":["Monitoring health care regulations and legislation","Monitoring health care regulations and legislation.","Monitoring Healthcare regulations and legislation","Monitoring Healthcare Regulations and Legislation"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 172478,
+  "name": "INFECTIOUS DISEASE SOCIETY OF AMERICA",
+  "slug": "infectious-disease-society-of-america",
+  "state": "VA",
+  "description": null,
+  "totalSpending": 1770000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 100000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 210000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 280000
+    },
+    {
+      "year": 2025,
+      "income": 350000
+    }
+  ],
+  "firms": [
+    "HART HEALTH STRATEGIES"
+  ],
+  "lobbyists": [
+    "SUSAN RAMTHUN",
+    "VICKI HART",
+    "TIMOTHY YEHL",
+    "MATTHEW DUCKWORTH",
+    "ANDREW VOGT"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Monitoring health care regulations and legislation",
+    "Monitoring health care regulations and legislation.",
+    "Monitoring Healthcare regulations and legislation",
+    "Monitoring Healthcare Regulations and Legislation"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 250,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 221250,
+  "peakYear": 2025,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 1
+}

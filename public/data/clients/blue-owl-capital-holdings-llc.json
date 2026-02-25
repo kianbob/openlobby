@@ -1,1 +1,87 @@
-{"id":207778,"name":"BLUE OWL CAPITAL HOLDINGS LLC","slug":"blue-owl-capital-holdings-llc","state":"NY","description":"alternative asset manager","totalSpending":2910000,"filings":21,"yearlySpending":[{"year":2020,"income":150000},{"year":2021,"income":1010000},{"year":2022,"income":510000},{"year":2023,"income":480000},{"year":2024,"income":360000},{"year":2025,"income":400000}],"firms":["ARNOLD & PORTER KAYE SCHOLER LLP"],"lobbyists":["PAUL HOWARD","MARNE MAROTTA","AMBER HAY","CARLY SINCAVITCH","DAVID SKILLMAN","MARK EPLEY","JANICE BASHFORD","SATYA THALLAM","PAUL WATERS","KEVIN O'NEILL","TWINKLE PATEL","RON KIND","DYLAN KELEMEN"],"issues":["FIN","TAX",null],"sampleDescriptions":["Issues relating to the regulation of business development companies.","Tax parity proposals for BDC investors.","Tax parity proposals for BDC investors and issues related to IRA investment prohibitions in the Build Back Better Act (H.R. 5376).","Issues relating to the regulation of business development companies; issues related to the acquired fund fees and expenses rule, H.R. 5598.","Issues relating to the regulation of business development companies, including H.R. 1379 (Access to Small Business Investor Capital Act)","Tax parity proposals for BDC investors, including H.R. 5225 (Small Business Investor Tax Parity Act of 2023)","Issues related to tax parity proposals for BDC investors, including H.R. 5225 (Small Business Investor Tax Parity Act of 2023)","Issues related to tax parity proposals for BDC investors, including H.R. 5225 (Small Business Investor Tax Parity Act of 2023). Issues related to Sec. 163j and Sec. 199A of the Internal Revenue Code.","Issues relating to tax parity proposals for BDC investors.","Issues relating to tax parity proposals for BDC investors, including within the One Big Beautiful Bill Act (P.L. 119-21).","Issues relating to tax parity proposals for BDC investors, including S.1808, the Access to Small Business Investor Capital Act, and within the One Big Beautiful Bill Act (P.L. 119-21)."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 207778,
+  "name": "BLUE OWL CAPITAL HOLDINGS LLC",
+  "slug": "blue-owl-capital-holdings-llc",
+  "state": "NY",
+  "description": "alternative asset manager",
+  "totalSpending": 2910000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 1010000
+    },
+    {
+      "year": 2022,
+      "income": 510000
+    },
+    {
+      "year": 2023,
+      "income": 480000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 400000
+    }
+  ],
+  "firms": [
+    "ARNOLD & PORTER KAYE SCHOLER LLP"
+  ],
+  "lobbyists": [
+    "PAUL HOWARD",
+    "MARNE MAROTTA",
+    "AMBER HAY",
+    "CARLY SINCAVITCH",
+    "DAVID SKILLMAN",
+    "MARK EPLEY",
+    "JANICE BASHFORD",
+    "SATYA THALLAM",
+    "PAUL WATERS",
+    "KEVIN O'NEILL",
+    "TWINKLE PATEL",
+    "RON KIND",
+    "DYLAN KELEMEN"
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues relating to the regulation of business development companies.",
+    "Tax parity proposals for BDC investors.",
+    "Tax parity proposals for BDC investors and issues related to IRA investment prohibitions in the Build Back Better Act (H.R. 5376).",
+    "Issues relating to the regulation of business development companies; issues related to the acquired fund fees and expenses rule, H.R. 5598.",
+    "Issues relating to the regulation of business development companies, including H.R. 1379 (Access to Small Business Investor Capital Act)",
+    "Tax parity proposals for BDC investors, including H.R. 5225 (Small Business Investor Tax Parity Act of 2023)",
+    "Issues related to tax parity proposals for BDC investors, including H.R. 5225 (Small Business Investor Tax Parity Act of 2023)",
+    "Issues related to tax parity proposals for BDC investors, including H.R. 5225 (Small Business Investor Tax Parity Act of 2023). Issues related to Sec. 163j and Sec. 199A of the Internal Revenue Code.",
+    "Issues relating to tax parity proposals for BDC investors.",
+    "Issues relating to tax parity proposals for BDC investors, including within the One Big Beautiful Bill Act (P.L. 119-21).",
+    "Issues relating to tax parity proposals for BDC investors, including S.1808, the Access to Small Business Investor Capital Act, and within the One Big Beautiful Bill Act (P.L. 119-21)."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 167,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 485000,
+  "peakYear": 2021,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 2
+}

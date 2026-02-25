@@ -1,1 +1,123 @@
-{"id":110208,"name":"JACKSON FAMILY ENTERPRISES","slug":"jackson-family-enterprises","state":"CA","description":"wine industry","totalSpending":1450000,"filings":29,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["BRIAN MCGUIRE","WILLIAM MOSCHELLA","ELIZABETH MAIER","RUSSELL SULLIVAN","LORI HARJU","HAROLD HANCOCK","RADHA MOHAN","GEOFFREY BURR","BRIAN WILD","ZACHARY PFISTER","NADEAM ELSHAMI","BRIAN MCKEON","CARMENCITA WHONDER","ANDREW USYK","ADAM STEINMETZ","DEEMA TARAZI","CHARLYN IOVINO","DAVID RANSOM","JOHN REISING","ROSEMARY BECCHI","ANNICK MILLER","RYAN SMITH","BELLA SEWALL WOLITZ"],"issues":["SPO","IMM","TAX","FIN","GOV","NAT","ANI",null,"HCR","AGR"],"sampleDescriptions":["Issues related to the Horseracing Integrity Act","Immigration issues","Implementation of H.R. 1","Implementation of H.R. 1 (Tax Cuts and Jobs Act of 2017)","HR 748 CARES Act; Issues related to COVID-19 relief","Land use and forestry issues","Issues related to COVID-19 relief","Implementation of H.R. 1 (Tax Cuts and Jobs Act of 2017); alcohol excise tax; H.R.133 - Consolidated Appropriations Act, 2021, S.362 - Craft Beverage Modernization and Tax Reform Act of 2019","Alcohol excise tax","Alcohol excise tax\nH.R.5376 - Build Back Better Act","Alcohol excise tax H.R.5376 - Build Back Better Act","Immigration issues related to the impact on agricultural industry","Issues related to The Horse Racing Integrity and Safety Act","Alcohol excise tax General corporate and international tax issues","Dietary recommendations","Alcohol excise tax General corporate and international tax issues TCJA Extension","Dietary recommendations issues related to the FARM bill","Alcohol excise tax General corporate and international tax issues TCJA Extension H.R.1 One Big Beautiful Bill","Alcohol excise tax General corporate and international tax issues H.R.1 One Big Beautiful Bill Act implementation","Dietary recommendations Issues related to the FARM bill"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110208,
+  "name": "JACKSON FAMILY ENTERPRISES",
+  "slug": "jackson-family-enterprises",
+  "state": "CA",
+  "description": "wine industry",
+  "totalSpending": 1450000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "BRIAN MCGUIRE",
+    "WILLIAM MOSCHELLA",
+    "ELIZABETH MAIER",
+    "RUSSELL SULLIVAN",
+    "LORI HARJU",
+    "HAROLD HANCOCK",
+    "RADHA MOHAN",
+    "GEOFFREY BURR",
+    "BRIAN WILD",
+    "ZACHARY PFISTER",
+    "NADEAM ELSHAMI",
+    "BRIAN MCKEON",
+    "CARMENCITA WHONDER",
+    "ANDREW USYK",
+    "ADAM STEINMETZ",
+    "DEEMA TARAZI",
+    "CHARLYN IOVINO",
+    "DAVID RANSOM",
+    "JOHN REISING",
+    "ROSEMARY BECCHI",
+    "ANNICK MILLER",
+    "RYAN SMITH",
+    "BELLA SEWALL WOLITZ"
+  ],
+  "issues": [
+    "SPO",
+    "IMM",
+    "TAX",
+    "FIN",
+    "GOV",
+    "NAT",
+    "ANI",
+    null,
+    "HCR",
+    "AGR"
+  ],
+  "sampleDescriptions": [
+    "Issues related to the Horseracing Integrity Act",
+    "Immigration issues",
+    "Implementation of H.R. 1",
+    "Implementation of H.R. 1 (Tax Cuts and Jobs Act of 2017)",
+    "HR 748 CARES Act; Issues related to COVID-19 relief",
+    "Land use and forestry issues",
+    "Issues related to COVID-19 relief",
+    "Implementation of H.R. 1 (Tax Cuts and Jobs Act of 2017); alcohol excise tax; H.R.133 - Consolidated Appropriations Act, 2021, S.362 - Craft Beverage Modernization and Tax Reform Act of 2019",
+    "Alcohol excise tax",
+    "Alcohol excise tax\nH.R.5376 - Build Back Better Act",
+    "Alcohol excise tax H.R.5376 - Build Back Better Act",
+    "Immigration issues related to the impact on agricultural industry",
+    "Issues related to The Horse Racing Integrity and Safety Act",
+    "Alcohol excise tax General corporate and international tax issues",
+    "Dietary recommendations",
+    "Alcohol excise tax General corporate and international tax issues TCJA Extension",
+    "Dietary recommendations issues related to the FARM bill",
+    "Alcohol excise tax General corporate and international tax issues TCJA Extension H.R.1 One Big Beautiful Bill",
+    "Alcohol excise tax General corporate and international tax issues H.R.1 One Big Beautiful Bill Act implementation",
+    "Dietary recommendations Issues related to the FARM bill"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 181250,
+  "peakYear": 2019,
+  "lobbyistCount": 23,
+  "firmCount": 1,
+  "issueCount": 9
+}

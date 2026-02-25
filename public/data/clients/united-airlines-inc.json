@@ -1,1 +1,117 @@
-{"id":168036,"name":"UNITED AIRLINES INC","slug":"united-airlines-inc","state":"DC","description":"Government Relations","totalSpending":1500000,"filings":30,"yearlySpending":[{"year":2018,"income":200000},{"year":2019,"income":200000},{"year":2020,"income":150000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":250000},{"year":2024,"income":150000},{"year":2025,"income":200000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["MICHAEL SMITH","JOHN KEAST","MICHELLE MRDEZA","MICHAEL GOODMAN","ALEXANDRA VICTOR","WILLIAM SMITH","JAMES RICHARDS","SUSAN SWEAT","HEATHER MOLINO","CHRISTOPHER HODGSON","TODD WEBSTER","CARLOS JACKSON","CHARLES CARITHERS","DAO NGUYEN","TONY ESSALIH","JOSEPH BARTON","STACY RICH","ANTHONY LAZARSKI","MICHAEL FALENCKI","DABNEY HEGG"],"issues":["HOM","BUD","AVI",null,"FIN","TRA"],"sampleDescriptions":["Customs and Border Patrol issues.\nTransportation Security Administration issues.\nAviation security.","Budget and appropriations related to the airline industry.\nH.R. 244, Consolidated Appropriations Act, 2017; provisions pertaining to commercial aviation.\nH.R. 3353, Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018; provisions pertaining to commercial aviation.\nS. 1655, Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018; provisions pertaining to commercial aviation.\nH.R. 1625, Consolidated Appropriations Act, 2018; provisions pertaining to commercial aviation.","S.1405, Federal Aviation Administration Reauthorization Act of 2017; provisions pertaining to commercial aviation; H.R. 2997, 21st Century AIRR Act; provisions pertaining to Commercial Aviation","S.1405, Federal Aviation Administration Reauthorization Act of 2017; provisions pertaining to commercial aviation; H.R. 2997, 21st Century AIRR Act; provisions pertaining to Commercial Aviation; H.R. 4, FAA Reauthorization Act of 2018; provisions pertaining to commercial aviation; H.R. 302, The FAA Reauthorization Act of 2018; provisions pertaining to commercial aviation.","Budget and appropriations related to the airline industry; H.R. 1625, Consolidated Appropriations Act, 2018; provisions pertaining to commercial aviation.","S.1405, Federal Aviation Administration Reauthorization Act of 2017; provisions pertaining to commercial aviation; H.R. 2997, 21st Century AIRR Act; provisions pertaining to Commercial Aviation; H.R. 4, FAA Reauthorization Act of 2018; provisions pertaining to commercial aviation;S. 3023/H.R. 6072, Transportation, Housing, and Urban Development, and Related Agencies Appropriations Act, 2019; provisions pertaining to commercial aviation.  and/or S. 3109/H.R. 6776, Department of Homeland Security Appropriations bill, FY2019; provisions pertaining to commercial aviation","Budget and appropriations related to the airline industry; S. 3023/H.R. 6072, Transportation, Housing, and Urban Development, and Related Agencies Appropriations Act, 2019; provisions pertaining to commercial aviation.  and/or S. 3109/H.R. 6776, Department of Homeland Security Appropriations bill, FY2019; provisions pertaining to commercial aviation","Budget and appropriations related to aviation","Budget and appropriations related to aviation, H.R. 748, Coronavirus Aid, Relief, and Economic Security (CARES) Act","Budget and appropriations related to aviation, FAA issues","Issues related to commercial aviation; aircraft certification issues; Air Carrier Worker Support Extension Act(H.R. 8345/S. 4634); Coronavirus Aid, Relief, and Economic Security (CARES) Act (H.R. 748)","Monitoring Fiscal Year 2021 appropriations","Issues related to commercial aviation; aircraft certification issues; Air Carrier Worker Support Extension Act(H.R. 8345/S. 4634); Coronavirus Aid, Relief, and Economic Security (CARES) Act (H.R. 748/S. 3548); H.R. 133 Consolidated Appropriations, 2021.","Monitor issues pertaining to the airline industry.","Issues related to commercial aviation","Monitoring Fiscal Year 2022 appropriations","Monitoring Fiscal Year 2023 appropriations","Monitoring and engaging on Fiscal Year 2024 appropriations and FAA reauthorization","Issues related to commercial aviation and FAA reauthorization; DCA slot and perimeter rules and Direct Capital Access Act (H.R. 3185)","Credit Card Competition Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 168036,
+  "name": "UNITED AIRLINES INC",
+  "slug": "united-airlines-inc",
+  "state": "DC",
+  "description": "Government Relations",
+  "totalSpending": 1500000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 250000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "MICHAEL SMITH",
+    "JOHN KEAST",
+    "MICHELLE MRDEZA",
+    "MICHAEL GOODMAN",
+    "ALEXANDRA VICTOR",
+    "WILLIAM SMITH",
+    "JAMES RICHARDS",
+    "SUSAN SWEAT",
+    "HEATHER MOLINO",
+    "CHRISTOPHER HODGSON",
+    "TODD WEBSTER",
+    "CARLOS JACKSON",
+    "CHARLES CARITHERS",
+    "DAO NGUYEN",
+    "TONY ESSALIH",
+    "JOSEPH BARTON",
+    "STACY RICH",
+    "ANTHONY LAZARSKI",
+    "MICHAEL FALENCKI",
+    "DABNEY HEGG"
+  ],
+  "issues": [
+    "HOM",
+    "BUD",
+    "AVI",
+    null,
+    "FIN",
+    "TRA"
+  ],
+  "sampleDescriptions": [
+    "Customs and Border Patrol issues.\nTransportation Security Administration issues.\nAviation security.",
+    "Budget and appropriations related to the airline industry.\nH.R. 244, Consolidated Appropriations Act, 2017; provisions pertaining to commercial aviation.\nH.R. 3353, Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018; provisions pertaining to commercial aviation.\nS. 1655, Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018; provisions pertaining to commercial aviation.\nH.R. 1625, Consolidated Appropriations Act, 2018; provisions pertaining to commercial aviation.",
+    "S.1405, Federal Aviation Administration Reauthorization Act of 2017; provisions pertaining to commercial aviation; H.R. 2997, 21st Century AIRR Act; provisions pertaining to Commercial Aviation",
+    "S.1405, Federal Aviation Administration Reauthorization Act of 2017; provisions pertaining to commercial aviation; H.R. 2997, 21st Century AIRR Act; provisions pertaining to Commercial Aviation; H.R. 4, FAA Reauthorization Act of 2018; provisions pertaining to commercial aviation; H.R. 302, The FAA Reauthorization Act of 2018; provisions pertaining to commercial aviation.",
+    "Budget and appropriations related to the airline industry; H.R. 1625, Consolidated Appropriations Act, 2018; provisions pertaining to commercial aviation.",
+    "S.1405, Federal Aviation Administration Reauthorization Act of 2017; provisions pertaining to commercial aviation; H.R. 2997, 21st Century AIRR Act; provisions pertaining to Commercial Aviation; H.R. 4, FAA Reauthorization Act of 2018; provisions pertaining to commercial aviation;S. 3023/H.R. 6072, Transportation, Housing, and Urban Development, and Related Agencies Appropriations Act, 2019; provisions pertaining to commercial aviation.  and/or S. 3109/H.R. 6776, Department of Homeland Security Appropriations bill, FY2019; provisions pertaining to commercial aviation",
+    "Budget and appropriations related to the airline industry; S. 3023/H.R. 6072, Transportation, Housing, and Urban Development, and Related Agencies Appropriations Act, 2019; provisions pertaining to commercial aviation.  and/or S. 3109/H.R. 6776, Department of Homeland Security Appropriations bill, FY2019; provisions pertaining to commercial aviation",
+    "Budget and appropriations related to aviation",
+    "Budget and appropriations related to aviation, H.R. 748, Coronavirus Aid, Relief, and Economic Security (CARES) Act",
+    "Budget and appropriations related to aviation, FAA issues",
+    "Issues related to commercial aviation; aircraft certification issues; Air Carrier Worker Support Extension Act(H.R. 8345/S. 4634); Coronavirus Aid, Relief, and Economic Security (CARES) Act (H.R. 748)",
+    "Monitoring Fiscal Year 2021 appropriations",
+    "Issues related to commercial aviation; aircraft certification issues; Air Carrier Worker Support Extension Act(H.R. 8345/S. 4634); Coronavirus Aid, Relief, and Economic Security (CARES) Act (H.R. 748/S. 3548); H.R. 133 Consolidated Appropriations, 2021.",
+    "Monitor issues pertaining to the airline industry.",
+    "Issues related to commercial aviation",
+    "Monitoring Fiscal Year 2022 appropriations",
+    "Monitoring Fiscal Year 2023 appropriations",
+    "Monitoring and engaging on Fiscal Year 2024 appropriations and FAA reauthorization",
+    "Issues related to commercial aviation and FAA reauthorization; DCA slot and perimeter rules and Direct Capital Access Act (H.R. 3185)",
+    "Credit Card Competition Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 187500,
+  "peakYear": 2023,
+  "lobbyistCount": 20,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "technology"
+}

@@ -1,1 +1,79 @@
-{"id":187773,"name":"FINANCIAL INNOVATION NOW","slug":"financial-innovation-now","state":"DC","description":"promote policies that enable innovation and technology in financial services","totalSpending":1770000,"filings":16,"yearlySpending":[{"year":2018,"income":250000},{"year":2019,"income":440000},{"year":2020,"income":600000},{"year":2021,"income":360000},{"year":2022,"income":120000}],"firms":["FRANKLIN SQUARE GROUP, LLC"],"lobbyists":["MATTHEW TANIELIAN","JOSHUA ACKIL","KARA CALVERT CAMPBELL","BRIAN PETERS","BRIAN WORTH","SARAH BETH JANSEN","TROY PERRY","JESSICA MARTINEZ","WESLEY MCCLELLAND"],"issues":["BAN","FIN","CSP"],"sampleDescriptions":["Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; AML/BSA Legislation","Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications","Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act","Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act;  Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility","Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act; Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility","Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act; Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility; S. 3548, CARES Act","Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act;  Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility; Implementation of CARES Act (Pub.L. 116-136)","Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act; Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility; Implementation of CARES Act (Pub.L. 116-136)","Payment security and authentication, open payment standards, payments research, financial inclusion, real-time payments, online lending, open finance applications; implementation of the Anti-Money Laundering Act of 2021; Regulation ii; FRB account access; artificial intelligence; money transmission issues","Payment security and authentication, open payment standards, payments research, financial inclusion, real-time payments, online lending, open finance applications; \nImplementation of the Anti-Money Laundering Act of 2021; \nRegulation II (Debit Card Interchange Fees and Routing); \nFRB account access; \nArtificial intelligence; \nMoney transmission issues","Payment security and authentication, open payment standards, payments research, financial inclusion, real-time payments, online lending, open finance applications; Implementation of the Anti-Money Laundering Act of 2021; Regulation II (Debit Card Interchange Fees and Routing); FRB account access; Artificial intelligence; Money transmission issues"],"years":[2018,2019,2020,2021,2022]}
+{
+  "id": 187773,
+  "name": "FINANCIAL INNOVATION NOW",
+  "slug": "financial-innovation-now",
+  "state": "DC",
+  "description": "promote policies that enable innovation and technology in financial services",
+  "totalSpending": 1770000,
+  "filings": 16,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 250000
+    },
+    {
+      "year": 2019,
+      "income": 440000
+    },
+    {
+      "year": 2020,
+      "income": 600000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "FRANKLIN SQUARE GROUP, LLC"
+  ],
+  "lobbyists": [
+    "MATTHEW TANIELIAN",
+    "JOSHUA ACKIL",
+    "KARA CALVERT CAMPBELL",
+    "BRIAN PETERS",
+    "BRIAN WORTH",
+    "SARAH BETH JANSEN",
+    "TROY PERRY",
+    "JESSICA MARTINEZ",
+    "WESLEY MCCLELLAND"
+  ],
+  "issues": [
+    "BAN",
+    "FIN",
+    "CSP"
+  ],
+  "sampleDescriptions": [
+    "Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; AML/BSA Legislation",
+    "Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications",
+    "Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act",
+    "Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act;  Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility",
+    "Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act; Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility",
+    "Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act; Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility; S. 3548, CARES Act",
+    "Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act;  Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility; Implementation of CARES Act (Pub.L. 116-136)",
+    "Payment Security and Authentication, Open Payment Standards, Payments Research, Financial Inclusion, Real-time Payments, Online Lending, Open Finance Applications; Opposing HR 4813, Keep Big Tech Out of Finance Act; Issues related to the SBA's Paycheck Protection Program and the Federal Reserve's Main Street Lending Facility; Implementation of CARES Act (Pub.L. 116-136)",
+    "Payment security and authentication, open payment standards, payments research, financial inclusion, real-time payments, online lending, open finance applications; implementation of the Anti-Money Laundering Act of 2021; Regulation ii; FRB account access; artificial intelligence; money transmission issues",
+    "Payment security and authentication, open payment standards, payments research, financial inclusion, real-time payments, online lending, open finance applications; \nImplementation of the Anti-Money Laundering Act of 2021; \nRegulation II (Debit Card Interchange Fees and Routing); \nFRB account access; \nArtificial intelligence; \nMoney transmission issues",
+    "Payment security and authentication, open payment standards, payments research, financial inclusion, real-time payments, online lending, open finance applications; Implementation of the Anti-Money Laundering Act of 2021; Regulation II (Debit Card Interchange Fees and Routing); FRB account access; Artificial intelligence; Money transmission issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "growthRate": -52,
+  "trajectory": "declining",
+  "yearsActive": 5,
+  "avgAnnualSpending": 354000,
+  "peakYear": 2020,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "finance"
+}

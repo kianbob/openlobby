@@ -1,1 +1,329 @@
-{"abbreviation":"NE","name":"Nebraska","totalSpending":35943524,"totalFilings":2392,"clientCount":131,"yearlySpending":[{"year":2018,"income":3180000},{"year":2019,"income":3175000},{"year":2020,"income":2762000},{"year":2021,"income":3304000},{"year":2022,"income":4562000},{"year":2023,"income":9422800},{"year":2024,"income":3852850},{"year":2025,"income":5684874}],"topClients":[{"name":"UNIVERSITY OF NEBRASKA","income":2740000},{"name":"HDR, INC.","income":2175000},{"name":"TENASKA, INC.","income":1900000},{"name":"PACIFIC LIFE INSURANCE COMPANY","income":1840000},{"name":"ELECTION SYSTEMS & SOFTWARE, LLC","income":1760000},{"name":"MONOLITH MATERIALS, INC.","income":1590000},{"name":"WERNER ENTERPRISES","income":1440000},{"name":"RURAL MEDIA GROUP","income":1160000},{"name":"MONOLITH MATERIALS","income":990000},{"name":"WHOLESTONE PRESTAGE LLC (FORMERLY KNOW AS WHOLESTONE FARMS)","income":970000},{"name":"HO-CHUNK INC.","income":960000},{"name":"WINNEBAGO TRIBE OF NEBRASKA","income":882000},{"name":"CREIGHTON UNIVERSITY","income":830000},{"name":"GREATER OMAHA ECONOMIC DEVELOPMENT PARTNERSHIP","income":790000},{"name":"LINDSAY CORPORATION","income":750000},{"name":"LOWER PLATTE NRDS","income":700000},{"name":"ACI PAYMENTS, INC.","income":627500},{"name":"LINDSAY MANUFACTURING CO","income":620000},{"name":"HOME INSTEAD, INC.","income":610000},{"name":"NELNET, INC","income":600000},{"name":"CITY OF LINCOLN, NEBRASKA","income":509025},{"name":"DIAMOND PLASTIC CORPORATION","income":490000},{"name":"AMERICAN ASSOCIATION OF PSYCHIATRIC PHARMACISTS","income":480000},{"name":"OMAHA PUBLIC POWER DISTRICT (OPPD)","income":450000},{"name":"TWIN LOUPS RECLAMATION DISTRICT","income":440000},{"name":"GEA MECHANICAL EQUIPMENT US, INC.","income":430000},{"name":"FIDELITY NATIONAL TITLE INSURANCE COMPANY","income":430000},{"name":"NELNET","income":390000},{"name":"REPUBLICAN RIVER BASIN COALITION","income":380000},{"name":"AG CONSULTING GROUP, L.L.C.","income":380000},{"name":"THE SCOULAR COMPANY","income":380000},{"name":"GAVILON LLC","income":375000},{"name":"LINDSAY CORP.","income":340000},{"name":"UNION PACIFIC RAILROAD COMPANY","income":340000},{"name":"TENASKA INC.","income":330000},{"name":"SANTEE SIOUX NATION","income":320000},{"name":"LANCASTER COUNTY, NEBRASKA","income":317499},{"name":"COLLEGE OF PSYCHIATRIC AND NEUROLOGIC PHARMACISTS","income":300000},{"name":"SIGNATURE PERFORMANCE, INC.","income":270000},{"name":"HDR ENGINEERING, INC.","income":230000},{"name":"GERING-FORT LARAMIE IRRIGATION DISTRICT","income":220000},{"name":"NEBRASKA HEALTH INFORMATION INITIATIVE (D/B/A CYNCHEALTH)","income":210000},{"name":"NEBRASKA HEALTH INFORMATION INITIATIVE","income":190000},{"name":"NEBRASKA HOSPITAL ASSOCIATION","income":190000},{"name":"UNITED NETWORK EQUIPMENT DEALERS ASSOCIATION","income":180000},{"name":"CITY OF BEATRICE, NEBRASKA","income":180000},{"name":"NEBRASKA PUBLIC POWER DISTRICT","income":180000},{"name":"BOYS TOWN USA","income":160000},{"name":"NE ENTERPRISES","income":160000},{"name":"NELNET, INC.","income":160000}],"topIssues":[{"code":"BUD","income":8484949},{"code":"TAX","income":6447000},{"code":"TRA","income":6186424},{"code":"AGR","income":5847600},{"code":"HCR","income":4512100},{"code":"ENG","income":4330000},{"code":"DEF","income":4040000},{"code":"EDU","income":3075000},{"code":"FIN","income":2897500},{"code":"SCI","income":2360000},{"code":"NAT","income":2310000},{"code":"ENV","income":2050000},{"code":"GOV","income":1947600},{"code":"IND","income":1877000},{"code":"CAW","income":1609800},{"code":"COM","income":980000},{"code":"HOM","income":780000},{"code":"SMB","income":762000},{"code":"MMM","income":738000},{"code":"RRR","income":690000}]}
+{
+  "abbreviation": "NE",
+  "name": "Nebraska",
+  "totalSpending": 35943524,
+  "totalFilings": 2392,
+  "clientCount": 131,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 3180000
+    },
+    {
+      "year": 2019,
+      "income": 3175000
+    },
+    {
+      "year": 2020,
+      "income": 2762000
+    },
+    {
+      "year": 2021,
+      "income": 3304000
+    },
+    {
+      "year": 2022,
+      "income": 4562000
+    },
+    {
+      "year": 2023,
+      "income": 9422800
+    },
+    {
+      "year": 2024,
+      "income": 3852850
+    },
+    {
+      "year": 2025,
+      "income": 5684874
+    }
+  ],
+  "topClients": [
+    {
+      "name": "UNIVERSITY OF NEBRASKA",
+      "income": 2740000
+    },
+    {
+      "name": "HDR, INC.",
+      "income": 2175000
+    },
+    {
+      "name": "TENASKA, INC.",
+      "income": 1900000
+    },
+    {
+      "name": "PACIFIC LIFE INSURANCE COMPANY",
+      "income": 1840000
+    },
+    {
+      "name": "ELECTION SYSTEMS & SOFTWARE, LLC",
+      "income": 1760000
+    },
+    {
+      "name": "MONOLITH MATERIALS, INC.",
+      "income": 1590000
+    },
+    {
+      "name": "WERNER ENTERPRISES",
+      "income": 1440000
+    },
+    {
+      "name": "RURAL MEDIA GROUP",
+      "income": 1160000
+    },
+    {
+      "name": "MONOLITH MATERIALS",
+      "income": 990000
+    },
+    {
+      "name": "WHOLESTONE PRESTAGE LLC (FORMERLY KNOW AS WHOLESTONE FARMS)",
+      "income": 970000
+    },
+    {
+      "name": "HO-CHUNK INC.",
+      "income": 960000
+    },
+    {
+      "name": "WINNEBAGO TRIBE OF NEBRASKA",
+      "income": 882000
+    },
+    {
+      "name": "CREIGHTON UNIVERSITY",
+      "income": 830000
+    },
+    {
+      "name": "GREATER OMAHA ECONOMIC DEVELOPMENT PARTNERSHIP",
+      "income": 790000
+    },
+    {
+      "name": "LINDSAY CORPORATION",
+      "income": 750000
+    },
+    {
+      "name": "LOWER PLATTE NRDS",
+      "income": 700000
+    },
+    {
+      "name": "ACI PAYMENTS, INC.",
+      "income": 627500
+    },
+    {
+      "name": "LINDSAY MANUFACTURING CO",
+      "income": 620000
+    },
+    {
+      "name": "HOME INSTEAD, INC.",
+      "income": 610000
+    },
+    {
+      "name": "NELNET, INC",
+      "income": 600000
+    },
+    {
+      "name": "CITY OF LINCOLN, NEBRASKA",
+      "income": 509025
+    },
+    {
+      "name": "DIAMOND PLASTIC CORPORATION",
+      "income": 490000
+    },
+    {
+      "name": "AMERICAN ASSOCIATION OF PSYCHIATRIC PHARMACISTS",
+      "income": 480000
+    },
+    {
+      "name": "OMAHA PUBLIC POWER DISTRICT (OPPD)",
+      "income": 450000
+    },
+    {
+      "name": "TWIN LOUPS RECLAMATION DISTRICT",
+      "income": 440000
+    },
+    {
+      "name": "GEA MECHANICAL EQUIPMENT US, INC.",
+      "income": 430000
+    },
+    {
+      "name": "FIDELITY NATIONAL TITLE INSURANCE COMPANY",
+      "income": 430000
+    },
+    {
+      "name": "NELNET",
+      "income": 390000
+    },
+    {
+      "name": "REPUBLICAN RIVER BASIN COALITION",
+      "income": 380000
+    },
+    {
+      "name": "AG CONSULTING GROUP, L.L.C.",
+      "income": 380000
+    },
+    {
+      "name": "THE SCOULAR COMPANY",
+      "income": 380000
+    },
+    {
+      "name": "GAVILON LLC",
+      "income": 375000
+    },
+    {
+      "name": "LINDSAY CORP.",
+      "income": 340000
+    },
+    {
+      "name": "UNION PACIFIC RAILROAD COMPANY",
+      "income": 340000
+    },
+    {
+      "name": "TENASKA INC.",
+      "income": 330000
+    },
+    {
+      "name": "SANTEE SIOUX NATION",
+      "income": 320000
+    },
+    {
+      "name": "LANCASTER COUNTY, NEBRASKA",
+      "income": 317499
+    },
+    {
+      "name": "COLLEGE OF PSYCHIATRIC AND NEUROLOGIC PHARMACISTS",
+      "income": 300000
+    },
+    {
+      "name": "SIGNATURE PERFORMANCE, INC.",
+      "income": 270000
+    },
+    {
+      "name": "HDR ENGINEERING, INC.",
+      "income": 230000
+    },
+    {
+      "name": "GERING-FORT LARAMIE IRRIGATION DISTRICT",
+      "income": 220000
+    },
+    {
+      "name": "NEBRASKA HEALTH INFORMATION INITIATIVE (D/B/A CYNCHEALTH)",
+      "income": 210000
+    },
+    {
+      "name": "NEBRASKA HEALTH INFORMATION INITIATIVE",
+      "income": 190000
+    },
+    {
+      "name": "NEBRASKA HOSPITAL ASSOCIATION",
+      "income": 190000
+    },
+    {
+      "name": "UNITED NETWORK EQUIPMENT DEALERS ASSOCIATION",
+      "income": 180000
+    },
+    {
+      "name": "CITY OF BEATRICE, NEBRASKA",
+      "income": 180000
+    },
+    {
+      "name": "NEBRASKA PUBLIC POWER DISTRICT",
+      "income": 180000
+    },
+    {
+      "name": "BOYS TOWN USA",
+      "income": 160000
+    },
+    {
+      "name": "NE ENTERPRISES",
+      "income": 160000
+    },
+    {
+      "name": "NELNET, INC.",
+      "income": 160000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 8484949
+    },
+    {
+      "code": "TAX",
+      "income": 6447000
+    },
+    {
+      "code": "TRA",
+      "income": 6186424
+    },
+    {
+      "code": "AGR",
+      "income": 5847600
+    },
+    {
+      "code": "HCR",
+      "income": 4512100
+    },
+    {
+      "code": "ENG",
+      "income": 4330000
+    },
+    {
+      "code": "DEF",
+      "income": 4040000
+    },
+    {
+      "code": "EDU",
+      "income": 3075000
+    },
+    {
+      "code": "FIN",
+      "income": 2897500
+    },
+    {
+      "code": "SCI",
+      "income": 2360000
+    },
+    {
+      "code": "NAT",
+      "income": 2310000
+    },
+    {
+      "code": "ENV",
+      "income": 2050000
+    },
+    {
+      "code": "GOV",
+      "income": 1947600
+    },
+    {
+      "code": "IND",
+      "income": 1877000
+    },
+    {
+      "code": "CAW",
+      "income": 1609800
+    },
+    {
+      "code": "COM",
+      "income": 980000
+    },
+    {
+      "code": "HOM",
+      "income": 780000
+    },
+    {
+      "code": "SMB",
+      "income": 762000
+    },
+    {
+      "code": "MMM",
+      "income": 738000
+    },
+    {
+      "code": "RRR",
+      "income": 690000
+    }
+  ],
+  "perCapita": 24.89,
+  "population": 1978379,
+  "nationalRank": 41,
+  "perCapitaRank": 38
+}

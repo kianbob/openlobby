@@ -1,1 +1,87 @@
-{"id":184221,"name":"BLOOMBERG PHILANTHROPIES","slug":"bloomberg-philanthropies","state":"NY","description":"Charitable giving by Michael R. Bloomberg","totalSpending":2060000,"filings":24,"yearlySpending":[{"year":2019,"income":80000},{"year":2020,"income":320000},{"year":2021,"income":240000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":320000},{"year":2025,"income":460000}],"firms":["AVOQ, LLC"],"lobbyists":["STACEY ALEXANDER","STEVEN ELMENDORF","CEDRIC GRANT","BILL GHENT"],"issues":["TOB","BUD","TAX","EDU",null],"sampleDescriptions":["H.R. 2339, the Reversing the Youth Tobacco Epidemic Act of 2019.","H.R. 2339: Reversing the Youth Tobacco Epidemic Act of 2019","H.R. 2339: Reversing the Youth Tobacco Epidemic Act of 2019\nH.R. 7286: Quit Because of COVID-19 ACT of 2020","Issues related to the Reversing the Youth Tobacco Epidemic Act \nIssues related to the Quit Because of COVID-19 ACT","Issues related to the Reversing the Youth Tobacco Epidemic Act \nIssues related to H.R. 2125, the Quit Because of COVID-19 ACT of 2021","Issues related to 2022 FDA appropriations","Issues related to the inclusion of a tobacco tax in H.R.5376 (Build Back Better Act)","Issues related to the Reversing the Youth Tobacco Epidemic Act Issues related to H.R.2125, the Quit Because of COVID-19 ACT of 2021 Issues related to the FDA Center for Tobacco Products","Issues related to H.R.2471 (FY2022 Consolidated Appropriations Act)","Issues related to charter schools","Issues related to the FDA Center for Tobacco Products","Issues related to the FDA Center for Tobacco Products; Issues related to community health","Issues related to tax reform, college and university endowments, and philanthropy, including charitable giving"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184221,
+  "name": "BLOOMBERG PHILANTHROPIES",
+  "slug": "bloomberg-philanthropies",
+  "state": "NY",
+  "description": "Charitable giving by Michael R. Bloomberg",
+  "totalSpending": 2060000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 80000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 320000
+    },
+    {
+      "year": 2025,
+      "income": 460000
+    }
+  ],
+  "firms": [
+    "AVOQ, LLC"
+  ],
+  "lobbyists": [
+    "STACEY ALEXANDER",
+    "STEVEN ELMENDORF",
+    "CEDRIC GRANT",
+    "BILL GHENT"
+  ],
+  "issues": [
+    "TOB",
+    "BUD",
+    "TAX",
+    "EDU",
+    null
+  ],
+  "sampleDescriptions": [
+    "H.R. 2339, the Reversing the Youth Tobacco Epidemic Act of 2019.",
+    "H.R. 2339: Reversing the Youth Tobacco Epidemic Act of 2019",
+    "H.R. 2339: Reversing the Youth Tobacco Epidemic Act of 2019\nH.R. 7286: Quit Because of COVID-19 ACT of 2020",
+    "Issues related to the Reversing the Youth Tobacco Epidemic Act \nIssues related to the Quit Because of COVID-19 ACT",
+    "Issues related to the Reversing the Youth Tobacco Epidemic Act \nIssues related to H.R. 2125, the Quit Because of COVID-19 ACT of 2021",
+    "Issues related to 2022 FDA appropriations",
+    "Issues related to the inclusion of a tobacco tax in H.R.5376 (Build Back Better Act)",
+    "Issues related to the Reversing the Youth Tobacco Epidemic Act Issues related to H.R.2125, the Quit Because of COVID-19 ACT of 2021 Issues related to the FDA Center for Tobacco Products",
+    "Issues related to H.R.2471 (FY2022 Consolidated Appropriations Act)",
+    "Issues related to charter schools",
+    "Issues related to the FDA Center for Tobacco Products",
+    "Issues related to the FDA Center for Tobacco Products; Issues related to community health",
+    "Issues related to tax reform, college and university endowments, and philanthropy, including charitable giving"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 475,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 294286,
+  "peakYear": 2025,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 4
+}

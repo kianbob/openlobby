@@ -1,1 +1,85 @@
-{"id":131472,"name":"MEDLINE INDUSTRIES, L.P. (FORMERLY MEDLINE INDUSTRIES, INC.)","slug":"medline-industries-l-p-formerly-medline-industries-inc","state":"IL","description":"Medical supplies manufacturer.","totalSpending":1570000,"filings":22,"yearlySpending":[{"year":2018,"income":50000},{"year":2019,"income":40000},{"year":2020,"income":280000},{"year":2021,"income":170000},{"year":2022,"income":260000},{"year":2023,"income":440000},{"year":2024,"income":190000},{"year":2025,"income":140000}],"firms":["MAYER BROWN LLP"],"lobbyists":["WARREN PAYNE","ANTHONY MOFFETT","TIMOTHY KEELER"],"issues":["TRD","ENV","HCR",null],"sampleDescriptions":["Issues related to the Section 301 investigation.","Issues related to regulation of medical device sterilization processes.","Issues related to Section 301 investigation.","Issues related to Section 301 tariffs.","Issues related to pandemic relief.","Issues relating to Section 301 tariffs.","Issues related to the US Innovation and Competition Act (USICA - S. 1260) and the America COMPETES Act of 2022 (H.R. 4521).","Issues related to Section 301 tariffs and US-China trade policy."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 131472,
+  "name": "MEDLINE INDUSTRIES, L.P. (FORMERLY MEDLINE INDUSTRIES, INC.)",
+  "slug": "medline-industries-l-p-formerly-medline-industries-inc",
+  "state": "IL",
+  "description": "Medical supplies manufacturer.",
+  "totalSpending": 1570000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 50000
+    },
+    {
+      "year": 2019,
+      "income": 40000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 170000
+    },
+    {
+      "year": 2022,
+      "income": 260000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 190000
+    },
+    {
+      "year": 2025,
+      "income": 140000
+    }
+  ],
+  "firms": [
+    "MAYER BROWN LLP"
+  ],
+  "lobbyists": [
+    "WARREN PAYNE",
+    "ANTHONY MOFFETT",
+    "TIMOTHY KEELER"
+  ],
+  "issues": [
+    "TRD",
+    "ENV",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to the Section 301 investigation.",
+    "Issues related to regulation of medical device sterilization processes.",
+    "Issues related to Section 301 investigation.",
+    "Issues related to Section 301 tariffs.",
+    "Issues related to pandemic relief.",
+    "Issues relating to Section 301 tariffs.",
+    "Issues related to the US Innovation and Competition Act (USICA - S. 1260) and the America COMPETES Act of 2022 (H.R. 4521).",
+    "Issues related to Section 301 tariffs and US-China trade policy."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 180,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 196250,
+  "peakYear": 2023,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 3
+}

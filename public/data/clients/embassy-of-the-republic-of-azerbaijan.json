@@ -1,1 +1,75 @@
-{"id":106704,"name":"EMBASSY OF THE REPUBLIC OF AZERBAIJAN","slug":"embassy-of-the-republic-of-azerbaijan","state":"DC","description":"Foreign government","totalSpending":3270000,"filings":26,"yearlySpending":[{"year":2018,"income":600000},{"year":2019,"income":510000},{"year":2020,"income":480000},{"year":2021,"income":360000},{"year":2022,"income":480000},{"year":2023,"income":480000},{"year":2024,"income":360000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["MARK TAVLARIDES","WALKER ROBERTS","LESTER MUNSON","MAYA SEIDEN","EDWARD ROGERS","PETE LANDRUM"],"issues":["FOR",null],"sampleDescriptions":["Bilateral US-Azerbaijan relations"],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 106704,
+  "name": "EMBASSY OF THE REPUBLIC OF AZERBAIJAN",
+  "slug": "embassy-of-the-republic-of-azerbaijan",
+  "state": "DC",
+  "description": "Foreign government",
+  "totalSpending": 3270000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 600000
+    },
+    {
+      "year": 2019,
+      "income": 510000
+    },
+    {
+      "year": 2020,
+      "income": 480000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 480000
+    },
+    {
+      "year": 2023,
+      "income": 480000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "MARK TAVLARIDES",
+    "WALKER ROBERTS",
+    "LESTER MUNSON",
+    "MAYA SEIDEN",
+    "EDWARD ROGERS",
+    "PETE LANDRUM"
+  ],
+  "issues": [
+    "FOR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Bilateral US-Azerbaijan relations"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -40,
+  "trajectory": "reducing",
+  "yearsActive": 7,
+  "avgAnnualSpending": 467143,
+  "peakYear": 2018,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

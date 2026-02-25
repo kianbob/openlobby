@@ -1,1 +1,89 @@
-{"id":101312,"name":"NATIONAL THOROUGHBRED RACING ASSOCIATION","slug":"national-thoroughbred-racing-association","state":"KY","description":"Trade Association","totalSpending":1900000,"filings":24,"yearlySpending":[{"year":2019,"income":110000},{"year":2020,"income":260000},{"year":2021,"income":1080000},{"year":2022,"income":90000},{"year":2023,"income":120000},{"year":2024,"income":120000},{"year":2025,"income":120000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["GORDON BATES","ED PAGANO","CASEY HIGGINS","CHRISTOPHER TREANOR","ZACHARY RUDISILL"],"issues":["GAM","ANI","IMM","TAX",null],"sampleDescriptions":["Horse welfare and safety and racing integrity.","Horse safety and track maintenance legislation.","Horse safety and track maintenance legislation, H.R. 1754, S. 4547.","Implementation of Horseracing Safety and Integrity Act (Public Law 95-452).","Implementation of Horseracing Safety and Integrity Act (Public Law 95-452) and FTC process and funding.","Amendment of Horseracing Safety and Integrity Act contained in Consolidated Appropriations Act, 2023, (Public Law 117-103).","Issues related to agricultural and seasonal guest worker visas.","Tax extenders relating to depreciation of thoroughbred horses.","Implementation of the Horseracing Integrity and Safety Act of 2020 (15 U.S.C. 3051-3060).","Implementation of H.R.1754/S.4547 - Horseracing Integrity and Safety Act of 2020 (15 U.S.C. 3051-3060).","Implementation of the Horseracing Integrity and Safety Act of 2020 (P.L. 116-260).","Issues related to tax extenders for depreciation of thoroughbred horses; Issues related to section 461 of the One Big Beautiful Bill Act (P.L. 119-21) regarding limitations on excess business losses.","Issues related to tax extenders for depreciation of thoroughbred horses; Issues related to Section 461 of the One Big Beautiful Bill Act (P.L. 119-21) regarding limitations on excess business losses.","Issues related to the depreciation of racehorses and gambling loss; Issues related to H.R. 4630 - WAGER Act of 2025, H.R. 4304 - Fair Accounting for Income Realized from Betting Earnings Taxation Act, and S. 2230 - Facilitating Useful Loss Limitations to Help Our Unique Service Economy (FULL HOUSE) Act."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 101312,
+  "name": "NATIONAL THOROUGHBRED RACING ASSOCIATION",
+  "slug": "national-thoroughbred-racing-association",
+  "state": "KY",
+  "description": "Trade Association",
+  "totalSpending": 1900000,
+  "filings": 24,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 110000
+    },
+    {
+      "year": 2020,
+      "income": 260000
+    },
+    {
+      "year": 2021,
+      "income": 1080000
+    },
+    {
+      "year": 2022,
+      "income": 90000
+    },
+    {
+      "year": 2023,
+      "income": 120000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "GORDON BATES",
+    "ED PAGANO",
+    "CASEY HIGGINS",
+    "CHRISTOPHER TREANOR",
+    "ZACHARY RUDISILL"
+  ],
+  "issues": [
+    "GAM",
+    "ANI",
+    "IMM",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Horse welfare and safety and racing integrity.",
+    "Horse safety and track maintenance legislation.",
+    "Horse safety and track maintenance legislation, H.R. 1754, S. 4547.",
+    "Implementation of Horseracing Safety and Integrity Act (Public Law 95-452).",
+    "Implementation of Horseracing Safety and Integrity Act (Public Law 95-452) and FTC process and funding.",
+    "Amendment of Horseracing Safety and Integrity Act contained in Consolidated Appropriations Act, 2023, (Public Law 117-103).",
+    "Issues related to agricultural and seasonal guest worker visas.",
+    "Tax extenders relating to depreciation of thoroughbred horses.",
+    "Implementation of the Horseracing Integrity and Safety Act of 2020 (15 U.S.C. 3051-3060).",
+    "Implementation of H.R.1754/S.4547 - Horseracing Integrity and Safety Act of 2020 (15 U.S.C. 3051-3060).",
+    "Implementation of the Horseracing Integrity and Safety Act of 2020 (P.L. 116-260).",
+    "Issues related to tax extenders for depreciation of thoroughbred horses; Issues related to section 461 of the One Big Beautiful Bill Act (P.L. 119-21) regarding limitations on excess business losses.",
+    "Issues related to tax extenders for depreciation of thoroughbred horses; Issues related to Section 461 of the One Big Beautiful Bill Act (P.L. 119-21) regarding limitations on excess business losses.",
+    "Issues related to the depreciation of racehorses and gambling loss; Issues related to H.R. 4630 - WAGER Act of 2025, H.R. 4304 - Fair Accounting for Income Realized from Betting Earnings Taxation Act, and S. 2230 - Facilitating Useful Loss Limitations to Help Our Unique Service Economy (FULL HOUSE) Act."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 9,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 271429,
+  "peakYear": 2021,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 4
+}

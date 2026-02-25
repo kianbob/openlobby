@@ -1,1 +1,91 @@
-{"id":210944,"name":"SAP AMERICA, INC.","slug":"sap-america-inc","state":"DC","description":"Business intel, enterprise resource planning, supply chain management, customer relations","totalSpending":1360000,"filings":17,"yearlySpending":[{"year":2021,"income":160000},{"year":2022,"income":400000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["ZACHARY RUDISILL","SEAN D'ARCY","VIRGIL MILLER","GALEN ROEHL","BRIAN POMPER","JAMES TUCKER","FILEMON VELA","JOSE BORJON","ED PAGANO","REGINALD BABIN","LAUREN RUBIN","SAM OLSWANGER","DAVID SCHWIETERT"],"issues":["TAX","CSP","TRD","TRA",null,"GOV","TAR"],"sampleDescriptions":["Advising on issues related to international tax reform.","Issues related to data privacy legislation; Issues related to cybersecurity; issues related to Infrastructure Investment and Jobs Act (H.R. 3684); issues related to Build Back Better Act (H.R. 5376); issues related to ransomware; issues related to US-EU Technology Summit.","Issues regarding digital trade","Issues regarding sanctions.","Issues related to supply chain logistics.","Issues related to data privacy legislation; Issues related to cybersecurity; issues related to Infrastructure Investment and Jobs Act (H.R. 3684); issues related to Build Back Better Act (H.R. 5376); issues related to ransomware; issues related to US-EU Technology Summit; issues related to national security.","Issues related to supply chain and national security matters.","House of Representatives; Senate; Executive Office of the President (EOP); Transportation, Dept of (DOT).","Issues related to Artificial Intelligence and data privacy legislation; matters relating to supply chain support; issues related to cybersecurity.","Advising on issues related to international tax reform and implementation of the Inflation Reduction Act of 2022 (PL 117-169).","Issues related to artificial intelligence and data privacy legislation; Issues related to supply chain support; Issues related to cybersecurity.","Advising on issues related to BEAT and stock buyback excise tax.","Issues related to Artificial Intelligence and data privacy legislation; issues relating to supply chain support; issues related to cybersecurity.","Issues related to base erosion and anti-abuse tax (BEAT) and stock buyback excise tax.","Issues related to business enterprise software.","Issues related to tariffs."],"years":[2021,2022,2023,2024,2025]}
+{
+  "id": 210944,
+  "name": "SAP AMERICA, INC.",
+  "slug": "sap-america-inc",
+  "state": "DC",
+  "description": "Business intel, enterprise resource planning, supply chain management, customer relations",
+  "totalSpending": 1360000,
+  "filings": 17,
+  "yearlySpending": [
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 400000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "AKIN GUMP STRAUSS HAUER & FELD"
+  ],
+  "lobbyists": [
+    "ZACHARY RUDISILL",
+    "SEAN D'ARCY",
+    "VIRGIL MILLER",
+    "GALEN ROEHL",
+    "BRIAN POMPER",
+    "JAMES TUCKER",
+    "FILEMON VELA",
+    "JOSE BORJON",
+    "ED PAGANO",
+    "REGINALD BABIN",
+    "LAUREN RUBIN",
+    "SAM OLSWANGER",
+    "DAVID SCHWIETERT"
+  ],
+  "issues": [
+    "TAX",
+    "CSP",
+    "TRD",
+    "TRA",
+    null,
+    "GOV",
+    "TAR"
+  ],
+  "sampleDescriptions": [
+    "Advising on issues related to international tax reform.",
+    "Issues related to data privacy legislation; Issues related to cybersecurity; issues related to Infrastructure Investment and Jobs Act (H.R. 3684); issues related to Build Back Better Act (H.R. 5376); issues related to ransomware; issues related to US-EU Technology Summit.",
+    "Issues regarding digital trade",
+    "Issues regarding sanctions.",
+    "Issues related to supply chain logistics.",
+    "Issues related to data privacy legislation; Issues related to cybersecurity; issues related to Infrastructure Investment and Jobs Act (H.R. 3684); issues related to Build Back Better Act (H.R. 5376); issues related to ransomware; issues related to US-EU Technology Summit; issues related to national security.",
+    "Issues related to supply chain and national security matters.",
+    "House of Representatives; Senate; Executive Office of the President (EOP); Transportation, Dept of (DOT).",
+    "Issues related to Artificial Intelligence and data privacy legislation; matters relating to supply chain support; issues related to cybersecurity.",
+    "Advising on issues related to international tax reform and implementation of the Inflation Reduction Act of 2022 (PL 117-169).",
+    "Issues related to artificial intelligence and data privacy legislation; Issues related to supply chain support; Issues related to cybersecurity.",
+    "Advising on issues related to BEAT and stock buyback excise tax.",
+    "Issues related to Artificial Intelligence and data privacy legislation; issues relating to supply chain support; issues related to cybersecurity.",
+    "Issues related to base erosion and anti-abuse tax (BEAT) and stock buyback excise tax.",
+    "Issues related to business enterprise software.",
+    "Issues related to tariffs."
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 50,
+  "trajectory": "growing",
+  "yearsActive": 5,
+  "avgAnnualSpending": 272000,
+  "peakYear": 2022,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 6
+}

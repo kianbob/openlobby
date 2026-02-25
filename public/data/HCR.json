@@ -1,1 +1,557 @@
-{"code":"HCR","name":"Health Issues","totalSpending":2690558590.35,"totalFilings":100860,"yearlySpending":[{"year":2018,"income":248626313.23000002,"filings":10287},{"year":2019,"income":265467741.19,"filings":10634},{"year":2020,"income":327346647.95,"filings":13150},{"year":2021,"income":343025924.15,"filings":12940},{"year":2022,"income":387272257,"filings":13972},{"year":2023,"income":389792601.59,"filings":14244},{"year":2024,"income":331349296.41,"filings":12139},{"year":2025,"income":397677808.83000004,"filings":13494}],"topClients":[{"name":"HR POLICY ASSOCIATION","income":20040000},{"name":"PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA","income":17670000},{"name":"GILEAD SCIENCES, INC.","income":13120000},{"name":"PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA (PHRMA)","income":12474500},{"name":"PHRMA","income":12414550},{"name":"BLUE CROSS BLUE SHIELD ASSOCIATION","income":10043500},{"name":"JOHNSON & JOHNSON SERVICES, INC.","income":9070000},{"name":"CIGNA CORPORATION","income":8562250},{"name":"BIOTECHNOLOGY INNOVATION ORGANIZATION","income":8200000},{"name":"ILLUMINA, INC.","income":7886250},{"name":"GENENTECH, INC.","income":7810000},{"name":"PHARMACEUTICAL RESEARCH & MANUFACTURERS OF AMERICA INC","income":7710000},{"name":"CENTENE CORPORATION","income":7619000},{"name":"ABBOTT LABORATORIES","income":7600000},{"name":"ALTRIA CLIENT SERVICES LLC","income":7370000},{"name":"UNITEDHEALTH GROUP, INC.","income":7170000},{"name":"ALKERMES, INC.","income":6855000},{"name":"AIR EVAC LIFETEAM","income":6750000},{"name":"NOVARTIS","income":6720000},{"name":"PFIZER INC.","income":6700000},{"name":"CVS HEALTH","income":6600000},{"name":"AMERICAN HOSPITAL ASSOCIATION","income":6592000},{"name":"NOVO NORDISK INC.","income":6520000},{"name":"BAYER CORPORATION","income":6440000},{"name":"ELI LILLY AND COMPANY","income":6380000},{"name":"AMERICAN HEALTH CARE ASSOCIATION","income":6075000},{"name":"AMERICA'S HEALTH INSURANCE PLANS (AHIP)","income":6040000},{"name":"VERTEX PHARMACEUTICALS INCORPORATED","income":6025000},{"name":"AMERICAN OPTOMETRIC ASSOCIATION","income":5960750},{"name":"KIDNEY CARE PARTNERS","income":5885000},{"name":"AMERICA'S HEALTH INSURANCE PLANS","income":5815000},{"name":"AMERICAN BENEFITS COUNCIL OBO ALLIANCE TO FIGHT FOR HEALTH CARE","income":5710000},{"name":"GENENTECH","income":5690000},{"name":"FRESENIUS MEDICAL CARE NORTH AMERICA","income":5620000},{"name":"UNITEDHEALTH GROUP INC","income":5340000},{"name":"AMERICAN MEDICAL ASSOCIATION","income":5337500},{"name":"JOHNSON & JOHNSON SERVICES INC","income":5320000},{"name":"PARTNERSHIP FOR QUALITY HOME HEALTHCARE","income":5185000},{"name":"ABBVIE INC.","income":5110000},{"name":"PFIZER","income":5010000},{"name":"OMEROS CORPORATION","income":4995000},{"name":"FEDERATION OF AMERICAN HOSPITALS","income":4890000},{"name":"GLAXOSMITHKLINE LLC","income":4840000},{"name":"LIFEPOINT HEALTH","income":4820000},{"name":"TAKEDA PHARMACEUTICALS AMERICA, INC.","income":4740000},{"name":"AMGEN INC.","income":4642500},{"name":"SENIOR CARE PHARMACY COALITION","income":4550000},{"name":"ASTELLAS PHARMA US, INC.","income":4510000},{"name":"SERVICE EMPLOYEES INTERNATIONAL UNION","income":4450000},{"name":"BAXTER HEALTHCARE CORPORATION","income":4350000}],"topFirms":[{"name":"TARPLIN, DOWNS & YOUNG, LLC","income":102720000},{"name":"BGR GOVERNMENT AFFAIRS","income":80500000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":61645000},{"name":"MEHLMAN CONSULTING, INC.","income":56480000},{"name":"FORBES-TATE","income":55940000},{"name":"ALSTON & BIRD LLP","income":52355000},{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":51385000},{"name":"CAPITOL COUNSEL LLC","income":49820000},{"name":"TIBER CREEK GROUP","income":48510000},{"name":"THORN RUN PARTNERS","income":44260000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":42410000},{"name":"INVARIANT LLC","income":37190000},{"name":"VAN SCOYOC ASSOCIATES","income":36555000},{"name":"WILLIAMS AND JENSEN, PLLC","income":35340000},{"name":"AVENUE SOLUTIONS","income":33910000},{"name":"TODD STRATEGY GROUP","income":32970000},{"name":"HOLLAND & KNIGHT LLP","income":31250000},{"name":"THE NICKLES GROUP, LLC","income":28869000},{"name":"FARRAGUT PARTNERS LLP","income":26610000},{"name":"JEFFREY J. KIMBELL & ASSOCIATES, INC.","income":25196250},{"name":"KOUNTOUPES DENHAM CARR & REID, LLC","income":24455000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":23820000},{"name":"CROSSROADS STRATEGIES, LLC","income":22760000},{"name":"RED+BLUE STRATEGIES","income":22315000},{"name":"VENN STRATEGIES","income":22100000},{"name":"THE MCMANUS GROUP","income":22045000},{"name":"POLSINELLI PC","income":21925000},{"name":"NVG, LLC","income":21855000},{"name":"BALLARD PARTNERS","income":21040000},{"name":"W STRATEGIES, LLC","income":20830000}],"sampleDescriptions":["monitor for tax issues affecting real estate investment trusts\ngeneral health care policy affecting hospitals and physician practices","allowing growth for hospitals with physician ownership","drug pricing, drug supply chain, opioid abuse epidemic, Medicare Part D","Controlled Substance act improvements. Opioid overdose death reduction. Alprazolam rescheduling.","Funding opportunities for first responder products","Matters related to healthcare, hospital ratings, and funding opportunities.","Help in the reduction of opioid use and related addiction.","Implementation of Public Law 115-80","Development of government-private partnerships to advance Alzheimer's therapies.","Issues surrounding Medicare Dependent Hospitals\nPreserving Medicare reimbursement rates for rural public hospitals serving a disproportionate Medicare/Medcaid patient mix.","Issues relating to market stabilization, insurance market regulation, and health care-related tax policies.","coverage and reimbursement, respiratory issues","Advocate on issues related to proposed merger of multiple hospital systems in Massachusetts.","Issues related to healthcare IT","General representation re: behavioral health","Funding opportunities for first responder products.","Issues and policies relating to mental health and substance use disorder parity. H.R. 1628, the American Health Care Act of 2017, provisions related to Medicaid and mental health and substance use. Se","Medicaid and VA coverage of podiatric services.","education and advocacy for life sciences in Virginia, esp around digital health and Precision Medicine Initiative","Policy issues relating to federal healthcare regulatory and reimbursement matters."]}
+{
+  "code": "HCR",
+  "name": "Health Issues",
+  "totalSpending": 2690558590.35,
+  "totalFilings": 100860,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 248626313.23000002,
+      "filings": 10287
+    },
+    {
+      "year": 2019,
+      "income": 265467741.19,
+      "filings": 10634
+    },
+    {
+      "year": 2020,
+      "income": 327346647.95,
+      "filings": 13150
+    },
+    {
+      "year": 2021,
+      "income": 343025924.15,
+      "filings": 12940
+    },
+    {
+      "year": 2022,
+      "income": 387272257,
+      "filings": 13972
+    },
+    {
+      "year": 2023,
+      "income": 389792601.59,
+      "filings": 14244
+    },
+    {
+      "year": 2024,
+      "income": 331349296.41,
+      "filings": 12139
+    },
+    {
+      "year": 2025,
+      "income": 397677808.83000004,
+      "filings": 13494
+    }
+  ],
+  "topClients": [
+    {
+      "name": "HR POLICY ASSOCIATION",
+      "income": 20040000
+    },
+    {
+      "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
+      "income": 17670000
+    },
+    {
+      "name": "GILEAD SCIENCES, INC.",
+      "income": 13120000
+    },
+    {
+      "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA (PHRMA)",
+      "income": 12474500
+    },
+    {
+      "name": "PHRMA",
+      "income": 12414550
+    },
+    {
+      "name": "BLUE CROSS BLUE SHIELD ASSOCIATION",
+      "income": 10043500
+    },
+    {
+      "name": "JOHNSON & JOHNSON SERVICES, INC.",
+      "income": 9070000
+    },
+    {
+      "name": "CIGNA CORPORATION",
+      "income": 8562250
+    },
+    {
+      "name": "BIOTECHNOLOGY INNOVATION ORGANIZATION",
+      "income": 8200000
+    },
+    {
+      "name": "ILLUMINA, INC.",
+      "income": 7886250
+    },
+    {
+      "name": "GENENTECH, INC.",
+      "income": 7810000
+    },
+    {
+      "name": "PHARMACEUTICAL RESEARCH & MANUFACTURERS OF AMERICA INC",
+      "income": 7710000
+    },
+    {
+      "name": "CENTENE CORPORATION",
+      "income": 7619000
+    },
+    {
+      "name": "ABBOTT LABORATORIES",
+      "income": 7600000
+    },
+    {
+      "name": "ALTRIA CLIENT SERVICES LLC",
+      "income": 7370000
+    },
+    {
+      "name": "UNITEDHEALTH GROUP, INC.",
+      "income": 7170000
+    },
+    {
+      "name": "ALKERMES, INC.",
+      "income": 6855000
+    },
+    {
+      "name": "AIR EVAC LIFETEAM",
+      "income": 6750000
+    },
+    {
+      "name": "NOVARTIS",
+      "income": 6720000
+    },
+    {
+      "name": "PFIZER INC.",
+      "income": 6700000
+    },
+    {
+      "name": "CVS HEALTH",
+      "income": 6600000
+    },
+    {
+      "name": "AMERICAN HOSPITAL ASSOCIATION",
+      "income": 6592000
+    },
+    {
+      "name": "NOVO NORDISK INC.",
+      "income": 6520000
+    },
+    {
+      "name": "BAYER CORPORATION",
+      "income": 6440000
+    },
+    {
+      "name": "ELI LILLY AND COMPANY",
+      "income": 6380000
+    },
+    {
+      "name": "AMERICAN HEALTH CARE ASSOCIATION",
+      "income": 6075000
+    },
+    {
+      "name": "AMERICA'S HEALTH INSURANCE PLANS (AHIP)",
+      "income": 6040000
+    },
+    {
+      "name": "VERTEX PHARMACEUTICALS INCORPORATED",
+      "income": 6025000
+    },
+    {
+      "name": "AMERICAN OPTOMETRIC ASSOCIATION",
+      "income": 5960750
+    },
+    {
+      "name": "KIDNEY CARE PARTNERS",
+      "income": 5885000
+    },
+    {
+      "name": "AMERICA'S HEALTH INSURANCE PLANS",
+      "income": 5815000
+    },
+    {
+      "name": "AMERICAN BENEFITS COUNCIL OBO ALLIANCE TO FIGHT FOR HEALTH CARE",
+      "income": 5710000
+    },
+    {
+      "name": "GENENTECH",
+      "income": 5690000
+    },
+    {
+      "name": "FRESENIUS MEDICAL CARE NORTH AMERICA",
+      "income": 5620000
+    },
+    {
+      "name": "UNITEDHEALTH GROUP INC",
+      "income": 5340000
+    },
+    {
+      "name": "AMERICAN MEDICAL ASSOCIATION",
+      "income": 5337500
+    },
+    {
+      "name": "JOHNSON & JOHNSON SERVICES INC",
+      "income": 5320000
+    },
+    {
+      "name": "PARTNERSHIP FOR QUALITY HOME HEALTHCARE",
+      "income": 5185000
+    },
+    {
+      "name": "ABBVIE INC.",
+      "income": 5110000
+    },
+    {
+      "name": "PFIZER",
+      "income": 5010000
+    },
+    {
+      "name": "OMEROS CORPORATION",
+      "income": 4995000
+    },
+    {
+      "name": "FEDERATION OF AMERICAN HOSPITALS",
+      "income": 4890000
+    },
+    {
+      "name": "GLAXOSMITHKLINE LLC",
+      "income": 4840000
+    },
+    {
+      "name": "LIFEPOINT HEALTH",
+      "income": 4820000
+    },
+    {
+      "name": "TAKEDA PHARMACEUTICALS AMERICA, INC.",
+      "income": 4740000
+    },
+    {
+      "name": "AMGEN INC.",
+      "income": 4642500
+    },
+    {
+      "name": "SENIOR CARE PHARMACY COALITION",
+      "income": 4550000
+    },
+    {
+      "name": "ASTELLAS PHARMA US, INC.",
+      "income": 4510000
+    },
+    {
+      "name": "SERVICE EMPLOYEES INTERNATIONAL UNION",
+      "income": 4450000
+    },
+    {
+      "name": "BAXTER HEALTHCARE CORPORATION",
+      "income": 4350000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "TARPLIN, DOWNS & YOUNG, LLC",
+      "income": 102720000
+    },
+    {
+      "name": "BGR GOVERNMENT AFFAIRS",
+      "income": 80500000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 61645000
+    },
+    {
+      "name": "MEHLMAN CONSULTING, INC.",
+      "income": 56480000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 55940000
+    },
+    {
+      "name": "ALSTON & BIRD LLP",
+      "income": 52355000
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 51385000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 49820000
+    },
+    {
+      "name": "TIBER CREEK GROUP",
+      "income": 48510000
+    },
+    {
+      "name": "THORN RUN PARTNERS",
+      "income": 44260000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 42410000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 37190000
+    },
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 36555000
+    },
+    {
+      "name": "WILLIAMS AND JENSEN, PLLC",
+      "income": 35340000
+    },
+    {
+      "name": "AVENUE SOLUTIONS",
+      "income": 33910000
+    },
+    {
+      "name": "TODD STRATEGY GROUP",
+      "income": 32970000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 31250000
+    },
+    {
+      "name": "THE NICKLES GROUP, LLC",
+      "income": 28869000
+    },
+    {
+      "name": "FARRAGUT PARTNERS LLP",
+      "income": 26610000
+    },
+    {
+      "name": "JEFFREY J. KIMBELL & ASSOCIATES, INC.",
+      "income": 25196250
+    },
+    {
+      "name": "KOUNTOUPES DENHAM CARR & REID, LLC",
+      "income": 24455000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 23820000
+    },
+    {
+      "name": "CROSSROADS STRATEGIES, LLC",
+      "income": 22760000
+    },
+    {
+      "name": "RED+BLUE STRATEGIES",
+      "income": 22315000
+    },
+    {
+      "name": "VENN STRATEGIES",
+      "income": 22100000
+    },
+    {
+      "name": "THE MCMANUS GROUP",
+      "income": 22045000
+    },
+    {
+      "name": "POLSINELLI PC",
+      "income": 21925000
+    },
+    {
+      "name": "NVG, LLC",
+      "income": 21855000
+    },
+    {
+      "name": "BALLARD PARTNERS",
+      "income": 21040000
+    },
+    {
+      "name": "W STRATEGIES, LLC",
+      "income": 20830000
+    }
+  ],
+  "sampleDescriptions": [
+    "monitor for tax issues affecting real estate investment trusts\ngeneral health care policy affecting hospitals and physician practices",
+    "allowing growth for hospitals with physician ownership",
+    "drug pricing, drug supply chain, opioid abuse epidemic, Medicare Part D",
+    "Controlled Substance act improvements. Opioid overdose death reduction. Alprazolam rescheduling.",
+    "Funding opportunities for first responder products",
+    "Matters related to healthcare, hospital ratings, and funding opportunities.",
+    "Help in the reduction of opioid use and related addiction.",
+    "Implementation of Public Law 115-80",
+    "Development of government-private partnerships to advance Alzheimer's therapies.",
+    "Issues surrounding Medicare Dependent Hospitals\nPreserving Medicare reimbursement rates for rural public hospitals serving a disproportionate Medicare/Medcaid patient mix.",
+    "Issues relating to market stabilization, insurance market regulation, and health care-related tax policies.",
+    "coverage and reimbursement, respiratory issues",
+    "Advocate on issues related to proposed merger of multiple hospital systems in Massachusetts.",
+    "Issues related to healthcare IT",
+    "General representation re: behavioral health",
+    "Funding opportunities for first responder products.",
+    "Issues and policies relating to mental health and substance use disorder parity. H.R. 1628, the American Health Care Act of 2017, provisions related to Medicaid and mental health and substance use. Se",
+    "Medicaid and VA coverage of podiatric services.",
+    "education and advocacy for life sciences in Virginia, esp around digital health and Precision Medicine Initiative",
+    "Policy issues relating to federal healthcare regulatory and reimbursement matters."
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 2469,
+      "spending": 74650347.46374047
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 2658,
+      "spending": 79100632.12840705
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 2497,
+      "spending": 76308580.34139462
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 2663,
+      "spending": 79666294.99003956
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 2454,
+      "spending": 73977138.20258161
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 2903,
+      "spending": 91704941.2806076
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 2524,
+      "spending": 76365563.45780188
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 2753,
+      "spending": 85655608.43516813
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 2876,
+      "spending": 89997757.09635702
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 3371,
+      "spending": 98426355.16567285
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 3529,
+      "spending": 98977650.35553266
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 3374,
+      "spending": 96900839.25373752
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 2807,
+      "spending": 89559450.53549853
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 3484,
+      "spending": 111386946.08495429
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 3238,
+      "spending": 96940643.50665733
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 3411,
+      "spending": 105438916.35049535
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 3343,
+      "spending": 106259467.68426044
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 3573,
+      "spending": 119072403.30922905
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 3464,
+      "spending": 113576225.01014143
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 3592,
+      "spending": 115890180.40550055
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 3589,
+      "spending": 124321206.27855712
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 3572,
+      "spending": 118660212.16718692
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 3501,
+      "spending": 114288848.14411417
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 3582,
+      "spending": 115188580.94741865
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 2791,
+      "spending": 94292809.32226004
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 3292,
+      "spending": 110944113.6571656
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 2977,
+      "spending": 100787597.2477851
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 3079,
+      "spending": 98849293.11633381
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 2891,
+      "spending": 111106867.15562871
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 3594,
+      "spending": 130383630.35582602
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 3430,
+      "spending": 127681852.18611573
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 3579,
+      "spending": 122859953.49610096
+    }
+  ],
+  "totalEstimatedSpending": 3249220905
+}

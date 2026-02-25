@@ -1,1 +1,116 @@
-{"id":110307,"name":"MARRIOTT INTERNATIONAL, INC.","slug":"marriott-international-inc","state":"MD","description":"Hospitality company","totalSpending":1550000,"filings":26,"yearlySpending":[{"year":2019,"income":170000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":300000},{"year":2025,"income":180000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["GEOFFREY BURR","DAVID COHEN","BRIAN MCKEON","LORI HARJU","DAVID REID","GRETA JOYNES","RADHA MOHAN","NADEAM ELSHAMI","RUSSELL SULLIVAN","SAGE SCHAFTEL","DANIEL JOSEPH","MARC LAMPKIN","DOUGLAS MAGUIRE","CHARLYN IOVINO","WILLIAM MCGRATH","NORMAN BROWNSTEIN","MARK WARREN","ANDREW USYK","GLORIA WALKER","LAUREN DIEKMAN","SAMANTHA CARL-YODER","BRANDT ANDERSON","EDWARD ROYCE","JARED JONES","MELISSA KUIPERS BLAKE","BRIAN MCGUIRE"],"issues":["TAX","TOU","GOV","FOR",null],"sampleDescriptions":["Tax and regulatory parity for lodging providers and facilitators, work related to their properties in Cuba","Tax and regulatory parity for lodging providers and facilitators","Work related to their properties in Cuba","Research regarding executive decision making processes","Outreach regarding executive decision making processes","Issues related to business operations in North Africa","Tax and regulatory parity for lodging providers and facilitators; CARES Act -  Issues related to COVID-19 relief","Tax and regulatory parity for lodging providers and facilitators; H.R. 748 CARES Act -  Issues related to COVID-19 relief","Issues related to business operations in North Africa; work related to their properties in Cuba","Issues related to tourism at National Parks","Issues related to their properties in Cuba","Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief - HEALS Act (S.1624), HEROES Act (H.R. 6800)","Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief - HEALS Act (S.1624)","Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief - HEALS Act (S.1624), HEROES Act (H.R. 6800), Consolidated Appropriations Act, 2021 (H.R. 133)","Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief - HEALS Act (S.1624), Consolidated Appropriations Act, 2021 (H.R. 133)","Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief\nH.R.1319 - American Rescue Plan Act of 2021","Tax and regulatory parity for lodging providers and facilitators; \nIssues related to COVID-19 relief\nH.R.1319 - American Rescue Plan Act of 2021\nH.R.1346/S.477 - Hospitality and Commerce Jobs Act","Issues related to business interests in Cuba","Tax and regulatory parity for lodging providers and facilitators; \nIssues related to Employee Retention Tax Credit (ERTC) reform;\nGeneral corporate tax issues;\nIssues related to COVID-19 relief\nH.R.1346/S.477 - Hospitality and Commerce Jobs Act\nH.R.3093/S.1519 - Save Hotel Jobs Act","General corporate tax issues;\nIssues related to COVID-19 relief;\nSection 179D and Section 30C energy efficiency/clean energy tax credits\nH.R.1346/S.477 - Hospitality and Commerce Jobs Act"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110307,
+  "name": "MARRIOTT INTERNATIONAL, INC.",
+  "slug": "marriott-international-inc",
+  "state": "MD",
+  "description": "Hospitality company",
+  "totalSpending": 1550000,
+  "filings": 26,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 170000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "GEOFFREY BURR",
+    "DAVID COHEN",
+    "BRIAN MCKEON",
+    "LORI HARJU",
+    "DAVID REID",
+    "GRETA JOYNES",
+    "RADHA MOHAN",
+    "NADEAM ELSHAMI",
+    "RUSSELL SULLIVAN",
+    "SAGE SCHAFTEL",
+    "DANIEL JOSEPH",
+    "MARC LAMPKIN",
+    "DOUGLAS MAGUIRE",
+    "CHARLYN IOVINO",
+    "WILLIAM MCGRATH",
+    "NORMAN BROWNSTEIN",
+    "MARK WARREN",
+    "ANDREW USYK",
+    "GLORIA WALKER",
+    "LAUREN DIEKMAN",
+    "SAMANTHA CARL-YODER",
+    "BRANDT ANDERSON",
+    "EDWARD ROYCE",
+    "JARED JONES",
+    "MELISSA KUIPERS BLAKE",
+    "BRIAN MCGUIRE"
+  ],
+  "issues": [
+    "TAX",
+    "TOU",
+    "GOV",
+    "FOR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Tax and regulatory parity for lodging providers and facilitators, work related to their properties in Cuba",
+    "Tax and regulatory parity for lodging providers and facilitators",
+    "Work related to their properties in Cuba",
+    "Research regarding executive decision making processes",
+    "Outreach regarding executive decision making processes",
+    "Issues related to business operations in North Africa",
+    "Tax and regulatory parity for lodging providers and facilitators; CARES Act -  Issues related to COVID-19 relief",
+    "Tax and regulatory parity for lodging providers and facilitators; H.R. 748 CARES Act -  Issues related to COVID-19 relief",
+    "Issues related to business operations in North Africa; work related to their properties in Cuba",
+    "Issues related to tourism at National Parks",
+    "Issues related to their properties in Cuba",
+    "Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief - HEALS Act (S.1624), HEROES Act (H.R. 6800)",
+    "Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief - HEALS Act (S.1624)",
+    "Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief - HEALS Act (S.1624), HEROES Act (H.R. 6800), Consolidated Appropriations Act, 2021 (H.R. 133)",
+    "Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief - HEALS Act (S.1624), Consolidated Appropriations Act, 2021 (H.R. 133)",
+    "Tax and regulatory parity for lodging providers and facilitators; Issues related to COVID-19 relief\nH.R.1319 - American Rescue Plan Act of 2021",
+    "Tax and regulatory parity for lodging providers and facilitators; \nIssues related to COVID-19 relief\nH.R.1319 - American Rescue Plan Act of 2021\nH.R.1346/S.477 - Hospitality and Commerce Jobs Act",
+    "Issues related to business interests in Cuba",
+    "Tax and regulatory parity for lodging providers and facilitators; \nIssues related to Employee Retention Tax Credit (ERTC) reform;\nGeneral corporate tax issues;\nIssues related to COVID-19 relief\nH.R.1346/S.477 - Hospitality and Commerce Jobs Act\nH.R.3093/S.1519 - Save Hotel Jobs Act",
+    "General corporate tax issues;\nIssues related to COVID-19 relief;\nSection 179D and Section 30C energy efficiency/clean energy tax credits\nH.R.1346/S.477 - Hospitality and Commerce Jobs Act"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 6,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 221429,
+  "peakYear": 2024,
+  "lobbyistCount": 26,
+  "firmCount": 1,
+  "issueCount": 4
+}

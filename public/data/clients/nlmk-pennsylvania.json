@@ -1,1 +1,90 @@
-{"id":137526,"name":"NLMK PENNSYLVANIA","slug":"nlmk-pennsylvania","state":"PA","description":null,"totalSpending":2340000,"filings":27,"yearlySpending":[{"year":2018,"income":260000},{"year":2019,"income":440000},{"year":2020,"income":420000},{"year":2021,"income":310000},{"year":2022,"income":210000},{"year":2023,"income":350000},{"year":2024,"income":120000},{"year":2025,"income":230000}],"firms":["SQUIRE PATTON BOGGS"],"lobbyists":["DAVID STEWART","CAROLINA MEDEROS","DAVID LESSTRANG","NATASHA HAMMOND","PABLO CARRILLO","RORY MURPHY","LUDMILLA KASULKE (NEE SAVELIEFF)"],"issues":["TRD","MAN",null],"sampleDescriptions":["Section 232 Steel Investigation.","Buy American, Buy America policy, legislation.","Section 232 Steel process; USMCA.","Section 232 Steel process, policy, legislation.","Section 232 Steel process, policy, legislation, USMCA.","Section 232 Steel process, policy, legislation; impact of sanctions, tariff legislation.","Section 232 Steel process, policy, legislation; impact of sanctions, tariff legislation","Section 232 Steel process, policy, impact of sanctions, tariff policy.","Section 232 Steel policy, impact of sanctions, tariff policy.","Section 232 Steel policy, tariff policy."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 137526,
+  "name": "NLMK PENNSYLVANIA",
+  "slug": "nlmk-pennsylvania",
+  "state": "PA",
+  "description": null,
+  "totalSpending": 2340000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 260000
+    },
+    {
+      "year": 2019,
+      "income": 440000
+    },
+    {
+      "year": 2020,
+      "income": 420000
+    },
+    {
+      "year": 2021,
+      "income": 310000
+    },
+    {
+      "year": 2022,
+      "income": 210000
+    },
+    {
+      "year": 2023,
+      "income": 350000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 230000
+    }
+  ],
+  "firms": [
+    "SQUIRE PATTON BOGGS"
+  ],
+  "lobbyists": [
+    "DAVID STEWART",
+    "CAROLINA MEDEROS",
+    "DAVID LESSTRANG",
+    "NATASHA HAMMOND",
+    "PABLO CARRILLO",
+    "RORY MURPHY",
+    "LUDMILLA KASULKE (NEE SAVELIEFF)"
+  ],
+  "issues": [
+    "TRD",
+    "MAN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Section 232 Steel Investigation.",
+    "Buy American, Buy America policy, legislation.",
+    "Section 232 Steel process; USMCA.",
+    "Section 232 Steel process, policy, legislation.",
+    "Section 232 Steel process, policy, legislation, USMCA.",
+    "Section 232 Steel process, policy, legislation; impact of sanctions, tariff legislation.",
+    "Section 232 Steel process, policy, legislation; impact of sanctions, tariff legislation",
+    "Section 232 Steel process, policy, impact of sanctions, tariff policy.",
+    "Section 232 Steel policy, impact of sanctions, tariff policy.",
+    "Section 232 Steel policy, tariff policy."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -12,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 292500,
+  "peakYear": 2019,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 2
+}

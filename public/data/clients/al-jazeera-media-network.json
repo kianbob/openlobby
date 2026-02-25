@@ -1,1 +1,51 @@
-{"id":169505,"name":"AL JAZEERA MEDIA NETWORK","slug":"al-jazeera-media-network","state":null,"description":"Global media network.","totalSpending":1770000,"filings":7,"yearlySpending":[{"year":2019,"income":1060000},{"year":2020,"income":690000},{"year":2021,"income":20000}],"firms":["DLA PIPER LLP (US)"],"lobbyists":["KEVIN WALSH","JOHN MERRIGAN","IGNACIO SANCHEZ","STEPHANIE JEBEYLI"],"issues":["MIA"],"sampleDescriptions":["Informational communications regarding client's journalism, press freedom, and other issues impacting client's U.S. operations."],"years":[2019,2020,2021]}
+{
+  "id": 169505,
+  "name": "AL JAZEERA MEDIA NETWORK",
+  "slug": "al-jazeera-media-network",
+  "state": null,
+  "description": "Global media network.",
+  "totalSpending": 1770000,
+  "filings": 7,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 1060000
+    },
+    {
+      "year": 2020,
+      "income": 690000
+    },
+    {
+      "year": 2021,
+      "income": 20000
+    }
+  ],
+  "firms": [
+    "DLA PIPER LLP (US)"
+  ],
+  "lobbyists": [
+    "KEVIN WALSH",
+    "JOHN MERRIGAN",
+    "IGNACIO SANCHEZ",
+    "STEPHANIE JEBEYLI"
+  ],
+  "issues": [
+    "MIA"
+  ],
+  "sampleDescriptions": [
+    "Informational communications regarding client's journalism, press freedom, and other issues impacting client's U.S. operations."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021
+  ],
+  "growthRate": -98,
+  "trajectory": "declining",
+  "yearsActive": 3,
+  "avgAnnualSpending": 590000,
+  "peakYear": 2019,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1
+}

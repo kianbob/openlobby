@@ -1,1 +1,91 @@
-{"id":140310,"name":"RECEIVABLES MANAGEMENT ASSOCIATION F/K/A DEBT BUYERS ASSOCIATION","slug":"receivables-management-association-f-k-a-debt-buyers-association","state":"CA","description":"Nonprofit trade assn representing companies that purchase receivables on secondary market.","totalSpending":1690000,"filings":31,"yearlySpending":[{"year":2018,"income":220000},{"year":2019,"income":240000},{"year":2020,"income":200000},{"year":2021,"income":150000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["K&L GATES, LLP"],"lobbyists":["DANIEL CROWLEY","BRUCE HEIMAN","DEAN BRAZIER","ERIC LOVE","DANIEL COHEN","WILLIAM KIRK","RYAN CARNEY","SCOTT GELBMAN","LAUREN HAMMA","MARNE MAROTTA"],"issues":["CSP","FIN",null],"sampleDescriptions":["Implementation of Title X, P.L. 111-203, Dodd-Frank Wall Street Reform and Consumer Protection Act.\nH.R. 1849 and H.R. 4550, Practice of Law Technical Clarification Act of 2017, entire bill.","Issues related to debt re-sales and collection - no specific legislation.","Issues related to debt re-sales and collection - no specific legislation.\nIssues related to debt re-sales and collection - no specific legislation.\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act) - issues related to debt collection.","Issues related to debt re-sales and collection - no specific legislation.\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act) - issues related to debt collection.","Issues related to debt re-sales and collection - no specific legislation.\nIssues related to credit reporting obligations - no specific legislation.\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act) - issues related to debt collection.\nS. 3841 - A bill to protect 2020 recovery rebates for individuals from assignment or garnishment, and for other purposes - all provisions.\nH.R. 7796 - Consumer Relief during COVID-19 Act - all provisions.","Issues related to debt re-sales and collection - no specific legislation.\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act) - issues related to debt collection.\nS. 3841 - A bill to protect 2020 recovery rebates for individuals from assignment or garnishment, and for other purposes - all provisions.\nH.R. 7796 - Consumer Relief during COVID-19 Act - all provisions.","Comprehensive Debt Collection Improvement Act (H.R. 2547), and the Fair Debt Collection for Servicemembers Act (H.R. 5003) - Issues related to debt collection and credit reporting.","Issues related to debt collection and credit reporting - no specific legislation."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 140310,
+  "name": "RECEIVABLES MANAGEMENT ASSOCIATION F/K/A DEBT BUYERS ASSOCIATION",
+  "slug": "receivables-management-association-f-k-a-debt-buyers-association",
+  "state": "CA",
+  "description": "Nonprofit trade assn representing companies that purchase receivables on secondary market.",
+  "totalSpending": 1690000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 220000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 150000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "K&L GATES, LLP"
+  ],
+  "lobbyists": [
+    "DANIEL CROWLEY",
+    "BRUCE HEIMAN",
+    "DEAN BRAZIER",
+    "ERIC LOVE",
+    "DANIEL COHEN",
+    "WILLIAM KIRK",
+    "RYAN CARNEY",
+    "SCOTT GELBMAN",
+    "LAUREN HAMMA",
+    "MARNE MAROTTA"
+  ],
+  "issues": [
+    "CSP",
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Implementation of Title X, P.L. 111-203, Dodd-Frank Wall Street Reform and Consumer Protection Act.\nH.R. 1849 and H.R. 4550, Practice of Law Technical Clarification Act of 2017, entire bill.",
+    "Issues related to debt re-sales and collection - no specific legislation.",
+    "Issues related to debt re-sales and collection - no specific legislation.\nIssues related to debt re-sales and collection - no specific legislation.\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act) - issues related to debt collection.",
+    "Issues related to debt re-sales and collection - no specific legislation.\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act) - issues related to debt collection.",
+    "Issues related to debt re-sales and collection - no specific legislation.\nIssues related to credit reporting obligations - no specific legislation.\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act) - issues related to debt collection.\nS. 3841 - A bill to protect 2020 recovery rebates for individuals from assignment or garnishment, and for other purposes - all provisions.\nH.R. 7796 - Consumer Relief during COVID-19 Act - all provisions.",
+    "Issues related to debt re-sales and collection - no specific legislation.\nH.R. 6800 - Health and Economic Recovery Omnibus Emergency Solutions Act (HEROES Act) - issues related to debt collection.\nS. 3841 - A bill to protect 2020 recovery rebates for individuals from assignment or garnishment, and for other purposes - all provisions.\nH.R. 7796 - Consumer Relief during COVID-19 Act - all provisions.",
+    "Comprehensive Debt Collection Improvement Act (H.R. 2547), and the Fair Debt Collection for Servicemembers Act (H.R. 5003) - Issues related to debt collection and credit reporting.",
+    "Issues related to debt collection and credit reporting - no specific legislation."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 9,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 211250,
+  "peakYear": 2019,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 2
+}

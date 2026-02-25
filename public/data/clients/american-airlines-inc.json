@@ -1,1 +1,81 @@
-{"id":197584,"name":"AMERICAN AIRLINES INC","slug":"american-airlines-inc","state":"TX","description":"Airline","totalSpending":1601000,"filings":31,"yearlySpending":[{"year":2018,"income":198000},{"year":2019,"income":202000},{"year":2020,"income":181000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":150000},{"year":2025,"income":270000}],"firms":["SBL STRATEGIES, LLC"],"lobbyists":["JEFFREY LOVENG","HENRY BRADLEY"],"issues":["TRA",null,"AVI","FIN"],"sampleDescriptions":["Aviation Policy","Aviation Policy; FAA Reauthorization & related bills","Safe Skies Act","credit card competition ACT"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 197584,
+  "name": "AMERICAN AIRLINES INC",
+  "slug": "american-airlines-inc",
+  "state": "TX",
+  "description": "Airline",
+  "totalSpending": 1601000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 198000
+    },
+    {
+      "year": 2019,
+      "income": 202000
+    },
+    {
+      "year": 2020,
+      "income": 181000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "SBL STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "JEFFREY LOVENG",
+    "HENRY BRADLEY"
+  ],
+  "issues": [
+    "TRA",
+    null,
+    "AVI",
+    "FIN"
+  ],
+  "sampleDescriptions": [
+    "Aviation Policy",
+    "Aviation Policy; FAA Reauthorization & related bills",
+    "Safe Skies Act",
+    "credit card competition ACT"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 36,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 200125,
+  "peakYear": 2025,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "technology"
+}

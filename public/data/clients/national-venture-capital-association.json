@@ -1,1 +1,132 @@
-{"id":175537,"name":"NATIONAL VENTURE CAPITAL ASSOCIATION","slug":"national-venture-capital-association","state":"DC","description":"Trade association representing US venture capital industry","totalSpending":1680000,"filings":28,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":120000},{"year":2025,"income":180000}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["BRUCE MEHLMAN","DAVID CASTAGNETTI","DEAN ROSEN","DAVID THOMAS","ELISE FINLEY PICKERING","CHARLES WOOTERS","SOHINI GUPTA","SAGE EASTMAN","LAUREN ARONSON","MICHAEL ROBINSON","MICHAEL COLLINS","CONSTANTINE HINGSON","HELEN TOLAR","STEVE HARO","NICHOLE DISTEFANO","MCKENZIE BRICE","PAUL THORNELL","STEPHEN COTE","ALEXANDER PERKINS","VICTORIA FLOOD","ROSEMARY GUTIERREZ","ZACHARY MALLOVE","CAITLIN VAN SANT","LISA GOLDMAN","ALYENE MLINAR","ERICA CHABOT","ANNIE WOLF","NAVEEN PARMAR","JON ADAME","JOSEPH BROWN","EARL FLOOD"],"issues":["BAN","SCI","HCR","IMM","TAX","TRD","SMB","LBR","ENG","TEC",null],"sampleDescriptions":["Policies to encourage and empower entrepreneurship, including streamlined regulations at the SEC.\nCapital markets reforms to encourage more U.S. IPO's.\nVolcker Rule, S. 2155 - The Economic Growth, Regulatory Relief and Consumer Protection Act, and Registered Investment Advisor rules.\nCFIUS reform and limited partners.","Immigration reforms and cyber security.","Health care reform; FDA approval paths.","Provisions related to the International Entrepreneur Rule.\nInvestor VISA program.\nEntrepreneur VISA program.","Tax reform and treatment of carried interest; Section 382, R&D, NOLs; and Section 1202.\nImplementation of PL 115-97 (H.R. 1/tax reform).","Implementation of PL 115-97 (H.R. 1/tax reform).\nTax treatment of investment capital and start-up companies.","Policies to encourage and empower entrepreneurship, including streamlined regulations at the SEC.\nCapital markets reforms to encourage more U.S. IPO's.\nVolcker Rule, S. 2155 - The Economic Growth, Regulatory Relief and Consumer Protection Act, and Registered Investment Advisor rules.\nH.R. 5841/S. 2987 - Foreign Investment Risk Review Modernization Act of 2018.","Implementation of PL 115-97 (H.R. 1/tax reform).\nTax treatment of investment capital and start-up companies.\nH.R. 6756 - American Innovation Act of 2018.","Monitor implementation of FIRMMA and export controls; restrictions on limited partners.","FDA approval paths.\nHealth care reform.\nDrug pricing policy.\nReimbursement policy.","Immigration reform.\nCyber-security.","Policies to encourage and empower entrepreneurship, including streamlined regulations at the SEC.\nCapital markets reforms to encourage more U.S. IPO's.\nBlockchain regulatory policy.\nH.R. 2144 - Token Taxonomy Act.\nImplementation of Foreign Investment Risk Review Modernization Act.\nDEAL Act and Registered Investment Advisor rules.\nVolcker Rule reform.","Tax treatment of investment capital and start-up companies; and tax policy that encourages new company formation.\nIssues related to the Tax Cuts and Jobs Act.\nH.R. 1735/S. 781 - Carried Interest Fairness Act.","Monitor trade agreements.","Monitor trade agreements, US-China policies, updated export control regulations.","Tax treatment of investment capital and start-up companies; and tax policy that encourages new company formation.\nIssues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act\nH.R. 1735/S. 781 - Carried Interest Fairness Act.\nS.1639 - Ending the Carried Interest Loophole Act","Updated export control regulations.","Policies to encourage and empower entrepreneurship, including streamlined regulations at the SEC.\nCapital markets reforms to encourage more U.S. IPO's.\nBlockchain regulatory policy.\nH.R. 2144 - Token Taxonomy Act.\nImplementation of Foreign Investment Risk Review Modernization Act -- new export & investment restrictions.\nDEAL Act and Registered Investment Advisor rules.\nVolcker Rule reform.\nPrivate Securities Transparency and Reform Act, beneficial ownership reporting legislation.","Tax treatment of investment capital and start-up companies; and tax policy that encourages new company formation, such as Section 382 reform and R&D tax credit.\nIssues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act\nH.R. 1735/S. 781 - Carried Interest Fairness Act.\nS.1639 - Ending the Carried Interest Loophole Act.","Immigration reform for entrepreneurial visas.\nCyber-security."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 175537,
+  "name": "NATIONAL VENTURE CAPITAL ASSOCIATION",
+  "slug": "national-venture-capital-association",
+  "state": "DC",
+  "description": "Trade association representing US venture capital industry",
+  "totalSpending": 1680000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 120000
+    },
+    {
+      "year": 2025,
+      "income": 180000
+    }
+  ],
+  "firms": [
+    "MEHLMAN CONSULTING, INC."
+  ],
+  "lobbyists": [
+    "BRUCE MEHLMAN",
+    "DAVID CASTAGNETTI",
+    "DEAN ROSEN",
+    "DAVID THOMAS",
+    "ELISE FINLEY PICKERING",
+    "CHARLES WOOTERS",
+    "SOHINI GUPTA",
+    "SAGE EASTMAN",
+    "LAUREN ARONSON",
+    "MICHAEL ROBINSON",
+    "MICHAEL COLLINS",
+    "CONSTANTINE HINGSON",
+    "HELEN TOLAR",
+    "STEVE HARO",
+    "NICHOLE DISTEFANO",
+    "MCKENZIE BRICE",
+    "PAUL THORNELL",
+    "STEPHEN COTE",
+    "ALEXANDER PERKINS",
+    "VICTORIA FLOOD",
+    "ROSEMARY GUTIERREZ",
+    "ZACHARY MALLOVE",
+    "CAITLIN VAN SANT",
+    "LISA GOLDMAN",
+    "ALYENE MLINAR",
+    "ERICA CHABOT",
+    "ANNIE WOLF",
+    "NAVEEN PARMAR",
+    "JON ADAME",
+    "JOSEPH BROWN",
+    "EARL FLOOD"
+  ],
+  "issues": [
+    "BAN",
+    "SCI",
+    "HCR",
+    "IMM",
+    "TAX",
+    "TRD",
+    "SMB",
+    "LBR",
+    "ENG",
+    "TEC",
+    null
+  ],
+  "sampleDescriptions": [
+    "Policies to encourage and empower entrepreneurship, including streamlined regulations at the SEC.\nCapital markets reforms to encourage more U.S. IPO's.\nVolcker Rule, S. 2155 - The Economic Growth, Regulatory Relief and Consumer Protection Act, and Registered Investment Advisor rules.\nCFIUS reform and limited partners.",
+    "Immigration reforms and cyber security.",
+    "Health care reform; FDA approval paths.",
+    "Provisions related to the International Entrepreneur Rule.\nInvestor VISA program.\nEntrepreneur VISA program.",
+    "Tax reform and treatment of carried interest; Section 382, R&D, NOLs; and Section 1202.\nImplementation of PL 115-97 (H.R. 1/tax reform).",
+    "Implementation of PL 115-97 (H.R. 1/tax reform).\nTax treatment of investment capital and start-up companies.",
+    "Policies to encourage and empower entrepreneurship, including streamlined regulations at the SEC.\nCapital markets reforms to encourage more U.S. IPO's.\nVolcker Rule, S. 2155 - The Economic Growth, Regulatory Relief and Consumer Protection Act, and Registered Investment Advisor rules.\nH.R. 5841/S. 2987 - Foreign Investment Risk Review Modernization Act of 2018.",
+    "Implementation of PL 115-97 (H.R. 1/tax reform).\nTax treatment of investment capital and start-up companies.\nH.R. 6756 - American Innovation Act of 2018.",
+    "Monitor implementation of FIRMMA and export controls; restrictions on limited partners.",
+    "FDA approval paths.\nHealth care reform.\nDrug pricing policy.\nReimbursement policy.",
+    "Immigration reform.\nCyber-security.",
+    "Policies to encourage and empower entrepreneurship, including streamlined regulations at the SEC.\nCapital markets reforms to encourage more U.S. IPO's.\nBlockchain regulatory policy.\nH.R. 2144 - Token Taxonomy Act.\nImplementation of Foreign Investment Risk Review Modernization Act.\nDEAL Act and Registered Investment Advisor rules.\nVolcker Rule reform.",
+    "Tax treatment of investment capital and start-up companies; and tax policy that encourages new company formation.\nIssues related to the Tax Cuts and Jobs Act.\nH.R. 1735/S. 781 - Carried Interest Fairness Act.",
+    "Monitor trade agreements.",
+    "Monitor trade agreements, US-China policies, updated export control regulations.",
+    "Tax treatment of investment capital and start-up companies; and tax policy that encourages new company formation.\nIssues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act\nH.R. 1735/S. 781 - Carried Interest Fairness Act.\nS.1639 - Ending the Carried Interest Loophole Act",
+    "Updated export control regulations.",
+    "Policies to encourage and empower entrepreneurship, including streamlined regulations at the SEC.\nCapital markets reforms to encourage more U.S. IPO's.\nBlockchain regulatory policy.\nH.R. 2144 - Token Taxonomy Act.\nImplementation of Foreign Investment Risk Review Modernization Act -- new export & investment restrictions.\nDEAL Act and Registered Investment Advisor rules.\nVolcker Rule reform.\nPrivate Securities Transparency and Reform Act, beneficial ownership reporting legislation.",
+    "Tax treatment of investment capital and start-up companies; and tax policy that encourages new company formation, such as Section 382 reform and R&D tax credit.\nIssues related to the Implementation of PL 115-97 - Tax Cuts and Jobs Act\nH.R. 1735/S. 781 - Carried Interest Fairness Act.\nS.1639 - Ending the Carried Interest Loophole Act.",
+    "Immigration reform for entrepreneurial visas.\nCyber-security."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -25,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 210000,
+  "peakYear": 2018,
+  "lobbyistCount": 31,
+  "firmCount": 1,
+  "issueCount": 10
+}

@@ -1,1 +1,108 @@
-{"id":147501,"name":"INTERNATIONAL BOTTLED WATER ASSOCIATION","slug":"international-bottled-water-association","state":"VA","description":null,"totalSpending":1500000,"filings":30,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":200000},{"year":2020,"income":200000},{"year":2021,"income":200000},{"year":2022,"income":150000},{"year":2023,"income":200000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"firms":["VAN NESS FELDMAN, LLP"],"lobbyists":["SEAN TAYLOR","NANCY MCNALLY","JONATHAN SIMON","JAMES BAYOT","CARLOS FLORES"],"issues":["TRA","TRU","BUD","BEV","UTI","TRD","ROD","NAT","CSP","FOO","CAW","TAX",null],"sampleDescriptions":["Supporting higher truck weight limits","FDA funding","Support for improving tap water infrastructure","Renewal of the Generalized System of Preferences (GSP) trade program","Funding for highway infrastructure improvements","General education regarding bottled water industry; Recycling; National Park Service bottled water policy; Department of the Interior, Environment and Related Agencies Appropriations","Bottled water quality; regulation of Bisphenol A in food and beverage containers","Regulation of Bisphenol A in food and beverage containers; supporting the need to better promote water consumption in the 2020 Dietary Guidelines for Americans","Bottled water quality","Tariffs on Chinese imports","Truck weight limits","Regulation of Bisphenol A in food and beverage containers; supporting the continued inclusion of bottled water in the Supplemental Nutrition Assistance Program; support of H.R. 6022, the Accurate Labels Act of 2018; support for healthy hydration messaging in U.S. dietary policy, including the 2020 Dietary Guidelines for Americans; support for adding water to the MyPlate nutrition graphic.","General education regarding bottled water industry; Recycling; National Park Service bottled water sales policy.","Regulation of Bisphenol A in food and beverage containers; support of H.R. 6022, the Accurate Labels Act of 2018; support for healthy hydration messaging in U.S. dietary policy, including the 2020 Dietary Guidelines for Americans; support for adding water to the MyPlate nutrition graphic; support for adding the term healthy to bottled water labels.","Truck weight limits; S. 569 and H.R. 1374 \"DRIVE-Safe Act\"","Tariffs on Chinese imports.","Support for improving tap water infrastructure.","Regulation of Bisphenol A in food and beverage containers; support for healthy hydration messaging in U.S. dietary policy, including the 2020 Dietary Guidelines for Americans; support for adding water to the MyPlate nutrition graphic; request to use the term \"healthy\" on bottled water labels.","Bottled water quality; regulation of Bisphenol A in food and beverage containers.","Request to use the term \"healthy\" on bottled water labels."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 147501,
+  "name": "INTERNATIONAL BOTTLED WATER ASSOCIATION",
+  "slug": "international-bottled-water-association",
+  "state": "VA",
+  "description": null,
+  "totalSpending": 1500000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 200000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 150000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 200000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "VAN NESS FELDMAN, LLP"
+  ],
+  "lobbyists": [
+    "SEAN TAYLOR",
+    "NANCY MCNALLY",
+    "JONATHAN SIMON",
+    "JAMES BAYOT",
+    "CARLOS FLORES"
+  ],
+  "issues": [
+    "TRA",
+    "TRU",
+    "BUD",
+    "BEV",
+    "UTI",
+    "TRD",
+    "ROD",
+    "NAT",
+    "CSP",
+    "FOO",
+    "CAW",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Supporting higher truck weight limits",
+    "FDA funding",
+    "Support for improving tap water infrastructure",
+    "Renewal of the Generalized System of Preferences (GSP) trade program",
+    "Funding for highway infrastructure improvements",
+    "General education regarding bottled water industry; Recycling; National Park Service bottled water policy; Department of the Interior, Environment and Related Agencies Appropriations",
+    "Bottled water quality; regulation of Bisphenol A in food and beverage containers",
+    "Regulation of Bisphenol A in food and beverage containers; supporting the need to better promote water consumption in the 2020 Dietary Guidelines for Americans",
+    "Bottled water quality",
+    "Tariffs on Chinese imports",
+    "Truck weight limits",
+    "Regulation of Bisphenol A in food and beverage containers; supporting the continued inclusion of bottled water in the Supplemental Nutrition Assistance Program; support of H.R. 6022, the Accurate Labels Act of 2018; support for healthy hydration messaging in U.S. dietary policy, including the 2020 Dietary Guidelines for Americans; support for adding water to the MyPlate nutrition graphic.",
+    "General education regarding bottled water industry; Recycling; National Park Service bottled water sales policy.",
+    "Regulation of Bisphenol A in food and beverage containers; support of H.R. 6022, the Accurate Labels Act of 2018; support for healthy hydration messaging in U.S. dietary policy, including the 2020 Dietary Guidelines for Americans; support for adding water to the MyPlate nutrition graphic; support for adding the term healthy to bottled water labels.",
+    "Truck weight limits; S. 569 and H.R. 1374 \"DRIVE-Safe Act\"",
+    "Tariffs on Chinese imports.",
+    "Support for improving tap water infrastructure.",
+    "Regulation of Bisphenol A in food and beverage containers; support for healthy hydration messaging in U.S. dietary policy, including the 2020 Dietary Guidelines for Americans; support for adding water to the MyPlate nutrition graphic; request to use the term \"healthy\" on bottled water labels.",
+    "Bottled water quality; regulation of Bisphenol A in food and beverage containers.",
+    "Request to use the term \"healthy\" on bottled water labels."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 187500,
+  "peakYear": 2019,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 12
+}

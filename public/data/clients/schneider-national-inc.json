@@ -1,1 +1,97 @@
-{"id":110273,"name":"SCHNEIDER NATIONAL INC.","slug":"schneider-national-inc","state":"WI","description":"&#226;€‹A premier provider of truckload, logistics and intermodal services.","totalSpending":2010000,"filings":28,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":320000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":340000},{"year":2023,"income":320000},{"year":2024,"income":90000},{"year":2025,"income":140000}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["ROSEMARY BECCHI","RUSSELL SULLIVAN","ANNE STARKE","ELIZABETH MAIER","GEOFFREY BURR","ARI ZIMMERMAN","DAVID REID","ANNMARIE CONBOY-DEPASQUALE","WILLIAM DUNHAM","WILLIAM MOSCHELLA"],"issues":["TRA","LBR","GOV",null],"sampleDescriptions":["FAA, compensation of drivers","Compensation of drivers; transportation issues","Compensation of drivers","FAST Act reauthorization","Compensation of drivers; transportation issues\nH.R.3684 - Infrastructure Investment and Jobs Act","Compensation of drivers; transportation issues H.R.3684 - Infrastructure Investment and Jobs Act","Compensation of drivers Transportation issues H.R. 3684 - Infrastructure Investment and Jobs Act","Compensation of drivers Transportation and infrastructure issues","Compensation of drivers; transportation and infrastructure issues Supply chain issues","Compensation of drivers; transportation and infrastructure issues Supply chain issues affecting the trucking industry","Compensation of drivers; transportation and infrastructure issues Supply chain issues affecting the trucking industry excise taxes Inclusion of S..1821 in the reconciliation bill","Compensation of drivers; Transportation and infrastructure issues Supply chain issues affecting the trucking industry Excise taxes","Compensation of drivers; Transportation and infrastructure issues Supply chain issues affecting the trucking industry Excise taxes CLD issues Cargo Theft"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 110273,
+  "name": "SCHNEIDER NATIONAL INC.",
+  "slug": "schneider-national-inc",
+  "state": "WI",
+  "description": "&#226;€‹A premier provider of truckload, logistics and intermodal services.",
+  "totalSpending": 2010000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 160000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 340000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 90000
+    },
+    {
+      "year": 2025,
+      "income": 140000
+    }
+  ],
+  "firms": [
+    "BROWNSTEIN HYATT FARBER SCHRECK, LLP"
+  ],
+  "lobbyists": [
+    "ROSEMARY BECCHI",
+    "RUSSELL SULLIVAN",
+    "ANNE STARKE",
+    "ELIZABETH MAIER",
+    "GEOFFREY BURR",
+    "ARI ZIMMERMAN",
+    "DAVID REID",
+    "ANNMARIE CONBOY-DEPASQUALE",
+    "WILLIAM DUNHAM",
+    "WILLIAM MOSCHELLA"
+  ],
+  "issues": [
+    "TRA",
+    "LBR",
+    "GOV",
+    null
+  ],
+  "sampleDescriptions": [
+    "FAA, compensation of drivers",
+    "Compensation of drivers; transportation issues",
+    "Compensation of drivers",
+    "FAST Act reauthorization",
+    "Compensation of drivers; transportation issues\nH.R.3684 - Infrastructure Investment and Jobs Act",
+    "Compensation of drivers; transportation issues H.R.3684 - Infrastructure Investment and Jobs Act",
+    "Compensation of drivers Transportation issues H.R. 3684 - Infrastructure Investment and Jobs Act",
+    "Compensation of drivers Transportation and infrastructure issues",
+    "Compensation of drivers; transportation and infrastructure issues Supply chain issues",
+    "Compensation of drivers; transportation and infrastructure issues Supply chain issues affecting the trucking industry",
+    "Compensation of drivers; transportation and infrastructure issues Supply chain issues affecting the trucking industry excise taxes Inclusion of S..1821 in the reconciliation bill",
+    "Compensation of drivers; Transportation and infrastructure issues Supply chain issues affecting the trucking industry Excise taxes",
+    "Compensation of drivers; Transportation and infrastructure issues Supply chain issues affecting the trucking industry Excise taxes CLD issues Cargo Theft"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -12,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 251250,
+  "peakYear": 2022,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 3
+}

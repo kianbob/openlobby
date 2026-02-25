@@ -1,1 +1,82 @@
-{"id":178819,"name":"CAPTIAL FUNDING GROUP INC","slug":"captial-funding-group-inc","state":"MD","description":null,"totalSpending":2830000,"filings":29,"yearlySpending":[{"year":2018,"income":400000},{"year":2019,"income":400000},{"year":2020,"income":310000},{"year":2021,"income":300000},{"year":2022,"income":400000},{"year":2023,"income":400000},{"year":2024,"income":300000},{"year":2025,"income":320000}],"firms":["TIBER CREEK ASSOCIATES OF CAPITOL HILL, INC."],"lobbyists":["CHRISTOPHER BOESEN"],"issues":["BAN","HOU",null,"ENV"],"sampleDescriptions":["community banking issues","work on behalf of assisted living facilities in conjunction with the 232 Program","community banking issues and healthcare lending","work on behalf of assisted living facilities in conjunction with the 232 program","work on behalf of assisted living facilities in conjunction with 232 program","work on behalf of assisted living facilities in conjunction with the section 232 program","Legislation relating to sea turtle rescue and rehabilitation, as it pertains to HR 347"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 178819,
+  "name": "CAPTIAL FUNDING GROUP INC",
+  "slug": "captial-funding-group-inc",
+  "state": "MD",
+  "description": null,
+  "totalSpending": 2830000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 400000
+    },
+    {
+      "year": 2019,
+      "income": 400000
+    },
+    {
+      "year": 2020,
+      "income": 310000
+    },
+    {
+      "year": 2021,
+      "income": 300000
+    },
+    {
+      "year": 2022,
+      "income": 400000
+    },
+    {
+      "year": 2023,
+      "income": 400000
+    },
+    {
+      "year": 2024,
+      "income": 300000
+    },
+    {
+      "year": 2025,
+      "income": 320000
+    }
+  ],
+  "firms": [
+    "TIBER CREEK ASSOCIATES OF CAPITOL HILL, INC."
+  ],
+  "lobbyists": [
+    "CHRISTOPHER BOESEN"
+  ],
+  "issues": [
+    "BAN",
+    "HOU",
+    null,
+    "ENV"
+  ],
+  "sampleDescriptions": [
+    "community banking issues",
+    "work on behalf of assisted living facilities in conjunction with the 232 Program",
+    "community banking issues and healthcare lending",
+    "work on behalf of assisted living facilities in conjunction with the 232 program",
+    "work on behalf of assisted living facilities in conjunction with 232 program",
+    "work on behalf of assisted living facilities in conjunction with the section 232 program",
+    "Legislation relating to sea turtle rescue and rehabilitation, as it pertains to HR 347"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -20,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 353750,
+  "peakYear": 2018,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 3
+}

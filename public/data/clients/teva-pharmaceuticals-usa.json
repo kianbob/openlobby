@@ -1,1 +1,85 @@
-{"id":206634,"name":"TEVA PHARMACEUTICALS USA","slug":"teva-pharmaceuticals-usa","state":"DC","description":"Generic and biosimilar manufacturer.","totalSpending":1400000,"filings":25,"yearlySpending":[{"year":2020,"income":100000},{"year":2021,"income":220000},{"year":2022,"income":360000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["CAPITOL HILL CONSULTING GROUP"],"lobbyists":["BRIAN SUTTER","THOMAS WHARTON","EMILY WILKINSON-HOLLAND","WILLIAM SOUTHERLAND","CHRISTOPHER DAVIS","KIMBERLEE TRZECIAK"],"issues":["HCR","MMM","PHA",null,"TRD"],"sampleDescriptions":["Medicare reimbursement for biosimilars. Improving supply chain for products manufactured in the United States","Issues surrounding US Pharmaceutical supply chain","Issues surrounding US Pharmaceutical supply chain.\nIssues surrounding the generic drug and biosimilar user free agreements.\nIssues surrounding the regulation of complex generic drugs.\nHHS and National Security Council for agencies.","Issues surrounding Medicare reimbursement of generic drugs and biosimilars.","Issues surrounding Medicare reimbursement of generic drugs and biosimilars.\nIssues relating to the impact of prescription drug negotiation on generic drugs.","Issues surrounding US Pharmaceutical supply chain. Issues surrounding the generic drug and biosimilar user free agreements. Issues surrounding the regulation of complex generic drugs. HHS and National Security Council for agencies.","Issues surrounding Medicare reimbursement of generic drugs and biosimilars. Issues relating to the impact of prescription drug negotiation on generic drugs.","Generic Drug User Fee Amendments(GDUFA).","Issues surrounding US Pharmaceutical supply chain. Issues surrounding the generic drug and biosimilar user free agreements. Issues surrounding the regulation of complex generic drugs. Issues related to Inflation Reduction Act.","Issues surrounding Medicare reimbursement of generic drugs and biosimilars. Issues relating to the impact of prescription drug negotiation on generic drugs. Issues related to drug shortages","Issues surrounding Medicare reimbursement of generic drugs and biosimilars. Issues relating to the impact of prescription drug negotiation on generic drugs. Issues related to drug shortages.","Issues related to potential tariffs on generic drugs.","Issues surrounding Medicare reimbursement of generic drugs and biosimilars. Issues relating to the impact of prescription drug negotiation on generic drugs. Issues related to drug shortages. Issues related to drug pricing including drug negotiation."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 206634,
+  "name": "TEVA PHARMACEUTICALS USA",
+  "slug": "teva-pharmaceuticals-usa",
+  "state": "DC",
+  "description": "Generic and biosimilar manufacturer.",
+  "totalSpending": 1400000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 100000
+    },
+    {
+      "year": 2021,
+      "income": 220000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "CAPITOL HILL CONSULTING GROUP"
+  ],
+  "lobbyists": [
+    "BRIAN SUTTER",
+    "THOMAS WHARTON",
+    "EMILY WILKINSON-HOLLAND",
+    "WILLIAM SOUTHERLAND",
+    "CHRISTOPHER DAVIS",
+    "KIMBERLEE TRZECIAK"
+  ],
+  "issues": [
+    "HCR",
+    "MMM",
+    "PHA",
+    null,
+    "TRD"
+  ],
+  "sampleDescriptions": [
+    "Medicare reimbursement for biosimilars. Improving supply chain for products manufactured in the United States",
+    "Issues surrounding US Pharmaceutical supply chain",
+    "Issues surrounding US Pharmaceutical supply chain.\nIssues surrounding the generic drug and biosimilar user free agreements.\nIssues surrounding the regulation of complex generic drugs.\nHHS and National Security Council for agencies.",
+    "Issues surrounding Medicare reimbursement of generic drugs and biosimilars.",
+    "Issues surrounding Medicare reimbursement of generic drugs and biosimilars.\nIssues relating to the impact of prescription drug negotiation on generic drugs.",
+    "Issues surrounding US Pharmaceutical supply chain. Issues surrounding the generic drug and biosimilar user free agreements. Issues surrounding the regulation of complex generic drugs. HHS and National Security Council for agencies.",
+    "Issues surrounding Medicare reimbursement of generic drugs and biosimilars. Issues relating to the impact of prescription drug negotiation on generic drugs.",
+    "Generic Drug User Fee Amendments(GDUFA).",
+    "Issues surrounding US Pharmaceutical supply chain. Issues surrounding the generic drug and biosimilar user free agreements. Issues surrounding the regulation of complex generic drugs. Issues related to Inflation Reduction Act.",
+    "Issues surrounding Medicare reimbursement of generic drugs and biosimilars. Issues relating to the impact of prescription drug negotiation on generic drugs. Issues related to drug shortages",
+    "Issues surrounding Medicare reimbursement of generic drugs and biosimilars. Issues relating to the impact of prescription drug negotiation on generic drugs. Issues related to drug shortages.",
+    "Issues related to potential tariffs on generic drugs.",
+    "Issues surrounding Medicare reimbursement of generic drugs and biosimilars. Issues relating to the impact of prescription drug negotiation on generic drugs. Issues related to drug shortages. Issues related to drug pricing including drug negotiation."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 140,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 233333,
+  "peakYear": 2022,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "healthcare"
+}

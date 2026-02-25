@@ -1,1 +1,97 @@
-{"id":155494,"name":"TIMKEN COMPANY","slug":"timken-company","state":"OH","description":null,"totalSpending":1500000,"filings":28,"yearlySpending":[{"year":2018,"income":210000},{"year":2019,"income":145000},{"year":2020,"income":190000},{"year":2021,"income":205000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":230000},{"year":2025,"income":120000}],"firms":["GENESIS GROUP LLC"],"lobbyists":["CAROLINE VILCHEZ","MARK BENEDICT"],"issues":["TRD","DEF","BUD","ENV","TAX","IMM","LBR",null],"sampleDescriptions":["NAFTA, WTO, Misc Tariff Bill, MOUs","NDAA and defense appropriations; specific procurement issues","Appropriations","Environment and EPA","Tax Reform; Tax Extenders; Energy Tax Credits","H1B; Visa issues","OSHA regs; Worker Education","Manufacturing Issues","Manufacturing issues","manufacturing issues","Fiscal year appropriations","Environmental Issues","Defense Issues","Immigration Issues","Labor/Workforce Issues","Tax Issues","Trade Issues"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 155494,
+  "name": "TIMKEN COMPANY",
+  "slug": "timken-company",
+  "state": "OH",
+  "description": null,
+  "totalSpending": 1500000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 210000
+    },
+    {
+      "year": 2019,
+      "income": 145000
+    },
+    {
+      "year": 2020,
+      "income": 190000
+    },
+    {
+      "year": 2021,
+      "income": 205000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 230000
+    },
+    {
+      "year": 2025,
+      "income": 120000
+    }
+  ],
+  "firms": [
+    "GENESIS GROUP LLC"
+  ],
+  "lobbyists": [
+    "CAROLINE VILCHEZ",
+    "MARK BENEDICT"
+  ],
+  "issues": [
+    "TRD",
+    "DEF",
+    "BUD",
+    "ENV",
+    "TAX",
+    "IMM",
+    "LBR",
+    null
+  ],
+  "sampleDescriptions": [
+    "NAFTA, WTO, Misc Tariff Bill, MOUs",
+    "NDAA and defense appropriations; specific procurement issues",
+    "Appropriations",
+    "Environment and EPA",
+    "Tax Reform; Tax Extenders; Energy Tax Credits",
+    "H1B; Visa issues",
+    "OSHA regs; Worker Education",
+    "Manufacturing Issues",
+    "Manufacturing issues",
+    "manufacturing issues",
+    "Fiscal year appropriations",
+    "Environmental Issues",
+    "Defense Issues",
+    "Immigration Issues",
+    "Labor/Workforce Issues",
+    "Tax Issues",
+    "Trade Issues"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -43,
+  "trajectory": "reducing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 187500,
+  "peakYear": 2024,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 7
+}

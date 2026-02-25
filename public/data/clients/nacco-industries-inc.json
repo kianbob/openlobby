@@ -1,1 +1,86 @@
-{"id":199594,"name":"NACCO INDUSTRIES, INC.","slug":"nacco-industries-inc","state":"MS","description":"holding company","totalSpending":2320000,"filings":29,"yearlySpending":[{"year":2018,"income":40000},{"year":2019,"income":240000},{"year":2020,"income":300000},{"year":2021,"income":360000},{"year":2022,"income":240000},{"year":2023,"income":300000},{"year":2024,"income":240000},{"year":2025,"income":600000}],"firms":["MICHAEL BEST STRATEGIES LLC"],"lobbyists":["SARAH HELTON","KEVIN SWANSON","DENISE BODE","PATRICK FIRTH","ALEXANDER ANGELSON","JENETTE MORELL","MARGARET FRANKLIN"],"issues":["ENG","NAT","TAX",null,"UTI"],"sampleDescriptions":["issues related to utilities and power generation facilities","issues relating to utilities, power generation facilities, and mining","issues related to tax","Issues relating to utilities, power generation facilities, and mining Issues related to tax"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199594,
+  "name": "NACCO INDUSTRIES, INC.",
+  "slug": "nacco-industries-inc",
+  "state": "MS",
+  "description": "holding company",
+  "totalSpending": 2320000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 40000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 300000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 600000
+    }
+  ],
+  "firms": [
+    "MICHAEL BEST STRATEGIES LLC"
+  ],
+  "lobbyists": [
+    "SARAH HELTON",
+    "KEVIN SWANSON",
+    "DENISE BODE",
+    "PATRICK FIRTH",
+    "ALEXANDER ANGELSON",
+    "JENETTE MORELL",
+    "MARGARET FRANKLIN"
+  ],
+  "issues": [
+    "ENG",
+    "NAT",
+    "TAX",
+    null,
+    "UTI"
+  ],
+  "sampleDescriptions": [
+    "issues related to utilities and power generation facilities",
+    "issues relating to utilities, power generation facilities, and mining",
+    "issues related to tax",
+    "Issues relating to utilities, power generation facilities, and mining Issues related to tax"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 1400,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 290000,
+  "peakYear": 2025,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 4
+}

@@ -1,1 +1,81 @@
-{"id":202545,"name":"CORECIVIC","slug":"corecivic","state":"TN","description":"A real estate investment trust (REIT) operating in the federally leased asset business.","totalSpending":2459000,"filings":28,"yearlySpending":[{"year":2019,"income":285000},{"year":2020,"income":360000},{"year":2021,"income":360000},{"year":2022,"income":360000},{"year":2023,"income":360000},{"year":2024,"income":374000},{"year":2025,"income":360000}],"firms":["THE VOGEL GROUP"],"lobbyists":["BRIAN JOHNSON","ALEXANDER VOGEL","ALI KHIMJI"],"issues":["BAN","FIN","RES",null],"sampleDescriptions":["Issues related to banking","Consistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.","Issues relating to federally leased properties","Discussions regarding financial industry practices. \n\nConsistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.","Issues relating to federally leased properties.\n\nConsistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.","Issues relating to federally leased properties. \n\nConsistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.","Discussions regarding financial industry practices. Consistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.","Issues relating to federally leased properties. Consistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.","CONSISTENT WITH CORECIVIC POLICY, VOGEL GROUP DOES NOT LOBBY FOR OR AGAINST ANY POLICIES OR LEGISLATION THAT WOULD DETERMINE THE BASIS FOR AN INDIVIDUAL'S INCARCERATION OR DETENTION. Discussions regarding financial industry practices."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 202545,
+  "name": "CORECIVIC",
+  "slug": "corecivic",
+  "state": "TN",
+  "description": "A real estate investment trust (REIT) operating in the federally leased asset business.",
+  "totalSpending": 2459000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 285000
+    },
+    {
+      "year": 2020,
+      "income": 360000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 374000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "THE VOGEL GROUP"
+  ],
+  "lobbyists": [
+    "BRIAN JOHNSON",
+    "ALEXANDER VOGEL",
+    "ALI KHIMJI"
+  ],
+  "issues": [
+    "BAN",
+    "FIN",
+    "RES",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to banking",
+    "Consistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.",
+    "Issues relating to federally leased properties",
+    "Discussions regarding financial industry practices. \n\nConsistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.",
+    "Issues relating to federally leased properties.\n\nConsistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.",
+    "Issues relating to federally leased properties. \n\nConsistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.",
+    "Discussions regarding financial industry practices. Consistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.",
+    "Issues relating to federally leased properties. Consistent with CoreCivic policy, The Vogel Group does not lobby for or against any policies or legislation that would determine the basis for an individual's incarceration or detention.",
+    "CONSISTENT WITH CORECIVIC POLICY, VOGEL GROUP DOES NOT LOBBY FOR OR AGAINST ANY POLICIES OR LEGISLATION THAT WOULD DETERMINE THE BASIS FOR AN INDIVIDUAL'S INCARCERATION OR DETENTION. Discussions regarding financial industry practices."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 26,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 351286,
+  "peakYear": 2024,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 3
+}

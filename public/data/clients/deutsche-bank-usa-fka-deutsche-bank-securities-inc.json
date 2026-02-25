@@ -1,1 +1,100 @@
-{"id":127162,"name":"DEUTSCHE BANK USA (FKA DEUTSCHE BANK SECURITIES INC.)","slug":"deutsche-bank-usa-fka-deutsche-bank-securities-inc","state":"DC","description":"Financial services.","totalSpending":2910000,"filings":25,"yearlySpending":[{"year":2018,"income":550000},{"year":2019,"income":660000},{"year":2020,"income":600000},{"year":2021,"income":600000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":80000}],"firms":["TIBER CREEK GROUP"],"lobbyists":["JEFFREY PECK","LINDSEY LEDWIN","EMILY KIRLIN","DREW CANTOR","JEFFREY SHAPIRO","KRISTEN HARPER"],"issues":["HOM","TAX","TRD","BAN","FIN","TRA","BUD",null],"sampleDescriptions":["General cybersecurity issues.","Issues related to Tax Cuts and Jobs Act of 2017 Public Law 115-97","Tracking developments with NAFTA, China, and other trade matters.","Issues related to Dodd-Frank Act, Public Law No: 111-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks.","Issues related to Dodd-Frank Act, Public Law No: 11-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks.","Issues related to Tax Cuts and Jobs Act of 2017 Public Law 115-97.","Issues related to Dodd-Frank Act, Public Law No: 111-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks. H.R. 748 Coronavirus Aid, Relief, and Economic Security (CARES) Act (P.L. 116-136)","General privacy related issues, general cyber and ransomware issues","Issues related to Dodd-Frank Act, Public Law No: 111-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks. Implementation of Coronavirus Aid, Relief, and Economic Security (CARES) Act (P.L. 116-136)","Tracking developments with USMCA implementation, China, and other trade matters.","Issues related to Dodd-Frank Act, Public Law No: 111-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks. Implementation of Coronavirus Aid, Relief, and Economic Security (CARES) Act (P.L. 116-136). H.R. 133 / PL 116-260 - FY2021 Omnibus and COVID Relief and Response Act","Issues related to Dodd-Frank Act (PL 111-203) reform; Monitor legislative proposals affecting the regulation of financial services; Issues related to the regulation of foreign banks; Implementation of Coronavirus Aid, Relief, and Economic Security (CARES) Act (PL 116-136); H.R. 133 - FY2021 Omnibus and COVID Relief and Response Act (PL 116-260).","General privacy related issues; General cyber and ransomware issues.","Issues related to Dodd-Frank Act (PL 111-203) reform; Monitor legislative proposals affecting the regulation of financial services; Issues related to the regulation of foreign banks.","Monitor issues related to infrastructure.","Issues related to Dodd-Frank Act (PL 111-203) reform; Monitoring legislative proposals affecting the regulation of financial services; Issues related to the regulation of foreign banks","Monitor issues related to infrastructure, including H.R. 3684 - Infrastructure Investment and Jobs Act.","Issues related to Dodd-Frank Act (PL 111-203) reform; Monitoring legislative proposals affecting the regulation of financial services; Issues related to the regulation of foreign banks.","Monitor issues related to budget reconciliation, S. Con. Res. 14.","Monitor issues related to infrastructure, including Infrastructure Investment and Jobs Act (PL 117-58)."],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 127162,
+  "name": "DEUTSCHE BANK USA (FKA DEUTSCHE BANK SECURITIES INC.)",
+  "slug": "deutsche-bank-usa-fka-deutsche-bank-securities-inc",
+  "state": "DC",
+  "description": "Financial services.",
+  "totalSpending": 2910000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 550000
+    },
+    {
+      "year": 2019,
+      "income": 660000
+    },
+    {
+      "year": 2020,
+      "income": 600000
+    },
+    {
+      "year": 2021,
+      "income": 600000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 80000
+    }
+  ],
+  "firms": [
+    "TIBER CREEK GROUP"
+  ],
+  "lobbyists": [
+    "JEFFREY PECK",
+    "LINDSEY LEDWIN",
+    "EMILY KIRLIN",
+    "DREW CANTOR",
+    "JEFFREY SHAPIRO",
+    "KRISTEN HARPER"
+  ],
+  "issues": [
+    "HOM",
+    "TAX",
+    "TRD",
+    "BAN",
+    "FIN",
+    "TRA",
+    "BUD",
+    null
+  ],
+  "sampleDescriptions": [
+    "General cybersecurity issues.",
+    "Issues related to Tax Cuts and Jobs Act of 2017 Public Law 115-97",
+    "Tracking developments with NAFTA, China, and other trade matters.",
+    "Issues related to Dodd-Frank Act, Public Law No: 111-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks.",
+    "Issues related to Dodd-Frank Act, Public Law No: 11-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks.",
+    "Issues related to Tax Cuts and Jobs Act of 2017 Public Law 115-97.",
+    "Issues related to Dodd-Frank Act, Public Law No: 111-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks. H.R. 748 Coronavirus Aid, Relief, and Economic Security (CARES) Act (P.L. 116-136)",
+    "General privacy related issues, general cyber and ransomware issues",
+    "Issues related to Dodd-Frank Act, Public Law No: 111-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks. Implementation of Coronavirus Aid, Relief, and Economic Security (CARES) Act (P.L. 116-136)",
+    "Tracking developments with USMCA implementation, China, and other trade matters.",
+    "Issues related to Dodd-Frank Act, Public Law No: 111-203, reform. Monitor legislative proposals affecting the regulation of financial services. Issues related to the regulation of foreign banks. Implementation of Coronavirus Aid, Relief, and Economic Security (CARES) Act (P.L. 116-136). H.R. 133 / PL 116-260 - FY2021 Omnibus and COVID Relief and Response Act",
+    "Issues related to Dodd-Frank Act (PL 111-203) reform; Monitor legislative proposals affecting the regulation of financial services; Issues related to the regulation of foreign banks; Implementation of Coronavirus Aid, Relief, and Economic Security (CARES) Act (PL 116-136); H.R. 133 - FY2021 Omnibus and COVID Relief and Response Act (PL 116-260).",
+    "General privacy related issues; General cyber and ransomware issues.",
+    "Issues related to Dodd-Frank Act (PL 111-203) reform; Monitor legislative proposals affecting the regulation of financial services; Issues related to the regulation of foreign banks.",
+    "Monitor issues related to infrastructure.",
+    "Issues related to Dodd-Frank Act (PL 111-203) reform; Monitoring legislative proposals affecting the regulation of financial services; Issues related to the regulation of foreign banks",
+    "Monitor issues related to infrastructure, including H.R. 3684 - Infrastructure Investment and Jobs Act.",
+    "Issues related to Dodd-Frank Act (PL 111-203) reform; Monitoring legislative proposals affecting the regulation of financial services; Issues related to the regulation of foreign banks.",
+    "Monitor issues related to budget reconciliation, S. Con. Res. 14.",
+    "Monitor issues related to infrastructure, including Infrastructure Investment and Jobs Act (PL 117-58)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -85,
+  "trajectory": "declining",
+  "yearsActive": 7,
+  "avgAnnualSpending": 415714,
+  "peakYear": 2019,
+  "lobbyistCount": 6,
+  "firmCount": 1,
+  "issueCount": 7,
+  "industry": "finance"
+}

@@ -1,1 +1,67 @@
-{"id":213288,"name":"EXELA PHARMA SCIENCES, LLC","slug":"exela-pharma-sciences-llc","state":"NC","description":"pharma science","totalSpending":1488000,"filings":15,"yearlySpending":[{"year":2022,"income":270000},{"year":2023,"income":450000},{"year":2024,"income":216000},{"year":2025,"income":552000}],"firms":["OLD NORTH STRATEGIES, LLC"],"lobbyists":["JOSEPH KING"],"issues":["MAN","HCR","PHA","SCI","MED",null],"sampleDescriptions":["general lobbying for client with HHS, BARDA and other federal agencies","bio pharma supply chain reforms","Bio pharma supply chain reform","bio pharma supply chain reform","supply chain & FDA issues","on shore manufacturing of medications","on shoring medications","R&D of meds","on shore medications"],"years":[2022,2023,2024,2025]}
+{
+  "id": 213288,
+  "name": "EXELA PHARMA SCIENCES, LLC",
+  "slug": "exela-pharma-sciences-llc",
+  "state": "NC",
+  "description": "pharma science",
+  "totalSpending": 1488000,
+  "filings": 15,
+  "yearlySpending": [
+    {
+      "year": 2022,
+      "income": 270000
+    },
+    {
+      "year": 2023,
+      "income": 450000
+    },
+    {
+      "year": 2024,
+      "income": 216000
+    },
+    {
+      "year": 2025,
+      "income": 552000
+    }
+  ],
+  "firms": [
+    "OLD NORTH STRATEGIES, LLC"
+  ],
+  "lobbyists": [
+    "JOSEPH KING"
+  ],
+  "issues": [
+    "MAN",
+    "HCR",
+    "PHA",
+    "SCI",
+    "MED",
+    null
+  ],
+  "sampleDescriptions": [
+    "general lobbying for client with HHS, BARDA and other federal agencies",
+    "bio pharma supply chain reforms",
+    "Bio pharma supply chain reform",
+    "bio pharma supply chain reform",
+    "supply chain & FDA issues",
+    "on shore manufacturing of medications",
+    "on shoring medications",
+    "R&D of meds",
+    "on shore medications"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 104,
+  "trajectory": "exploding",
+  "yearsActive": 4,
+  "avgAnnualSpending": 372000,
+  "peakYear": 2025,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 5,
+  "industry": "healthcare"
+}

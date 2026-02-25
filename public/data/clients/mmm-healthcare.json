@@ -1,1 +1,90 @@
-{"id":127219,"name":"MMM HEALTHCARE","slug":"mmm-healthcare","state":"NH","description":"Managed Healthcare Services Provider","totalSpending":2350000,"filings":27,"yearlySpending":[{"year":2018,"income":320000},{"year":2019,"income":320000},{"year":2020,"income":360000},{"year":2021,"income":360000},{"year":2022,"income":360000},{"year":2023,"income":360000},{"year":2024,"income":270000}],"firms":["TIBER CREEK GROUP"],"lobbyists":["ANDREW MCKECHNIE","JOHN GONZALEZ","MATTHEW LEFFINGWELL","COREY MALMGREN"],"issues":["MMM",null],"sampleDescriptions":["Issues related to Medicare and Medicaid reimbursement in Puerto Rico.","Issues related to Medicare and Medicaid reimbursement in Puerto Rico.  Puerto Rico Integrity in Medicare Advantage Act (PRIMA), H.R. 6809.","Issues related to Medicare and Medicaid funding for Puerto Rico","Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 3631, The Territories Health Care Improvement Act, and HR 4378, The Continuing Appropriations Act 2020, and Health Extenders Act of 2019","Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 3631, The Territories Health Care Improvement Act, and H.R. 4378, The Continuing Appropriations Act 2020, and Health Extenders Act of 2019, and H.R. 1865, the Consolidated Domestic and International Assistance Bill","Issues related to Medicare and Medicaid funding for Puerto Rico. Federal COVID response, including Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law 116-136)","Issues related to Medicare and Medicaid funding for Puerto Rico. Federal COVID response, including Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law 116-136) and H.R. 6800 Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act","Issues related to Medicare and Medicaid funding for Puerto Rico.","Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 1969 to improve payments for Medicare Advantage plans in Puerto Rico.","Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 1969 - Medicare Advantage Integrity Act and H.R. 4406 - Supporting Medicaid in the U.S. Territories Act of 2021.","Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 1969 - Medicare Advantage Integrity Act and H.R. 4406 - Supporting Medicaid in the U.S. Territories Act of 2021; Issues related to H.R. 5376 - the Build Back Better Act and the impact on Medicaid in Puerto Rico.","Issues related to Medicaid funding in the Consolidated Appropriations Act of 2022, (PL No. 117-103); Issues related to Medicare Advantage funding.","Issues related to Medicaid funding in the Consolidated Appropriations Act of 2022, (PL No. 117-103); Issues related to Medicare Advantage funding; H.R.7997 - Achieving Equity in the Treatment of Dual Eligible Beneficiaries Act; Issues related to H.R. 5376 - Build Back Better Act, budget reconciliation legislation.","Issues related to Medicaid and Medicare Advantage funding; H.R. 7997 - Achieving Equity in the Treatment of Dual Eligible Beneficiaries Act; Inflation Reduction Act of 2022 (PL 117-169); The legislative vehicle for the Continuing Resolution (PL 117-180).","Issues related to Medicaid and Medicare Advantage funding; H.R. 7997 - Achieving Equity in the Treatment of Dual Eligible Beneficiaries Act; Issues related to Medicaid funding in Consolidated Appropriations Act (PL 117-328).","Issues related to Medicare Advantage and Medicaid; Issues related to CMS' Advance Notice of Methodological Changes for Calendar Year (CY) 2025 for Medicare Advantage Capitation Rates and Part C and Part D Payment Policies.","Issues related to Medicare Advantage and Medicaid; Issues related to Calendar Year (CY) 2025 Medicare Advantage (MA) Capitation Rates and Part C and Part D Payment Policies. H.R. 4028 - the Territories Medicare Prescription Drug Assistance Equality Act of 2023, and H.R. 4410 - the Fairness in Medicare Savings Program Act of 2023.","Issues related to Medicare Advantage and Medicaid; H.R. 4028 - the Territories Medicare Prescription Drug Assistance Equality Act of 2023, and H.R. 4410 - the Fairness in Medicare Savings Program Act of 2023; Issues impacting Puerto Rico and the Medicare Savings Program in H.R.10545 - American Relief Act of 2025 (PL 118-158)."],"years":[2018,2019,2020,2021,2022,2023,2024]}
+{
+  "id": 127219,
+  "name": "MMM HEALTHCARE",
+  "slug": "mmm-healthcare",
+  "state": "NH",
+  "description": "Managed Healthcare Services Provider",
+  "totalSpending": 2350000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 320000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 360000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 360000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "TIBER CREEK GROUP"
+  ],
+  "lobbyists": [
+    "ANDREW MCKECHNIE",
+    "JOHN GONZALEZ",
+    "MATTHEW LEFFINGWELL",
+    "COREY MALMGREN"
+  ],
+  "issues": [
+    "MMM",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to Medicare and Medicaid reimbursement in Puerto Rico.",
+    "Issues related to Medicare and Medicaid reimbursement in Puerto Rico.  Puerto Rico Integrity in Medicare Advantage Act (PRIMA), H.R. 6809.",
+    "Issues related to Medicare and Medicaid funding for Puerto Rico",
+    "Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 3631, The Territories Health Care Improvement Act, and HR 4378, The Continuing Appropriations Act 2020, and Health Extenders Act of 2019",
+    "Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 3631, The Territories Health Care Improvement Act, and H.R. 4378, The Continuing Appropriations Act 2020, and Health Extenders Act of 2019, and H.R. 1865, the Consolidated Domestic and International Assistance Bill",
+    "Issues related to Medicare and Medicaid funding for Puerto Rico. Federal COVID response, including Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law 116-136)",
+    "Issues related to Medicare and Medicaid funding for Puerto Rico. Federal COVID response, including Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law 116-136) and H.R. 6800 Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act",
+    "Issues related to Medicare and Medicaid funding for Puerto Rico.",
+    "Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 1969 to improve payments for Medicare Advantage plans in Puerto Rico.",
+    "Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 1969 - Medicare Advantage Integrity Act and H.R. 4406 - Supporting Medicaid in the U.S. Territories Act of 2021.",
+    "Issues related to Medicare and Medicaid funding for Puerto Rico, including H.R. 1969 - Medicare Advantage Integrity Act and H.R. 4406 - Supporting Medicaid in the U.S. Territories Act of 2021; Issues related to H.R. 5376 - the Build Back Better Act and the impact on Medicaid in Puerto Rico.",
+    "Issues related to Medicaid funding in the Consolidated Appropriations Act of 2022, (PL No. 117-103); Issues related to Medicare Advantage funding.",
+    "Issues related to Medicaid funding in the Consolidated Appropriations Act of 2022, (PL No. 117-103); Issues related to Medicare Advantage funding; H.R.7997 - Achieving Equity in the Treatment of Dual Eligible Beneficiaries Act; Issues related to H.R. 5376 - Build Back Better Act, budget reconciliation legislation.",
+    "Issues related to Medicaid and Medicare Advantage funding; H.R. 7997 - Achieving Equity in the Treatment of Dual Eligible Beneficiaries Act; Inflation Reduction Act of 2022 (PL 117-169); The legislative vehicle for the Continuing Resolution (PL 117-180).",
+    "Issues related to Medicaid and Medicare Advantage funding; H.R. 7997 - Achieving Equity in the Treatment of Dual Eligible Beneficiaries Act; Issues related to Medicaid funding in Consolidated Appropriations Act (PL 117-328).",
+    "Issues related to Medicare Advantage and Medicaid; Issues related to CMS' Advance Notice of Methodological Changes for Calendar Year (CY) 2025 for Medicare Advantage Capitation Rates and Part C and Part D Payment Policies.",
+    "Issues related to Medicare Advantage and Medicaid; Issues related to Calendar Year (CY) 2025 Medicare Advantage (MA) Capitation Rates and Part C and Part D Payment Policies. H.R. 4028 - the Territories Medicare Prescription Drug Assistance Equality Act of 2023, and H.R. 4410 - the Fairness in Medicare Savings Program Act of 2023.",
+    "Issues related to Medicare Advantage and Medicaid; H.R. 4028 - the Territories Medicare Prescription Drug Assistance Equality Act of 2023, and H.R. 4410 - the Fairness in Medicare Savings Program Act of 2023; Issues impacting Puerto Rico and the Medicare Savings Program in H.R.10545 - American Relief Act of 2025 (PL 118-158)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "growthRate": -16,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 335714,
+  "peakYear": 2020,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

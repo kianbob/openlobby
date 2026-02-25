@@ -1,1 +1,92 @@
-{"id":160342,"name":"CALIFORNIA SCHOOLS VOLUNTARY EMPLOYEE BENEFITS ASSOC. (VEBA)","slug":"california-schools-voluntary-employee-benefits-assoc-veba","state":"CA","description":"Voluntary employee benefit association for California teachers and others","totalSpending":1620000,"filings":27,"yearlySpending":[{"year":2018,"income":60000},{"year":2019,"income":180000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":240000}],"firms":["ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG)"],"lobbyists":["TARA BRADSHAW","HEATHER MEADE","LAURA DILLON","PATRICIA HITTLE"],"issues":["HCR",null],"sampleDescriptions":["Health care cost containment and protection of employer-sponsored insurance","Taxation of employer-provided health care - H.R. 173, S. 58, Health care cost containment","Taxation of employer-provided health care; Health care cost containment; S. 684/H.R. 748 - Repeal of the \"Cadillac Tax\"","Taxation of employer-provided health care; Health care cost containment; S. 684/ H.R. 748 - Repeal of the \"Cadillac Tax\"; transparency, wellness/mental health; H.R 1865 - consolidated appropriations","Taxation of employer-provided health care; Health care cost containment; S. 684/ H.R. 748- CARES Act ; transparency, telehealth, mental health care, COBRA coverage, wellness plans","Taxation of employer-provided health care; \nHealth care cost containment; \nS. 684/ H.R. 748 - CARES Act - transparency, telehealth, mental health care, COBRA coverage, wellness plans\nIssues related to the HEALS Act (S. 178)\nH.R. 133, Consolidated Appropriations Act, 2021 - surprise medical billing, air ambulances","Taxation of employer-provided health care; \nHealth care cost containment; \nCARES Act (HR 748, PL 116-136) and HEALS Act issues - transparency, telehealth, mental health care, COBRA coverage, wellness plans;\nVaccine distribution; \nHR 1319 - American Rescue Plan Act","- Taxation of employer-provided health care; \n- Health care cost containment; \n- Price transparency, telehealth, mental health care, COBRA coverage, wellness plans, social determinants of health, diversity in mental health workforce; \n- Vaccine distribution.","- Taxation of employer-provided health care; \n- Health care cost containment; \n- Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce; \n- Drug pricing; \n- Vaccine distribution;\n- H.R. 5376, Build Back Better Act (fiscal year 2022 budget reconciliation bill)","- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce; - Drug pricing; - Vaccine distribution; - H.R. 5376, Build Back Better Act (fiscal year 2022 budget reconciliation bill) - Direct provider contracting - Healthy Competition for Better Care Act (anti-tiering and anti- steering provisions)","- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce; - Drug pricing; - H.R. 5376, Build Back Better Act (fiscal year 2022 budget reconciliation bill) - Direct provider contracting - Healthy Competition for Better Care Act (anti-tiering and anti- steering provisions)","- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce; hunger and nutrition; - Drug pricing; - Direct provider contracting, and - Healthy Competition for Better Care Act (anti-tiering and anti- steering provisions)","- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce, hunger and nutrition; - Drug pricing; - Direct provider contracting; and - H.R. 5378 - \"Lower Costs, More Transparency Act\"","- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce, hunger and nutrition; - Direct provider contracting; and - H.R. 5378 - \"Lower Costs, More Transparency Act\"","- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce, hunger and nutrition; - Direct provider contracting; - H.R. 5378 - \"Lower Costs, More Transparency Act\" - Maternal care"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 160342,
+  "name": "CALIFORNIA SCHOOLS VOLUNTARY EMPLOYEE BENEFITS ASSOC. (VEBA)",
+  "slug": "california-schools-voluntary-employee-benefits-assoc-veba",
+  "state": "CA",
+  "description": "Voluntary employee benefit association for California teachers and others",
+  "totalSpending": 1620000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 60000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG)"
+  ],
+  "lobbyists": [
+    "TARA BRADSHAW",
+    "HEATHER MEADE",
+    "LAURA DILLON",
+    "PATRICIA HITTLE"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Health care cost containment and protection of employer-sponsored insurance",
+    "Taxation of employer-provided health care - H.R. 173, S. 58, Health care cost containment",
+    "Taxation of employer-provided health care; Health care cost containment; S. 684/H.R. 748 - Repeal of the \"Cadillac Tax\"",
+    "Taxation of employer-provided health care; Health care cost containment; S. 684/ H.R. 748 - Repeal of the \"Cadillac Tax\"; transparency, wellness/mental health; H.R 1865 - consolidated appropriations",
+    "Taxation of employer-provided health care; Health care cost containment; S. 684/ H.R. 748- CARES Act ; transparency, telehealth, mental health care, COBRA coverage, wellness plans",
+    "Taxation of employer-provided health care; \nHealth care cost containment; \nS. 684/ H.R. 748 - CARES Act - transparency, telehealth, mental health care, COBRA coverage, wellness plans\nIssues related to the HEALS Act (S. 178)\nH.R. 133, Consolidated Appropriations Act, 2021 - surprise medical billing, air ambulances",
+    "Taxation of employer-provided health care; \nHealth care cost containment; \nCARES Act (HR 748, PL 116-136) and HEALS Act issues - transparency, telehealth, mental health care, COBRA coverage, wellness plans;\nVaccine distribution; \nHR 1319 - American Rescue Plan Act",
+    "- Taxation of employer-provided health care; \n- Health care cost containment; \n- Price transparency, telehealth, mental health care, COBRA coverage, wellness plans, social determinants of health, diversity in mental health workforce; \n- Vaccine distribution.",
+    "- Taxation of employer-provided health care; \n- Health care cost containment; \n- Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce; \n- Drug pricing; \n- Vaccine distribution;\n- H.R. 5376, Build Back Better Act (fiscal year 2022 budget reconciliation bill)",
+    "- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce; - Drug pricing; - Vaccine distribution; - H.R. 5376, Build Back Better Act (fiscal year 2022 budget reconciliation bill) - Direct provider contracting - Healthy Competition for Better Care Act (anti-tiering and anti- steering provisions)",
+    "- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce; - Drug pricing; - H.R. 5376, Build Back Better Act (fiscal year 2022 budget reconciliation bill) - Direct provider contracting - Healthy Competition for Better Care Act (anti-tiering and anti- steering provisions)",
+    "- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce; hunger and nutrition; - Drug pricing; - Direct provider contracting, and - Healthy Competition for Better Care Act (anti-tiering and anti- steering provisions)",
+    "- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce, hunger and nutrition; - Drug pricing; - Direct provider contracting; and - H.R. 5378 - \"Lower Costs, More Transparency Act\"",
+    "- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce, hunger and nutrition; - Direct provider contracting; and - H.R. 5378 - \"Lower Costs, More Transparency Act\"",
+    "- Taxation of employer-provided health care; - Health care cost containment; - Price transparency, telehealth, mental health care, wellness plans, social determinants of health, diversity in mental health workforce, hunger and nutrition; - Direct provider contracting; - H.R. 5378 - \"Lower Costs, More Transparency Act\" - Maternal care"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 300,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 202500,
+  "peakYear": 2020,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "education"
+}

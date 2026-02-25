@@ -1,1 +1,107 @@
-{"id":181317,"name":"TRIPLE-S MANAGEMENT CORPORATION","slug":"triple-s-management-corporation","state":"PR","description":"Insurance","totalSpending":1960000,"filings":28,"yearlySpending":[{"year":2018,"income":280000},{"year":2019,"income":140000},{"year":2020,"income":210000},{"year":2021,"income":280000},{"year":2022,"income":350000},{"year":2023,"income":280000},{"year":2024,"income":140000},{"year":2025,"income":280000}],"firms":["TARPLIN, DOWNS & YOUNG, LLC"],"lobbyists":["RAISSA DOWNS","JENNIFER YOUNG","ELIZABETH MURRAY","CHARLOTTE IVANCIC","PAMELA SMITH","EMILY MURRY","KIMBERLY BRANDT","MARGARET JOSEPH","PETER FISE","LAURA FRIEDEL","PARICK CARROLL"],"issues":["BUD","NAT","MMM","HCR","TAX",null],"sampleDescriptions":["Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018","H.R. 5278 - PROMESA, Puerto Rican debt restructuring and economic stabilization","Medicare Advantage call letter\nPuerto Rican health system stabilization\nMedicaid cliff, Medicaid bridge funding\nMedicare payment data proxies\nMedicare Advantage Benchmarks\nMedicare reimbursement\nDual eligibles\nMedicare Physician Payment, GPCI\nLow Income Subsidy\nHospital reimbursement\nMedPAC\nHurricane response\nESRD\nH.R. 3921 - Healthy Kids Act\nS. 1827 - Kids Act of 2017","Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nZika\nHurricane response\nEmergency Declaration","Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration","Medicare Advantage call letter\nPuerto Rican health system stabilization\nMedicaid cliff, Medicaid bridge funding\nMedicare payment data proxies\nMedicare Advantage Benchmarks\nMedicare reimbursement\nDual eligibles\nMedicare Physician Payment, GPCI\nLow Income Subsidy\nHospital reimbursement\nMedPAC\nHurricane response\nESRD","Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\n2019 Appropriations","Medicare Advantage call letter\nPuerto Rican health system stabilization\nMedicaid cliff, Medicaid bridge funding\nMedicare payment data proxies\nMedicare Advantage Benchmarks\nMedicare reimbursement\nDual eligibles\nMedicare Physician Payment, GPCI\nLow Income Subsidy\nHospital reimbursement\nMedPAC\nHurricane response\nESRD\nH.R. 6809 - PRIMA","Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\nH.R. 6157 - HHS appropriations and continuing resolution","Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\nH.R. 6157 - HHS appropriations and continuing resolution\nH.R. 695 - Department of Defense Appropriations Act","Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 2740 - HHS Appropriations, 2020","Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration\nH.R. 1398/S. 172 - Health Insurance Tax Relief of 2019\nS. 1895 - Lower Health Care Costs Act","Puerto Rican debt restructuring and economic stabilization","Medicare Advantage call letter\nPuerto Rican health system stabilization\nMedicaid cliff, Medicaid bridge funding\nMedicare payment data proxies\nMedicare Advantage Benchmarks\nMedicare reimbursement\nDual eligibles\nMedicare Physician Payment, GPCI\nLow Income Subsidy\nHospital reimbursement\nMedPAC\nHurricane response\nESRD\nH.R. 813 - PRIMA","Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration\nH.R. 1398/S. 172 - Health Insurance Tax Relief of 2019\nS. 1895 - Lower Health Care Costs Act\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act","Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 2740 - HHS Appropriations, 2020\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act","H.R. 1865 - Further Consolidated Appropriations Act, 2020","Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration\nH.R. 1398/S. 172 - Health Insurance Tax Relief of 2019\nS. 1895 - Lower Health Care Costs Act\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act\nH.R. 1865 - Further Consolidated Appropriations Act, 2020\nH.R. 3055 - Further Continuing Appropriations Act, 2020, and Further Health Extenders Act\nH.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act","Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act\nH.R. 1865 - Further Consolidated Appropriations Act, 2020\nH.R. 3055 - Further Continuing Appropriations Act, 2020, and Further Health Extenders Act","Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration\nH.R. 1398/S. 172 - Health Insurance Tax Relief of 2019\nS. 1895 - Lower Health Care Costs Act\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act\nH.R. 1865 - Further Consolidated Appropriations Act, 2020\nH.R. 3055 - Further Continuing Appropriations Act, 2020, and Further Health Extenders Act\nH.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act\nH.R. 6800 - The Heroes Act"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 181317,
+  "name": "TRIPLE-S MANAGEMENT CORPORATION",
+  "slug": "triple-s-management-corporation",
+  "state": "PR",
+  "description": "Insurance",
+  "totalSpending": 1960000,
+  "filings": 28,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 280000
+    },
+    {
+      "year": 2019,
+      "income": 140000
+    },
+    {
+      "year": 2020,
+      "income": 210000
+    },
+    {
+      "year": 2021,
+      "income": 280000
+    },
+    {
+      "year": 2022,
+      "income": 350000
+    },
+    {
+      "year": 2023,
+      "income": 280000
+    },
+    {
+      "year": 2024,
+      "income": 140000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "TARPLIN, DOWNS & YOUNG, LLC"
+  ],
+  "lobbyists": [
+    "RAISSA DOWNS",
+    "JENNIFER YOUNG",
+    "ELIZABETH MURRAY",
+    "CHARLOTTE IVANCIC",
+    "PAMELA SMITH",
+    "EMILY MURRY",
+    "KIMBERLY BRANDT",
+    "MARGARET JOSEPH",
+    "PETER FISE",
+    "LAURA FRIEDEL",
+    "PARICK CARROLL"
+  ],
+  "issues": [
+    "BUD",
+    "NAT",
+    "MMM",
+    "HCR",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018",
+    "H.R. 5278 - PROMESA, Puerto Rican debt restructuring and economic stabilization",
+    "Medicare Advantage call letter\nPuerto Rican health system stabilization\nMedicaid cliff, Medicaid bridge funding\nMedicare payment data proxies\nMedicare Advantage Benchmarks\nMedicare reimbursement\nDual eligibles\nMedicare Physician Payment, GPCI\nLow Income Subsidy\nHospital reimbursement\nMedPAC\nHurricane response\nESRD\nH.R. 3921 - Healthy Kids Act\nS. 1827 - Kids Act of 2017",
+    "Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nZika\nHurricane response\nEmergency Declaration",
+    "Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration",
+    "Medicare Advantage call letter\nPuerto Rican health system stabilization\nMedicaid cliff, Medicaid bridge funding\nMedicare payment data proxies\nMedicare Advantage Benchmarks\nMedicare reimbursement\nDual eligibles\nMedicare Physician Payment, GPCI\nLow Income Subsidy\nHospital reimbursement\nMedPAC\nHurricane response\nESRD",
+    "Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\n2019 Appropriations",
+    "Medicare Advantage call letter\nPuerto Rican health system stabilization\nMedicaid cliff, Medicaid bridge funding\nMedicare payment data proxies\nMedicare Advantage Benchmarks\nMedicare reimbursement\nDual eligibles\nMedicare Physician Payment, GPCI\nLow Income Subsidy\nHospital reimbursement\nMedPAC\nHurricane response\nESRD\nH.R. 6809 - PRIMA",
+    "Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\nH.R. 6157 - HHS appropriations and continuing resolution",
+    "Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 1625 - Consolidated Appropriations Act of 2018\nH.R. 1892 - Bipartisan Budget Act of 2018\nH.R. 6157 - HHS appropriations and continuing resolution\nH.R. 695 - Department of Defense Appropriations Act",
+    "Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 2740 - HHS Appropriations, 2020",
+    "Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration\nH.R. 1398/S. 172 - Health Insurance Tax Relief of 2019\nS. 1895 - Lower Health Care Costs Act",
+    "Puerto Rican debt restructuring and economic stabilization",
+    "Medicare Advantage call letter\nPuerto Rican health system stabilization\nMedicaid cliff, Medicaid bridge funding\nMedicare payment data proxies\nMedicare Advantage Benchmarks\nMedicare reimbursement\nDual eligibles\nMedicare Physician Payment, GPCI\nLow Income Subsidy\nHospital reimbursement\nMedPAC\nHurricane response\nESRD\nH.R. 813 - PRIMA",
+    "Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration\nH.R. 1398/S. 172 - Health Insurance Tax Relief of 2019\nS. 1895 - Lower Health Care Costs Act\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act",
+    "Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 2740 - HHS Appropriations, 2020\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act",
+    "H.R. 1865 - Further Consolidated Appropriations Act, 2020",
+    "Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration\nH.R. 1398/S. 172 - Health Insurance Tax Relief of 2019\nS. 1895 - Lower Health Care Costs Act\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act\nH.R. 1865 - Further Consolidated Appropriations Act, 2020\nH.R. 3055 - Further Continuing Appropriations Act, 2020, and Further Health Extenders Act\nH.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act",
+    "Budget resolution\nAppropriations, continuing resolution, emergency supplemental, hurricane relief\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act\nH.R. 1865 - Further Consolidated Appropriations Act, 2020\nH.R. 3055 - Further Continuing Appropriations Act, 2020, and Further Health Extenders Act",
+    "Puerto Rican health system stabilization, Medicaid funding\nHealth insurance tax\nHurricane response\nEmergency Declaration\nH.R. 1398/S. 172 - Health Insurance Tax Relief of 2019\nS. 1895 - Lower Health Care Costs Act\nH.R. 4378 - Continuing Appropriations Act and Health Extenders Act\nH.R. 1865 - Further Consolidated Appropriations Act, 2020\nH.R. 3055 - Further Continuing Appropriations Act, 2020, and Further Health Extenders Act\nH.R. 6074 - Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020\nH.R. 6201 - Families First Coronavirus Response Act\nS. 3548 - CARES Act\nH.R. 6800 - The Heroes Act"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 245000,
+  "peakYear": 2022,
+  "lobbyistCount": 11,
+  "firmCount": 1,
+  "issueCount": 5
+}

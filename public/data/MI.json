@@ -1,1 +1,329 @@
-{"abbreviation":"MI","name":"Michigan","totalSpending":170423828,"totalFilings":8918,"clientCount":557,"yearlySpending":[{"year":2018,"income":12891810},{"year":2019,"income":12918153},{"year":2020,"income":15032593},{"year":2021,"income":20460658},{"year":2022,"income":19476982},{"year":2023,"income":44167200},{"year":2024,"income":20359197},{"year":2025,"income":25117235}],"topClients":[{"name":"MR. JAY ALIX","income":6410000},{"name":"ROCK CENTRAL","income":4040000},{"name":"ZAMZAM CONSULTING LLC ON BEHALF OF GEORGE NADAR","income":4000000},{"name":"GENERAL MOTORS COMPANY","income":3550000},{"name":"ITC HOLDINGS CORPORATION","income":2720000},{"name":"DETROIT INTERNATIONAL BRIDGE COMPANY, INC.","income":2720000},{"name":"STRYKER CORPORATION","income":2310000},{"name":"ALTICOR, INC.","income":2160000},{"name":"DOMINO'S NATIONAL ADVERTISING FUND INC","income":2070000},{"name":"ZOETIS","income":2030000},{"name":"SAGINAW CHIPPEWA INDIAN TRIBE OF MICHIGAN","income":2008000},{"name":"NATIONAL ASSOCIATION OF RURAL HEALTH CLINICS","income":1820000},{"name":"ACP TECHNOLOGIES, LLC","income":1740000},{"name":"CONSORTIUM OF STATE MARITIME ACADEMIES","income":1730000},{"name":"MATCH-E-BE-NASH-SHE-WISH BAND OF POTTAWATOMI INDIANS (GUN LAKE TRIBE)","income":1690000},{"name":"FORD MOTOR COMPANY","income":1640000},{"name":"PERRIGO COMPANY PLC","income":1610000},{"name":"NATIONAL CENTER FOR MANUFACTURING SCIENCES","income":1590000},{"name":"JACKSON NATIONAL LIFE INSURANCE COMPANY","income":1550000},{"name":"FCA US LLC","income":1540000},{"name":"CMS ENERGY CORP","income":1490000},{"name":"FLAGSTAR BANK","income":1440000},{"name":"GHOSTWORKS MARINE","income":1430000},{"name":"TRINITY HEALTH","income":1400000},{"name":"MICHIGAN SUGAR COMPANY","income":1400000},{"name":"MICHIGAN RESEARCH INSTITUTE","income":1390000},{"name":"HENRY FORD HEALTH SYSTEM","income":1350000},{"name":"GM DEFENSE, LLC","income":1330000},{"name":"WK KELLOGG CO (FKA KELLOGG COMPANY)","income":1270000},{"name":"QUICKEN LOANS","income":1260000},{"name":"MASCO CORPORATION","income":1240000},{"name":"LEARNING CARE GROUP","income":1210000},{"name":"STEELCASE, INC.","income":1200000},{"name":"S&P GLOBAL MOBILITY (FORMERLY KNOWN AS IHS MARKIT D/B/A R.L. POLK & CO.)","income":1200000},{"name":"HUMANETICS INNOVATIVE SOLUTIONS","income":1185000},{"name":"SAMSUNG SDI AMERICA, INC","income":1150000},{"name":"MICHIGAN TECHNOLOGICAL UNIVERSITY","income":1144000},{"name":"RIVEER","income":1140000},{"name":"MIDLAND BUSINESS ALLIANCE","income":1140000},{"name":"BORGWARNER, INC.","income":1120000},{"name":"AMERICAN SUNTANNING ASSOCIATION","income":1105000},{"name":"WAYNE STATE UNIVERSITY","income":1090000},{"name":"POKAGON BAND OF POTAWATOMI","income":1090000},{"name":"CITY OF DETROIT","income":1050000},{"name":"HARMAN INTERNATIONAL INDUSTRIES, INC.","income":1050000},{"name":"WESTERN MICHIGAN UNIVERSITY","income":1000000},{"name":"DTE ENERGY","income":970000},{"name":"INTERNATIONAL HEARING SOCIETY","income":910000},{"name":"MASTRONARDI PRODUCE-USA, INC.","income":900000},{"name":"MICHIGAN HEALTH & HOSPITAL ASSOCIATION","income":865000}],"topIssues":[{"code":"BUD","income":31225400},{"code":"DEF","income":23401400},{"code":"TAX","income":23024500},{"code":"HCR","income":19787000},{"code":"TRD","income":11160305},{"code":"ENG","income":10964000},{"code":"TRA","income":10265000},{"code":"MAN","income":9871653},{"code":"MMM","income":8584500},{"code":"AUT","income":8362000},{"code":"EDU","income":7215000},{"code":"IND","income":7076000},{"code":"HOU","income":6538000},{"code":"FIN","income":6487000},{"code":"AGR","income":5761000},{"code":"LAW","income":5373000},{"code":"BNK","income":5200000},{"code":"CSP","income":5010000},{"code":"LBR","income":4743500},{"code":"SCI","income":4429400}]}
+{
+  "abbreviation": "MI",
+  "name": "Michigan",
+  "totalSpending": 170423828,
+  "totalFilings": 8918,
+  "clientCount": 557,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 12891810
+    },
+    {
+      "year": 2019,
+      "income": 12918153
+    },
+    {
+      "year": 2020,
+      "income": 15032593
+    },
+    {
+      "year": 2021,
+      "income": 20460658
+    },
+    {
+      "year": 2022,
+      "income": 19476982
+    },
+    {
+      "year": 2023,
+      "income": 44167200
+    },
+    {
+      "year": 2024,
+      "income": 20359197
+    },
+    {
+      "year": 2025,
+      "income": 25117235
+    }
+  ],
+  "topClients": [
+    {
+      "name": "MR. JAY ALIX",
+      "income": 6410000
+    },
+    {
+      "name": "ROCK CENTRAL",
+      "income": 4040000
+    },
+    {
+      "name": "ZAMZAM CONSULTING LLC ON BEHALF OF GEORGE NADAR",
+      "income": 4000000
+    },
+    {
+      "name": "GENERAL MOTORS COMPANY",
+      "income": 3550000
+    },
+    {
+      "name": "ITC HOLDINGS CORPORATION",
+      "income": 2720000
+    },
+    {
+      "name": "DETROIT INTERNATIONAL BRIDGE COMPANY, INC.",
+      "income": 2720000
+    },
+    {
+      "name": "STRYKER CORPORATION",
+      "income": 2310000
+    },
+    {
+      "name": "ALTICOR, INC.",
+      "income": 2160000
+    },
+    {
+      "name": "DOMINO'S NATIONAL ADVERTISING FUND INC",
+      "income": 2070000
+    },
+    {
+      "name": "ZOETIS",
+      "income": 2030000
+    },
+    {
+      "name": "SAGINAW CHIPPEWA INDIAN TRIBE OF MICHIGAN",
+      "income": 2008000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF RURAL HEALTH CLINICS",
+      "income": 1820000
+    },
+    {
+      "name": "ACP TECHNOLOGIES, LLC",
+      "income": 1740000
+    },
+    {
+      "name": "CONSORTIUM OF STATE MARITIME ACADEMIES",
+      "income": 1730000
+    },
+    {
+      "name": "MATCH-E-BE-NASH-SHE-WISH BAND OF POTTAWATOMI INDIANS (GUN LAKE TRIBE)",
+      "income": 1690000
+    },
+    {
+      "name": "FORD MOTOR COMPANY",
+      "income": 1640000
+    },
+    {
+      "name": "PERRIGO COMPANY PLC",
+      "income": 1610000
+    },
+    {
+      "name": "NATIONAL CENTER FOR MANUFACTURING SCIENCES",
+      "income": 1590000
+    },
+    {
+      "name": "JACKSON NATIONAL LIFE INSURANCE COMPANY",
+      "income": 1550000
+    },
+    {
+      "name": "FCA US LLC",
+      "income": 1540000
+    },
+    {
+      "name": "CMS ENERGY CORP",
+      "income": 1490000
+    },
+    {
+      "name": "FLAGSTAR BANK",
+      "income": 1440000
+    },
+    {
+      "name": "GHOSTWORKS MARINE",
+      "income": 1430000
+    },
+    {
+      "name": "TRINITY HEALTH",
+      "income": 1400000
+    },
+    {
+      "name": "MICHIGAN SUGAR COMPANY",
+      "income": 1400000
+    },
+    {
+      "name": "MICHIGAN RESEARCH INSTITUTE",
+      "income": 1390000
+    },
+    {
+      "name": "HENRY FORD HEALTH SYSTEM",
+      "income": 1350000
+    },
+    {
+      "name": "GM DEFENSE, LLC",
+      "income": 1330000
+    },
+    {
+      "name": "WK KELLOGG CO (FKA KELLOGG COMPANY)",
+      "income": 1270000
+    },
+    {
+      "name": "QUICKEN LOANS",
+      "income": 1260000
+    },
+    {
+      "name": "MASCO CORPORATION",
+      "income": 1240000
+    },
+    {
+      "name": "LEARNING CARE GROUP",
+      "income": 1210000
+    },
+    {
+      "name": "STEELCASE, INC.",
+      "income": 1200000
+    },
+    {
+      "name": "S&P GLOBAL MOBILITY (FORMERLY KNOWN AS IHS MARKIT D/B/A R.L. POLK & CO.)",
+      "income": 1200000
+    },
+    {
+      "name": "HUMANETICS INNOVATIVE SOLUTIONS",
+      "income": 1185000
+    },
+    {
+      "name": "SAMSUNG SDI AMERICA, INC",
+      "income": 1150000
+    },
+    {
+      "name": "MICHIGAN TECHNOLOGICAL UNIVERSITY",
+      "income": 1144000
+    },
+    {
+      "name": "RIVEER",
+      "income": 1140000
+    },
+    {
+      "name": "MIDLAND BUSINESS ALLIANCE",
+      "income": 1140000
+    },
+    {
+      "name": "BORGWARNER, INC.",
+      "income": 1120000
+    },
+    {
+      "name": "AMERICAN SUNTANNING ASSOCIATION",
+      "income": 1105000
+    },
+    {
+      "name": "WAYNE STATE UNIVERSITY",
+      "income": 1090000
+    },
+    {
+      "name": "POKAGON BAND OF POTAWATOMI",
+      "income": 1090000
+    },
+    {
+      "name": "CITY OF DETROIT",
+      "income": 1050000
+    },
+    {
+      "name": "HARMAN INTERNATIONAL INDUSTRIES, INC.",
+      "income": 1050000
+    },
+    {
+      "name": "WESTERN MICHIGAN UNIVERSITY",
+      "income": 1000000
+    },
+    {
+      "name": "DTE ENERGY",
+      "income": 970000
+    },
+    {
+      "name": "INTERNATIONAL HEARING SOCIETY",
+      "income": 910000
+    },
+    {
+      "name": "MASTRONARDI PRODUCE-USA, INC.",
+      "income": 900000
+    },
+    {
+      "name": "MICHIGAN HEALTH & HOSPITAL ASSOCIATION",
+      "income": 865000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 31225400
+    },
+    {
+      "code": "DEF",
+      "income": 23401400
+    },
+    {
+      "code": "TAX",
+      "income": 23024500
+    },
+    {
+      "code": "HCR",
+      "income": 19787000
+    },
+    {
+      "code": "TRD",
+      "income": 11160305
+    },
+    {
+      "code": "ENG",
+      "income": 10964000
+    },
+    {
+      "code": "TRA",
+      "income": 10265000
+    },
+    {
+      "code": "MAN",
+      "income": 9871653
+    },
+    {
+      "code": "MMM",
+      "income": 8584500
+    },
+    {
+      "code": "AUT",
+      "income": 8362000
+    },
+    {
+      "code": "EDU",
+      "income": 7215000
+    },
+    {
+      "code": "IND",
+      "income": 7076000
+    },
+    {
+      "code": "HOU",
+      "income": 6538000
+    },
+    {
+      "code": "FIN",
+      "income": 6487000
+    },
+    {
+      "code": "AGR",
+      "income": 5761000
+    },
+    {
+      "code": "LAW",
+      "income": 5373000
+    },
+    {
+      "code": "BNK",
+      "income": 5200000
+    },
+    {
+      "code": "CSP",
+      "income": 5010000
+    },
+    {
+      "code": "LBR",
+      "income": 4743500
+    },
+    {
+      "code": "SCI",
+      "income": 4429400
+    }
+  ],
+  "perCapita": 23.42,
+  "population": 10037261,
+  "nationalRank": 22,
+  "perCapitaRank": 40
+}

@@ -1,1 +1,95 @@
-{"id":197434,"name":"EQUITABLE HOLDINGS (FORMERLY KNOW AS AXA FINANCIAL/EQUITABLE LIFE ASSURANCE","slug":"equitable-holdings-formerly-know-as-axa-financial-equitable-life-assurance","state":"NY","description":"Insurance and Financial Services","totalSpending":1710000,"filings":29,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":300000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":180000},{"year":2025,"income":30000}],"firms":["FTI GOVERNMENT AFFAIRS"],"lobbyists":["THOMAS CRAWFORD","ROLAND LITTERST","DAVID ROBERTSON","KYLE CORMNEY","SCOTT STYLES"],"issues":["FIN","TAX",null,"LBR"],"sampleDescriptions":["Fiduciary standards for life insurance agents and federal insurance office. DOL rule on fiduciary standards. Capital standards for the insurance industry.","Monitor issues as they relate to the implementation of tax reform.","Monitor issues as they relate to the insurance industry.","Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT.","Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT. Monitor issues as they relate to the taxation of retirement security.","Monitor issues as they relate to the insurance industry. Regulation best interest.","Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT. Monitor issues as they relate to the taxation of retirement security. Monitor issues related to the SECURE Act, H.R. 1994.","Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT. Monitor issues as they relate to the taxation of retirement security. Monitor issues related to the SECURE Act, H.R. 1994. \nMonitor issued related to Retirement Security Savings Act of 2019.  S. 1431.\nMonitor issues related to the Public Service Retirement Fairness Act.  HR 6257","Monitor issues as they relate to the insurance industry. Regulation best interest","Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT. Monitor issues as they relate to the taxation of retirement security. Monitor issues related to the SECURE Act, H.R. 1994. Monitor issues related to Retirement Security Savings Act of 2019. S. 1431. Monitor issues related to the Public Service Retirement Fairness Act. HR 6257.","Monitor issues as they relate to federal taxation. Statutory corporate tax rates, deferred acquisition costs, and tax treatment of life insurance reserves.  Monitor issues related to the Public Service Retirement Fairness Act. HR 6257","Monitor issues related to tax stabilization proposal of the life insurance industry.","Monitor issues related federal taxation of the insurance and retirement industry.","Monitor issues related federal taxation of the life insurance and retirement industry.","Monitor issues as relate to the insurance industry regulation best interest, Monitor issues as relate to Department of Labor fiduciary rule activity."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 197434,
+  "name": "EQUITABLE HOLDINGS (FORMERLY KNOW AS AXA FINANCIAL/EQUITABLE LIFE ASSURANCE",
+  "slug": "equitable-holdings-formerly-know-as-axa-financial-equitable-life-assurance",
+  "state": "NY",
+  "description": "Insurance and Financial Services",
+  "totalSpending": 1710000,
+  "filings": 29,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 300000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 180000
+    },
+    {
+      "year": 2025,
+      "income": 30000
+    }
+  ],
+  "firms": [
+    "FTI GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "THOMAS CRAWFORD",
+    "ROLAND LITTERST",
+    "DAVID ROBERTSON",
+    "KYLE CORMNEY",
+    "SCOTT STYLES"
+  ],
+  "issues": [
+    "FIN",
+    "TAX",
+    null,
+    "LBR"
+  ],
+  "sampleDescriptions": [
+    "Fiduciary standards for life insurance agents and federal insurance office. DOL rule on fiduciary standards. Capital standards for the insurance industry.",
+    "Monitor issues as they relate to the implementation of tax reform.",
+    "Monitor issues as they relate to the insurance industry.",
+    "Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT.",
+    "Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT. Monitor issues as they relate to the taxation of retirement security.",
+    "Monitor issues as they relate to the insurance industry. Regulation best interest.",
+    "Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT. Monitor issues as they relate to the taxation of retirement security. Monitor issues related to the SECURE Act, H.R. 1994.",
+    "Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT. Monitor issues as they relate to the taxation of retirement security. Monitor issues related to the SECURE Act, H.R. 1994. \nMonitor issued related to Retirement Security Savings Act of 2019.  S. 1431.\nMonitor issues related to the Public Service Retirement Fairness Act.  HR 6257",
+    "Monitor issues as they relate to the insurance industry. Regulation best interest",
+    "Monitor issues as they relate to the implementation of tax reform. Monitor issues as they relate to the repeal of the corporate AMT. Monitor issues as they relate to the taxation of retirement security. Monitor issues related to the SECURE Act, H.R. 1994. Monitor issues related to Retirement Security Savings Act of 2019. S. 1431. Monitor issues related to the Public Service Retirement Fairness Act. HR 6257.",
+    "Monitor issues as they relate to federal taxation. Statutory corporate tax rates, deferred acquisition costs, and tax treatment of life insurance reserves.  Monitor issues related to the Public Service Retirement Fairness Act. HR 6257",
+    "Monitor issues related to tax stabilization proposal of the life insurance industry.",
+    "Monitor issues related federal taxation of the insurance and retirement industry.",
+    "Monitor issues related federal taxation of the life insurance and retirement industry.",
+    "Monitor issues as relate to the insurance industry regulation best interest, Monitor issues as relate to Department of Labor fiduciary rule activity."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -87,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 213750,
+  "peakYear": 2021,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "finance"
+}

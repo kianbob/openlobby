@@ -1,1 +1,111 @@
-{"id":104635,"name":"CHILDRENS HEALTH SYSTEM OF TEXAS","slug":"childrens-health-system-of-texas","state":"TX","description":"Childrens hospital","totalSpending":1970000,"filings":22,"yearlySpending":[{"year":2018,"income":80000},{"year":2019,"income":180000},{"year":2020,"income":90000},{"year":2021,"income":360000},{"year":2022,"income":270000},{"year":2023,"income":360000},{"year":2024,"income":360000},{"year":2025,"income":270000}],"firms":["ARNOLD & PORTER KAYE SCHOLER LLP"],"lobbyists":["EUGENIA PIERSON","KRISTINE BLACKWOOD","PARI MODY","HALEY MEYERS","ROXANA BOYD","CJ MAHLER","KEVIN O'NEILL","MICKAYLA STOGSDILL","CASEY BROUHARD","BOBBY MCMILLIN","GRACE BANFIELD","NATALIE TIETJEN","DOROTHY ISGUR","KATIE BROWN","SONJA NESBIT","CAROLINE OLIVER"],"issues":["MMM","BUD","HCR",null],"sampleDescriptions":["Issues related to Section 1115 Medicaid Delivery System Reform Incentive Payment (DSRIP) Waiver, Medicaid Disproportionate Share Hospital (DSH) Payments, and other pediatric health issues including H.R. 3325 ACE Kids Act regarding Health Home services for medically complex children.","Issues related to Children's Hospitals Graduate Medical Education (CHGME) annual funding, as well as other pediatric health funding issues.","Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), Disproportionate Share Hospital (DSH) payments, medical education, and other pediatric health issues.","Issues related to Medicaid Disproportionate Share Hospital (DSH) Payments, and other pediatric health issues including H.R.1839 - Medicaid Services Investment and Accountability Act of 2019 in regards to Health Home services for medically complex children.","Issues related to Medicaid, coordinate care model for children's health, telehealth, Children's Health Insurance Program (CHIP), Disproportionate Share Hospital (DSH) payments, surprise medical billing, medical education, and other pediatric health issues.","Issues related to Medicaid Disproportionate Share Hospital (DSH) Payments, and other pediatric health issues. Prescription Drug Pricing Reduction Act (S. 2543). Elijah E. Cummings Lower Drug Costs Now Act (H.R. 3).","Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), Disproportionate Share Hospital (DSH) Payments, surprise medical billing, medical education, high cost specialty drugs, and other pediatric health issues. Prescription Drug Pricing Reduction Act (S. 2543). Elijah E. Cummings Lower Drug Costs Now Act (H.R. 3).","Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), Disproportionate Share Hospital (DSH) Payments, surprise medical billing, medical education, high cost specialty drugs, and other pediatric health issues. Policy issues related to hospital funding and the federal response to the COVID-19 virus, including the CARES Act (H.R. 748). Prescription Drug Pricing Reduction Act (S. 2543). Elijah E. Cummings Lower Drug Costs Now Act (H.R. 3).","Issues related to Medicaid Disproportionate Share Hospital (DSH) Payments, and other pediatric health issues. Policy issues related to hospital funding and the federal response to the COVID-19 virus, the CARES Act (H.R. 748). Prescription Drug Pricing Reduction Act (S. 2543). Elijah E. Cummings Lower Drug Costs Now Act (H.R. 3).","Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), medical education, high cost specialty drugs, and other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus, including in the American Rescue Plan Act (H.R. 1319). Issues related to the Provider Relief Fund established by the CARES Act (Pub.L. 116-136).","Federal funding support for childrens hospitals including Children's Hospital Graduate Medical Education (CHGME) program, telehealth, and pediatric research; including the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act and the American Rescue Plan Act (H.R. 1319). Issues related to the Provider Relief Fund established by the CARES Act (Pub.L. 116-136).","Issues related to Medicaid and other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus, including in the American Rescue Plan Act (H.R. 1319).","Federal funding support for childrens hospitals including Children's Hospital Graduate Medical Education (CHGME) program, telehealth, and pediatric research; including the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, and the American Rescue Plan Act (H.R. 1319). Issues related to the Provider Relief Fund established by the CARES Act (Pub.L. 116-136). Children's Health's Congressionally Directed Spending requests regarding pediatric mental health.","Issues related to Medicaid and other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus, including in the American Rescue Plan Act (H.R. 1319). Issues regarding Texas' Medicaid 1115 Waiver.","Federal funding support for childrens hospitals including Children's Hospital Graduate Medical Education (CHGME) program, telehealth, and pediatric research; including the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act (H.R. 4502). Issues related to the Provider Relief Fund established by the CARES Act (P.L. 116-136). Children's Health's Congressionally Directed Spending requests regarding pediatric mental health.","Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), medical education, high-cost specialty drugs, other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to the Provider Relief Fund established by the CARES Act (P.L. 116-136). Issues related to the Build Back Better Act (H.R. 5376).","Issues related to Medicaid and other pediatric health issues. Issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to Texas' Medicaid 1115 Waiver. Issues related to the Build Back Better Act (H.R. 5376).","Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), medical education, high-cost specialty drugs, pediatric mental health, other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to the Provider Relief Fund established by the CARES Act (P.L. 116-136). Issues related to the Build Back Better Act (H.R. 5376).","Issues related to Medicaid and other pediatric health issues. Issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to Texas' Medicaid 1115 Waiver and Supplemental Payment and Directed Payment Programs. Issues related to the Build Back Better Act (H.R. 5376).","Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), medical education, high-cost specialty drugs, pediatric mental health, other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to the Provider Relief Fund established by the CARES Act (P.L. 116-136)."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 104635,
+  "name": "CHILDRENS HEALTH SYSTEM OF TEXAS",
+  "slug": "childrens-health-system-of-texas",
+  "state": "TX",
+  "description": "Childrens hospital",
+  "totalSpending": 1970000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 80000
+    },
+    {
+      "year": 2019,
+      "income": 180000
+    },
+    {
+      "year": 2020,
+      "income": 90000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 270000
+    },
+    {
+      "year": 2023,
+      "income": 360000
+    },
+    {
+      "year": 2024,
+      "income": 360000
+    },
+    {
+      "year": 2025,
+      "income": 270000
+    }
+  ],
+  "firms": [
+    "ARNOLD & PORTER KAYE SCHOLER LLP"
+  ],
+  "lobbyists": [
+    "EUGENIA PIERSON",
+    "KRISTINE BLACKWOOD",
+    "PARI MODY",
+    "HALEY MEYERS",
+    "ROXANA BOYD",
+    "CJ MAHLER",
+    "KEVIN O'NEILL",
+    "MICKAYLA STOGSDILL",
+    "CASEY BROUHARD",
+    "BOBBY MCMILLIN",
+    "GRACE BANFIELD",
+    "NATALIE TIETJEN",
+    "DOROTHY ISGUR",
+    "KATIE BROWN",
+    "SONJA NESBIT",
+    "CAROLINE OLIVER"
+  ],
+  "issues": [
+    "MMM",
+    "BUD",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to Section 1115 Medicaid Delivery System Reform Incentive Payment (DSRIP) Waiver, Medicaid Disproportionate Share Hospital (DSH) Payments, and other pediatric health issues including H.R. 3325 ACE Kids Act regarding Health Home services for medically complex children.",
+    "Issues related to Children's Hospitals Graduate Medical Education (CHGME) annual funding, as well as other pediatric health funding issues.",
+    "Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), Disproportionate Share Hospital (DSH) payments, medical education, and other pediatric health issues.",
+    "Issues related to Medicaid Disproportionate Share Hospital (DSH) Payments, and other pediatric health issues including H.R.1839 - Medicaid Services Investment and Accountability Act of 2019 in regards to Health Home services for medically complex children.",
+    "Issues related to Medicaid, coordinate care model for children's health, telehealth, Children's Health Insurance Program (CHIP), Disproportionate Share Hospital (DSH) payments, surprise medical billing, medical education, and other pediatric health issues.",
+    "Issues related to Medicaid Disproportionate Share Hospital (DSH) Payments, and other pediatric health issues. Prescription Drug Pricing Reduction Act (S. 2543). Elijah E. Cummings Lower Drug Costs Now Act (H.R. 3).",
+    "Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), Disproportionate Share Hospital (DSH) Payments, surprise medical billing, medical education, high cost specialty drugs, and other pediatric health issues. Prescription Drug Pricing Reduction Act (S. 2543). Elijah E. Cummings Lower Drug Costs Now Act (H.R. 3).",
+    "Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), Disproportionate Share Hospital (DSH) Payments, surprise medical billing, medical education, high cost specialty drugs, and other pediatric health issues. Policy issues related to hospital funding and the federal response to the COVID-19 virus, including the CARES Act (H.R. 748). Prescription Drug Pricing Reduction Act (S. 2543). Elijah E. Cummings Lower Drug Costs Now Act (H.R. 3).",
+    "Issues related to Medicaid Disproportionate Share Hospital (DSH) Payments, and other pediatric health issues. Policy issues related to hospital funding and the federal response to the COVID-19 virus, the CARES Act (H.R. 748). Prescription Drug Pricing Reduction Act (S. 2543). Elijah E. Cummings Lower Drug Costs Now Act (H.R. 3).",
+    "Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), medical education, high cost specialty drugs, and other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus, including in the American Rescue Plan Act (H.R. 1319). Issues related to the Provider Relief Fund established by the CARES Act (Pub.L. 116-136).",
+    "Federal funding support for childrens hospitals including Children's Hospital Graduate Medical Education (CHGME) program, telehealth, and pediatric research; including the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act and the American Rescue Plan Act (H.R. 1319). Issues related to the Provider Relief Fund established by the CARES Act (Pub.L. 116-136).",
+    "Issues related to Medicaid and other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus, including in the American Rescue Plan Act (H.R. 1319).",
+    "Federal funding support for childrens hospitals including Children's Hospital Graduate Medical Education (CHGME) program, telehealth, and pediatric research; including the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, and the American Rescue Plan Act (H.R. 1319). Issues related to the Provider Relief Fund established by the CARES Act (Pub.L. 116-136). Children's Health's Congressionally Directed Spending requests regarding pediatric mental health.",
+    "Issues related to Medicaid and other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus, including in the American Rescue Plan Act (H.R. 1319). Issues regarding Texas' Medicaid 1115 Waiver.",
+    "Federal funding support for childrens hospitals including Children's Hospital Graduate Medical Education (CHGME) program, telehealth, and pediatric research; including the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act (H.R. 4502). Issues related to the Provider Relief Fund established by the CARES Act (P.L. 116-136). Children's Health's Congressionally Directed Spending requests regarding pediatric mental health.",
+    "Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), medical education, high-cost specialty drugs, other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to the Provider Relief Fund established by the CARES Act (P.L. 116-136). Issues related to the Build Back Better Act (H.R. 5376).",
+    "Issues related to Medicaid and other pediatric health issues. Issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to Texas' Medicaid 1115 Waiver. Issues related to the Build Back Better Act (H.R. 5376).",
+    "Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), medical education, high-cost specialty drugs, pediatric mental health, other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to the Provider Relief Fund established by the CARES Act (P.L. 116-136). Issues related to the Build Back Better Act (H.R. 5376).",
+    "Issues related to Medicaid and other pediatric health issues. Issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to Texas' Medicaid 1115 Waiver and Supplemental Payment and Directed Payment Programs. Issues related to the Build Back Better Act (H.R. 5376).",
+    "Issues related to Medicaid, coordinated care model for children's health, telehealth, Children's Health Insurance Program (CHIP), medical education, high-cost specialty drugs, pediatric mental health, other pediatric health issues, and policy issues related to hospital funding and the federal response to the COVID-19 virus. Issues related to the Provider Relief Fund established by the CARES Act (P.L. 116-136)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 238,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 246250,
+  "peakYear": 2021,
+  "lobbyistCount": 16,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "healthcare"
+}

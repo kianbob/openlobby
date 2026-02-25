@@ -1,1 +1,83 @@
-{"id":115251,"name":"NORTHROP GRUMMAN","slug":"northrop-grumman","state":"VA","description":"Aerospace & Defense","totalSpending":2080000,"filings":25,"yearlySpending":[{"year":2018,"income":480000},{"year":2019,"income":390000},{"year":2020,"income":400000},{"year":2021,"income":280000},{"year":2022,"income":290000},{"year":2023,"income":240000}],"firms":["COVINGTON & BURLING LLP"],"lobbyists":["ROGER ZAKHEIM","MUFTIAH MCCARTIN","JEFFREY BOZMAN","ED MCCLELLAN","ZACHARY MEARS","LAYTH ELHASSANI","GABRIEL NEVILLE","NICHOLAS XENAKIS"],"issues":["DEF","TAX",null],"sampleDescriptions":["Support for B-21 - Bomber","Implementation of the Tax Cuts & Jobs Act of 2017.","Support for B-21; next-generation OPIR","Support for B-21; next-generation OPIR and GBSD","Support for B-21, next-generation OPIR, and GBSD","Support for B-21 and GBSD","Modification of I.R.C. sec. 174, as amended by the Tax Cuts and Jobs Act of 2017.","Support for B-21 and GBSD.","Modification of I.R.C. sec. 174, as amended by the Tax Cuts and Jobs Act of 2017; H.R. 1304, American Innovation and R&D Competitiveness Act of 2021; S. 749, American Innovation and Jobs Act; and H.R. 5376, Build Back Better Act.","Modification of I.R.C. sec. 174, as amended by the Tax Cuts and Jobs Act of 2017; H.R. 1304, American Innovation and R&D Competitiveness Act of 2021; S. 749, American Innovation and Jobs Act; and H.R. 5376, Inflation Reduction Act of 2022; H.R. 4346, CHIPS Act of 2022.","Modification of I.R.C. sec. 174, as amended by the Tax Cuts and Jobs Act of 2017; H.R. 1304, American Innovation and R&D Competitiveness Act of 2021; S. 749, American Innovation and Jobs Act; H.R. 2617, Consolidated Appropriations Act, 2023."],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 115251,
+  "name": "NORTHROP GRUMMAN",
+  "slug": "northrop-grumman",
+  "state": "VA",
+  "description": "Aerospace & Defense",
+  "totalSpending": 2080000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 480000
+    },
+    {
+      "year": 2019,
+      "income": 390000
+    },
+    {
+      "year": 2020,
+      "income": 400000
+    },
+    {
+      "year": 2021,
+      "income": 280000
+    },
+    {
+      "year": 2022,
+      "income": 290000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "COVINGTON & BURLING LLP"
+  ],
+  "lobbyists": [
+    "ROGER ZAKHEIM",
+    "MUFTIAH MCCARTIN",
+    "JEFFREY BOZMAN",
+    "ED MCCLELLAN",
+    "ZACHARY MEARS",
+    "LAYTH ELHASSANI",
+    "GABRIEL NEVILLE",
+    "NICHOLAS XENAKIS"
+  ],
+  "issues": [
+    "DEF",
+    "TAX",
+    null
+  ],
+  "sampleDescriptions": [
+    "Support for B-21 - Bomber",
+    "Implementation of the Tax Cuts & Jobs Act of 2017.",
+    "Support for B-21; next-generation OPIR",
+    "Support for B-21; next-generation OPIR and GBSD",
+    "Support for B-21, next-generation OPIR, and GBSD",
+    "Support for B-21 and GBSD",
+    "Modification of I.R.C. sec. 174, as amended by the Tax Cuts and Jobs Act of 2017.",
+    "Support for B-21 and GBSD.",
+    "Modification of I.R.C. sec. 174, as amended by the Tax Cuts and Jobs Act of 2017; H.R. 1304, American Innovation and R&D Competitiveness Act of 2021; S. 749, American Innovation and Jobs Act; and H.R. 5376, Build Back Better Act.",
+    "Modification of I.R.C. sec. 174, as amended by the Tax Cuts and Jobs Act of 2017; H.R. 1304, American Innovation and R&D Competitiveness Act of 2021; S. 749, American Innovation and Jobs Act; and H.R. 5376, Inflation Reduction Act of 2022; H.R. 4346, CHIPS Act of 2022.",
+    "Modification of I.R.C. sec. 174, as amended by the Tax Cuts and Jobs Act of 2017; H.R. 1304, American Innovation and R&D Competitiveness Act of 2021; S. 749, American Innovation and Jobs Act; H.R. 2617, Consolidated Appropriations Act, 2023."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": -50,
+  "trajectory": "reducing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 346667,
+  "peakYear": 2018,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "defense"
+}

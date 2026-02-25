@@ -1,1 +1,100 @@
-{"id":184941,"name":"DANONE NORTH AMERICA PUBLIC BENEFIT CORPORATION","slug":"danone-north-america-public-benefit-corporation","state":"NY","description":"Food and beverage company","totalSpending":1560000,"filings":25,"yearlySpending":[{"year":2019,"income":120000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":180000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":300000}],"firms":["INVARIANT LLC"],"lobbyists":["ANNE MACMILLAN","LANDON STROPKO","KATHRYN WISE","EMILY PATROLIA","TIMOTHY MARTIN","ANNABELL STOKES","ADAM TARR","DANIELLE BECK","KENNETH BARBIC","WILLIAM SITTON"],"issues":["AGR","ENV","FOO","HCR",null],"sampleDescriptions":["Monitor issues related to organic agriculture, including integrity and enforcement standards; farm bill implementation for organic and conservation programs for sustainable agriculture; dairy policy; and agriculture appropriations in H.R. 3055 / S. 2584, the Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020.","Educating Members of Congress on reducing greenhouse gas emissions such as through conservation farming methods including improving soil health practices.","Monitor labeling of plant-based and dairy products; engage with USDA on issues pertaining to federal nutrition advice related to the 2020 Dietary Guidelines for Americans.","Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy.  Monitor issues related to organic agriculture, including farm bill implementation for organic and conservation programs for sustainable agriculture; dairy policy; and agriculture appropriations in H.R. 3055 / S. 2584, the Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020.","Monitor labeling of plant-based and dairy products; engage with USDA on issues pertaining to federal nutrition advice related to the 2020 Dietary Guidelines for Americans and the WIC program.","Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy.  Monitor issues related to organic agriculture, including farm bill implementation for organic and conservation programs for sustainable agriculture; dairy policy; and agriculture appropriations.","Monitor labeling of plant-based and dairy products; engage with USDA on issues pertaining to federal nutrition advice related to the 2020 Dietary Guidelines for Americans and the WIC program; support efforts to reauthorize legislation related to Child Nutrition Programs; educate Members about the food industry's response to COVID-19, with a focus on the dairy industry and the supply chain.","Educate Members of Congress on reducing greenhouse gas emissions through conservation farming methods including improving soil health practices.","Monitor labeling of plant-based and dairy products; engage with USDA on issues pertaining to federal nutrition advice related to the 2020 Dietary Guidelines for Americans and the WIC program; educate Members on the dairy industry supply chain response to COVID-19.","Educate policymakers about medical foods and the benefits of H.R. 2501 / S. 3657, the Medical Nutrition Equity Act of 2020.","Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy; monitor issues related to organic agriculture, including farm bill implementation for organic and conservation programs for sustainable agriculture; dairy policy; and agriculture appropriations.","Monitor labeling of plant-based and dairy products; educate Members on the dairy industry supply chain response to COVID-19; monitor and discuss nutrition policies with policymakers, including the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), Supplemental Nutrition Assistance Program (SNAP), and other nutrition programs for students and children.","Educate policymakers about the benefits of medical foods.","Monitor labeling of plant-based and dairy products; monitor and discuss nutrition policies with policymakers, including the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), Supplemental Nutrition Assistance Program (SNAP), and other nutrition programs for students and children.","Educate Members of Congress on reducing greenhouse gas emissions through conservation farming methods, including improving soil health practices. Advise on production practices that decrease the levels of naturally occurring heavy metals that arise in baby foods.","Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy; monitor issues related to organic agriculture; dairy policy; and agriculture appropriations.","Educate policymakers about the benefits of medical foods, including H.R.3783/S.2013, Medical Nutrition Equity Act of 2021.","Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy; monitor issues related to organic agriculture; dairy policy; and agriculture appropriations; engage with the Department of Agriculture on the Partnerships for Climate-Smart Commodities program.","Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy; monitor issues related to organic agriculture; dairy policy; and agriculture appropriations. Engage with the Department of Agriculture on the Partnerships for Climate-Smart Commodities program.","Educate policymakers about the benefits of medical foods, including H.R.3783/S.2013, Medical Nutrition Equity Act of 2021, and the domestic infant formula shortage."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 184941,
+  "name": "DANONE NORTH AMERICA PUBLIC BENEFIT CORPORATION",
+  "slug": "danone-north-america-public-benefit-corporation",
+  "state": "NY",
+  "description": "Food and beverage company",
+  "totalSpending": 1560000,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 180000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 300000
+    }
+  ],
+  "firms": [
+    "INVARIANT LLC"
+  ],
+  "lobbyists": [
+    "ANNE MACMILLAN",
+    "LANDON STROPKO",
+    "KATHRYN WISE",
+    "EMILY PATROLIA",
+    "TIMOTHY MARTIN",
+    "ANNABELL STOKES",
+    "ADAM TARR",
+    "DANIELLE BECK",
+    "KENNETH BARBIC",
+    "WILLIAM SITTON"
+  ],
+  "issues": [
+    "AGR",
+    "ENV",
+    "FOO",
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Monitor issues related to organic agriculture, including integrity and enforcement standards; farm bill implementation for organic and conservation programs for sustainable agriculture; dairy policy; and agriculture appropriations in H.R. 3055 / S. 2584, the Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020.",
+    "Educating Members of Congress on reducing greenhouse gas emissions such as through conservation farming methods including improving soil health practices.",
+    "Monitor labeling of plant-based and dairy products; engage with USDA on issues pertaining to federal nutrition advice related to the 2020 Dietary Guidelines for Americans.",
+    "Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy.  Monitor issues related to organic agriculture, including farm bill implementation for organic and conservation programs for sustainable agriculture; dairy policy; and agriculture appropriations in H.R. 3055 / S. 2584, the Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020.",
+    "Monitor labeling of plant-based and dairy products; engage with USDA on issues pertaining to federal nutrition advice related to the 2020 Dietary Guidelines for Americans and the WIC program.",
+    "Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy.  Monitor issues related to organic agriculture, including farm bill implementation for organic and conservation programs for sustainable agriculture; dairy policy; and agriculture appropriations.",
+    "Monitor labeling of plant-based and dairy products; engage with USDA on issues pertaining to federal nutrition advice related to the 2020 Dietary Guidelines for Americans and the WIC program; support efforts to reauthorize legislation related to Child Nutrition Programs; educate Members about the food industry's response to COVID-19, with a focus on the dairy industry and the supply chain.",
+    "Educate Members of Congress on reducing greenhouse gas emissions through conservation farming methods including improving soil health practices.",
+    "Monitor labeling of plant-based and dairy products; engage with USDA on issues pertaining to federal nutrition advice related to the 2020 Dietary Guidelines for Americans and the WIC program; educate Members on the dairy industry supply chain response to COVID-19.",
+    "Educate policymakers about medical foods and the benefits of H.R. 2501 / S. 3657, the Medical Nutrition Equity Act of 2020.",
+    "Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy; monitor issues related to organic agriculture, including farm bill implementation for organic and conservation programs for sustainable agriculture; dairy policy; and agriculture appropriations.",
+    "Monitor labeling of plant-based and dairy products; educate Members on the dairy industry supply chain response to COVID-19; monitor and discuss nutrition policies with policymakers, including the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), Supplemental Nutrition Assistance Program (SNAP), and other nutrition programs for students and children.",
+    "Educate policymakers about the benefits of medical foods.",
+    "Monitor labeling of plant-based and dairy products; monitor and discuss nutrition policies with policymakers, including the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), Supplemental Nutrition Assistance Program (SNAP), and other nutrition programs for students and children.",
+    "Educate Members of Congress on reducing greenhouse gas emissions through conservation farming methods, including improving soil health practices. Advise on production practices that decrease the levels of naturally occurring heavy metals that arise in baby foods.",
+    "Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy; monitor issues related to organic agriculture; dairy policy; and agriculture appropriations.",
+    "Educate policymakers about the benefits of medical foods, including H.R.3783/S.2013, Medical Nutrition Equity Act of 2021.",
+    "Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy; monitor issues related to organic agriculture; dairy policy; and agriculture appropriations; engage with the Department of Agriculture on the Partnerships for Climate-Smart Commodities program.",
+    "Educate on organic agriculture issues including integrity and enforcement standards for organic livestock and dairy policy; monitor issues related to organic agriculture; dairy policy; and agriculture appropriations. Engage with the Department of Agriculture on the Partnerships for Climate-Smart Commodities program.",
+    "Educate policymakers about the benefits of medical foods, including H.R.3783/S.2013, Medical Nutrition Equity Act of 2021, and the domestic infant formula shortage."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 150,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 222857,
+  "peakYear": 2025,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 4
+}

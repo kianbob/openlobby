@@ -1,1 +1,70 @@
-{"id":206523,"name":"ORACLE AMERICA, INC.","slug":"oracle-america-inc","state":"CA","description":"Technology company.","totalSpending":1355000,"filings":21,"yearlySpending":[{"year":2020,"income":120000},{"year":2021,"income":180000},{"year":2022,"income":240000},{"year":2023,"income":255000},{"year":2024,"income":280000},{"year":2025,"income":280000}],"firms":["INNOVATIVE POLICY, PLLC"],"lobbyists":["MATT SANDGREN"],"issues":["DEF","GOV","CPI","CPT",null,"VET","TAX"],"sampleDescriptions":["Raise awareness in Congress and the Administration regarding Oracle products and technology, provide advice on key policy issues important to Oracle, including procurement policy, technology policy, and intellectual property policy.","Raise awareness in Congress and the Administration regarding Oracle products and technology, and provide advice on key policy issues important to Oracle, including procurement policy, tax policy, technology policy, and intellectual property policy."],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 206523,
+  "name": "ORACLE AMERICA, INC.",
+  "slug": "oracle-america-inc",
+  "state": "CA",
+  "description": "Technology company.",
+  "totalSpending": 1355000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 180000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 255000
+    },
+    {
+      "year": 2024,
+      "income": 280000
+    },
+    {
+      "year": 2025,
+      "income": 280000
+    }
+  ],
+  "firms": [
+    "INNOVATIVE POLICY, PLLC"
+  ],
+  "lobbyists": [
+    "MATT SANDGREN"
+  ],
+  "issues": [
+    "DEF",
+    "GOV",
+    "CPI",
+    "CPT",
+    null,
+    "VET",
+    "TAX"
+  ],
+  "sampleDescriptions": [
+    "Raise awareness in Congress and the Administration regarding Oracle products and technology, provide advice on key policy issues important to Oracle, including procurement policy, technology policy, and intellectual property policy.",
+    "Raise awareness in Congress and the Administration regarding Oracle products and technology, and provide advice on key policy issues important to Oracle, including procurement policy, tax policy, technology policy, and intellectual property policy."
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 133,
+  "trajectory": "exploding",
+  "yearsActive": 6,
+  "avgAnnualSpending": 225833,
+  "peakYear": 2024,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 6
+}

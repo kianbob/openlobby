@@ -1,1 +1,66 @@
-{"id":106674,"name":"LETTERONE HOLDINGS S.A.","slug":"letterone-holdings-s-a","state":null,"description":"Investment firm","totalSpending":2670000,"filings":21,"yearlySpending":[{"year":2018,"income":330000},{"year":2019,"income":330000},{"year":2020,"income":520000},{"year":2021,"income":600000},{"year":2022,"income":450000},{"year":2023,"income":440000}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["EDWARD ROGERS","WALKER ROBERTS"],"issues":["GOV",null],"sampleDescriptions":["Strategic guidance and counsel on developing relationships with United States Government officials","Strategic guidance and counsel on commercial related interests"],"years":[2018,2019,2020,2021,2022,2023]}
+{
+  "id": 106674,
+  "name": "LETTERONE HOLDINGS S.A.",
+  "slug": "letterone-holdings-s-a",
+  "state": null,
+  "description": "Investment firm",
+  "totalSpending": 2670000,
+  "filings": 21,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 330000
+    },
+    {
+      "year": 2019,
+      "income": 330000
+    },
+    {
+      "year": 2020,
+      "income": 520000
+    },
+    {
+      "year": 2021,
+      "income": 600000
+    },
+    {
+      "year": 2022,
+      "income": 450000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    }
+  ],
+  "firms": [
+    "BGR GOVERNMENT AFFAIRS"
+  ],
+  "lobbyists": [
+    "EDWARD ROGERS",
+    "WALKER ROBERTS"
+  ],
+  "issues": [
+    "GOV",
+    null
+  ],
+  "sampleDescriptions": [
+    "Strategic guidance and counsel on developing relationships with United States Government officials",
+    "Strategic guidance and counsel on commercial related interests"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 445000,
+  "peakYear": 2021,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 1
+}

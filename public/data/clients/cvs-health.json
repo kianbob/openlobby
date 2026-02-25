@@ -1,1 +1,79 @@
-{"id":102554,"name":"CVS HEALTH","slug":"cvs-health","state":"DC","description":"Pharmacy and healthcare company","totalSpending":1390000,"filings":27,"yearlySpending":[{"year":2019,"income":200000},{"year":2020,"income":130000},{"year":2021,"income":160000},{"year":2022,"income":160000},{"year":2023,"income":380000},{"year":2024,"income":270000},{"year":2025,"income":90000}],"firms":["ALSTON & BIRD LLP"],"lobbyists":["TIMOTHY TRYSLA","ROBERT SIGGINS","EARL POMEROY","MICHAEL PARK","ELINOR HILLER","JANE LUCAS","JAMES PALUSKIEWICZ","NELEEN EISINGER","ALEXANDER GRAF"],"issues":["HCR",null],"sampleDescriptions":["Issues related to the implementation of health care reform and issues related to PBMs and drug pricing.","Issues related to Pub. L. No. 119-21, One Big Beautiful Bill Act, PBM reform and drug pricing."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 102554,
+  "name": "CVS HEALTH",
+  "slug": "cvs-health",
+  "state": "DC",
+  "description": "Pharmacy and healthcare company",
+  "totalSpending": 1390000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 200000
+    },
+    {
+      "year": 2020,
+      "income": 130000
+    },
+    {
+      "year": 2021,
+      "income": 160000
+    },
+    {
+      "year": 2022,
+      "income": 160000
+    },
+    {
+      "year": 2023,
+      "income": 380000
+    },
+    {
+      "year": 2024,
+      "income": 270000
+    },
+    {
+      "year": 2025,
+      "income": 90000
+    }
+  ],
+  "firms": [
+    "ALSTON & BIRD LLP"
+  ],
+  "lobbyists": [
+    "TIMOTHY TRYSLA",
+    "ROBERT SIGGINS",
+    "EARL POMEROY",
+    "MICHAEL PARK",
+    "ELINOR HILLER",
+    "JANE LUCAS",
+    "JAMES PALUSKIEWICZ",
+    "NELEEN EISINGER",
+    "ALEXANDER GRAF"
+  ],
+  "issues": [
+    "HCR",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to the implementation of health care reform and issues related to PBMs and drug pricing.",
+    "Issues related to Pub. L. No. 119-21, One Big Beautiful Bill Act, PBM reform and drug pricing."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -55,
+  "trajectory": "declining",
+  "yearsActive": 7,
+  "avgAnnualSpending": 198571,
+  "peakYear": 2023,
+  "lobbyistCount": 9,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "healthcare"
+}

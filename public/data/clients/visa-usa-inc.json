@@ -1,1 +1,108 @@
-{"id":179395,"name":"VISA USA, INC.","slug":"visa-usa-inc","state":"DC","description":"financial services","totalSpending":1610000,"filings":30,"yearlySpending":[{"year":2018,"income":250000},{"year":2019,"income":100000},{"year":2020,"income":150000},{"year":2021,"income":200000},{"year":2022,"income":200000},{"year":2023,"income":230000},{"year":2024,"income":240000},{"year":2025,"income":240000}],"firms":["MINDSET ADVOCACY, LLC"],"lobbyists":["BRANT IMPERATORE","WILLIAM MUELLER","GREG MCILVAINE","BRIDGET HAGAN","PATRICK OTTENHOFF","LANGSTON EMERSON","HILARY HALPERN","J CAVE","CHRIS BROWN","SCOTT SHEWCRAFT","ZACHARY OSTRO","REBECCA ALCORN","KATE BONNER"],"issues":["BAN","HOM","TAX","FIN",null],"sampleDescriptions":["Issues related to payment card regulations, EMV migration and payments innovation, regulatory reform, H.R. 10 the Financial CHOICE Act. S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act.","Issues related to Cybersecurity","Issues relating to corporate tax reform, Implementations of H.R. 1, Tax Cuts & Jobs Act (P.L. 115-97)","Issues related to payment card regulations, EMV migration and payments innovation, regulatory reform, H.R. 6743, the Consumer information Notification Requirement Act, Implementation of S.2155 (P.L. 115-174), Economic Growth, Regulatory Relief, and Consumer Protection Act","Issues related to payment card regulations, EMV migration and payments innovation, regulatory reform","Implementation of H.R. 1, Tax Cuts & Jobs Act (P.L. 115-97)","Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues","Issues related to cybersecurity","Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. CARES Act (S.3548 & H.R. 748), implementation of P.L. 116-136","Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. CARES Act (S.3548 & H.R. 748), implementation of P.L. 116-136. H.R. 133 - The Coronavirus Response and Relief Supplemental Appropriations Act. (Public Law 116-260).","General Tax Issues","Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. H.R. 1319 (P.L. 117-2) the American Rescue Plan Act of 2021.","Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. H.R. 1319 (P.L. 117-2) the American Rescue Plan Act of 2021. Issues related to interchange fees.","Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. Issues related to interchange fees. H.R.3684 - Infrastructure Investment and Jobs Act.","Credit Card Competition Act (S.4674/H.R.8874)","General domestic & international tax issues","Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. Issues related to interchange fees on electric payments including S.1838/H.R.3881, the Credit Card Competition Act, S. 2226, and H.R.4366, the Consolidated Appropriations Act, 2024.","Issues relating to S.1838/H.R.3881, the Credit Card Competition Act; S.2226/H.R.2670, and H.R.4366, the Consolidated Appropriations Act, 2024.","Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. Issues related to interchange fees on electric payments including S.1838/H.R.3881, the Credit Card Competition Act, S. 2226, and CCCA amendment to the FAA Reauthorization Act (Public Law No: 118-63).","Issues relating to S.1838/H.R.3881, the Credit Card Competition Act; S.2226/H.R.2670, and CCCA amendment to the FAA Reauthorization Act ( Public Law No: 118-63)."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 179395,
+  "name": "VISA USA, INC.",
+  "slug": "visa-usa-inc",
+  "state": "DC",
+  "description": "financial services",
+  "totalSpending": 1610000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 250000
+    },
+    {
+      "year": 2019,
+      "income": 100000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 200000
+    },
+    {
+      "year": 2022,
+      "income": 200000
+    },
+    {
+      "year": 2023,
+      "income": 230000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "MINDSET ADVOCACY, LLC"
+  ],
+  "lobbyists": [
+    "BRANT IMPERATORE",
+    "WILLIAM MUELLER",
+    "GREG MCILVAINE",
+    "BRIDGET HAGAN",
+    "PATRICK OTTENHOFF",
+    "LANGSTON EMERSON",
+    "HILARY HALPERN",
+    "J CAVE",
+    "CHRIS BROWN",
+    "SCOTT SHEWCRAFT",
+    "ZACHARY OSTRO",
+    "REBECCA ALCORN",
+    "KATE BONNER"
+  ],
+  "issues": [
+    "BAN",
+    "HOM",
+    "TAX",
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to payment card regulations, EMV migration and payments innovation, regulatory reform, H.R. 10 the Financial CHOICE Act. S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act.",
+    "Issues related to Cybersecurity",
+    "Issues relating to corporate tax reform, Implementations of H.R. 1, Tax Cuts & Jobs Act (P.L. 115-97)",
+    "Issues related to payment card regulations, EMV migration and payments innovation, regulatory reform, H.R. 6743, the Consumer information Notification Requirement Act, Implementation of S.2155 (P.L. 115-174), Economic Growth, Regulatory Relief, and Consumer Protection Act",
+    "Issues related to payment card regulations, EMV migration and payments innovation, regulatory reform",
+    "Implementation of H.R. 1, Tax Cuts & Jobs Act (P.L. 115-97)",
+    "Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues",
+    "Issues related to cybersecurity",
+    "Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. CARES Act (S.3548 & H.R. 748), implementation of P.L. 116-136",
+    "Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. CARES Act (S.3548 & H.R. 748), implementation of P.L. 116-136. H.R. 133 - The Coronavirus Response and Relief Supplemental Appropriations Act. (Public Law 116-260).",
+    "General Tax Issues",
+    "Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. H.R. 1319 (P.L. 117-2) the American Rescue Plan Act of 2021.",
+    "Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. H.R. 1319 (P.L. 117-2) the American Rescue Plan Act of 2021. Issues related to interchange fees.",
+    "Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. Issues related to interchange fees. H.R.3684 - Infrastructure Investment and Jobs Act.",
+    "Credit Card Competition Act (S.4674/H.R.8874)",
+    "General domestic & international tax issues",
+    "Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. Issues related to interchange fees on electric payments including S.1838/H.R.3881, the Credit Card Competition Act, S. 2226, and H.R.4366, the Consolidated Appropriations Act, 2024.",
+    "Issues relating to S.1838/H.R.3881, the Credit Card Competition Act; S.2226/H.R.2670, and H.R.4366, the Consolidated Appropriations Act, 2024.",
+    "Issues related to payments innovation, payment/data security, payments regulation, privacy & data use issues. Issues related to interchange fees on electric payments including S.1838/H.R.3881, the Credit Card Competition Act, S. 2226, and CCCA amendment to the FAA Reauthorization Act (Public Law No: 118-63).",
+    "Issues relating to S.1838/H.R.3881, the Credit Card Competition Act; S.2226/H.R.2670, and CCCA amendment to the FAA Reauthorization Act ( Public Law No: 118-63)."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -4,
+  "trajectory": "stable",
+  "yearsActive": 8,
+  "avgAnnualSpending": 201250,
+  "peakYear": 2018,
+  "lobbyistCount": 13,
+  "firmCount": 1,
+  "issueCount": 4
+}

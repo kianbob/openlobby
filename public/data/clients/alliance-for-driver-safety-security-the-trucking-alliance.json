@@ -1,1 +1,97 @@
-{"id":198357,"name":"ALLIANCE FOR DRIVER SAFETY & SECURITY (THE TRUCKING ALLIANCE)","slug":"alliance-for-driver-safety-security-the-trucking-alliance","state":"DC","description":"The Trucking Alliance is a leading supporter of truck safety reforms.","totalSpending":2480000,"filings":31,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":380000},{"year":2020,"income":320000},{"year":2021,"income":320000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":440000},{"year":2025,"income":360000}],"firms":["THE KIDD GROUP LLC"],"lobbyists":["LANE KIDD"],"issues":["TRA","TRU","ROD","ACC",null],"sampleDescriptions":["Coalition to reduce highway fatalities","Hair testing, electronic logging devices, truck safety technologies and related issues","Drug Testing, Truck Safety Technologies","Drug Testing, Truck Safety Technologies; Legislation to exempt certain motor carriers from installing electronic logging devices; support for completing congressionally mandated guidelines for hair testing","Electronic logging devices, DOT pre-employment drug test protocols, drug and alcohol clearinghouse, truck safety technologies","Electronic logging devices, DOT pre-employment drug test protocols, truck speed limiters, drug and alcohol clearinghouse, minimum financial responsibility requirements, truck safety technologies","Electronic Logging Devices, DOT drug testing protocols, truck safety technologies, minimum financial responsibility requirements of motor carriers, truck speed limiters and other truck safety issues","Excise Taxes on New Trucks and Trailers","Non-economic damage awards against motor carriers","Short Haul Carrier Exemptions from Hours-of-Service regulations","Electronic Logging Devices, Drug Testing, Truck Safety Technologies","Minimum insurance levels for motor carriers","Minimum insurance levels for motor carriers; limits on non-economic damages against motor carriers; require claims against interstate motor carriers be filed in federal court","Short Haul Carrier Exemptions from Hours-of-Service regulations; Dept of Labor Registered Apprenticeship Program","Regulations and legislation regarding safety reforms in the trucking industry.","Issues relating to proposed trucking safety reforms, including hair drug testing, speed limiters, financial responsibility, and other matters.","Drug Testing of commercial truck drivers, driver assistance technologies, truck speed limiters, unrated commercial motor carriers, minimum insurance requirements for motor carriers and expansion of electronic onboard recorders mandates.","Tax implications for motor carriers.","General transportation funding.","Drug Testing of commercial truck drivers, driver assistance technologies, commercial motor carriers without a safety rating, liability reform measures and minimum insurance requirements for motor carriers and expansion of electronic onboard recorders mandates."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 198357,
+  "name": "ALLIANCE FOR DRIVER SAFETY & SECURITY (THE TRUCKING ALLIANCE)",
+  "slug": "alliance-for-driver-safety-security-the-trucking-alliance",
+  "state": "DC",
+  "description": "The Trucking Alliance is a leading supporter of truck safety reforms.",
+  "totalSpending": 2480000,
+  "filings": 31,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 180000
+    },
+    {
+      "year": 2019,
+      "income": 380000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 320000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 240000
+    },
+    {
+      "year": 2024,
+      "income": 440000
+    },
+    {
+      "year": 2025,
+      "income": 360000
+    }
+  ],
+  "firms": [
+    "THE KIDD GROUP LLC"
+  ],
+  "lobbyists": [
+    "LANE KIDD"
+  ],
+  "issues": [
+    "TRA",
+    "TRU",
+    "ROD",
+    "ACC",
+    null
+  ],
+  "sampleDescriptions": [
+    "Coalition to reduce highway fatalities",
+    "Hair testing, electronic logging devices, truck safety technologies and related issues",
+    "Drug Testing, Truck Safety Technologies",
+    "Drug Testing, Truck Safety Technologies; Legislation to exempt certain motor carriers from installing electronic logging devices; support for completing congressionally mandated guidelines for hair testing",
+    "Electronic logging devices, DOT pre-employment drug test protocols, drug and alcohol clearinghouse, truck safety technologies",
+    "Electronic logging devices, DOT pre-employment drug test protocols, truck speed limiters, drug and alcohol clearinghouse, minimum financial responsibility requirements, truck safety technologies",
+    "Electronic Logging Devices, DOT drug testing protocols, truck safety technologies, minimum financial responsibility requirements of motor carriers, truck speed limiters and other truck safety issues",
+    "Excise Taxes on New Trucks and Trailers",
+    "Non-economic damage awards against motor carriers",
+    "Short Haul Carrier Exemptions from Hours-of-Service regulations",
+    "Electronic Logging Devices, Drug Testing, Truck Safety Technologies",
+    "Minimum insurance levels for motor carriers",
+    "Minimum insurance levels for motor carriers; limits on non-economic damages against motor carriers; require claims against interstate motor carriers be filed in federal court",
+    "Short Haul Carrier Exemptions from Hours-of-Service regulations; Dept of Labor Registered Apprenticeship Program",
+    "Regulations and legislation regarding safety reforms in the trucking industry.",
+    "Issues relating to proposed trucking safety reforms, including hair drug testing, speed limiters, financial responsibility, and other matters.",
+    "Drug Testing of commercial truck drivers, driver assistance technologies, truck speed limiters, unrated commercial motor carriers, minimum insurance requirements for motor carriers and expansion of electronic onboard recorders mandates.",
+    "Tax implications for motor carriers.",
+    "General transportation funding.",
+    "Drug Testing of commercial truck drivers, driver assistance technologies, commercial motor carriers without a safety rating, liability reform measures and minimum insurance requirements for motor carriers and expansion of electronic onboard recorders mandates."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 100,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 310000,
+  "peakYear": 2024,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "defense"
+}

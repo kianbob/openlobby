@@ -1,1 +1,77 @@
-{"id":194684,"name":"CBC NATIONAL BANK MORTGAGE","slug":"cbc-national-bank-mortgage","state":"UT","description":"Mortgage Agency","totalSpending":2817500,"filings":25,"yearlySpending":[{"year":2019,"income":12500},{"year":2020,"income":405000},{"year":2021,"income":360000},{"year":2022,"income":480000},{"year":2023,"income":480000},{"year":2024,"income":480000},{"year":2025,"income":600000}],"firms":["THE MAJORITY GROUP, LLC"],"lobbyists":["BRADFORD CHENEY","ROBERT ELLSWORTH","DANIEL ARCHER","ANNE CANFIELD"],"issues":["BAN","HOU",null],"sampleDescriptions":["FHA down payment assistance programs.","FHA down payment assistance programs","Housing and banking programs","housing and banking programs"],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 194684,
+  "name": "CBC NATIONAL BANK MORTGAGE",
+  "slug": "cbc-national-bank-mortgage",
+  "state": "UT",
+  "description": "Mortgage Agency",
+  "totalSpending": 2817500,
+  "filings": 25,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 12500
+    },
+    {
+      "year": 2020,
+      "income": 405000
+    },
+    {
+      "year": 2021,
+      "income": 360000
+    },
+    {
+      "year": 2022,
+      "income": 480000
+    },
+    {
+      "year": 2023,
+      "income": 480000
+    },
+    {
+      "year": 2024,
+      "income": 480000
+    },
+    {
+      "year": 2025,
+      "income": 600000
+    }
+  ],
+  "firms": [
+    "THE MAJORITY GROUP, LLC"
+  ],
+  "lobbyists": [
+    "BRADFORD CHENEY",
+    "ROBERT ELLSWORTH",
+    "DANIEL ARCHER",
+    "ANNE CANFIELD"
+  ],
+  "issues": [
+    "BAN",
+    "HOU",
+    null
+  ],
+  "sampleDescriptions": [
+    "FHA down payment assistance programs.",
+    "FHA down payment assistance programs",
+    "Housing and banking programs",
+    "housing and banking programs"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 4700,
+  "trajectory": "exploding",
+  "yearsActive": 7,
+  "avgAnnualSpending": 402500,
+  "peakYear": 2025,
+  "lobbyistCount": 4,
+  "firmCount": 1,
+  "issueCount": 2,
+  "industry": "finance"
+}

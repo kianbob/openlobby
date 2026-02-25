@@ -1,1 +1,104 @@
-{"id":112402,"name":"ORMAT NEVADA, INC.","slug":"ormat-nevada-inc","state":"NV","description":"Geothermal power, recovered energy generation, and remote power technology","totalSpending":1750000,"filings":36,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":300000},{"year":2020,"income":150000},{"year":2021,"income":250000},{"year":2022,"income":250000},{"year":2023,"income":200000},{"year":2024,"income":250000},{"year":2025,"income":200000}],"firms":["CASSIDY & ASSOCIATES, INC."],"lobbyists":["KAI ANDERSON","JANE WISE THOMPSON","AMELIA JENKINS","KEVIN BINGER","RYAN MULVENON","ANGELA EBINER","JOHN DEARBORN","WILLIAM FADELY","SAMANTHA SWING","KELLY RIDDLE"],"issues":["TAX","ENG","NAT",null],"sampleDescriptions":["extension of the renewable energy investment tax credit (S.1409) \nH.R.1, The Tax Cuts and Jobs Act","Policy treatment of waste heat recovery technology \nPermitting and funding of geothermal power plant and transmission lines on federal land \nDepartment of Defense renewable energy acquisition \nThe Public Lands Renewable Energy Development Act (H.R.825 & S.282)\nGeothermal research & development\nEnhancing Geothermal Production on Federal Lands Act (H.R.4568)\nThe Energy & Natural Resources Act of 2017 (S.1460)\nFY18 Energy & Water Development Appropriations(H.R.3266 & S.1609)","Monitor conservation efforts related to the Greater Sage Grouse; permitting issues; water issues","Policy treatment of waste heat recovery technology \nPermitting and funding of geothermal power plant and transmission lines on federal land \nDepartment of Defense renewable energy acquisition \nThe Public Lands Renewable Energy Development Act (H.R.825 & S.282)\nGeothermal research & development\nEnhancing Geothermal Production on Federal Lands Act (H.R.4568)\nThe Energy & Natural Resources Act of 2017 (S.1460)\nFY18 Energy & Water Development Appropriations(H.R.3266 & S.1609)\nDeployment of commercial projects in Africa, Asia and Central America","Monitoring tx matters related to geothermal energy and battery matters","Policy treatment of waste heat recovery technology \nPermitting of geothermal power plants and transmission lines on federal land \nGeothermal research & development\nEnhancing Geothermal Production on Federal Lands Act (H.R.4568)\nThe Energy & Natural Resources Act of 2017 (S.1460)\nFY19 Energy & Water Development Appropriations(H.R.5895 & S.2975)\nDeployment of commercial projects in Africa, Asia and Central America","Monitoring tx matters related to geothermal energy, waste heat to power, and battery storage","Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America","Monitoring tax matters related to geothermal energy, waste heat to power, and battery storage","Monitoring tax matters related to geothermal energy and waste heat to power","Monitoring tax matters related to geothermal energy and waste heat to power\nMonitor H.R.1158 & H.R.1865 FY20 Omnibus bills related to tax extenders","Monitoring tax matters related to geothermal energy and waste heat to power\nS.3229 Solar and Geothermal Tax Credit Expansion Act\nH.R. 2, Moving Forward Act","Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America\nAmerican Energy Innovation Act (AEIA)\nS. 2657, Advanced Geothermal Innovation Leadership Act\nS. 1901, Geothermal Energy Opportunities Act","Monitoring tax matters related to geothermal energy and waste heat to power\nS.3229 Solar and Geothermal Tax Credit Expansion Act\nH.R. 2, Moving Forward Act\nHR 133, FY2021 Omnibus and COVID Relief and Response Act","Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America\nAmerican Energy Innovation Act (AEIA)\nS.2657, Advanced Geothermal Innovation Leadership Act\nS.1901, Geothermal Energy Opportunities Act\nHR 133, FY2021 Omnibus and COVID Relief and Response Act","Monitor conservation efforts related to the Greater Sage Grouse; permitting issues; water issues\nHR 133, FY2021 Omnibus and COVID Relief and Response Act","Monitoring tax matters related to geothermal energy and waste heat to power\nS.3229 Solar and Geothermal Tax Credit Expansion Act\nH.R. 2, Moving Forward Act\nHR 848, Growing Renewable Energy and Efficiency Now (GREEN) Act of 2021","Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America\nAmerican Energy Innovation Act (AEIA)\nS.2657, Advanced Geothermal Innovation Leadership Act\nS.1901, Geothermal Energy Opportunities Act","Monitoring tax matters related to geothermal energy and waste heat to power\nS.3229 Solar and Geothermal Tax Credit Expansion Act\nH.R. 2, Moving Forward Act\nHR 848, Growing Renewable Energy and Efficiency Now (GREEN) Act of 2021\nMonitoring tax matters related to geothermal energy and waste heat to power\nHR 848, Growing Renewable Energy and Efficiency Now (GREEN) Act of 2021\nS 1298, Clean Energy for America Act","Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America\nAmerican Energy Innovation Act (AEIA)\nS.2657, Advanced Geothermal Innovation Leadership Act\nS.1901, Geothermal Energy Opportunities Act\nPolicy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 112402,
+  "name": "ORMAT NEVADA, INC.",
+  "slug": "ormat-nevada-inc",
+  "state": "NV",
+  "description": "Geothermal power, recovered energy generation, and remote power technology",
+  "totalSpending": 1750000,
+  "filings": 36,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 150000
+    },
+    {
+      "year": 2019,
+      "income": 300000
+    },
+    {
+      "year": 2020,
+      "income": 150000
+    },
+    {
+      "year": 2021,
+      "income": 250000
+    },
+    {
+      "year": 2022,
+      "income": 250000
+    },
+    {
+      "year": 2023,
+      "income": 200000
+    },
+    {
+      "year": 2024,
+      "income": 250000
+    },
+    {
+      "year": 2025,
+      "income": 200000
+    }
+  ],
+  "firms": [
+    "CASSIDY & ASSOCIATES, INC."
+  ],
+  "lobbyists": [
+    "KAI ANDERSON",
+    "JANE WISE THOMPSON",
+    "AMELIA JENKINS",
+    "KEVIN BINGER",
+    "RYAN MULVENON",
+    "ANGELA EBINER",
+    "JOHN DEARBORN",
+    "WILLIAM FADELY",
+    "SAMANTHA SWING",
+    "KELLY RIDDLE"
+  ],
+  "issues": [
+    "TAX",
+    "ENG",
+    "NAT",
+    null
+  ],
+  "sampleDescriptions": [
+    "extension of the renewable energy investment tax credit (S.1409) \nH.R.1, The Tax Cuts and Jobs Act",
+    "Policy treatment of waste heat recovery technology \nPermitting and funding of geothermal power plant and transmission lines on federal land \nDepartment of Defense renewable energy acquisition \nThe Public Lands Renewable Energy Development Act (H.R.825 & S.282)\nGeothermal research & development\nEnhancing Geothermal Production on Federal Lands Act (H.R.4568)\nThe Energy & Natural Resources Act of 2017 (S.1460)\nFY18 Energy & Water Development Appropriations(H.R.3266 & S.1609)",
+    "Monitor conservation efforts related to the Greater Sage Grouse; permitting issues; water issues",
+    "Policy treatment of waste heat recovery technology \nPermitting and funding of geothermal power plant and transmission lines on federal land \nDepartment of Defense renewable energy acquisition \nThe Public Lands Renewable Energy Development Act (H.R.825 & S.282)\nGeothermal research & development\nEnhancing Geothermal Production on Federal Lands Act (H.R.4568)\nThe Energy & Natural Resources Act of 2017 (S.1460)\nFY18 Energy & Water Development Appropriations(H.R.3266 & S.1609)\nDeployment of commercial projects in Africa, Asia and Central America",
+    "Monitoring tx matters related to geothermal energy and battery matters",
+    "Policy treatment of waste heat recovery technology \nPermitting of geothermal power plants and transmission lines on federal land \nGeothermal research & development\nEnhancing Geothermal Production on Federal Lands Act (H.R.4568)\nThe Energy & Natural Resources Act of 2017 (S.1460)\nFY19 Energy & Water Development Appropriations(H.R.5895 & S.2975)\nDeployment of commercial projects in Africa, Asia and Central America",
+    "Monitoring tx matters related to geothermal energy, waste heat to power, and battery storage",
+    "Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America",
+    "Monitoring tax matters related to geothermal energy, waste heat to power, and battery storage",
+    "Monitoring tax matters related to geothermal energy and waste heat to power",
+    "Monitoring tax matters related to geothermal energy and waste heat to power\nMonitor H.R.1158 & H.R.1865 FY20 Omnibus bills related to tax extenders",
+    "Monitoring tax matters related to geothermal energy and waste heat to power\nS.3229 Solar and Geothermal Tax Credit Expansion Act\nH.R. 2, Moving Forward Act",
+    "Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America\nAmerican Energy Innovation Act (AEIA)\nS. 2657, Advanced Geothermal Innovation Leadership Act\nS. 1901, Geothermal Energy Opportunities Act",
+    "Monitoring tax matters related to geothermal energy and waste heat to power\nS.3229 Solar and Geothermal Tax Credit Expansion Act\nH.R. 2, Moving Forward Act\nHR 133, FY2021 Omnibus and COVID Relief and Response Act",
+    "Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America\nAmerican Energy Innovation Act (AEIA)\nS.2657, Advanced Geothermal Innovation Leadership Act\nS.1901, Geothermal Energy Opportunities Act\nHR 133, FY2021 Omnibus and COVID Relief and Response Act",
+    "Monitor conservation efforts related to the Greater Sage Grouse; permitting issues; water issues\nHR 133, FY2021 Omnibus and COVID Relief and Response Act",
+    "Monitoring tax matters related to geothermal energy and waste heat to power\nS.3229 Solar and Geothermal Tax Credit Expansion Act\nH.R. 2, Moving Forward Act\nHR 848, Growing Renewable Energy and Efficiency Now (GREEN) Act of 2021",
+    "Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America\nAmerican Energy Innovation Act (AEIA)\nS.2657, Advanced Geothermal Innovation Leadership Act\nS.1901, Geothermal Energy Opportunities Act",
+    "Monitoring tax matters related to geothermal energy and waste heat to power\nS.3229 Solar and Geothermal Tax Credit Expansion Act\nH.R. 2, Moving Forward Act\nHR 848, Growing Renewable Energy and Efficiency Now (GREEN) Act of 2021\nMonitoring tax matters related to geothermal energy and waste heat to power\nHR 848, Growing Renewable Energy and Efficiency Now (GREEN) Act of 2021\nS 1298, Clean Energy for America Act",
+    "Policy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land\nGeothermal research & development\nDeployment of commercial projects in Africa, Asia and Central America\nAmerican Energy Innovation Act (AEIA)\nS.2657, Advanced Geothermal Innovation Leadership Act\nS.1901, Geothermal Energy Opportunities Act\nPolicy treatment of waste heat recovery technology\nPermitting of geothermal power plants and transmission lines on federal land"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 8,
+  "avgAnnualSpending": 218750,
+  "peakYear": 2019,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 3
+}

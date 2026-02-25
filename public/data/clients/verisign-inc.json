@@ -1,1 +1,82 @@
-{"id":103068,"name":"VERISIGN, INC.","slug":"verisign-inc","state":"VA","description":"&#226;€‹Internet infrastructure and security.","totalSpending":1520000,"filings":20,"yearlySpending":[{"year":2019,"income":40000},{"year":2020,"income":320000},{"year":2021,"income":240000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":240000},{"year":2025,"income":40000}],"firms":["ACG ADVOCACY"],"lobbyists":["MANUS COONEY","OWEN REILLY","PATRICK GRANT","ERIADE WILLIAMS","CLAIRE SHANKLIN","SARAH KOHN","GABRIEL PEREZ-ALVAREZ","JAMIE SUSSKIND"],"issues":["TEC",null],"sampleDescriptions":["Issues related to internet governance and security issues.","Privacy Legislation.","Privacy Legislation.\nInternet governance.","Privacy Legislation.\nInternet Governance.","Monitor Privacy Legislation.\nMonitor Internet Governance.","Monitor Privacy Legislation. Monitor Internet Governance.","Internet Governance."],"years":[2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 103068,
+  "name": "VERISIGN, INC.",
+  "slug": "verisign-inc",
+  "state": "VA",
+  "description": "&#226;€‹Internet infrastructure and security.",
+  "totalSpending": 1520000,
+  "filings": 20,
+  "yearlySpending": [
+    {
+      "year": 2019,
+      "income": 40000
+    },
+    {
+      "year": 2020,
+      "income": 320000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 320000
+    },
+    {
+      "year": 2023,
+      "income": 320000
+    },
+    {
+      "year": 2024,
+      "income": 240000
+    },
+    {
+      "year": 2025,
+      "income": 40000
+    }
+  ],
+  "firms": [
+    "ACG ADVOCACY"
+  ],
+  "lobbyists": [
+    "MANUS COONEY",
+    "OWEN REILLY",
+    "PATRICK GRANT",
+    "ERIADE WILLIAMS",
+    "CLAIRE SHANKLIN",
+    "SARAH KOHN",
+    "GABRIEL PEREZ-ALVAREZ",
+    "JAMIE SUSSKIND"
+  ],
+  "issues": [
+    "TEC",
+    null
+  ],
+  "sampleDescriptions": [
+    "Issues related to internet governance and security issues.",
+    "Privacy Legislation.",
+    "Privacy Legislation.\nInternet governance.",
+    "Privacy Legislation.\nInternet Governance.",
+    "Monitor Privacy Legislation.\nMonitor Internet Governance.",
+    "Monitor Privacy Legislation. Monitor Internet Governance.",
+    "Internet Governance."
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 0,
+  "trajectory": "stable",
+  "yearsActive": 7,
+  "avgAnnualSpending": 217143,
+  "peakYear": 2020,
+  "lobbyistCount": 8,
+  "firmCount": 1,
+  "issueCount": 1
+}

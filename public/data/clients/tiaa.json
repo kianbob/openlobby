@@ -1,1 +1,102 @@
-{"id":181385,"name":"TIAA","slug":"tiaa","state":"NC","description":"Retirement and Insurance Investments","totalSpending":1380000,"filings":27,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":120000},{"year":2020,"income":180000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":180000},{"year":2024,"income":90000},{"year":2025,"income":90000}],"firms":["PORTERFIELD, FETTIG & SEARS, LLC"],"lobbyists":["LENDELL PORTERFIELD","DAWN SEARS","DWIGHT FETTIG","BRYAN BLOM","BENJAMIN TURNER","KELLY MCGRATH","JENNIFER READ","STEPHEN NEWTON","ABIGAIL TRUHART","CHRIS MANEVAL"],"issues":["BAN","RET",null,"FIN"],"sampleDescriptions":["Issues related to the implementation of the Dodd Frank Act; Federal Reserve capital requirements; asset management; market structure; qualified thrift loan requirements and FDICIA; Federal Deposit Insurance Act; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act.","Issues related to the implementation of the Dodd Frank Act; capital requirements; asset management; market structure; qualified thrift loan requirements and FDICIA; HR 3070; HR 6990 PRIA Act of 2018; HR 5059 State Insurance Regulatory Preservation Act; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act.","Issues related to the implementation of  S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act; capital requirements; asset management; market structure; qualified thrift loan requirements and FDICIA; issues related to brokered deposits; HR 6990 PRIA Act of 2018; HR 5059 State Insurance Regulatory Preservation Act","Capital requirements; asset management; market structure; qualified thrift loan requirements and FDICIA; issues related to brokered deposits; data security","Capital requirements; asset management; qualified thrift loan requirements and FDICIA; issues related to brokered deposits; data security","Capital requirements; asset management; qualified thrift loan requirements and FDICIA; data security; COVID-19 relief issues.","Capital requirements; asset management; depository institution issues; data security; COVID-19 relief issues.","Capital requirements; asset management; depository institution issues; data security; COVID-19 relief issues; issues related to climate change.","Asset management; depository institution issues; COVID-19 relief issues; issues related to climate change.","Asset management; depository institution issues; issues related to climate change.","Asset management; depository institution issues; issues related to climate change; H.R. 4262, Increasing Investor Opportunities Act.","Retirement issues","Asset management.","Retirement issues.","Asset management; H.R. 2627, Increasing Investor Opportunities Act.","Retirement issues; 403 b plans.","Asset management; H.R. 1013, the Retirement Fairness for Charities and Educational Institutions Act of 2025."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 181385,
+  "name": "TIAA",
+  "slug": "tiaa",
+  "state": "NC",
+  "description": "Retirement and Insurance Investments",
+  "totalSpending": 1380000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 120000
+    },
+    {
+      "year": 2020,
+      "income": 180000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 180000
+    },
+    {
+      "year": 2024,
+      "income": 90000
+    },
+    {
+      "year": 2025,
+      "income": 90000
+    }
+  ],
+  "firms": [
+    "PORTERFIELD, FETTIG & SEARS, LLC"
+  ],
+  "lobbyists": [
+    "LENDELL PORTERFIELD",
+    "DAWN SEARS",
+    "DWIGHT FETTIG",
+    "BRYAN BLOM",
+    "BENJAMIN TURNER",
+    "KELLY MCGRATH",
+    "JENNIFER READ",
+    "STEPHEN NEWTON",
+    "ABIGAIL TRUHART",
+    "CHRIS MANEVAL"
+  ],
+  "issues": [
+    "BAN",
+    "RET",
+    null,
+    "FIN"
+  ],
+  "sampleDescriptions": [
+    "Issues related to the implementation of the Dodd Frank Act; Federal Reserve capital requirements; asset management; market structure; qualified thrift loan requirements and FDICIA; Federal Deposit Insurance Act; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act.",
+    "Issues related to the implementation of the Dodd Frank Act; capital requirements; asset management; market structure; qualified thrift loan requirements and FDICIA; HR 3070; HR 6990 PRIA Act of 2018; HR 5059 State Insurance Regulatory Preservation Act; S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act.",
+    "Issues related to the implementation of  S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act; capital requirements; asset management; market structure; qualified thrift loan requirements and FDICIA; issues related to brokered deposits; HR 6990 PRIA Act of 2018; HR 5059 State Insurance Regulatory Preservation Act",
+    "Capital requirements; asset management; market structure; qualified thrift loan requirements and FDICIA; issues related to brokered deposits; data security",
+    "Capital requirements; asset management; qualified thrift loan requirements and FDICIA; issues related to brokered deposits; data security",
+    "Capital requirements; asset management; qualified thrift loan requirements and FDICIA; data security; COVID-19 relief issues.",
+    "Capital requirements; asset management; depository institution issues; data security; COVID-19 relief issues.",
+    "Capital requirements; asset management; depository institution issues; data security; COVID-19 relief issues; issues related to climate change.",
+    "Asset management; depository institution issues; COVID-19 relief issues; issues related to climate change.",
+    "Asset management; depository institution issues; issues related to climate change.",
+    "Asset management; depository institution issues; issues related to climate change; H.R. 4262, Increasing Investor Opportunities Act.",
+    "Retirement issues",
+    "Asset management.",
+    "Retirement issues.",
+    "Asset management; H.R. 2627, Increasing Investor Opportunities Act.",
+    "Retirement issues; 403 b plans.",
+    "Asset management; H.R. 1013, the Retirement Fairness for Charities and Educational Institutions Act of 2025."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -62,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 172500,
+  "peakYear": 2018,
+  "lobbyistCount": 10,
+  "firmCount": 1,
+  "issueCount": 3,
+  "industry": "finance"
+}

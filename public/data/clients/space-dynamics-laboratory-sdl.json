@@ -1,1 +1,89 @@
-{"id":206051,"name":"SPACE DYNAMICS LABORATORY (SDL)","slug":"space-dynamics-laboratory-sdl","state":"UT","description":"University Affiliated Research Center (UARC)","totalSpending":1400000,"filings":22,"yearlySpending":[{"year":2020,"income":140000},{"year":2021,"income":240000},{"year":2022,"income":240000},{"year":2023,"income":260000},{"year":2024,"income":280000},{"year":2025,"income":240000}],"firms":["CAPGOV, LLC"],"lobbyists":["NICHOLAS CROCKETT","THOMAS SOH"],"issues":["AER","INT","BUD","DEF","HOM","SCI",null],"sampleDescriptions":["SDL is a not for profit University Affiliated Research Center (UARC) for the Departments of Defense (DOD).  As such, SDL works closely with DOD and federal government as a trusted partner across military branches, the intelligence community and NASA.  SDL has a vested interest in the federal budget and appropriations processes, particularly related to Defense and CJS (NASA).  SDL supports myriad missions and programs across the federal government and its lobbying efforts pertain to these efforts.","NASA Science and Planetary Defense programs including: NEO Surveillance Mission (formerly NEOCam); Roman Space Telescope (formerly WFIRST); and PACE.","FY2021 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities; FY2021 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveillance Mission (formerly NEOCam); Roman Space Telescope (formerly WFIRST); and PACE.","FY21 House and Senate Defense appropriations bills and FY21 House and Senate DNAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities","NASA Science and Planetary Defense programs including: NEO Surveillance Mission (formerly NEOCam); Roman Space Telescope (formerly WFIRST); and Plankton, Aerosol, Cloud, ocean Ecosystem (PACE).","FY21 House and Senate Defense appropriations bills and FY21 House and Senate DNAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities.","FY21 House and Senate Defense appropriations bills and FY21 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities.","FY2022 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities; FY2022 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveillance Mission (formerly NEOCam); Roman Space Telescope (formerly WFIRST); and PACE.","FY22 House and Senate Defense appropriations bills and FY21 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities; matter related to UARC policy.","FY22 House and Senate Defense appropriations bills and FY21 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities; FY22 NDAA matters impacting University Associated Research Centers.","NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, NEOCam); Roman Space Telescope (formerly WFIRST); and Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) and The Atmospheric Waves Experiment (AWE) mission.","FY2022 and FY23 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities; advanced UAS technologies and capabilities; FY2022 and FY23 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, formerly NEOCam); Roman Space Telescope (formerly WFIRST); PACE and The Atmospheric Waves Experiment (AWE) mission.","FY22 and FY23 House and Senate Defense appropriations bills and FY22 and FY23 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities advanced UAS technologies and capabilities; FY22 NDAA matters impacting University Associated Research Centers.","FY23 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities; advanced UAS technologies and capabilities; FY2022 and FY23 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, formerly NEOCam); Roman Space Telescope (formerly WFIRST); PACE and The Atmospheric Waves Experiment (AWE) mission.","FY23 House and Senate Defense appropriations bills and FY22 and FY23 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities advanced UAS technologies and capabilities; FY22 NDAA matters impacting University Associated Research Centers.","FY23 House and Senate Defense appropriations bills and FY23 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities advanced UAS technologies and capabilities;","NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, NEOCam); The Atmospheric Waves Experiment (AWE) mission.","Fy24 and FY25 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities; advanced UAS technologies and capabilities; FY24 and Fy25 Appropriations bills, House and Senate, not yet numbered, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, formerly NEOCam);","FY24 and Fy25 House and Senate Defense appropriations bills, not yet numbered, and FY24 House and Senate NDAA bills, not yet numbered, regarding Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities advanced UAS technologies and capabilities.","FY25 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities; advanced UAS technologies and capabilities; Fy25 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, formerly NEOCam);"],"years":[2020,2021,2022,2023,2024,2025]}
+{
+  "id": 206051,
+  "name": "SPACE DYNAMICS LABORATORY (SDL)",
+  "slug": "space-dynamics-laboratory-sdl",
+  "state": "UT",
+  "description": "University Affiliated Research Center (UARC)",
+  "totalSpending": 1400000,
+  "filings": 22,
+  "yearlySpending": [
+    {
+      "year": 2020,
+      "income": 140000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 240000
+    },
+    {
+      "year": 2023,
+      "income": 260000
+    },
+    {
+      "year": 2024,
+      "income": 280000
+    },
+    {
+      "year": 2025,
+      "income": 240000
+    }
+  ],
+  "firms": [
+    "CAPGOV, LLC"
+  ],
+  "lobbyists": [
+    "NICHOLAS CROCKETT",
+    "THOMAS SOH"
+  ],
+  "issues": [
+    "AER",
+    "INT",
+    "BUD",
+    "DEF",
+    "HOM",
+    "SCI",
+    null
+  ],
+  "sampleDescriptions": [
+    "SDL is a not for profit University Affiliated Research Center (UARC) for the Departments of Defense (DOD).  As such, SDL works closely with DOD and federal government as a trusted partner across military branches, the intelligence community and NASA.  SDL has a vested interest in the federal budget and appropriations processes, particularly related to Defense and CJS (NASA).  SDL supports myriad missions and programs across the federal government and its lobbying efforts pertain to these efforts.",
+    "NASA Science and Planetary Defense programs including: NEO Surveillance Mission (formerly NEOCam); Roman Space Telescope (formerly WFIRST); and PACE.",
+    "FY2021 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities; FY2021 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveillance Mission (formerly NEOCam); Roman Space Telescope (formerly WFIRST); and PACE.",
+    "FY21 House and Senate Defense appropriations bills and FY21 House and Senate DNAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities",
+    "NASA Science and Planetary Defense programs including: NEO Surveillance Mission (formerly NEOCam); Roman Space Telescope (formerly WFIRST); and Plankton, Aerosol, Cloud, ocean Ecosystem (PACE).",
+    "FY21 House and Senate Defense appropriations bills and FY21 House and Senate DNAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities.",
+    "FY21 House and Senate Defense appropriations bills and FY21 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities.",
+    "FY2022 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities; FY2022 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveillance Mission (formerly NEOCam); Roman Space Telescope (formerly WFIRST); and PACE.",
+    "FY22 House and Senate Defense appropriations bills and FY21 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities; matter related to UARC policy.",
+    "FY22 House and Senate Defense appropriations bills and FY21 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; advanced UAS technologies and capabilities; FY22 NDAA matters impacting University Associated Research Centers.",
+    "NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, NEOCam); Roman Space Telescope (formerly WFIRST); and Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) and The Atmospheric Waves Experiment (AWE) mission.",
+    "FY2022 and FY23 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities; advanced UAS technologies and capabilities; FY2022 and FY23 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, formerly NEOCam); Roman Space Telescope (formerly WFIRST); PACE and The Atmospheric Waves Experiment (AWE) mission.",
+    "FY22 and FY23 House and Senate Defense appropriations bills and FY22 and FY23 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities advanced UAS technologies and capabilities; FY22 NDAA matters impacting University Associated Research Centers.",
+    "FY23 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities; advanced UAS technologies and capabilities; FY2022 and FY23 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, formerly NEOCam); Roman Space Telescope (formerly WFIRST); PACE and The Atmospheric Waves Experiment (AWE) mission.",
+    "FY23 House and Senate Defense appropriations bills and FY22 and FY23 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities advanced UAS technologies and capabilities; FY22 NDAA matters impacting University Associated Research Centers.",
+    "FY23 House and Senate Defense appropriations bills and FY23 House and Senate NDAA bills regarding Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities advanced UAS technologies and capabilities;",
+    "NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, NEOCam); The Atmospheric Waves Experiment (AWE) mission.",
+    "Fy24 and FY25 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities; advanced UAS technologies and capabilities; FY24 and Fy25 Appropriations bills, House and Senate, not yet numbered, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, formerly NEOCam);",
+    "FY24 and Fy25 House and Senate Defense appropriations bills, not yet numbered, and FY24 House and Senate NDAA bills, not yet numbered, regarding Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities advanced UAS technologies and capabilities.",
+    "FY25 Appropriations bills, House and Senate, Department of Defense--Small satellite and related technologies and capabilities and testing; Small Sat Mission Operations capabilities; advanced UAS technologies and capabilities; Fy25 Appropriations bills, House and Senate, Science (NASA),NASA Science and Planetary Defense programs including: NEO Surveyor (formerly NEO Surveillance Mission, formerly NEOCam);"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 71,
+  "trajectory": "growing",
+  "yearsActive": 6,
+  "avgAnnualSpending": 233333,
+  "peakYear": 2024,
+  "lobbyistCount": 2,
+  "firmCount": 1,
+  "issueCount": 6
+}

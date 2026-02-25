@@ -1,1 +1,91 @@
-{"id":199746,"name":"LIBERTY MUTUAL (FORMERLY KNOWN AS AKIN GUMP ON BEHALF OF LIBERTY MUTUAL)","slug":"liberty-mutual-formerly-known-as-akin-gump-on-behalf-of-liberty-mutual","state":"DC","description":"Property, casualty and other insurance","totalSpending":1655000,"filings":27,"yearlySpending":[{"year":2018,"income":135000},{"year":2019,"income":240000},{"year":2020,"income":240000},{"year":2021,"income":240000},{"year":2022,"income":300000},{"year":2023,"income":300000},{"year":2024,"income":150000},{"year":2025,"income":50000}],"firms":["US POLICY STRATEGIES"],"lobbyists":["MICHAEL SOLON"],"issues":["BAN","HOU","TOR","TRA","TAX",null,"ENV"],"sampleDescriptions":["Implementation of Dodd-Frank Wall Street Reform and Consumer Protection Act\nInternational regulatory agreements\nS. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act\nH.R. 4537, International Insurance Standards Act","S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act\nH.R. 4537, International Insurance Standards Act\nS. 488, the JOBS and Investor Confidence Act of 2018","International Insurance Regulations","Reform of GSE's","Liability issues related to the pandemic","Unnumbered Highway / Infrastructure legislation","GSE Reform","International tax agreements / GILTI","HR 5376 as it relates to international tax agreements and GILTI","Legislation affecting the OECD's pillar one and pillar two taxes","Legislation affecting credit risk transfers in the government sponsored entities.","Senate Budget Committee hearings on climate change","Reconciliation tax cut - international provisions"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 199746,
+  "name": "LIBERTY MUTUAL (FORMERLY KNOWN AS AKIN GUMP ON BEHALF OF LIBERTY MUTUAL)",
+  "slug": "liberty-mutual-formerly-known-as-akin-gump-on-behalf-of-liberty-mutual",
+  "state": "DC",
+  "description": "Property, casualty and other insurance",
+  "totalSpending": 1655000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 135000
+    },
+    {
+      "year": 2019,
+      "income": 240000
+    },
+    {
+      "year": 2020,
+      "income": 240000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 300000
+    },
+    {
+      "year": 2024,
+      "income": 150000
+    },
+    {
+      "year": 2025,
+      "income": 50000
+    }
+  ],
+  "firms": [
+    "US POLICY STRATEGIES"
+  ],
+  "lobbyists": [
+    "MICHAEL SOLON"
+  ],
+  "issues": [
+    "BAN",
+    "HOU",
+    "TOR",
+    "TRA",
+    "TAX",
+    null,
+    "ENV"
+  ],
+  "sampleDescriptions": [
+    "Implementation of Dodd-Frank Wall Street Reform and Consumer Protection Act\nInternational regulatory agreements\nS. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act\nH.R. 4537, International Insurance Standards Act",
+    "S. 2155, Economic Growth, Regulatory Relief, and Consumer Protection Act\nH.R. 4537, International Insurance Standards Act\nS. 488, the JOBS and Investor Confidence Act of 2018",
+    "International Insurance Regulations",
+    "Reform of GSE's",
+    "Liability issues related to the pandemic",
+    "Unnumbered Highway / Infrastructure legislation",
+    "GSE Reform",
+    "International tax agreements / GILTI",
+    "HR 5376 as it relates to international tax agreements and GILTI",
+    "Legislation affecting the OECD's pillar one and pillar two taxes",
+    "Legislation affecting credit risk transfers in the government sponsored entities.",
+    "Senate Budget Committee hearings on climate change",
+    "Reconciliation tax cut - international provisions"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -63,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 206875,
+  "peakYear": 2022,
+  "lobbyistCount": 1,
+  "firmCount": 1,
+  "issueCount": 6
+}

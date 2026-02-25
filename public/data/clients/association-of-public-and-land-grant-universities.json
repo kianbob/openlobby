@@ -1,1 +1,61 @@
-{"id":167837,"name":"ASSOCIATION OF PUBLIC AND LAND-GRANT UNIVERSITIES","slug":"association-of-public-and-land-grant-universities","state":"DC","description":null,"totalSpending":1400000,"filings":14,"yearlySpending":[{"year":2018,"income":300000},{"year":2019,"income":300000},{"year":2020,"income":400000},{"year":2021,"income":400000}],"firms":["CORNERSTONE GOVERNMENT AFFAIRS, INC."],"lobbyists":["THOMAS SHIPMAN","JAMES RICHARDS","LAVERNE HUBERT","LOUIE PERRY","DAO NGUYEN"],"issues":["AGR","BUD","EDU"],"sampleDescriptions":["Farm Bill Authorization and Implementation, Agriculture appropriations","Agriculture appropriations","Research facilities improvements."],"years":[2018,2019,2020,2021]}
+{
+  "id": 167837,
+  "name": "ASSOCIATION OF PUBLIC AND LAND-GRANT UNIVERSITIES",
+  "slug": "association-of-public-and-land-grant-universities",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 1400000,
+  "filings": 14,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 300000
+    },
+    {
+      "year": 2019,
+      "income": 300000
+    },
+    {
+      "year": 2020,
+      "income": 400000
+    },
+    {
+      "year": 2021,
+      "income": 400000
+    }
+  ],
+  "firms": [
+    "CORNERSTONE GOVERNMENT AFFAIRS, INC."
+  ],
+  "lobbyists": [
+    "THOMAS SHIPMAN",
+    "JAMES RICHARDS",
+    "LAVERNE HUBERT",
+    "LOUIE PERRY",
+    "DAO NGUYEN"
+  ],
+  "issues": [
+    "AGR",
+    "BUD",
+    "EDU"
+  ],
+  "sampleDescriptions": [
+    "Farm Bill Authorization and Implementation, Agriculture appropriations",
+    "Agriculture appropriations",
+    "Research facilities improvements."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "growthRate": 33,
+  "trajectory": "growing",
+  "yearsActive": 4,
+  "avgAnnualSpending": 350000,
+  "peakYear": 2020,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 3
+}

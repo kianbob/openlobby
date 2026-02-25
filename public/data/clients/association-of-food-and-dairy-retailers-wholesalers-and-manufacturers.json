@@ -1,1 +1,90 @@
-{"id":148944,"name":"ASSOCIATION OF FOOD AND DAIRY RETAILERS, WHOLESALERS AND MANUFACTURERS","slug":"association-of-food-and-dairy-retailers-wholesalers-and-manufacturers","state":"IL","description":"Participation in legislative effort to amend pension rules regarding multiemployer plans","totalSpending":3320000,"filings":27,"yearlySpending":[{"year":2018,"income":450000},{"year":2019,"income":320000},{"year":2020,"income":630000},{"year":2021,"income":540000},{"year":2022,"income":460000},{"year":2023,"income":470000},{"year":2024,"income":260000},{"year":2025,"income":190000}],"firms":["VENABLE LLP"],"lobbyists":["KENNETH HOFFMAN","SAMUEL OLCHYK","SARAH DONOVAN"],"issues":["RET",null],"sampleDescriptions":["Proposals relating to multiemployer pension plans, including S. 2147, the Butch Lewis Act of 2017 and H.R. 4444, the Rehabilitation for Multiemployer Pensions Act, and additional proposals to modernize the multiemployer pension system.","Proposals relating to multiemployer pension plans, including S. 2147, the Butch Lewis Act of 2017 and H.R. 4444, the Rehabilitation for Multiemployer Pensions Act, and other proposals and related issues under consideration by the Joint Select Committee on Solvency of Multiemployer Pension Plans.","Proposals relating to multiemployer pension plans, including H.R. 397, the Rehabilitation for Multiemployer Pensions Act, and other proposals and related issues.","Proposals relating to multiemployer pension plans, including H.R. 397, the Rehabilitation for Multiemployer Pensions Act, S. 2254, the Butch Lewis Act of 2019, and other proposals and related issues.","Proposals relating to multiemployer pension plans, including proposals offered in connection with H.R. 748 (the CARES Act); the Multiemployer Pension Recapitalization and Reform Plan; H.R. 397, the Rehabilitation for Multiemployer Pensions Act; and related proposals.","Proposals relating to multiemployer pension plans, including provisions contained in H.R. 6800 (the HEROES Act) and proposals offered in connection with H.R. 748 (the CARES Act); the Multiemployer Pension Recapitalization and Reform Plan; H.R. 397, and the Rehabilitation for Multiemployer Pensions Act","Proposals relating to multiemployer pension plans in connection with P.L. No. 116-260, the Consolidated Appropriations Act, 2021, and provisions contained in H.R. 6800 (the HEROES Act) and the Multiemployer Pension Recapitalization and Reform Plan","Proposals relating to multiemployer pension plans in connection with P.L. No.117-2, the American Rescue Plan Act of 2021","Proposals relating to multiemployer pension plans in connection with P.L. No.117-2, the American Rescue Plan Act of 2021 and related regulatory guidance on implementation","Implementation guidance related to the multiemployer funding relief provision enacted as part of P.L. No.117-2, the American Rescue Plan Act of 2021","Potential multiemployer legislation and implementation guidance related to the multiemployer funding relief provision enacted as part of P.L. No.117-2, the American Rescue Plan Act of 2021","Multiemployer proposals and implementation guidance related to the multiemployer funding relief provision enacted as part of P.L. No.117-2, the American Rescue Plan Act of 2021","Multiemployer proposals and Pension Benefit Guaranty Corporation (PBGC) implementation guidance related to the multiemployer funding provisions enacted in P.L. No. 117-2, the American Rescue Plan Act of 2021; proposed PBGC regulations regarding withdrawal liability","Implementation guidance related to the multiemployer funding provisions enacted in P.L. No. 117-2, the American Rescue Plan Act of 2021; Potential reform concepts for the multiemployer pension system"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 148944,
+  "name": "ASSOCIATION OF FOOD AND DAIRY RETAILERS, WHOLESALERS AND MANUFACTURERS",
+  "slug": "association-of-food-and-dairy-retailers-wholesalers-and-manufacturers",
+  "state": "IL",
+  "description": "Participation in legislative effort to amend pension rules regarding multiemployer plans",
+  "totalSpending": 3320000,
+  "filings": 27,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 450000
+    },
+    {
+      "year": 2019,
+      "income": 320000
+    },
+    {
+      "year": 2020,
+      "income": 630000
+    },
+    {
+      "year": 2021,
+      "income": 540000
+    },
+    {
+      "year": 2022,
+      "income": 460000
+    },
+    {
+      "year": 2023,
+      "income": 470000
+    },
+    {
+      "year": 2024,
+      "income": 260000
+    },
+    {
+      "year": 2025,
+      "income": 190000
+    }
+  ],
+  "firms": [
+    "VENABLE LLP"
+  ],
+  "lobbyists": [
+    "KENNETH HOFFMAN",
+    "SAMUEL OLCHYK",
+    "SARAH DONOVAN"
+  ],
+  "issues": [
+    "RET",
+    null
+  ],
+  "sampleDescriptions": [
+    "Proposals relating to multiemployer pension plans, including S. 2147, the Butch Lewis Act of 2017 and H.R. 4444, the Rehabilitation for Multiemployer Pensions Act, and additional proposals to modernize the multiemployer pension system.",
+    "Proposals relating to multiemployer pension plans, including S. 2147, the Butch Lewis Act of 2017 and H.R. 4444, the Rehabilitation for Multiemployer Pensions Act, and other proposals and related issues under consideration by the Joint Select Committee on Solvency of Multiemployer Pension Plans.",
+    "Proposals relating to multiemployer pension plans, including H.R. 397, the Rehabilitation for Multiemployer Pensions Act, and other proposals and related issues.",
+    "Proposals relating to multiemployer pension plans, including H.R. 397, the Rehabilitation for Multiemployer Pensions Act, S. 2254, the Butch Lewis Act of 2019, and other proposals and related issues.",
+    "Proposals relating to multiemployer pension plans, including proposals offered in connection with H.R. 748 (the CARES Act); the Multiemployer Pension Recapitalization and Reform Plan; H.R. 397, the Rehabilitation for Multiemployer Pensions Act; and related proposals.",
+    "Proposals relating to multiemployer pension plans, including provisions contained in H.R. 6800 (the HEROES Act) and proposals offered in connection with H.R. 748 (the CARES Act); the Multiemployer Pension Recapitalization and Reform Plan; H.R. 397, and the Rehabilitation for Multiemployer Pensions Act",
+    "Proposals relating to multiemployer pension plans in connection with P.L. No. 116-260, the Consolidated Appropriations Act, 2021, and provisions contained in H.R. 6800 (the HEROES Act) and the Multiemployer Pension Recapitalization and Reform Plan",
+    "Proposals relating to multiemployer pension plans in connection with P.L. No.117-2, the American Rescue Plan Act of 2021",
+    "Proposals relating to multiemployer pension plans in connection with P.L. No.117-2, the American Rescue Plan Act of 2021 and related regulatory guidance on implementation",
+    "Implementation guidance related to the multiemployer funding relief provision enacted as part of P.L. No.117-2, the American Rescue Plan Act of 2021",
+    "Potential multiemployer legislation and implementation guidance related to the multiemployer funding relief provision enacted as part of P.L. No.117-2, the American Rescue Plan Act of 2021",
+    "Multiemployer proposals and implementation guidance related to the multiemployer funding relief provision enacted as part of P.L. No.117-2, the American Rescue Plan Act of 2021",
+    "Multiemployer proposals and Pension Benefit Guaranty Corporation (PBGC) implementation guidance related to the multiemployer funding provisions enacted in P.L. No. 117-2, the American Rescue Plan Act of 2021; proposed PBGC regulations regarding withdrawal liability",
+    "Implementation guidance related to the multiemployer funding provisions enacted in P.L. No. 117-2, the American Rescue Plan Act of 2021; Potential reform concepts for the multiemployer pension system"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -58,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 415000,
+  "peakYear": 2020,
+  "lobbyistCount": 3,
+  "firmCount": 1,
+  "issueCount": 1,
+  "industry": "technology"
+}

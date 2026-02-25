@@ -1,1 +1,90 @@
-{"id":145726,"name":"ASSURED GUARANTY LTD. (AGL)","slug":"assured-guaranty-ltd-agl","state":null,"description":"Assured Guaranty is the leading provider of financial guaranty insurance.","totalSpending":2850000,"filings":30,"yearlySpending":[{"year":2018,"income":880000},{"year":2019,"income":480000},{"year":2020,"income":420000},{"year":2021,"income":240000},{"year":2022,"income":300000},{"year":2023,"income":270000},{"year":2024,"income":160000},{"year":2025,"income":100000}],"firms":["STEPTOE LLP"],"lobbyists":["CAROLYN WALSH","MICAH GREEN","ALLISON NYHOLM","LISA ZARLENGA","GEORGE CALLAS"],"issues":["NAT","TAX","DIS","FIN",null],"sampleDescriptions":["Legislative proposals impacting Puerto Rico.","HR 1: Tax Cut and Jobs Act of 2017 relating to international taxation issues.","Legislative assistance with Puerto Rico disaster relief.","Legislative proposals impacting the municipal bond market.","Legislative proposal impacting Puerto Rico.","Tax Cut and Jobs Act of 2017 relating to international taxation issues.","Tax issues affecting the reinsurance municipal bond insurance exposure and PFIC issues","Tax Cut and Jobs Act of 2017 relating to international taxation issues.  Issues relating to PFIC.","Tax Cut and Jobs Act of 2017 relating to international taxation issues relating to PFIC."],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 145726,
+  "name": "ASSURED GUARANTY LTD. (AGL)",
+  "slug": "assured-guaranty-ltd-agl",
+  "state": null,
+  "description": "Assured Guaranty is the leading provider of financial guaranty insurance.",
+  "totalSpending": 2850000,
+  "filings": 30,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 880000
+    },
+    {
+      "year": 2019,
+      "income": 480000
+    },
+    {
+      "year": 2020,
+      "income": 420000
+    },
+    {
+      "year": 2021,
+      "income": 240000
+    },
+    {
+      "year": 2022,
+      "income": 300000
+    },
+    {
+      "year": 2023,
+      "income": 270000
+    },
+    {
+      "year": 2024,
+      "income": 160000
+    },
+    {
+      "year": 2025,
+      "income": 100000
+    }
+  ],
+  "firms": [
+    "STEPTOE LLP"
+  ],
+  "lobbyists": [
+    "CAROLYN WALSH",
+    "MICAH GREEN",
+    "ALLISON NYHOLM",
+    "LISA ZARLENGA",
+    "GEORGE CALLAS"
+  ],
+  "issues": [
+    "NAT",
+    "TAX",
+    "DIS",
+    "FIN",
+    null
+  ],
+  "sampleDescriptions": [
+    "Legislative proposals impacting Puerto Rico.",
+    "HR 1: Tax Cut and Jobs Act of 2017 relating to international taxation issues.",
+    "Legislative assistance with Puerto Rico disaster relief.",
+    "Legislative proposals impacting the municipal bond market.",
+    "Legislative proposal impacting Puerto Rico.",
+    "Tax Cut and Jobs Act of 2017 relating to international taxation issues.",
+    "Tax issues affecting the reinsurance municipal bond insurance exposure and PFIC issues",
+    "Tax Cut and Jobs Act of 2017 relating to international taxation issues.  Issues relating to PFIC.",
+    "Tax Cut and Jobs Act of 2017 relating to international taxation issues relating to PFIC."
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": -89,
+  "trajectory": "declining",
+  "yearsActive": 8,
+  "avgAnnualSpending": 356250,
+  "peakYear": 2018,
+  "lobbyistCount": 5,
+  "firmCount": 1,
+  "issueCount": 4,
+  "industry": "finance"
+}

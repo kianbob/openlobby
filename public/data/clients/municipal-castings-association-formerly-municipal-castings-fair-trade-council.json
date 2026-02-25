@@ -1,1 +1,106 @@
-{"id":182245,"name":"MUNICIPAL CASTINGS ASSOCIATION FORMERLY MUNICIPAL CASTINGS FAIR TRADE COUNCIL","slug":"municipal-castings-association-formerly-municipal-castings-fair-trade-council","state":"DC","description":null,"totalSpending":4040000,"filings":33,"yearlySpending":[{"year":2018,"income":240000},{"year":2019,"income":280000},{"year":2020,"income":280000},{"year":2021,"income":350000},{"year":2022,"income":440000},{"year":2023,"income":440000},{"year":2024,"income":1010000},{"year":2025,"income":1000000}],"firms":["KELLEY DRYE & WARREN LLP"],"lobbyists":["DANA WOOD","DUSTIN PAINTER","MAGGIE CROSSWY","WILLIAM PALMER","GREG MASTEL","JENNIFER MCCADNEY","JAYME WHITE"],"issues":["BUD","ROD","GOV","TRD","CAW","TRA",null,"HOU"],"sampleDescriptions":["FY 2018  Omnibus Appropriations Act, FY 2019 Interior Environment and Agriculture Appropriations related to materials requirements for federal aid infrastructure","HR 3387 Drinking Water Systems Improvement Act of 2017;Water resources and surface transportation infrastructure generally (no bill number); Draft legislation concerning materials specification procedures and innovative materials in federally-aided infrastructure;","Buy American Hire American Executive Order","HR 3387 Drinking Water Systems Improvement Act of 2017;Water resources and surface transportation infrastructure generally (H.R. 8); H.R. 5310 concerning materials specification procedures and innovative materials in federally-aided infrastructure;","H.R.6147, S.3073 - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019, provisions related to materials requirements for federal aid infrastructure; H.R.5961 - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2019, provisions related to materials requirements for federal aid infrastructure","HR 3387 Drinking Water Systems Improvement Act of 2017;Water resources and surface transportation infrastructure generally (H.R. 8); H.R. 5310 concerning materials specification procedures and innovative materials in federally-aided infrastructure; S.3021 - America's Water Infrastructure Act of 2018","Domestic procurement preference requirements including Keep Buying American Act, S.405; and draft legislation;  EO 13858 \"Strengthening Buy-American Preferences for Infrastructure Projects.\"","FY 2020 Interior Environment and Related Agencies Appropriations, FY 2020 Agriculture Appropriations related to federal aid infrastructure assistance programs for clean and drinking water generally and \"American Iron and Steel\" provisions.\n\nFederal infrastructure legislation (no bill number) as to federally aid infrastructure investments generally; Water Quality Protection and Job Creation Act of 2019 HR 1497, as to increased authorized spending for clean water infrastructure; ; draft legislation on materials requirements, materials competition and innovative materials used in federally-assisted infrastructure spending.","U.S. Customs enforcement of country of origin marking requirements; U.S. Commerce discretion to use adverse facts available in antidumping and subsidy investigations.","FY 2020 Interior Environment and Related Agencies Appropriations, FY 2020 Agriculture Appropriations related to federal aid infrastructure assistance programs for clean and drinking water generally and \"American Iron and Steel\" provisions.","Federal infrastructure legislation (no bill number) as to federally aid infrastructure investments generally; Water Quality Protection and Job Creation Act of 2019 HR 1497, as to increased authorized spending for clean water infrastructure; ; draft legislation on materials requirements, materials competition and innovative materials used in federally-assisted infrastructure spending; Federal Infrastructure legislation (no bill number) as to federal-aid infrastructure programs; \"innovative materials\" legislation, S. 403, HR 1159; Water Quality Protection and Job Creation Act of 2019 (H.R. 1497 ) in regard to program authorization and funding.","S. 2023, Highway programs funding America's Transportation Infrastructure Act of 2019; Draft surface transportation federal assistance infrastructure programs re-authorization.","Domestic procurement preference requirements including Keep Buying American Act, S.405","FY 2020 Further Consolidated Appropriations Act (H.R. 1865), FY 2020 Interior Environment and Related Agencies Appropriations, FY 2020 Agriculture Appropriations related to federal aid infrastructure assistance programs for clean and drinking water generally and \"American Iron and Steel\" provisions.","S. 2023, Highway programs funding America's Transportation Infrastructure Act of 2019; Draft surface transportation federal assistance infrastructure programs re-authorization; draft public transportation infrastructure programs reauthorization legislation.","FY 2021 Interior Environment and Related Agencies Appropriations Act and FY 2021 Agriculture Appropriations Act in regard to programmatic requirements for federal-assistance water infrastructure programs.","Federal infrastructure legislation (no bill number) as to federally aid infrastructure investments generally; Water Quality Protection and Job Creation Act of 2019 HR 1497, as to increased authorized spending for clean water infrastructure; ; draft legislation on materials requirements, materials competition and innovative materials used in federally-assisted infrastructure spending; Federal Infrastructure legislation (no bill number) as to federal-aid infrastructure programs; \"innovative materials\" legislation, S. 403, HR 1159; Water Quality Protection and Job Creation Act of 2019 (H.R. 1497 ) in regard to program authorization and funding; draft Water Resources Development Act generally, draft drinking water infrastructure programs reauthorization, possible infrastructure programs economic stimulus legislation. Possible infrastructure programs economic stimulus legislation.","S. 2023, Highway programs funding America's Transportation Infrastructure Act of 2019; Draft surface transportation federal assistance infrastructure programs re-authorization; draft public transportation infrastructure programs reauthorization legislation; HR 2, Invest in America Act/Moving Forward Act, public transportation and public works federal infrastructure authorizing legislation, generally.","FY 2022 Interior Environment Appropriations, FY 2022 Agriculture Appropriations and FY 2022 Transportation Housing Appropriations as to appropriations for federal assistance infrastructure programs.","Executive Order 14005 Ensuring the Future Is Made in All of America by All of America's Workers"],"years":[2018,2019,2020,2021,2022,2023,2024,2025]}
+{
+  "id": 182245,
+  "name": "MUNICIPAL CASTINGS ASSOCIATION FORMERLY MUNICIPAL CASTINGS FAIR TRADE COUNCIL",
+  "slug": "municipal-castings-association-formerly-municipal-castings-fair-trade-council",
+  "state": "DC",
+  "description": null,
+  "totalSpending": 4040000,
+  "filings": 33,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 240000
+    },
+    {
+      "year": 2019,
+      "income": 280000
+    },
+    {
+      "year": 2020,
+      "income": 280000
+    },
+    {
+      "year": 2021,
+      "income": 350000
+    },
+    {
+      "year": 2022,
+      "income": 440000
+    },
+    {
+      "year": 2023,
+      "income": 440000
+    },
+    {
+      "year": 2024,
+      "income": 1010000
+    },
+    {
+      "year": 2025,
+      "income": 1000000
+    }
+  ],
+  "firms": [
+    "KELLEY DRYE & WARREN LLP"
+  ],
+  "lobbyists": [
+    "DANA WOOD",
+    "DUSTIN PAINTER",
+    "MAGGIE CROSSWY",
+    "WILLIAM PALMER",
+    "GREG MASTEL",
+    "JENNIFER MCCADNEY",
+    "JAYME WHITE"
+  ],
+  "issues": [
+    "BUD",
+    "ROD",
+    "GOV",
+    "TRD",
+    "CAW",
+    "TRA",
+    null,
+    "HOU"
+  ],
+  "sampleDescriptions": [
+    "FY 2018  Omnibus Appropriations Act, FY 2019 Interior Environment and Agriculture Appropriations related to materials requirements for federal aid infrastructure",
+    "HR 3387 Drinking Water Systems Improvement Act of 2017;Water resources and surface transportation infrastructure generally (no bill number); Draft legislation concerning materials specification procedures and innovative materials in federally-aided infrastructure;",
+    "Buy American Hire American Executive Order",
+    "HR 3387 Drinking Water Systems Improvement Act of 2017;Water resources and surface transportation infrastructure generally (H.R. 8); H.R. 5310 concerning materials specification procedures and innovative materials in federally-aided infrastructure;",
+    "H.R.6147, S.3073 - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019, provisions related to materials requirements for federal aid infrastructure; H.R.5961 - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2019, provisions related to materials requirements for federal aid infrastructure",
+    "HR 3387 Drinking Water Systems Improvement Act of 2017;Water resources and surface transportation infrastructure generally (H.R. 8); H.R. 5310 concerning materials specification procedures and innovative materials in federally-aided infrastructure; S.3021 - America's Water Infrastructure Act of 2018",
+    "Domestic procurement preference requirements including Keep Buying American Act, S.405; and draft legislation;  EO 13858 \"Strengthening Buy-American Preferences for Infrastructure Projects.\"",
+    "FY 2020 Interior Environment and Related Agencies Appropriations, FY 2020 Agriculture Appropriations related to federal aid infrastructure assistance programs for clean and drinking water generally and \"American Iron and Steel\" provisions.\n\nFederal infrastructure legislation (no bill number) as to federally aid infrastructure investments generally; Water Quality Protection and Job Creation Act of 2019 HR 1497, as to increased authorized spending for clean water infrastructure; ; draft legislation on materials requirements, materials competition and innovative materials used in federally-assisted infrastructure spending.",
+    "U.S. Customs enforcement of country of origin marking requirements; U.S. Commerce discretion to use adverse facts available in antidumping and subsidy investigations.",
+    "FY 2020 Interior Environment and Related Agencies Appropriations, FY 2020 Agriculture Appropriations related to federal aid infrastructure assistance programs for clean and drinking water generally and \"American Iron and Steel\" provisions.",
+    "Federal infrastructure legislation (no bill number) as to federally aid infrastructure investments generally; Water Quality Protection and Job Creation Act of 2019 HR 1497, as to increased authorized spending for clean water infrastructure; ; draft legislation on materials requirements, materials competition and innovative materials used in federally-assisted infrastructure spending; Federal Infrastructure legislation (no bill number) as to federal-aid infrastructure programs; \"innovative materials\" legislation, S. 403, HR 1159; Water Quality Protection and Job Creation Act of 2019 (H.R. 1497 ) in regard to program authorization and funding.",
+    "S. 2023, Highway programs funding America's Transportation Infrastructure Act of 2019; Draft surface transportation federal assistance infrastructure programs re-authorization.",
+    "Domestic procurement preference requirements including Keep Buying American Act, S.405",
+    "FY 2020 Further Consolidated Appropriations Act (H.R. 1865), FY 2020 Interior Environment and Related Agencies Appropriations, FY 2020 Agriculture Appropriations related to federal aid infrastructure assistance programs for clean and drinking water generally and \"American Iron and Steel\" provisions.",
+    "S. 2023, Highway programs funding America's Transportation Infrastructure Act of 2019; Draft surface transportation federal assistance infrastructure programs re-authorization; draft public transportation infrastructure programs reauthorization legislation.",
+    "FY 2021 Interior Environment and Related Agencies Appropriations Act and FY 2021 Agriculture Appropriations Act in regard to programmatic requirements for federal-assistance water infrastructure programs.",
+    "Federal infrastructure legislation (no bill number) as to federally aid infrastructure investments generally; Water Quality Protection and Job Creation Act of 2019 HR 1497, as to increased authorized spending for clean water infrastructure; ; draft legislation on materials requirements, materials competition and innovative materials used in federally-assisted infrastructure spending; Federal Infrastructure legislation (no bill number) as to federal-aid infrastructure programs; \"innovative materials\" legislation, S. 403, HR 1159; Water Quality Protection and Job Creation Act of 2019 (H.R. 1497 ) in regard to program authorization and funding; draft Water Resources Development Act generally, draft drinking water infrastructure programs reauthorization, possible infrastructure programs economic stimulus legislation. Possible infrastructure programs economic stimulus legislation.",
+    "S. 2023, Highway programs funding America's Transportation Infrastructure Act of 2019; Draft surface transportation federal assistance infrastructure programs re-authorization; draft public transportation infrastructure programs reauthorization legislation; HR 2, Invest in America Act/Moving Forward Act, public transportation and public works federal infrastructure authorizing legislation, generally.",
+    "FY 2022 Interior Environment Appropriations, FY 2022 Agriculture Appropriations and FY 2022 Transportation Housing Appropriations as to appropriations for federal assistance infrastructure programs.",
+    "Executive Order 14005 Ensuring the Future Is Made in All of America by All of America's Workers"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "growthRate": 317,
+  "trajectory": "exploding",
+  "yearsActive": 8,
+  "avgAnnualSpending": 505000,
+  "peakYear": 2024,
+  "lobbyistCount": 7,
+  "firmCount": 1,
+  "issueCount": 7,
+  "industry": "technology"
+}

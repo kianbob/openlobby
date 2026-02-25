@@ -1,1 +1,329 @@
-{"abbreviation":"UT","name":"Utah","totalSpending":121510312.67,"totalFilings":5721,"clientCount":361,"yearlySpending":[{"year":2018,"income":9471500},{"year":2019,"income":9950000},{"year":2020,"income":10593050},{"year":2021,"income":12160090},{"year":2022,"income":14108930},{"year":2023,"income":31889364},{"year":2024,"income":14504544},{"year":2025,"income":18832834.67}],"topClients":[{"name":"MANAGEMENT AND TRAINING CORPORATION","income":3920000},{"name":"CBC NATIONAL BANK MORTGAGE","income":3367500},{"name":"STATE FUND CONGRESSIONAL ACTION GROUP (SFCAG)","income":3040000},{"name":"BARRICK GOLD OF NORTH AMERICA INC.","income":2590000},{"name":"MYRIAD GENETICS, INC.","income":2470000},{"name":"UTE INDIAN TRIBE","income":2443296},{"name":"MANAGEMENT & TRAINING CORPORATION","income":2392500},{"name":"1-800 CONTACTS, INC.","income":2320000},{"name":"1-800 CONTACTS","income":2115000},{"name":"SORENSON COMMUNICATIONS","income":2100000},{"name":"AMERICAN PACIFIC","income":1910000},{"name":"SORENSON HOLDINGS LLC","income":1770000},{"name":"IVANTI","income":1660000},{"name":"SPACE DYNAMICS LABORATORY (SDL)","income":1660000},{"name":"UTAH DEFENSE ALLIANCE","income":1560000},{"name":"THE UNIVERSITY OF UTAH","income":1560000},{"name":"TAXBIT INC.","income":1530000},{"name":"INTERMOUNTAIN HEALTH","income":1520000},{"name":"NOMI HEALTH","income":1470000},{"name":"NATIONAL ASSOCIATION OF INDUSTRIAL BANKERS","income":1451000},{"name":"WESTERN GOVERNORS UNIVERSITY","income":1400000},{"name":"RIO TINTO SERVICES INC.","income":1400000},{"name":"WEBBANK","income":1380000},{"name":"ZIONS BANCORP","income":1254000},{"name":"QUALTRICS LLC","income":1220000},{"name":"UTAH DEPARTMENT OF TRANSPORTATION","income":1170000},{"name":"USANA HEALTH SCIENCES INC.","income":1170000},{"name":"CENTRAL UTAH WATER CONSERVANCY DISTRICT","income":1140000},{"name":"INNOVATIVE VACCINE TECHNOLOGIES","income":1020000},{"name":"ANCESTRY","income":1010000},{"name":"UNITED NATURAL PRODUCTS ALLIANCE","income":980000},{"name":"THE AMERICAN COALITION FOR TAXPAYER RIGHTS","income":980000},{"name":"ENERGY SOLUTIONS","income":950000},{"name":"NOMI HEALTH, INC.","income":935000},{"name":"CBC MORTGAGE AGENCY","income":930000},{"name":"SALT LAKE COMMUNITY COLLEGE","income":920000},{"name":"3M HEALTH INFORMATION SYSTEMS","income":920000},{"name":"FORTEM TECHNOLOGIES, INC.","income":920000},{"name":"DOTERRA INTERNATIONAL LLC","income":910000},{"name":"STRIDER TECHNOLOGIES, INC.","income":910000},{"name":"BIOFIRE DEFENSE LLC","income":900000},{"name":"WATERFORD INSTITUTE","income":880000},{"name":"WATERFORD RESEARCH INSTITUTE LLC","income":800000},{"name":"CREDIT.COM (FORMERLY KNOWN AS PROGREXION ASG)","income":790000},{"name":"CITY OF ST GEORGE","income":780000},{"name":"SALT LAKE COUNTY","income":769666.67},{"name":"POWDR","income":760000},{"name":"ARUP LABORATORIES, INC.","income":750000},{"name":"CONSERVICE PARENT LLC","income":750000},{"name":"EPHRAIM CITY, UT","income":730000}],"topIssues":[{"code":"BUD","income":28542500},{"code":"HCR","income":19547400},{"code":"DEF","income":12122400},{"code":"NAT","income":10043000},{"code":"TAX","income":10028000},{"code":"BAN","income":8022000},{"code":"LBR","income":7049000},{"code":"GOV","income":7036500},{"code":"EDU","income":6242000},{"code":"MMM","income":5795000},{"code":"SCI","income":5498000},{"code":"HOU","income":5351500},{"code":"ENV","income":4983000},{"code":"TEC","income":4927000},{"code":"LAW","income":4791000},{"code":"TRA","income":4703500},{"code":"FIN","income":4440250},{"code":"RES","income":3540000},{"code":"CSP","income":3459000},{"code":"TRD","income":3420000}]}
+{
+  "abbreviation": "UT",
+  "name": "Utah",
+  "totalSpending": 121510312.67,
+  "totalFilings": 5721,
+  "clientCount": 361,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 9471500
+    },
+    {
+      "year": 2019,
+      "income": 9950000
+    },
+    {
+      "year": 2020,
+      "income": 10593050
+    },
+    {
+      "year": 2021,
+      "income": 12160090
+    },
+    {
+      "year": 2022,
+      "income": 14108930
+    },
+    {
+      "year": 2023,
+      "income": 31889364
+    },
+    {
+      "year": 2024,
+      "income": 14504544
+    },
+    {
+      "year": 2025,
+      "income": 18832834.67
+    }
+  ],
+  "topClients": [
+    {
+      "name": "MANAGEMENT AND TRAINING CORPORATION",
+      "income": 3920000
+    },
+    {
+      "name": "CBC NATIONAL BANK MORTGAGE",
+      "income": 3367500
+    },
+    {
+      "name": "STATE FUND CONGRESSIONAL ACTION GROUP (SFCAG)",
+      "income": 3040000
+    },
+    {
+      "name": "BARRICK GOLD OF NORTH AMERICA INC.",
+      "income": 2590000
+    },
+    {
+      "name": "MYRIAD GENETICS, INC.",
+      "income": 2470000
+    },
+    {
+      "name": "UTE INDIAN TRIBE",
+      "income": 2443296
+    },
+    {
+      "name": "MANAGEMENT & TRAINING CORPORATION",
+      "income": 2392500
+    },
+    {
+      "name": "1-800 CONTACTS, INC.",
+      "income": 2320000
+    },
+    {
+      "name": "1-800 CONTACTS",
+      "income": 2115000
+    },
+    {
+      "name": "SORENSON COMMUNICATIONS",
+      "income": 2100000
+    },
+    {
+      "name": "AMERICAN PACIFIC",
+      "income": 1910000
+    },
+    {
+      "name": "SORENSON HOLDINGS LLC",
+      "income": 1770000
+    },
+    {
+      "name": "IVANTI",
+      "income": 1660000
+    },
+    {
+      "name": "SPACE DYNAMICS LABORATORY (SDL)",
+      "income": 1660000
+    },
+    {
+      "name": "UTAH DEFENSE ALLIANCE",
+      "income": 1560000
+    },
+    {
+      "name": "THE UNIVERSITY OF UTAH",
+      "income": 1560000
+    },
+    {
+      "name": "TAXBIT INC.",
+      "income": 1530000
+    },
+    {
+      "name": "INTERMOUNTAIN HEALTH",
+      "income": 1520000
+    },
+    {
+      "name": "NOMI HEALTH",
+      "income": 1470000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF INDUSTRIAL BANKERS",
+      "income": 1451000
+    },
+    {
+      "name": "WESTERN GOVERNORS UNIVERSITY",
+      "income": 1400000
+    },
+    {
+      "name": "RIO TINTO SERVICES INC.",
+      "income": 1400000
+    },
+    {
+      "name": "WEBBANK",
+      "income": 1380000
+    },
+    {
+      "name": "ZIONS BANCORP",
+      "income": 1254000
+    },
+    {
+      "name": "QUALTRICS LLC",
+      "income": 1220000
+    },
+    {
+      "name": "UTAH DEPARTMENT OF TRANSPORTATION",
+      "income": 1170000
+    },
+    {
+      "name": "USANA HEALTH SCIENCES INC.",
+      "income": 1170000
+    },
+    {
+      "name": "CENTRAL UTAH WATER CONSERVANCY DISTRICT",
+      "income": 1140000
+    },
+    {
+      "name": "INNOVATIVE VACCINE TECHNOLOGIES",
+      "income": 1020000
+    },
+    {
+      "name": "ANCESTRY",
+      "income": 1010000
+    },
+    {
+      "name": "UNITED NATURAL PRODUCTS ALLIANCE",
+      "income": 980000
+    },
+    {
+      "name": "THE AMERICAN COALITION FOR TAXPAYER RIGHTS",
+      "income": 980000
+    },
+    {
+      "name": "ENERGY SOLUTIONS",
+      "income": 950000
+    },
+    {
+      "name": "NOMI HEALTH, INC.",
+      "income": 935000
+    },
+    {
+      "name": "CBC MORTGAGE AGENCY",
+      "income": 930000
+    },
+    {
+      "name": "SALT LAKE COMMUNITY COLLEGE",
+      "income": 920000
+    },
+    {
+      "name": "3M HEALTH INFORMATION SYSTEMS",
+      "income": 920000
+    },
+    {
+      "name": "FORTEM TECHNOLOGIES, INC.",
+      "income": 920000
+    },
+    {
+      "name": "DOTERRA INTERNATIONAL LLC",
+      "income": 910000
+    },
+    {
+      "name": "STRIDER TECHNOLOGIES, INC.",
+      "income": 910000
+    },
+    {
+      "name": "BIOFIRE DEFENSE LLC",
+      "income": 900000
+    },
+    {
+      "name": "WATERFORD INSTITUTE",
+      "income": 880000
+    },
+    {
+      "name": "WATERFORD RESEARCH INSTITUTE LLC",
+      "income": 800000
+    },
+    {
+      "name": "CREDIT.COM (FORMERLY KNOWN AS PROGREXION ASG)",
+      "income": 790000
+    },
+    {
+      "name": "CITY OF ST GEORGE",
+      "income": 780000
+    },
+    {
+      "name": "SALT LAKE COUNTY",
+      "income": 769666.67
+    },
+    {
+      "name": "POWDR",
+      "income": 760000
+    },
+    {
+      "name": "ARUP LABORATORIES, INC.",
+      "income": 750000
+    },
+    {
+      "name": "CONSERVICE PARENT LLC",
+      "income": 750000
+    },
+    {
+      "name": "EPHRAIM CITY, UT",
+      "income": 730000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 28542500
+    },
+    {
+      "code": "HCR",
+      "income": 19547400
+    },
+    {
+      "code": "DEF",
+      "income": 12122400
+    },
+    {
+      "code": "NAT",
+      "income": 10043000
+    },
+    {
+      "code": "TAX",
+      "income": 10028000
+    },
+    {
+      "code": "BAN",
+      "income": 8022000
+    },
+    {
+      "code": "LBR",
+      "income": 7049000
+    },
+    {
+      "code": "GOV",
+      "income": 7036500
+    },
+    {
+      "code": "EDU",
+      "income": 6242000
+    },
+    {
+      "code": "MMM",
+      "income": 5795000
+    },
+    {
+      "code": "SCI",
+      "income": 5498000
+    },
+    {
+      "code": "HOU",
+      "income": 5351500
+    },
+    {
+      "code": "ENV",
+      "income": 4983000
+    },
+    {
+      "code": "TEC",
+      "income": 4927000
+    },
+    {
+      "code": "LAW",
+      "income": 4791000
+    },
+    {
+      "code": "TRA",
+      "income": 4703500
+    },
+    {
+      "code": "FIN",
+      "income": 4440250
+    },
+    {
+      "code": "RES",
+      "income": 3540000
+    },
+    {
+      "code": "CSP",
+      "income": 3459000
+    },
+    {
+      "code": "TRD",
+      "income": 3420000
+    }
+  ],
+  "perCapita": 35.75,
+  "population": 3417734,
+  "nationalRank": 31,
+  "perCapitaRank": 26
+}
