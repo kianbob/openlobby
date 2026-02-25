@@ -1,5 +1,6 @@
 'use client'
 import { useState, useEffect, useMemo } from 'react'
+import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
@@ -162,6 +163,31 @@ export default function GeographicPage() {
               <div className="text-xs text-gray-500 mt-1">{formatNumber(s.uniqueClients)} clients · {formatCurrency(s.totalIncome)}</div>
             </div>
           ))}
+        </div>
+      </section>
+
+      <section className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/investigations/dc-lobbying-capital" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🏛️ DC: The Lobbying Capital</div>
+            <div className="text-xs text-gray-500 mt-1">Why Washington dominates the map</div>
+          </Link>
+          <Link href="/investigations/foreign-influence" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🌍 Foreign Influence</div>
+            <div className="text-xs text-gray-500 mt-1">International lobbying in the US</div>
+          </Link>
+          <Link href="/investigations/lobbying-statistics" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📊 Lobbying Statistics 2025</div>
+            <div className="text-xs text-gray-500 mt-1">Complete state-by-state breakdown</div>
+          </Link>
+        </div>
+      </section>
+      <section className="mb-8">
+        <div className="flex flex-wrap gap-3">
+          <Link href="/states" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🗺️ All States</Link>
+          <Link href="/clients" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">👤 Top Clients</Link>
+          <Link href="/concentration" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🎯 Market Concentration</Link>
         </div>
       </section>
 

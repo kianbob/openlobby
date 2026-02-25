@@ -78,6 +78,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   } catch {}
 
+  // Industry detail pages
+  const industrySlugs = [
+    'technology', 'healthcare', 'defense', 'energy', 'finance',
+    'agriculture', 'transportation', 'telecom', 'real-estate', 'education',
+  ]
+  for (const slug of industrySlugs) {
+    routes.push({ url: `${baseUrl}/industries/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6 })
+  }
+
   // Investigation articles
   for (const slug of investigations) {
     routes.push({ url: `${baseUrl}/investigations/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6 })

@@ -278,6 +278,32 @@ export default function ClientTrajectoriesPage() {
         )}
       </section>
 
+      <section className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/investigations/first-time-filers-2024" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🆕 First-Time Filers 2024</div>
+            <div className="text-xs text-gray-500 mt-1">New entrants to the lobbying game</div>
+          </Link>
+          <Link href="/investigations/the-22000-percent-roi" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📈 The 22,000% ROI</div>
+            <div className="text-xs text-gray-500 mt-1">When lobbying investment pays off big</div>
+          </Link>
+          <Link href="/investigations/lobbying-statistics" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📊 Lobbying Statistics 2025</div>
+            <div className="text-xs text-gray-500 mt-1">Complete spending overview</div>
+          </Link>
+        </div>
+      </section>
+      <section className="mb-8">
+        <div className="flex flex-wrap gap-3">
+          <Link href="/clients" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">👤 Top Clients</Link>
+          <Link href="/momentum" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🚀 Momentum</Link>
+          <Link href="/new-entrants" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🆕 New Entrants</Link>
+          <Link href="/trends" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📉 Trends</Link>
+        </div>
+      </section>
+
       <SourceCitation sources={['U.S. Senate Lobbying Disclosure Act Database', 'OpenLobby analysis']} lastUpdated="2025" />
     </div>
   )

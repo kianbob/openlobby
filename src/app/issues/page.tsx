@@ -73,6 +73,33 @@ export default function IssuesPage() {
           </table>
         </div>
       )}
+      <div className="mt-12 mb-8">
+        <h2 className="text-xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/investigations/issue-arms-race" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">⚔️ The Issue Arms Race</div>
+            <div className="text-xs text-gray-500 mt-1">How competing industries battle over the same issues</div>
+          </Link>
+          <Link href="/investigations/lobbying-statistics" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📊 Lobbying Statistics 2025</div>
+            <div className="text-xs text-gray-500 mt-1">Complete industry and issue breakdowns</div>
+          </Link>
+          <Link href="/investigations/seasonal-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📅 Seasonal Lobbying Patterns</div>
+            <div className="text-xs text-gray-500 mt-1">When do lobbying spikes happen?</div>
+          </Link>
+        </div>
+      </div>
+      <div className="mb-8">
+        <h2 className="text-xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/momentum" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🚀 Spending Momentum</Link>
+          <Link href="/clients" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">👤 Top Clients</Link>
+          <Link href="/industries" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏭 Industries</Link>
+          <Link href="/text-analysis" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📝 Text Analysis</Link>
+          <Link href="/issue-battles" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">⚔️ Issue Battles</Link>
+        </div>
+      </div>
     </div>
   )
 }

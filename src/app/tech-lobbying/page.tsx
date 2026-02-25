@@ -143,6 +143,36 @@ export default function TechLobbyingPage() {
           <p className="text-sm text-gray-600 mt-1">Compare across sectors</p>
         </Link>
       </div>
+
+      <div className="mt-12">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Dive Deeper</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/investigations/ai-regulation-fight" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🤖 The AI Regulation Fight</div>
+            <div className="text-xs text-gray-500 mt-1">Who&apos;s lobbying to shape AI policy</div>
+          </Link>
+          <Link href="/investigations/crypto-lobbying-explosion" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">₿ Crypto Lobbying Explosion</div>
+            <div className="text-xs text-gray-500 mt-1">From zero to massive lobbying presence</div>
+          </Link>
+          <Link href="/issues/CPT" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📋 Copyright/Patent Issues</div>
+            <div className="text-xs text-gray-500 mt-1">All CPT-coded lobbying filings</div>
+          </Link>
+          <Link href="/momentum" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🚀 Spending Momentum</div>
+            <div className="text-xs text-gray-500 mt-1">Which tech issues are surging?</div>
+          </Link>
+          <Link href="/clients" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">👤 Top Clients</div>
+            <div className="text-xs text-gray-500 mt-1">See all top lobbying spenders</div>
+          </Link>
+          <Link href="/how-lobbying-works" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📖 How Lobbying Works</div>
+            <div className="text-xs text-gray-500 mt-1">The complete guide</div>
+          </Link>
+        </div>
+      </div>
     </article>
   )
 }

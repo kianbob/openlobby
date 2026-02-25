@@ -11,6 +11,7 @@ const navGroups = [
       { name: 'Lobbying Firms', href: '/firms', desc: 'K Street\'s biggest players' },
       { name: 'Lobbyists', href: '/lobbyists', desc: 'The people working the halls' },
       { name: 'Issues', href: '/issues', desc: 'What they\'re lobbying about' },
+      { name: 'Industries', href: '/industries', desc: 'Spending by sector' },
       { name: 'By State', href: '/states', desc: 'Lobbying by client state' },
     ],
   },

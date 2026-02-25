@@ -1,5 +1,6 @@
 'use client'
 import { useState, useEffect, useMemo } from 'react'
+import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
@@ -174,6 +175,31 @@ export default function ConcentrationPage() {
         <p className="text-sm text-gray-700 leading-relaxed">
           The Herfindahl-Hirschman Index (HHI) measures market concentration. For lobbying firms, we calculate HHI based on revenue share across clients. A score of 10,000 means one client provides 100% of revenue. Below 1,500 is considered diversified. High HHI means the firm&apos;s fate is tied to a few key clients — a risky position that can lead to conflicts of interest or business vulnerability.
         </p>
+      </section>
+
+      <section className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/investigations/follow-the-money" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💰 Follow the Money</div>
+            <div className="text-xs text-gray-500 mt-1">Where lobbying dollars flow</div>
+          </Link>
+          <Link href="/investigations/the-22000-percent-roi" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📈 The 22,000% ROI</div>
+            <div className="text-xs text-gray-500 mt-1">Outsized returns on lobbying investment</div>
+          </Link>
+          <Link href="/investigations/revolving-door-exposed" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🚪 Revolving Door Exposed</div>
+            <div className="text-xs text-gray-500 mt-1">How former officials shape the market</div>
+          </Link>
+        </div>
+      </section>
+      <section className="mb-8">
+        <div className="flex flex-wrap gap-3">
+          <Link href="/firms" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏢 Top Firms</Link>
+          <Link href="/network" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🕸️ Network Analysis</Link>
+          <Link href="/clients" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">👤 Top Clients</Link>
+        </div>
       </section>
 
       <SourceCitation sources={['Senate LDA Filings', 'Lobbying Disclosure Act Reports']} lastUpdated="February 2026" />

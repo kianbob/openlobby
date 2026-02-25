@@ -1,105 +1,105 @@
-'use client'
-import SourceCitation from '@/components/SourceCitation'
-import { useState, useEffect } from 'react'
+import { Metadata } from 'next'
+import fs from 'fs'
+import path from 'path'
+import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
+import ShareButtons from '@/components/ShareButtons'
 import { formatCurrency, formatNumber } from '@/lib/format'
 
-interface Industry {
-  name: string
-  codes: string[]
+export const metadata: Metadata = {
+  title: 'Lobbying by Industry — Which Sectors Spend the Most? — OpenLobby',
+  description: 'Explore federal lobbying spending by industry. See which sectors — from healthcare to defense — spend the most to influence Washington.',
+}
+
+const INDUSTRY_LABELS: Record<string, string> = {
+  technology: 'Technology',
+  healthcare: 'Healthcare',
+  defense: 'Defense',
+  energy: 'Energy',
+  finance: 'Finance',
+  agriculture: 'Agriculture',
+  transportation: 'Transportation',
+  telecom: 'Telecommunications',
+  'real-estate': 'Real Estate',
+  education: 'Education',
+}
+
+const INDUSTRY_ICONS: Record<string, string> = {
+  technology: '💻', healthcare: '🏥', defense: '🛡️', energy: '⚡',
+  finance: '🏦', agriculture: '🌾', transportation: '🚛', telecom: '📡',
+  'real-estate': '🏠', education: '🎓',
+}
+
+interface IndustrySummary {
+  industry: string
   totalSpending: number
-  totalFilings: number
-  yearlySpending: { year: number; income: number; filings: number }[]
+  clientCount: number
+  filings: number
+}
+
+function getData(): IndustrySummary[] {
+  try {
+    const data: IndustrySummary[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'industry-summary.json'), 'utf-8'))
+    return data.sort((a, b) => b.totalSpending - a.totalSpending)
+  } catch { return [] }
 }
 
 export default function IndustriesPage() {
-  const [industries, setIndustries] = useState<Industry[]>([])
-
-  useEffect(() => {
-    fetch('/data/industries.json').then(r => r.json()).then(setIndustries).catch(() => {})
-  }, [])
-
-  const totalSpending = industries.reduce((s, i) => s + i.totalSpending, 0)
+  const industries = getData()
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <BreadcrumbJsonLd items={[{ name: 'Industries' }]} />
       <Breadcrumbs items={[{ name: 'Industries' }]} />
-      <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Lobbying by Industry</h1>
-      <p className="text-gray-600 mb-8 max-w-3xl">
-        Which sectors of the economy spend the most to influence Congress? Industries grouped by LDA issue categories.
-      </p>
 
-      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+      <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Lobbying by Industry</h1>
+      <p className="text-gray-500 mb-4">Which sectors spend the most to influence Washington?</p>
+
+      <ShareButtons url="https://www.openlobby.us/industries" title="Federal lobbying spending by industry — OpenLobby" />
+
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8 mt-6">
         <div className="flex items-start gap-3">
           <span className="text-2xl">🤖</span>
           <div>
             <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
-            <p className="text-gray-700 text-sm leading-relaxed">Lobbying spending by industry reveals which sectors have the most at stake in Washington. Healthcare consistently dominates — pharmaceutical companies and insurers spend more than any other industry because government policy directly controls drug pricing, Medicare reimbursements, and FDA approvals. Defense comes next (securing Pentagon contracts), followed by tech (fighting regulation) and finance (shaping banking rules). When an industry suddenly increases lobbying, it usually means legislation that threatens their profits is on the table.</p>
+            <p className="text-gray-700 text-sm leading-relaxed">
+              Federal lobbying is dominated by a handful of industries with the most at stake in government policy. Healthcare and technology lead all sectors, each spending over $6 billion on lobbying. These 10 industry categories cover the major sectors actively working to shape federal legislation and regulation.
+            </p>
           </div>
         </div>
       </div>
 
-      <div className="bg-amber-50 border-l-4 border-amber-400 p-4 mb-6 rounded-r-lg">
-        <p className="text-sm font-medium text-amber-900">💡 Did you know?</p>
-        <p className="text-sm text-amber-800 mt-1">Healthcare and finance are neck-and-neck at $4.4B each — together they account for nearly 40% of all lobbying spending. That&apos;s because government policy directly controls their revenue.</p>
-      </div>
-
-      {industries.length === 0 ? (
-        <div className="bg-gray-50 border border-gray-200 rounded-xl p-12 text-center text-gray-500">Loading...</div>
-      ) : (
-        <div className="grid gap-6 md:grid-cols-2">
-          {industries.map(ind => {
-            const pct = totalSpending > 0 ? (ind.totalSpending / totalSpending * 100).toFixed(1) : '0'
-            const latest = ind.yearlySpending[ind.yearlySpending.length - 1]
-            const prev = ind.yearlySpending.length >= 2 ? ind.yearlySpending[ind.yearlySpending.length - 2] : null
-            const change = latest && prev && prev.income > 0
-              ? ((latest.income - prev.income) / prev.income * 100).toFixed(1) : null
-
-            return (
-              <div key={ind.name} className="bg-white border border-gray-200 rounded-xl p-6 hover:border-primary/30 transition-colors">
-                <h2 className="text-xl font-bold mb-1" style={{ fontFamily: 'var(--font-serif)' }}>{ind.name}</h2>
-                <p className="text-sm text-gray-500 mb-4">{ind.codes.join(', ')} · {pct}% of total lobbying</p>
-
-                <div className="grid grid-cols-3 gap-3 mb-4">
-                  <div>
-                    <div className="text-lg font-bold text-primary">{formatCurrency(ind.totalSpending)}</div>
-                    <div className="text-xs text-gray-500">Total Spend</div>
-                  </div>
-                  <div>
-                    <div className="text-lg font-bold">{formatNumber(ind.totalFilings)}</div>
-                    <div className="text-xs text-gray-500">Filings</div>
-                  </div>
-                  {change && (
-                    <div>
-                      <div className={`text-lg font-bold ${Number(change) > 0 ? 'text-red-600' : 'text-green-600'}`}>
-                        {Number(change) > 0 ? '+' : ''}{change}%
-                      </div>
-                      <div className="text-xs text-gray-500">YoY Change</div>
-                    </div>
-                  )}
+      <div className="grid gap-4">
+        {industries.map((ind, i) => {
+          const slug = ind.industry
+          const label = INDUSTRY_LABELS[slug] || slug
+          const icon = INDUSTRY_ICONS[slug] || '🏢'
+          return (
+            <Link
+              key={slug}
+              href={`/industries/${slug}`}
+              className="flex items-center gap-4 bg-white border border-gray-200 rounded-xl p-5 hover:border-indigo-300 hover:shadow-md transition-all"
+            >
+              <div className="text-3xl">{icon}</div>
+              <div className="flex-1 min-w-0">
+                <div className="flex items-center gap-2">
+                  <span className="text-sm text-gray-400 font-mono">#{i + 1}</span>
+                  <h2 className="text-lg font-bold" style={{ fontFamily: 'var(--font-serif)' }}>{label}</h2>
                 </div>
-
-                {/* Mini bar chart */}
-                <div className="flex items-end gap-1 h-16">
-                  {ind.yearlySpending.map(y => {
-                    const max = Math.max(...ind.yearlySpending.map(y => y.income))
-                    const h = max > 0 ? (y.income / max * 100) : 0
-                    return (
-                      <div key={y.year} className="flex-1 flex flex-col items-center gap-0.5" title={`${y.year}: ${formatCurrency(y.income)}`}>
-                        <div className="w-full bg-primary/20 rounded-t" style={{ height: `${Math.max(h, 4)}%` }}>
-                          <div className="w-full h-full bg-primary rounded-t" style={{ opacity: 0.5 + h / 200 }} />
-                        </div>
-                        <span className="text-[9px] text-gray-400">{String(y.year).slice(2)}</span>
-                      </div>
-                    )
-                  })}
+                <div className="flex gap-4 mt-1 text-sm text-gray-500">
+                  <span>{formatNumber(ind.clientCount)} clients</span>
+                  <span>{formatNumber(ind.filings)} filings</span>
                 </div>
               </div>
-            )
-          })}
-        </div>
-      )}
-      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
+              <div className="text-right">
+                <div className="text-xl font-bold text-primary" style={{ fontFamily: 'var(--font-serif)' }}>{formatCurrency(ind.totalSpending)}</div>
+                <div className="text-xs text-gray-400">total spending</div>
+              </div>
+            </Link>
+          )
+        })}
+      </div>
     </div>
   )
 }
