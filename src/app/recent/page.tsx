@@ -87,7 +87,7 @@ export default function RecentFilingsPage() {
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
-      <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Recent Filings' }]} />
+      <Breadcrumbs items={[{ name: 'Recent Filings' }]} />
 
       <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mt-4 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>
         Recent Filings
