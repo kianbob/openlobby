@@ -43,6 +43,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tech-lobbying',
     '/defense-lobbying',
     '/lobbying-statistics-2025',
+    '/compare-spending',
+    '/timeline',
   ]
 
   const routes: MetadataRoute.Sitemap = staticPages.map(p => ({
