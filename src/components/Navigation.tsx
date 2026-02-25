@@ -26,11 +26,6 @@ const navGroups = [
       { name: 'Influence Network', href: '/network', desc: 'How lobbyists & firms connect' },
       { name: 'Foreign Lobbying', href: '/foreign', desc: 'Foreign influence in DC' },
       { name: 'Geographic', href: '/geographic', desc: 'Where influence comes from' },
-    ],
-  },
-  {
-    label: 'Deep Dives',
-    items: [
       { name: 'Arms Race', href: '/arms-race', desc: 'What\'s surging right now' },
       { name: 'Revolving Door Premium', href: '/revolving-door-premium', desc: 'Do ex-gov lobbyists earn more?' },
       { name: 'Client Trajectories', href: '/client-trajectories', desc: 'Spending trends over time' },
@@ -44,7 +39,11 @@ const navGroups = [
   {
     label: 'Investigations',
     items: [
-      { name: 'All Investigations', href: '/investigations', desc: 'Deep-dive articles' },
+      { name: 'All Investigations', href: '/investigations', desc: 'All 20+ deep-dive articles' },
+      { name: 'The 22,000% ROI', href: '/investigations/the-22000-percent-roi', desc: 'Lobbying as America\'s best investment' },
+      { name: 'DOGE vs. The Lobbying Machine', href: '/investigations/doge-vs-lobbying', desc: 'Government efficiency meets $4.4B in lobbying' },
+      { name: 'The Revolving Door Exposed', href: '/investigations/revolving-door-exposed', desc: '5,000 former officials now lobby Congress' },
+      { name: 'Big Pharma\'s $4.4B Bet', href: '/investigations/big-pharma-lobbying', desc: 'Healthcare industry\'s lobbying empire' },
     ],
   },
   {

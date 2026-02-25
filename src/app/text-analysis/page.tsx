@@ -89,7 +89,7 @@ export default function TextAnalysisPage() {
       <Breadcrumbs items={[{ name: 'Text Analysis' }]} />
 
       <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>
-        What Are They Lobbying About?
+        What Lobbyists Actually Write
       </h1>
       <p className="text-lg text-gray-600 mb-2">
         Language analysis of {data.totalDescriptions.toLocaleString()} lobbying activity descriptions

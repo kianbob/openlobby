@@ -30,10 +30,10 @@ export default function HomePage() {
               <span className="text-amber-400">{totalLobbyists}</span> Lobbyists.
             </h1>
             <p className="text-xl md:text-2xl text-indigo-200 mb-4 font-medium">
-              Follow Every Dollar.
+              $15.2 Billion Spent Buying Policy. We Tracked Every Dollar.
             </p>
             <p className="text-base text-indigo-300 mb-10 max-w-2xl mx-auto">
-              The most comprehensive analysis of federal lobbying data ever published.
+              The only platform that cross-references lobbying filings with federal contracts, Medicare spending, and workforce data.
               Every filing. Every connection. Every dollar. All from public Senate LDA disclosures.
             </p>
 
@@ -121,6 +121,33 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Featured Tool */}
+      <section className="py-12 bg-white">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <Link href="/lobbying-roi" className="block bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-2xl p-8 md:p-12 hover:shadow-lg transition-shadow group">
+            <div className="flex flex-col md:flex-row items-center gap-8">
+              <div className="flex-1">
+                <p className="text-sm font-semibold text-indigo-600 uppercase tracking-wider mb-2">Featured Tool</p>
+                <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
+                  The Lobbying ROI Calculator
+                </h2>
+                <p className="text-lg text-gray-600 mb-4">
+                  For every $1 spent lobbying, companies received an average of $2,101 back in federal contracts. 
+                  TriWest Healthcare spent $270K and got $13.4B — a 49,536:1 return.
+                </p>
+                <span className="text-indigo-600 font-semibold group-hover:text-indigo-800 transition-colors">
+                  Calculate the ROI →
+                </span>
+              </div>
+              <div className="text-center">
+                <div className="text-6xl font-black text-indigo-600" style={{ fontFamily: 'var(--font-serif)' }}>49,536:1</div>
+                <div className="text-sm text-gray-500 mt-1">Highest ROI in our database</div>
+              </div>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       {/* Featured Investigations */}
       <section className="py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -205,7 +232,7 @@ export default function HomePage() {
               { href: '/industries', title: 'Industry Breakdown', desc: 'Which sectors dominate the lobbying game', icon: '🏭' },
               { href: '/network', title: 'Influence Network', desc: 'Map the connections between lobbyists and firms', icon: '🕸️' },
               { href: '/foreign', title: 'Foreign Lobbying', desc: 'Foreign governments lobbying the US', icon: '🌍' },
-              { href: '/text-analysis', title: 'Text Analysis', desc: 'NLP analysis of what lobbyists actually write', icon: '📝' },
+              { href: '/text-analysis', title: 'What Lobbyists Actually Write', desc: 'The language of influence — trending words, bills, and lobbying descriptions', icon: '📝' },
               { href: '/arms-race', title: 'The Arms Race', desc: 'Which issues are surging in lobbying spend', icon: '🔥' },
               { href: '/geographic', title: 'Geographic Analysis', desc: 'Where lobbying money comes from', icon: '🗺️' },
               { href: '/compare', title: 'Compare Tool', desc: 'Compare any clients or firms side by side', icon: '⚖️' },
