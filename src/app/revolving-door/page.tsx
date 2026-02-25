@@ -3,7 +3,7 @@ import SourceCitation from '@/components/SourceCitation'
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatNumber, slugify } from '@/lib/format'
+import { formatNumber, slugify, toTitleCase } from '@/lib/format'
 
 interface RevDoorLobbyist {
   id: number
@@ -59,7 +59,7 @@ export default function RevolvingDoorPage() {
               <div key={l.id} className="bg-white border border-gray-200 rounded-xl p-4 hover:border-primary/30 transition-colors">
                 <div className="flex items-start justify-between gap-4">
                   <div>
-                    <Link href={`/lobbyists/${slugify(l.name)}`} className="text-lg font-semibold text-primary hover:underline">{l.name}</Link>
+                    <Link href={`/lobbyists/${slugify(l.name)}`} className="text-lg font-semibold text-primary hover:underline">{toTitleCase(l.name)}</Link>
                     <div className="mt-1 space-y-1">
                       {l.positions.map((pos, i) => (
                         <p key={i} className="text-sm text-amber-700 bg-amber-50 inline-block px-2 py-0.5 rounded mr-2">🏛️ {pos}</p>

@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
-  title: 'Federal Lobbying Statistics 2025: Complete Guide | OpenLobby',
+  title: 'Federal Lobbying Statistics 2025: Complete Guide',
   description: 'Comprehensive federal lobbying statistics for 2025. Total spending, top clients, top firms, industry breakdowns, and historical trends from Senate LDA filings.',
 }
 

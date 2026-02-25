@@ -3,7 +3,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatCurrency, slugify } from '@/lib/format'
+import { formatCurrency, slugify, toTitleCase } from '@/lib/format'
 
 interface SearchResult {
   type: 'client' | 'firm' | 'lobbyist' | 'issue'
@@ -96,7 +96,7 @@ export default function SearchPage() {
           <Link key={i} href={r.slug} className="flex items-center gap-3 p-3 bg-white border border-gray-200 rounded-lg hover:border-primary/30 transition-colors">
             <span className={`px-2 py-0.5 text-xs font-semibold rounded ${typeColors[r.type]}`}>{r.type}</span>
             <div className="flex-1 min-w-0">
-              <div className="font-medium text-gray-900 truncate">{r.name}</div>
+              <div className="font-medium text-gray-900 truncate">{toTitleCase(r.name)}</div>
               <div className="text-sm text-gray-500">{r.detail}</div>
             </div>
             <svg className="w-4 h-4 text-gray-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">

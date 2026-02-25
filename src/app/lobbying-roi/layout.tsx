@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Lobbying ROI Calculator — OpenLobby',
+  title: 'Lobbying ROI Calculator',
   description: 'See which companies get the biggest return on their lobbying investment. Compare lobbying spend to government contracts received.',
 }
 

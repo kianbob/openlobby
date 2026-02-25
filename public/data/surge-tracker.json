@@ -77,7 +77,7 @@
       "prevYearFilings": 757,
       "incomeChangePercent": 180,
       "filingsChangePercent": 11.8,
-      "newClients": 65,
+      "newClients": 64,
       "trend": "surging"
     },
     {
@@ -90,7 +90,7 @@
       "prevYearFilings": 1477,
       "incomeChangePercent": 86.4,
       "filingsChangePercent": 53.4,
-      "newClients": 151,
+      "newClients": 148,
       "trend": "surging"
     },
     {
@@ -183,7 +183,7 @@
       "prevYearFilings": 534,
       "incomeChangePercent": 45.1,
       "filingsChangePercent": 27.3,
-      "newClients": 77,
+      "newClients": 76,
       "trend": "growing"
     },
     {
@@ -196,7 +196,7 @@
       "prevYearFilings": 871,
       "incomeChangePercent": 44.8,
       "filingsChangePercent": 23.8,
-      "newClients": 93,
+      "newClients": 91,
       "trend": "growing"
     },
     {
@@ -326,7 +326,7 @@
       "prevYearFilings": 502,
       "incomeChangePercent": 32.7,
       "filingsChangePercent": 14.3,
-      "newClients": 45,
+      "newClients": 44,
       "trend": "growing"
     },
     {
@@ -339,7 +339,7 @@
       "prevYearFilings": 1731,
       "incomeChangePercent": 32.4,
       "filingsChangePercent": 9,
-      "newClients": 95,
+      "newClients": 94,
       "trend": "growing"
     },
     {
@@ -352,7 +352,7 @@
       "prevYearFilings": 2542,
       "incomeChangePercent": 32.4,
       "filingsChangePercent": 17.9,
-      "newClients": 195,
+      "newClients": 194,
       "trend": "growing"
     },
     {
@@ -417,7 +417,7 @@
       "prevYearFilings": 3292,
       "incomeChangePercent": 26.1,
       "filingsChangePercent": 9.2,
-      "newClients": 155,
+      "newClients": 153,
       "trend": "growing"
     },
     {
@@ -495,7 +495,7 @@
       "prevYearFilings": 1540,
       "incomeChangePercent": 23.5,
       "filingsChangePercent": 14.4,
-      "newClients": 61,
+      "newClients": 60,
       "trend": "growing"
     },
     {
@@ -508,7 +508,7 @@
       "prevYearFilings": 631,
       "incomeChangePercent": 22.7,
       "filingsChangePercent": 6,
-      "newClients": 30,
+      "newClients": 29,
       "trend": "growing"
     },
     {
@@ -599,7 +599,7 @@
       "prevYearFilings": 283,
       "incomeChangePercent": 17.5,
       "filingsChangePercent": 5.7,
-      "newClients": 19,
+      "newClients": 18,
       "trend": "growing"
     },
     {
@@ -638,7 +638,7 @@
       "prevYearFilings": 1694,
       "incomeChangePercent": 16,
       "filingsChangePercent": 3.2,
-      "newClients": 84,
+      "newClients": 82,
       "trend": "growing"
     },
     {
@@ -690,7 +690,7 @@
       "prevYearFilings": 5222,
       "incomeChangePercent": 14.2,
       "filingsChangePercent": 4.7,
-      "newClients": 203,
+      "newClients": 202,
       "trend": "growing"
     },
     {
@@ -822,7 +822,7 @@
       "prevYearFilings": 203,
       "incomeChangePercent": 5.7,
       "filingsChangePercent": -4.9,
-      "newClients": 14,
+      "newClients": 13,
       "trend": "stable"
     },
     {
@@ -848,7 +848,7 @@
       "prevYearFilings": 1194,
       "incomeChangePercent": 5.1,
       "filingsChangePercent": 0,
-      "newClients": 65,
+      "newClients": 62,
       "trend": "stable"
     },
     {
@@ -900,7 +900,7 @@
       "prevYearFilings": 954,
       "incomeChangePercent": 0.4,
       "filingsChangePercent": -2,
-      "newClients": 35,
+      "newClients": 33,
       "trend": "stable"
     },
     {
@@ -926,7 +926,7 @@
       "prevYearFilings": 322,
       "incomeChangePercent": -0.5,
       "filingsChangePercent": 5,
-      "newClients": 11,
+      "newClients": 10,
       "trend": "stable"
     },
     {
@@ -1006,7 +1006,7 @@
       "prevYearFilings": 21,
       "incomeChangePercent": -26.7,
       "filingsChangePercent": -19,
-      "newClients": 1,
+      "newClients": 0,
       "trend": "declining"
     },
     {
@@ -1112,7 +1112,7 @@
       "prevYearFilings": 757,
       "incomeChangePercent": 180,
       "filingsChangePercent": 11.8,
-      "newClients": 65,
+      "newClients": 64,
       "trend": "surging"
     },
     {
@@ -1125,7 +1125,7 @@
       "prevYearFilings": 1477,
       "incomeChangePercent": 86.4,
       "filingsChangePercent": 53.4,
-      "newClients": 151,
+      "newClients": 148,
       "trend": "surging"
     },
     {
@@ -1216,7 +1216,7 @@
       "prevYearFilings": 534,
       "incomeChangePercent": 45.1,
       "filingsChangePercent": 27.3,
-      "newClients": 77,
+      "newClients": 76,
       "trend": "growing"
     },
     {
@@ -1229,7 +1229,7 @@
       "prevYearFilings": 871,
       "incomeChangePercent": 44.8,
       "filingsChangePercent": 23.8,
-      "newClients": 93,
+      "newClients": 91,
       "trend": "growing"
     },
     {
@@ -1359,7 +1359,7 @@
       "prevYearFilings": 502,
       "incomeChangePercent": 32.7,
       "filingsChangePercent": 14.3,
-      "newClients": 45,
+      "newClients": 44,
       "trend": "growing"
     },
     {
@@ -1372,7 +1372,7 @@
       "prevYearFilings": 1731,
       "incomeChangePercent": 32.4,
       "filingsChangePercent": 9,
-      "newClients": 95,
+      "newClients": 94,
       "trend": "growing"
     },
     {
@@ -1385,7 +1385,7 @@
       "prevYearFilings": 2542,
       "incomeChangePercent": 32.4,
       "filingsChangePercent": 17.9,
-      "newClients": 195,
+      "newClients": 194,
       "trend": "growing"
     },
     {
@@ -1450,7 +1450,7 @@
       "prevYearFilings": 3292,
       "incomeChangePercent": 26.1,
       "filingsChangePercent": 9.2,
-      "newClients": 155,
+      "newClients": 153,
       "trend": "growing"
     },
     {
@@ -1528,7 +1528,7 @@
       "prevYearFilings": 1540,
       "incomeChangePercent": 23.5,
       "filingsChangePercent": 14.4,
-      "newClients": 61,
+      "newClients": 60,
       "trend": "growing"
     },
     {
@@ -1541,7 +1541,7 @@
       "prevYearFilings": 631,
       "incomeChangePercent": 22.7,
       "filingsChangePercent": 6,
-      "newClients": 30,
+      "newClients": 29,
       "trend": "growing"
     },
     {
@@ -1632,7 +1632,7 @@
       "prevYearFilings": 283,
       "incomeChangePercent": 17.5,
       "filingsChangePercent": 5.7,
-      "newClients": 19,
+      "newClients": 18,
       "trend": "growing"
     },
     {
@@ -1671,7 +1671,7 @@
       "prevYearFilings": 1694,
       "incomeChangePercent": 16,
       "filingsChangePercent": 3.2,
-      "newClients": 84,
+      "newClients": 82,
       "trend": "growing"
     },
     {
@@ -1723,7 +1723,7 @@
       "prevYearFilings": 5222,
       "incomeChangePercent": 14.2,
       "filingsChangePercent": 4.7,
-      "newClients": 203,
+      "newClients": 202,
       "trend": "growing"
     },
     {
@@ -1853,7 +1853,7 @@
       "prevYearFilings": 203,
       "incomeChangePercent": 5.7,
       "filingsChangePercent": -4.9,
-      "newClients": 14,
+      "newClients": 13,
       "trend": "stable"
     },
     {
@@ -1879,7 +1879,7 @@
       "prevYearFilings": 1194,
       "incomeChangePercent": 5.1,
       "filingsChangePercent": 0,
-      "newClients": 65,
+      "newClients": 62,
       "trend": "stable"
     },
     {
@@ -1931,7 +1931,7 @@
       "prevYearFilings": 954,
       "incomeChangePercent": 0.4,
       "filingsChangePercent": -2,
-      "newClients": 35,
+      "newClients": 33,
       "trend": "stable"
     },
     {
@@ -1957,7 +1957,7 @@
       "prevYearFilings": 322,
       "incomeChangePercent": -0.5,
       "filingsChangePercent": 5,
-      "newClients": 11,
+      "newClients": 10,
       "trend": "stable"
     },
     {
@@ -2035,7 +2035,7 @@
       "prevYearFilings": 21,
       "incomeChangePercent": -26.7,
       "filingsChangePercent": -19,
-      "newClients": 1,
+      "newClients": 0,
       "trend": "declining"
     },
     {
@@ -2186,6 +2186,30 @@
         "income": 886500,
         "filings": 59,
         "clients": 55
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 856500,
+        "filings": 59,
+        "clients": 53
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 786500,
+        "filings": 57,
+        "clients": 51
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 926500,
+        "filings": 61,
+        "clients": 50
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 886500,
+        "filings": 55,
+        "clients": 51
       },
       {
         "quarter": "2024-Q1",
@@ -2358,6 +2382,30 @@
         "clients": 74
       },
       {
+        "quarter": "2023-Q1",
+        "income": 1925500,
+        "filings": 87,
+        "clients": 66
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 1892500,
+        "filings": 74,
+        "clients": 57
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 1857500,
+        "filings": 71,
+        "clients": 57
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 1815000,
+        "filings": 67,
+        "clients": 56
+      },
+      {
         "quarter": "2024-Q1",
         "income": 1608750,
         "filings": 58,
@@ -2526,6 +2574,30 @@
         "income": 3153500,
         "filings": 271,
         "clients": 221
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 2638500,
+        "filings": 225,
+        "clients": 183
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 2896500,
+        "filings": 222,
+        "clients": 187
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 2517000,
+        "filings": 222,
+        "clients": 184
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 2663500,
+        "filings": 212,
+        "clients": 183
       },
       {
         "quarter": "2024-Q1",
@@ -2698,6 +2770,30 @@
         "clients": 116
       },
       {
+        "quarter": "2023-Q1",
+        "income": 1578229,
+        "filings": 115,
+        "clients": 103
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 1569479,
+        "filings": 113,
+        "clients": 104
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 1499479,
+        "filings": 111,
+        "clients": 101
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 1329479,
+        "filings": 107,
+        "clients": 93
+      },
+      {
         "quarter": "2024-Q1",
         "income": 1059479,
         "filings": 83,
@@ -2865,6 +2961,30 @@
         "quarter": "2022-Q4",
         "income": 1050600,
         "filings": 67,
+        "clients": 53
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 974500,
+        "filings": 64,
+        "clients": 54
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 1111249,
+        "filings": 66,
+        "clients": 56
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 795000,
+        "filings": 57,
+        "clients": 49
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 797600,
+        "filings": 62,
         "clients": 53
       },
       {
@@ -3038,6 +3158,30 @@
         "clients": 701
       },
       {
+        "quarter": "2023-Q1",
+        "income": 16594492,
+        "filings": 808,
+        "clients": 675
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 17350075,
+        "filings": 754,
+        "clients": 655
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 17129250,
+        "filings": 769,
+        "clients": 664
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 16941300,
+        "filings": 794,
+        "clients": 680
+      },
+      {
         "quarter": "2024-Q1",
         "income": 14382350,
         "filings": 613,
@@ -3206,6 +3350,30 @@
         "income": 41038629.65,
         "filings": 1514,
         "clients": 1228
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 41204079,
+        "filings": 1534,
+        "clients": 1216
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 46186444.42,
+        "filings": 1530,
+        "clients": 1229
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 43373159,
+        "filings": 1552,
+        "clients": 1248
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 43566863,
+        "filings": 1504,
+        "clients": 1212
       },
       {
         "quarter": "2024-Q1",
@@ -3378,6 +3546,30 @@
         "clients": 68
       },
       {
+        "quarter": "2023-Q1",
+        "income": 1904927,
+        "filings": 101,
+        "clients": 80
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 2134500,
+        "filings": 103,
+        "clients": 83
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 2392500,
+        "filings": 103,
+        "clients": 87
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 2577500,
+        "filings": 98,
+        "clients": 84
+      },
+      {
         "quarter": "2024-Q1",
         "income": 2170000,
         "filings": 78,
@@ -3548,6 +3740,30 @@
         "clients": 234
       },
       {
+        "quarter": "2023-Q1",
+        "income": 8848099,
+        "filings": 302,
+        "clients": 243
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 8572177,
+        "filings": 297,
+        "clients": 239
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 8713114,
+        "filings": 304,
+        "clients": 242
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 8909565,
+        "filings": 295,
+        "clients": 243
+      },
+      {
         "quarter": "2024-Q1",
         "income": 6894834,
         "filings": 236,
@@ -3715,6 +3931,30 @@
         "quarter": "2022-Q4",
         "income": 3269500,
         "filings": 115,
+        "clients": 70
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 3153500,
+        "filings": 119,
+        "clients": 65
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 3238500,
+        "filings": 115,
+        "clients": 67
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 3238500,
+        "filings": 114,
+        "clients": 65
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 3588500,
+        "filings": 125,
         "clients": 70
       },
       {
@@ -3888,6 +4128,30 @@
         "clients": 152
       },
       {
+        "quarter": "2023-Q1",
+        "income": 3693757,
+        "filings": 187,
+        "clients": 161
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 3576787,
+        "filings": 184,
+        "clients": 162
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 4007250,
+        "filings": 201,
+        "clients": 178
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 4071750,
+        "filings": 188,
+        "clients": 170
+      },
+      {
         "quarter": "2024-Q1",
         "income": 2751722,
         "filings": 148,
@@ -4056,6 +4320,30 @@
         "income": 270000,
         "filings": 9,
         "clients": 9
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 110000,
+        "filings": 7,
+        "clients": 7
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 90000,
+        "filings": 6,
+        "clients": 6
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 80000,
+        "filings": 6,
+        "clients": 6
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 80000,
+        "filings": 6,
+        "clients": 6
       },
       {
         "quarter": "2024-Q1",
@@ -4228,6 +4516,30 @@
         "clients": 73
       },
       {
+        "quarter": "2023-Q1",
+        "income": 961020,
+        "filings": 71,
+        "clients": 66
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 1058020,
+        "filings": 65,
+        "clients": 59
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 970000,
+        "filings": 66,
+        "clients": 62
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 899000,
+        "filings": 64,
+        "clients": 59
+      },
+      {
         "quarter": "2024-Q1",
         "income": 731000,
         "filings": 58,
@@ -4396,6 +4708,30 @@
         "income": 13338100,
         "filings": 505,
         "clients": 417
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 13940615,
+        "filings": 573,
+        "clients": 459
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 14283002,
+        "filings": 541,
+        "clients": 450
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 14506630,
+        "filings": 537,
+        "clients": 455
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 15585081,
+        "filings": 541,
+        "clients": 445
       },
       {
         "quarter": "2024-Q1",
@@ -4568,6 +4904,30 @@
         "clients": 744
       },
       {
+        "quarter": "2023-Q1",
+        "income": 17706004,
+        "filings": 931,
+        "clients": 796
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 18619467,
+        "filings": 923,
+        "clients": 806
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 19044000,
+        "filings": 935,
+        "clients": 821
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 20792667,
+        "filings": 955,
+        "clients": 821
+      },
+      {
         "quarter": "2024-Q1",
         "income": 16779640.58,
         "filings": 746,
@@ -4736,6 +5096,30 @@
         "income": 6059000,
         "filings": 319,
         "clients": 285
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 5574320,
+        "filings": 288,
+        "clients": 266
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 5538953,
+        "filings": 282,
+        "clients": 258
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 5511800,
+        "filings": 287,
+        "clients": 260
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 5235800,
+        "filings": 291,
+        "clients": 270
       },
       {
         "quarter": "2024-Q1",
@@ -4908,6 +5292,30 @@
         "clients": 40
       },
       {
+        "quarter": "2023-Q1",
+        "income": 1514000,
+        "filings": 55,
+        "clients": 37
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 1754000,
+        "filings": 59,
+        "clients": 38
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 1684000,
+        "filings": 59,
+        "clients": 40
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 1654000,
+        "filings": 54,
+        "clients": 39
+      },
+      {
         "quarter": "2024-Q1",
         "income": 1445000,
         "filings": 43,
@@ -5076,6 +5484,30 @@
         "income": 11174464,
         "filings": 464,
         "clients": 386
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 11054966,
+        "filings": 475,
+        "clients": 388
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 11823023,
+        "filings": 456,
+        "clients": 390
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 11409843.74,
+        "filings": 461,
+        "clients": 395
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 12141440,
+        "filings": 490,
+        "clients": 411
       },
       {
         "quarter": "2024-Q1",
@@ -5248,6 +5680,30 @@
         "clients": 66
       },
       {
+        "quarter": "2023-Q1",
+        "income": 3071000,
+        "filings": 85,
+        "clients": 62
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 3201000,
+        "filings": 94,
+        "clients": 61
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 3216500,
+        "filings": 89,
+        "clients": 65
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 3267500,
+        "filings": 88,
+        "clients": 65
+      },
+      {
         "quarter": "2024-Q1",
         "income": 2498500,
         "filings": 72,
@@ -5416,6 +5872,30 @@
         "income": 504375,
         "filings": 37,
         "clients": 31
+      },
+      {
+        "quarter": "2023-Q1",
+        "income": 505000,
+        "filings": 35,
+        "clients": 30
+      },
+      {
+        "quarter": "2023-Q2",
+        "income": 825000,
+        "filings": 38,
+        "clients": 27
+      },
+      {
+        "quarter": "2023-Q3",
+        "income": 625000,
+        "filings": 36,
+        "clients": 27
+      },
+      {
+        "quarter": "2023-Q4",
+        "income": 615000,
+        "filings": 31,
+        "clients": 26
       },
       {
         "quarter": "2024-Q1",

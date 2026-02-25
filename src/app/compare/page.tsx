@@ -3,7 +3,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatCurrency, slugify } from '@/lib/format'
+import { formatCurrency, slugify, toTitleCase } from '@/lib/format'
 
 interface Entity {
   name: string
@@ -78,7 +78,7 @@ export default function ComparePage() {
               {filtered1.map(e => (
                 <button key={e.name} onClick={() => { setEntity1(e); setShowDropdown1(false) }}
                   className="w-full text-left px-3 py-2 hover:bg-indigo-50 text-sm">
-                  <div className="font-medium">{e.name}</div>
+                  <div className="font-medium">{toTitleCase(e.name)}</div>
                   <div className="text-xs text-gray-500">{formatCurrency(e.totalIncome)} · {e.filings} filings</div>
                 </button>
               ))}
@@ -102,7 +102,7 @@ export default function ComparePage() {
               {filtered2.map(e => (
                 <button key={e.name} onClick={() => { setEntity2(e); setShowDropdown2(false) }}
                   className="w-full text-left px-3 py-2 hover:bg-indigo-50 text-sm">
-                  <div className="font-medium">{e.name}</div>
+                  <div className="font-medium">{toTitleCase(e.name)}</div>
                   <div className="text-xs text-gray-500">{formatCurrency(e.totalIncome)} · {e.filings} filings</div>
                 </button>
               ))}
@@ -118,7 +118,7 @@ export default function ComparePage() {
             <div className="space-y-3">
               <div>
                 <div className="flex justify-between text-sm mb-1">
-                  <span className="font-medium text-indigo-700">{entity1.name}</span>
+                  <span className="font-medium text-indigo-700">{toTitleCase(entity1.name)}</span>
                   <span>{formatCurrency(entity1.totalIncome)}</span>
                 </div>
                 <div className="h-8 bg-gray-100 rounded-full overflow-hidden">
@@ -127,7 +127,7 @@ export default function ComparePage() {
               </div>
               <div>
                 <div className="flex justify-between text-sm mb-1">
-                  <span className="font-medium text-purple-700">{entity2.name}</span>
+                  <span className="font-medium text-purple-700">{toTitleCase(entity2.name)}</span>
                   <span>{formatCurrency(entity2.totalIncome)}</span>
                 </div>
                 <div className="h-8 bg-gray-100 rounded-full overflow-hidden">
@@ -136,9 +136,9 @@ export default function ComparePage() {
               </div>
             </div>
             {entity1.totalIncome > entity2.totalIncome ? (
-              <p className="mt-3 text-sm text-gray-600">{entity1.name} spends <strong>{(entity1.totalIncome / entity2.totalIncome).toFixed(1)}x</strong> more than {entity2.name}.</p>
+              <p className="mt-3 text-sm text-gray-600">{toTitleCase(entity1.name)} spends <strong>{(entity1.totalIncome / entity2.totalIncome).toFixed(1)}x</strong> more than {toTitleCase(entity2.name)}.</p>
             ) : (
-              <p className="mt-3 text-sm text-gray-600">{entity2.name} spends <strong>{(entity2.totalIncome / entity1.totalIncome).toFixed(1)}x</strong> more than {entity1.name}.</p>
+              <p className="mt-3 text-sm text-gray-600">{toTitleCase(entity2.name)} spends <strong>{(entity2.totalIncome / entity1.totalIncome).toFixed(1)}x</strong> more than {toTitleCase(entity1.name)}.</p>
             )}
           </div>
 
@@ -147,7 +147,7 @@ export default function ComparePage() {
             <div className="space-y-3">
               <div>
                 <div className="flex justify-between text-sm mb-1">
-                  <span className="font-medium text-indigo-700">{entity1.name}</span>
+                  <span className="font-medium text-indigo-700">{toTitleCase(entity1.name)}</span>
                   <span>{entity1.filings.toLocaleString()} filings</span>
                 </div>
                 <div className="h-8 bg-gray-100 rounded-full overflow-hidden">
@@ -156,7 +156,7 @@ export default function ComparePage() {
               </div>
               <div>
                 <div className="flex justify-between text-sm mb-1">
-                  <span className="font-medium text-purple-700">{entity2.name}</span>
+                  <span className="font-medium text-purple-700">{toTitleCase(entity2.name)}</span>
                   <span>{entity2.filings.toLocaleString()} filings</span>
                 </div>
                 <div className="h-8 bg-gray-100 rounded-full overflow-hidden">
@@ -168,10 +168,10 @@ export default function ComparePage() {
 
           <div className="grid md:grid-cols-2 gap-4">
             <Link href={`/${mode}/${slugify(entity1.name)}`} className="block p-4 bg-indigo-50 rounded-xl hover:bg-indigo-100 transition-colors text-center">
-              <div className="font-medium text-indigo-700">View {entity1.name} →</div>
+              <div className="font-medium text-indigo-700">View {toTitleCase(entity1.name)} →</div>
             </Link>
             <Link href={`/${mode}/${slugify(entity2.name)}`} className="block p-4 bg-purple-50 rounded-xl hover:bg-purple-100 transition-colors text-center">
-              <div className="font-medium text-purple-700">View {entity2.name} →</div>
+              <div className="font-medium text-purple-700">View {toTitleCase(entity2.name)} →</div>
             </Link>
           </div>
         </div>

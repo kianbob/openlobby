@@ -2,7 +2,7 @@
 import SourceCitation from '@/components/SourceCitation'
 import { useState, useEffect } from 'react'
 import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatNumber } from '@/lib/format'
+import { formatNumber, toTitleCase } from '@/lib/format'
 
 interface ForeignEntity {
   name: string
@@ -60,7 +60,7 @@ export default function ForeignPage() {
                 {filtered.slice(0, shown).map((e, i) => (
                   <tr key={e.name} className="border-t border-gray-100 hover:bg-gray-50 transition-colors">
                     <td className="px-4 py-3 text-gray-400">{i + 1}</td>
-                    <td className="px-4 py-3 font-medium">{e.name}</td>
+                    <td className="px-4 py-3 font-medium">{toTitleCase(e.name)}</td>
                     <td className="px-4 py-3 text-gray-600">{e.country || 'Unknown'}</td>
                     <td className="px-4 py-3 text-right">{formatNumber(e.filings)}</td>
                     <td className="px-4 py-3 text-right text-gray-600 hidden sm:table-cell">{e.clientCount || e.clients?.length || 0}</td>

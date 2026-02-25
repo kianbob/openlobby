@@ -4,7 +4,7 @@ import path from 'path'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
-import { formatCurrency } from '@/lib/format'
+import { formatCurrency, toTitleCase } from '@/lib/format'
 
 interface FirmData {
   name: string
@@ -33,8 +33,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const firm = getFirm(slug)
   if (!firm) return { title: 'Firm Not Found' }
   return {
-    title: `${firm.name} — Lobbying Firm`,
-    description: `${firm.name} earned ${formatCurrency(firm.totalIncome)} in lobbying income representing ${firm.clientCount} clients.`,
+    title: `${toTitleCase(firm.name)} - Lobbying Firm`,
+    description: `${toTitleCase(firm.name)} earned ${formatCurrency(firm.totalIncome)} in lobbying income representing ${firm.clientCount} clients.`,
   }
 }
 
@@ -64,11 +64,11 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <Breadcrumbs items={[{ name: 'Firms', href: '/firms' }, { name: firm.name }]} />
-      
-      <h1 className="text-4xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>{firm.name}</h1>
-      
-      <ShareButtons url={`https://www.openlobby.us/firms/${slug}`} title={`${firm.name} earned ${formatCurrency(firm.totalIncome)} in lobbying income`} />
+      <Breadcrumbs items={[{ name: 'Firms', href: '/firms' }, { name: toTitleCase(firm.name) }]} />
+
+      <h1 className="text-4xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>{toTitleCase(firm.name)}</h1>
+
+      <ShareButtons url={`https://www.openlobby.us/firms/${slug}`} title={`${toTitleCase(firm.name)} earned ${formatCurrency(firm.totalIncome)} in lobbying income`} />
 
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 my-8">
         <div className="bg-gray-50 rounded-xl p-4">

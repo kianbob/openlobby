@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatCurrency, formatNumber, slugify } from '@/lib/format'
+import { formatCurrency, formatNumber, slugify, toTitleCase } from '@/lib/format'
 
 interface Firm {
   id: number
@@ -71,7 +71,7 @@ export default function FirmsPage() {
                   <tr key={f.id} className="border-t border-gray-100 hover:bg-gray-50 transition-colors">
                     <td className="px-4 py-3 text-gray-400">{i + 1}</td>
                     <td className="px-4 py-3">
-                      <Link href={`/firms/${slugify(f.name)}`} className="text-primary hover:underline font-medium">{f.name}</Link>
+                      <Link href={`/firms/${slugify(f.name)}`} className="text-primary hover:underline font-medium">{toTitleCase(f.name)}</Link>
                     </td>
                     <td className="px-4 py-3 text-right font-medium">{formatCurrency(f.totalIncome)}</td>
                     <td className="px-4 py-3 text-right text-gray-600 hidden sm:table-cell">{f.clients?.length || 0}</td>

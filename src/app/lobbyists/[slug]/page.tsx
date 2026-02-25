@@ -5,7 +5,7 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
-import { formatNumber, slugify } from '@/lib/format'
+import { formatNumber, slugify, toTitleCase } from '@/lib/format'
 
 interface LobbyistData {
   id: number
@@ -31,8 +31,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const d = getData(slug)
   if (!d) return { title: 'Lobbyist Not Found' }
   return {
-    title: `${d.name} — Lobbyist Profile`,
-    description: `${d.name} has appeared in ${formatNumber(d.totalFilings)} federal lobbying filings.${d.revolvingDoor ? ' Former government official.' : ''}`,
+    title: `${toTitleCase(d.name)} — Lobbyist Profile`,
+    description: `${toTitleCase(d.name)} has appeared in ${formatNumber(d.totalFilings)} federal lobbying filings.${d.revolvingDoor ? ' Former government official.' : ''}`,
   }
 }
 
@@ -63,7 +63,7 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
       <Breadcrumbs items={[{ name: 'Lobbyists', href: '/lobbyists' }, { name: d.name }]} />
 
       <div className="flex items-start gap-3 mb-2">
-        <h1 className="text-4xl font-bold" style={{ fontFamily: 'var(--font-serif)' }}>{d.name}</h1>
+        <h1 className="text-4xl font-bold" style={{ fontFamily: 'var(--font-serif)' }}>{toTitleCase(d.name)}</h1>
         {d.revolvingDoor && <span className="mt-2 px-3 py-1 bg-amber-100 text-amber-800 text-xs font-semibold rounded-full">🏛️ Revolving Door</span>}
       </div>
 
@@ -76,7 +76,7 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
         </div>
       )}
 
-      <ShareButtons url={`https://www.openlobby.us/lobbyists/${slug}`} title={`${d.name} — federal lobbyist profile`} />
+      <ShareButtons url={`https://www.openlobby.us/lobbyists/${slug}`} title={`${toTitleCase(d.name)} — federal lobbyist profile`} />
 
       {/* Stats */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 my-8">
@@ -134,7 +134,7 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
           <div className="space-y-2">
             {d.firms.map(f => (
               <div key={f.name} className="flex justify-between items-center py-2 border-b border-gray-100">
-                <Link href={`/firms/${slugify(f.name)}`} className="text-primary hover:underline">{f.name}</Link>
+                <Link href={`/firms/${slugify(f.name)}`} className="text-primary hover:underline">{toTitleCase(f.name)}</Link>
                 <span className="text-sm text-gray-500">{f.filings} filings</span>
               </div>
             ))}
@@ -149,7 +149,7 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
           <div className="space-y-2">
             {d.topClients.slice(0, 20).map(c => (
               <div key={c.name} className="flex justify-between items-center py-2 border-b border-gray-100">
-                <Link href={`/clients/${slugify(c.name)}`} className="text-primary hover:underline">{c.name}</Link>
+                <Link href={`/clients/${slugify(c.name)}`} className="text-primary hover:underline">{toTitleCase(c.name)}</Link>
                 <span className="text-sm text-gray-500">{c.filings} filings</span>
               </div>
             ))}

@@ -5,7 +5,7 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
-import { formatCurrency, formatNumber, slugify } from '@/lib/format'
+import { formatCurrency, formatNumber, slugify, toTitleCase } from '@/lib/format'
 
 interface StateData {
   abbreviation: string
@@ -123,7 +123,7 @@ export default async function StateDetailPage({ params }: { params: Promise<{ st
                   <tr key={c.name} className="border-t border-gray-100 hover:bg-gray-50">
                     <td className="px-4 py-3 text-gray-400">{i + 1}</td>
                     <td className="px-4 py-3">
-                      <Link href={`/clients/${slugify(c.name)}`} className="text-primary hover:underline">{c.name}</Link>
+                      <Link href={`/clients/${slugify(c.name)}`} className="text-primary hover:underline">{toTitleCase(c.name)}</Link>
                     </td>
                     <td className="px-4 py-3 text-right font-medium">{formatCurrency(c.income)}</td>
                   </tr>

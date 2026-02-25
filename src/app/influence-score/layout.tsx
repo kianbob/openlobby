@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Influence Score Rankings — OpenLobby',
+  title: 'Influence Score Rankings',
   description: 'Composite influence scores ranking the most powerful lobbying clients based on spend, revolving door connections, issues lobbied, and more.',
 }
 

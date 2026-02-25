@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatCurrency, formatNumber, slugify } from '@/lib/format'
+import { formatCurrency, formatNumber, slugify, toTitleCase } from '@/lib/format'
 
 interface Client {
   id: number
@@ -82,7 +82,7 @@ export default function ClientsPage() {
                     <td className="px-4 py-3 text-gray-400">{i + 1}</td>
                     <td className="px-4 py-3">
                       <Link href={`/clients/${slugify(c.name)}`} className="text-primary hover:underline font-medium">
-                        {c.name}
+                        {toTitleCase(c.name)}
                       </Link>
                     </td>
                     <td className="px-4 py-3 text-gray-500 hidden sm:table-cell">{c.state || '—'}</td>

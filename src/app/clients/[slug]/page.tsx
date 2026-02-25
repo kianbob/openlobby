@@ -4,7 +4,7 @@ import path from 'path'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
-import { formatCurrency } from '@/lib/format'
+import { formatCurrency, toTitleCase } from '@/lib/format'
 
 interface ClientData {
   name: string
@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const client = getClient(slug)
   if (!client) return { title: 'Client Not Found' }
   return {
-    title: `${client.name} — Lobbying Spending`,
-    description: `${client.name} has spent ${formatCurrency(client.totalSpending)} on federal lobbying. See their firms, lobbyists, issues, and yearly spending trends.`,
+    title: `${toTitleCase(client.name)} — Lobbying Spending`,
+    description: `${toTitleCase(client.name)} has spent ${formatCurrency(client.totalSpending)} on federal lobbying. See their firms, lobbyists, issues, and yearly spending trends.`,
   }
 }
 
@@ -66,13 +66,13 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <Breadcrumbs items={[{ name: 'Clients', href: '/clients' }, { name: client.name }]} />
+      <Breadcrumbs items={[{ name: 'Clients', href: '/clients' }, { name: toTitleCase(client.name) }]} />
       
-      <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>{client.name}</h1>
+      <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>{toTitleCase(client.name)}</h1>
       {client.description && <p className="text-gray-600 mb-4">{client.description}</p>}
       {client.state && <p className="text-sm text-gray-500 mb-6">Based in {client.state}</p>}
       
-      <ShareButtons url={`https://www.openlobby.us/clients/${slug}`} title={`${client.name} spent ${formatCurrency(client.totalSpending)} on lobbying`} />
+      <ShareButtons url={`https://www.openlobby.us/clients/${slug}`} title={`${toTitleCase(client.name)} spent ${formatCurrency(client.totalSpending)} on lobbying`} />
 
       {/* Key Stats */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 my-8">

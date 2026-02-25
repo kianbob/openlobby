@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
-  title: 'What Is Lobbying? A Complete Guide | OpenLobby',
+  title: 'What Is Lobbying? A Complete Guide',
   description: 'What is lobbying, how does it work, and why does it matter? A comprehensive guide to federal lobbying, the Lobbying Disclosure Act, and how money influences Washington.',
 }
 

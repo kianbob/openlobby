@@ -15,7 +15,7 @@ function getStats() {
 export default function HomePage() {
   const stats = getStats()
   
-  const totalSpending = stats ? formatCurrency(stats.latestYearIncome) : '$2.0B'
+  const totalSpending = stats ? formatCurrency(stats.totalIncome) : '$15.2B'
   const totalFilings = stats ? formatNumber(stats.totalFilings) : '650K+'
   const yearRange = stats?.yearRange || '2018–2025'
 
