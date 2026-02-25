@@ -3,8 +3,8 @@ import fs from 'fs'
 import path from 'path'
 
 const investigations = [
-  'doge-vs-lobbying', 'tech-lobbying-war', 'pharma-drug-pricing',
-  'revolving-door-exposed', 'foreign-influence', 'lobbying-roi',
+  'doge-vs-lobbying', 'tech-lobbying-war', 'big-pharma-lobbying',
+  'revolving-door-exposed', 'foreign-influence', 'follow-the-money',
   'defense-contractor-lobbying', 'crypto-lobbying-explosion',
   'ai-regulation-fight', 'tariff-lobbying-surge', 'lobbying-statistics',
   'what-is-lobbying',
@@ -17,6 +17,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '', '/about', '/clients', '/firms', '/lobbyists', '/issues',
     '/trends', '/revolving-door', '/foreign', '/industries',
     '/investigations', '/search', '/downloads', '/states',
+    '/lobbying-roi', '/influence-score', '/arms-race', '/text-analysis',
+    '/cross-reference', '/compare',
   ]
 
   const routes: MetadataRoute.Sitemap = staticPages.map(p => ({

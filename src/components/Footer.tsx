@@ -31,16 +31,20 @@ export default function Footer() {
               <li><Link href="/revolving-door" className="text-sm hover:text-white transition-colors">Revolving Door</Link></li>
               <li><Link href="/foreign" className="text-sm hover:text-white transition-colors">Foreign Lobbying</Link></li>
               <li><Link href="/industries" className="text-sm hover:text-white transition-colors">By Industry</Link></li>
+              <li><Link href="/lobbying-roi" className="text-sm hover:text-white transition-colors">Lobbying ROI</Link></li>
+              <li><Link href="/influence-score" className="text-sm hover:text-white transition-colors">Influence Score</Link></li>
+              <li><Link href="/arms-race" className="text-sm hover:text-white transition-colors">Arms Race</Link></li>
             </ul>
           </div>
 
           <div>
-            <h3 className="text-sm font-semibold text-white uppercase tracking-wider">About</h3>
+            <h3 className="text-sm font-semibold text-white uppercase tracking-wider">Tools &amp; About</h3>
             <ul className="mt-3 space-y-2">
-              <li><Link href="/about" className="text-sm hover:text-white transition-colors">About Us</Link></li>
-              <li><Link href="/data-sources" className="text-sm hover:text-white transition-colors">Data Sources</Link></li>
+              <li><Link href="/compare" className="text-sm hover:text-white transition-colors">Compare</Link></li>
+              <li><Link href="/search" className="text-sm hover:text-white transition-colors">Search</Link></li>
               <li><Link href="/downloads" className="text-sm hover:text-white transition-colors">Downloads</Link></li>
-              <li><Link href="/methodology" className="text-sm hover:text-white transition-colors">Methodology</Link></li>
+              <li><Link href="/about" className="text-sm hover:text-white transition-colors">About Us</Link></li>
+              <li><Link href="/investigations" className="text-sm hover:text-white transition-colors">Investigations</Link></li>
             </ul>
           </div>
 

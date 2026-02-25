@@ -162,16 +162,16 @@ export default function HomePage() {
                 tag: 'DOGE',
               },
               {
-                slug: 'tech-lobbying-war',
-                title: "Big Tech's $260M Lobbying Machine",
-                desc: 'How Google, Meta, Amazon, and Apple spend hundreds of millions to shape tech regulation.',
-                tag: 'Tech',
+                slug: 'follow-the-money',
+                title: 'The 8,187x Return on Lobbying',
+                desc: 'Companies spend millions lobbying and get billions in contracts. We calculated the ROI.',
+                tag: 'Analysis',
               },
               {
-                slug: 'pharma-drug-pricing',
-                title: '$450M to Keep Drug Prices High',
-                desc: "The pharmaceutical industry is the biggest lobbying spender in Washington.",
-                tag: 'Pharma',
+                slug: 'revolving-door-exposed',
+                title: '5,000 Former Officials Now Lobby Congress',
+                desc: 'From White House advisors to congressional chiefs of staff — the revolving door exposed.',
+                tag: 'Revolving Door',
               },
             ].map(inv => (
               <Link
@@ -189,6 +189,35 @@ export default function HomePage() {
             <Link href="/investigations" className="text-indigo-600 font-semibold hover:text-indigo-800 transition-colors">
               View All Investigations →
             </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Unique Analysis Tools */}
+      <section className="py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-3xl font-bold text-center mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
+            Analysis Tools Nobody Else Has
+          </h2>
+          <p className="text-center text-gray-600 mb-10 max-w-2xl mx-auto">
+            We built unique tools that no other lobbying transparency site offers.
+          </p>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
+            {[
+              { href: '/lobbying-roi', title: 'Lobbying ROI Calculator', desc: 'Companies spend millions lobbying and get billions in contracts. See the return on investment.', icon: '💵' },
+              { href: '/influence-score', title: 'Influence Score Rankings', desc: 'Our composite score ranking the most influential lobbying clients across 5 dimensions.', icon: '⚡' },
+              { href: '/arms-race', title: 'The Lobbying Arms Race', desc: 'Real-time tracker of which issues are surging in lobbying spend right now.', icon: '🔥' },
+              { href: '/text-analysis', title: 'What Are They Lobbying About?', desc: 'NLP analysis of lobbying descriptions — trending words, top bills, language patterns.', icon: '📝' },
+              { href: '/cross-reference', title: 'Cross-Dataset Intelligence', desc: 'Connecting lobbying to government contracts, Medicare spending, and federal workforce data.', icon: '🔗' },
+              { href: '/compare', title: 'Compare Tool', desc: 'Compare any two clients or firms side by side — spending, filings, and influence.', icon: '⚖️' },
+            ].map(tool => (
+              <Link key={tool.href} href={tool.href}
+                className="block p-5 bg-white border border-gray-200 rounded-xl hover:shadow-lg hover:border-primary/30 transition-all">
+                <div className="text-2xl mb-2">{tool.icon}</div>
+                <h3 className="font-bold mb-1" style={{ fontFamily: 'var(--font-serif)' }}>{tool.title}</h3>
+                <p className="text-sm text-gray-600">{tool.desc}</p>
+              </Link>
+            ))}
           </div>
         </div>
       </section>
