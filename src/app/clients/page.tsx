@@ -1,168 +1,30 @@
-'use client'
+import { Metadata } from 'next'
+import ClientsPageClient from './ClientsPageClient'
 
-import { useState, useEffect } from 'react'
-import Link from 'next/link'
-import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatCurrency, formatNumber, slugify, toTitleCase } from '@/lib/format'
-
-interface Client {
-  id: number
-  name: string
-  state: string
-  desc: string
-  totalIncome: number
-  filings: number
-  years: number[]
-  issues: string[]
+export const metadata: Metadata = {
+  title: 'Top Lobbying Clients — Who Spends the Most to Influence Congress',
+  description: 'Ranked list of 46,000+ organizations that lobby Congress, sorted by total spending. From the US Chamber of Commerce ($608M) to Fortune 500 companies and trade associations. 2018-2025 Senate LDA data.',
 }
 
-type SortKey = 'totalIncome' | 'filings' | 'name'
-
 export default function ClientsPage() {
-  const [clients, setClients] = useState<Client[]>([])
-  const [search, setSearch] = useState('')
-  const [sortBy, setSortBy] = useState<SortKey>('totalIncome')
-  const [shown, setShown] = useState(50)
-
-  useEffect(() => {
-    fetch('/data/top-clients.json').then(r => r.json()).then(setClients).catch(() => {})
-  }, [])
-
-  const filtered = clients
-    .filter(c => !search || c.name.toLowerCase().includes(search.toLowerCase()) || c.state?.toLowerCase().includes(search.toLowerCase()))
-    .sort((a, b) => sortBy === 'name' ? a.name.localeCompare(b.name) : (b[sortBy] as number) - (a[sortBy] as number))
-
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <Breadcrumbs items={[{ name: 'Clients' }]} />
-      <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Top Lobbying Clients</h1>
-      <p className="text-gray-600 mb-6 max-w-3xl">
-        Every organization that pays lobbyists to influence Congress, ranked by total spending. 
-        Data from Senate LDA filings, 2018–2025.
-      </p>
-
-      <div className="flex flex-col sm:flex-row gap-4 mb-6">
-        <input
-          type="text"
-          placeholder="Search by name or state..."
-          value={search}
-          onChange={e => { setSearch(e.target.value); setShown(50) }}
-          className="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none"
-        />
-        <select value={sortBy} onChange={e => setSortBy(e.target.value as SortKey)} className="px-4 py-2 border border-gray-300 rounded-lg bg-white">
-          <option value="totalIncome">Sort by Spending</option>
-          <option value="filings">Sort by Filings</option>
-          <option value="name">Sort by Name</option>
-        </select>
-      </div>
-
-      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
-        <div className="flex items-start gap-3">
-          <span className="text-2xl">🤖</span>
-          <div>
-            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
-            <p className="text-gray-700 text-sm leading-relaxed">These are the organizations spending the most to influence Congress. The top clients aren&apos;t just big corporations — they include trade associations like PhRMA and the Chamber of Commerce that pool industry money for maximum impact. When a single client spends millions on lobbying, they&apos;re buying access and influence that ordinary citizens can&apos;t match. Watch for: companies that suddenly increase spending (something big is at stake) and clients lobbying on issues that directly affect their bottom line.</p>
-          </div>
-        </div>
-      </div>
-
-      {clients.length > 0 && !search && (
-        <div className="mb-8">
-          <h2 className="text-xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>💰 Top 10 Spenders</h2>
-          <div className="space-y-2">
-            {clients.slice(0, 10).map((c, i) => (
-              <Link key={i} href={`/clients/${slugify(c.name)}`} className="flex items-center gap-3 hover:bg-gray-50 rounded-lg p-2 transition-colors">
-                <span className="text-sm text-gray-400 w-6 text-right">{i + 1}</span>
-                <div className="flex-1">
-                  <div className="h-6 bg-indigo-100 rounded-full overflow-hidden" style={{ width: '100%' }}>
-                    <div className="h-full bg-indigo-500 rounded-full flex items-center px-3" style={{ width: `${(c.totalIncome / clients[0].totalIncome) * 100}%` }}>
-                      <span className="text-xs text-white font-medium truncate">{toTitleCase(c.name)}</span>
-                    </div>
-                  </div>
-                </div>
-                <span className="text-sm font-bold text-gray-700 w-20 text-right">{formatCurrency(c.totalIncome)}</span>
-              </Link>
-            ))}
-          </div>
-        </div>
-      )}
-
-      <p className="text-sm text-gray-500 mb-4">{formatNumber(filtered.length)} clients{search ? ' matching' : ''}</p>
-
-      {clients.length === 0 ? (
-        <div className="bg-gray-50 border border-gray-200 rounded-xl p-12 text-center text-gray-500">
-          <p className="text-lg">Loading client data...</p>
-        </div>
-      ) : (
-        <>
-          <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
-            <table className="w-full text-sm">
-              <thead className="bg-gray-50">
-                <tr>
-                  <th className="px-4 py-3 text-left font-semibold">#</th>
-                  <th className="px-4 py-3 text-left font-semibold">Client</th>
-                  <th className="px-4 py-3 text-left font-semibold hidden sm:table-cell">State</th>
-                  <th className="px-4 py-3 text-right font-semibold">Total Spending</th>
-                  <th className="px-4 py-3 text-right font-semibold hidden md:table-cell">Filings</th>
-                  <th className="px-4 py-3 text-right font-semibold hidden lg:table-cell">Issues</th>
-                </tr>
-              </thead>
-              <tbody>
-                {filtered.slice(0, shown).map((c, i) => (
-                  <tr key={c.id} className="border-t border-gray-100 hover:bg-gray-50 transition-colors">
-                    <td className="px-4 py-3 text-gray-400">{i + 1}</td>
-                    <td className="px-4 py-3">
-                      <Link href={`/clients/${slugify(c.name)}`} className="text-primary hover:underline font-medium">
-                        {toTitleCase(c.name)}
-                      </Link>
-                    </td>
-                    <td className="px-4 py-3 text-gray-500 hidden sm:table-cell">{c.state || '—'}</td>
-                    <td className="px-4 py-3 text-right font-medium">{formatCurrency(c.totalIncome)}</td>
-                    <td className="px-4 py-3 text-right text-gray-600 hidden md:table-cell">{formatNumber(c.filings)}</td>
-                    <td className="px-4 py-3 text-right text-gray-600 hidden lg:table-cell">{c.issues?.length || 0}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-
-          {shown < filtered.length && (
-            <div className="text-center mt-6">
-              <button onClick={() => setShown(s => s + 50)} className="px-6 py-2 bg-primary text-white rounded-lg hover:bg-primary-dark transition-colors">
-                Show More ({formatNumber(filtered.length - shown)} remaining)
-              </button>
-            </div>
-          )}
-        </>
-      )}
-
-      {/* Related Analysis & Investigations */}
-      <div className="mt-12 mb-8">
-        <h2 className="text-xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
-          <Link href="/investigations/lobbying-statistics" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">📊 Federal Lobbying Statistics 2025</div>
-            <div className="text-xs text-gray-500 mt-1">$37.7B total spending — the definitive breakdown</div>
-          </Link>
-          <Link href="/investigations/follow-the-money" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">💰 Follow the Money</div>
-            <div className="text-xs text-gray-500 mt-1">Track where lobbying dollars actually go</div>
-          </Link>
-          <Link href="/investigations/the-22000-percent-roi" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">📈 The 22,000% ROI</div>
-            <div className="text-xs text-gray-500 mt-1">When lobbying spending yields outsized returns</div>
-          </Link>
-        </div>
-      </div>
-      <div className="mb-8">
-        <h2 className="text-xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
-        <div className="flex flex-wrap gap-3">
-          <Link href="/client-trajectories" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📈 Client Trajectories</Link>
-          <Link href="/concentration" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🎯 Market Concentration</Link>
-          <Link href="/momentum" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🚀 Spending Momentum</Link>
-          <Link href="/firms" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏢 Top Firms</Link>
-          <Link href="/geographic" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🗺️ Geographic Analysis</Link>
-          <Link href="/how-lobbying-works" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📖 How Lobbying Works</Link>
+    <div>
+      <ClientsPageClient />
+      <div className="max-w-4xl mx-auto px-4 pb-12">
+        <div className="prose prose-gray max-w-none">
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Understanding Lobbying Clients</h2>
+          <p className="text-gray-600">
+            OpenLobby tracks <strong>46,145 organizations</strong> that have filed lobbying disclosures with the U.S. Senate since 2018. 
+            These clients collectively spent <strong>$37.7 billion</strong> on federal lobbying across 726,000+ quarterly filings.
+          </p>
+          <p className="text-gray-600">
+            The top spender, the U.S. Chamber of Commerce, has invested over $607 million in lobbying — more than three times the next largest client. 
+            Trade associations like the Chamber pool money from thousands of member companies, amplifying their collective influence far beyond what any single company could achieve.
+          </p>
+          <p className="text-gray-600">
+            Click any client to see their full lobbying profile: spending trends, lobbying firms hired, individual lobbyists deployed, 
+            issue areas targeted, government agencies contacted, and actual descriptions from their quarterly filings.
+          </p>
         </div>
       </div>
     </div>

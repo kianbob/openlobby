@@ -51,7 +51,7 @@ export default function TrendsPage() {
           <span className="text-2xl">🤖</span>
           <div>
             <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
-            <p className="text-gray-700 text-sm leading-relaxed">Federal lobbying spending has nearly doubled from $1.4 billion in 2018 to $2.7 billion in 2025 — a record high. This isn&apos;t just inflation: it reflects an escalating arms race as more industries recognize that lobbying delivers extraordinary returns on investment. The COVID-era spike (2020-2021) came as industries scrambled to shape trillions in pandemic relief spending. The 2025 surge is driven by tariff lobbying, AI regulation fights, and healthcare policy battles.</p>
+            <p className="text-gray-700 text-sm leading-relaxed">Federal lobbying spending has grown 50% from $4.0 billion in 2018 to $6.0 billion in 2025 — a record high. This isn&apos;t just inflation: it reflects an escalating arms race as more industries recognize that lobbying delivers extraordinary returns on investment. The COVID-era spike (2020-2021) came as industries scrambled to shape trillions in pandemic relief spending. The 2025 surge is driven by tariff lobbying, AI regulation fights, and healthcare policy battles.</p>
           </div>
         </div>
       </div>

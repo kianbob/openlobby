@@ -31,7 +31,7 @@ export default function YourTaxDollarPage() {
         What Does Lobbying Cost You?
       </h1>
       <p className="text-gray-600 mb-8 max-w-3xl">
-        In 2025, organizations spent $2.7 billion lobbying Congress — a record high. 
+        In 2025, organizations spent $6.0 billion lobbying Congress — a record high. 
         That money influences the laws that affect your taxes, healthcare, and daily life.
         Here&apos;s how it breaks down.
       </p>
@@ -56,7 +56,7 @@ export default function YourTaxDollarPage() {
             ${personalShare.toFixed(2)}
           </div>
           <p className="text-sm text-gray-600 mt-1">
-            Your proportional share of the $2.7 billion spent lobbying Congress in 2025.
+            Your proportional share of the $6.0 billion spent lobbying Congress in 2025.
             That&apos;s ${(personalShare / 12).toFixed(2)}/month worth of corporate influence on the laws that govern your life.
           </p>
         </div>

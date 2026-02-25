@@ -1,131 +1,28 @@
-'use client'
+import { Metadata } from 'next'
+import FirmsPageClient from './FirmsPageClient'
 
-import { useState, useEffect } from 'react'
-import Link from 'next/link'
-import Breadcrumbs from '@/components/Breadcrumbs'
-import { formatCurrency, formatNumber, slugify, toTitleCase } from '@/lib/format'
-
-interface Firm {
-  id: number
-  name: string
-  totalIncome: number
-  filings: number
-  clients: string[]
-  years: number[]
+export const metadata: Metadata = {
+  title: 'Lobbying Firms — K Street\'s Biggest Players Ranked by Revenue',
+  description: 'Ranked directory of 7,757 federal lobbying firms by total income. From Brownstein Hyatt to Akin Gump — see client lists, lobbyist rosters, and revenue trends. 2018-2025 data.',
 }
 
-type SortKey = 'totalIncome' | 'filings' | 'name'
-
 export default function FirmsPage() {
-  const [firms, setFirms] = useState<Firm[]>([])
-  const [search, setSearch] = useState('')
-  const [sortBy, setSortBy] = useState<SortKey>('totalIncome')
-  const [shown, setShown] = useState(50)
-
-  useEffect(() => {
-    fetch('/data/top-firms.json').then(r => r.json()).then(setFirms).catch(() => {})
-  }, [])
-
-  const filtered = firms
-    .filter(f => !search || f.name.toLowerCase().includes(search.toLowerCase()))
-    .sort((a, b) => sortBy === 'name' ? a.name.localeCompare(b.name) : (b[sortBy] as number) - (a[sortBy] as number))
-
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <Breadcrumbs items={[{ name: 'Lobbying Firms' }]} />
-      <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Top Lobbying Firms</h1>
-      <p className="text-gray-600 mb-6 max-w-3xl">
-        K Street&apos;s biggest players — ranked by total income from lobbying clients, 2018–2025.
-      </p>
-
-      <div className="flex flex-col sm:flex-row gap-4 mb-6">
-        <input type="text" placeholder="Search firms..." value={search}
-          onChange={e => { setSearch(e.target.value); setShown(50) }}
-          className="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none" />
-        <select value={sortBy} onChange={e => setSortBy(e.target.value as SortKey)} className="px-4 py-2 border border-gray-300 rounded-lg bg-white">
-          <option value="totalIncome">Sort by Income</option>
-          <option value="filings">Sort by Filings</option>
-          <option value="name">Sort by Name</option>
-        </select>
-      </div>
-
-      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
-        <div className="flex items-start gap-3">
-          <span className="text-2xl">🤖</span>
-          <div>
-            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
-            <p className="text-gray-700 text-sm leading-relaxed">Lobbying firms are the middlemen of influence — K Street firms like Brownstein Hyatt and Akin Gump represent dozens of clients simultaneously, giving them outsized access to lawmakers. The biggest firms earn tens of millions annually from clients seeking to shape legislation. A firm&apos;s client list reveals which industries are fighting hardest to influence policy, and which issues are generating the most lobbying demand.</p>
-          </div>
-        </div>
-      </div>
-
-      <p className="text-sm text-gray-500 mb-4">{formatNumber(filtered.length)} firms</p>
-
-      {firms.length === 0 ? (
-        <div className="bg-gray-50 border border-gray-200 rounded-xl p-12 text-center text-gray-500">Loading...</div>
-      ) : (
-        <>
-          <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
-            <table className="w-full text-sm">
-              <thead className="bg-gray-50">
-                <tr>
-                  <th className="px-4 py-3 text-left font-semibold">#</th>
-                  <th className="px-4 py-3 text-left font-semibold">Firm</th>
-                  <th className="px-4 py-3 text-right font-semibold">Total Income</th>
-                  <th className="px-4 py-3 text-right font-semibold hidden sm:table-cell">Clients</th>
-                  <th className="px-4 py-3 text-right font-semibold hidden md:table-cell">Filings</th>
-                </tr>
-              </thead>
-              <tbody>
-                {filtered.slice(0, shown).map((f, i) => (
-                  <tr key={f.id} className="border-t border-gray-100 hover:bg-gray-50 transition-colors">
-                    <td className="px-4 py-3 text-gray-400">{i + 1}</td>
-                    <td className="px-4 py-3">
-                      <Link href={`/firms/${slugify(f.name)}`} className="text-primary hover:underline font-medium">{toTitleCase(f.name)}</Link>
-                    </td>
-                    <td className="px-4 py-3 text-right font-medium">{formatCurrency(f.totalIncome)}</td>
-                    <td className="px-4 py-3 text-right text-gray-600 hidden sm:table-cell">{f.clients?.length || 0}</td>
-                    <td className="px-4 py-3 text-right text-gray-600 hidden md:table-cell">{formatNumber(f.filings)}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-          {shown < filtered.length && (
-            <div className="text-center mt-6">
-              <button onClick={() => setShown(s => s + 50)} className="px-6 py-2 bg-primary text-white rounded-lg hover:bg-primary-dark transition-colors">
-                Show More ({formatNumber(filtered.length - shown)} remaining)
-              </button>
-            </div>
-          )}
-        </>
-      )}
-
-      <div className="mt-12 mb-8">
-        <h2 className="text-xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
-          <Link href="/investigations/revolving-door-exposed" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">🚪 The Revolving Door Exposed</div>
-            <div className="text-xs text-gray-500 mt-1">Former officials who now lobby for top firms</div>
-          </Link>
-          <Link href="/investigations/the-revolving-door-premium" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">💵 The Revolving Door Premium</div>
-            <div className="text-xs text-gray-500 mt-1">How much more do former officials earn?</div>
-          </Link>
-          <Link href="/investigations/dc-lobbying-capital" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">🏛️ DC: The Lobbying Capital</div>
-            <div className="text-xs text-gray-500 mt-1">Why K Street dominates the influence industry</div>
-          </Link>
-        </div>
-      </div>
-      <div className="mb-8">
-        <h2 className="text-xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
-        <div className="flex flex-wrap gap-3">
-          <Link href="/clients" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">👤 Top Clients</Link>
-          <Link href="/network" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🕸️ Network Analysis</Link>
-          <Link href="/concentration" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🎯 Market Concentration</Link>
-          <Link href="/revolving-door" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🚪 Revolving Door</Link>
-          <Link href="/lobbyists" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🧑‍💼 Top Lobbyists</Link>
+    <div>
+      <FirmsPageClient />
+      <div className="max-w-4xl mx-auto px-4 pb-12">
+        <div className="prose prose-gray max-w-none">
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>About Lobbying Firms</h2>
+          <p className="text-gray-600">
+            Our database includes <strong>7,757 lobbying firms</strong> that have filed quarterly activity reports with the Senate. 
+            These K Street firms serve as intermediaries between corporations and Congress, representing dozens of clients simultaneously 
+            and deploying networks of lobbyists with specialized relationships and expertise.
+          </p>
+          <p className="text-gray-600">
+            Firms with former government officials on staff command a <strong>369% revenue premium</strong> over those without — 
+            demonstrating the quantifiable value of the revolving door. Click any firm to explore their client portfolio, 
+            lobbyist roster, issue specializations, and revenue history.
+          </p>
         </div>
       </div>
     </div>
