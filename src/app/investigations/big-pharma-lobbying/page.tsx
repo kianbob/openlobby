@@ -5,8 +5,8 @@ import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
 
 export const metadata: Metadata = {
-  title: "Big Pharma's Lobbying Machine: $452 Million and Counting",
-  description: 'The pharmaceutical and healthcare industry has spent over $452 million lobbying Congress. Here are the companies, the money, and the issues they're fighting over.',
+  title: "Big Pharma&apos;s Lobbying Machine: $452 Million and Counting",
+  description: 'The pharmaceutical and healthcare industry has spent over $452 million lobbying Congress. Here are the companies, the money, and the issues they are fighting over.',
 }
 
 export default function BigPharmaLobbyingPage() {
@@ -14,7 +14,7 @@ export default function BigPharmaLobbyingPage() {
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
-        { name: "Big Pharma's Lobbying Machine" },
+        { name: "Big Pharma&apos;s Lobbying Machine" },
       ]} />
 
       <div className="mb-2">
@@ -29,7 +29,7 @@ export default function BigPharmaLobbyingPage() {
 
       <p className="text-gray-500 mb-4">Published February 2026 · 10 min read</p>
 
-      <ShareButtons url="https://www.openlobby.us/investigations/big-pharma-lobbying" title="Big Pharma's $452M Lobbying Machine" />
+      <ShareButtons url="https://www.openlobby.us/investigations/big-pharma-lobbying" title="Big Pharma&apos;s $452M Lobbying Machine" />
 
       <div className="my-8 bg-green-50 border-l-4 border-green-500 p-6 rounded-r-xl">
         <h2 className="text-lg font-bold text-green-700 mb-2">The Bottom Line</h2>

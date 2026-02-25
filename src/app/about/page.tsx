@@ -24,11 +24,12 @@ export default function AboutPage() {
         
         <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Data</h2>
         <ul>
-          <li><strong>726,000+</strong> lobbying filings (2018–2025)</li>
-          <li><strong>133,000+</strong> unique clients</li>
-          <li><strong>87,000+</strong> individual lobbyists</li>
-          <li><strong>17,000+</strong> lobbying firms</li>
-          <li><strong>$4.4 billion</strong> spent on lobbying in 2024 alone</li>
+          <li><strong>650,000+</strong> lobbying filings (2018–2025)</li>
+          <li><strong>5,000+</strong> top clients tracked</li>
+          <li><strong>5,000+</strong> individual lobbyists profiled</li>
+          <li><strong>2,000+</strong> lobbying firms analyzed</li>
+          <li><strong>$15.2 billion</strong> total lobbying income tracked</li>
+          <li><strong>$2.0 billion</strong> spent on lobbying in 2024 alone</li>
         </ul>
         
         <h2 style={{ fontFamily: 'var(--font-serif)' }}>Part of TheDataProject</h2>

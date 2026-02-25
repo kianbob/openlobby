@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     default: 'OpenLobby — Follow the Money in Washington',
     template: '%s | OpenLobby',
   },
-  description: 'Explore $4.4 billion in annual federal lobbying. Search clients, firms, lobbyists, and issues. Independent data journalism powered by Senate LDA filings.',
+  description: 'Explore $15 billion in federal lobbying (2018-2025). Search clients, firms, lobbyists, and issues. Independent data journalism powered by Senate LDA filings.',
   metadataBase: new URL('https://www.openlobby.us'),
   openGraph: {
     type: 'website',
