@@ -209,7 +209,7 @@ export default function HomePage() {
           </div>
           <div className="text-center mt-10">
             <Link href="/investigations" className="inline-flex items-center px-6 py-3 bg-indigo-600 text-white font-semibold rounded-xl hover:bg-indigo-700 transition-colors">
-              View All 20+ Investigations →
+              View All 25+ Investigations →
             </Link>
           </div>
         </div>
@@ -259,7 +259,7 @@ export default function HomePage() {
           </div>
           <div className="grid md:grid-cols-2 gap-8">
             {[
-              { title: 'Original Investigations', desc: '20+ data-driven articles that connect lobbying data to real-world outcomes — contracts, regulations, and policy changes.' },
+              { title: 'Original Investigations', desc: '25+ data-driven articles that connect lobbying data to real-world outcomes — contracts, regulations, and policy changes.' },
               { title: 'Cross-Dataset Intelligence', desc: 'We link lobbying filings to federal contracts, Medicare spending, and government workforce data. Nobody else does this.' },
               { title: 'Revolving Door Tracking', desc: 'We track 5,000+ former government officials now working as lobbyists, including the premium they charge.' },
               { title: 'ROI Calculations', desc: 'We calculated the actual return on lobbying investment — how much companies spend vs. what they get in contracts.' },

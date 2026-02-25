@@ -10,9 +10,11 @@ export const metadata: Metadata = {
 
 const stats = [
   { value: '650,000+', label: 'Lobbying Filings' },
-  { value: '$15.2B', label: 'Spending Tracked' },
-  { value: '29,754', label: 'Lobbyists Profiled' },
-  { value: '20+', label: 'Investigations' },
+  { value: '$15.2B', label: 'Total Lobbying' },
+  { value: '27,000+', label: 'Clients Tracked' },
+  { value: '7,600+', label: 'Lobbyists Profiled' },
+  { value: '2,800+', label: 'Firms Analyzed' },
+  { value: '25+', label: 'Investigations' },
 ]
 
 const sisterSites = [
@@ -39,7 +41,7 @@ export default function AboutPage() {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-12 max-w-4xl mx-auto">
+          <div className="grid grid-cols-2 lg:grid-cols-3 gap-4 mt-12 max-w-5xl mx-auto">
             {stats.map((s) => (
               <div key={s.label} className="bg-white/10 backdrop-blur-sm rounded-xl p-5 text-center border border-white/10">
                 <div className="text-2xl sm:text-3xl font-bold text-white" style={{ fontFamily: 'var(--font-serif)' }}>{s.value}</div>
@@ -77,9 +79,9 @@ export default function AboutPage() {
             <h2 className="text-2xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Data</h2>
             <ul className="text-gray-600 space-y-2 leading-relaxed">
               <li><strong>650,000+</strong> lobbying filings (2018–2025)</li>
-              <li><strong>1,600+</strong> top clients tracked</li>
-              <li><strong>5,600+</strong> lobbyists profiled</li>
-              <li><strong>1,000+</strong> firms analyzed</li>
+              <li><strong>27,000+</strong> clients tracked</li>
+              <li><strong>7,600+</strong> lobbyists profiled</li>
+              <li><strong>2,800+</strong> firms analyzed</li>
               <li><strong>$15.2B</strong> total lobbying income</li>
               <li><strong>$2.7B</strong> spent in 2025 — a record</li>
             </ul>

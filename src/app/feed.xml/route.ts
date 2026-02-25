@@ -19,6 +19,11 @@ const investigations = [
   { slug: 'the-revolving-door-premium', title: 'The 369% Premium: Hard Proof That the Revolving Door Pays', desc: 'Firms with ex-government lobbyists earn 369% more revenue.', date: '2026-02-24' },
   { slug: 'dc-lobbying-capital', title: "$27,000 Per Person: Why DC Is America's True Lobbying Capital", desc: 'DC has $27,105 in lobbying per capita — 89x the national average.', date: '2026-02-24' },
   { slug: 'issue-arms-race', title: 'The Lobbying Arms Race: When Industries Go to War', desc: 'Healthcare + Medicare: 31,240 co-filings. The permanent battlegrounds.', date: '2026-02-24' },
+  { slug: 'wall-street-washington-pipeline', title: 'The Wall Street–Washington Pipeline', desc: 'How the financial sector spends billions lobbying to write its own rules.', date: '2026-02-25' },
+  { slug: 'big-oil-climate-lobby', title: "Big Oil's Climate Lobby", desc: 'Energy companies spend hundreds of millions lobbying against climate regulation.', date: '2026-02-25' },
+  { slug: 'silicon-valley-antitrust', title: "Silicon Valley vs. Antitrust", desc: 'Google, Apple, Amazon, Meta, and Microsoft have spent $150M+ lobbying against antitrust regulation.', date: '2026-02-25' },
+  { slug: 'healthcare-insurance-lobby', title: 'The Health Insurance Lobby', desc: 'UnitedHealth, Cigna, Elevance, and AHIP fight Medicare expansion and drug pricing reform.', date: '2026-02-25' },
+  { slug: 'the-lobbying-industrial-complex', title: 'The Lobbying Industrial Complex', desc: '650,000 filings. $15.2 billion. 29,000+ lobbyists. The machine that runs Washington.', date: '2026-02-25' },
 ]
 
 const analysisPages = [
