@@ -64,6 +64,7 @@ export default function AIRegulationFightPage() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "The Battle to Shape AI Policy — Tech Lobbying on Artificial Intelligence", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Google, Microsoft, Meta, Amazon, Apple, and NVIDIA are spending millions lobbying to shape AI regulation. Here are the numbers.", mainEntityOfPage: "https://www.openlobby.us/investigations/ai-regulation-fight" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'The Battle to Shape AI Policy' },

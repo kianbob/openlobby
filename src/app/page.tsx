@@ -55,6 +55,10 @@ export default function HomePage() {
                 Explore the Data →
               </Link>
             </div>
+
+            <p className="mt-8 text-xs text-indigo-400/70">
+              Data current through 2025 · Senate LDA filings · Updated February 2026
+            </p>
           </div>
         </div>
       </section>

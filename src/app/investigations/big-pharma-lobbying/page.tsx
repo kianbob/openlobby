@@ -13,6 +13,7 @@ export const metadata: Metadata = {
 export default function BigPharmaLobbyingPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Big Pharma's Lobbying Machine: $452 Million and Counting", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "The pharmaceutical and healthcare industry has spent over $452 million lobbying Congress.", mainEntityOfPage: "https://www.openlobby.us/investigations/big-pharma-lobbying" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: "Big Pharma&apos;s Lobbying Machine" },

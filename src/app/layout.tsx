@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   },
   description: 'Explore $15 billion in federal lobbying (2018-2025). Search clients, firms, lobbyists, and issues. Independent data journalism powered by Senate LDA filings.',
   metadataBase: new URL('https://www.openlobby.us'),
+  alternates: {
+    canonical: './',
+  },
   openGraph: {
     type: 'website',
     siteName: 'OpenLobby',
@@ -46,6 +49,16 @@ export default function RootLayout({
           name: 'OpenLobby',
           url: 'https://www.openlobby.us',
           description: 'Independent data journalism about federal lobbying. Explore billions in lobbying spending from Senate LDA filings.',
+        }) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Dataset',
+          name: 'Federal Lobbying Disclosure Data',
+          description: 'Comprehensive analysis of 650,000+ federal lobbying filings from 2018-2025, totaling $15.2 billion in lobbying income.',
+          url: 'https://www.openlobby.us/downloads',
+          creator: { '@type': 'Organization', name: 'OpenLobby' },
+          temporalCoverage: '2018/2025',
+          distribution: { '@type': 'DataDownload', contentUrl: 'https://www.openlobby.us/downloads' },
         }) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           '@context': 'https://schema.org',

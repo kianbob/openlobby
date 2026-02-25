@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useRef, useCallback } from 'react'
 import Link from 'next/link'
 
 const navGroups = [
@@ -78,6 +78,16 @@ const navGroups = [
 export default function Navigation() {
   const [mobileOpen, setMobileOpen] = useState(false)
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null)
+  const dropdownTimeout = useRef<NodeJS.Timeout | null>(null)
+
+  const handleMouseEnter = useCallback((label: string) => {
+    if (dropdownTimeout.current) { clearTimeout(dropdownTimeout.current); dropdownTimeout.current = null }
+    setActiveDropdown(label)
+  }, [])
+
+  const handleMouseLeave = useCallback(() => {
+    dropdownTimeout.current = setTimeout(() => setActiveDropdown(null), 150)
+  }, [])
 
   return (
     <nav className="bg-white border-b border-gray-200 sticky top-0 z-50">
@@ -95,8 +105,8 @@ export default function Navigation() {
               <div
                 key={group.label}
                 className="relative"
-                onMouseEnter={() => setActiveDropdown(group.label)}
-                onMouseLeave={() => setActiveDropdown(null)}
+                onMouseEnter={() => handleMouseEnter(group.label)}
+                onMouseLeave={handleMouseLeave}
               >
                 <button className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-primary rounded-md hover:bg-gray-50 transition-colors">
                   {group.label}

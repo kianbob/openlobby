@@ -62,6 +62,7 @@ export default function DefenseContractorLobbyingPage() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "The Pentagon's Lobbying Machine — Defense Contractor Spending", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Boeing, Lockheed Martin, RTX, Northrop Grumman, and General Dynamics spend tens of millions lobbying Congress — and get billions in contracts back.", mainEntityOfPage: "https://www.openlobby.us/investigations/defense-contractor-lobbying" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: "The Pentagon\u2019s Lobbying Machine" },

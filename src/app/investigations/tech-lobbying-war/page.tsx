@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 export default function TechLobbyingWarPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Big Tech's Lobbying War: $150 Million to Shape the Rules", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Google, Meta, Amazon, Apple, and Microsoft have spent over $150 million lobbying Congress.", mainEntityOfPage: "https://www.openlobby.us/investigations/tech-lobbying-war" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: "Big Tech&apos;s Lobbying War" },

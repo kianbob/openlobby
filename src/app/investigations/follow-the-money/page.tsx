@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 export default function FollowTheMoneyPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Follow the Money: The 8,187% Return on Lobbying Investment", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Companies that lobby get billions in government contracts. McKesson spent $1.45M lobbying and received $11.8B in contracts.", mainEntityOfPage: "https://www.openlobby.us/investigations/follow-the-money" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'Follow the Money' },

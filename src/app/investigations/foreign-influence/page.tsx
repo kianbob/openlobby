@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 export default function ForeignInfluencePage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Foreign Governments Are Lobbying Congress", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Over 1,000 foreign entities from 50+ countries are registered to lobby the US government.", mainEntityOfPage: "https://www.openlobby.us/investigations/foreign-influence" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'Foreign Influence' },

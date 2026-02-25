@@ -54,6 +54,7 @@ export default function CryptoLobbyingExplosionPage() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Crypto's K Street Invasion — The Lobbying Explosion", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Coinbase, Ripple, and the Blockchain Association have spent millions building a crypto lobbying machine in Washington.", mainEntityOfPage: "https://www.openlobby.us/investigations/crypto-lobbying-explosion" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: "Crypto\u2019s K Street Invasion" },

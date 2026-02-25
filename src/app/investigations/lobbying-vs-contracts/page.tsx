@@ -48,6 +48,7 @@ export default function LobbyingVsContractsPage() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "For Every $1 They Lobby, They Get $49,536 Back", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "We cross-referenced lobbying disclosures with USASpending.gov contract data. The ROI is staggering.", mainEntityOfPage: "https://www.openlobby.us/investigations/lobbying-vs-contracts" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'Lobbying vs. Contracts ROI' },

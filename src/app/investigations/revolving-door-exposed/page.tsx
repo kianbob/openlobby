@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 export default function RevolvingDoorExposedPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "The Revolving Door Exposed: From Government Power to K Street Profits", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Thousands of former government officials now lobby their old colleagues.", mainEntityOfPage: "https://www.openlobby.us/investigations/revolving-door-exposed" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'The Revolving Door Exposed' },
