@@ -63,7 +63,7 @@ export default function IssuesPage() {
                   <td className="px-4 py-3 text-gray-400">{i + 1}</td>
                   <td className="px-4 py-3 font-mono text-xs text-gray-500">{iss.code}</td>
                   <td className="px-4 py-3">
-                    <Link href={`/issues/${iss.code}`} className="text-primary hover:underline font-medium">{iss.name}</Link>
+                    <Link href={`/issues/${iss.code.toLowerCase()}`} className="text-primary hover:underline font-medium">{iss.name}</Link>
                   </td>
                   <td className="px-4 py-3 text-right font-medium">{formatCurrency(iss.totalSpending)}</td>
                   <td className="px-4 py-3 text-right text-gray-600 hidden sm:table-cell">{formatNumber(iss.totalFilings)}</td>

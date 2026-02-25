@@ -71,7 +71,7 @@ export default function StatesPage() {
                 <tr key={s.abbreviation} className="border-t border-gray-100 hover:bg-gray-50 transition-colors">
                   <td className="px-4 py-3 text-gray-400">{i + 1}</td>
                   <td className="px-4 py-3">
-                    <Link href={`/states/${s.abbreviation}`} className="text-primary hover:underline font-medium">
+                    <Link href={`/states/${s.abbreviation.toLowerCase()}`} className="text-primary hover:underline font-medium">
                       {s.name}
                     </Link>
                     <span className="ml-2 text-xs text-gray-400">{s.abbreviation}</span>
