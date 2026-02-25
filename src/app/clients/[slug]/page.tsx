@@ -335,6 +335,27 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
         </section>
       )}
 
+      {/* Government Agencies Targeted */}
+      {(client as any).govEntities?.length > 0 && (
+        <section className="mb-10">
+          <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Government Agencies Targeted</h2>
+          <p className="text-gray-600 text-sm mb-4">These are the government entities that {toTitleCase(client.name)} disclosed contacting in their lobbying filings.</p>
+          <div className="flex flex-wrap gap-2">
+            {((client as any).govEntities as string[]).slice(0, 20).map((entity: string) => (
+              <span key={entity} className="px-3 py-1.5 bg-indigo-50 text-indigo-800 rounded-lg text-sm border border-indigo-100">
+                {entity}
+              </span>
+            ))}
+            {(client as any).govEntities.length > 20 && (
+              <span className="px-3 py-1.5 bg-gray-100 text-gray-600 rounded-lg text-sm">
+                +{(client as any).govEntities.length - 20} more
+              </span>
+            )}
+          </div>
+          <Link href="/agencies" className="inline-block mt-3 text-sm text-indigo-600 hover:underline">View all agency pressure data →</Link>
+        </section>
+      )}
+
       {/* What They Lobby About */}
       {(() => {
         const uniqueDescs = [...new Map(sampleDescriptions.map(d => [d.toLowerCase().trim(), d])).values()]

@@ -58,7 +58,7 @@ export default function TrendsPage() {
 
       <div className="bg-amber-50 border-l-4 border-amber-400 p-4 mb-6 rounded-r-lg">
         <p className="text-sm font-medium text-amber-900">💡 Did you know?</p>
-        <p className="text-sm text-amber-800 mt-1">Lobbying spending has increased every single year since 2016. The 2025 jump of +36.4% is the largest single-year increase in over a decade — driven by tariffs, AI regulation, and healthcare fights.</p>
+        <p className="text-sm text-amber-800 mt-1">Lobbying spending has increased every single year since 2016. In 2025, spending hit $6.0 billion — a +15.6% jump from 2024 — driven by tariffs, AI regulation, and healthcare fights.</p>
       </div>
 
       {trends.length === 0 ? (
