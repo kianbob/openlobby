@@ -45,6 +45,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/lobbying-statistics-2025',
     '/compare-spending',
     '/timeline',
+    '/recent',
+    '/embed',
+    '/embed/top-spenders',
+    '/embed/spending-trend',
+    '/embed/issue-breakdown',
   ]
 
   const routes: MetadataRoute.Sitemap = staticPages.map(p => ({

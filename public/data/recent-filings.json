@@ -1,0 +1,5697 @@
+[
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/dfcc99a3-aa92-4d5a-b33e-9035f9208857/",
+    "filing_uuid": "dfcc99a3-aa92-4d5a-b33e-9035f9208857",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/dfcc99a3-aa92-4d5a-b33e-9035f9208857/print/",
+    "filing_document_content_type": "text/html",
+    "income": "30000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Kathryn E Peterson",
+    "dt_posted": "2026-02-24T17:25:52-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1634 Eye Street NW",
+    "registrant_address_2": "Suite 200",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20006",
+    "registrant": {
+      "id": 401104322,
+      "url": "https://lda.senate.gov/api/v1/registrants/401104322/",
+      "house_registrant_id": null,
+      "name": "MERCHANT MCINTYRE & ASSOCIATES, LLC",
+      "description": "MM is a government relations firm serving nonprofits.",
+      "address_1": "1634 Eye Street NW",
+      "address_2": "Suite 200",
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20006",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "KATHRYN PETERSON",
+      "contact_telephone": "+1 202-869-5224",
+      "dt_updated": "2026-01-08T15:22:25.306021-05:00"
+    },
+    "client": {
+      "id": 52292,
+      "url": "https://lda.senate.gov/api/v1/clients/52292/",
+      "client_id": 52292,
+      "name": "D'YOUVILLE UNIVERSITY",
+      "general_description": "D'Youville University is a private university in Buffalo, New York.",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "NY",
+      "state_display": "New York",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "NY",
+      "ppb_state_display": "New York",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2022-04-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "FY26 appropriations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 66452,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "KATHRYN",
+              "nickname": null,
+              "middle_name": "ELLEN",
+              "last_name": "PETERSON",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/98481fdd-1334-4aa0-ba51-d85976a7998c/",
+    "filing_uuid": "98481fdd-1334-4aa0-ba51-d85976a7998c",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/98481fdd-1334-4aa0-ba51-d85976a7998c/print/",
+    "filing_document_content_type": "text/html",
+    "income": "30000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Kathryn E Peterson",
+    "dt_posted": "2026-02-24T17:24:55-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1634 Eye Street NW",
+    "registrant_address_2": "Suite 200",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20006",
+    "registrant": {
+      "id": 401104322,
+      "url": "https://lda.senate.gov/api/v1/registrants/401104322/",
+      "house_registrant_id": null,
+      "name": "MERCHANT MCINTYRE & ASSOCIATES, LLC",
+      "description": "MM is a government relations firm serving nonprofits.",
+      "address_1": "1634 Eye Street NW",
+      "address_2": "Suite 200",
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20006",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "KATHRYN PETERSON",
+      "contact_telephone": "+1 202-869-5224",
+      "dt_updated": "2026-01-08T15:22:25.306021-05:00"
+    },
+    "client": {
+      "id": 206261,
+      "url": "https://lda.senate.gov/api/v1/clients/206261/",
+      "client_id": 672,
+      "name": "WESTCHESTER MEDICAL CENTER HEALTH NETWORK",
+      "general_description": "WMCHealth is a 1700-bed healthcare system headquartered in Valhalla, NY with 10 hospitals",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "NY",
+      "state_display": "New York",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "NY",
+      "ppb_state_display": "New York",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2020-04-15"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "FY26 appropriations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 79043,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JULIA",
+              "nickname": null,
+              "middle_name": "M",
+              "last_name": "ANGELOTTI",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Deputy Chief of Staff, U.S. Rep. Elise Stefanik",
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 142505,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "TRISTAN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SOUTHARD",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Deputy Chief of Staff, U.S. Rep. John Katko (Ret.)",
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 147448,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "BRENT",
+              "nickname": null,
+              "middle_name": "WALTON",
+              "last_name": "MERCHANT",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Deputy Chief of Staff, U.S. Department of Energy",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/d87d6403-4268-4fa4-a711-28de43a19286/",
+    "filing_uuid": "d87d6403-4268-4fa4-a711-28de43a19286",
+    "filing_type": "Q4Y",
+    "filing_type_display": "4th Quarter - Report (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/d87d6403-4268-4fa4-a711-28de43a19286/print/",
+    "filing_document_content_type": "text/html",
+    "income": "20000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Kathryn E Peterson",
+    "dt_posted": "2026-02-24T17:24:00-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1634 Eye Street NW",
+    "registrant_address_2": "Suite 200",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20006",
+    "registrant": {
+      "id": 401104322,
+      "url": "https://lda.senate.gov/api/v1/registrants/401104322/",
+      "house_registrant_id": null,
+      "name": "MERCHANT MCINTYRE & ASSOCIATES, LLC",
+      "description": "MM is a government relations firm serving nonprofits.",
+      "address_1": "1634 Eye Street NW",
+      "address_2": "Suite 200",
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20006",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "KATHRYN PETERSON",
+      "contact_telephone": "+1 202-869-5224",
+      "dt_updated": "2026-01-08T15:22:25.306021-05:00"
+    },
+    "client": {
+      "id": 56381,
+      "url": "https://lda.senate.gov/api/v1/clients/56381/",
+      "client_id": 56381,
+      "name": "SULLIVAN COUNTY, NH",
+      "general_description": "Sullivan County is a county in New Hampshire.",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "NH",
+      "state_display": "New Hampshire",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "NH",
+      "ppb_state_display": "New Hampshire",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2023-04-01"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/1f259445-f87c-4ed9-840e-953b221b9b22/",
+    "filing_uuid": "1f259445-f87c-4ed9-840e-953b221b9b22",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/1f259445-f87c-4ed9-840e-953b221b9b22/print/",
+    "filing_document_content_type": "text/html",
+    "income": "20000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Kathryn E Peterson",
+    "dt_posted": "2026-02-24T17:23:20-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1634 Eye Street NW",
+    "registrant_address_2": "Suite 200",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20006",
+    "registrant": {
+      "id": 401104322,
+      "url": "https://lda.senate.gov/api/v1/registrants/401104322/",
+      "house_registrant_id": null,
+      "name": "MERCHANT MCINTYRE & ASSOCIATES, LLC",
+      "description": "MM is a government relations firm serving nonprofits.",
+      "address_1": "1634 Eye Street NW",
+      "address_2": "Suite 200",
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20006",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "KATHRYN PETERSON",
+      "contact_telephone": "+1 202-869-5224",
+      "dt_updated": "2026-01-08T15:22:25.306021-05:00"
+    },
+    "client": {
+      "id": 201455,
+      "url": "https://lda.senate.gov/api/v1/clients/201455/",
+      "client_id": 87,
+      "name": "PINE REST CHRISTIAN MENTAL HEALTH SERVICES",
+      "general_description": "Pine Rest offer behavioral and mental health services for all ages in Michigan and Iowa.",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "MI",
+      "state_display": "Michigan",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MI",
+      "ppb_state_display": "Michigan",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2017-03-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Medicare/Medicaid issues",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 147448,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "BRENT",
+              "nickname": null,
+              "middle_name": "WALTON",
+              "last_name": "MERCHANT",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Deputy Chief of Staff, U.S. Department of Energy",
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 79043,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JULIA",
+              "nickname": null,
+              "middle_name": "M",
+              "last_name": "ANGELOTTI",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Deputy Chief of Staff/Legislative Director, U.S. Rep. Elise Stefanik",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 34,
+            "name": "Health & Human Services, Dept of (HHS)"
+          },
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/f9c668f8-d130-4f98-8e4c-edd0aa9a9fd5/",
+    "filing_uuid": "f9c668f8-d130-4f98-8e4c-edd0aa9a9fd5",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/f9c668f8-d130-4f98-8e4c-edd0aa9a9fd5/print/",
+    "filing_document_content_type": "text/html",
+    "income": "20000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Kathryn Ellen Peterson",
+    "dt_posted": "2026-02-24T17:22:55-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1634 Eye Street NW",
+    "registrant_address_2": "Suite 200",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20006",
+    "registrant": {
+      "id": 401104322,
+      "url": "https://lda.senate.gov/api/v1/registrants/401104322/",
+      "house_registrant_id": null,
+      "name": "MERCHANT MCINTYRE & ASSOCIATES, LLC",
+      "description": "MM is a government relations firm serving nonprofits.",
+      "address_1": "1634 Eye Street NW",
+      "address_2": "Suite 200",
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20006",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "KATHRYN PETERSON",
+      "contact_telephone": "+1 202-869-5224",
+      "dt_updated": "2026-01-08T15:22:25.306021-05:00"
+    },
+    "client": {
+      "id": 201462,
+      "url": "https://lda.senate.gov/api/v1/clients/201462/",
+      "client_id": 140,
+      "name": "CITY OF POMPANO BEACH, FLORIDA",
+      "general_description": "Pompano Beach is a city in Broward County, Florida.",
+      "client_government_entity": true,
+      "client_self_select": null,
+      "state": "FL",
+      "state_display": "Florida",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "FL",
+      "ppb_state_display": "Florida",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2017-05-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "FY26 appropriations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 66452,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "KATHRYN",
+              "nickname": null,
+              "middle_name": "ELLEN",
+              "last_name": "PETERSON",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 149912,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "MARY ELLEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "GOLCHESKI",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/2e2cf68a-01c0-4f30-8824-823312ed6073/",
+    "filing_uuid": "2e2cf68a-01c0-4f30-8824-823312ed6073",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/2e2cf68a-01c0-4f30-8824-823312ed6073/print/",
+    "filing_document_content_type": "text/html",
+    "income": "12000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Stephen E. Carey",
+    "dt_posted": "2026-02-24T14:55:58-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 61904,
+      "url": "https://lda.senate.gov/api/v1/clients/61904/",
+      "client_id": 61904,
+      "name": "GOOD360",
+      "general_description": "Non-profit disaster relief",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "VA",
+      "state_display": "Virginia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "VA",
+      "ppb_state_display": "Virginia",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2024-03-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "Appropriations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/d6d9c5a8-9283-4171-8c76-ae8aeb942c54/",
+    "filing_uuid": "d6d9c5a8-9283-4171-8c76-ae8aeb942c54",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/d6d9c5a8-9283-4171-8c76-ae8aeb942c54/print/",
+    "filing_document_content_type": "text/html",
+    "income": "18000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Steve Carey",
+    "dt_posted": "2026-02-24T14:54:37-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 58615,
+      "url": "https://lda.senate.gov/api/v1/clients/58615/",
+      "client_id": 58615,
+      "name": "OCHIN",
+      "general_description": "PRIMARY HEALTH CARE",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "OR",
+      "state_display": "Oregon",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "OR",
+      "ppb_state_display": "Oregon",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2023-10-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Health care",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/8a5db546-6367-4f4d-9a4b-1360824f38b9/",
+    "filing_uuid": "8a5db546-6367-4f4d-9a4b-1360824f38b9",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/8a5db546-6367-4f4d-9a4b-1360824f38b9/print/",
+    "filing_document_content_type": "text/html",
+    "income": "12000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Steve Carey",
+    "dt_posted": "2026-02-24T14:53:03-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 58610,
+      "url": "https://lda.senate.gov/api/v1/clients/58610/",
+      "client_id": 58610,
+      "name": "GRAND RIVER BAND OF OTTAWA INDIANS",
+      "general_description": "NATIVE SOVEREIGNS BASED IN THE WEST MICHIGAN AREA",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "MI",
+      "state_display": "Michigan",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MI",
+      "ppb_state_display": "Michigan",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2023-08-15"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "IND",
+        "general_issue_code_display": "Indian/Native American Affairs",
+        "description": "ADVOCACY FOR A BILL FEDERALLY RECOGNIZING A TRIBE IN WEST MICHIGAN",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/7f4ea40e-3cd4-4815-aed8-7db3747afa0b/",
+    "filing_uuid": "7f4ea40e-3cd4-4815-aed8-7db3747afa0b",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/7f4ea40e-3cd4-4815-aed8-7db3747afa0b/print/",
+    "filing_document_content_type": "text/html",
+    "income": "5000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Stephen E. Carey",
+    "dt_posted": "2026-02-24T14:52:08-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 210339,
+      "url": "https://lda.senate.gov/api/v1/clients/210339/",
+      "client_id": 470,
+      "name": "ASM",
+      "general_description": "Event Management",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "MI",
+      "state_display": "Michigan",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MI",
+      "ppb_state_display": "Michigan",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2021-03-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "Appropriations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/08cdebde-4216-4225-8ef1-16fde27bc05a/",
+    "filing_uuid": "08cdebde-4216-4225-8ef1-16fde27bc05a",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/08cdebde-4216-4225-8ef1-16fde27bc05a/print/",
+    "filing_document_content_type": "text/html",
+    "income": "15000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Stephen E. Carey",
+    "dt_posted": "2026-02-24T14:32:08-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 210340,
+      "url": "https://lda.senate.gov/api/v1/clients/210340/",
+      "client_id": 467,
+      "name": "FLORIDA PRIMARY CARE ASSOCIATION",
+      "general_description": "Primary health care policy",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "FL",
+      "state_display": "Florida",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "FL",
+      "ppb_state_display": "Florida",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2021-01-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Health Care",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/d8a72790-2a6e-42a3-8ddd-4453b14ca893/",
+    "filing_uuid": "d8a72790-2a6e-42a3-8ddd-4453b14ca893",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/d8a72790-2a6e-42a3-8ddd-4453b14ca893/print/",
+    "filing_document_content_type": "text/html",
+    "income": "15000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Steve Carey",
+    "dt_posted": "2026-02-24T14:29:32-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 207786,
+      "url": "https://lda.senate.gov/api/v1/clients/207786/",
+      "client_id": 443,
+      "name": "SAVE THE CHILDREN FEDERATION, INC",
+      "general_description": "Improving lives of children through educ, econ opportunities, health care, & emergency aid",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "DC",
+      "ppb_state_display": "District of Columbia",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2020-04-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "Appropriations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/72484cac-2de1-4631-a0f2-78b377e6f358/",
+    "filing_uuid": "72484cac-2de1-4631-a0f2-78b377e6f358",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/72484cac-2de1-4631-a0f2-78b377e6f358/print/",
+    "filing_document_content_type": "text/html",
+    "income": "5000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Stephen E Carey",
+    "dt_posted": "2026-02-24T14:27:38-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 185780,
+      "url": "https://lda.senate.gov/api/v1/clients/185780/",
+      "client_id": 431,
+      "name": "KENT COUNTY ADMINISTRATION",
+      "general_description": "County government",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "MI",
+      "state_display": "Michigan",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MI",
+      "ppb_state_display": "Michigan",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2018-03-15"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "URB",
+        "general_issue_code_display": "Urban Development/Municipalities",
+        "description": "Appropriations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/abecebf0-4fe9-4880-ac39-7267b3261eda/",
+    "filing_uuid": "abecebf0-4fe9-4880-ac39-7267b3261eda",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/abecebf0-4fe9-4880-ac39-7267b3261eda/print/",
+    "filing_document_content_type": "text/html",
+    "income": "5000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Steve Carey",
+    "dt_posted": "2026-02-24T14:26:33-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 185778,
+      "url": "https://lda.senate.gov/api/v1/clients/185778/",
+      "client_id": 428,
+      "name": "CITY OF GRAND RAPIDS",
+      "general_description": "municipal government",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "MI",
+      "state_display": "Michigan",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MI",
+      "ppb_state_display": "Michigan",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2018-01-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "ROD",
+        "general_issue_code_display": "Roads/Highway",
+        "description": "Transportation Appropriations State, Foreign Operations Appropriations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/b7ab82de-c980-4095-9525-52ba48e1933b/",
+    "filing_uuid": "b7ab82de-c980-4095-9525-52ba48e1933b",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/b7ab82de-c980-4095-9525-52ba48e1933b/print/",
+    "filing_document_content_type": "text/html",
+    "income": "6000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Steve Carey",
+    "dt_posted": "2026-02-24T14:25:33-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 185774,
+      "url": "https://lda.senate.gov/api/v1/clients/185774/",
+      "client_id": 381,
+      "name": "THE CITY OF OKLAHOMA CITY",
+      "general_description": "city government",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "OK",
+      "state_display": "Oklahoma",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "OK",
+      "ppb_state_display": "Oklahoma",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2015-02-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "Budget Issues Infrastructure",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "TAX",
+        "general_issue_code_display": "Taxation/Internal Revenue Code",
+        "description": "Budget Issues Infrastructure",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/cefc0b2d-06e4-49f9-9acb-c1e342ed0bca/",
+    "filing_uuid": "cefc0b2d-06e4-49f9-9acb-c1e342ed0bca",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/cefc0b2d-06e4-49f9-9acb-c1e342ed0bca/print/",
+    "filing_document_content_type": "text/html",
+    "income": "5000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Steve Carey",
+    "dt_posted": "2026-02-24T14:24:35-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 185769,
+      "url": "https://lda.senate.gov/api/v1/clients/185769/",
+      "client_id": 366,
+      "name": "K12 INC.",
+      "general_description": "Higher education",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "VA",
+      "state_display": "Virginia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "VA",
+      "ppb_state_display": "Virginia",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2015-01-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "Higher Education Budget",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/9a5073c1-860d-4198-b4bc-ddd3586c116b/",
+    "filing_uuid": "9a5073c1-860d-4198-b4bc-ddd3586c116b",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/9a5073c1-860d-4198-b4bc-ddd3586c116b/print/",
+    "filing_document_content_type": "text/html",
+    "income": "10000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Steve Carey",
+    "dt_posted": "2026-02-24T14:22:03-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 185748,
+      "url": "https://lda.senate.gov/api/v1/clients/185748/",
+      "client_id": 125,
+      "name": "SPECIAL OLYMPICS, INC",
+      "general_description": "Worldwide expansion of healthy athletes",
+      "client_government_entity": false,
+      "client_self_select": false,
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": null,
+      "ppb_state_display": null,
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2013-01-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "Labor HHS Appropriations Defense Appropriations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 25,
+            "name": "Defense, Dept of (DOD)"
+          },
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/f072ad7d-c4f7-425c-bcbd-c6471df87b05/",
+    "filing_uuid": "f072ad7d-c4f7-425c-bcbd-c6471df87b05",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/f072ad7d-c4f7-425c-bcbd-c6471df87b05/print/",
+    "filing_document_content_type": "text/html",
+    "income": "10000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Stephen Carey",
+    "dt_posted": "2026-02-24T14:21:05-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1411 Russell Road",
+    "registrant_address_2": null,
+    "registrant_different_address": true,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22301",
+    "registrant": {
+      "id": 316217,
+      "url": "https://lda.senate.gov/api/v1/registrants/316217/",
+      "house_registrant_id": 39270,
+      "name": "POTOMAC STRATEGIC DEVELOPMENT COMPANY, LLC",
+      "description": "Legislative counsel",
+      "address_1": "1411 Russell Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22301",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "STEPHEN CAREY",
+      "contact_telephone": "+1 703-395-1241",
+      "dt_updated": "2026-02-02T12:28:01.968553-05:00"
+    },
+    "client": {
+      "id": 185747,
+      "url": "https://lda.senate.gov/api/v1/clients/185747/",
+      "client_id": 113,
+      "name": "GRAND VALLEY STATE UNIVERSITY",
+      "general_description": "University",
+      "client_government_entity": false,
+      "client_self_select": false,
+      "state": "MI",
+      "state_display": "Michigan",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": null,
+      "ppb_state_display": null,
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2011-01-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "BUD",
+        "general_issue_code_display": "Budget/Appropriations",
+        "description": "Appropriations Surface and Transportation and Health Research",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 7001,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "STEPHEN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "CAREY",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/e9f454aa-5d89-4d98-907e-f86048ed4fa8/",
+    "filing_uuid": "e9f454aa-5d89-4d98-907e-f86048ed4fa8",
+    "filing_type": "Q4Y",
+    "filing_type_display": "4th Quarter - Report (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/e9f454aa-5d89-4d98-907e-f86048ed4fa8/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Robert Bannister Luce",
+    "dt_posted": "2026-02-24T13:36:26-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "101 S. Capitol",
+    "registrant_address_2": "Suite 1600",
+    "registrant_different_address": false,
+    "registrant_city": "Boise",
+    "registrant_state": "ID",
+    "registrant_zip": "83702",
+    "registrant": {
+      "id": 401108839,
+      "url": "https://lda.senate.gov/api/v1/registrants/401108839/",
+      "house_registrant_id": 56625,
+      "name": "SMITH + MALEK",
+      "description": null,
+      "address_1": "101 S. Capitol",
+      "address_2": "Suite 1600",
+      "address_3": null,
+      "address_4": null,
+      "city": "Boise",
+      "state": "ID",
+      "state_display": "Idaho",
+      "zip": "83702",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "ROBERT BANNISTER LUCE",
+      "contact_telephone": "+1 208-215-2412",
+      "dt_updated": "2025-09-22T12:29:21.289475-04:00"
+    },
+    "client": {
+      "id": 61221,
+      "url": "https://lda.senate.gov/api/v1/clients/61221/",
+      "client_id": 61221,
+      "name": "CITY AND BOROUGH OF WRANGELL ALASKA",
+      "general_description": "Local government",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "AK",
+      "state_display": "Alaska",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "AK",
+      "ppb_state_display": "Alaska",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2024-08-28"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/f5759b47-bda3-4337-9854-5e1bf1c3a871/",
+    "filing_uuid": "f5759b47-bda3-4337-9854-5e1bf1c3a871",
+    "filing_type": "4A",
+    "filing_type_display": "4th Quarter - Amendment",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/f5759b47-bda3-4337-9854-5e1bf1c3a871/print/",
+    "filing_document_content_type": "text/html",
+    "income": "90000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Timothy F. Hannegan",
+    "dt_posted": "2026-02-24T13:34:39-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "701 Pennsylvania Avenue, NW",
+    "registrant_address_2": "Suite 230",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20004",
+    "registrant": {
+      "id": 400918672,
+      "url": "https://lda.senate.gov/api/v1/registrants/400918672/",
+      "house_registrant_id": 42026,
+      "name": "PENN AVENUE PARTNERS",
+      "description": "&#226;€‹Government Affairs.",
+      "address_1": "701 Pennsylvania Avenue, NW",
+      "address_2": "Suite 230",
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20004",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "BETH ANNE COLE",
+      "contact_telephone": "+1 202-256-5643",
+      "dt_updated": "2026-01-27T13:57:41.474980-05:00"
+    },
+    "client": {
+      "id": 207817,
+      "url": "https://lda.senate.gov/api/v1/clients/207817/",
+      "client_id": 847,
+      "name": "UNITEDHEALTH GROUP, INC.",
+      "general_description": "Health care company.",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MN",
+      "ppb_state_display": "Minnesota",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2020-12-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Healthcare issues.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "U.S. General Accounting Office",
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Legislative Director/Health Policy Advisor, Sen. Johnny Isakson; Sr. Policy Advisor/LA/LC/SA, Rep. Wally Herger",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "MMM",
+        "general_issue_code_display": "Medicare/Medicaid",
+        "description": "Medicare and Medicaid issues. Medicare Advantage.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "PHA",
+        "general_issue_code_display": "Pharmacy",
+        "description": "Pharmacy benefit related issues.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/8ece6e72-a643-4dde-a588-b4e2b14ec6ba/",
+    "filing_uuid": "8ece6e72-a643-4dde-a588-b4e2b14ec6ba",
+    "filing_type": "3A",
+    "filing_type_display": "3rd Quarter - Amendment",
+    "filing_year": 2025,
+    "filing_period": "third_quarter",
+    "filing_period_display": "3rd Quarter (July 1 - Sep 30)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/8ece6e72-a643-4dde-a588-b4e2b14ec6ba/print/",
+    "filing_document_content_type": "text/html",
+    "income": "90000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Timothy F. Hannegan",
+    "dt_posted": "2026-02-24T13:28:00-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "701 Pennsylvania Avenue, NW",
+    "registrant_address_2": "Suite 230",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20004",
+    "registrant": {
+      "id": 400918672,
+      "url": "https://lda.senate.gov/api/v1/registrants/400918672/",
+      "house_registrant_id": 42026,
+      "name": "PENN AVENUE PARTNERS",
+      "description": "&#226;€‹Government Affairs.",
+      "address_1": "701 Pennsylvania Avenue, NW",
+      "address_2": "Suite 230",
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20004",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "BETH ANNE COLE",
+      "contact_telephone": "+1 202-256-5643",
+      "dt_updated": "2026-01-27T13:57:41.474980-05:00"
+    },
+    "client": {
+      "id": 207817,
+      "url": "https://lda.senate.gov/api/v1/clients/207817/",
+      "client_id": 847,
+      "name": "UNITEDHEALTH GROUP, INC.",
+      "general_description": "Health care company.",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MN",
+      "ppb_state_display": "Minnesota",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2020-12-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Healthcare issues.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "U.S. General Accounting Office",
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Legislative Director/Health Policy Advisor, Sen. Johnny Isakson; Sr. Policy Advisor/LA/LC/SA, Rep. Wally Herger",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 42,
+            "name": "Veterans Affairs, Dept of (VA)"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "MMM",
+        "general_issue_code_display": "Medicare/Medicaid",
+        "description": "Medicare and Medicaid issues. Medicare Advantage.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 42,
+            "name": "Veterans Affairs, Dept of (VA)"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "PHA",
+        "general_issue_code_display": "Pharmacy",
+        "description": "Pharmacy benefit related issues.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 42,
+            "name": "Veterans Affairs, Dept of (VA)"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/2823a685-da1e-4271-ad75-8994bec7b5e2/",
+    "filing_uuid": "2823a685-da1e-4271-ad75-8994bec7b5e2",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/2823a685-da1e-4271-ad75-8994bec7b5e2/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Vincent Eng",
+    "dt_posted": "2026-02-24T13:26:00-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1444 I Street NW",
+    "registrant_address_2": "Suite 700",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20005",
+    "registrant": {
+      "id": 400881577,
+      "url": "https://lda.senate.gov/api/v1/registrants/400881577/",
+      "house_registrant_id": null,
+      "name": "VENG GROUP",
+      "description": "government affairs, communications",
+      "address_1": "P.O. Box 65973",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20035",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "VINCENT ENG",
+      "contact_telephone": "+1 202-499-7027",
+      "dt_updated": "2025-07-16T13:01:30.694273-04:00"
+    },
+    "client": {
+      "id": 66413,
+      "url": "https://lda.senate.gov/api/v1/clients/66413/",
+      "client_id": 66413,
+      "name": "ASIAN & PACIFIC ISLANDER AMERICAN HEALTH FORUM",
+      "general_description": "Health care",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "CA",
+      "state_display": "California",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "CA",
+      "ppb_state_display": "California",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2025-01-06"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Health Equity accountability act.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 68350,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "MOLING",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "LIU",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/32ca0535-b176-4676-9679-3ad3039630c8/",
+    "filing_uuid": "32ca0535-b176-4676-9679-3ad3039630c8",
+    "filing_type": "Q4Y",
+    "filing_type_display": "4th Quarter - Report (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/32ca0535-b176-4676-9679-3ad3039630c8/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "VINCENT ENG",
+    "dt_posted": "2026-02-24T13:25:25-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1444 I Street NW",
+    "registrant_address_2": "Suite 700",
+    "registrant_different_address": true,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20005",
+    "registrant": {
+      "id": 400881577,
+      "url": "https://lda.senate.gov/api/v1/registrants/400881577/",
+      "house_registrant_id": null,
+      "name": "VENG GROUP",
+      "description": "government affairs, communications",
+      "address_1": "P.O. Box 65973",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20035",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "VINCENT ENG",
+      "contact_telephone": "+1 202-499-7027",
+      "dt_updated": "2025-07-16T13:01:30.694273-04:00"
+    },
+    "client": {
+      "id": 207455,
+      "url": "https://lda.senate.gov/api/v1/clients/207455/",
+      "client_id": 101,
+      "name": "ONE FAIR WAGE",
+      "general_description": "Advocacy organization focused on ending subminimum wages.",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "MA",
+      "state_display": "Massachusetts",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MA",
+      "ppb_state_display": "Massachusetts",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2020-08-11"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/b3a0767c-7400-4644-b0a7-afd311930a45/",
+    "filing_uuid": "b3a0767c-7400-4644-b0a7-afd311930a45",
+    "filing_type": "Q4Y",
+    "filing_type_display": "4th Quarter - Report (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/b3a0767c-7400-4644-b0a7-afd311930a45/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Vincent Eng",
+    "dt_posted": "2026-02-24T13:24:58-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1444 I Street NW",
+    "registrant_address_2": "Suite 700",
+    "registrant_different_address": true,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20005",
+    "registrant": {
+      "id": 400881577,
+      "url": "https://lda.senate.gov/api/v1/registrants/400881577/",
+      "house_registrant_id": null,
+      "name": "VENG GROUP",
+      "description": "government affairs, communications",
+      "address_1": "P.O. Box 65973",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20035",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "VINCENT ENG",
+      "contact_telephone": "+1 202-499-7027",
+      "dt_updated": "2025-07-16T13:01:30.694273-04:00"
+    },
+    "client": {
+      "id": 195912,
+      "url": "https://lda.senate.gov/api/v1/clients/195912/",
+      "client_id": 87,
+      "name": "CHINESE AMERICAN CITIZENS ALLIANCE - NATIONAL LODGE",
+      "general_description": "Membership association",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "CA",
+      "state_display": "California",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "CA",
+      "ppb_state_display": "California",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2018-01-05"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/958cde41-85e7-45df-a5e4-6958f266e5f3/",
+    "filing_uuid": "958cde41-85e7-45df-a5e4-6958f266e5f3",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/958cde41-85e7-45df-a5e4-6958f266e5f3/print/",
+    "filing_document_content_type": "text/html",
+    "income": "10000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Vincent Eng",
+    "dt_posted": "2026-02-24T13:24:35-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1444 I Street NW",
+    "registrant_address_2": "Suite 700",
+    "registrant_different_address": true,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20005",
+    "registrant": {
+      "id": 400881577,
+      "url": "https://lda.senate.gov/api/v1/registrants/400881577/",
+      "house_registrant_id": null,
+      "name": "VENG GROUP",
+      "description": "government affairs, communications",
+      "address_1": "P.O. Box 65973",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20035",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "VINCENT ENG",
+      "contact_telephone": "+1 202-499-7027",
+      "dt_updated": "2025-07-16T13:01:30.694273-04:00"
+    },
+    "client": {
+      "id": 195905,
+      "url": "https://lda.senate.gov/api/v1/clients/195905/",
+      "client_id": 24,
+      "name": "NATIONAL ASIAN PACIFIC AMERICAN BAR ASSOCIATION",
+      "general_description": "Trade association",
+      "client_government_entity": false,
+      "client_self_select": false,
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": null,
+      "ppb_state_display": null,
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2011-10-17"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "CIV",
+        "general_issue_code_display": "Civil Rights/Civil Liberties",
+        "description": "Judicial branch nominations",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 57145,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "VINCENT",
+              "nickname": null,
+              "middle_name": "A",
+              "last_name": "ENG",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/a864a97a-343d-4b6b-9dbe-5b59a63b6a2c/",
+    "filing_uuid": "a864a97a-343d-4b6b-9dbe-5b59a63b6a2c",
+    "filing_type": "2A",
+    "filing_type_display": "2nd Quarter - Amendment",
+    "filing_year": 2025,
+    "filing_period": "second_quarter",
+    "filing_period_display": "2nd Quarter (Apr 1 - June 30)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/a864a97a-343d-4b6b-9dbe-5b59a63b6a2c/print/",
+    "filing_document_content_type": "text/html",
+    "income": "90000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Timothy F. Hannegan",
+    "dt_posted": "2026-02-24T13:21:16-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "701 Pennsylvania Avenue, NW",
+    "registrant_address_2": "Suite 230",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20004",
+    "registrant": {
+      "id": 400918672,
+      "url": "https://lda.senate.gov/api/v1/registrants/400918672/",
+      "house_registrant_id": 42026,
+      "name": "PENN AVENUE PARTNERS",
+      "description": "&#226;€‹Government Affairs.",
+      "address_1": "701 Pennsylvania Avenue, NW",
+      "address_2": "Suite 230",
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20004",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "BETH ANNE COLE",
+      "contact_telephone": "+1 202-256-5643",
+      "dt_updated": "2026-01-27T13:57:41.474980-05:00"
+    },
+    "client": {
+      "id": 207817,
+      "url": "https://lda.senate.gov/api/v1/clients/207817/",
+      "client_id": 847,
+      "name": "UNITEDHEALTH GROUP, INC.",
+      "general_description": "Health care company.",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MN",
+      "ppb_state_display": "Minnesota",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2020-12-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Healthcare issues. H.R.1 - One Big Beautiful Bill Act.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "U.S. General Accounting Office",
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Legislative Director/Health Policy Advisor, Sen. Johnny Isakson; Sr. Policy Advisor/LA/LC/SA, Rep. Wally Herger",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 42,
+            "name": "Veterans Affairs, Dept of (VA)"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "MMM",
+        "general_issue_code_display": "Medicare/Medicaid",
+        "description": "Medicare and Medicaid issues. Medicare Advantage. H.R.1 - One Big Beautiful Bill Act.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 42,
+            "name": "Veterans Affairs, Dept of (VA)"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "PHA",
+        "general_issue_code_display": "Pharmacy",
+        "description": "Pharmacy benefit related issues. H.R.1 - One Big Beautiful Bill Act.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 42,
+            "name": "Veterans Affairs, Dept of (VA)"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/c111bf52-9003-44ab-9b66-9890ef25aabd/",
+    "filing_uuid": "c111bf52-9003-44ab-9b66-9890ef25aabd",
+    "filing_type": "1A",
+    "filing_type_display": "1st Quarter - Amendment",
+    "filing_year": 2025,
+    "filing_period": "first_quarter",
+    "filing_period_display": "1st Quarter (Jan 1 - Mar 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/c111bf52-9003-44ab-9b66-9890ef25aabd/print/",
+    "filing_document_content_type": "text/html",
+    "income": "90000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Timothy F. Hannegan",
+    "dt_posted": "2026-02-24T13:09:37-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "701 Pennsylvania Avenue, NW",
+    "registrant_address_2": "Suite 230",
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20004",
+    "registrant": {
+      "id": 400918672,
+      "url": "https://lda.senate.gov/api/v1/registrants/400918672/",
+      "house_registrant_id": 42026,
+      "name": "PENN AVENUE PARTNERS",
+      "description": "&#226;€‹Government Affairs.",
+      "address_1": "701 Pennsylvania Avenue, NW",
+      "address_2": "Suite 230",
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20004",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "BETH ANNE COLE",
+      "contact_telephone": "+1 202-256-5643",
+      "dt_updated": "2026-01-27T13:57:41.474980-05:00"
+    },
+    "client": {
+      "id": 207817,
+      "url": "https://lda.senate.gov/api/v1/clients/207817/",
+      "client_id": 847,
+      "name": "UNITEDHEALTH GROUP, INC.",
+      "general_description": "Health care company.",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MN",
+      "ppb_state_display": "Minnesota",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2020-12-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Healthcare issues.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "U.S. General Accounting Office",
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Legislative Director/Health Policy Advisor, Sen. Johnny Isakson; Sr. Policy Advisor/LA/LC/SA, Rep. Wally Herger",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 42,
+            "name": "Veterans Affairs, Dept of (VA)"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "MMM",
+        "general_issue_code_display": "Medicare/Medicaid",
+        "description": "Medicare and Medicaid issues. Medicare Advantage.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 42,
+            "name": "Veterans Affairs, Dept of (VA)"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "PHA",
+        "general_issue_code_display": "Pharmacy",
+        "description": "Pharmacy benefit related issues.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 56689,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "TIMOTHY",
+              "nickname": null,
+              "middle_name": "FARRELL",
+              "last_name": "HANNEGAN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 72906,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "SULZMANN",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 42,
+            "name": "Veterans Affairs, Dept of (VA)"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/a7d1bf4f-8d71-4216-802a-fc51c6c53dee/",
+    "filing_uuid": "a7d1bf4f-8d71-4216-802a-fc51c6c53dee",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/a7d1bf4f-8d71-4216-802a-fc51c6c53dee/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Lynn Tjeerdsma",
+    "dt_posted": "2026-02-24T12:41:20-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "349 Cypress Lake Dr",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Gulf Shores",
+    "registrant_state": "AL",
+    "registrant_zip": "36542",
+    "registrant": {
+      "id": 401110221,
+      "url": "https://lda.senate.gov/api/v1/registrants/401110221/",
+      "house_registrant_id": 77377,
+      "name": "LYNN TJEERDSMA CONSULTING",
+      "description": null,
+      "address_1": "349 Cypress Lake Dr",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "state_display": "Alabama",
+      "zip": "36542",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "LYNN TJEERDSMA",
+      "contact_telephone": "+1 202-360-7657",
+      "dt_updated": "2026-02-24T13:24:40.390364-05:00"
+    },
+    "client": {
+      "id": 70552,
+      "url": "https://lda.senate.gov/api/v1/clients/70552/",
+      "client_id": 70552,
+      "name": "AKIN, GUMP, STRAUSS, HAUER & FELD ON BEHALF OF BAYER CORPORATION",
+      "general_description": "Law firm",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "DC",
+      "ppb_state_display": "District of Columbia",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2025-12-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "AGR",
+        "general_issue_code_display": "Agriculture",
+        "description": "Glyphosate liability protection in legislation",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 152356,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "LYNN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "TJEERDSMA",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/30b369f0-99f4-4baa-9514-874837ba22e2/",
+    "filing_uuid": "30b369f0-99f4-4baa-9514-874837ba22e2",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/30b369f0-99f4-4baa-9514-874837ba22e2/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Ryan M. Bernstein, Sr. Vice President & Director",
+    "dt_posted": "2026-02-24T10:32:27-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "888 16th Street, N.W.; Suite 500",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20006",
+    "registrant": {
+      "id": 24486,
+      "url": "https://lda.senate.gov/api/v1/registrants/24486/",
+      "house_registrant_id": 33788,
+      "name": "MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP)",
+      "description": "&#226;€‹Public Affairs Government Relations Services",
+      "address_1": "888 16th Street, N.W.; Suite 500",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20006",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "RYAN M. BERNSTEIN",
+      "contact_telephone": "+1 202-857-2909",
+      "dt_updated": "2026-01-20T11:52:39.295430-05:00"
+    },
+    "client": {
+      "id": 60154,
+      "url": "https://lda.senate.gov/api/v1/clients/60154/",
+      "client_id": 60154,
+      "name": "FLATIRON DRAGADOS, INC.",
+      "general_description": "Develops innovative solutions to build critical infrastructure and landmark projects",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "VA",
+      "state_display": "Virginia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "VA",
+      "ppb_state_display": "Virginia",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2024-04-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "CON",
+        "general_issue_code_display": "Constitution",
+        "description": "Relationship building with the legislative and executive branch regarding infrastructure projects.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 106724,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "CLAYTON",
+              "nickname": null,
+              "middle_name": "T.",
+              "last_name": "COX",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "TRA",
+        "general_issue_code_display": "Transportation",
+        "description": "Relationship building with the legislative and executive branch regarding infrastructure projects.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 106724,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "CLAYTON",
+              "nickname": null,
+              "middle_name": "T.",
+              "last_name": "COX",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "ROD",
+        "general_issue_code_display": "Roads/Highway",
+        "description": "Relationship building with the legislative and executive branch regarding infrastructure projects.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 106724,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "CLAYTON",
+              "nickname": null,
+              "middle_name": "T.",
+              "last_name": "COX",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/6d7fdf02-faa6-4c31-9bbe-ed84be7a05f5/",
+    "filing_uuid": "6d7fdf02-faa6-4c31-9bbe-ed84be7a05f5",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/6d7fdf02-faa6-4c31-9bbe-ed84be7a05f5/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": "116318.00",
+    "expenses_method": "A",
+    "expenses_method_display": "A",
+    "posted_by_name": "Christina Nyquist",
+    "dt_posted": "2026-02-24T09:17:57-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1 Wellness Way",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Canton",
+    "registrant_state": "MA",
+    "registrant_zip": "02021",
+    "registrant": {
+      "id": 401106536,
+      "url": "https://lda.senate.gov/api/v1/registrants/401106536/",
+      "house_registrant_id": 45551,
+      "name": "POINT32HEALTH INC.",
+      "description": null,
+      "address_1": "1 Wellness Way",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Canton",
+      "state": "MA",
+      "state_display": "Massachusetts",
+      "zip": "02021",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "CHRISTINA NYQUIST",
+      "contact_telephone": "+1 240-498-5977",
+      "dt_updated": "2026-02-24T09:22:27.393007-05:00"
+    },
+    "client": {
+      "id": 50835,
+      "url": "https://lda.senate.gov/api/v1/clients/50835/",
+      "client_id": 50835,
+      "name": "POINT32HEALTH INC.",
+      "general_description": "Health Plan",
+      "client_government_entity": null,
+      "client_self_select": true,
+      "state": "MA",
+      "state_display": "Massachusetts",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "MA",
+      "ppb_state_display": "Massachusetts",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2021-04-05"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Medicare, Medicaid, ACA, Drugs and other health care and Cyber Security",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 133548,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "CHRISTINA",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "NYQUIST",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 23,
+            "name": "Agriculture, Dept of (USDA)"
+          },
+          {
+            "id": 34,
+            "name": "Health & Human Services, Dept of (HHS)"
+          },
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 188,
+            "name": "Internal Revenue Service (IRS)"
+          },
+          {
+            "id": 38,
+            "name": "Labor, Dept of (DOL)"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 41,
+            "name": "Treasury, Dept of"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/79aca6f4-75d4-41a6-9c96-ac12adde560c/",
+    "filing_uuid": "79aca6f4-75d4-41a6-9c96-ac12adde560c",
+    "filing_type": "Q4Y",
+    "filing_type_display": "4th Quarter - Report (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/79aca6f4-75d4-41a6-9c96-ac12adde560c/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Brian W. Walsh",
+    "dt_posted": "2026-02-23T22:58:41-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": "United States of America",
+    "registrant_address_1": "6578 S Alkire St #1638",
+    "registrant_address_2": null,
+    "registrant_different_address": true,
+    "registrant_city": "Littleton",
+    "registrant_state": "CO",
+    "registrant_zip": "80127",
+    "registrant": {
+      "id": 401104891,
+      "url": "https://lda.senate.gov/api/v1/registrants/401104891/",
+      "house_registrant_id": null,
+      "name": "MR. BRIAN WALSH",
+      "description": "Public policy research, communications, education, and advocacy",
+      "address_1": "6578 S Alkire St #1638",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Littleton",
+      "state": "CO",
+      "state_display": "Colorado",
+      "zip": "80127",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "BRIAN W. WALSH",
+      "contact_telephone": "+1 202-439-0926",
+      "dt_updated": "2026-02-24T16:59:34.874277-05:00"
+    },
+    "client": {
+      "id": 202899,
+      "url": "https://lda.senate.gov/api/v1/clients/202899/",
+      "client_id": 12,
+      "name": "GLOBAL GENEROSITY, INC.",
+      "general_description": "Philanthropy, Volunteerism and Grantmaking",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "GA",
+      "state_display": "Georgia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "GA",
+      "ppb_state_display": "Georgia",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2019-10-08"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/9b97dd9e-b061-48d4-9ad9-4d9175b37978/",
+    "filing_uuid": "9b97dd9e-b061-48d4-9ad9-4d9175b37978",
+    "filing_type": "Q4Y",
+    "filing_type_display": "4th Quarter - Report (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/9b97dd9e-b061-48d4-9ad9-4d9175b37978/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Brian W. Walsh",
+    "dt_posted": "2026-02-23T22:56:46-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": "United States of America",
+    "registrant_address_1": "6578 S Alkire St #1638",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Littleton",
+    "registrant_state": "CO",
+    "registrant_zip": "80127",
+    "registrant": {
+      "id": 401104891,
+      "url": "https://lda.senate.gov/api/v1/registrants/401104891/",
+      "house_registrant_id": null,
+      "name": "MR. BRIAN WALSH",
+      "description": "Public policy research, communications, education, and advocacy",
+      "address_1": "6578 S Alkire St #1638",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Littleton",
+      "state": "CO",
+      "state_display": "Colorado",
+      "zip": "80127",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "BRIAN W. WALSH",
+      "contact_telephone": "+1 202-439-0926",
+      "dt_updated": "2026-02-24T16:59:34.874277-05:00"
+    },
+    "client": {
+      "id": 54233,
+      "url": "https://lda.senate.gov/api/v1/clients/54233/",
+      "client_id": 54233,
+      "name": "PUBLIC PRIVATE STRATEGIES INSTITUTE",
+      "general_description": "Research and education",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "VA",
+      "ppb_state_display": "Virginia",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2022-10-05"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/73d93fbb-931c-4328-a4c1-a9152c667880/",
+    "filing_uuid": "73d93fbb-931c-4328-a4c1-a9152c667880",
+    "filing_type": "4TY",
+    "filing_type_display": "4th Quarter - Termination (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/73d93fbb-931c-4328-a4c1-a9152c667880/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Brian W. Walsh",
+    "dt_posted": "2026-02-23T22:50:28-05:00",
+    "termination_date": "2025-10-01",
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "6578 S Alkire St #1638",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Littleton",
+    "registrant_state": "CO",
+    "registrant_zip": "80127",
+    "registrant": {
+      "id": 401104891,
+      "url": "https://lda.senate.gov/api/v1/registrants/401104891/",
+      "house_registrant_id": null,
+      "name": "MR. BRIAN WALSH",
+      "description": "Public policy research, communications, education, and advocacy",
+      "address_1": "6578 S Alkire St #1638",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Littleton",
+      "state": "CO",
+      "state_display": "Colorado",
+      "zip": "80127",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "BRIAN W. WALSH",
+      "contact_telephone": "+1 202-439-0926",
+      "dt_updated": "2026-02-24T16:59:34.874277-05:00"
+    },
+    "client": {
+      "id": 61959,
+      "url": "https://lda.senate.gov/api/v1/clients/61959/",
+      "client_id": 61959,
+      "name": "CITYGATE NETWORK",
+      "general_description": "National association of homeless and life transformation centers",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "CO",
+      "state_display": "Colorado",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "CO",
+      "ppb_state_display": "Colorado",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2024-01-01"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/7e75c1ed-c1a5-4b71-a0c7-792aae7b29d1/",
+    "filing_uuid": "7e75c1ed-c1a5-4b71-a0c7-792aae7b29d1",
+    "filing_type": "4A",
+    "filing_type_display": "4th Quarter - Amendment",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/7e75c1ed-c1a5-4b71-a0c7-792aae7b29d1/print/",
+    "filing_document_content_type": "text/html",
+    "income": "30000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "James O'Keeffe",
+    "dt_posted": "2026-02-23T17:01:10-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "80 M Street, SE, Suite 100 WW",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20003",
+    "registrant": {
+      "id": 401104869,
+      "url": "https://lda.senate.gov/api/v1/registrants/401104869/",
+      "house_registrant_id": null,
+      "name": "O'KEEFFE SHAHMORADI STRATEGIES, LLC",
+      "description": "Strategic government affairs consulting firm",
+      "address_1": "80 M Street, SE",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20003",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "JAMES O'KEEFFE",
+      "contact_telephone": "+1 202-465-5986",
+      "dt_updated": "2026-01-29T14:26:13.367210-05:00"
+    },
+    "client": {
+      "id": 202855,
+      "url": "https://lda.senate.gov/api/v1/clients/202855/",
+      "client_id": 125,
+      "name": "CAPITAL SOUTHEAST CONNECTOR JPA",
+      "general_description": "Local government joint powers authority",
+      "client_government_entity": true,
+      "client_self_select": null,
+      "state": "CA",
+      "state_display": "California",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "CA",
+      "ppb_state_display": "California",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2019-04-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "TRA",
+        "general_issue_code_display": "Transportation",
+        "description": "Surface transportation reauthorization and project funding.",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 68403,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JAMES",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "O'KEEFFE",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Deputy Staff Director, Senate Committee on Environment and Public Works; Senior Analyst for Transportation, Senate Budget Committee",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 40,
+            "name": "Transportation, Dept of (DOT)"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/8dba8c99-9cc8-4e1a-a19c-add024f2327f/",
+    "filing_uuid": "8dba8c99-9cc8-4e1a-a19c-add024f2327f",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/8dba8c99-9cc8-4e1a-a19c-add024f2327f/print/",
+    "filing_document_content_type": "text/html",
+    "income": "24000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "David Woodruff",
+    "dt_posted": "2026-02-23T16:05:28-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1401 Orchard Street",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22302",
+    "registrant": {
+      "id": 401110200,
+      "url": "https://lda.senate.gov/api/v1/registrants/401110200/",
+      "house_registrant_id": 77394,
+      "name": "WASHINGTONGPS",
+      "description": null,
+      "address_1": "1401 Orchard Street",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22302",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "DAVID WOODRUFF",
+      "contact_telephone": "+1 202-770-7903",
+      "dt_updated": "2026-01-14T08:17:56.719425-05:00"
+    },
+    "client": {
+      "id": 70949,
+      "url": "https://lda.senate.gov/api/v1/clients/70949/",
+      "client_id": 70949,
+      "name": "UTLX",
+      "general_description": "Manufacturing and Leasing",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "IL",
+      "state_display": "Illinois",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "IL",
+      "ppb_state_display": "Illinois",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2025-12-02"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "TRA",
+        "general_issue_code_display": "Transportation",
+        "description": "Surface Reauthorization Miscellaneous Tariff Issues Rail Safety Act",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 152825,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "DAVID",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "WOODRUFF",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "TAR",
+        "general_issue_code_display": "Tariff (miscellaneous tariff bills)",
+        "description": "Section 232 Tariff Matters",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 152825,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "DAVID",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "WOODRUFF",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/97204ac8-4979-4ca4-b6bd-3d80a5badd0f/",
+    "filing_uuid": "97204ac8-4979-4ca4-b6bd-3d80a5badd0f",
+    "filing_type": "4T",
+    "filing_type_display": "4th Quarter - Termination",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/97204ac8-4979-4ca4-b6bd-3d80a5badd0f/print/",
+    "filing_document_content_type": "text/html",
+    "income": "60000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Jeffery A. Green",
+    "dt_posted": "2026-02-23T15:40:08-05:00",
+    "termination_date": "2025-12-01",
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "501 Capitol Court NE #300",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20002",
+    "registrant": {
+      "id": 313511,
+      "url": "https://lda.senate.gov/api/v1/registrants/313511/",
+      "house_registrant_id": 39139,
+      "name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+      "description": "Consultant for the defense industrial base and acquisition issues.",
+      "address_1": "501 Capitol Court NE #300",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20002",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "JEFFERY GREEN",
+      "contact_telephone": "+1 202-546-0388",
+      "dt_updated": "2026-02-24T16:58:28.896266-05:00"
+    },
+    "client": {
+      "id": 63530,
+      "url": "https://lda.senate.gov/api/v1/clients/63530/",
+      "client_id": 63530,
+      "name": "CALIFORNIA FOREVER LP",
+      "general_description": "City building, including advanced mfg., defense industrial base, housing, & infrastructure",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "CA",
+      "state_display": "California",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "CA",
+      "ppb_state_display": "California",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2024-11-20"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "DEF",
+        "general_issue_code_display": "Defense",
+        "description": "Issues related to industrial base site; H.R. 3838, S. 2296",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 71540,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "CHRISTOPHER",
+              "nickname": null,
+              "middle_name": "LEE",
+              "last_name": "MINAKOWSKI",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "LD; Rep. Dana Rohrabacher",
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 146146,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "LEONOR",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "TOMERO",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "Counsel, HASC; DASD, Nuclear & Missile Defense Policy, DoD",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/43c4eb92-d761-44b9-ab66-a53c860bb704/",
+    "filing_uuid": "43c4eb92-d761-44b9-ab66-a53c860bb704",
+    "filing_type": "4T",
+    "filing_type_display": "4th Quarter - Termination",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/43c4eb92-d761-44b9-ab66-a53c860bb704/print/",
+    "filing_document_content_type": "text/html",
+    "income": "60000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Jeffery A. Green",
+    "dt_posted": "2026-02-23T15:30:34-05:00",
+    "termination_date": "2025-12-15",
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "501 Capitol Court NE #300",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Washington",
+    "registrant_state": "DC",
+    "registrant_zip": "20002",
+    "registrant": {
+      "id": 313511,
+      "url": "https://lda.senate.gov/api/v1/registrants/313511/",
+      "house_registrant_id": 39139,
+      "name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+      "description": "Consultant for the defense industrial base and acquisition issues.",
+      "address_1": "501 Capitol Court NE #300",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Washington",
+      "state": "DC",
+      "state_display": "District of Columbia",
+      "zip": "20002",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "JEFFERY GREEN",
+      "contact_telephone": "+1 202-546-0388",
+      "dt_updated": "2026-02-24T16:58:28.896266-05:00"
+    },
+    "client": {
+      "id": 54543,
+      "url": "https://lda.senate.gov/api/v1/clients/54543/",
+      "client_id": 54543,
+      "name": "BABINGTON TECHNOLOGIES, LLC",
+      "general_description": "Field feeding and soldier sustainment",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "NC",
+      "state_display": "North Carolina",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "NC",
+      "ppb_state_display": "North Carolina",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2023-02-09"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "DEF",
+        "general_issue_code_display": "Defense",
+        "description": "Issues related to soldier sustainment and field feeding; H.R. 3838, S. 2296",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 71540,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "CHRISTOPHER",
+              "nickname": null,
+              "middle_name": "LEE",
+              "last_name": "MINAKOWSKI",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "LD, Rep. Dana Rohrabacher",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/aa755aa2-a62b-421b-aab4-636e0dbdfa74/",
+    "filing_uuid": "aa755aa2-a62b-421b-aab4-636e0dbdfa74",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/aa755aa2-a62b-421b-aab4-636e0dbdfa74/print/",
+    "filing_document_content_type": "text/html",
+    "income": "30000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "jason underwood",
+    "dt_posted": "2026-02-23T14:36:35-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "3301 Trinity Road",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Louisville",
+    "registrant_state": "KY",
+    "registrant_zip": "40206",
+    "registrant": {
+      "id": 400520535,
+      "url": "https://lda.senate.gov/api/v1/registrants/400520535/",
+      "house_registrant_id": null,
+      "name": "JASON UNDERWOOD",
+      "description": "Lobbying firm",
+      "address_1": "3301 Trinity Road",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Louisville",
+      "state": "KY",
+      "state_display": "Kentucky",
+      "zip": "40206",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "JASON UNDERWOOD",
+      "contact_telephone": "+1 502-376-3100",
+      "dt_updated": "2025-09-19T12:07:45.607764-04:00"
+    },
+    "client": {
+      "id": 192052,
+      "url": "https://lda.senate.gov/api/v1/clients/192052/",
+      "client_id": 24,
+      "name": "SERRALLES DISTILLERY",
+      "general_description": "Rum distiller",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "PR",
+      "state_display": "PR",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "PR",
+      "ppb_state_display": "PR",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2019-07-15"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "TAX",
+        "general_issue_code_display": "Taxation/Internal Revenue Code",
+        "description": "Seeking permanence of rum cover over tax extenders",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 50313,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JASON",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "UNDERWOOD",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/b4c801d8-6a40-46cd-bc9c-3df9e7decedf/",
+    "filing_uuid": "b4c801d8-6a40-46cd-bc9c-3df9e7decedf",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/b4c801d8-6a40-46cd-bc9c-3df9e7decedf/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Christian Richter",
+    "dt_posted": "2026-02-23T14:29:57-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1608 East Avenue",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "McLean",
+    "registrant_state": "VA",
+    "registrant_zip": "22101",
+    "registrant": {
+      "id": 40013101,
+      "url": "https://lda.senate.gov/api/v1/registrants/40013101/",
+      "house_registrant_id": 34878,
+      "name": "THE POLICY GROUP",
+      "description": "Regulatory Analysis & Legislative Advocacy",
+      "address_1": "1608 East Avenue",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "McLean",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22101",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "MR. CHRISTIAN RICHTER",
+      "contact_telephone": "+1 202-257-0250",
+      "dt_updated": "2025-09-26T03:03:07.979601-04:00"
+    },
+    "client": {
+      "id": 187804,
+      "url": "https://lda.senate.gov/api/v1/clients/187804/",
+      "client_id": 101,
+      "name": "NATIONAL TURKEY FEDERATION",
+      "general_description": null,
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": null,
+      "state_display": null,
+      "country": "",
+      "country_display": "* Undetermined",
+      "ppb_state": null,
+      "ppb_state_display": null,
+      "ppb_country": "",
+      "ppb_country_display": "* Undetermined",
+      "effective_date": "2008-02-04"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "CAW",
+        "general_issue_code_display": "Clean Air and Water (quality)",
+        "description": "EPA Meat and Poultry Effluent Guidelines",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 38846,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "CHRISTIAN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "RICHTER",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 49,
+            "name": "Environmental Protection Agency (EPA)"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/12ff5af7-155c-4a2c-849e-e5104cc8ce47/",
+    "filing_uuid": "12ff5af7-155c-4a2c-849e-e5104cc8ce47",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/12ff5af7-155c-4a2c-849e-e5104cc8ce47/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Christian Richter",
+    "dt_posted": "2026-02-23T14:29:11-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1608 East Avenue",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "McLean",
+    "registrant_state": "VA",
+    "registrant_zip": "22101",
+    "registrant": {
+      "id": 40013101,
+      "url": "https://lda.senate.gov/api/v1/registrants/40013101/",
+      "house_registrant_id": 34878,
+      "name": "THE POLICY GROUP",
+      "description": "Regulatory Analysis & Legislative Advocacy",
+      "address_1": "1608 East Avenue",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "McLean",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22101",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "MR. CHRISTIAN RICHTER",
+      "contact_telephone": "+1 202-257-0250",
+      "dt_updated": "2025-09-26T03:03:07.979601-04:00"
+    },
+    "client": {
+      "id": 187809,
+      "url": "https://lda.senate.gov/api/v1/clients/187809/",
+      "client_id": 137,
+      "name": "US POULTRY & EGG ASSOCIATION",
+      "general_description": null,
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": null,
+      "state_display": null,
+      "country": "",
+      "country_display": "* Undetermined",
+      "ppb_state": null,
+      "ppb_state_display": null,
+      "ppb_country": "",
+      "ppb_country_display": "* Undetermined",
+      "effective_date": "2008-02-04"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "CAW",
+        "general_issue_code_display": "Clean Air and Water (quality)",
+        "description": "EPA Meat and Poultry Effluent Guidelines",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 38846,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "CHRISTIAN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "RICHTER",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 49,
+            "name": "Environmental Protection Agency (EPA)"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/c98561e7-bb83-44a7-ab7b-011ad721897a/",
+    "filing_uuid": "c98561e7-bb83-44a7-ab7b-011ad721897a",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/c98561e7-bb83-44a7-ab7b-011ad721897a/print/",
+    "filing_document_content_type": "text/html",
+    "income": "40000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Christian M. Richter",
+    "dt_posted": "2026-02-23T14:28:16-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "1608 East Avenue",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "McLean",
+    "registrant_state": "VA",
+    "registrant_zip": "22101",
+    "registrant": {
+      "id": 40013101,
+      "url": "https://lda.senate.gov/api/v1/registrants/40013101/",
+      "house_registrant_id": 34878,
+      "name": "THE POLICY GROUP",
+      "description": "Regulatory Analysis & Legislative Advocacy",
+      "address_1": "1608 East Avenue",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "McLean",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22101",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "MR. CHRISTIAN RICHTER",
+      "contact_telephone": "+1 202-257-0250",
+      "dt_updated": "2025-09-26T03:03:07.979601-04:00"
+    },
+    "client": {
+      "id": 187803,
+      "url": "https://lda.senate.gov/api/v1/clients/187803/",
+      "client_id": 164,
+      "name": "NATIONAL ASSOCIATION FOR SURFACE FINISHING",
+      "general_description": null,
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": null,
+      "state_display": null,
+      "country": "",
+      "country_display": "* Undetermined",
+      "ppb_state": null,
+      "ppb_state_display": null,
+      "ppb_country": "",
+      "ppb_country_display": "* Undetermined",
+      "effective_date": "2008-02-04"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "CAW",
+        "general_issue_code_display": "Clean Air and Water (quality)",
+        "description": "PFAS Effluent Guidelines and pretreatment standards",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 38846,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "CHRISTIAN",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "RICHTER",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 38862,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "JEFFERY",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "HANNAPEL",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 49,
+            "name": "Environmental Protection Agency (EPA)"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/8509229d-51df-4f71-be16-6983f700b8e3/",
+    "filing_uuid": "8509229d-51df-4f71-be16-6983f700b8e3",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/8509229d-51df-4f71-be16-6983f700b8e3/print/",
+    "filing_document_content_type": "text/html",
+    "income": "30000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "David C Thompson",
+    "dt_posted": "2026-02-23T14:27:12-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "10612 D Providence Road",
+    "registrant_address_2": "Suite 277",
+    "registrant_different_address": false,
+    "registrant_city": "Charlotte",
+    "registrant_state": "NC",
+    "registrant_zip": "28277",
+    "registrant": {
+      "id": 401103846,
+      "url": "https://lda.senate.gov/api/v1/registrants/401103846/",
+      "house_registrant_id": null,
+      "name": "EDGEPOINT, LLC",
+      "description": "consulting firm",
+      "address_1": "10612 D Providence Road",
+      "address_2": "Suite 277",
+      "address_3": null,
+      "address_4": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "state_display": "North Carolina",
+      "zip": "28277",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "DAVID THOMPSON",
+      "contact_telephone": "+1 202-222-5319",
+      "dt_updated": "2025-07-21T14:13:20.759015-04:00"
+    },
+    "client": {
+      "id": 69333,
+      "url": "https://lda.senate.gov/api/v1/clients/69333/",
+      "client_id": 69333,
+      "name": "GIVENS COMMUNITIES",
+      "general_description": "Affordable Housing Community",
+      "client_government_entity": null,
+      "client_self_select": false,
+      "state": "NC",
+      "state_display": "North Carolina",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "NC",
+      "ppb_state_display": "North Carolina",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2025-07-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HOU",
+        "general_issue_code_display": "Housing",
+        "description": "Work with HUD and Congress to support expanded housing in western North Carolina",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 63015,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "DAVID",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "THOMPSON",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "White House Advance",
+            "new": false
+          },
+          {
+            "lobbyist": {
+              "id": 151681,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "ROGER",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "KUMPF",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 35,
+            "name": "Housing & Urban Development, Dept of (HUD)"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/43aa1e30-210c-48f6-8bbc-c2b50e7b92c6/",
+    "filing_uuid": "43aa1e30-210c-48f6-8bbc-c2b50e7b92c6",
+    "filing_type": "Q4Y",
+    "filing_type_display": "4th Quarter - Report (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/43aa1e30-210c-48f6-8bbc-c2b50e7b92c6/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "David C. Thompson",
+    "dt_posted": "2026-02-23T14:26:39-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "10612 D Providence Road",
+    "registrant_address_2": "Suite 277",
+    "registrant_different_address": false,
+    "registrant_city": "Charlotte",
+    "registrant_state": "NC",
+    "registrant_zip": "28277",
+    "registrant": {
+      "id": 401103846,
+      "url": "https://lda.senate.gov/api/v1/registrants/401103846/",
+      "house_registrant_id": null,
+      "name": "EDGEPOINT, LLC",
+      "description": "consulting firm",
+      "address_1": "10612 D Providence Road",
+      "address_2": "Suite 277",
+      "address_3": null,
+      "address_4": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "state_display": "North Carolina",
+      "zip": "28277",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "DAVID THOMPSON",
+      "contact_telephone": "+1 202-222-5319",
+      "dt_updated": "2025-07-21T14:13:20.759015-04:00"
+    },
+    "client": {
+      "id": 211777,
+      "url": "https://lda.senate.gov/api/v1/clients/211777/",
+      "client_id": 188,
+      "name": "CATAWBA VALLEY COMMUNITY COLLEGE",
+      "general_description": "Community College",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "NC",
+      "state_display": "North Carolina",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "NC",
+      "ppb_state_display": "North Carolina",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2021-09-13"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/ce5ba58a-f429-4259-927c-b19179db0b13/",
+    "filing_uuid": "ce5ba58a-f429-4259-927c-b19179db0b13",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/ce5ba58a-f429-4259-927c-b19179db0b13/print/",
+    "filing_document_content_type": "text/html",
+    "income": "30000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "David C Thompson",
+    "dt_posted": "2026-02-23T14:26:11-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "10612 D Providence Road",
+    "registrant_address_2": "Suite 277",
+    "registrant_different_address": false,
+    "registrant_city": "Charlotte",
+    "registrant_state": "NC",
+    "registrant_zip": "28277",
+    "registrant": {
+      "id": 401103846,
+      "url": "https://lda.senate.gov/api/v1/registrants/401103846/",
+      "house_registrant_id": null,
+      "name": "EDGEPOINT, LLC",
+      "description": "consulting firm",
+      "address_1": "10612 D Providence Road",
+      "address_2": "Suite 277",
+      "address_3": null,
+      "address_4": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "state_display": "North Carolina",
+      "zip": "28277",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "DAVID THOMPSON",
+      "contact_telephone": "+1 202-222-5319",
+      "dt_updated": "2025-07-21T14:13:20.759015-04:00"
+    },
+    "client": {
+      "id": 205310,
+      "url": "https://lda.senate.gov/api/v1/clients/205310/",
+      "client_id": 140,
+      "name": "BAYLOR UNIVERSITY",
+      "general_description": "Institution of higher ed",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "TX",
+      "state_display": "Texas",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "TX",
+      "ppb_state_display": "Texas",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2020-03-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "DEF",
+        "general_issue_code_display": "Defense",
+        "description": "cybersecurity",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 63015,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "DAVID",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "THOMPSON",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "White House Advance",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 25,
+            "name": "Defense, Dept of (DOD)"
+          },
+          {
+            "id": 127,
+            "name": "Natl Security Agency (NSA)"
+          },
+          {
+            "id": 12,
+            "name": "White House Office"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "COM",
+        "general_issue_code_display": "Communications/Broadcasting/Radio/TV",
+        "description": "cybersecurity",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 63015,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "DAVID",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "THOMPSON",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "White House Advance",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 25,
+            "name": "Defense, Dept of (DOD)"
+          },
+          {
+            "id": 127,
+            "name": "Natl Security Agency (NSA)"
+          },
+          {
+            "id": 12,
+            "name": "White House Office"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/592aba26-7859-426c-a1d4-d6565728e0fa/",
+    "filing_uuid": "592aba26-7859-426c-a1d4-d6565728e0fa",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/592aba26-7859-426c-a1d4-d6565728e0fa/print/",
+    "filing_document_content_type": "text/html",
+    "income": "30000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "David C Thompson",
+    "dt_posted": "2026-02-23T14:24:08-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "10612 D Providence Road",
+    "registrant_address_2": "Suite 277",
+    "registrant_different_address": false,
+    "registrant_city": "Charlotte",
+    "registrant_state": "NC",
+    "registrant_zip": "28277",
+    "registrant": {
+      "id": 401103846,
+      "url": "https://lda.senate.gov/api/v1/registrants/401103846/",
+      "house_registrant_id": null,
+      "name": "EDGEPOINT, LLC",
+      "description": "consulting firm",
+      "address_1": "10612 D Providence Road",
+      "address_2": "Suite 277",
+      "address_3": null,
+      "address_4": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "state_display": "North Carolina",
+      "zip": "28277",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "DAVID THOMPSON",
+      "contact_telephone": "+1 202-222-5319",
+      "dt_updated": "2025-07-21T14:13:20.759015-04:00"
+    },
+    "client": {
+      "id": 200261,
+      "url": "https://lda.senate.gov/api/v1/clients/200261/",
+      "client_id": 137,
+      "name": "FAYETVILLE TECHNICAL COMMUNITY COLLEGE",
+      "general_description": "community college",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "NC",
+      "state_display": "North Carolina",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "NC",
+      "ppb_state_display": "North Carolina",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2019-12-16"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "EDU",
+        "general_issue_code_display": "Education",
+        "description": "cybersecurity",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 63015,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "DAVID",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "THOMPSON",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "White House Advance",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 127,
+            "name": "Natl Security Agency (NSA)"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 12,
+            "name": "White House Office"
+          }
+        ]
+      },
+      {
+        "general_issue_code": "DEF",
+        "general_issue_code_display": "Defense",
+        "description": "cybersecurity",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 63015,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "DAVID",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "THOMPSON",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "White House Advance",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 127,
+            "name": "Natl Security Agency (NSA)"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 12,
+            "name": "White House Office"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/fdc87f45-600c-4d16-918e-a5b87a72b403/",
+    "filing_uuid": "fdc87f45-600c-4d16-918e-a5b87a72b403",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/fdc87f45-600c-4d16-918e-a5b87a72b403/print/",
+    "filing_document_content_type": "text/html",
+    "income": "20000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "David Thompson",
+    "dt_posted": "2026-02-23T14:23:36-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "10612 D Providence Road",
+    "registrant_address_2": "Suite 277",
+    "registrant_different_address": false,
+    "registrant_city": "Charlotte",
+    "registrant_state": "NC",
+    "registrant_zip": "28277",
+    "registrant": {
+      "id": 401103846,
+      "url": "https://lda.senate.gov/api/v1/registrants/401103846/",
+      "house_registrant_id": null,
+      "name": "EDGEPOINT, LLC",
+      "description": "consulting firm",
+      "address_1": "10612 D Providence Road",
+      "address_2": "Suite 277",
+      "address_3": null,
+      "address_4": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "state_display": "North Carolina",
+      "zip": "28277",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "DAVID THOMPSON",
+      "contact_telephone": "+1 202-222-5319",
+      "dt_updated": "2025-07-21T14:13:20.759015-04:00"
+    },
+    "client": {
+      "id": 200257,
+      "url": "https://lda.senate.gov/api/v1/clients/200257/",
+      "client_id": 36,
+      "name": "MONTREAT COLLEGE",
+      "general_description": "college",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "NC",
+      "state_display": "North Carolina",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "NC",
+      "ppb_state_display": "North Carolina",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2015-12-11"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "DEF",
+        "general_issue_code_display": "Defense",
+        "description": "cybersecurity",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 63015,
+              "prefix": null,
+              "prefix_display": null,
+              "first_name": "DAVID",
+              "nickname": null,
+              "middle_name": null,
+              "last_name": "THOMPSON",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": "White House Advance",
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 25,
+            "name": "Defense, Dept of (DOD)"
+          },
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 127,
+            "name": "Natl Security Agency (NSA)"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          },
+          {
+            "id": 12,
+            "name": "White House Office"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/5fc97c7b-923a-4e20-8ab4-4790eeab5c25/",
+    "filing_uuid": "5fc97c7b-923a-4e20-8ab4-4790eeab5c25",
+    "filing_type": "Q4Y",
+    "filing_type_display": "4th Quarter - Report (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/5fc97c7b-923a-4e20-8ab4-4790eeab5c25/print/",
+    "filing_document_content_type": "text/html",
+    "income": "20000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "John F. Seher",
+    "dt_posted": "2026-02-23T13:58:40-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "6810 Connecticut Ave",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Chevy Chase",
+    "registrant_state": "MD",
+    "registrant_zip": "20815",
+    "registrant": {
+      "id": 401103233,
+      "url": "https://lda.senate.gov/api/v1/registrants/401103233/",
+      "house_registrant_id": null,
+      "name": "CAPITOL-CONTEXT,LLC",
+      "description": "Government Affairs",
+      "address_1": "6810 Connecticut Ave",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Chevy Chase",
+      "state": "MD",
+      "state_display": "Maryland",
+      "zip": "20815",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "JOHN F SEHER",
+      "contact_telephone": "+1 202-327-0256",
+      "dt_updated": "2025-10-27T17:16:17.684443-04:00"
+    },
+    "client": {
+      "id": 198243,
+      "url": "https://lda.senate.gov/api/v1/clients/198243/",
+      "client_id": 12,
+      "name": "PRIVATE INVESTOR COALITION",
+      "general_description": "Public Policy",
+      "client_government_entity": false,
+      "client_self_select": null,
+      "state": "IL",
+      "state_display": "Illinois",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "IL",
+      "ppb_state_display": "Illinois",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2014-02-19"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/e9291396-e443-4773-bed2-3a9ed6c02e62/",
+    "filing_uuid": "e9291396-e443-4773-bed2-3a9ed6c02e62",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/e9291396-e443-4773-bed2-3a9ed6c02e62/print/",
+    "filing_document_content_type": "text/html",
+    "income": "10000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Christopher Gallagher",
+    "dt_posted": "2026-02-23T13:47:22-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "6255 Gentle Lane",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22310",
+    "registrant": {
+      "id": 400319495,
+      "url": "https://lda.senate.gov/api/v1/registrants/400319495/",
+      "house_registrant_id": null,
+      "name": "POTOMAC CURRENTS, LLC",
+      "description": "lobbying firm",
+      "address_1": "6255 Gentle Lane",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22310",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "CHRISTOPHER GALLAGHER",
+      "contact_telephone": "+1 571-235-6475",
+      "dt_updated": "2025-09-18T11:14:33.495158-04:00"
+    },
+    "client": {
+      "id": 189237,
+      "url": "https://lda.senate.gov/api/v1/clients/189237/",
+      "client_id": 48,
+      "name": "THE OBESITY SOCIETY",
+      "general_description": "Obesity Research Association",
+      "client_government_entity": false,
+      "client_self_select": false,
+      "state": "MD",
+      "state_display": "Maryland",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": null,
+      "ppb_state_display": null,
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2013-01-01"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Advocate for passage of the Treat and Reduce Obesity Act",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 50132,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "CHRIS",
+              "nickname": null,
+              "middle_name": "ROBERT",
+              "last_name": "GALLAGHER",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 34,
+            "name": "Health & Human Services, Dept of (HHS)"
+          },
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/d2b583f8-0101-4301-8f5d-88e42de3b167/",
+    "filing_uuid": "d2b583f8-0101-4301-8f5d-88e42de3b167",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/d2b583f8-0101-4301-8f5d-88e42de3b167/print/",
+    "filing_document_content_type": "text/html",
+    "income": "5000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Christopher Gallagher",
+    "dt_posted": "2026-02-23T13:42:57-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "6255 Gentle Lane",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22310",
+    "registrant": {
+      "id": 400319495,
+      "url": "https://lda.senate.gov/api/v1/registrants/400319495/",
+      "house_registrant_id": null,
+      "name": "POTOMAC CURRENTS, LLC",
+      "description": "lobbying firm",
+      "address_1": "6255 Gentle Lane",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22310",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "CHRISTOPHER GALLAGHER",
+      "contact_telephone": "+1 571-235-6475",
+      "dt_updated": "2025-09-18T11:14:33.495158-04:00"
+    },
+    "client": {
+      "id": 189234,
+      "url": "https://lda.senate.gov/api/v1/clients/189234/",
+      "client_id": 24,
+      "name": "OBESITY ACTION COALITION",
+      "general_description": "non-profit patient organization dedicated to education re obesity issues",
+      "client_government_entity": false,
+      "client_self_select": false,
+      "state": "FL",
+      "state_display": "Florida",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": null,
+      "ppb_state_display": null,
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2008-07-15"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Advocate for passage of the Treat and Reduce Obesity Act",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 50132,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "CHRIS",
+              "nickname": null,
+              "middle_name": "ROBERT",
+              "last_name": "GALLAGHER",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 34,
+            "name": "Health & Human Services, Dept of (HHS)"
+          },
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/3590245a-560a-4fcf-940b-194bb1494061/",
+    "filing_uuid": "3590245a-560a-4fcf-940b-194bb1494061",
+    "filing_type": "Q4",
+    "filing_type_display": "4th Quarter - Report",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/3590245a-560a-4fcf-940b-194bb1494061/print/",
+    "filing_document_content_type": "text/html",
+    "income": "10000.00",
+    "expenses": null,
+    "expenses_method": null,
+    "expenses_method_display": null,
+    "posted_by_name": "Christopher Gallagher",
+    "dt_posted": "2026-02-23T13:40:17-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "6255 Gentle Lane",
+    "registrant_address_2": null,
+    "registrant_different_address": false,
+    "registrant_city": "Alexandria",
+    "registrant_state": "VA",
+    "registrant_zip": "22310",
+    "registrant": {
+      "id": 400319495,
+      "url": "https://lda.senate.gov/api/v1/registrants/400319495/",
+      "house_registrant_id": null,
+      "name": "POTOMAC CURRENTS, LLC",
+      "description": "lobbying firm",
+      "address_1": "6255 Gentle Lane",
+      "address_2": null,
+      "address_3": null,
+      "address_4": null,
+      "city": "Alexandria",
+      "state": "VA",
+      "state_display": "Virginia",
+      "zip": "22310",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "CHRISTOPHER GALLAGHER",
+      "contact_telephone": "+1 571-235-6475",
+      "dt_updated": "2025-09-18T11:14:33.495158-04:00"
+    },
+    "client": {
+      "id": 189233,
+      "url": "https://lda.senate.gov/api/v1/clients/189233/",
+      "client_id": 12,
+      "name": "AMERICAN SOCIETY FOR METABOLIC AND BARIATRIC SURGERY",
+      "general_description": "Professional Scientific Association representing Bariatric surgeons",
+      "client_government_entity": false,
+      "client_self_select": false,
+      "state": "FL",
+      "state_display": "Florida",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": null,
+      "ppb_state_display": null,
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2008-07-15"
+    },
+    "lobbying_activities": [
+      {
+        "general_issue_code": "HCR",
+        "general_issue_code_display": "Health Issues",
+        "description": "Support passage of the Treat and Reduce Obesity Act",
+        "foreign_entity_issues": "",
+        "lobbyists": [
+          {
+            "lobbyist": {
+              "id": 50132,
+              "prefix": "mr",
+              "prefix_display": "MR.",
+              "first_name": "CHRIS",
+              "nickname": null,
+              "middle_name": "ROBERT",
+              "last_name": "GALLAGHER",
+              "suffix": null,
+              "suffix_display": null
+            },
+            "covered_position": null,
+            "new": false
+          }
+        ],
+        "government_entities": [
+          {
+            "id": 34,
+            "name": "Health & Human Services, Dept of (HHS)"
+          },
+          {
+            "id": 2,
+            "name": "HOUSE OF REPRESENTATIVES"
+          },
+          {
+            "id": 1,
+            "name": "SENATE"
+          }
+        ]
+      }
+    ],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  },
+  {
+    "url": "https://lda.senate.gov/api/v1/filings/b8ab8b2c-dc75-4b76-8ec2-b59df19659f2/",
+    "filing_uuid": "b8ab8b2c-dc75-4b76-8ec2-b59df19659f2",
+    "filing_type": "Q4Y",
+    "filing_type_display": "4th Quarter - Report (No Activity)",
+    "filing_year": 2025,
+    "filing_period": "fourth_quarter",
+    "filing_period_display": "4th Quarter (Oct 1 - Dec 31)",
+    "filing_document_url": "https://lda.senate.gov/filings/public/filing/b8ab8b2c-dc75-4b76-8ec2-b59df19659f2/print/",
+    "filing_document_content_type": "text/html",
+    "income": null,
+    "expenses": null,
+    "expenses_method": "A",
+    "expenses_method_display": "A",
+    "posted_by_name": "Rocky Burns",
+    "dt_posted": "2026-02-23T11:45:44-05:00",
+    "termination_date": null,
+    "registrant_country": "United States of America",
+    "registrant_ppb_country": null,
+    "registrant_address_1": "2030 E. Maple Ave",
+    "registrant_address_2": "Suite 300",
+    "registrant_different_address": false,
+    "registrant_city": "El Segundo",
+    "registrant_state": "CA",
+    "registrant_zip": "90245",
+    "registrant": {
+      "id": 401109528,
+      "url": "https://lda.senate.gov/api/v1/registrants/401109528/",
+      "house_registrant_id": 77047,
+      "name": "SKYRYSE, INC.",
+      "description": null,
+      "address_1": "2030 E. Maple Ave",
+      "address_2": "Suite 300",
+      "address_3": null,
+      "address_4": null,
+      "city": "El Segundo",
+      "state": "CA",
+      "state_display": "California",
+      "zip": "90245",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "contact_name": "LAUREN BATES",
+      "contact_telephone": "+1 913-744-1648",
+      "dt_updated": "2025-10-13T11:30:30.500971-04:00"
+    },
+    "client": {
+      "id": 67885,
+      "url": "https://lda.senate.gov/api/v1/clients/67885/",
+      "client_id": 67885,
+      "name": "SKYRYSE, INC.",
+      "general_description": "manufacturing",
+      "client_government_entity": null,
+      "client_self_select": true,
+      "state": "CA",
+      "state_display": "California",
+      "country": "US",
+      "country_display": "United States of America",
+      "ppb_state": "CA",
+      "ppb_state_display": "California",
+      "ppb_country": "US",
+      "ppb_country_display": "United States of America",
+      "effective_date": "2025-06-02"
+    },
+    "lobbying_activities": [],
+    "conviction_disclosures": [],
+    "foreign_entities": [],
+    "affiliated_organizations": []
+  }
+]
