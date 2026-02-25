@@ -121,6 +121,16 @@ export default function CrossReferencePage() {
         The power of connecting the dots — unique to OpenLobby because we connect 5 datasets
       </p>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">This tool reveals the hidden web connecting lobbying money to government contracts. When a company spends $1M lobbying and receives $1B in federal contracts, that&apos;s a 1,000x return on investment. The cross-reference shows which companies are playing this game most effectively — and which government agencies are most influenced by lobbying pressure.</p>
+          </div>
+        </div>
+      </div>
+
       {/* Hero stat */}
       {roiData && (
         <div className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-xl p-8 mb-10">

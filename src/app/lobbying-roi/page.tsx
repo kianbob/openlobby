@@ -104,6 +104,16 @@ export default function LobbyingROIPage() {
         How much do companies get back for every dollar spent lobbying?
       </p>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">The Lobbying ROI Calculator reveals what may be the best investment in America: for every dollar spent on lobbying, companies receive an average return of $760 in government contracts and tax benefits. This isn&apos;t coincidence — it&apos;s a deliberate strategy. Companies like Lockheed Martin and Boeing spend millions lobbying because the return dwarfs any stock market investment.</p>
+          </div>
+        </div>
+      </div>
+
       {/* Hero Stats */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
         <div className="bg-indigo-50 border border-indigo-100 rounded-xl p-6 text-center">

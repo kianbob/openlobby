@@ -29,7 +29,7 @@ export default function AboutPage() {
           <li><strong>5,000+</strong> individual lobbyists profiled</li>
           <li><strong>2,000+</strong> lobbying firms analyzed</li>
           <li><strong>$15.2 billion</strong> total lobbying income tracked</li>
-          <li><strong>$2.0 billion</strong> spent on lobbying in 2024 alone</li>
+          <li><strong>$2.7 billion</strong> spent on lobbying in 2025 — a record high</li>
         </ul>
         
         <h2 style={{ fontFamily: 'var(--font-serif)' }}>Part of TheDataProject</h2>

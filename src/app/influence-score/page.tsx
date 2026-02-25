@@ -170,6 +170,16 @@ export default function InfluenceScorePage() {
         A composite score measuring lobbying intensity across 5 dimensions
       </p>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">Our Influence Score combines multiple factors — lobbying spend, number of lobbyists deployed, revolving door connections, and issue breadth — into a single metric measuring each client&apos;s Washington clout. The highest-scoring entities aren&apos;t always the biggest spenders; sometimes a well-connected firm with a few ex-officials outranks a corporation spending ten times more.</p>
+          </div>
+        </div>
+      </div>
+
       {/* Tier Summary */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
         {(['Extreme', 'High', 'Moderate', 'Low'] as const).map(tier => (

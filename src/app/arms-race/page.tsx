@@ -109,6 +109,16 @@ export default function ArmsRacePage() {
         Comparing {data.latestQuarter} to {data.comparedTo}
       </p>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">The Arms Race Tracker monitors quarter-over-quarter surges in lobbying spending by issue. When a policy area suddenly sees a 200%+ increase in lobbying, it&apos;s a leading indicator that major legislation is coming. The biggest surges often predict the news cycle weeks before stories break — because industries lobby before the public pays attention.</p>
+          </div>
+        </div>
+      </div>
+
       {/* Heat Map Grid */}
       <div className="bg-white border border-gray-200 rounded-xl p-6 mb-10">
         <h2 className="text-xl font-bold text-gray-900 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>

@@ -63,6 +63,26 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* What You'll Find */}
+      <section className="max-w-4xl mx-auto px-4 py-12">
+        <h2 className="text-3xl font-bold mb-8 text-center" style={{ fontFamily: 'var(--font-serif)' }}>What You&apos;ll Find</h2>
+        <div className="grid md:grid-cols-2 gap-6">
+          {[
+            { title: 'Follow the Money', desc: 'Track $15.2 billion in federal lobbying spending from 2018-2025. See which corporations, trade groups, and foreign entities spend the most to influence Congress.', href: '/clients' },
+            { title: 'The Revolving Door', desc: 'Over 5,000 former government officials now work as lobbyists. See who left public service to profit from their connections and insider knowledge.', href: '/revolving-door' },
+            { title: 'Industry Analysis', desc: 'Healthcare, defense, tech, and finance dominate lobbying spending. See which industries are fighting hardest to shape the laws that affect your life.', href: '/industries' },
+            { title: 'Investigation Articles', desc: '12 data-driven investigations exposing the biggest lobbying stories — from Big Pharma&apos;s $4.4B spend to crypto&apos;s K Street invasion to the 2025 tariff lobbying explosion.', href: '/investigations' },
+            { title: 'Interactive Tools', desc: 'Calculate lobbying ROI, score political influence, compare entities side-by-side, and search across all 650,000+ filings.', href: '/lobbying-roi' },
+            { title: 'Open Data', desc: 'All our processed data is freely downloadable. We believe transparency data should be accessible to everyone — journalists, researchers, and citizens.', href: '/downloads' },
+          ].map(item => (
+            <a key={item.href} href={item.href} className="block p-5 bg-white border border-gray-200 rounded-xl hover:border-indigo-300 hover:shadow-md transition-all">
+              <h3 className="text-lg font-bold text-gray-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>{item.title}</h3>
+              <p className="text-gray-600 text-sm leading-relaxed">{item.desc}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+
       {/* Key Numbers */}
       <section className="bg-gray-50 border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
