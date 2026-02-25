@@ -1,0 +1,806 @@
+{
+  "topPairs": [
+    {
+      "issues": [
+        "HCR",
+        "MMM"
+      ],
+      "count": 31240,
+      "jaccard": 0.434
+    },
+    {
+      "issues": [
+        "BUD",
+        "HCR"
+      ],
+      "count": 27272,
+      "jaccard": 0.174
+    },
+    {
+      "issues": [
+        "BUD",
+        "DEF"
+      ],
+      "count": 23981,
+      "jaccard": 0.178
+    },
+    {
+      "issues": [
+        "BUD",
+        "TRA"
+      ],
+      "count": 23909,
+      "jaccard": 0.175
+    },
+    {
+      "issues": [
+        "BUD",
+        "TAX"
+      ],
+      "count": 23490,
+      "jaccard": 0.139
+    },
+    {
+      "issues": [
+        "TAX",
+        "TRD"
+      ],
+      "count": 19506,
+      "jaccard": 0.203
+    },
+    {
+      "issues": [
+        "ENG",
+        "TAX"
+      ],
+      "count": 17417,
+      "jaccard": 0.184
+    },
+    {
+      "issues": [
+        "BUD",
+        "EDU"
+      ],
+      "count": 15423,
+      "jaccard": 0.124
+    },
+    {
+      "issues": [
+        "HCR",
+        "TAX"
+      ],
+      "count": 14226,
+      "jaccard": 0.111
+    },
+    {
+      "issues": [
+        "TAX",
+        "TRA"
+      ],
+      "count": 13590,
+      "jaccard": 0.129
+    },
+    {
+      "issues": [
+        "BUD",
+        "ENV"
+      ],
+      "count": 12926,
+      "jaccard": 0.096
+    },
+    {
+      "issues": [
+        "BUD",
+        "ENG"
+      ],
+      "count": 12827,
+      "jaccard": 0.091
+    },
+    {
+      "issues": [
+        "ENV",
+        "TAX"
+      ],
+      "count": 12584,
+      "jaccard": 0.135
+    },
+    {
+      "issues": [
+        "BUD",
+        "MMM"
+      ],
+      "count": 12051,
+      "jaccard": 0.086
+    },
+    {
+      "issues": [
+        "LBR",
+        "TAX"
+      ],
+      "count": 11633,
+      "jaccard": 0.131
+    },
+    {
+      "issues": [
+        "AGR",
+        "BUD"
+      ],
+      "count": 11455,
+      "jaccard": 0.088
+    },
+    {
+      "issues": [
+        "ENG",
+        "ENV"
+      ],
+      "count": 11232,
+      "jaccard": 0.201
+    },
+    {
+      "issues": [
+        "FIN",
+        "TAX"
+      ],
+      "count": 10888,
+      "jaccard": 0.128
+    },
+    {
+      "issues": [
+        "BUD",
+        "NAT"
+      ],
+      "count": 10657,
+      "jaccard": 0.085
+    },
+    {
+      "issues": [
+        "BUD",
+        "TRD"
+      ],
+      "count": 10642,
+      "jaccard": 0.073
+    },
+    {
+      "issues": [
+        "BUD",
+        "HOM"
+      ],
+      "count": 9896,
+      "jaccard": 0.078
+    },
+    {
+      "issues": [
+        "ENV",
+        "TRA"
+      ],
+      "count": 9680,
+      "jaccard": 0.15
+    },
+    {
+      "issues": [
+        "BUD",
+        "SCI"
+      ],
+      "count": 9234,
+      "jaccard": 0.073
+    },
+    {
+      "issues": [
+        "BUD",
+        "LBR"
+      ],
+      "count": 9019,
+      "jaccard": 0.068
+    },
+    {
+      "issues": [
+        "ENG",
+        "TRA"
+      ],
+      "count": 8457,
+      "jaccard": 0.117
+    },
+    {
+      "issues": [
+        "TRA",
+        "TRD"
+      ],
+      "count": 8151,
+      "jaccard": 0.107
+    },
+    {
+      "issues": [
+        "BUD",
+        "GOV"
+      ],
+      "count": 7879,
+      "jaccard": 0.062
+    },
+    {
+      "issues": [
+        "ENG",
+        "TRD"
+      ],
+      "count": 7735,
+      "jaccard": 0.111
+    },
+    {
+      "issues": [
+        "ENV",
+        "TRD"
+      ],
+      "count": 7677,
+      "jaccard": 0.121
+    },
+    {
+      "issues": [
+        "BUD",
+        "IMM"
+      ],
+      "count": 7509,
+      "jaccard": 0.06
+    },
+    {
+      "issues": [
+        "AGR",
+        "TAX"
+      ],
+      "count": 7381,
+      "jaccard": 0.079
+    },
+    {
+      "issues": [
+        "DEF",
+        "HOM"
+      ],
+      "count": 7126,
+      "jaccard": 0.131
+    },
+    {
+      "issues": [
+        "AGR",
+        "TRD"
+      ],
+      "count": 6979,
+      "jaccard": 0.118
+    },
+    {
+      "issues": [
+        "LBR",
+        "TRD"
+      ],
+      "count": 6906,
+      "jaccard": 0.118
+    },
+    {
+      "issues": [
+        "DEF",
+        "HCR"
+      ],
+      "count": 6898,
+      "jaccard": 0.067
+    },
+    {
+      "issues": [
+        "DEF",
+        "TAX"
+      ],
+      "count": 6804,
+      "jaccard": 0.062
+    },
+    {
+      "issues": [
+        "HCR",
+        "LBR"
+      ],
+      "count": 6624,
+      "jaccard": 0.077
+    },
+    {
+      "issues": [
+        "IMM",
+        "TAX"
+      ],
+      "count": 6610,
+      "jaccard": 0.079
+    },
+    {
+      "issues": [
+        "EDU",
+        "HCR"
+      ],
+      "count": 6554,
+      "jaccard": 0.078
+    },
+    {
+      "issues": [
+        "MMM",
+        "TAX"
+      ],
+      "count": 6514,
+      "jaccard": 0.062
+    },
+    {
+      "issues": [
+        "BUD",
+        "CAW"
+      ],
+      "count": 6482,
+      "jaccard": 0.053
+    },
+    {
+      "issues": [
+        "BAN",
+        "FIN"
+      ],
+      "count": 6344,
+      "jaccard": 0.225
+    },
+    {
+      "issues": [
+        "BUD",
+        "LAW"
+      ],
+      "count": 6262,
+      "jaccard": 0.051
+    },
+    {
+      "issues": [
+        "DEF",
+        "SCI"
+      ],
+      "count": 6222,
+      "jaccard": 0.115
+    },
+    {
+      "issues": [
+        "BAN",
+        "TAX"
+      ],
+      "count": 6219,
+      "jaccard": 0.075
+    },
+    {
+      "issues": [
+        "LBR",
+        "TRA"
+      ],
+      "count": 6121,
+      "jaccard": 0.098
+    },
+    {
+      "issues": [
+        "DEF",
+        "TRA"
+      ],
+      "count": 6115,
+      "jaccard": 0.077
+    },
+    {
+      "issues": [
+        "DEF",
+        "ENG"
+      ],
+      "count": 6079,
+      "jaccard": 0.084
+    },
+    {
+      "issues": [
+        "EDU",
+        "TAX"
+      ],
+      "count": 6044,
+      "jaccard": 0.065
+    },
+    {
+      "issues": [
+        "HOM",
+        "TRA"
+      ],
+      "count": 5931,
+      "jaccard": 0.103
+    },
+    {
+      "issues": [
+        "TAX",
+        "TEC"
+      ],
+      "count": 5922,
+      "jaccard": 0.07
+    },
+    {
+      "issues": [
+        "HCR",
+        "TRD"
+      ],
+      "count": 5862,
+      "jaccard": 0.057
+    },
+    {
+      "issues": [
+        "AVI",
+        "BUD"
+      ],
+      "count": 5769,
+      "jaccard": 0.047
+    },
+    {
+      "issues": [
+        "HOM",
+        "TAX"
+      ],
+      "count": 5762,
+      "jaccard": 0.065
+    },
+    {
+      "issues": [
+        "CSP",
+        "TAX"
+      ],
+      "count": 5757,
+      "jaccard": 0.07
+    },
+    {
+      "issues": [
+        "HCR",
+        "MED"
+      ],
+      "count": 5570,
+      "jaccard": 0.08
+    },
+    {
+      "issues": [
+        "HCR",
+        "VET"
+      ],
+      "count": 5533,
+      "jaccard": 0.077
+    },
+    {
+      "issues": [
+        "AGR",
+        "ENV"
+      ],
+      "count": 5500,
+      "jaccard": 0.109
+    },
+    {
+      "issues": [
+        "BUD",
+        "TEC"
+      ],
+      "count": 5293,
+      "jaccard": 0.042
+    },
+    {
+      "issues": [
+        "BUD",
+        "HOU"
+      ],
+      "count": 5289,
+      "jaccard": 0.043
+    },
+    {
+      "issues": [
+        "AGR",
+        "TRA"
+      ],
+      "count": 5191,
+      "jaccard": 0.081
+    },
+    {
+      "issues": [
+        "HCR",
+        "TRA"
+      ],
+      "count": 5055,
+      "jaccard": 0.048
+    },
+    {
+      "issues": [
+        "CPT",
+        "TRD"
+      ],
+      "count": 4956,
+      "jaccard": 0.107
+    },
+    {
+      "issues": [
+        "BUD",
+        "DIS"
+      ],
+      "count": 4939,
+      "jaccard": 0.041
+    },
+    {
+      "issues": [
+        "GOV",
+        "TAX"
+      ],
+      "count": 4925,
+      "jaccard": 0.056
+    },
+    {
+      "issues": [
+        "CPT",
+        "TAX"
+      ],
+      "count": 4880,
+      "jaccard": 0.06
+    },
+    {
+      "issues": [
+        "NAT",
+        "TRA"
+      ],
+      "count": 4844,
+      "jaccard": 0.083
+    },
+    {
+      "issues": [
+        "HCR",
+        "PHA"
+      ],
+      "count": 4842,
+      "jaccard": 0.07
+    },
+    {
+      "issues": [
+        "IMM",
+        "LBR"
+      ],
+      "count": 4822,
+      "jaccard": 0.137
+    },
+    {
+      "issues": [
+        "ENV",
+        "NAT"
+      ],
+      "count": 4789,
+      "jaccard": 0.107
+    },
+    {
+      "issues": [
+        "DEF",
+        "TRD"
+      ],
+      "count": 4775,
+      "jaccard": 0.062
+    },
+    {
+      "issues": [
+        "MAN",
+        "TRD"
+      ],
+      "count": 4773,
+      "jaccard": 0.102
+    },
+    {
+      "issues": [
+        "DEF",
+        "EDU"
+      ],
+      "count": 4756,
+      "jaccard": 0.079
+    },
+    {
+      "issues": [
+        "BUD",
+        "VET"
+      ],
+      "count": 4709,
+      "jaccard": 0.038
+    },
+    {
+      "issues": [
+        "HCR",
+        "IMM"
+      ],
+      "count": 4667,
+      "jaccard": 0.06
+    },
+    {
+      "issues": [
+        "RET",
+        "TAX"
+      ],
+      "count": 4642,
+      "jaccard": 0.06
+    },
+    {
+      "issues": [
+        "BUD",
+        "ECN"
+      ],
+      "count": 4589,
+      "jaccard": 0.037
+    },
+    {
+      "issues": [
+        "ENG",
+        "NAT"
+      ],
+      "count": 4572,
+      "jaccard": 0.089
+    },
+    {
+      "issues": [
+        "SCI",
+        "TAX"
+      ],
+      "count": 4560,
+      "jaccard": 0.051
+    },
+    {
+      "issues": [
+        "EDU",
+        "IMM"
+      ],
+      "count": 4478,
+      "jaccard": 0.132
+    },
+    {
+      "issues": [
+        "EDU",
+        "SCI"
+      ],
+      "count": 4477,
+      "jaccard": 0.119
+    },
+    {
+      "issues": [
+        "IMM",
+        "TRD"
+      ],
+      "count": 4462,
+      "jaccard": 0.088
+    },
+    {
+      "issues": [
+        "AGR",
+        "FOO"
+      ],
+      "count": 4460,
+      "jaccard": 0.158
+    },
+    {
+      "issues": [
+        "AGR",
+        "ENG"
+      ],
+      "count": 4394,
+      "jaccard": 0.076
+    },
+    {
+      "issues": [
+        "CSP",
+        "TRD"
+      ],
+      "count": 4390,
+      "jaccard": 0.089
+    },
+    {
+      "issues": [
+        "INS",
+        "TAX"
+      ],
+      "count": 4300,
+      "jaccard": 0.054
+    },
+    {
+      "issues": [
+        "ENV",
+        "LBR"
+      ],
+      "count": 4215,
+      "jaccard": 0.082
+    },
+    {
+      "issues": [
+        "NAT",
+        "TAX"
+      ],
+      "count": 4161,
+      "jaccard": 0.046
+    },
+    {
+      "issues": [
+        "AGR",
+        "HCR"
+      ],
+      "count": 4157,
+      "jaccard": 0.047
+    },
+    {
+      "issues": [
+        "BUD",
+        "FOR"
+      ],
+      "count": 4153,
+      "jaccard": 0.034
+    },
+    {
+      "issues": [
+        "BUD",
+        "MED"
+      ],
+      "count": 4124,
+      "jaccard": 0.034
+    },
+    {
+      "issues": [
+        "AVI",
+        "TRA"
+      ],
+      "count": 4119,
+      "jaccard": 0.081
+    },
+    {
+      "issues": [
+        "SMB",
+        "TAX"
+      ],
+      "count": 4084,
+      "jaccard": 0.051
+    },
+    {
+      "issues": [
+        "EDU",
+        "LBR"
+      ],
+      "count": 4077,
+      "jaccard": 0.092
+    },
+    {
+      "issues": [
+        "BUD",
+        "FIN"
+      ],
+      "count": 4011,
+      "jaccard": 0.03
+    },
+    {
+      "issues": [
+        "BUD",
+        "MAR"
+      ],
+      "count": 3915,
+      "jaccard": 0.033
+    },
+    {
+      "issues": [
+        "HCR",
+        "SCI"
+      ],
+      "count": 3911,
+      "jaccard": 0.048
+    },
+    {
+      "issues": [
+        "CAW",
+        "TRA"
+      ],
+      "count": 3862,
+      "jaccard": 0.075
+    },
+    {
+      "issues": [
+        "CAW",
+        "ENV"
+      ],
+      "count": 3824,
+      "jaccard": 0.101
+    },
+    {
+      "issues": [
+        "CAW",
+        "ENG"
+      ],
+      "count": 3805,
+      "jaccard": 0.086
+    }
+  ],
+  "totalMultiIssueFilings": 287262,
+  "avgIssuesPerFiling": 1.94
+}

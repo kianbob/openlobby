@@ -34,6 +34,15 @@ export default function Footer() {
               <li><Link href="/lobbying-roi" className="text-sm hover:text-white transition-colors">Lobbying ROI</Link></li>
               <li><Link href="/influence-score" className="text-sm hover:text-white transition-colors">Influence Score</Link></li>
               <li><Link href="/arms-race" className="text-sm hover:text-white transition-colors">Arms Race</Link></li>
+              <li><Link href="/network" className="text-sm hover:text-white transition-colors">Influence Network</Link></li>
+              <li><Link href="/revolving-door-premium" className="text-sm hover:text-white transition-colors">RD Premium</Link></li>
+              <li><Link href="/client-trajectories" className="text-sm hover:text-white transition-colors">Client Trajectories</Link></li>
+              <li><Link href="/new-entrants" className="text-sm hover:text-white transition-colors">First-Time Filers</Link></li>
+              <li><Link href="/momentum" className="text-sm hover:text-white transition-colors">Momentum</Link></li>
+              <li><Link href="/concentration" className="text-sm hover:text-white transition-colors">Firm Concentration</Link></li>
+              <li><Link href="/issue-battles" className="text-sm hover:text-white transition-colors">Issue Battles</Link></li>
+              <li><Link href="/geographic" className="text-sm hover:text-white transition-colors">Geographic</Link></li>
+              <li><Link href="/filing-patterns" className="text-sm hover:text-white transition-colors">Filing Patterns</Link></li>
             </ul>
           </div>
 

@@ -1,0 +1,4026 @@
+{
+  "surging": [
+    {
+      "code": "CON",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 5822167,
+      "previousAmount": 970897,
+      "growthPct": 499.7,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 5822167
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 970897
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 5787766
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 861007
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 871958
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 898082
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 918671
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 748915
+        }
+      ]
+    },
+    {
+      "code": "MON",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 456973,
+      "previousAmount": 255182,
+      "growthPct": 79.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 456973
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 255182
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 700811
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 163182
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 219242
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 123333
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 135667
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 101667
+        }
+      ]
+    },
+    {
+      "code": "ECN",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 12864061,
+      "previousAmount": 8631488,
+      "growthPct": 49,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 12864061
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 8631488
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 7465761
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 5979553
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 6155104
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 6375277
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 6610554
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 6548828
+        }
+      ]
+    },
+    {
+      "code": "DOC",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 297185,
+      "previousAmount": 205703,
+      "growthPct": 44.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 297185
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 205703
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 263725
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 161351
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 122940
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 135003
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 185766
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 119906
+        }
+      ]
+    },
+    {
+      "code": "WAS",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1316860,
+      "previousAmount": 1076354,
+      "growthPct": 22.3,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1316860
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 1076354
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 1475904
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1050159
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 826330
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 984248
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1303219
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 929780
+        }
+      ]
+    },
+    {
+      "code": "SPO",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 3867066,
+      "previousAmount": 3212296,
+      "growthPct": 20.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 3867066
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 3212296
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 4152320
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2694145
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2250515
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1894064
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2038949
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1876182
+        }
+      ]
+    }
+  ],
+  "declining": [
+    {
+      "code": "CIV",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 8458155,
+      "previousAmount": 28737600,
+      "growthPct": -70.6,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 8458155
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 28737600
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 10931148
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 7370802
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 7414141
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 6564452
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 7842179
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 6742792
+        }
+      ]
+    },
+    {
+      "code": "UTI",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 3921708,
+      "previousAmount": 9351564,
+      "growthPct": -58.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 3921708
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 9351564
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 4873171
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2944714
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 3201326
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 3112176
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 4178516
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2788086
+        }
+      ]
+    },
+    {
+      "code": "BNK",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 595891,
+      "previousAmount": 1246178,
+      "growthPct": -52.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 595891
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 1246178
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 484314
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1289645
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1121863
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1447720
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1023302
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1524244
+        }
+      ]
+    },
+    {
+      "code": "MIA",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1669552,
+      "previousAmount": 3180041,
+      "growthPct": -47.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1669552
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 3180041
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 3465946
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1933325
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1720193
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2109435
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1921911
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1621945
+        }
+      ]
+    },
+    {
+      "code": "ANI",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 2913948,
+      "previousAmount": 5448584,
+      "growthPct": -46.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 2913948
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 5448584
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 3371563
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2125321
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2850720
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2799479
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2706783
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2529454
+        }
+      ]
+    },
+    {
+      "code": "ACC",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 7619763,
+      "previousAmount": 13330353,
+      "growthPct": -42.8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 7619763
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 13330353
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 7382332
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2103432
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1652886
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2240195
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2069978
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1622778
+        }
+      ]
+    },
+    {
+      "code": "APP",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 288686,
+      "previousAmount": 483973,
+      "growthPct": -40.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 288686
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 483973
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 405644
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 860684
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 890194
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 528104
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1312254
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1085197
+        }
+      ]
+    },
+    {
+      "code": "GOV",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 26518387,
+      "previousAmount": 41073660,
+      "growthPct": -35.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 26518387
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 41073660
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 29779934
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 15808550
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 14455649
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 15677643
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 15801658
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 14358542
+        }
+      ]
+    },
+    {
+      "code": "RET",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 8978761,
+      "previousAmount": 11629888,
+      "growthPct": -22.8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 8978761
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 11629888
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 10273495
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 10212643
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 8004112
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 8906757
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 10854096
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 9252579
+        }
+      ]
+    },
+    {
+      "code": "FAM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1104027,
+      "previousAmount": 1420350,
+      "growthPct": -22.3,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1104027
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 1420350
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 1190340
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1308678
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1162520
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1346810
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1314912
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 944949
+        }
+      ]
+    },
+    {
+      "code": "CDT",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1611111,
+      "previousAmount": 2022607,
+      "growthPct": -20.3,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1611111
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2022607
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 2008713
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1370379
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1223805
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1010140
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1767419
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1259352
+        }
+      ]
+    },
+    {
+      "code": "UNM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 372723,
+      "previousAmount": 467170,
+      "growthPct": -20.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 372723
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 467170
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 115146
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 467628
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 229173
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 336636
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 153361
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 212093
+        }
+      ]
+    },
+    {
+      "code": "BEV",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1641845,
+      "previousAmount": 2053762,
+      "growthPct": -20.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1641845
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2053762
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 1893992
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1539682
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1263646
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1367079
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1808449
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1116210
+        }
+      ]
+    }
+  ],
+  "all": [
+    {
+      "code": "CON",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 5822167,
+      "previousAmount": 970897,
+      "growthPct": 499.7,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 5822167
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 970897
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 5787766
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 861007
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 871958
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 898082
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 918671
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 748915
+        }
+      ]
+    },
+    {
+      "code": "MON",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 456973,
+      "previousAmount": 255182,
+      "growthPct": 79.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 456973
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 255182
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 700811
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 163182
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 219242
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 123333
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 135667
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 101667
+        }
+      ]
+    },
+    {
+      "code": "ECN",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 12864061,
+      "previousAmount": 8631488,
+      "growthPct": 49,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 12864061
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 8631488
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 7465761
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 5979553
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 6155104
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 6375277
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 6610554
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 6548828
+        }
+      ]
+    },
+    {
+      "code": "DOC",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 297185,
+      "previousAmount": 205703,
+      "growthPct": 44.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 297185
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 205703
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 263725
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 161351
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 122940
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 135003
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 185766
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 119906
+        }
+      ]
+    },
+    {
+      "code": "WAS",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1316860,
+      "previousAmount": 1076354,
+      "growthPct": 22.3,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1316860
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 1076354
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 1475904
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1050159
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 826330
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 984248
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1303219
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 929780
+        }
+      ]
+    },
+    {
+      "code": "SPO",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 3867066,
+      "previousAmount": 3212296,
+      "growthPct": 20.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 3867066
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 3212296
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 4152320
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2694145
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2250515
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1894064
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2038949
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1876182
+        }
+      ]
+    },
+    {
+      "code": "POS",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 2830694,
+      "previousAmount": 2360658,
+      "growthPct": 19.9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 2830694
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2360658
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 2753617
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2939224
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2421787
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2059575
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2295407
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2083622
+        }
+      ]
+    },
+    {
+      "code": "ALC",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1523848,
+      "previousAmount": 1278383,
+      "growthPct": 19.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1523848
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 1278383
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 1586225
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 930831
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1368767
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1290949
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1393418
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1519936
+        }
+      ]
+    },
+    {
+      "code": "TRU",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 2728006,
+      "previousAmount": 2347373,
+      "growthPct": 16.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 2728006
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2347373
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 3014807
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2610980
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2294096
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2321972
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 3017292
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2283192
+        }
+      ]
+    },
+    {
+      "code": "NAT",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 21583920,
+      "previousAmount": 18631226,
+      "growthPct": 15.8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 21583920
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 18631226
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 23742484
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 15523759
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 13793295
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 14283427
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 16816510
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 13609398
+        }
+      ]
+    },
+    {
+      "code": "MED",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 7103433,
+      "previousAmount": 6242283,
+      "growthPct": 13.8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 7103433
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 6242283
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 7179534
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 4586044
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 5021182
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 5239315
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 5116454
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 5288324
+        }
+      ]
+    },
+    {
+      "code": "TEC",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 35284520,
+      "previousAmount": 31258521,
+      "growthPct": 12.9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 35284520
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 31258521
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 35307293
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 30397671
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 28518564
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 29459889
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 31671440
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 28315987
+        }
+      ]
+    },
+    {
+      "code": "CPT",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 26217286,
+      "previousAmount": 24042314,
+      "growthPct": 9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 26217286
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 24042314
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 25784825
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 26846734
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 23504459
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 19224981
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 24259090
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 23426222
+        }
+      ]
+    },
+    {
+      "code": "RES",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 3620075,
+      "previousAmount": 3344076,
+      "growthPct": 8.3,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 3620075
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 3344076
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 3883755
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2268323
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2231701
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2218638
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2261378
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2597419
+        }
+      ]
+    },
+    {
+      "code": "TOU",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 3045012,
+      "previousAmount": 2814269,
+      "growthPct": 8.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 3045012
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2814269
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 3140363
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 3030754
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2946093
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 3048268
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 3126391
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 3046101
+        }
+      ]
+    },
+    {
+      "code": "COM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 12766681,
+      "previousAmount": 11915473,
+      "growthPct": 7.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 12766681
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 11915473
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 14372919
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 12644635
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 12830013
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 12508789
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 14498736
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 14519819
+        }
+      ]
+    },
+    {
+      "code": "SCI",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 28064870,
+      "previousAmount": 26596305,
+      "growthPct": 5.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 28064870
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 26596305
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 31014984
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 22995111
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 20930521
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 19136412
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 22099075
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 19973032
+        }
+      ]
+    },
+    {
+      "code": "FOR",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 15800337,
+      "previousAmount": 15158077,
+      "growthPct": 4.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 15800337
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 15158077
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 15842284
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 11648675
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 11830151
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 10913069
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 12201925
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 15640737
+        }
+      ]
+    },
+    {
+      "code": "CPI",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 17756188,
+      "previousAmount": 17046015,
+      "growthPct": 4.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 17756188
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 17046015
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 17880090
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 14809383
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 12088116
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 12991706
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 14078627
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 12901445
+        }
+      ]
+    },
+    {
+      "code": "LAW",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 11956546,
+      "previousAmount": 11533273,
+      "growthPct": 3.7,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 11956546
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 11533273
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 11567826
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 11132862
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 8339089
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 8917740
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 11403195
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 9676420
+        }
+      ]
+    },
+    {
+      "code": "ART",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1314684,
+      "previousAmount": 1277519,
+      "growthPct": 2.9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1314684
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 1277519
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 1435289
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 974179
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1281319
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1057865
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1110421
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1237863
+        }
+      ]
+    },
+    {
+      "code": "FOO",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 8671158,
+      "previousAmount": 8495501,
+      "growthPct": 2.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 8671158
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 8495501
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 10070311
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 7752704
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 6363714
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 6018065
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 6980171
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 4918204
+        }
+      ]
+    },
+    {
+      "code": "MAN",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 17016970,
+      "previousAmount": 16760166,
+      "growthPct": 1.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 17016970
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 16760166
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 18709802
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 12956676
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 11605810
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 11165389
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 12365500
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 10695320
+        }
+      ]
+    },
+    {
+      "code": "HOU",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 13032869,
+      "previousAmount": 12890376,
+      "growthPct": 1.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 13032869
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 12890376
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 14941220
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 10716471
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 12713975
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 11086335
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 12689332
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 10516542
+        }
+      ]
+    },
+    {
+      "code": "MAR",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 7856611,
+      "previousAmount": 7800899,
+      "growthPct": 0.7,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 7856611
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 7800899
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 8478410
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 6947412
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 6976128
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 6912214
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 7640020
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 6467049
+        }
+      ]
+    },
+    {
+      "code": "TRD",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 89686886,
+      "previousAmount": 89301731,
+      "growthPct": 0.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 89686886
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 89301731
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 96346464
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 71787620
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 51411293
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 53164023
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 62600022
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 52314162
+        }
+      ]
+    },
+    {
+      "code": "PHA",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 17135001,
+      "previousAmount": 17154219,
+      "growthPct": -0.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 17135001
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 17154219
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 17450060
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 15756602
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 15056253
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 13477274
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 15549501
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 15612463
+        }
+      ]
+    },
+    {
+      "code": "FUE",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 6159781,
+      "previousAmount": 6183851,
+      "growthPct": -0.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 6159781
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 6183851
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 7176231
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 6088178
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 6662471
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 6728756
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 6729589
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 6102989
+        }
+      ]
+    },
+    {
+      "code": "FIN",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 58389990,
+      "previousAmount": 58644535,
+      "growthPct": -0.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 58389990
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 58644535
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 62695030
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 52712267
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 49258614
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 46953931
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 56538701
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 47263466
+        }
+      ]
+    },
+    {
+      "code": "WEL",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 983987,
+      "previousAmount": 993380,
+      "growthPct": -0.9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 983987
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 993380
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 748794
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 862277
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 685083
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 528826
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 717644
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 659389
+        }
+      ]
+    },
+    {
+      "code": "VET",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 13184249,
+      "previousAmount": 13317879,
+      "growthPct": -1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 13184249
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 13317879
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 13740194
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 10612408
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 10955595
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 10766868
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 11984573
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 7937189
+        }
+      ]
+    },
+    {
+      "code": "TOR",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 2253778,
+      "previousAmount": 2281024,
+      "growthPct": -1.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 2253778
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2281024
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 2594853
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2358077
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1939886
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2859119
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2459294
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1906399
+        }
+      ]
+    },
+    {
+      "code": "HOM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 22051860,
+      "previousAmount": 22362890,
+      "growthPct": -1.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 22051860
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 22362890
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 23514685
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 19697150
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 19207109
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 19153169
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 21823957
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 21605685
+        }
+      ]
+    },
+    {
+      "code": "LBR",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 28468849,
+      "previousAmount": 29014559,
+      "growthPct": -1.9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 28468849
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 29014559
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 28381968
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 25756124
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 27992176
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 27406330
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 29699527
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 25830537
+        }
+      ]
+    },
+    {
+      "code": "TRA",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 39554114,
+      "previousAmount": 40485078,
+      "growthPct": -2.3,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 39554114
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 40485078
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 42500724
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 34797109
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 33145893
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 34552506
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 36977520
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 35923459
+        }
+      ]
+    },
+    {
+      "code": "ENG",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 60542547,
+      "previousAmount": 62109012,
+      "growthPct": -2.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 60542547
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 62109012
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 65897432
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 53103084
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 42440202
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 41858479
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 51241053
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 42131127
+        }
+      ]
+    },
+    {
+      "code": "IMM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 17670136,
+      "previousAmount": 18131558,
+      "growthPct": -2.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 17670136
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 18131558
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 19246615
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 15194604
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 12102327
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 13845699
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 14951816
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 13580496
+        }
+      ]
+    },
+    {
+      "code": "INT",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 4656112,
+      "previousAmount": 4804784,
+      "growthPct": -3.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 4656112
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 4804784
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 5301401
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2900908
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 3003571
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2671794
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 3148110
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2919362
+        }
+      ]
+    },
+    {
+      "code": "AER",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 8710043,
+      "previousAmount": 9026882,
+      "growthPct": -3.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 8710043
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 9026882
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 8073777
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 5715294
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 6384143
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 5811597
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 6996815
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 6755463
+        }
+      ]
+    },
+    {
+      "code": "HCR",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 122859953,
+      "previousAmount": 127681852,
+      "growthPct": -3.8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 122859953
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 127681852
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 130383630
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 111106867
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 98849293
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 100787597
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 110944114
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 94292809
+        }
+      ]
+    },
+    {
+      "code": "DEF",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 80388904,
+      "previousAmount": 83945021,
+      "growthPct": -4.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 80388904
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 83945021
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 83551996
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 62773561
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 59314402
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 56957691
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 65990746
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 52676248
+        }
+      ]
+    },
+    {
+      "code": "GAM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 2775571,
+      "previousAmount": 2918988,
+      "growthPct": -4.9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 2775571
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2918988
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 2953905
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2071488
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1533316
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1525869
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1874917
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1958359
+        }
+      ]
+    },
+    {
+      "code": "ENV",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 33462177,
+      "previousAmount": 35328702,
+      "growthPct": -5.3,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 33462177
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 35328702
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 35991756
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 31011676
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 28912352
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 28091972
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 33553665
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 29496537
+        }
+      ]
+    },
+    {
+      "code": "INS",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 14635099,
+      "previousAmount": 15481296,
+      "growthPct": -5.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 14635099
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 15481296
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 15250287
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 14611154
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 14715373
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 12813058
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 16322241
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 14793732
+        }
+      ]
+    },
+    {
+      "code": "AGR",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 28703407,
+      "previousAmount": 30542254,
+      "growthPct": -6,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 28703407
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 30542254
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 31253841
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 25161012
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 26856211
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 26630737
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 27870572
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 23360940
+        }
+      ]
+    },
+    {
+      "code": "TAR",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 11940265,
+      "previousAmount": 12810356,
+      "growthPct": -6.8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 11940265
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 12810356
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 12704913
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 7343541
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1896706
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1838799
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2583610
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2086654
+        }
+      ]
+    },
+    {
+      "code": "BUD",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 115894119,
+      "previousAmount": 125108506,
+      "growthPct": -7.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 115894119
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 125108506
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 113882182
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 122880404
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 91891057
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 96805772
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 101738216
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 87366794
+        }
+      ]
+    },
+    {
+      "code": "IND",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 7752908,
+      "previousAmount": 8415641,
+      "growthPct": -7.9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 7752908
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 8415641
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 8305214
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 5858064
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 6213566
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 5990435
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 7524486
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 5659747
+        }
+      ]
+    },
+    {
+      "code": "AVI",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 16239572,
+      "previousAmount": 17642702,
+      "growthPct": -8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 16239572
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 17642702
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 17389077
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 14494963
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 15973857
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 14923783
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 15302058
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 15730991
+        }
+      ]
+    },
+    {
+      "code": "URB",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 3034366,
+      "previousAmount": 3301147,
+      "growthPct": -8.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 3034366
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 3301147
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 3323343
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2811366
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2991414
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2636217
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 3249953
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2349981
+        }
+      ]
+    },
+    {
+      "code": "FIR",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 3787613,
+      "previousAmount": 4127141,
+      "growthPct": -8.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 3787613
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 4127141
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 3561166
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2971956
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 5245377
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 5991500
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 3838996
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2228285
+        }
+      ]
+    },
+    {
+      "code": "SMB",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 8310574,
+      "previousAmount": 9084906,
+      "growthPct": -8.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 8310574
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 9084906
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 8423765
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 7688056
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 7913287
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 7488204
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 8926173
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 8007436
+        }
+      ]
+    },
+    {
+      "code": "MMM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 65413017,
+      "previousAmount": 71662798,
+      "growthPct": -8.7,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 65413017
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 71662798
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 69305263
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 60039620
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 55648217
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 59795795
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 66655325
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 58122105
+        }
+      ]
+    },
+    {
+      "code": "RRR",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 4546185,
+      "previousAmount": 4979902,
+      "growthPct": -8.7,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 4546185
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 4979902
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 4414465
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 3878905
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 3791228
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 3828855
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 4073392
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 4130068
+        }
+      ]
+    },
+    {
+      "code": "BAN",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 28511400,
+      "previousAmount": 31526486,
+      "growthPct": -9.6,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 28511400
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 31526486
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 31409340
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 22487671
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 25886903
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 22861160
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 28222520
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 24408322
+        }
+      ]
+    },
+    {
+      "code": "CSP",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 18787497,
+      "previousAmount": 20930763,
+      "growthPct": -10.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 18787497
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 20930763
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 20373885
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 17815744
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 20470161
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 18723248
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 19315713
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 16108846
+        }
+      ]
+    },
+    {
+      "code": "DIS",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 6014586,
+      "previousAmount": 6735092,
+      "growthPct": -10.7,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 6014586
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 6735092
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 6031780
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 5205764
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 3421208
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 3578149
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 4202214
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 3229800
+        }
+      ]
+    },
+    {
+      "code": "ROD",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1949448,
+      "previousAmount": 2196304,
+      "growthPct": -11.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1949448
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2196304
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 1729450
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1849413
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1694745
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1551513
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1767356
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1499064
+        }
+      ]
+    },
+    {
+      "code": "AUT",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 10487636,
+      "previousAmount": 11849284,
+      "growthPct": -11.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 10487636
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 11849284
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 10544349
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 10623206
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 7905972
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 9710514
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 9087297
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 8408773
+        }
+      ]
+    },
+    {
+      "code": "CHM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 4823054,
+      "previousAmount": 5597649,
+      "growthPct": -13.8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 4823054
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 5597649
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 6559211
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 5241843
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 4989658
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 5486256
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 5403194
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 5948450
+        }
+      ]
+    },
+    {
+      "code": "TOB",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 5858771,
+      "previousAmount": 6888222,
+      "growthPct": -14.9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 5858771
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 6888222
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 7280336
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 4948393
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 5551566
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 5731079
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 5503857
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 4725424
+        }
+      ]
+    },
+    {
+      "code": "TAX",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 137511553,
+      "previousAmount": 161822744,
+      "growthPct": -15,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 137511553
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 161822744
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 131568164
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 128974309
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 104735723
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 99887200
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 124210942
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 101785284
+        }
+      ]
+    },
+    {
+      "code": "ADV",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 2389790,
+      "previousAmount": 2823389,
+      "growthPct": -15.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 2389790
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2823389
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 2427330
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2716995
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2008198
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 943734
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2425283
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2314841
+        }
+      ]
+    },
+    {
+      "code": "REL",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 149583,
+      "previousAmount": 179500,
+      "growthPct": -16.7,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 149583
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 179500
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 275833
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 184500
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 132917
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 100568
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 218000
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 97500
+        }
+      ]
+    },
+    {
+      "code": "EDU",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 26669260,
+      "previousAmount": 32487129,
+      "growthPct": -17.9,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 26669260
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 32487129
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 27468912
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 20280631
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 21341542
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 20949945
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 22199196
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 18150955
+        }
+      ]
+    },
+    {
+      "code": "CAW",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 7142340,
+      "previousAmount": 8812281,
+      "growthPct": -19,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 7142340
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 8812281
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 9148292
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 8541674
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 6751614
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 7437432
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 8582982
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 6958424
+        }
+      ]
+    },
+    {
+      "code": "BEV",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1641845,
+      "previousAmount": 2053762,
+      "growthPct": -20.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1641845
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2053762
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 1893992
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1539682
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1263646
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1367079
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1808449
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1116210
+        }
+      ]
+    },
+    {
+      "code": "UNM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 372723,
+      "previousAmount": 467170,
+      "growthPct": -20.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 372723
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 467170
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 115146
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 467628
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 229173
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 336636
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 153361
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 212093
+        }
+      ]
+    },
+    {
+      "code": "CDT",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1611111,
+      "previousAmount": 2022607,
+      "growthPct": -20.3,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1611111
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 2022607
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 2008713
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1370379
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1223805
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1010140
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1767419
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1259352
+        }
+      ]
+    },
+    {
+      "code": "FAM",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1104027,
+      "previousAmount": 1420350,
+      "growthPct": -22.3,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1104027
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 1420350
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 1190340
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1308678
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1162520
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1346810
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1314912
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 944949
+        }
+      ]
+    },
+    {
+      "code": "RET",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 8978761,
+      "previousAmount": 11629888,
+      "growthPct": -22.8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 8978761
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 11629888
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 10273495
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 10212643
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 8004112
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 8906757
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 10854096
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 9252579
+        }
+      ]
+    },
+    {
+      "code": "GOV",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 26518387,
+      "previousAmount": 41073660,
+      "growthPct": -35.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 26518387
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 41073660
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 29779934
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 15808550
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 14455649
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 15677643
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 15801658
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 14358542
+        }
+      ]
+    },
+    {
+      "code": "APP",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 288686,
+      "previousAmount": 483973,
+      "growthPct": -40.4,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 288686
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 483973
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 405644
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 860684
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 890194
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 528104
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1312254
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1085197
+        }
+      ]
+    },
+    {
+      "code": "ACC",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 7619763,
+      "previousAmount": 13330353,
+      "growthPct": -42.8,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 7619763
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 13330353
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 7382332
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2103432
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1652886
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2240195
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2069978
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1622778
+        }
+      ]
+    },
+    {
+      "code": "ANI",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 2913948,
+      "previousAmount": 5448584,
+      "growthPct": -46.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 2913948
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 5448584
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 3371563
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2125321
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 2850720
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2799479
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 2706783
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2529454
+        }
+      ]
+    },
+    {
+      "code": "MIA",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 1669552,
+      "previousAmount": 3180041,
+      "growthPct": -47.5,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 1669552
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 3180041
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 3465946
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1933325
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1720193
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 2109435
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1921911
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1621945
+        }
+      ]
+    },
+    {
+      "code": "BNK",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 595891,
+      "previousAmount": 1246178,
+      "growthPct": -52.2,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 595891
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 1246178
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 484314
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 1289645
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 1121863
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 1447720
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 1023302
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 1524244
+        }
+      ]
+    },
+    {
+      "code": "UTI",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 3921708,
+      "previousAmount": 9351564,
+      "growthPct": -58.1,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 3921708
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 9351564
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 4873171
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 2944714
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 3201326
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 3112176
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 4178516
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 2788086
+        }
+      ]
+    },
+    {
+      "code": "CIV",
+      "latestQuarter": "2025-third_quarter",
+      "latestAmount": 8458155,
+      "previousAmount": 28737600,
+      "growthPct": -70.6,
+      "trend": [
+        {
+          "quarter": "2025-third_quarter",
+          "amount": 8458155
+        },
+        {
+          "quarter": "2025-second_quarter",
+          "amount": 28737600
+        },
+        {
+          "quarter": "2025-fourth_quarter",
+          "amount": 10931148
+        },
+        {
+          "quarter": "2025-first_quarter",
+          "amount": 7370802
+        },
+        {
+          "quarter": "2024-third_quarter",
+          "amount": 7414141
+        },
+        {
+          "quarter": "2024-second_quarter",
+          "amount": 6564452
+        },
+        {
+          "quarter": "2024-fourth_quarter",
+          "amount": 7842179
+        },
+        {
+          "quarter": "2024-first_quarter",
+          "amount": 6742792
+        }
+      ]
+    }
+  ]
+}

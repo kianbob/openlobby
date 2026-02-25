@@ -7,7 +7,8 @@ const investigations = [
   'revolving-door-exposed', 'foreign-influence', 'follow-the-money',
   'defense-contractor-lobbying', 'crypto-lobbying-explosion',
   'ai-regulation-fight', 'tariff-lobbying-surge', 'lobbying-statistics',
-  'what-is-lobbying',
+  'what-is-lobbying', 'lobbying-vs-contracts', 'healthcare-3-billion-bet',
+  'seasonal-lobbying',
 ]
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -19,6 +20,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/investigations', '/search', '/downloads', '/states',
     '/lobbying-roi', '/influence-score', '/arms-race', '/text-analysis',
     '/cross-reference', '/compare', '/your-tax-dollar', '/methodology',
+    '/new-entrants', '/momentum', '/concentration', '/issue-battles', '/geographic', '/filing-patterns',
+    '/network', '/revolving-door-premium', '/client-trajectories',
+    '/lobbying-vs-contracts',
   ]
 
   const routes: MetadataRoute.Sitemap = staticPages.map(p => ({

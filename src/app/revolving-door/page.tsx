@@ -59,6 +59,13 @@ export default function RevolvingDoorPage() {
         <p className="text-sm text-amber-800 mt-1">The average revolving door lobbyist has access to decision-makers that outside lobbyists can only dream of. Former congressional chiefs of staff command premium rates because their old bosses still take their calls.</p>
       </div>
 
+      <div className="bg-red-50 border border-red-200 rounded-xl p-4 mb-6 flex items-center gap-3">
+        <span className="text-xl">💰</span>
+        <p className="text-sm text-red-900">
+          <strong>New finding:</strong> Firms with revolving door lobbyists earn <strong>369% more revenue</strong>. <Link href="/revolving-door-premium" className="font-bold underline hover:text-red-700">See the full analysis →</Link>
+        </p>
+      </div>
+
       <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-6">
         <p className="text-amber-800 text-sm">
           <strong>🏛️ {formatNumber(lobbyists.length)} lobbyists</strong> in our data disclosed previous government positions. 

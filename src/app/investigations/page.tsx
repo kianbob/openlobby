@@ -92,6 +92,27 @@ const investigations = [
     tag: 'Guide',
     date: 'Feb 2026',
   },
+  {
+    slug: 'lobbying-vs-contracts',
+    title: 'For Every $1 They Lobby, They Get $49,536 Back',
+    desc: 'We cross-referenced lobbying with USASpending contract data. 21 contractors, $281M lobbying, $183.8B contracts. The ROI is staggering.',
+    tag: 'Analysis',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'healthcare-3-billion-bet',
+    title: "The Healthcare Lobby's $3 Billion Bet",
+    desc: 'Healthcare is the #1 lobbied issue in America — $2.3B on health reform, $1.2B on Medicare/Medicaid. Inside medicine\'s war for Washington.',
+    tag: 'Healthcare',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'seasonal-lobbying',
+    title: "Washington's Busiest Quarter",
+    desc: 'Lobbying follows the federal calendar. Q4 is king with $9.9B in income. The hidden seasonal patterns of influence.',
+    tag: 'Analysis',
+    date: 'Feb 2026',
+  },
 ]
 
 const tagColors: Record<string, string> = {
@@ -107,6 +128,7 @@ const tagColors: Record<string, string> = {
   Trade: 'bg-orange-100 text-orange-800',
   Reference: 'bg-gray-100 text-gray-700',
   Guide: 'bg-gray-100 text-gray-700',
+  Healthcare: 'bg-emerald-100 text-emerald-800',
 }
 
 export default function InvestigationsPage() {

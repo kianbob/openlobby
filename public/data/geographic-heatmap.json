@@ -1,0 +1,2419 @@
+{
+  "states": [
+    {
+      "state": "DC",
+      "totalIncome": 18403530714.76,
+      "filings": 152991,
+      "uniqueClients": 6659,
+      "population": 678972,
+      "perCapita": 27104.99,
+      "perCapitaFilings": 225327,
+      "topIssues": [
+        {
+          "code": "TAX",
+          "count": 35886
+        },
+        {
+          "code": "BUD",
+          "count": 33702
+        },
+        {
+          "code": "HCR",
+          "count": 27464
+        },
+        {
+          "code": "TRD",
+          "count": 18846
+        },
+        {
+          "code": "MMM",
+          "count": 14696
+        }
+      ]
+    },
+    {
+      "state": "VA",
+      "totalIncome": 2645026730.8900003,
+      "filings": 45346,
+      "uniqueClients": 2424,
+      "population": 8683619,
+      "perCapita": 304.6,
+      "perCapitaFilings": 5222,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 11187
+        },
+        {
+          "code": "DEF",
+          "count": 8912
+        },
+        {
+          "code": "HCR",
+          "count": 7600
+        },
+        {
+          "code": "TAX",
+          "count": 6233
+        },
+        {
+          "code": "TRA",
+          "count": 4531
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "totalIncome": 2639009442.7499995,
+      "filings": 69181,
+      "uniqueClients": 4744,
+      "population": 38965193,
+      "perCapita": 67.73,
+      "perCapitaFilings": 1775,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 16351
+        },
+        {
+          "code": "HCR",
+          "count": 8946
+        },
+        {
+          "code": "DEF",
+          "count": 7033
+        },
+        {
+          "code": "TAX",
+          "count": 6885
+        },
+        {
+          "code": "TRA",
+          "count": 6635
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "totalIncome": 1351955150.27,
+      "filings": 31692,
+      "uniqueClients": 2333,
+      "population": 30503301,
+      "perCapita": 44.32,
+      "perCapitaFilings": 1039,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 5710
+        },
+        {
+          "code": "ENG",
+          "count": 4430
+        },
+        {
+          "code": "TAX",
+          "count": 4032
+        },
+        {
+          "code": "TRA",
+          "count": 3823
+        },
+        {
+          "code": "HCR",
+          "count": 3732
+        }
+      ]
+    },
+    {
+      "state": "NY",
+      "totalIncome": 1301006842.41,
+      "filings": 34297,
+      "uniqueClients": 2496,
+      "population": 19571216,
+      "perCapita": 66.48,
+      "perCapitaFilings": 1752,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 5249
+        },
+        {
+          "code": "HCR",
+          "count": 4660
+        },
+        {
+          "code": "TAX",
+          "count": 4412
+        },
+        {
+          "code": "FIN",
+          "count": 3378
+        },
+        {
+          "code": "EDU",
+          "count": 2033
+        }
+      ]
+    },
+    {
+      "state": "IL",
+      "totalIncome": 843015872.6099999,
+      "filings": 19639,
+      "uniqueClients": 1259,
+      "population": 12549689,
+      "perCapita": 67.17,
+      "perCapitaFilings": 1565,
+      "topIssues": [
+        {
+          "code": "HCR",
+          "count": 4628
+        },
+        {
+          "code": "BUD",
+          "count": 3982
+        },
+        {
+          "code": "TAX",
+          "count": 2911
+        },
+        {
+          "code": "MMM",
+          "count": 2528
+        },
+        {
+          "code": "TRA",
+          "count": 1784
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "totalIncome": 759402150.1199999,
+      "filings": 18320,
+      "uniqueClients": 1242,
+      "population": 7001399,
+      "perCapita": 108.46,
+      "perCapitaFilings": 2617,
+      "topIssues": [
+        {
+          "code": "HCR",
+          "count": 4825
+        },
+        {
+          "code": "BUD",
+          "count": 2828
+        },
+        {
+          "code": "TAX",
+          "count": 2348
+        },
+        {
+          "code": "MMM",
+          "count": 2336
+        },
+        {
+          "code": "DEF",
+          "count": 2234
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "totalIncome": 703916833.9100001,
+      "filings": 25403,
+      "uniqueClients": 2027,
+      "population": 23372215,
+      "perCapita": 30.12,
+      "perCapitaFilings": 1087,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 5571
+        },
+        {
+          "code": "HCR",
+          "count": 2952
+        },
+        {
+          "code": "TRA",
+          "count": 2498
+        },
+        {
+          "code": "TAX",
+          "count": 2481
+        },
+        {
+          "code": "DEF",
+          "count": 2364
+        }
+      ]
+    },
+    {
+      "state": "MD",
+      "totalIncome": 680507125.9399998,
+      "filings": 16061,
+      "uniqueClients": 1038,
+      "population": 6180253,
+      "perCapita": 110.11,
+      "perCapitaFilings": 2599,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 4140
+        },
+        {
+          "code": "HCR",
+          "count": 3795
+        },
+        {
+          "code": "DEF",
+          "count": 2632
+        },
+        {
+          "code": "TAX",
+          "count": 1642
+        },
+        {
+          "code": "MMM",
+          "count": 1372
+        }
+      ]
+    },
+    {
+      "state": "PA",
+      "totalIncome": 629458307.72,
+      "filings": 17724,
+      "uniqueClients": 1197,
+      "population": 12961683,
+      "perCapita": 48.56,
+      "perCapitaFilings": 1367,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 3750
+        },
+        {
+          "code": "HCR",
+          "count": 3525
+        },
+        {
+          "code": "DEF",
+          "count": 1997
+        },
+        {
+          "code": "TAX",
+          "count": 1581
+        },
+        {
+          "code": "MMM",
+          "count": 1562
+        }
+      ]
+    },
+    {
+      "state": "NJ",
+      "totalIncome": 590716722.73,
+      "filings": 12274,
+      "uniqueClients": 848,
+      "population": 9290841,
+      "perCapita": 63.58,
+      "perCapitaFilings": 1321,
+      "topIssues": [
+        {
+          "code": "HCR",
+          "count": 3822
+        },
+        {
+          "code": "BUD",
+          "count": 2177
+        },
+        {
+          "code": "MMM",
+          "count": 1375
+        },
+        {
+          "code": "TAX",
+          "count": 1252
+        },
+        {
+          "code": "TRD",
+          "count": 1102
+        }
+      ]
+    },
+    {
+      "state": "OH",
+      "totalIncome": 438264622.61,
+      "filings": 12124,
+      "uniqueClients": 869,
+      "population": 11785935,
+      "perCapita": 37.19,
+      "perCapitaFilings": 1029,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 3321
+        },
+        {
+          "code": "HCR",
+          "count": 1877
+        },
+        {
+          "code": "TAX",
+          "count": 1704
+        },
+        {
+          "code": "DEF",
+          "count": 1439
+        },
+        {
+          "code": "TRA",
+          "count": 1138
+        }
+      ]
+    },
+    {
+      "state": "GA",
+      "totalIncome": 425471597.66999996,
+      "filings": 10743,
+      "uniqueClients": 742,
+      "population": 11029227,
+      "perCapita": 38.58,
+      "perCapitaFilings": 974,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 2131
+        },
+        {
+          "code": "TAX",
+          "count": 1526
+        },
+        {
+          "code": "HCR",
+          "count": 1376
+        },
+        {
+          "code": "DEF",
+          "count": 1131
+        },
+        {
+          "code": "FIN",
+          "count": 756
+        }
+      ]
+    },
+    {
+      "state": "CO",
+      "totalIncome": 386112041.95000005,
+      "filings": 10877,
+      "uniqueClients": 799,
+      "population": 5877610,
+      "perCapita": 65.69,
+      "perCapitaFilings": 1851,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 2138
+        },
+        {
+          "code": "DEF",
+          "count": 1472
+        },
+        {
+          "code": "HCR",
+          "count": 1280
+        },
+        {
+          "code": "TAX",
+          "count": 1136
+        },
+        {
+          "code": "NAT",
+          "count": 1082
+        }
+      ]
+    },
+    {
+      "state": "CT",
+      "totalIncome": 334147235.92,
+      "filings": 5358,
+      "uniqueClients": 372,
+      "population": 3617176,
+      "perCapita": 92.38,
+      "perCapitaFilings": 1481,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 950
+        },
+        {
+          "code": "TAX",
+          "count": 862
+        },
+        {
+          "code": "HCR",
+          "count": 753
+        },
+        {
+          "code": "DEF",
+          "count": 593
+        },
+        {
+          "code": "FIN",
+          "count": 432
+        }
+      ]
+    },
+    {
+      "state": "WA",
+      "totalIncome": 324376623.69000006,
+      "filings": 11868,
+      "uniqueClients": 783,
+      "population": 7812880,
+      "perCapita": 41.52,
+      "perCapitaFilings": 1519,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 3880
+        },
+        {
+          "code": "TRA",
+          "count": 2039
+        },
+        {
+          "code": "DEF",
+          "count": 1291
+        },
+        {
+          "code": "TAX",
+          "count": 975
+        },
+        {
+          "code": "NAT",
+          "count": 974
+        }
+      ]
+    },
+    {
+      "state": "DE",
+      "totalIncome": 313675300,
+      "filings": 2867,
+      "uniqueClients": 236,
+      "population": 1031890,
+      "perCapita": 303.98,
+      "perCapitaFilings": 2778,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 421
+        },
+        {
+          "code": "HCR",
+          "count": 377
+        },
+        {
+          "code": "FIN",
+          "count": 369
+        },
+        {
+          "code": "ENV",
+          "count": 317
+        },
+        {
+          "code": "MMM",
+          "count": 300
+        }
+      ]
+    },
+    {
+      "state": "NC",
+      "totalIncome": 313118180.08000004,
+      "filings": 10221,
+      "uniqueClients": 695,
+      "population": 10835491,
+      "perCapita": 28.9,
+      "perCapitaFilings": 943,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 2323
+        },
+        {
+          "code": "HCR",
+          "count": 1549
+        },
+        {
+          "code": "DEF",
+          "count": 1249
+        },
+        {
+          "code": "TAX",
+          "count": 895
+        },
+        {
+          "code": "TRA",
+          "count": 874
+        }
+      ]
+    },
+    {
+      "state": "MN",
+      "totalIncome": 283849047,
+      "filings": 7896,
+      "uniqueClients": 497,
+      "population": 5737915,
+      "perCapita": 49.47,
+      "perCapitaFilings": 1376,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 2267
+        },
+        {
+          "code": "HCR",
+          "count": 1448
+        },
+        {
+          "code": "TRA",
+          "count": 1084
+        },
+        {
+          "code": "AGR",
+          "count": 911
+        },
+        {
+          "code": "MMM",
+          "count": 780
+        }
+      ]
+    },
+    {
+      "state": "TN",
+      "totalIncome": 263179689.87,
+      "filings": 5348,
+      "uniqueClients": 407,
+      "population": 7126489,
+      "perCapita": 36.93,
+      "perCapitaFilings": 750,
+      "topIssues": [
+        {
+          "code": "HCR",
+          "count": 1412
+        },
+        {
+          "code": "MMM",
+          "count": 926
+        },
+        {
+          "code": "BUD",
+          "count": 697
+        },
+        {
+          "code": "TAX",
+          "count": 690
+        },
+        {
+          "code": "TRD",
+          "count": 432
+        }
+      ]
+    },
+    {
+      "state": "MO",
+      "totalIncome": 249416869.04999998,
+      "filings": 6756,
+      "uniqueClients": 431,
+      "population": 6196156,
+      "perCapita": 40.25,
+      "perCapitaFilings": 1090,
+      "topIssues": [
+        {
+          "code": "TAX",
+          "count": 1242
+        },
+        {
+          "code": "BUD",
+          "count": 1082
+        },
+        {
+          "code": "HCR",
+          "count": 971
+        },
+        {
+          "code": "DEF",
+          "count": 637
+        },
+        {
+          "code": "MMM",
+          "count": 585
+        }
+      ]
+    },
+    {
+      "state": "MI",
+      "totalIncome": 235058849,
+      "filings": 7791,
+      "uniqueClients": 557,
+      "population": 10037261,
+      "perCapita": 23.42,
+      "perCapitaFilings": 776,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1587
+        },
+        {
+          "code": "HCR",
+          "count": 1087
+        },
+        {
+          "code": "DEF",
+          "count": 988
+        },
+        {
+          "code": "TAX",
+          "count": 911
+        },
+        {
+          "code": "TRD",
+          "count": 607
+        }
+      ]
+    },
+    {
+      "state": "AZ",
+      "totalIncome": 205047701.51999998,
+      "filings": 7564,
+      "uniqueClients": 508,
+      "population": 7431344,
+      "perCapita": 27.59,
+      "perCapitaFilings": 1018,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1647
+        },
+        {
+          "code": "NAT",
+          "count": 964
+        },
+        {
+          "code": "DEF",
+          "count": 897
+        },
+        {
+          "code": "HCR",
+          "count": 861
+        },
+        {
+          "code": "TRA",
+          "count": 543
+        }
+      ]
+    },
+    {
+      "state": "WI",
+      "totalIncome": 203999335.24,
+      "filings": 5989,
+      "uniqueClients": 366,
+      "population": 5910955,
+      "perCapita": 34.51,
+      "perCapitaFilings": 1013,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1187
+        },
+        {
+          "code": "HCR",
+          "count": 1016
+        },
+        {
+          "code": "TAX",
+          "count": 957
+        },
+        {
+          "code": "TRD",
+          "count": 615
+        },
+        {
+          "code": "ENG",
+          "count": 589
+        }
+      ]
+    },
+    {
+      "state": "IN",
+      "totalIncome": 168471667.94,
+      "filings": 6478,
+      "uniqueClients": 438,
+      "population": 6862199,
+      "perCapita": 24.55,
+      "perCapitaFilings": 944,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1219
+        },
+        {
+          "code": "HCR",
+          "count": 1002
+        },
+        {
+          "code": "TRA",
+          "count": 945
+        },
+        {
+          "code": "MMM",
+          "count": 855
+        },
+        {
+          "code": "TAX",
+          "count": 627
+        }
+      ]
+    },
+    {
+      "state": "AL",
+      "totalIncome": 162454824,
+      "filings": 5860,
+      "uniqueClients": 399,
+      "population": 5108468,
+      "perCapita": 31.8,
+      "perCapitaFilings": 1147,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1988
+        },
+        {
+          "code": "DEF",
+          "count": 1218
+        },
+        {
+          "code": "TRA",
+          "count": 561
+        },
+        {
+          "code": "HCR",
+          "count": 487
+        },
+        {
+          "code": "TRD",
+          "count": 323
+        }
+      ]
+    },
+    {
+      "state": "LA",
+      "totalIncome": 159840421,
+      "filings": 6438,
+      "uniqueClients": 451,
+      "population": 4573749,
+      "perCapita": 34.95,
+      "perCapitaFilings": 1408,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1844
+        },
+        {
+          "code": "HCR",
+          "count": 1017
+        },
+        {
+          "code": "MMM",
+          "count": 720
+        },
+        {
+          "code": "MAR",
+          "count": 632
+        },
+        {
+          "code": "DEF",
+          "count": 569
+        }
+      ]
+    },
+    {
+      "state": "KY",
+      "totalIncome": 148230075.59,
+      "filings": 4388,
+      "uniqueClients": 272,
+      "population": 4526154,
+      "perCapita": 32.75,
+      "perCapitaFilings": 969,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 758
+        },
+        {
+          "code": "HCR",
+          "count": 735
+        },
+        {
+          "code": "TAX",
+          "count": 677
+        },
+        {
+          "code": "MMM",
+          "count": 526
+        },
+        {
+          "code": "AGR",
+          "count": 428
+        }
+      ]
+    },
+    {
+      "state": "NV",
+      "totalIncome": 141103638.39999998,
+      "filings": 4840,
+      "uniqueClients": 341,
+      "population": 3194176,
+      "perCapita": 44.18,
+      "perCapitaFilings": 1515,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1261
+        },
+        {
+          "code": "NAT",
+          "count": 979
+        },
+        {
+          "code": "DEF",
+          "count": 527
+        },
+        {
+          "code": "TRA",
+          "count": 514
+        },
+        {
+          "code": "GAM",
+          "count": 469
+        }
+      ]
+    },
+    {
+      "state": "OR",
+      "totalIncome": 131729556.40999998,
+      "filings": 5590,
+      "uniqueClients": 363,
+      "population": 4233358,
+      "perCapita": 31.12,
+      "perCapitaFilings": 1320,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1674
+        },
+        {
+          "code": "TRA",
+          "count": 898
+        },
+        {
+          "code": "NAT",
+          "count": 823
+        },
+        {
+          "code": "ENG",
+          "count": 603
+        },
+        {
+          "code": "TAX",
+          "count": 594
+        }
+      ]
+    },
+    {
+      "state": "UT",
+      "totalIncome": 122184630.67,
+      "filings": 4992,
+      "uniqueClients": 361,
+      "population": 3417734,
+      "perCapita": 35.75,
+      "perCapitaFilings": 1461,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1072
+        },
+        {
+          "code": "HCR",
+          "count": 646
+        },
+        {
+          "code": "NAT",
+          "count": 640
+        },
+        {
+          "code": "DEF",
+          "count": 554
+        },
+        {
+          "code": "TAX",
+          "count": 380
+        }
+      ]
+    },
+    {
+      "state": "SC",
+      "totalIncome": 117755535.58,
+      "filings": 4314,
+      "uniqueClients": 292,
+      "population": 5373555,
+      "perCapita": 21.91,
+      "perCapitaFilings": 803,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1152
+        },
+        {
+          "code": "DEF",
+          "count": 699
+        },
+        {
+          "code": "HCR",
+          "count": 502
+        },
+        {
+          "code": "TRD",
+          "count": 330
+        },
+        {
+          "code": "EDU",
+          "count": 326
+        }
+      ]
+    },
+    {
+      "state": "KS",
+      "totalIncome": 116935867,
+      "filings": 2956,
+      "uniqueClients": 198,
+      "population": 2940546,
+      "perCapita": 39.77,
+      "perCapitaFilings": 1005,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 673
+        },
+        {
+          "code": "TAX",
+          "count": 490
+        },
+        {
+          "code": "HCR",
+          "count": 439
+        },
+        {
+          "code": "AGR",
+          "count": 424
+        },
+        {
+          "code": "TRA",
+          "count": 349
+        }
+      ]
+    },
+    {
+      "state": "OK",
+      "totalIncome": 106732186,
+      "filings": 3640,
+      "uniqueClients": 226,
+      "population": 4053824,
+      "perCapita": 26.33,
+      "perCapitaFilings": 898,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 697
+        },
+        {
+          "code": "IND",
+          "count": 543
+        },
+        {
+          "code": "ENG",
+          "count": 484
+        },
+        {
+          "code": "DEF",
+          "count": 432
+        },
+        {
+          "code": "TAX",
+          "count": 357
+        }
+      ]
+    },
+    {
+      "state": "AR",
+      "totalIncome": 85246297.12,
+      "filings": 1465,
+      "uniqueClients": 116,
+      "population": 3067732,
+      "perCapita": 27.79,
+      "perCapitaFilings": 478,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 250
+        },
+        {
+          "code": "HCR",
+          "count": 136
+        },
+        {
+          "code": "TRA",
+          "count": 133
+        },
+        {
+          "code": "TAX",
+          "count": 124
+        },
+        {
+          "code": "DEF",
+          "count": 114
+        }
+      ]
+    },
+    {
+      "state": "ID",
+      "totalIncome": 73429384,
+      "filings": 2014,
+      "uniqueClients": 119,
+      "population": 2001619,
+      "perCapita": 36.68,
+      "perCapitaFilings": 1006,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 501
+        },
+        {
+          "code": "NAT",
+          "count": 451
+        },
+        {
+          "code": "ENG",
+          "count": 253
+        },
+        {
+          "code": "AGR",
+          "count": 248
+        },
+        {
+          "code": "TRD",
+          "count": 198
+        }
+      ]
+    },
+    {
+      "state": "AK",
+      "totalIncome": 71571519,
+      "filings": 4237,
+      "uniqueClients": 226,
+      "population": 733406,
+      "perCapita": 97.59,
+      "perCapitaFilings": 5777,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1173
+        },
+        {
+          "code": "IND",
+          "count": 999
+        },
+        {
+          "code": "NAT",
+          "count": 766
+        },
+        {
+          "code": "MAR",
+          "count": 713
+        },
+        {
+          "code": "DEF",
+          "count": 457
+        }
+      ]
+    },
+    {
+      "state": "MS",
+      "totalIncome": 58950877,
+      "filings": 2873,
+      "uniqueClients": 207,
+      "population": 2939690,
+      "perCapita": 20.05,
+      "perCapitaFilings": 977,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 913
+        },
+        {
+          "code": "DEF",
+          "count": 392
+        },
+        {
+          "code": "GOV",
+          "count": 291
+        },
+        {
+          "code": "HCR",
+          "count": 290
+        },
+        {
+          "code": "TRA",
+          "count": 289
+        }
+      ]
+    },
+    {
+      "state": "SD",
+      "totalIncome": 54012224.1,
+      "filings": 1462,
+      "uniqueClients": 69,
+      "population": 919318,
+      "perCapita": 58.75,
+      "perCapitaFilings": 1590,
+      "topIssues": [
+        {
+          "code": "IND",
+          "count": 311
+        },
+        {
+          "code": "BUD",
+          "count": 307
+        },
+        {
+          "code": "AGR",
+          "count": 282
+        },
+        {
+          "code": "ENG",
+          "count": 124
+        },
+        {
+          "code": "BAN",
+          "count": 123
+        }
+      ]
+    },
+    {
+      "state": "IA",
+      "totalIncome": 53340495,
+      "filings": 2234,
+      "uniqueClients": 143,
+      "population": 3207004,
+      "perCapita": 16.63,
+      "perCapitaFilings": 697,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 500
+        },
+        {
+          "code": "HCR",
+          "count": 370
+        },
+        {
+          "code": "TAX",
+          "count": 329
+        },
+        {
+          "code": "AGR",
+          "count": 299
+        },
+        {
+          "code": "TRA",
+          "count": 295
+        }
+      ]
+    },
+    {
+      "state": "NE",
+      "totalIncome": 49232770.099999994,
+      "filings": 2112,
+      "uniqueClients": 131,
+      "population": 1978379,
+      "perCapita": 24.89,
+      "perCapitaFilings": 1068,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 521
+        },
+        {
+          "code": "TRA",
+          "count": 439
+        },
+        {
+          "code": "AGR",
+          "count": 390
+        },
+        {
+          "code": "TAX",
+          "count": 370
+        },
+        {
+          "code": "HCR",
+          "count": 247
+        }
+      ]
+    },
+    {
+      "state": "RI",
+      "totalIncome": 41829335,
+      "filings": 1469,
+      "uniqueClients": 104,
+      "population": 1095962,
+      "perCapita": 38.17,
+      "perCapitaFilings": 1340,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 316
+        },
+        {
+          "code": "DEF",
+          "count": 218
+        },
+        {
+          "code": "HCR",
+          "count": 190
+        },
+        {
+          "code": "EDU",
+          "count": 104
+        },
+        {
+          "code": "MMM",
+          "count": 88
+        }
+      ]
+    },
+    {
+      "state": "NM",
+      "totalIncome": 39521429,
+      "filings": 2487,
+      "uniqueClients": 176,
+      "population": 2114371,
+      "perCapita": 18.69,
+      "perCapitaFilings": 1176,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 589
+        },
+        {
+          "code": "IND",
+          "count": 441
+        },
+        {
+          "code": "NAT",
+          "count": 319
+        },
+        {
+          "code": "ENG",
+          "count": 293
+        },
+        {
+          "code": "DEF",
+          "count": 235
+        }
+      ]
+    },
+    {
+      "state": "PR",
+      "totalIncome": 33767172,
+      "filings": 990,
+      "uniqueClients": 80,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "TAX",
+          "count": 241
+        },
+        {
+          "code": "MMM",
+          "count": 201
+        },
+        {
+          "code": "BUD",
+          "count": 195
+        },
+        {
+          "code": "HCR",
+          "count": 151
+        },
+        {
+          "code": "ECN",
+          "count": 110
+        }
+      ]
+    },
+    {
+      "state": "MT",
+      "totalIncome": 31240849.3,
+      "filings": 1680,
+      "uniqueClients": 125,
+      "population": 1132812,
+      "perCapita": 27.58,
+      "perCapitaFilings": 1483,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 467
+        },
+        {
+          "code": "NAT",
+          "count": 328
+        },
+        {
+          "code": "IND",
+          "count": 222
+        },
+        {
+          "code": "AGR",
+          "count": 196
+        },
+        {
+          "code": "DEF",
+          "count": 169
+        }
+      ]
+    },
+    {
+      "state": "NH",
+      "totalIncome": 29246800,
+      "filings": 1103,
+      "uniqueClients": 87,
+      "population": 1402054,
+      "perCapita": 20.86,
+      "perCapitaFilings": 787,
+      "topIssues": [
+        {
+          "code": "DEF",
+          "count": 328
+        },
+        {
+          "code": "BUD",
+          "count": 167
+        },
+        {
+          "code": "HCR",
+          "count": 141
+        },
+        {
+          "code": "MMM",
+          "count": 119
+        },
+        {
+          "code": "EDU",
+          "count": 105
+        }
+      ]
+    },
+    {
+      "state": "ME",
+      "totalIncome": 24733972,
+      "filings": 1107,
+      "uniqueClients": 85,
+      "population": 1395722,
+      "perCapita": 17.72,
+      "perCapitaFilings": 793,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 200
+        },
+        {
+          "code": "DEF",
+          "count": 174
+        },
+        {
+          "code": "HCR",
+          "count": 161
+        },
+        {
+          "code": "AGR",
+          "count": 131
+        },
+        {
+          "code": "MAR",
+          "count": 116
+        }
+      ]
+    },
+    {
+      "state": "WV",
+      "totalIncome": 20431869.88,
+      "filings": 1122,
+      "uniqueClients": 77,
+      "population": 1770071,
+      "perCapita": 11.54,
+      "perCapitaFilings": 634,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 354
+        },
+        {
+          "code": "DEF",
+          "count": 248
+        },
+        {
+          "code": "URB",
+          "count": 217
+        },
+        {
+          "code": "HCR",
+          "count": 124
+        },
+        {
+          "code": "EDU",
+          "count": 106
+        }
+      ]
+    },
+    {
+      "state": "ND",
+      "totalIncome": 16516921.569999998,
+      "filings": 1132,
+      "uniqueClients": 75,
+      "population": 783926,
+      "perCapita": 21.07,
+      "perCapitaFilings": 1444,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 257
+        },
+        {
+          "code": "AGR",
+          "count": 180
+        },
+        {
+          "code": "DEF",
+          "count": 133
+        },
+        {
+          "code": "IND",
+          "count": 118
+        },
+        {
+          "code": "NAT",
+          "count": 99
+        }
+      ]
+    },
+    {
+      "state": "HI",
+      "totalIncome": 16516343,
+      "filings": 1064,
+      "uniqueClients": 91,
+      "population": 1435138,
+      "perCapita": 11.51,
+      "perCapitaFilings": 741,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 467
+        },
+        {
+          "code": "DEF",
+          "count": 184
+        },
+        {
+          "code": "TRA",
+          "count": 110
+        },
+        {
+          "code": "EDU",
+          "count": 94
+        },
+        {
+          "code": "HCR",
+          "count": 85
+        }
+      ]
+    },
+    {
+      "state": "WY",
+      "totalIncome": 11411475,
+      "filings": 763,
+      "uniqueClients": 74,
+      "population": 584057,
+      "perCapita": 19.54,
+      "perCapitaFilings": 1306,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 126
+        },
+        {
+          "code": "ENG",
+          "count": 114
+        },
+        {
+          "code": "NAT",
+          "count": 83
+        },
+        {
+          "code": "HCR",
+          "count": 66
+        },
+        {
+          "code": "AGR",
+          "count": 59
+        }
+      ]
+    },
+    {
+      "state": "ON",
+      "totalIncome": 11394800,
+      "filings": 343,
+      "uniqueClients": 56,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "ENG",
+          "count": 70
+        },
+        {
+          "code": "TRD",
+          "count": 68
+        },
+        {
+          "code": "DEF",
+          "count": 52
+        },
+        {
+          "code": "NAT",
+          "count": 38
+        },
+        {
+          "code": "SMB",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "state": "VI",
+      "totalIncome": 9086000,
+      "filings": 170,
+      "uniqueClients": 13,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 57
+        },
+        {
+          "code": "TAX",
+          "count": 56
+        },
+        {
+          "code": "HCR",
+          "count": 31
+        },
+        {
+          "code": "IMM",
+          "count": 29
+        },
+        {
+          "code": "NAT",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "state": "VT",
+      "totalIncome": 5596000,
+      "filings": 388,
+      "uniqueClients": 33,
+      "population": 647464,
+      "perCapita": 8.64,
+      "perCapitaFilings": 599,
+      "topIssues": [
+        {
+          "code": "DEF",
+          "count": 133
+        },
+        {
+          "code": "BUD",
+          "count": 80
+        },
+        {
+          "code": "HCR",
+          "count": 40
+        },
+        {
+          "code": "EDU",
+          "count": 38
+        },
+        {
+          "code": "TRA",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "state": "BC",
+      "totalIncome": 5527000,
+      "filings": 200,
+      "uniqueClients": 31,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "NAT",
+          "count": 62
+        },
+        {
+          "code": "ENG",
+          "count": 50
+        },
+        {
+          "code": "DEF",
+          "count": 37
+        },
+        {
+          "code": "HCR",
+          "count": 14
+        },
+        {
+          "code": "BUD",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "state": "AB",
+      "totalIncome": 3050000,
+      "filings": 126,
+      "uniqueClients": 16,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "ENG",
+          "count": 81
+        },
+        {
+          "code": "NAT",
+          "count": 11
+        },
+        {
+          "code": "ENV",
+          "count": 11
+        },
+        {
+          "code": "TRD",
+          "count": 9
+        },
+        {
+          "code": "TAX",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "state": "SK",
+      "totalIncome": 1560000,
+      "filings": 39,
+      "uniqueClients": 4,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "AGR",
+          "count": 23
+        },
+        {
+          "code": "TRD",
+          "count": 20
+        },
+        {
+          "code": "ENG",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "state": "QC",
+      "totalIncome": 1510000,
+      "filings": 53,
+      "uniqueClients": 8,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 13
+        },
+        {
+          "code": "ENV",
+          "count": 12
+        },
+        {
+          "code": "LAW",
+          "count": 12
+        },
+        {
+          "code": "RES",
+          "count": 4
+        },
+        {
+          "code": "IMM",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "state": "AS",
+      "totalIncome": 1376600,
+      "filings": 54,
+      "uniqueClients": 4,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "MMM",
+          "count": 26
+        },
+        {
+          "code": "TRA",
+          "count": 21
+        },
+        {
+          "code": "BUD",
+          "count": 16
+        },
+        {
+          "code": "ECN",
+          "count": 14
+        },
+        {
+          "code": "TAX",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "state": "MP",
+      "totalIncome": 1256000,
+      "filings": 53,
+      "uniqueClients": 3,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "GOV",
+          "count": 21
+        },
+        {
+          "code": "ECN",
+          "count": 17
+        },
+        {
+          "code": "DEF",
+          "count": 5
+        },
+        {
+          "code": "NAT",
+          "count": 4
+        },
+        {
+          "code": "LBR",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "state": "NB",
+      "totalIncome": 320000,
+      "filings": 4,
+      "uniqueClients": 1,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "TRD",
+          "count": 4
+        },
+        {
+          "code": "TAR",
+          "count": 4
+        },
+        {
+          "code": "ENV",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "state": "GU",
+      "totalIncome": 210000,
+      "filings": 21,
+      "uniqueClients": 4,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "DEF",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "state": "NS",
+      "totalIncome": 170000,
+      "filings": 7,
+      "uniqueClients": 1,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "DEF",
+          "count": 6
+        },
+        {
+          "code": "HCR",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "state": "NL",
+      "totalIncome": 110000,
+      "filings": 7,
+      "uniqueClients": 1,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "IMM",
+          "count": 6
+        },
+        {
+          "code": "HOM",
+          "count": 1
+        },
+        {
+          "code": "FOR",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "state": "MB",
+      "totalIncome": 60000,
+      "filings": 7,
+      "uniqueClients": 1,
+      "population": 0,
+      "perCapita": 0,
+      "perCapitaFilings": 0,
+      "topIssues": [
+        {
+          "code": "ENG",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "topPerCapita": [
+    {
+      "state": "DC",
+      "totalIncome": 18403530714.76,
+      "filings": 152991,
+      "uniqueClients": 6659,
+      "population": 678972,
+      "perCapita": 27104.99,
+      "perCapitaFilings": 225327,
+      "topIssues": [
+        {
+          "code": "TAX",
+          "count": 35886
+        },
+        {
+          "code": "BUD",
+          "count": 33702
+        },
+        {
+          "code": "HCR",
+          "count": 27464
+        },
+        {
+          "code": "TRD",
+          "count": 18846
+        },
+        {
+          "code": "MMM",
+          "count": 14696
+        }
+      ]
+    },
+    {
+      "state": "VA",
+      "totalIncome": 2645026730.8900003,
+      "filings": 45346,
+      "uniqueClients": 2424,
+      "population": 8683619,
+      "perCapita": 304.6,
+      "perCapitaFilings": 5222,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 11187
+        },
+        {
+          "code": "DEF",
+          "count": 8912
+        },
+        {
+          "code": "HCR",
+          "count": 7600
+        },
+        {
+          "code": "TAX",
+          "count": 6233
+        },
+        {
+          "code": "TRA",
+          "count": 4531
+        }
+      ]
+    },
+    {
+      "state": "DE",
+      "totalIncome": 313675300,
+      "filings": 2867,
+      "uniqueClients": 236,
+      "population": 1031890,
+      "perCapita": 303.98,
+      "perCapitaFilings": 2778,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 421
+        },
+        {
+          "code": "HCR",
+          "count": 377
+        },
+        {
+          "code": "FIN",
+          "count": 369
+        },
+        {
+          "code": "ENV",
+          "count": 317
+        },
+        {
+          "code": "MMM",
+          "count": 300
+        }
+      ]
+    },
+    {
+      "state": "MD",
+      "totalIncome": 680507125.9399998,
+      "filings": 16061,
+      "uniqueClients": 1038,
+      "population": 6180253,
+      "perCapita": 110.11,
+      "perCapitaFilings": 2599,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 4140
+        },
+        {
+          "code": "HCR",
+          "count": 3795
+        },
+        {
+          "code": "DEF",
+          "count": 2632
+        },
+        {
+          "code": "TAX",
+          "count": 1642
+        },
+        {
+          "code": "MMM",
+          "count": 1372
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "totalIncome": 759402150.1199999,
+      "filings": 18320,
+      "uniqueClients": 1242,
+      "population": 7001399,
+      "perCapita": 108.46,
+      "perCapitaFilings": 2617,
+      "topIssues": [
+        {
+          "code": "HCR",
+          "count": 4825
+        },
+        {
+          "code": "BUD",
+          "count": 2828
+        },
+        {
+          "code": "TAX",
+          "count": 2348
+        },
+        {
+          "code": "MMM",
+          "count": 2336
+        },
+        {
+          "code": "DEF",
+          "count": 2234
+        }
+      ]
+    },
+    {
+      "state": "AK",
+      "totalIncome": 71571519,
+      "filings": 4237,
+      "uniqueClients": 226,
+      "population": 733406,
+      "perCapita": 97.59,
+      "perCapitaFilings": 5777,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 1173
+        },
+        {
+          "code": "IND",
+          "count": 999
+        },
+        {
+          "code": "NAT",
+          "count": 766
+        },
+        {
+          "code": "MAR",
+          "count": 713
+        },
+        {
+          "code": "DEF",
+          "count": 457
+        }
+      ]
+    },
+    {
+      "state": "CT",
+      "totalIncome": 334147235.92,
+      "filings": 5358,
+      "uniqueClients": 372,
+      "population": 3617176,
+      "perCapita": 92.38,
+      "perCapitaFilings": 1481,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 950
+        },
+        {
+          "code": "TAX",
+          "count": 862
+        },
+        {
+          "code": "HCR",
+          "count": 753
+        },
+        {
+          "code": "DEF",
+          "count": 593
+        },
+        {
+          "code": "FIN",
+          "count": 432
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "totalIncome": 2639009442.7499995,
+      "filings": 69181,
+      "uniqueClients": 4744,
+      "population": 38965193,
+      "perCapita": 67.73,
+      "perCapitaFilings": 1775,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 16351
+        },
+        {
+          "code": "HCR",
+          "count": 8946
+        },
+        {
+          "code": "DEF",
+          "count": 7033
+        },
+        {
+          "code": "TAX",
+          "count": 6885
+        },
+        {
+          "code": "TRA",
+          "count": 6635
+        }
+      ]
+    },
+    {
+      "state": "IL",
+      "totalIncome": 843015872.6099999,
+      "filings": 19639,
+      "uniqueClients": 1259,
+      "population": 12549689,
+      "perCapita": 67.17,
+      "perCapitaFilings": 1565,
+      "topIssues": [
+        {
+          "code": "HCR",
+          "count": 4628
+        },
+        {
+          "code": "BUD",
+          "count": 3982
+        },
+        {
+          "code": "TAX",
+          "count": 2911
+        },
+        {
+          "code": "MMM",
+          "count": 2528
+        },
+        {
+          "code": "TRA",
+          "count": 1784
+        }
+      ]
+    },
+    {
+      "state": "NY",
+      "totalIncome": 1301006842.41,
+      "filings": 34297,
+      "uniqueClients": 2496,
+      "population": 19571216,
+      "perCapita": 66.48,
+      "perCapitaFilings": 1752,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 5249
+        },
+        {
+          "code": "HCR",
+          "count": 4660
+        },
+        {
+          "code": "TAX",
+          "count": 4412
+        },
+        {
+          "code": "FIN",
+          "count": 3378
+        },
+        {
+          "code": "EDU",
+          "count": 2033
+        }
+      ]
+    },
+    {
+      "state": "CO",
+      "totalIncome": 386112041.95000005,
+      "filings": 10877,
+      "uniqueClients": 799,
+      "population": 5877610,
+      "perCapita": 65.69,
+      "perCapitaFilings": 1851,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 2138
+        },
+        {
+          "code": "DEF",
+          "count": 1472
+        },
+        {
+          "code": "HCR",
+          "count": 1280
+        },
+        {
+          "code": "TAX",
+          "count": 1136
+        },
+        {
+          "code": "NAT",
+          "count": 1082
+        }
+      ]
+    },
+    {
+      "state": "NJ",
+      "totalIncome": 590716722.73,
+      "filings": 12274,
+      "uniqueClients": 848,
+      "population": 9290841,
+      "perCapita": 63.58,
+      "perCapitaFilings": 1321,
+      "topIssues": [
+        {
+          "code": "HCR",
+          "count": 3822
+        },
+        {
+          "code": "BUD",
+          "count": 2177
+        },
+        {
+          "code": "MMM",
+          "count": 1375
+        },
+        {
+          "code": "TAX",
+          "count": 1252
+        },
+        {
+          "code": "TRD",
+          "count": 1102
+        }
+      ]
+    },
+    {
+      "state": "SD",
+      "totalIncome": 54012224.1,
+      "filings": 1462,
+      "uniqueClients": 69,
+      "population": 919318,
+      "perCapita": 58.75,
+      "perCapitaFilings": 1590,
+      "topIssues": [
+        {
+          "code": "IND",
+          "count": 311
+        },
+        {
+          "code": "BUD",
+          "count": 307
+        },
+        {
+          "code": "AGR",
+          "count": 282
+        },
+        {
+          "code": "ENG",
+          "count": 124
+        },
+        {
+          "code": "BAN",
+          "count": 123
+        }
+      ]
+    },
+    {
+      "state": "MN",
+      "totalIncome": 283849047,
+      "filings": 7896,
+      "uniqueClients": 497,
+      "population": 5737915,
+      "perCapita": 49.47,
+      "perCapitaFilings": 1376,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 2267
+        },
+        {
+          "code": "HCR",
+          "count": 1448
+        },
+        {
+          "code": "TRA",
+          "count": 1084
+        },
+        {
+          "code": "AGR",
+          "count": 911
+        },
+        {
+          "code": "MMM",
+          "count": 780
+        }
+      ]
+    },
+    {
+      "state": "PA",
+      "totalIncome": 629458307.72,
+      "filings": 17724,
+      "uniqueClients": 1197,
+      "population": 12961683,
+      "perCapita": 48.56,
+      "perCapitaFilings": 1367,
+      "topIssues": [
+        {
+          "code": "BUD",
+          "count": 3750
+        },
+        {
+          "code": "HCR",
+          "count": 3525
+        },
+        {
+          "code": "DEF",
+          "count": 1997
+        },
+        {
+          "code": "TAX",
+          "count": 1581
+        },
+        {
+          "code": "MMM",
+          "count": 1562
+        }
+      ]
+    }
+  ],
+  "totalStates": 65
+}

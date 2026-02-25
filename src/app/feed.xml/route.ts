@@ -11,10 +11,30 @@ const investigations = [
   { slug: 'ai-regulation-fight', title: 'The Battle to Shape AI Policy', desc: 'Tech giants are spending billions to influence AI regulation.', date: '2026-02-24' },
   { slug: 'tariff-lobbying-surge', title: 'The 2025 Tariff Lobbying Explosion', desc: 'As tariffs return, lobbying on trade is surging.', date: '2026-02-24' },
   { slug: 'crypto-lobbying-explosion', title: "Crypto's K Street Invasion", desc: 'The fastest-growing lobbying sector in DC.', date: '2026-02-24' },
+  { slug: 'lobbying-vs-contracts', title: 'For Every $1 They Lobby, They Get $49,536 Back', desc: 'Cross-referenced lobbying with USASpending contract data. 21 contractors, $281M lobbying, $183.8B contracts.', date: '2026-02-24' },
+  { slug: 'healthcare-3-billion-bet', title: "The Healthcare Lobby's $3 Billion Bet", desc: "Healthcare is the #1 lobbied issue. $3.7B spent lobbying on healthcare since 2018.", date: '2026-02-24' },
+  { slug: 'seasonal-lobbying', title: "Washington's Busiest Quarter", desc: 'The hidden calendar of lobbying — Q4 is king with $9.9B in income.', date: '2026-02-24' },
+]
+
+const analysisPages = [
+  { slug: 'new-entrants', title: 'First-Time Filers: New Lobbying Entrants', desc: 'Track new organizations entering the lobbying game.', date: '2026-02-24' },
+  { slug: 'momentum', title: "What's Surging Now: Lobbying Momentum", desc: 'Quarter-over-quarter momentum in lobbying spending.', date: '2026-02-24' },
+  { slug: 'concentration', title: 'The Power Players: Firm Concentration Analysis', desc: 'How dependent are lobbying firms on their biggest clients?', date: '2026-02-24' },
+  { slug: 'issue-battles', title: 'Issue Collisions: When Industries Clash', desc: 'Which lobbying issues get fought together.', date: '2026-02-24' },
+  { slug: 'geographic', title: 'The Lobbying Map: Where Influence Comes From', desc: 'Lobbying spending by state and per capita.', date: '2026-02-24' },
+  { slug: 'filing-patterns', title: 'Inside the Filing Room', desc: 'Filing volumes, types, and seasonal patterns.', date: '2026-02-24' },
 ]
 
 export async function GET() {
   const baseUrl = 'https://www.openlobby.us'
+  const analysisItems = analysisPages.map(p => `
+    <item>
+      <title><![CDATA[${p.title}]]></title>
+      <link>${baseUrl}/${p.slug}</link>
+      <description><![CDATA[${p.desc}]]></description>
+      <pubDate>${new Date(p.date).toUTCString()}</pubDate>
+      <guid>${baseUrl}/${p.slug}</guid>
+    </item>`).join('')
   const items = investigations.map(inv => `
     <item>
       <title><![CDATA[${inv.title}]]></title>
@@ -33,6 +53,7 @@ export async function GET() {
     <language>en-us</language>
     <atom:link href="${baseUrl}/feed.xml" rel="self" type="application/rss+xml"/>
     ${items}
+    ${analysisItems}
   </channel>
 </rss>`
 

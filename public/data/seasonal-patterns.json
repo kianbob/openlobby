@@ -1,0 +1,183 @@
+{
+  "overall": {
+    "Q1": {
+      "filings": 150771,
+      "income": 8843786450.219997
+    },
+    "Q2": {
+      "filings": 161120,
+      "income": 9253718434.680002
+    },
+    "Q3": {
+      "filings": 166864,
+      "income": 9402784933.050001
+    },
+    "Q4": {
+      "filings": 171578,
+      "income": 9876071224.529999
+    }
+  },
+  "quarterly": [
+    {
+      "quarter": "2018-Q1",
+      "filings": 15587,
+      "income": 916609957.8900001
+    },
+    {
+      "quarter": "2018-Q2",
+      "filings": 16051,
+      "income": 906345971.6300001
+    },
+    {
+      "quarter": "2018-Q3",
+      "filings": 17408,
+      "income": 988866522.84
+    },
+    {
+      "quarter": "2018-Q4",
+      "filings": 17470,
+      "income": 962877907.11
+    },
+    {
+      "quarter": "2019-Q1",
+      "filings": 15973,
+      "income": 918611396.3499999
+    },
+    {
+      "quarter": "2019-Q2",
+      "filings": 16148,
+      "income": 901868603.4499999
+    },
+    {
+      "quarter": "2019-Q3",
+      "filings": 17926,
+      "income": 999693125.07
+    },
+    {
+      "quarter": "2019-Q4",
+      "filings": 18768,
+      "income": 1088554510.0500002
+    },
+    {
+      "quarter": "2020-Q1",
+      "filings": 17127,
+      "income": 1017962506.75
+    },
+    {
+      "quarter": "2020-Q2",
+      "filings": 19802,
+      "income": 1028560099.5300002
+    },
+    {
+      "quarter": "2020-Q3",
+      "filings": 18939,
+      "income": 1062018365.1
+    },
+    {
+      "quarter": "2020-Q4",
+      "filings": 19492,
+      "income": 1051737681.71
+    },
+    {
+      "quarter": "2021-Q1",
+      "filings": 17068,
+      "income": 940826284.5600001
+    },
+    {
+      "quarter": "2021-Q2",
+      "filings": 19550,
+      "income": 1011270324.4399999
+    },
+    {
+      "quarter": "2021-Q3",
+      "filings": 20536,
+      "income": 1117880284.3600001
+    },
+    {
+      "quarter": "2021-Q4",
+      "filings": 21496,
+      "income": 1200912954.44
+    },
+    {
+      "quarter": "2022-Q1",
+      "filings": 20883,
+      "income": 1181974311.05
+    },
+    {
+      "quarter": "2022-Q2",
+      "filings": 22020,
+      "income": 1317836400.4999998
+    },
+    {
+      "quarter": "2022-Q3",
+      "filings": 22421,
+      "income": 1264901509.6800003
+    },
+    {
+      "quarter": "2022-Q4",
+      "filings": 22908,
+      "income": 1309749151.8800004
+    },
+    {
+      "quarter": "2023-Q1",
+      "filings": 24373,
+      "income": 1428844420.68
+    },
+    {
+      "quarter": "2023-Q2",
+      "filings": 23709,
+      "income": 1328771603.94
+    },
+    {
+      "quarter": "2023-Q3",
+      "filings": 23534,
+      "income": 1307532375.86
+    },
+    {
+      "quarter": "2023-Q4",
+      "filings": 23620,
+      "income": 1370760870.45
+    },
+    {
+      "quarter": "2024-Q1",
+      "filings": 18812,
+      "income": 1135082589.33
+    },
+    {
+      "quarter": "2024-Q2",
+      "filings": 20006,
+      "income": 1162900997.24
+    },
+    {
+      "quarter": "2024-Q3",
+      "filings": 20965,
+      "income": 1169940079.1499996
+    },
+    {
+      "quarter": "2024-Q4",
+      "filings": 22466,
+      "income": 1320738294.3300002
+    },
+    {
+      "quarter": "2025-Q1",
+      "filings": 20948,
+      "income": 1303874983.6100001
+    },
+    {
+      "quarter": "2025-Q2",
+      "filings": 23834,
+      "income": 1596164433.95
+    },
+    {
+      "quarter": "2025-Q3",
+      "filings": 25135,
+      "income": 1491952670.9900002
+    },
+    {
+      "quarter": "2025-Q4",
+      "filings": 25358,
+      "income": 1570739854.56
+    }
+  ],
+  "seasonalIssues": []
+}
