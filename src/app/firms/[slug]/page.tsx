@@ -128,7 +128,7 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
 
       {firm.clients.length > 0 && (
         <section className="mb-8">
-          <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Clients</h2>
+          <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Clients ({firm.clientCount})</h2>
           <div className="flex flex-wrap gap-2">
             {firm.clients.slice(0, 50).map(c => (
               <a key={c} href={`/clients/${resolveClientSlug(c)}`} className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-indigo-100 hover:text-indigo-700 transition-colors">{toTitleCase(c)}</a>
@@ -142,7 +142,7 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
 
       {firm.lobbyists.length > 0 && (
         <section className="mb-8">
-          <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Lobbyists</h2>
+          <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Lobbyists ({firm.lobbyists.length})</h2>
           <div className="flex flex-wrap gap-2">
             {firm.lobbyists.slice(0, 50).map(l => (
               <a key={l} href={`/lobbyists/${resolveLobbyistSlug(l)}`} className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">
@@ -152,6 +152,17 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
             {firm.lobbyists.length > 50 && (
               <span className="px-3 py-1 bg-gray-200 text-gray-500 rounded-full text-sm">+{firm.lobbyists.length - 50} more</span>
             )}
+          </div>
+        </section>
+      )}
+
+      {firm.issues.length > 0 && (
+        <section className="mb-8">
+          <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Issue Areas ({firm.issues.length})</h2>
+          <div className="flex flex-wrap gap-2">
+            {firm.issues.map(issue => (
+              <Link key={issue} href={`/issues/${issue}`} className="px-3 py-1 bg-indigo-50 text-indigo-700 rounded-full text-sm hover:bg-indigo-100 transition-colors">{issue}</Link>
+            ))}
           </div>
         </section>
       )}
