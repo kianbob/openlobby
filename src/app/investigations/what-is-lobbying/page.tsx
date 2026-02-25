@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import SourceCitation from "@/components/SourceCitation"
 import ShareButtons from '@/components/ShareButtons'
 
 export const metadata: Metadata = {
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
 export default function WhatIsLobbyingPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "What Is Lobbying? A Complete Guide", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "What is lobbying, how does it work, and why does it matter? A comprehensive guide to federal lobbying and how money influences Washington.", mainEntityOfPage: "https://www.openlobby.us/investigations/what-is-lobbying" }) }} />
       <Breadcrumbs items={[{ name: 'Investigations', href: '/investigations' }, { name: 'What Is Lobbying?' }]} />
       
       <article className="prose prose-lg max-w-none">
@@ -89,6 +91,8 @@ export default function WhatIsLobbyingPage() {
           </div>
         </div>
       </article>
+
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
 
       <section className="mt-10 mb-8 not-prose">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>

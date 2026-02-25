@@ -3,7 +3,7 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import SourceCitation from '@/components/SourceCitation'
 
 export const metadata: Metadata = {
-  title: 'About OpenLobby',
+  title: 'About Us',
   description: 'OpenLobby is an independent data journalism project making federal lobbying data accessible, searchable, and understandable.',
 }
 

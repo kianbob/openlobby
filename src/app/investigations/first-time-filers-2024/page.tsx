@@ -2,6 +2,7 @@
 import Link from 'next/link'
 import dynamic from 'next/dynamic'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import SourceCitation from "@/components/SourceCitation"
 import ShareButtons from '@/components/ShareButtons'
 
 const BarChart = dynamic(() => import('recharts').then(m => m.BarChart), { ssr: false })
@@ -25,6 +26,7 @@ const entrantsByYear = [
 export default function Page() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "First-Time Filers: Meet the Companies That Just Started Lobbying", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "6,997 organizations filed lobbying disclosures for the first time in 2025 — from AI startups to hospital chains to wedding platforms.", mainEntityOfPage: "https://www.openlobby.us/investigations/first-time-filers-2024" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'First-Time Filers 2025' },
@@ -271,6 +273,8 @@ export default function Page() {
         </p>
 
       </article>
+
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
 
       <div className="mt-12 pt-8 border-t border-gray-200">
         <h3 className="text-lg font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h3>

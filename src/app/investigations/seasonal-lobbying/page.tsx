@@ -6,7 +6,7 @@ import SourceCitation from '@/components/SourceCitation'
 import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
-  title: "Washington's Busiest Quarter: The Hidden Calendar of Lobbying — OpenLobby",
+  title: "Washington's Busiest Quarter: The Hidden Calendar of Lobbying",
   description: 'Lobbying follows a predictable seasonal rhythm. Q4 is the busiest quarter with $9.9B in income. We mapped the hidden calendar of influence.',
   openGraph: {
     title: "Washington's Busiest Quarter",

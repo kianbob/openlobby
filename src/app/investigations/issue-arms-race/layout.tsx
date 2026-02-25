@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'The Lobbying Arms Race: When Industries Go to War Over the Same Issues — OpenLobby',
+  title: 'The Lobbying Arms Race: When Industries Go to War Over the Same Issues',
   description: 'Healthcare + Medicare: 31,240 co-filings. Budget + Defense: 23,981. We mapped the lobbying battlegrounds where opposing industries collide on the same issues.',
   openGraph: {
     title: 'The Lobbying Arms Race: When Industries Go to War Over the Same Issues',

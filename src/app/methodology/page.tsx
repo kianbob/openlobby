@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
-  title: 'Methodology — How We Process the Data | OpenLobby',
+  title: 'Methodology — How We Process the Data',
   description: 'How OpenLobby collects, processes, and presents federal lobbying data from Senate LDA filings.',
 }
 

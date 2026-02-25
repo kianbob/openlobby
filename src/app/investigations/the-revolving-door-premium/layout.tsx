@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'The 369% Premium: Hard Proof That the Revolving Door Pays — OpenLobby',
+  title: 'The 369% Premium: Hard Proof That the Revolving Door Pays',
   description: 'Lobbying firms with ex-government employees earn 369% more revenue and have 4.9x more clients. We quantified the revolving door premium with 650,000+ filings.',
   openGraph: {
     title: 'The 369% Premium: Hard Proof That the Revolving Door Pays',

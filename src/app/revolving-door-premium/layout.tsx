@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'The Revolving Door Premium: Do Ex-Government Lobbyists Earn More? — OpenLobby',
+  title: 'The Revolving Door Premium: Do Ex-Government Lobbyists Earn More?',
   description: 'Firms with ex-government lobbyists earn 369% more revenue. The data proves the revolving door pays.',
   openGraph: {
     title: 'The Revolving Door Premium: Do Ex-Government Lobbyists Earn More?',

@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Lobbying Statistics 2024-2025: Key Facts and Data | OpenLobby',
+  title: 'Lobbying Statistics 2024-2025: Key Facts and Data',
   description: 'Comprehensive federal lobbying statistics for 2024-2025. Total spending, number of lobbyists, top clients, biggest issues, and year-over-year trends from 650,000+ filings.',
   keywords: ['lobbying statistics', 'lobbying spending data', 'lobbying statistics 2025', 'lobbying statistics 2024', 'federal lobbying data', 'how much is spent on lobbying'],
   openGraph: {

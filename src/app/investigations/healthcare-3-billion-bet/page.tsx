@@ -6,7 +6,7 @@ import SourceCitation from '@/components/SourceCitation'
 import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
-  title: "The Healthcare Lobby's $3 Billion Bet — OpenLobby Investigation",
+  title: "The Healthcare Lobby's $3 Billion Bet",
   description: 'Healthcare is the #1 lobbied issue in America. $2.3B on healthcare reform, $1.2B on Medicare/Medicaid, $227M on pharmacy. Inside medicine\'s war for Washington.',
   openGraph: {
     title: "The Healthcare Lobby's $3 Billion Bet",

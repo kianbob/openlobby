@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import SourceCitation from "@/components/SourceCitation"
 import ShareButtons from '@/components/ShareButtons'
 
 export const metadata: Metadata = {
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
 export default function LobbyingStatisticsPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Federal Lobbying Statistics 2025", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Comprehensive federal lobbying statistics for 2025. Total spending, top clients, top firms, industry breakdowns, and historical trends from Senate LDA filings.", mainEntityOfPage: "https://www.openlobby.us/investigations/lobbying-statistics" }) }} />
       <Breadcrumbs items={[{ name: 'Investigations', href: '/investigations' }, { name: 'Lobbying Statistics' }]} />
       
       <article className="prose prose-lg max-w-none">
@@ -124,6 +126,8 @@ export default function LobbyingStatisticsPage() {
           </div>
         </div>
       </article>
+
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
 
       <section className="mt-10 mb-8 not-prose">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>

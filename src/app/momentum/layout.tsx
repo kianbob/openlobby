@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Lobbying Momentum: What Is Surging Now — OpenLobby',
+  title: 'Lobbying Momentum: What Is Surging Now',
   description: 'Quarter-over-quarter lobbying growth by issue. See which policy areas are heating up and which are cooling down.',
   openGraph: {
     title: 'Lobbying Momentum: What Is Surging Now',

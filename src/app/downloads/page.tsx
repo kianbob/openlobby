@@ -20,6 +20,13 @@ const dataFiles = [
   { name: 'Stats', file: 'stats.json', desc: 'Overall summary statistics', size: '~2KB' },
   { name: 'Surge Tracker', file: 'surge-tracker.json', desc: 'Quarter-over-quarter lobbying surges by issue', size: '~50KB' },
   { name: 'Text Analysis', file: 'text-analysis.json', desc: 'Word frequency and bill mentions from lobbying descriptions', size: '~100KB' },
+  { name: 'Network Analysis', file: 'network-analysis.json', desc: 'Lobbyist network connections, multi-firm relationships', size: '~200KB' },
+  { name: 'Revolving Door Premium', file: 'revolving-door-premium.json', desc: 'Revenue comparison: revolving door vs non-revolving door firms', size: '~20KB' },
+  { name: 'Geographic Heatmap', file: 'geographic-heatmap.json', desc: 'Lobbying spending by state with per-capita analysis', size: '~10KB' },
+  { name: 'Lobbying vs Contracts', file: 'lobbying-vs-contracts.json', desc: 'Cross-reference of lobbying spend vs federal contract awards', size: '~5KB' },
+  { name: 'Client Trajectories', file: 'client-trajectories.json', desc: 'Spending growth paths: exploding, declining, steady clients', size: '~100KB' },
+  { name: 'Firm Concentration', file: 'firm-concentration.json', desc: 'HHI analysis, client dependency, issue specialization', size: '~50KB' },
+  { name: 'Filing Activity', file: 'filing-activity.json', desc: 'Monthly filing volumes and type breakdowns', size: '~20KB' },
 ]
 
 export default function DownloadsPage() {

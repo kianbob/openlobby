@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'First-Time Filers: New Lobbying Entrants — OpenLobby',
+  title: 'First-Time Filers: New Lobbying Entrants',
   description: 'Track organizations that started lobbying Washington for the first time. See the surge in new entrants and what drives them.',
   openGraph: {
     title: 'First-Time Filers: New Lobbying Entrants',

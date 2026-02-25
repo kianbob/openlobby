@@ -6,7 +6,7 @@ import SourceCitation from '@/components/SourceCitation'
 import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
-  title: 'For Every $1 They Lobby, They Get $49,536 Back — OpenLobby Investigation',
+  title: 'For Every $1 They Lobby, They Get $49,536 Back',
   description: 'We cross-referenced lobbying disclosures with USASpending.gov contract data. The ROI is staggering: top contractors turn thousands in lobbying into billions in federal contracts.',
   openGraph: {
     title: 'For Every $1 They Lobby, They Get $49,536 Back',

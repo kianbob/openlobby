@@ -8,7 +8,7 @@ import ShareButtons from '@/components/ShareButtons'
 import { formatCurrency, formatNumber } from '@/lib/format'
 
 export const metadata: Metadata = {
-  title: 'Lobbying by Industry — Which Sectors Spend the Most? — OpenLobby',
+  title: 'Lobbying by Industry — Which Sectors Spend the Most?',
   description: 'Explore federal lobbying spending by industry. See which sectors — from healthcare to defense — spend the most to influence Washington.',
 }
 

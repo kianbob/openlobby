@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'First-Time Filers: Meet the Companies That Just Started Lobbying Washington — OpenLobby',
+  title: 'First-Time Filers: Meet the Companies That Just Started Lobbying Washington',
   description: '6,997 organizations filed lobbying disclosures for the first time in 2025 — from AI startups to hospital chains to wedding platforms. What drove them to K Street?',
   openGraph: {
     title: 'First-Time Filers: Meet the Companies That Just Started Lobbying Washington',

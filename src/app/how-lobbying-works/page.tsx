@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'How Federal Lobbying Works: A Complete Guide | OpenLobby',
+  title: 'How Federal Lobbying Works: A Complete Guide',
   description: 'Learn how federal lobbying works in the United States. Understand the Lobbying Disclosure Act, lobbyist registration, quarterly reports, the revolving door, and how $15.2 billion flows through Washington.',
   keywords: ['how lobbying works', 'what is lobbying', 'lobbying disclosure act', 'federal lobbying', 'lobbyist registration', 'K Street'],
   openGraph: {

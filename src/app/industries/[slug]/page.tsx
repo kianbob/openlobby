@@ -76,10 +76,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!d) return { title: 'Industry Not Found' }
   const label = INDUSTRY_LABELS[slug] || toTitleCase(d.industry)
   return {
-    title: `${label} Industry Lobbying: ${formatCurrency(d.totalSpending)} in Federal Influence — OpenLobby`,
+    title: `${label} Industry Lobbying: ${formatCurrency(d.totalSpending)} in Federal Influence`,
     description: `The ${label.toLowerCase()} industry has spent ${formatCurrency(d.totalSpending)} on federal lobbying across ${formatNumber(d.totalFilings)} filings from ${formatNumber(d.clientCount)} clients. See top spenders, issues, and trends.`,
     openGraph: {
-      title: `${label} Industry Lobbying — OpenLobby`,
+      title: `${label} Industry Lobbying`,
       description: `${formatCurrency(d.totalSpending)} spent by ${formatNumber(d.clientCount)} clients in the ${label.toLowerCase()} sector.`,
     },
   }
