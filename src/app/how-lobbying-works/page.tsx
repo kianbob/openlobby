@@ -31,7 +31,7 @@ export default function HowLobbyingWorksPage() {
         {[
           { value: '$37.7B', label: 'Total Lobbying (2018-2025)' },
           { value: '726,000+', label: 'Filings in Our Database' },
-          { value: '29,754', label: 'Registered Lobbyists' },
+          { value: '23,545', label: 'Registered Lobbyists' },
           { value: '79', label: 'Issue Categories' },
         ].map(s => (
           <div key={s.label} className="bg-indigo-50 rounded-xl p-4 text-center">

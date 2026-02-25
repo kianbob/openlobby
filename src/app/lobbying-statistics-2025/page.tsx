@@ -51,7 +51,7 @@ export default function LobbyingStatistics2025Page() {
           {[
             { value: '$37.7B', label: 'Total Lobbying Spending' },
             { value: '726,268', label: 'Total Filings' },
-            { value: '29,754', label: 'Unique Lobbyists' },
+            { value: '23,545', label: 'Unique Lobbyists' },
             { value: '5,000+', label: 'Revolving Door Officials' },
             { value: '79', label: 'Issue Categories' },
             { value: '1,591', label: 'Top Clients Tracked' },

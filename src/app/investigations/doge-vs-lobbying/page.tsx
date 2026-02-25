@@ -6,14 +6,14 @@ import SourceCitation from '@/components/SourceCitation'
 import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
-  title: 'DOGE Wants to Cut Government. $4.4 Billion in Lobbying Wants to Keep It.',
+  title: 'DOGE Wants to Cut Government. $5.2 Billion in Lobbying Wants to Keep It.',
   description: 'The Department of Government Efficiency wants to slash federal spending. But the lobbying industry spent a record $5.2 billion in 2024 to keep the money flowing. Here\'s who\'s fighting back.',
 }
 
 export default function DogeVsLobbyingPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "DOGE Wants to Cut Government. $4.4 Billion in Lobbying Wants to Keep It.", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "The Department of Government Efficiency wants to slash federal spending. But the lobbying industry spent a record $5.2 billion in 2024.", mainEntityOfPage: "https://www.openlobby.us/investigations/doge-vs-lobbying" }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "DOGE Wants to Cut Government. $5.2 Billion in Lobbying Wants to Keep It.", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "The Department of Government Efficiency wants to slash federal spending. But the lobbying industry spent a record $5.2 billion in 2024.", mainEntityOfPage: "https://www.openlobby.us/investigations/doge-vs-lobbying" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'DOGE vs. The Lobbying Machine' },
@@ -25,13 +25,13 @@ export default function DogeVsLobbyingPage() {
 
       <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
         DOGE Wants to Cut Government.{' '}
-        <span className="text-red-600">$4.4 Billion in Lobbying</span>{' '}
+        <span className="text-red-600">$5.2 Billion in Lobbying</span>{' '}
         Wants to Keep It.
       </h1>
 
       <p className="text-gray-500 mb-4">Published February 2026 · 12 min read</p>
 
-      <ShareButtons url="https://www.openlobby.us/investigations/doge-vs-lobbying" title="DOGE wants to cut government. $4.4 billion in lobbying wants to keep it." />
+      <ShareButtons url="https://www.openlobby.us/investigations/doge-vs-lobbying" title="DOGE wants to cut government. $5.2 billion in lobbying wants to keep it." />
 
       <QuickFacts facts={[
         { label: 'Total lobbying in 2025', value: '$2.7B' },
@@ -53,7 +53,7 @@ export default function DogeVsLobbyingPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The $4.4 Billion Machine</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The $5.2 Billion Machine</h2>
         
         <p>
           In 2024, federal lobbying hit an all-time record: <strong>$5.2 billion</strong>. That&apos;s $150 million more than 2023, 

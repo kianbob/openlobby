@@ -7,7 +7,7 @@ import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
   title: "The Lobbying Industrial Complex: 726,000 Filings, $37.7 Billion, and the Machine That Runs Washington",
-  description: 'A comprehensive look at the scale of federal lobbying: 726K+ filings, $37.7B in spending, 29,000+ lobbyists, and the growth trends reshaping American democracy.',
+  description: 'A comprehensive look at the scale of federal lobbying: 726K+ filings, $37.7B in spending, 23,500+ lobbyists, and the growth trends reshaping American democracy.',
 }
 
 export default function TheLobbyingIndustrialComplexPage() {
@@ -36,7 +36,7 @@ export default function TheLobbyingIndustrialComplexPage() {
       <QuickFacts facts={[
         { label: 'Total lobbying filings', value: '726,268' },
         { label: 'Total reported income', value: '$37.7B' },
-        { label: 'Registered lobbyists', value: '29,754' },
+        { label: 'Registered lobbyists', value: '23,545' },
         { label: 'Unique clients', value: '1,591+' },
       ]} />
 
@@ -44,7 +44,7 @@ export default function TheLobbyingIndustrialComplexPage() {
         <h2 className="text-lg font-bold text-indigo-700 mb-2">The Bottom Line</h2>
         <p className="text-gray-700">
           Federal lobbying in America is a <strong>$37.7 billion</strong> industry. Our dataset contains{' '}
-          <strong>726,000+ filings</strong> from <strong>29,754 lobbyists</strong> working for <strong>7,746 firms</strong>{' '}
+          <strong>726,000+ filings</strong> from <strong>23,545 lobbyists</strong> working for <strong>7,757 firms</strong>{' '}
           representing thousands of clients. Lobbying spending has grown every single year since 2018, reaching nearly{' '}
           <strong>$2 billion</strong> in 2024 alone. This is the machine that really runs Washington — and it&apos;s
           bigger than most people imagine.
@@ -66,7 +66,7 @@ export default function TheLobbyingIndustrialComplexPage() {
             {[
               { label: 'Total Filings', value: '726,268', sub: '2018–2025' },
               { label: 'Total Spending', value: '$37.7B', sub: 'Reported income' },
-              { label: 'Lobbyists', value: '29,754', sub: 'Unique registered' },
+              { label: 'Lobbyists', value: '23,545', sub: 'Unique registered' },
               { label: 'Lobbying Firms', value: '7,746', sub: 'Active firms' },
               { label: 'Clients', value: '1,591+', sub: 'Top indexed' },
               { label: 'Issues Tracked', value: '79', sub: 'Issue categories' },

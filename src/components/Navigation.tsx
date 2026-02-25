@@ -48,7 +48,7 @@ const navGroups = [
     items: [
       { name: 'All Investigations', href: '/investigations', desc: 'All 20+ deep-dive articles' },
       { name: 'The 22,000% ROI', href: '/investigations/the-22000-percent-roi', desc: 'Lobbying as America\'s best investment' },
-      { name: 'DOGE vs. The Lobbying Machine', href: '/investigations/doge-vs-lobbying', desc: 'Government efficiency meets $4.4B in lobbying' },
+      { name: 'DOGE vs. The Lobbying Machine', href: '/investigations/doge-vs-lobbying', desc: 'Government efficiency meets $5.2B in lobbying' },
       { name: 'The Revolving Door Exposed', href: '/investigations/revolving-door-exposed', desc: '5,000 former officials now lobby Congress' },
       { name: 'Big Pharma\'s $4.4B Bet', href: '/investigations/big-pharma-lobbying', desc: 'Healthcare industry\'s lobbying empire' },
       { name: 'Wall Street–Washington Pipeline', href: '/investigations/wall-street-washington-pipeline', desc: 'Finance lobbying shapes regulation' },
