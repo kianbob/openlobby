@@ -182,11 +182,11 @@ export default function CryptoLobbyingExplosionPage() {
         </p>
 
         <ul>
-          <li><strong>BAN (Banking)</strong> — Stablecoin regulation, banking access, and financial services rules</li>
-          <li><strong>FIN (Financial Institutions)</strong> — SEC and CFTC jurisdiction, market structure</li>
-          <li><strong>TAX (Taxation)</strong> — IRS reporting requirements, tax treatment of digital assets</li>
-          <li><strong>MON (Minting/Money/Gold Standard)</strong> — Digital currency policy and monetary system reform</li>
-          <li><strong>TEC (Technology)</strong> — Blockchain technology, DeFi protocols, and Web3 infrastructure</li>
+          <li><strong><Link href="/issues/BAN" className="text-primary hover:underline">BAN (Banking)</Link></strong> — Stablecoin regulation, banking access, and financial services rules</li>
+          <li><strong><Link href="/issues/FIN" className="text-primary hover:underline">FIN (Financial Institutions)</Link></strong> — SEC and CFTC jurisdiction, market structure</li>
+          <li><strong><Link href="/issues/TAX" className="text-primary hover:underline">TAX (Taxation)</Link></strong> — IRS reporting requirements, tax treatment of digital assets</li>
+          <li><strong><Link href="/issues/MON" className="text-primary hover:underline">MON (Minting/Money/Gold Standard)</Link></strong> — Digital currency policy and monetary system reform</li>
+          <li><strong><Link href="/issues/TEC" className="text-primary hover:underline">TEC (Technology)</Link></strong> — Blockchain technology, DeFi protocols, and Web3 infrastructure</li>
         </ul>
 
         <p>

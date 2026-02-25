@@ -109,10 +109,22 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
         </div>
       </div>
 
+      {/* Issue Areas */}
+      {d.issues.length > 0 && (
+        <section className="mb-8">
+          <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Issue Areas</h2>
+          <div className="flex flex-wrap gap-2">
+            {d.issues.map(issue => (
+              <Link key={issue} href={`/issues/${issue}`} className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">{issue}</Link>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* Yearly Activity */}
       {d.yearlyActivity.length > 0 && (
         <section className="mb-8">
-          <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Activity by Year</h2>
+          <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Filing History</h2>
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
             <table className="w-full text-sm">
               <thead className="bg-gray-50">

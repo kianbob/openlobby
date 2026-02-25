@@ -177,8 +177,8 @@ export default function ForeignInfluencePage() {
 
         <p>
           Foreign lobbying is legal and, in many ways, inevitable in a globalized economy. 
-          European automakers lobby on emissions standards. Japanese tech firms lobby on trade policy. 
-          Canadian energy companies lobby on pipeline permits.
+          European automakers lobby on <Link href="/issues/ENV" className="text-primary hover:underline">emissions standards</Link>. Japanese tech firms lobby on <Link href="/issues/TRD" className="text-primary hover:underline">trade policy</Link>. 
+          Canadian energy companies lobby on <Link href="/issues/ENG" className="text-primary hover:underline">pipeline permits</Link>.
         </p>
 
         <p>

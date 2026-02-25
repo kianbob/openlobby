@@ -200,7 +200,7 @@ export default function LobbyingVsContractsPage() {
         <h2 style={{ fontFamily: 'var(--font-serif)' }}>Defense Dominates — But It&apos;s Not Alone</h2>
 
         <p>
-          Defense contractors are heavily represented — Boeing, Raytheon, Lockheed Martin, General Dynamics, 
+          Defense contractors are heavily represented — <Link href="/clients/the-boeing-company" className="text-primary hover:underline">Boeing</Link>, Raytheon, <Link href="/clients/lockheed-martin-corporation" className="text-primary hover:underline">Lockheed Martin</Link>, General Dynamics, 
           BAE Systems, Huntington Ingalls. The Pentagon budget is the single largest discretionary spending category, 
           so it naturally attracts the most lobbying.
         </p>

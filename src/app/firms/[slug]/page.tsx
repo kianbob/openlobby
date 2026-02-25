@@ -1,11 +1,12 @@
 import { Metadata } from 'next'
 import fs from 'fs'
 import path from 'path'
+import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
-import { formatCurrency, toTitleCase, slugify } from '@/lib/format'
+import { formatCurrency, formatNumber, toTitleCase, slugify } from '@/lib/format'
 import { resolveFirmSlug, resolveClientSlug, resolveLobbyistSlug } from '@/lib/resolveSlug'
 
 interface FirmData {
@@ -70,7 +71,15 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
       <BreadcrumbJsonLd items={[{ name: 'Firms', href: '/firms' }, { name: toTitleCase(firm.name) }]} />
       <Breadcrumbs items={[{ name: 'Firms', href: '/firms' }, { name: toTitleCase(firm.name) }]} />
 
-      <h1 className="text-4xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>{toTitleCase(firm.name)}</h1>
+      <h1 className="text-4xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>{toTitleCase(firm.name)}</h1>
+
+      <p className="text-gray-600 mb-4 max-w-3xl leading-relaxed">
+        {toTitleCase(firm.name)} is a lobbying firm that has earned {formatCurrency(firm.totalIncome)} in lobbying income
+        across {formatNumber(firm.filings)} filings, representing {firm.clientCount} clients
+        {firm.years.length > 1 ? ` over ${firm.years.length} years (${Math.min(...firm.years)}–${Math.max(...firm.years)})` : ''}.
+        The firm employs {firm.lobbyists.length} lobbyist{firm.lobbyists.length !== 1 ? 's' : ''}
+        {firm.issues.length > 0 ? ` across ${firm.issues.length} policy issue areas` : ''}.
+      </p>
 
       <ShareButtons url={`https://www.openlobby.us/firms/${slug}`} title={`${toTitleCase(firm.name)} earned ${formatCurrency(firm.totalIncome)} in lobbying income`} />
 

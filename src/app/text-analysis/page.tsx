@@ -94,9 +94,19 @@ export default function TextAnalysisPage() {
       <p className="text-lg text-gray-600 mb-2">
         Language analysis of {data.totalDescriptions.toLocaleString()} lobbying activity descriptions
       </p>
-      <p className="text-sm text-gray-500 mb-8">
+      <p className="text-sm text-gray-500 mb-4">
         Click any word to see its yearly breakdown
       </p>
+
+      <div className="bg-amber-50 border-l-4 border-amber-400 p-4 mb-8 rounded-r-lg">
+        <p className="text-sm text-amber-900 leading-relaxed">
+          <strong>How to read this data:</strong> Every lobbying filing includes a description of what the lobbyist worked on.
+          By analyzing the language across {data.totalDescriptions.toLocaleString()} descriptions, we can identify policy priorities,
+          track emerging issues, and see which bills attract the most lobbying attention. <strong>Trending words</strong> signal
+          shifting industry priorities — a sudden spike in a term like &ldquo;tariff&rdquo; or &ldquo;AI&rdquo; often precedes major legislative action.
+          Browse <Link href="/issues" className="font-semibold text-amber-800 underline hover:text-amber-900">all issue areas</Link> for deeper analysis.
+        </p>
+      </div>
 
       <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
         <div className="flex items-start gap-3">
