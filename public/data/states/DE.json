@@ -1,1 +1,329 @@
-{"abbreviation":"DE","name":"Delaware","totalSpending":237825073,"totalFilings":3333,"clientCount":236,"yearlySpending":[{"year":2018,"income":3817500},{"year":2019,"income":5001000},{"year":2020,"income":6316000},{"year":2021,"income":8203500},{"year":2022,"income":10944000},{"year":2023,"income":32106000},{"year":2024,"income":12895500},{"year":2025,"income":158541573}],"topClients":[{"name":"STATE OF LOC NATION GLOBAL PUBLIC BENEFIT CORPORATION","income":140000000},{"name":"PARTNERSHIP TO ADDRESS GLOBAL EMISSIONS, INC.","income":9940000},{"name":"THE CHEMOURS COMPANY","income":5055000},{"name":"ASTRAZENECA PHARMACEUTICALS LP","income":4510000},{"name":"INCYTE CORPORATION","income":4400000},{"name":"ACORN CONSULTING OBO SHELL USA INC.","income":3010000},{"name":"DUPONT SPECIALTY PRODUCTS(PREVIOUSLY REPORTED AS E.I. DU PONT DE NEMOURS AND CO)","income":2930000},{"name":"INTELLECTUAL KEYSTONE TECHNOLOGY LLC","income":2930000},{"name":"SALLIE MAE BANK","income":2860000},{"name":"PROTECT THE 1ST, INC.","income":2225000},{"name":"W. L. GORE & ASSOCIATES, INC.","income":2130000},{"name":"ADVANCING MENTAL HEALTH FOR MILITARY FAMILIES, LLC","income":2050000},{"name":"SECRETARY OF STATE, STATE OF DELAWARE","income":2040000},{"name":"INFUSION PROVIDERS ALLIANCE","income":1840000},{"name":"BOMBARDIER AEROSPACE (HOLDINGS) USA INC (FORMER CLIENT BOMBARDIER TRANSIT CORP)","income":1620000},{"name":"DAR AL HANDASAH CONSULTANTS SHAIR & PARTNERS HOLDINGS LTD","income":1490000},{"name":"COLLEGE AVENUE STUDENT LOANS LLC","income":1420000},{"name":"BLACKROCK FUNDS SERVICES GROUP LLC (FKA BLACKROCK, INC.)","income":1300000},{"name":"STARMAN HOTEL HOLDINGS LLC","income":1230000},{"name":"BLACKROCK FUNDS SERVICES GROUP, LLC","income":1220000},{"name":"W. L. GORE & ASSOCIATES","income":1150000},{"name":"VELTA HOLDING USA INC","income":1120000},{"name":"W.L. GORE & ASSOCIATES","income":1020000},{"name":"INKIT INC.","income":960000},{"name":"IVANHOE ATLANTIC (FORMERLY HIGH POWER EXPLORATION INC.)","income":960000},{"name":"PRODUCE MARKETING ASSOCIATION","income":940000},{"name":"SLM CORPORATION","income":890000},{"name":"SYNGENTA CORPORATION","income":855000},{"name":"INTERDIGITAL","income":840000},{"name":"COMMERCIAL BANKRUPTCY ALLIANCE","income":830000},{"name":"CLEANWATTS, INC.","income":830000},{"name":"NRX PHARMACEUTICALS INC (FORMERLY KNOWN AS NEURORX)","income":800000},{"name":"BROOKFIELD RENEWABLE ENERGY MARKETING US LLC","income":790000},{"name":"BETTER MEDICARE ALLIANCE","income":770000},{"name":"ADYTON PBC","income":760000},{"name":"PV GROUP LIMITED","income":730000},{"name":"NEGATIVE EMISSIONS MATERIALS","income":720000},{"name":"CHESAPEAKE UTILITIES CORPORATION","income":720000},{"name":"COMPETITIVE MARKETS ACTION, INC.","income":710000},{"name":"FILECOIN FOUNDATION","income":660000},{"name":"CEDAR INNOVATION FOUNDATION","income":650000},{"name":"GLOBAL DIGITAL ASSET & CRYPTOCURRENCY ASSOCIATION D.B.A GLOBAL DCA","income":640000},{"name":"ADVANCE AMERICAN DEMOCRACY, INC.","income":580000},{"name":"CORTEVA AGRISCIENCE LLC","income":560000},{"name":"ENOVIS CORPORATION","income":550000},{"name":"PHYSICIANS FOR AMERICAN HEALTHCARE ACCESS","income":510000},{"name":"THE TRUST FOR PUBLIC LAND","income":490000},{"name":"SALIBA ACTION STRATEGIES (ON BEHALF OF ISLAMIC RELIEF WORLDWIDE)","income":490000},{"name":"MORGAN HUGHES ENERGY","income":450000},{"name":"BEST EGG, INC. FKA MARLETTE HOLDINGS, INC.","income":435000}],"topIssues":[{"code":"GOV","income":62529250},{"code":"ACC","income":60000000},{"code":"BUD","income":50407000},{"code":"CIV","income":42050000},{"code":"CON","income":40910000},{"code":"DEF","income":26617500},{"code":"EDU","income":25575000},{"code":"BAN","income":22520000},{"code":"UTI","income":21090000},{"code":"ECN","income":20470000},{"code":"ENG","income":15045000},{"code":"ENV","income":12814000},{"code":"HCR","income":11719000},{"code":"FIN","income":10500000},{"code":"FOR","income":10100000},{"code":"FUE","income":9430000},{"code":"TRA","income":9296000},{"code":"TRD","income":8475000},{"code":"MMM","income":8290000},{"code":"AGR","income":6365000}]}
+{
+  "abbreviation": "DE",
+  "name": "Delaware",
+  "totalSpending": 237825073,
+  "totalFilings": 3333,
+  "clientCount": 236,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 3817500
+    },
+    {
+      "year": 2019,
+      "income": 5001000
+    },
+    {
+      "year": 2020,
+      "income": 6316000
+    },
+    {
+      "year": 2021,
+      "income": 8203500
+    },
+    {
+      "year": 2022,
+      "income": 10944000
+    },
+    {
+      "year": 2023,
+      "income": 32106000
+    },
+    {
+      "year": 2024,
+      "income": 12895500
+    },
+    {
+      "year": 2025,
+      "income": 158541573
+    }
+  ],
+  "topClients": [
+    {
+      "name": "STATE OF LOC NATION GLOBAL PUBLIC BENEFIT CORPORATION",
+      "income": 140000000
+    },
+    {
+      "name": "PARTNERSHIP TO ADDRESS GLOBAL EMISSIONS, INC.",
+      "income": 9940000
+    },
+    {
+      "name": "THE CHEMOURS COMPANY",
+      "income": 5055000
+    },
+    {
+      "name": "ASTRAZENECA PHARMACEUTICALS LP",
+      "income": 4510000
+    },
+    {
+      "name": "INCYTE CORPORATION",
+      "income": 4400000
+    },
+    {
+      "name": "ACORN CONSULTING OBO SHELL USA INC.",
+      "income": 3010000
+    },
+    {
+      "name": "DUPONT SPECIALTY PRODUCTS(PREVIOUSLY REPORTED AS E.I. DU PONT DE NEMOURS AND CO)",
+      "income": 2930000
+    },
+    {
+      "name": "INTELLECTUAL KEYSTONE TECHNOLOGY LLC",
+      "income": 2930000
+    },
+    {
+      "name": "SALLIE MAE BANK",
+      "income": 2860000
+    },
+    {
+      "name": "PROTECT THE 1ST, INC.",
+      "income": 2225000
+    },
+    {
+      "name": "W. L. GORE & ASSOCIATES, INC.",
+      "income": 2130000
+    },
+    {
+      "name": "ADVANCING MENTAL HEALTH FOR MILITARY FAMILIES, LLC",
+      "income": 2050000
+    },
+    {
+      "name": "SECRETARY OF STATE, STATE OF DELAWARE",
+      "income": 2040000
+    },
+    {
+      "name": "INFUSION PROVIDERS ALLIANCE",
+      "income": 1840000
+    },
+    {
+      "name": "BOMBARDIER AEROSPACE (HOLDINGS) USA INC (FORMER CLIENT BOMBARDIER TRANSIT CORP)",
+      "income": 1620000
+    },
+    {
+      "name": "DAR AL HANDASAH CONSULTANTS SHAIR & PARTNERS HOLDINGS LTD",
+      "income": 1490000
+    },
+    {
+      "name": "COLLEGE AVENUE STUDENT LOANS LLC",
+      "income": 1420000
+    },
+    {
+      "name": "BLACKROCK FUNDS SERVICES GROUP LLC (FKA BLACKROCK, INC.)",
+      "income": 1300000
+    },
+    {
+      "name": "STARMAN HOTEL HOLDINGS LLC",
+      "income": 1230000
+    },
+    {
+      "name": "BLACKROCK FUNDS SERVICES GROUP, LLC",
+      "income": 1220000
+    },
+    {
+      "name": "W. L. GORE & ASSOCIATES",
+      "income": 1150000
+    },
+    {
+      "name": "VELTA HOLDING USA INC",
+      "income": 1120000
+    },
+    {
+      "name": "W.L. GORE & ASSOCIATES",
+      "income": 1020000
+    },
+    {
+      "name": "INKIT INC.",
+      "income": 960000
+    },
+    {
+      "name": "IVANHOE ATLANTIC (FORMERLY HIGH POWER EXPLORATION INC.)",
+      "income": 960000
+    },
+    {
+      "name": "PRODUCE MARKETING ASSOCIATION",
+      "income": 940000
+    },
+    {
+      "name": "SLM CORPORATION",
+      "income": 890000
+    },
+    {
+      "name": "SYNGENTA CORPORATION",
+      "income": 855000
+    },
+    {
+      "name": "INTERDIGITAL",
+      "income": 840000
+    },
+    {
+      "name": "COMMERCIAL BANKRUPTCY ALLIANCE",
+      "income": 830000
+    },
+    {
+      "name": "CLEANWATTS, INC.",
+      "income": 830000
+    },
+    {
+      "name": "NRX PHARMACEUTICALS INC (FORMERLY KNOWN AS NEURORX)",
+      "income": 800000
+    },
+    {
+      "name": "BROOKFIELD RENEWABLE ENERGY MARKETING US LLC",
+      "income": 790000
+    },
+    {
+      "name": "BETTER MEDICARE ALLIANCE",
+      "income": 770000
+    },
+    {
+      "name": "ADYTON PBC",
+      "income": 760000
+    },
+    {
+      "name": "PV GROUP LIMITED",
+      "income": 730000
+    },
+    {
+      "name": "NEGATIVE EMISSIONS MATERIALS",
+      "income": 720000
+    },
+    {
+      "name": "CHESAPEAKE UTILITIES CORPORATION",
+      "income": 720000
+    },
+    {
+      "name": "COMPETITIVE MARKETS ACTION, INC.",
+      "income": 710000
+    },
+    {
+      "name": "FILECOIN FOUNDATION",
+      "income": 660000
+    },
+    {
+      "name": "CEDAR INNOVATION FOUNDATION",
+      "income": 650000
+    },
+    {
+      "name": "GLOBAL DIGITAL ASSET & CRYPTOCURRENCY ASSOCIATION D.B.A GLOBAL DCA",
+      "income": 640000
+    },
+    {
+      "name": "ADVANCE AMERICAN DEMOCRACY, INC.",
+      "income": 580000
+    },
+    {
+      "name": "CORTEVA AGRISCIENCE LLC",
+      "income": 560000
+    },
+    {
+      "name": "ENOVIS CORPORATION",
+      "income": 550000
+    },
+    {
+      "name": "PHYSICIANS FOR AMERICAN HEALTHCARE ACCESS",
+      "income": 510000
+    },
+    {
+      "name": "THE TRUST FOR PUBLIC LAND",
+      "income": 490000
+    },
+    {
+      "name": "SALIBA ACTION STRATEGIES (ON BEHALF OF ISLAMIC RELIEF WORLDWIDE)",
+      "income": 490000
+    },
+    {
+      "name": "MORGAN HUGHES ENERGY",
+      "income": 450000
+    },
+    {
+      "name": "BEST EGG, INC. FKA MARLETTE HOLDINGS, INC.",
+      "income": 435000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "GOV",
+      "income": 62529250
+    },
+    {
+      "code": "ACC",
+      "income": 60000000
+    },
+    {
+      "code": "BUD",
+      "income": 50407000
+    },
+    {
+      "code": "CIV",
+      "income": 42050000
+    },
+    {
+      "code": "CON",
+      "income": 40910000
+    },
+    {
+      "code": "DEF",
+      "income": 26617500
+    },
+    {
+      "code": "EDU",
+      "income": 25575000
+    },
+    {
+      "code": "BAN",
+      "income": 22520000
+    },
+    {
+      "code": "UTI",
+      "income": 21090000
+    },
+    {
+      "code": "ECN",
+      "income": 20470000
+    },
+    {
+      "code": "ENG",
+      "income": 15045000
+    },
+    {
+      "code": "ENV",
+      "income": 12814000
+    },
+    {
+      "code": "HCR",
+      "income": 11719000
+    },
+    {
+      "code": "FIN",
+      "income": 10500000
+    },
+    {
+      "code": "FOR",
+      "income": 10100000
+    },
+    {
+      "code": "FUE",
+      "income": 9430000
+    },
+    {
+      "code": "TRA",
+      "income": 9296000
+    },
+    {
+      "code": "TRD",
+      "income": 8475000
+    },
+    {
+      "code": "MMM",
+      "income": 8290000
+    },
+    {
+      "code": "AGR",
+      "income": 6365000
+    }
+  ],
+  "perCapita": 303.98,
+  "population": 1031890,
+  "nationalRank": 17,
+  "perCapitaRank": 3
+}

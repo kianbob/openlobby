@@ -1,1 +1,329 @@
-{"abbreviation":"MD","name":"Maryland","totalSpending":335008642,"totalFilings":18399,"clientCount":1038,"yearlySpending":[{"year":2018,"income":28608170},{"year":2019,"income":28500445},{"year":2020,"income":31904400},{"year":2021,"income":33775750},{"year":2022,"income":39533750},{"year":2023,"income":85997200},{"year":2024,"income":39285000},{"year":2025,"income":47403927}],"topClients":[{"name":"RAFAEL USA, INC.","income":6315000},{"name":"LOCKHEED MARTIN CORPORATION","income":5625000},{"name":"CHRYSALIS HOLDINGS, INC. (D.B.A. NEWDAY)","income":4850000},{"name":"TRANSPORTATION INSTITUTE","income":4630000},{"name":"SINCLAIR BROADCAST GROUP","income":4340000},{"name":"MARRIOTT INTERNATIONAL, INC.","income":3820000},{"name":"DIGESTIVE HEALTH PHYSICIANS ASSOCIATION, INC.","income":3800000},{"name":"OTSUKA AMERICA PHARMACEUTICAL, INC.","income":3700000},{"name":"EMERGENT BIOSOLUTIONS","income":3620000},{"name":"AMERICAN KIDNEY FUND","income":3310000},{"name":"CAPTIAL FUNDING GROUP INC","income":3230000},{"name":"REDWOOD HOLDINGS, LLC FKA REDWOOD CAPITAL INVESTMENTS","income":3190000},{"name":"EMERGENT BIOSOLUTIONS INC.","income":3170000},{"name":"ADVENTIST HEALTHCARE","income":2370000},{"name":"THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC","income":2288000},{"name":"ASSOCIATION FOR MOLECULAR PATHOLOGY","income":2241000},{"name":"INSTITUTIONAL SHAREHOLDER SERVICES","income":2235000},{"name":"USA EB5 IMMIGRATION, LLC","income":2170000},{"name":"IONQ INC.","income":2170000},{"name":"ADVANCED ENVIRONMENTAL MONITORING HOLDINGS (AEMH)","income":2113000},{"name":"NOVAVAX, INC.","income":2030000},{"name":"KIDNEY TRANSPLANT COLLABORATIVE","income":1910000},{"name":"ENVIVA LLC (FORMERLY KNOWN AS ENVIVA LP)","income":1890000},{"name":"DISCOVERY COMMUNICATIONS","income":1860000},{"name":"THALES DEFENSE & SECURITY, INC.","income":1850000},{"name":"AMERICAN GASTROENTEROLOGICAL ASSOCIATION","income":1800000},{"name":"NORC AT THE UNIVERSITY OF CHICAGO","income":1800000},{"name":"UNITED STATES PHARMACOPEIAL CONVENTION","income":1780000},{"name":"MEDSTAR HEALTH","income":1765000},{"name":"CENTRUS ENERGY","income":1718000},{"name":"IRON MOUNTAIN","income":1700000},{"name":"AMERICAN ASSOCIATION OF COLLEGES OF OSTEOPATHIC MEDICINE","income":1675000},{"name":"PLASMA PROTEIN THERAPEUTICS ASSOCIATION","income":1650000},{"name":"NATIONAL ASPHALT PAVEMENT ASSOCIATION","income":1626500},{"name":"AMERICAN NURSES ASSOCIATION","income":1610000},{"name":"NATIONAL EMPLOYMENT OPPORTUNITIES NETWORK","income":1600000},{"name":"AMERICAN PODIATRIC MEDICAL ASSOCIATION","income":1580000},{"name":"LIFEBRIDGE HEALTH SYSTEM","income":1540000},{"name":"MARSH MCLENNAN","income":1520000},{"name":"ASSOCIATION OF INDEPENDENT RESEARCH INSTITUTES","income":1500000},{"name":"DELFI DIAGNOSTICS","income":1490000},{"name":"ALLIANCE FOR A STRONGER FDA","income":1470000},{"name":"MICROSOFT CORPORATION","income":1470000},{"name":"KROPP HOLDINGS, INC.","income":1450000},{"name":"VALNEVA USA, INC.","income":1430000},{"name":"FEDERATION OF AMERICAN SOCIETIES FOR EXPERIMENTAL BIOLOGY","income":1420000},{"name":"IBX, LLC","income":1410000},{"name":"SMX (FKA SMARTRONIX)","income":1370000},{"name":"SHEPPARD PRATT HEALTH SYSTEM","income":1330000},{"name":"AMERICAN SOCIETY OF PLANT BIOLOGISTS","income":1330000}],"topIssues":[{"code":"BUD","income":86508244},{"code":"HCR","income":73759250},{"code":"DEF","income":61920100},{"code":"TAX","income":34020583},{"code":"MMM","income":27226000},{"code":"ENG","income":17732800},{"code":"SCI","income":16560032},{"code":"HOM","income":15812500},{"code":"GOV","income":14764032},{"code":"TRA","income":12308000},{"code":"TRD","income":12295565},{"code":"HOU","income":11398000},{"code":"LBR","income":11242650},{"code":"EDU","income":10590500},{"code":"ENV","income":9940600},{"code":"MED","income":9359000},{"code":"FIN","income":8648350},{"code":"BAN","income":8432500},{"code":"MAR","income":8379000},{"code":"VET","income":7603333}]}
+{
+  "abbreviation": "MD",
+  "name": "Maryland",
+  "totalSpending": 335008642,
+  "totalFilings": 18399,
+  "clientCount": 1038,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 28608170
+    },
+    {
+      "year": 2019,
+      "income": 28500445
+    },
+    {
+      "year": 2020,
+      "income": 31904400
+    },
+    {
+      "year": 2021,
+      "income": 33775750
+    },
+    {
+      "year": 2022,
+      "income": 39533750
+    },
+    {
+      "year": 2023,
+      "income": 85997200
+    },
+    {
+      "year": 2024,
+      "income": 39285000
+    },
+    {
+      "year": 2025,
+      "income": 47403927
+    }
+  ],
+  "topClients": [
+    {
+      "name": "RAFAEL USA, INC.",
+      "income": 6315000
+    },
+    {
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "income": 5625000
+    },
+    {
+      "name": "CHRYSALIS HOLDINGS, INC. (D.B.A. NEWDAY)",
+      "income": 4850000
+    },
+    {
+      "name": "TRANSPORTATION INSTITUTE",
+      "income": 4630000
+    },
+    {
+      "name": "SINCLAIR BROADCAST GROUP",
+      "income": 4340000
+    },
+    {
+      "name": "MARRIOTT INTERNATIONAL, INC.",
+      "income": 3820000
+    },
+    {
+      "name": "DIGESTIVE HEALTH PHYSICIANS ASSOCIATION, INC.",
+      "income": 3800000
+    },
+    {
+      "name": "OTSUKA AMERICA PHARMACEUTICAL, INC.",
+      "income": 3700000
+    },
+    {
+      "name": "EMERGENT BIOSOLUTIONS",
+      "income": 3620000
+    },
+    {
+      "name": "AMERICAN KIDNEY FUND",
+      "income": 3310000
+    },
+    {
+      "name": "CAPTIAL FUNDING GROUP INC",
+      "income": 3230000
+    },
+    {
+      "name": "REDWOOD HOLDINGS, LLC FKA REDWOOD CAPITAL INVESTMENTS",
+      "income": 3190000
+    },
+    {
+      "name": "EMERGENT BIOSOLUTIONS INC.",
+      "income": 3170000
+    },
+    {
+      "name": "ADVENTIST HEALTHCARE",
+      "income": 2370000
+    },
+    {
+      "name": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+      "income": 2288000
+    },
+    {
+      "name": "ASSOCIATION FOR MOLECULAR PATHOLOGY",
+      "income": 2241000
+    },
+    {
+      "name": "INSTITUTIONAL SHAREHOLDER SERVICES",
+      "income": 2235000
+    },
+    {
+      "name": "USA EB5 IMMIGRATION, LLC",
+      "income": 2170000
+    },
+    {
+      "name": "IONQ INC.",
+      "income": 2170000
+    },
+    {
+      "name": "ADVANCED ENVIRONMENTAL MONITORING HOLDINGS (AEMH)",
+      "income": 2113000
+    },
+    {
+      "name": "NOVAVAX, INC.",
+      "income": 2030000
+    },
+    {
+      "name": "KIDNEY TRANSPLANT COLLABORATIVE",
+      "income": 1910000
+    },
+    {
+      "name": "ENVIVA LLC (FORMERLY KNOWN AS ENVIVA LP)",
+      "income": 1890000
+    },
+    {
+      "name": "DISCOVERY COMMUNICATIONS",
+      "income": 1860000
+    },
+    {
+      "name": "THALES DEFENSE & SECURITY, INC.",
+      "income": 1850000
+    },
+    {
+      "name": "AMERICAN GASTROENTEROLOGICAL ASSOCIATION",
+      "income": 1800000
+    },
+    {
+      "name": "NORC AT THE UNIVERSITY OF CHICAGO",
+      "income": 1800000
+    },
+    {
+      "name": "UNITED STATES PHARMACOPEIAL CONVENTION",
+      "income": 1780000
+    },
+    {
+      "name": "MEDSTAR HEALTH",
+      "income": 1765000
+    },
+    {
+      "name": "CENTRUS ENERGY",
+      "income": 1718000
+    },
+    {
+      "name": "IRON MOUNTAIN",
+      "income": 1700000
+    },
+    {
+      "name": "AMERICAN ASSOCIATION OF COLLEGES OF OSTEOPATHIC MEDICINE",
+      "income": 1675000
+    },
+    {
+      "name": "PLASMA PROTEIN THERAPEUTICS ASSOCIATION",
+      "income": 1650000
+    },
+    {
+      "name": "NATIONAL ASPHALT PAVEMENT ASSOCIATION",
+      "income": 1626500
+    },
+    {
+      "name": "AMERICAN NURSES ASSOCIATION",
+      "income": 1610000
+    },
+    {
+      "name": "NATIONAL EMPLOYMENT OPPORTUNITIES NETWORK",
+      "income": 1600000
+    },
+    {
+      "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION",
+      "income": 1580000
+    },
+    {
+      "name": "LIFEBRIDGE HEALTH SYSTEM",
+      "income": 1540000
+    },
+    {
+      "name": "MARSH MCLENNAN",
+      "income": 1520000
+    },
+    {
+      "name": "ASSOCIATION OF INDEPENDENT RESEARCH INSTITUTES",
+      "income": 1500000
+    },
+    {
+      "name": "DELFI DIAGNOSTICS",
+      "income": 1490000
+    },
+    {
+      "name": "ALLIANCE FOR A STRONGER FDA",
+      "income": 1470000
+    },
+    {
+      "name": "MICROSOFT CORPORATION",
+      "income": 1470000
+    },
+    {
+      "name": "KROPP HOLDINGS, INC.",
+      "income": 1450000
+    },
+    {
+      "name": "VALNEVA USA, INC.",
+      "income": 1430000
+    },
+    {
+      "name": "FEDERATION OF AMERICAN SOCIETIES FOR EXPERIMENTAL BIOLOGY",
+      "income": 1420000
+    },
+    {
+      "name": "IBX, LLC",
+      "income": 1410000
+    },
+    {
+      "name": "SMX (FKA SMARTRONIX)",
+      "income": 1370000
+    },
+    {
+      "name": "SHEPPARD PRATT HEALTH SYSTEM",
+      "income": 1330000
+    },
+    {
+      "name": "AMERICAN SOCIETY OF PLANT BIOLOGISTS",
+      "income": 1330000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 86508244
+    },
+    {
+      "code": "HCR",
+      "income": 73759250
+    },
+    {
+      "code": "DEF",
+      "income": 61920100
+    },
+    {
+      "code": "TAX",
+      "income": 34020583
+    },
+    {
+      "code": "MMM",
+      "income": 27226000
+    },
+    {
+      "code": "ENG",
+      "income": 17732800
+    },
+    {
+      "code": "SCI",
+      "income": 16560032
+    },
+    {
+      "code": "HOM",
+      "income": 15812500
+    },
+    {
+      "code": "GOV",
+      "income": 14764032
+    },
+    {
+      "code": "TRA",
+      "income": 12308000
+    },
+    {
+      "code": "TRD",
+      "income": 12295565
+    },
+    {
+      "code": "HOU",
+      "income": 11398000
+    },
+    {
+      "code": "LBR",
+      "income": 11242650
+    },
+    {
+      "code": "EDU",
+      "income": 10590500
+    },
+    {
+      "code": "ENV",
+      "income": 9940600
+    },
+    {
+      "code": "MED",
+      "income": 9359000
+    },
+    {
+      "code": "FIN",
+      "income": 8648350
+    },
+    {
+      "code": "BAN",
+      "income": 8432500
+    },
+    {
+      "code": "MAR",
+      "income": 8379000
+    },
+    {
+      "code": "VET",
+      "income": 7603333
+    }
+  ],
+  "perCapita": 110.11,
+  "population": 6180253,
+  "nationalRank": 9,
+  "perCapitaRank": 4
+}

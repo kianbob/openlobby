@@ -1,1 +1,329 @@
-{"abbreviation":"OK","name":"Oklahoma","totalSpending":82581087,"totalFilings":4145,"clientCount":226,"yearlySpending":[{"year":2018,"income":7596000},{"year":2019,"income":7079250},{"year":2020,"income":8417500},{"year":2021,"income":7399517},{"year":2022,"income":9306543},{"year":2023,"income":21243602},{"year":2024,"income":9867000},{"year":2025,"income":11671675}],"topClients":[{"name":"WILLIAMS COMPANIES","income":4250500},{"name":"CHICKASAW NATION","income":3740000},{"name":"AMERICAN FIDELITY CORPORATION","income":3520000},{"name":"OGE ENERGY CORP","income":2750000},{"name":"CHOCTAW NATION OF OKLAHOMA","income":2630000},{"name":"THE CHEROKEE NATION","income":2560000},{"name":"MAMMOTH ENERGY SERVICES INC","income":2210000},{"name":"MUSCOGEE CREEK NATION","income":2120000},{"name":"MUSKET CORPORATION","income":1710000},{"name":"CALIBER FINANCIAL SERVICES","income":1705000},{"name":"DEVON ENERGY","income":1390000},{"name":"LUGERT-ALTUS IRRIGATION DISTRICT","income":1350000},{"name":"THE UNIVERSITY OF TULSA","income":1250000},{"name":"BOARD OF REGENTS OF THE UNIVERSITY OF OKLAHOMA","income":1242000},{"name":"MAGELLAN MIDSTREAM PARTNERS","income":1190000},{"name":"OU MEDICINE, INC.","income":1180000},{"name":"THE WILLIAMS COMPANIES, INC.","income":1160000},{"name":"EXPAND ENERGY CORPORATION (FKA CHESAPEAKE ENERGY)","income":1110000},{"name":"DEVON ENERGY CORPORATION","income":1050000},{"name":"CITY OF ENID","income":1020000},{"name":"FRANCIS ENERGY","income":1020000},{"name":"ACORN GROWTH COMPANIES, LP","income":960000},{"name":"GEORGE KAISER FAMILY FOUNDATION","income":950000},{"name":"NATIONAL RURAL WATER ASSOCIATION","income":920000},{"name":"OSAGE CASINOS","income":880000},{"name":"GREATER CHEYENNE CHAMBER OF COMMERCE","income":870000},{"name":"FISTA DEVELOPMENT TRUST AUTHORITY","income":870000},{"name":"QUAPAW TRIBAL BUSINESS COMMITTEE","income":840000},{"name":"MIDWEST CITY MEMORIAL HOSPITAL AUTHORITY","income":840000},{"name":"CHEROKEE NATION","income":830000},{"name":"LIFESHARE TRANSPLANT DONOR SERVICES OF OKLAHOMA","income":800000},{"name":"OU HEALTH (FKA OU MEDICINE, INC.)","income":770000},{"name":"UNIVERSITY OF OKLAHOMA","income":770000},{"name":"LPC CONSERVATION LLC","income":767000},{"name":"STEVENS TRUCKING","income":750000},{"name":"MUSCOGEE (CREEK) NATION","income":730000},{"name":"UMICORE OPTICAL MATERIALS USA, INC.","income":720000},{"name":"CITY OF ADA, OK","income":700000},{"name":"ENABLE MIDSTREAM PARTNERS, LP","income":690000},{"name":"MID-AMERICA CHRISTIAN UNIVERISTY","income":680000},{"name":"GROUND WATER PROTECTION COUNCIL","income":660000},{"name":"STILWELL MEMORIAL HOSPITAL","income":640000},{"name":"NATIONAL WATERSHED COALITION","income":620000},{"name":"CHICKASAW TELEPHONE COMPANY","income":620000},{"name":"TOTAH COMMUNICATIONS, INC.","income":600000},{"name":"MIAMI TRIBE OF OKLAHOMA","income":577500},{"name":"UNIVERSITY OF TULSA","income":570000},{"name":"OKLAHOMA STATE UNIVERSITY CENTER FOR HEALTH SCIENCES","income":565000},{"name":"DISTRIBUTED WIND ENERGY ASSOCIATION","income":560000},{"name":"QUAPAW NATION","income":560000}],"topIssues":[{"code":"BUD","income":16686000},{"code":"IND","income":14245661},{"code":"ENG","income":12437844},{"code":"TAX","income":11892000},{"code":"DEF","income":9624500},{"code":"ENV","income":5967000},{"code":"FUE","income":5534000},{"code":"TRA","income":5247000},{"code":"HCR","income":4952000},{"code":"NAT","income":3878250},{"code":"UTI","income":3350000},{"code":"GAM","income":2840000},{"code":"HOM","income":2700000},{"code":"EDU","income":2577500},{"code":"FIN","income":2405031},{"code":"AGR","income":2379000},{"code":"SCI","income":2283000},{"code":"LBR","income":2070000},{"code":"TEC","income":1810000},{"code":"HOU","income":1620000}]}
+{
+  "abbreviation": "OK",
+  "name": "Oklahoma",
+  "totalSpending": 82581087,
+  "totalFilings": 4145,
+  "clientCount": 226,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 7596000
+    },
+    {
+      "year": 2019,
+      "income": 7079250
+    },
+    {
+      "year": 2020,
+      "income": 8417500
+    },
+    {
+      "year": 2021,
+      "income": 7399517
+    },
+    {
+      "year": 2022,
+      "income": 9306543
+    },
+    {
+      "year": 2023,
+      "income": 21243602
+    },
+    {
+      "year": 2024,
+      "income": 9867000
+    },
+    {
+      "year": 2025,
+      "income": 11671675
+    }
+  ],
+  "topClients": [
+    {
+      "name": "WILLIAMS COMPANIES",
+      "income": 4250500
+    },
+    {
+      "name": "CHICKASAW NATION",
+      "income": 3740000
+    },
+    {
+      "name": "AMERICAN FIDELITY CORPORATION",
+      "income": 3520000
+    },
+    {
+      "name": "OGE ENERGY CORP",
+      "income": 2750000
+    },
+    {
+      "name": "CHOCTAW NATION OF OKLAHOMA",
+      "income": 2630000
+    },
+    {
+      "name": "THE CHEROKEE NATION",
+      "income": 2560000
+    },
+    {
+      "name": "MAMMOTH ENERGY SERVICES INC",
+      "income": 2210000
+    },
+    {
+      "name": "MUSCOGEE CREEK NATION",
+      "income": 2120000
+    },
+    {
+      "name": "MUSKET CORPORATION",
+      "income": 1710000
+    },
+    {
+      "name": "CALIBER FINANCIAL SERVICES",
+      "income": 1705000
+    },
+    {
+      "name": "DEVON ENERGY",
+      "income": 1390000
+    },
+    {
+      "name": "LUGERT-ALTUS IRRIGATION DISTRICT",
+      "income": 1350000
+    },
+    {
+      "name": "THE UNIVERSITY OF TULSA",
+      "income": 1250000
+    },
+    {
+      "name": "BOARD OF REGENTS OF THE UNIVERSITY OF OKLAHOMA",
+      "income": 1242000
+    },
+    {
+      "name": "MAGELLAN MIDSTREAM PARTNERS",
+      "income": 1190000
+    },
+    {
+      "name": "OU MEDICINE, INC.",
+      "income": 1180000
+    },
+    {
+      "name": "THE WILLIAMS COMPANIES, INC.",
+      "income": 1160000
+    },
+    {
+      "name": "EXPAND ENERGY CORPORATION (FKA CHESAPEAKE ENERGY)",
+      "income": 1110000
+    },
+    {
+      "name": "DEVON ENERGY CORPORATION",
+      "income": 1050000
+    },
+    {
+      "name": "CITY OF ENID",
+      "income": 1020000
+    },
+    {
+      "name": "FRANCIS ENERGY",
+      "income": 1020000
+    },
+    {
+      "name": "ACORN GROWTH COMPANIES, LP",
+      "income": 960000
+    },
+    {
+      "name": "GEORGE KAISER FAMILY FOUNDATION",
+      "income": 950000
+    },
+    {
+      "name": "NATIONAL RURAL WATER ASSOCIATION",
+      "income": 920000
+    },
+    {
+      "name": "OSAGE CASINOS",
+      "income": 880000
+    },
+    {
+      "name": "GREATER CHEYENNE CHAMBER OF COMMERCE",
+      "income": 870000
+    },
+    {
+      "name": "FISTA DEVELOPMENT TRUST AUTHORITY",
+      "income": 870000
+    },
+    {
+      "name": "QUAPAW TRIBAL BUSINESS COMMITTEE",
+      "income": 840000
+    },
+    {
+      "name": "MIDWEST CITY MEMORIAL HOSPITAL AUTHORITY",
+      "income": 840000
+    },
+    {
+      "name": "CHEROKEE NATION",
+      "income": 830000
+    },
+    {
+      "name": "LIFESHARE TRANSPLANT DONOR SERVICES OF OKLAHOMA",
+      "income": 800000
+    },
+    {
+      "name": "OU HEALTH (FKA OU MEDICINE, INC.)",
+      "income": 770000
+    },
+    {
+      "name": "UNIVERSITY OF OKLAHOMA",
+      "income": 770000
+    },
+    {
+      "name": "LPC CONSERVATION LLC",
+      "income": 767000
+    },
+    {
+      "name": "STEVENS TRUCKING",
+      "income": 750000
+    },
+    {
+      "name": "MUSCOGEE (CREEK) NATION",
+      "income": 730000
+    },
+    {
+      "name": "UMICORE OPTICAL MATERIALS USA, INC.",
+      "income": 720000
+    },
+    {
+      "name": "CITY OF ADA, OK",
+      "income": 700000
+    },
+    {
+      "name": "ENABLE MIDSTREAM PARTNERS, LP",
+      "income": 690000
+    },
+    {
+      "name": "MID-AMERICA CHRISTIAN UNIVERISTY",
+      "income": 680000
+    },
+    {
+      "name": "GROUND WATER PROTECTION COUNCIL",
+      "income": 660000
+    },
+    {
+      "name": "STILWELL MEMORIAL HOSPITAL",
+      "income": 640000
+    },
+    {
+      "name": "NATIONAL WATERSHED COALITION",
+      "income": 620000
+    },
+    {
+      "name": "CHICKASAW TELEPHONE COMPANY",
+      "income": 620000
+    },
+    {
+      "name": "TOTAH COMMUNICATIONS, INC.",
+      "income": 600000
+    },
+    {
+      "name": "MIAMI TRIBE OF OKLAHOMA",
+      "income": 577500
+    },
+    {
+      "name": "UNIVERSITY OF TULSA",
+      "income": 570000
+    },
+    {
+      "name": "OKLAHOMA STATE UNIVERSITY CENTER FOR HEALTH SCIENCES",
+      "income": 565000
+    },
+    {
+      "name": "DISTRIBUTED WIND ENERGY ASSOCIATION",
+      "income": 560000
+    },
+    {
+      "name": "QUAPAW NATION",
+      "income": 560000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 16686000
+    },
+    {
+      "code": "IND",
+      "income": 14245661
+    },
+    {
+      "code": "ENG",
+      "income": 12437844
+    },
+    {
+      "code": "TAX",
+      "income": 11892000
+    },
+    {
+      "code": "DEF",
+      "income": 9624500
+    },
+    {
+      "code": "ENV",
+      "income": 5967000
+    },
+    {
+      "code": "FUE",
+      "income": 5534000
+    },
+    {
+      "code": "TRA",
+      "income": 5247000
+    },
+    {
+      "code": "HCR",
+      "income": 4952000
+    },
+    {
+      "code": "NAT",
+      "income": 3878250
+    },
+    {
+      "code": "UTI",
+      "income": 3350000
+    },
+    {
+      "code": "GAM",
+      "income": 2840000
+    },
+    {
+      "code": "HOM",
+      "income": 2700000
+    },
+    {
+      "code": "EDU",
+      "income": 2577500
+    },
+    {
+      "code": "FIN",
+      "income": 2405031
+    },
+    {
+      "code": "AGR",
+      "income": 2379000
+    },
+    {
+      "code": "SCI",
+      "income": 2283000
+    },
+    {
+      "code": "LBR",
+      "income": 2070000
+    },
+    {
+      "code": "TEC",
+      "income": 1810000
+    },
+    {
+      "code": "HOU",
+      "income": 1620000
+    }
+  ],
+  "perCapita": 26.33,
+  "population": 4053824,
+  "nationalRank": 34,
+  "perCapitaRank": 37
+}

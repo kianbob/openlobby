@@ -1,1 +1,217 @@
-{"abbreviation":"VT","name":"Vermont","totalSpending":5923000,"totalFilings":445,"clientCount":33,"yearlySpending":[{"year":2018,"income":360000},{"year":2019,"income":260000},{"year":2020,"income":120000},{"year":2021,"income":625000},{"year":2022,"income":1110000},{"year":2023,"income":1806000},{"year":2024,"income":615000},{"year":2025,"income":1027000}],"topClients":[{"name":"UNIVERSITY OF VERMONT AND STATE AGRICULTURAL COLLEGE","income":870000},{"name":"BETA TECHNOLOGIES, INC.","income":650000},{"name":"REVISION MILITARY INC.","income":580000},{"name":"BETA TECHNOLOGIES","income":550000},{"name":"BETA, INC.","income":510000},{"name":"OSHKOSH CORPORATION","income":480000},{"name":"ANTERIX","income":265000},{"name":"VERMONT TELEPHONE COMPANY","income":250000},{"name":"LIQUID MEASUREMENT SYSTEMS","income":240000},{"name":"NATIONAL ASSOCIATION OF STATE HEAD INJURY ADMINISTRATORS","income":240000},{"name":"LIT COMMUNITIES","income":240000},{"name":"GREENSEA IQ","income":210000},{"name":"TRANSCEND ENGINEERING","income":197000},{"name":"MVP ROBOTICS, INC.","income":140000},{"name":"VERMONT CAPTIVE INSURANCE ASSOCIATION","income":122000},{"name":"REVISION MILITARY","income":110000},{"name":"GPMS INTERNATIONAL","income":80000},{"name":"BENNINGTON COLLEGE","income":55000},{"name":"ELLIS STRATEGY LLC ON BEHALF OF ADVOQUE SAFEGUARD","income":40000},{"name":"REVISION MILITARY LTD","income":20000},{"name":"MOBILE MEDICAL INTERNATIONAL CORPORATION (MMIC)","income":20000},{"name":"ELLIS STRATEGY ON BEHALF OF US MEDICAL NONWOVENS CO.","income":20000},{"name":"VERMONT INSTITUTE OF NATURAL SCIENCE","income":14000},{"name":"VERMONT COUNTRY STORE","income":10000},{"name":"BENCHMARK SPACE SYSTEMS","income":10000}],"topIssues":[{"code":"DEF","income":2891000},{"code":"BUD","income":1470000},{"code":"TRA","income":1100000},{"code":"HCR","income":610000},{"code":"AVI","income":590000},{"code":"SCI","income":380000},{"code":"TEC","income":365000},{"code":"ENG","income":340000},{"code":"COM","income":230000},{"code":"AGR","income":200000},{"code":"GOV","income":170000},{"code":"URB","income":150000},{"code":"INS","income":122000},{"code":"EDU","income":57000},{"code":"TAX","income":36000},{"code":"FIN","income":32000},{"code":"TAR","income":10000}]}
+{
+  "abbreviation": "VT",
+  "name": "Vermont",
+  "totalSpending": 5923000,
+  "totalFilings": 445,
+  "clientCount": 33,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 360000
+    },
+    {
+      "year": 2019,
+      "income": 260000
+    },
+    {
+      "year": 2020,
+      "income": 120000
+    },
+    {
+      "year": 2021,
+      "income": 625000
+    },
+    {
+      "year": 2022,
+      "income": 1110000
+    },
+    {
+      "year": 2023,
+      "income": 1806000
+    },
+    {
+      "year": 2024,
+      "income": 615000
+    },
+    {
+      "year": 2025,
+      "income": 1027000
+    }
+  ],
+  "topClients": [
+    {
+      "name": "UNIVERSITY OF VERMONT AND STATE AGRICULTURAL COLLEGE",
+      "income": 870000
+    },
+    {
+      "name": "BETA TECHNOLOGIES, INC.",
+      "income": 650000
+    },
+    {
+      "name": "REVISION MILITARY INC.",
+      "income": 580000
+    },
+    {
+      "name": "BETA TECHNOLOGIES",
+      "income": 550000
+    },
+    {
+      "name": "BETA, INC.",
+      "income": 510000
+    },
+    {
+      "name": "OSHKOSH CORPORATION",
+      "income": 480000
+    },
+    {
+      "name": "ANTERIX",
+      "income": 265000
+    },
+    {
+      "name": "VERMONT TELEPHONE COMPANY",
+      "income": 250000
+    },
+    {
+      "name": "LIQUID MEASUREMENT SYSTEMS",
+      "income": 240000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF STATE HEAD INJURY ADMINISTRATORS",
+      "income": 240000
+    },
+    {
+      "name": "LIT COMMUNITIES",
+      "income": 240000
+    },
+    {
+      "name": "GREENSEA IQ",
+      "income": 210000
+    },
+    {
+      "name": "TRANSCEND ENGINEERING",
+      "income": 197000
+    },
+    {
+      "name": "MVP ROBOTICS, INC.",
+      "income": 140000
+    },
+    {
+      "name": "VERMONT CAPTIVE INSURANCE ASSOCIATION",
+      "income": 122000
+    },
+    {
+      "name": "REVISION MILITARY",
+      "income": 110000
+    },
+    {
+      "name": "GPMS INTERNATIONAL",
+      "income": 80000
+    },
+    {
+      "name": "BENNINGTON COLLEGE",
+      "income": 55000
+    },
+    {
+      "name": "ELLIS STRATEGY LLC ON BEHALF OF ADVOQUE SAFEGUARD",
+      "income": 40000
+    },
+    {
+      "name": "REVISION MILITARY LTD",
+      "income": 20000
+    },
+    {
+      "name": "MOBILE MEDICAL INTERNATIONAL CORPORATION (MMIC)",
+      "income": 20000
+    },
+    {
+      "name": "ELLIS STRATEGY ON BEHALF OF US MEDICAL NONWOVENS CO.",
+      "income": 20000
+    },
+    {
+      "name": "VERMONT INSTITUTE OF NATURAL SCIENCE",
+      "income": 14000
+    },
+    {
+      "name": "VERMONT COUNTRY STORE",
+      "income": 10000
+    },
+    {
+      "name": "BENCHMARK SPACE SYSTEMS",
+      "income": 10000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "DEF",
+      "income": 2891000
+    },
+    {
+      "code": "BUD",
+      "income": 1470000
+    },
+    {
+      "code": "TRA",
+      "income": 1100000
+    },
+    {
+      "code": "HCR",
+      "income": 610000
+    },
+    {
+      "code": "AVI",
+      "income": 590000
+    },
+    {
+      "code": "SCI",
+      "income": 380000
+    },
+    {
+      "code": "TEC",
+      "income": 365000
+    },
+    {
+      "code": "ENG",
+      "income": 340000
+    },
+    {
+      "code": "COM",
+      "income": 230000
+    },
+    {
+      "code": "AGR",
+      "income": 200000
+    },
+    {
+      "code": "GOV",
+      "income": 170000
+    },
+    {
+      "code": "URB",
+      "income": 150000
+    },
+    {
+      "code": "INS",
+      "income": 122000
+    },
+    {
+      "code": "EDU",
+      "income": 57000
+    },
+    {
+      "code": "TAX",
+      "income": 36000
+    },
+    {
+      "code": "FIN",
+      "income": 32000
+    },
+    {
+      "code": "TAR",
+      "income": 10000
+    }
+  ],
+  "perCapita": 8.64,
+  "population": 647464,
+  "nationalRank": 54,
+  "perCapitaRank": 51
+}

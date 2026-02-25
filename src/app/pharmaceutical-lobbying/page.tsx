@@ -155,6 +155,36 @@ export default function PharmaceuticalLobbyingPage() {
           <p className="text-sm text-gray-600 mt-1">Big Pharma deep-dive</p>
         </Link>
       </div>
+
+      <div className="mt-12">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Dive Deeper</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/investigations/healthcare-3-billion-bet" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🏥 Healthcare&apos;s $3B Bet</div>
+            <div className="text-xs text-gray-500 mt-1">The healthcare industry&apos;s massive investment</div>
+          </Link>
+          <Link href="/investigations/lobbying-vs-contracts" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💰 Lobbying vs. Contracts</div>
+            <div className="text-xs text-gray-500 mt-1">Does lobbying translate to government contracts?</div>
+          </Link>
+          <Link href="/momentum" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🚀 Spending Momentum</div>
+            <div className="text-xs text-gray-500 mt-1">Is pharma lobbying surging or declining?</div>
+          </Link>
+          <Link href="/clients" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">👤 Top Clients</div>
+            <div className="text-xs text-gray-500 mt-1">Compare pharma to other industries</div>
+          </Link>
+          <Link href="/industries" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🏭 All Industries</div>
+            <div className="text-xs text-gray-500 mt-1">Cross-industry comparison</div>
+          </Link>
+          <Link href="/how-lobbying-works" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📖 How Lobbying Works</div>
+            <div className="text-xs text-gray-500 mt-1">The complete guide</div>
+          </Link>
+        </div>
+      </div>
     </article>
   )
 }

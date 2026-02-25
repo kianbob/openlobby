@@ -1,1 +1,329 @@
-{"abbreviation":"PA","name":"Pennsylvania","totalSpending":411587865,"totalFilings":20299,"clientCount":1197,"yearlySpending":[{"year":2018,"income":33585752},{"year":2019,"income":33724656},{"year":2020,"income":36363652},{"year":2021,"income":39709405},{"year":2022,"income":47477944},{"year":2023,"income":110062156},{"year":2024,"income":50791122},{"year":2025,"income":59873178}],"topClients":[{"name":"COMCAST CORPORATION","income":10405750},{"name":"CONSTELLATION ENERGY GENERATION, LLC","income":5790000},{"name":"UNITED STATES STEEL CORPORATION","income":5400000},{"name":"ENDO USA, INC., A MALLINCKRODT-ENDO COMPANY","income":5350000},{"name":"VIATRIS INC","income":5060000},{"name":"THOMAS JEFFERSON UNIVERSITY","income":4900000},{"name":"SELECT MEDICAL CORPORATION","income":4760000},{"name":"ALLIED UNIVERSAL (F/K/A ALLIED BARTON SECURITY SERVICES)","income":4000000},{"name":"ACA CONNECTS - AMERICA'S COMMUNICATION ASSOCIATION","income":3960000},{"name":"UNIVERSITY OF PITTSBURGH MEDICAL CENTER","income":3790000},{"name":"THE VANGUARD GROUP, INC.","income":3590000},{"name":"AGUSTAWESTLAND PHILADELPHIA CORPORATION","income":3580000},{"name":"RAJANT CORPORATION","income":3347500},{"name":"CNX RESOURCES CORPORATION","income":3330000},{"name":"NATIONAL LIFELINE ASSOCIATION","income":3010000},{"name":"AIR PRODUCTS AND CHEMICALS, INC.","income":3000000},{"name":"B. BRAUN MEDICAL INC.","income":2770000},{"name":"RENAL HEALTHCARE ASSOCIATION","income":2740000},{"name":"RWC-340B","income":2700000},{"name":"NLMK PENNSYLVANIA","income":2690000},{"name":"AMERIHEALTH CARITAS","income":2615000},{"name":"RITE AID CORPORATION","income":2600000},{"name":"ARAMARK SERVICES, INC.","income":2555000},{"name":"SPARK THERAPEUTICS, INC.","income":2440000},{"name":"DREXEL UNIVERSITY","income":2365000},{"name":"UPMC","income":2350000},{"name":"WABTEC CORPORATION","income":2260000},{"name":"COHERENT","income":2240000},{"name":"BALFOUR BEATTY COMMUNITIES","income":2180000},{"name":"PHILLY SHIPYARD","income":2180000},{"name":"CSL BEHRING","income":2070000},{"name":"CSL BEHRING LLC","income":2070000},{"name":"SAGENT M&C, LLC","income":2050000},{"name":"PPG INDUSTRIES","income":2036000},{"name":"STARKIST CO","income":2030000},{"name":"EQUITRANS MIDSTREAM CORPORATION","income":1960000},{"name":"SOLVD HEALTH","income":1870000},{"name":"ALLEGHENY COUNTY AIRPORT AUTHORITY","income":1850000},{"name":"THE PNC FINANCIAL SERVICES GROUP","income":1830000},{"name":"LUTRON ELECTRONICS CO., INC.","income":1795000},{"name":"RICOH USA, INC.","income":1780000},{"name":"DELAWARE VALLEY REGIONAL CENTER","income":1769500},{"name":"HARMONY BIOSCIENCES","income":1730000},{"name":"SIEMENS MEDICAL SOLUTIONS USA, INC.","income":1720000},{"name":"THE CHILDREN'S HOSPITAL OF PHILADELPHIA","income":1710000},{"name":"VANGUARD CHARITABLE","income":1690000},{"name":"NATIONAL PHILANTHROPIC TRUST","income":1630000},{"name":"BA SECURITIES, LLC","income":1620000},{"name":"NOVOCURE INC.","income":1620000},{"name":"DAY & ZIMMERMANN GROUP, INC.","income":1620000}],"topIssues":[{"code":"HCR","income":91169818},{"code":"BUD","income":72785935},{"code":"DEF","income":48992365},{"code":"MMM","income":43755303},{"code":"TAX","income":38221629},{"code":"ENG","income":29959617},{"code":"TRA","income":27983777},{"code":"TRD","income":25212427},{"code":"MAN","income":21059500},{"code":"ENV","income":19358849},{"code":"FIN","income":17598250},{"code":"LBR","income":15822400},{"code":"PHA","income":14787174},{"code":"EDU","income":13337496},{"code":"SCI","income":11534500},{"code":"AGR","income":11046750},{"code":"TEC","income":10442448},{"code":"GOV","income":9367500},{"code":"COM","income":7987250},{"code":"INS","income":7271750}]}
+{
+  "abbreviation": "PA",
+  "name": "Pennsylvania",
+  "totalSpending": 411587865,
+  "totalFilings": 20299,
+  "clientCount": 1197,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 33585752
+    },
+    {
+      "year": 2019,
+      "income": 33724656
+    },
+    {
+      "year": 2020,
+      "income": 36363652
+    },
+    {
+      "year": 2021,
+      "income": 39709405
+    },
+    {
+      "year": 2022,
+      "income": 47477944
+    },
+    {
+      "year": 2023,
+      "income": 110062156
+    },
+    {
+      "year": 2024,
+      "income": 50791122
+    },
+    {
+      "year": 2025,
+      "income": 59873178
+    }
+  ],
+  "topClients": [
+    {
+      "name": "COMCAST CORPORATION",
+      "income": 10405750
+    },
+    {
+      "name": "CONSTELLATION ENERGY GENERATION, LLC",
+      "income": 5790000
+    },
+    {
+      "name": "UNITED STATES STEEL CORPORATION",
+      "income": 5400000
+    },
+    {
+      "name": "ENDO USA, INC., A MALLINCKRODT-ENDO COMPANY",
+      "income": 5350000
+    },
+    {
+      "name": "VIATRIS INC",
+      "income": 5060000
+    },
+    {
+      "name": "THOMAS JEFFERSON UNIVERSITY",
+      "income": 4900000
+    },
+    {
+      "name": "SELECT MEDICAL CORPORATION",
+      "income": 4760000
+    },
+    {
+      "name": "ALLIED UNIVERSAL (F/K/A ALLIED BARTON SECURITY SERVICES)",
+      "income": 4000000
+    },
+    {
+      "name": "ACA CONNECTS - AMERICA'S COMMUNICATION ASSOCIATION",
+      "income": 3960000
+    },
+    {
+      "name": "UNIVERSITY OF PITTSBURGH MEDICAL CENTER",
+      "income": 3790000
+    },
+    {
+      "name": "THE VANGUARD GROUP, INC.",
+      "income": 3590000
+    },
+    {
+      "name": "AGUSTAWESTLAND PHILADELPHIA CORPORATION",
+      "income": 3580000
+    },
+    {
+      "name": "RAJANT CORPORATION",
+      "income": 3347500
+    },
+    {
+      "name": "CNX RESOURCES CORPORATION",
+      "income": 3330000
+    },
+    {
+      "name": "NATIONAL LIFELINE ASSOCIATION",
+      "income": 3010000
+    },
+    {
+      "name": "AIR PRODUCTS AND CHEMICALS, INC.",
+      "income": 3000000
+    },
+    {
+      "name": "B. BRAUN MEDICAL INC.",
+      "income": 2770000
+    },
+    {
+      "name": "RENAL HEALTHCARE ASSOCIATION",
+      "income": 2740000
+    },
+    {
+      "name": "RWC-340B",
+      "income": 2700000
+    },
+    {
+      "name": "NLMK PENNSYLVANIA",
+      "income": 2690000
+    },
+    {
+      "name": "AMERIHEALTH CARITAS",
+      "income": 2615000
+    },
+    {
+      "name": "RITE AID CORPORATION",
+      "income": 2600000
+    },
+    {
+      "name": "ARAMARK SERVICES, INC.",
+      "income": 2555000
+    },
+    {
+      "name": "SPARK THERAPEUTICS, INC.",
+      "income": 2440000
+    },
+    {
+      "name": "DREXEL UNIVERSITY",
+      "income": 2365000
+    },
+    {
+      "name": "UPMC",
+      "income": 2350000
+    },
+    {
+      "name": "WABTEC CORPORATION",
+      "income": 2260000
+    },
+    {
+      "name": "COHERENT",
+      "income": 2240000
+    },
+    {
+      "name": "BALFOUR BEATTY COMMUNITIES",
+      "income": 2180000
+    },
+    {
+      "name": "PHILLY SHIPYARD",
+      "income": 2180000
+    },
+    {
+      "name": "CSL BEHRING",
+      "income": 2070000
+    },
+    {
+      "name": "CSL BEHRING LLC",
+      "income": 2070000
+    },
+    {
+      "name": "SAGENT M&C, LLC",
+      "income": 2050000
+    },
+    {
+      "name": "PPG INDUSTRIES",
+      "income": 2036000
+    },
+    {
+      "name": "STARKIST CO",
+      "income": 2030000
+    },
+    {
+      "name": "EQUITRANS MIDSTREAM CORPORATION",
+      "income": 1960000
+    },
+    {
+      "name": "SOLVD HEALTH",
+      "income": 1870000
+    },
+    {
+      "name": "ALLEGHENY COUNTY AIRPORT AUTHORITY",
+      "income": 1850000
+    },
+    {
+      "name": "THE PNC FINANCIAL SERVICES GROUP",
+      "income": 1830000
+    },
+    {
+      "name": "LUTRON ELECTRONICS CO., INC.",
+      "income": 1795000
+    },
+    {
+      "name": "RICOH USA, INC.",
+      "income": 1780000
+    },
+    {
+      "name": "DELAWARE VALLEY REGIONAL CENTER",
+      "income": 1769500
+    },
+    {
+      "name": "HARMONY BIOSCIENCES",
+      "income": 1730000
+    },
+    {
+      "name": "SIEMENS MEDICAL SOLUTIONS USA, INC.",
+      "income": 1720000
+    },
+    {
+      "name": "THE CHILDREN'S HOSPITAL OF PHILADELPHIA",
+      "income": 1710000
+    },
+    {
+      "name": "VANGUARD CHARITABLE",
+      "income": 1690000
+    },
+    {
+      "name": "NATIONAL PHILANTHROPIC TRUST",
+      "income": 1630000
+    },
+    {
+      "name": "BA SECURITIES, LLC",
+      "income": 1620000
+    },
+    {
+      "name": "NOVOCURE INC.",
+      "income": 1620000
+    },
+    {
+      "name": "DAY & ZIMMERMANN GROUP, INC.",
+      "income": 1620000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "HCR",
+      "income": 91169818
+    },
+    {
+      "code": "BUD",
+      "income": 72785935
+    },
+    {
+      "code": "DEF",
+      "income": 48992365
+    },
+    {
+      "code": "MMM",
+      "income": 43755303
+    },
+    {
+      "code": "TAX",
+      "income": 38221629
+    },
+    {
+      "code": "ENG",
+      "income": 29959617
+    },
+    {
+      "code": "TRA",
+      "income": 27983777
+    },
+    {
+      "code": "TRD",
+      "income": 25212427
+    },
+    {
+      "code": "MAN",
+      "income": 21059500
+    },
+    {
+      "code": "ENV",
+      "income": 19358849
+    },
+    {
+      "code": "FIN",
+      "income": 17598250
+    },
+    {
+      "code": "LBR",
+      "income": 15822400
+    },
+    {
+      "code": "PHA",
+      "income": 14787174
+    },
+    {
+      "code": "EDU",
+      "income": 13337496
+    },
+    {
+      "code": "SCI",
+      "income": 11534500
+    },
+    {
+      "code": "AGR",
+      "income": 11046750
+    },
+    {
+      "code": "TEC",
+      "income": 10442448
+    },
+    {
+      "code": "GOV",
+      "income": 9367500
+    },
+    {
+      "code": "COM",
+      "income": 7987250
+    },
+    {
+      "code": "INS",
+      "income": 7271750
+    }
+  ],
+  "perCapita": 48.56,
+  "population": 12961683,
+  "nationalRank": 10,
+  "perCapitaRank": 15
+}

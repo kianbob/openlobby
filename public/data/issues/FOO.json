@@ -1,1 +1,557 @@
-{"code":"FOO","name":"Food Industry","totalSpending":174365592.05,"totalFilings":8411,"yearlySpending":[{"year":2018,"income":16594713.05,"filings":967},{"year":2019,"income":15930500,"filings":909},{"year":2020,"income":19408000,"filings":1021},{"year":2021,"income":19515000,"filings":928},{"year":2022,"income":22145129,"filings":1096},{"year":2023,"income":25816500,"filings":1215},{"year":2024,"income":23676000,"filings":1020},{"year":2025,"income":31279750,"filings":1255}],"topClients":[{"name":"AMERICAN BEVERAGE ASSOCIATION","income":6470000},{"name":"PEPSICO, INC.","income":4100000},{"name":"NATIONAL ASSOCIATION OF CONVENIENCE STORES","income":3790000},{"name":"MAPLEBEAR INC. D/B/A INSTACART","income":3450000},{"name":"CONSUMER BRANDS ASSOCIATION","income":3210000},{"name":"MCDONALD'S CORPORATION","income":2920000},{"name":"NATIONAL WATER RESOURCES ASSOCIATION","income":2640000},{"name":"THAI UNION GROUP PCL","income":2595000},{"name":"PEPSICO","income":1870000},{"name":"H-E-B","income":1800000},{"name":"STARKIST CO","income":1790000},{"name":"SNAC INTERNATIONAL","income":1740000},{"name":"NATURAL PRODUCTS ASSOCIATION","income":1687000},{"name":"CJ AMERICA, INC.","income":1680000},{"name":"AQUABOUNTY TECHNOLOGIES, INC.","income":1660000},{"name":"AMERICAN HONEY PRODUCERS ASSOCIATION","income":1640000},{"name":"DANONE NORTH AMERICA PUBLIC BENEFIT CORPORATION","income":1560000},{"name":"ALBERTSONS COMPANIES INC.","income":1560000},{"name":"ABBOTT LABORATORIES","income":1550000},{"name":"INTERNATIONAL BOTTLED WATER ASSOCIATION","income":1500000},{"name":"DINE BRANDS GLOBAL INC.","income":1430000},{"name":"NATIONAL TURKEY FEDERATION","income":1410000},{"name":"DOORDASH","income":1385000},{"name":"SOCIETY OF INDEPENDENT GASOLINE MARKETERS OF AMERICA","income":1370000},{"name":"H-E-B GROCERY COMPANY, LP","income":1360000},{"name":"UNITED EGG PRODUCERS","income":1330000},{"name":"THE AMALGAMATED SUGAR COMPANY LLC","income":1320000},{"name":"GS1 US","income":1290000},{"name":"PROLACTA BIOSCIENCE, INC.","income":1280000},{"name":"PET FOOD INSTITUTE","income":1240000},{"name":"ALBERTSONS COMPANIES, INC.","income":1240000},{"name":"AMERICAN SHEEP INDUSTRY ASSOCIATION","income":1210000},{"name":"NATIONAL FISHERIES INSTITUTE","income":1200000},{"name":"DIAMOND PET FOODS INC.","income":1190000},{"name":"THE CAMPBELL'S COMPANY (FKA CAMPBELL SOUP COMPANY)","income":1180000},{"name":"THE KROGER CO.","income":1170000},{"name":"CARGILL, INCORPORATED","income":1170000},{"name":"BLUE DIAMOND GROWERS","income":1160000},{"name":"BYHEART, INC.","income":1160000},{"name":"INTERNATIONAL FRESH PRODUCE ASSOCIATION","income":1160000},{"name":"MCCAIN FOODS USA, INC.","income":1150000},{"name":"SUSTAINABLE FOOD POLICY ALLIANCE","income":1140000},{"name":"CERBERUS CAPITAL MANAGEMENT, L.P.","income":1140000},{"name":"PHARMAVITE LLC","income":1120000},{"name":"ANHEUSER-BUSCH COMPANIES, INC.","income":1120000},{"name":"STARBUCKS CORPORATION","income":1040000},{"name":"FISHER & PHILLIPS LLP, ON BEHALF OF FORTREX, INC. LTD.","income":1000000},{"name":"FORETREX, INC. LTD (FORMERLY PACKERS SANITATION SERVICES, INC., LTD.)","income":990000},{"name":"SOUTHERN SHRIMP ALLIANCE","income":965000},{"name":"SOUTH EAST DAIRY FARMERS ASSOCIATION","income":960000}],"topFirms":[{"name":"INVARIANT LLC","income":13210000},{"name":"THE RUSSELL GROUP, INC.","income":8500000},{"name":"TORREY ADVISORY GROUP (FORMERLY MICHAEL TORREY ASSOCIATES, LLC)","income":7290000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":6080000},{"name":"BGR GOVERNMENT AFFAIRS","income":5420000},{"name":"STEPTOE LLP","income":5330000},{"name":"FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)","income":5170000},{"name":"AVOQ, LLC","income":4380000},{"name":"MONUMENT ADVOCACY","income":4380000},{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":3400000},{"name":"WATER STRATEGIES, LLC","income":3140000},{"name":"HARBINGER STRATEGIES, LLC","income":3040000},{"name":"HOLLAND & KNIGHT LLP","income":2730000},{"name":"BRACEWELL LLP","income":2595000},{"name":"S-3 GROUP","income":2420000},{"name":"VAN SCOYOC ASSOCIATES","income":2210000},{"name":"ATLAS CROSSING LLC","income":2210000},{"name":"CAPITOL COUNSEL LLC","income":2030000},{"name":"KOUNTOUPES DENHAM CARR & REID, LLC","income":2010000},{"name":"FORBES-TATE","income":1970000},{"name":"HANCE SCARBOROUGH","income":1915000},{"name":"COVINGTON & BURLING LLP","income":1900000},{"name":"SIDLEY AUSTIN LLP","income":1880000},{"name":"HB STRATEGIES","income":1860000},{"name":"OGR","income":1800000},{"name":"NORTH SOUTH GOVERNMENT STRATEGIES, FKA JDM PUBLIC STRATEGIES, LLC","income":1640000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":1590000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":1560000},{"name":"COGENT STRATEGIES LLC","income":1560000},{"name":"THE GARRISON GROUP LLC","income":1555000}],"sampleDescriptions":["H.R.1 Tax cuts and Jobs Act \nH.R.4092 AG Act\nH.R.4513 Farmers of Tomorrow Act\nS.21 Chesapeake Bay Farm Bill Enhancement Act\nS.1603\nH.R. 3266\nS.1776\nH.R.3354\nH.R.3353\nH.R.2886\nS.1752\nH.R.424\nH.R.3040\nH","Issues related to U.S. nutrition policy.","Final GIPSA Rule: Implementation of regulations required under Title XI of the Food, Conservation, and Energy Act of 2008; Animal Drug Use and Availability; Comprehensive Environmental Response, Compe","Issues related to nutrition and food safety.","Sustainability and soil health issues in the Congressional Farm Bill","Issues relating to the production of organic and antibiotic-free poultry products","Menu Labelling, Shrimp Importation, Joint Employer","Authorization and implementation of and funding for the Higher Education Act of 1965, as amended, including HR 4508.  Immigration policy impacting international students. FY 2019 appropriations FDA Ce","Monitor issues related to childhood nutrition.","Issues concerning the nutrition facts label rule.","Food aid and nutrition policy. 2018 agriculture reauthorization and child nutrition reauthorization vehicles, SNAP, TANF, food marketing to children","Issues related to food safety, content, and nutrition","Grade A, Standards of Identity","Common Sense Nutrition Disclosure Act (HR 772)\nFarm Bill 2018 (SNAP Provisions)\nOmnibus Spending Bill 2018 (HR 1625)\nNAFTA\nTax Cuts and Jobs Act 2017 (HR 1)","quality of food laboratory testing; Food Safety Modernization Act (P.L. 111-353)","quality control for food laboratory testing; Food Safety Modernization Act (P.L. 111-353)","Sodium Guidelines, Code Date Labeling, Harmonization of Nutrition Facts Panel and Biotech disclosure labeling, Dietary Guidelines, Nutrition Fact Panel","Exemption requested to \"Added Sugars\" labeling requirements proposed by the FDA (packages of sugar should not be required to include label \"contains added sugars\")","HR 4265--  The Sugar Policy Modernization Act","USDA FSIS - Siluriformes Inspection program"]}
+{
+  "code": "FOO",
+  "name": "Food Industry",
+  "totalSpending": 174365592.05,
+  "totalFilings": 8411,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 16594713.05,
+      "filings": 967
+    },
+    {
+      "year": 2019,
+      "income": 15930500,
+      "filings": 909
+    },
+    {
+      "year": 2020,
+      "income": 19408000,
+      "filings": 1021
+    },
+    {
+      "year": 2021,
+      "income": 19515000,
+      "filings": 928
+    },
+    {
+      "year": 2022,
+      "income": 22145129,
+      "filings": 1096
+    },
+    {
+      "year": 2023,
+      "income": 25816500,
+      "filings": 1215
+    },
+    {
+      "year": 2024,
+      "income": 23676000,
+      "filings": 1020
+    },
+    {
+      "year": 2025,
+      "income": 31279750,
+      "filings": 1255
+    }
+  ],
+  "topClients": [
+    {
+      "name": "AMERICAN BEVERAGE ASSOCIATION",
+      "income": 6470000
+    },
+    {
+      "name": "PEPSICO, INC.",
+      "income": 4100000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES",
+      "income": 3790000
+    },
+    {
+      "name": "MAPLEBEAR INC. D/B/A INSTACART",
+      "income": 3450000
+    },
+    {
+      "name": "CONSUMER BRANDS ASSOCIATION",
+      "income": 3210000
+    },
+    {
+      "name": "MCDONALD'S CORPORATION",
+      "income": 2920000
+    },
+    {
+      "name": "NATIONAL WATER RESOURCES ASSOCIATION",
+      "income": 2640000
+    },
+    {
+      "name": "THAI UNION GROUP PCL",
+      "income": 2595000
+    },
+    {
+      "name": "PEPSICO",
+      "income": 1870000
+    },
+    {
+      "name": "H-E-B",
+      "income": 1800000
+    },
+    {
+      "name": "STARKIST CO",
+      "income": 1790000
+    },
+    {
+      "name": "SNAC INTERNATIONAL",
+      "income": 1740000
+    },
+    {
+      "name": "NATURAL PRODUCTS ASSOCIATION",
+      "income": 1687000
+    },
+    {
+      "name": "CJ AMERICA, INC.",
+      "income": 1680000
+    },
+    {
+      "name": "AQUABOUNTY TECHNOLOGIES, INC.",
+      "income": 1660000
+    },
+    {
+      "name": "AMERICAN HONEY PRODUCERS ASSOCIATION",
+      "income": 1640000
+    },
+    {
+      "name": "DANONE NORTH AMERICA PUBLIC BENEFIT CORPORATION",
+      "income": 1560000
+    },
+    {
+      "name": "ALBERTSONS COMPANIES INC.",
+      "income": 1560000
+    },
+    {
+      "name": "ABBOTT LABORATORIES",
+      "income": 1550000
+    },
+    {
+      "name": "INTERNATIONAL BOTTLED WATER ASSOCIATION",
+      "income": 1500000
+    },
+    {
+      "name": "DINE BRANDS GLOBAL INC.",
+      "income": 1430000
+    },
+    {
+      "name": "NATIONAL TURKEY FEDERATION",
+      "income": 1410000
+    },
+    {
+      "name": "DOORDASH",
+      "income": 1385000
+    },
+    {
+      "name": "SOCIETY OF INDEPENDENT GASOLINE MARKETERS OF AMERICA",
+      "income": 1370000
+    },
+    {
+      "name": "H-E-B GROCERY COMPANY, LP",
+      "income": 1360000
+    },
+    {
+      "name": "UNITED EGG PRODUCERS",
+      "income": 1330000
+    },
+    {
+      "name": "THE AMALGAMATED SUGAR COMPANY LLC",
+      "income": 1320000
+    },
+    {
+      "name": "GS1 US",
+      "income": 1290000
+    },
+    {
+      "name": "PROLACTA BIOSCIENCE, INC.",
+      "income": 1280000
+    },
+    {
+      "name": "PET FOOD INSTITUTE",
+      "income": 1240000
+    },
+    {
+      "name": "ALBERTSONS COMPANIES, INC.",
+      "income": 1240000
+    },
+    {
+      "name": "AMERICAN SHEEP INDUSTRY ASSOCIATION",
+      "income": 1210000
+    },
+    {
+      "name": "NATIONAL FISHERIES INSTITUTE",
+      "income": 1200000
+    },
+    {
+      "name": "DIAMOND PET FOODS INC.",
+      "income": 1190000
+    },
+    {
+      "name": "THE CAMPBELL'S COMPANY (FKA CAMPBELL SOUP COMPANY)",
+      "income": 1180000
+    },
+    {
+      "name": "THE KROGER CO.",
+      "income": 1170000
+    },
+    {
+      "name": "CARGILL, INCORPORATED",
+      "income": 1170000
+    },
+    {
+      "name": "BLUE DIAMOND GROWERS",
+      "income": 1160000
+    },
+    {
+      "name": "BYHEART, INC.",
+      "income": 1160000
+    },
+    {
+      "name": "INTERNATIONAL FRESH PRODUCE ASSOCIATION",
+      "income": 1160000
+    },
+    {
+      "name": "MCCAIN FOODS USA, INC.",
+      "income": 1150000
+    },
+    {
+      "name": "SUSTAINABLE FOOD POLICY ALLIANCE",
+      "income": 1140000
+    },
+    {
+      "name": "CERBERUS CAPITAL MANAGEMENT, L.P.",
+      "income": 1140000
+    },
+    {
+      "name": "PHARMAVITE LLC",
+      "income": 1120000
+    },
+    {
+      "name": "ANHEUSER-BUSCH COMPANIES, INC.",
+      "income": 1120000
+    },
+    {
+      "name": "STARBUCKS CORPORATION",
+      "income": 1040000
+    },
+    {
+      "name": "FISHER & PHILLIPS LLP, ON BEHALF OF FORTREX, INC. LTD.",
+      "income": 1000000
+    },
+    {
+      "name": "FORETREX, INC. LTD (FORMERLY PACKERS SANITATION SERVICES, INC., LTD.)",
+      "income": 990000
+    },
+    {
+      "name": "SOUTHERN SHRIMP ALLIANCE",
+      "income": 965000
+    },
+    {
+      "name": "SOUTH EAST DAIRY FARMERS ASSOCIATION",
+      "income": 960000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "INVARIANT LLC",
+      "income": 13210000
+    },
+    {
+      "name": "THE RUSSELL GROUP, INC.",
+      "income": 8500000
+    },
+    {
+      "name": "TORREY ADVISORY GROUP (FORMERLY MICHAEL TORREY ASSOCIATES, LLC)",
+      "income": 7290000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 6080000
+    },
+    {
+      "name": "BGR GOVERNMENT AFFAIRS",
+      "income": 5420000
+    },
+    {
+      "name": "STEPTOE LLP",
+      "income": 5330000
+    },
+    {
+      "name": "FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)",
+      "income": 5170000
+    },
+    {
+      "name": "AVOQ, LLC",
+      "income": 4380000
+    },
+    {
+      "name": "MONUMENT ADVOCACY",
+      "income": 4380000
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 3400000
+    },
+    {
+      "name": "WATER STRATEGIES, LLC",
+      "income": 3140000
+    },
+    {
+      "name": "HARBINGER STRATEGIES, LLC",
+      "income": 3040000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 2730000
+    },
+    {
+      "name": "BRACEWELL LLP",
+      "income": 2595000
+    },
+    {
+      "name": "S-3 GROUP",
+      "income": 2420000
+    },
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 2210000
+    },
+    {
+      "name": "ATLAS CROSSING LLC",
+      "income": 2210000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 2030000
+    },
+    {
+      "name": "KOUNTOUPES DENHAM CARR & REID, LLC",
+      "income": 2010000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 1970000
+    },
+    {
+      "name": "HANCE SCARBOROUGH",
+      "income": 1915000
+    },
+    {
+      "name": "COVINGTON & BURLING LLP",
+      "income": 1900000
+    },
+    {
+      "name": "SIDLEY AUSTIN LLP",
+      "income": 1880000
+    },
+    {
+      "name": "HB STRATEGIES",
+      "income": 1860000
+    },
+    {
+      "name": "OGR",
+      "income": 1800000
+    },
+    {
+      "name": "NORTH SOUTH GOVERNMENT STRATEGIES, FKA JDM PUBLIC STRATEGIES, LLC",
+      "income": 1640000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 1590000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 1560000
+    },
+    {
+      "name": "COGENT STRATEGIES LLC",
+      "income": 1560000
+    },
+    {
+      "name": "THE GARRISON GROUP LLC",
+      "income": 1555000
+    }
+  ],
+  "sampleDescriptions": [
+    "H.R.1 Tax cuts and Jobs Act \nH.R.4092 AG Act\nH.R.4513 Farmers of Tomorrow Act\nS.21 Chesapeake Bay Farm Bill Enhancement Act\nS.1603\nH.R. 3266\nS.1776\nH.R.3354\nH.R.3353\nH.R.2886\nS.1752\nH.R.424\nH.R.3040\nH",
+    "Issues related to U.S. nutrition policy.",
+    "Final GIPSA Rule: Implementation of regulations required under Title XI of the Food, Conservation, and Energy Act of 2008; Animal Drug Use and Availability; Comprehensive Environmental Response, Compe",
+    "Issues related to nutrition and food safety.",
+    "Sustainability and soil health issues in the Congressional Farm Bill",
+    "Issues relating to the production of organic and antibiotic-free poultry products",
+    "Menu Labelling, Shrimp Importation, Joint Employer",
+    "Authorization and implementation of and funding for the Higher Education Act of 1965, as amended, including HR 4508.  Immigration policy impacting international students. FY 2019 appropriations FDA Ce",
+    "Monitor issues related to childhood nutrition.",
+    "Issues concerning the nutrition facts label rule.",
+    "Food aid and nutrition policy. 2018 agriculture reauthorization and child nutrition reauthorization vehicles, SNAP, TANF, food marketing to children",
+    "Issues related to food safety, content, and nutrition",
+    "Grade A, Standards of Identity",
+    "Common Sense Nutrition Disclosure Act (HR 772)\nFarm Bill 2018 (SNAP Provisions)\nOmnibus Spending Bill 2018 (HR 1625)\nNAFTA\nTax Cuts and Jobs Act 2017 (HR 1)",
+    "quality of food laboratory testing; Food Safety Modernization Act (P.L. 111-353)",
+    "quality control for food laboratory testing; Food Safety Modernization Act (P.L. 111-353)",
+    "Sodium Guidelines, Code Date Labeling, Harmonization of Nutrition Facts Panel and Biotech disclosure labeling, Dietary Guidelines, Nutrition Fact Panel",
+    "Exemption requested to \"Added Sugars\" labeling requirements proposed by the FDA (packages of sugar should not be required to include label \"contains added sugars\")",
+    "HR 4265--  The Sugar Policy Modernization Act",
+    "USDA FSIS - Siluriformes Inspection program"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 226,
+      "spending": 5592630.7513435595
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 249,
+      "spending": 5009186.812143413
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 251,
+      "spending": 5095849.96375715
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 241,
+      "spending": 4902176.521014817
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 198,
+      "spending": 5083926.386957486
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 252,
+      "spending": 5759138.892902829
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 217,
+      "spending": 4946087.379879626
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 242,
+      "spending": 5048775.673254522
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 227,
+      "spending": 5142707.04869477
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 254,
+      "spending": 5189424.365627665
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 281,
+      "spending": 5714176.71353417
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 259,
+      "spending": 5087264.829008214
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 206,
+      "spending": 4378047.97677235
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 244,
+      "spending": 5564294.582204394
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 232,
+      "spending": 5205374.8336405605
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 246,
+      "spending": 5271880.967045112
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 244,
+      "spending": 5556533.0999363195
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 296,
+      "spending": 6557970.082645038
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 274,
+      "spending": 6457835.754633112
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 282,
+      "spending": 6745071.026994762
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 291,
+      "spending": 6952922.767305336
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 308,
+      "spending": 7292093.400740108
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 305,
+      "spending": 7422982.765332503
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 311,
+      "spending": 7037116.189727464
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 221,
+      "spending": 4918203.507558207
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 273,
+      "spending": 6980170.870499352
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 243,
+      "spending": 6018065.207389178
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 283,
+      "spending": 6363713.721003178
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 269,
+      "spending": 7752703.823100708
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 334,
+      "spending": 10070310.950528556
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 314,
+      "spending": 8495500.550111104
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 338,
+      "spending": 8671158.199503101
+    }
+  ],
+  "totalEstimatedSpending": 196283296
+}

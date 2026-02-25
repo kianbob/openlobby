@@ -1,1 +1,329 @@
-{"abbreviation":"LA","name":"Louisiana","totalSpending":148060237,"totalFilings":7297,"clientCount":451,"yearlySpending":[{"year":2018,"income":12816473},{"year":2019,"income":12564764},{"year":2020,"income":13612250},{"year":2021,"income":15320000},{"year":2022,"income":17206250},{"year":2023,"income":38365000},{"year":2024,"income":16745500},{"year":2025,"income":21430000}],"topClients":[{"name":"BOSSIER PARISH POLICE JURY","income":3935000},{"name":"CITY OF NEW ORLEANS","income":3380000},{"name":"LHC GROUP, INC.","income":2930000},{"name":"TULANE UNIVERSITY","income":2770000},{"name":"DENKA PERFORMANCE ELASTOMER LLC","income":2750000},{"name":"LHC GROUP","income":2660000},{"name":"EDISON CHOUEST OFFSHORE","income":2635000},{"name":"DAYBROOK HOLDINGS, INC.","income":2590000},{"name":"OCHSNER HEALTH SYSTEM","income":2361000},{"name":"TUNICA BILOXI TRIBE OF LOUISIANA","income":2110000},{"name":"OCHSNER CLINIC FOUNDATION DBA OCHSNER HEALTH","income":2050000},{"name":"AMEDISYS HOME HEALTH AND HOSPICE CARE","income":2010000},{"name":"LOUISIANA ARMED FORCES ALLIANCE (PREVIOUSLY KNOWN FORT POLK PROGRESS COMMITTEE)","income":1860000},{"name":"JEFFERSON PARISH","income":1784000},{"name":"DALLAS AREA RAPID TRANSIT (DART)","income":1740000},{"name":"LOUISIANA STATE UNIVERSITY FOUNDATION","income":1714000},{"name":"SCP-HEALTH","income":1560000},{"name":"CLECO POWER LLC","income":1500000},{"name":"UNIVERSITY OF ALABAMA SYSTEM","income":1420000},{"name":"LOUISIANA COASTAL PROTECTION AND RESTORATION AUTHORITY","income":1415000},{"name":"BIOMEDICAL RESEARCH FOUNDATION OF NORTHWEST LOUISIANA","income":1270000},{"name":"TUNICA-BILOXI TRIBE OF LOUISIANA","income":1270000},{"name":"SASOL CHEMICALS USA LLC (THROUGH HARRIS DEVILLE AND ASSOCIATES)","income":1270000},{"name":"LUMEN TECHNOLOGIES","income":1260000},{"name":"HARBINGER MEDICAL GROUP LLC DBA TIDES MEDICAL","income":1230000},{"name":"CITY OF BATON ROUGE AND PARISH OF EAST BATON ROUGE","income":1220000},{"name":"ST. BERNARD PORT, HARBOR AND TERMINAL DISTRICT","income":1215000},{"name":"LAKE CHARLES HARBOR & TERMINAL DISTRICT","income":1210000},{"name":"SOUTHEAST LOUISIANA FLOOD PROTECTION AUTHORITY EAST","income":1200000},{"name":"AMERICAN FACTORING ASSOCIATION","income":1180000},{"name":"LSU HEALTH SCIENCES FOUNDATION","income":1160000},{"name":"POSIGEN SOLAR, LLC","income":1160000},{"name":"US OCEAN LLC","income":1150000},{"name":"CENTER FOR SPORTFISHING POLICY","income":1110000},{"name":"RIVER BIRCH, LLC","income":1110000},{"name":"LASALLE GENERAL HOSPITAL","income":1070000},{"name":"GREATER NEW ORLEANS, INC.","income":1055000},{"name":"PHI, INC.","income":1050000},{"name":"SASOL CHEMICALS (USA) LLC","income":1015000},{"name":"LOUISIANA MID-CONTINENT OIL AND GAS ASSOCIATION (LMOGA)","income":1010000},{"name":"FRANCISCAN MISSIONARIES OF OUR LADY HEALTH SYSTEM","income":1000000},{"name":"CENTER FOR SPORTFISHING POLICY (FKA CENTER FOR COASTAL CONSERVATION)","income":990000},{"name":"MORGAN CITY HARBOR AND TERMINAL DISTRICT","income":960000},{"name":"ALLEGIANCE HEALTH MANAGEMENT, INC.","income":960000},{"name":"BOLLINGER SHIPYARDS, LLC","income":920000},{"name":"RIVERBRIDGE SPECIALTY HOSPITAL","income":920000},{"name":"LAFAYETTE AIRPORT COMMISSION","income":910000},{"name":"PORT OF TERREBONNE","income":905000},{"name":"LCMC HEALTH","income":900000},{"name":"LAKE CHARLES REGIONAL AIRPORT","income":890000}],"topIssues":[{"code":"BUD","income":41442750},{"code":"HCR","income":25129550},{"code":"MMM","income":16105000},{"code":"MAR","income":14951500},{"code":"DEF","income":14688000},{"code":"TRA","income":11731500},{"code":"ENG","income":8280000},{"code":"HOM","income":6351000},{"code":"DIS","income":6186500},{"code":"TAX","income":5910000},{"code":"EDU","income":4976000},{"code":"NAT","income":4570000},{"code":"ENV","income":4435000},{"code":"CHM","income":4149000},{"code":"GOV","income":4048940},{"code":"ECN","income":3564250},{"code":"URB","income":3518000},{"code":"FIN","income":3390000},{"code":"AVI","income":3355000},{"code":"TRD","income":3280000}]}
+{
+  "abbreviation": "LA",
+  "name": "Louisiana",
+  "totalSpending": 148060237,
+  "totalFilings": 7297,
+  "clientCount": 451,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 12816473
+    },
+    {
+      "year": 2019,
+      "income": 12564764
+    },
+    {
+      "year": 2020,
+      "income": 13612250
+    },
+    {
+      "year": 2021,
+      "income": 15320000
+    },
+    {
+      "year": 2022,
+      "income": 17206250
+    },
+    {
+      "year": 2023,
+      "income": 38365000
+    },
+    {
+      "year": 2024,
+      "income": 16745500
+    },
+    {
+      "year": 2025,
+      "income": 21430000
+    }
+  ],
+  "topClients": [
+    {
+      "name": "BOSSIER PARISH POLICE JURY",
+      "income": 3935000
+    },
+    {
+      "name": "CITY OF NEW ORLEANS",
+      "income": 3380000
+    },
+    {
+      "name": "LHC GROUP, INC.",
+      "income": 2930000
+    },
+    {
+      "name": "TULANE UNIVERSITY",
+      "income": 2770000
+    },
+    {
+      "name": "DENKA PERFORMANCE ELASTOMER LLC",
+      "income": 2750000
+    },
+    {
+      "name": "LHC GROUP",
+      "income": 2660000
+    },
+    {
+      "name": "EDISON CHOUEST OFFSHORE",
+      "income": 2635000
+    },
+    {
+      "name": "DAYBROOK HOLDINGS, INC.",
+      "income": 2590000
+    },
+    {
+      "name": "OCHSNER HEALTH SYSTEM",
+      "income": 2361000
+    },
+    {
+      "name": "TUNICA BILOXI TRIBE OF LOUISIANA",
+      "income": 2110000
+    },
+    {
+      "name": "OCHSNER CLINIC FOUNDATION DBA OCHSNER HEALTH",
+      "income": 2050000
+    },
+    {
+      "name": "AMEDISYS HOME HEALTH AND HOSPICE CARE",
+      "income": 2010000
+    },
+    {
+      "name": "LOUISIANA ARMED FORCES ALLIANCE (PREVIOUSLY KNOWN FORT POLK PROGRESS COMMITTEE)",
+      "income": 1860000
+    },
+    {
+      "name": "JEFFERSON PARISH",
+      "income": 1784000
+    },
+    {
+      "name": "DALLAS AREA RAPID TRANSIT (DART)",
+      "income": 1740000
+    },
+    {
+      "name": "LOUISIANA STATE UNIVERSITY FOUNDATION",
+      "income": 1714000
+    },
+    {
+      "name": "SCP-HEALTH",
+      "income": 1560000
+    },
+    {
+      "name": "CLECO POWER LLC",
+      "income": 1500000
+    },
+    {
+      "name": "UNIVERSITY OF ALABAMA SYSTEM",
+      "income": 1420000
+    },
+    {
+      "name": "LOUISIANA COASTAL PROTECTION AND RESTORATION AUTHORITY",
+      "income": 1415000
+    },
+    {
+      "name": "BIOMEDICAL RESEARCH FOUNDATION OF NORTHWEST LOUISIANA",
+      "income": 1270000
+    },
+    {
+      "name": "TUNICA-BILOXI TRIBE OF LOUISIANA",
+      "income": 1270000
+    },
+    {
+      "name": "SASOL CHEMICALS USA LLC (THROUGH HARRIS DEVILLE AND ASSOCIATES)",
+      "income": 1270000
+    },
+    {
+      "name": "LUMEN TECHNOLOGIES",
+      "income": 1260000
+    },
+    {
+      "name": "HARBINGER MEDICAL GROUP LLC DBA TIDES MEDICAL",
+      "income": 1230000
+    },
+    {
+      "name": "CITY OF BATON ROUGE AND PARISH OF EAST BATON ROUGE",
+      "income": 1220000
+    },
+    {
+      "name": "ST. BERNARD PORT, HARBOR AND TERMINAL DISTRICT",
+      "income": 1215000
+    },
+    {
+      "name": "LAKE CHARLES HARBOR & TERMINAL DISTRICT",
+      "income": 1210000
+    },
+    {
+      "name": "SOUTHEAST LOUISIANA FLOOD PROTECTION AUTHORITY EAST",
+      "income": 1200000
+    },
+    {
+      "name": "AMERICAN FACTORING ASSOCIATION",
+      "income": 1180000
+    },
+    {
+      "name": "LSU HEALTH SCIENCES FOUNDATION",
+      "income": 1160000
+    },
+    {
+      "name": "POSIGEN SOLAR, LLC",
+      "income": 1160000
+    },
+    {
+      "name": "US OCEAN LLC",
+      "income": 1150000
+    },
+    {
+      "name": "CENTER FOR SPORTFISHING POLICY",
+      "income": 1110000
+    },
+    {
+      "name": "RIVER BIRCH, LLC",
+      "income": 1110000
+    },
+    {
+      "name": "LASALLE GENERAL HOSPITAL",
+      "income": 1070000
+    },
+    {
+      "name": "GREATER NEW ORLEANS, INC.",
+      "income": 1055000
+    },
+    {
+      "name": "PHI, INC.",
+      "income": 1050000
+    },
+    {
+      "name": "SASOL CHEMICALS (USA) LLC",
+      "income": 1015000
+    },
+    {
+      "name": "LOUISIANA MID-CONTINENT OIL AND GAS ASSOCIATION (LMOGA)",
+      "income": 1010000
+    },
+    {
+      "name": "FRANCISCAN MISSIONARIES OF OUR LADY HEALTH SYSTEM",
+      "income": 1000000
+    },
+    {
+      "name": "CENTER FOR SPORTFISHING POLICY (FKA CENTER FOR COASTAL CONSERVATION)",
+      "income": 990000
+    },
+    {
+      "name": "MORGAN CITY HARBOR AND TERMINAL DISTRICT",
+      "income": 960000
+    },
+    {
+      "name": "ALLEGIANCE HEALTH MANAGEMENT, INC.",
+      "income": 960000
+    },
+    {
+      "name": "BOLLINGER SHIPYARDS, LLC",
+      "income": 920000
+    },
+    {
+      "name": "RIVERBRIDGE SPECIALTY HOSPITAL",
+      "income": 920000
+    },
+    {
+      "name": "LAFAYETTE AIRPORT COMMISSION",
+      "income": 910000
+    },
+    {
+      "name": "PORT OF TERREBONNE",
+      "income": 905000
+    },
+    {
+      "name": "LCMC HEALTH",
+      "income": 900000
+    },
+    {
+      "name": "LAKE CHARLES REGIONAL AIRPORT",
+      "income": 890000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 41442750
+    },
+    {
+      "code": "HCR",
+      "income": 25129550
+    },
+    {
+      "code": "MMM",
+      "income": 16105000
+    },
+    {
+      "code": "MAR",
+      "income": 14951500
+    },
+    {
+      "code": "DEF",
+      "income": 14688000
+    },
+    {
+      "code": "TRA",
+      "income": 11731500
+    },
+    {
+      "code": "ENG",
+      "income": 8280000
+    },
+    {
+      "code": "HOM",
+      "income": 6351000
+    },
+    {
+      "code": "DIS",
+      "income": 6186500
+    },
+    {
+      "code": "TAX",
+      "income": 5910000
+    },
+    {
+      "code": "EDU",
+      "income": 4976000
+    },
+    {
+      "code": "NAT",
+      "income": 4570000
+    },
+    {
+      "code": "ENV",
+      "income": 4435000
+    },
+    {
+      "code": "CHM",
+      "income": 4149000
+    },
+    {
+      "code": "GOV",
+      "income": 4048940
+    },
+    {
+      "code": "ECN",
+      "income": 3564250
+    },
+    {
+      "code": "URB",
+      "income": 3518000
+    },
+    {
+      "code": "FIN",
+      "income": 3390000
+    },
+    {
+      "code": "AVI",
+      "income": 3355000
+    },
+    {
+      "code": "TRD",
+      "income": 3280000
+    }
+  ],
+  "perCapita": 34.95,
+  "population": 4573749,
+  "nationalRank": 27,
+  "perCapitaRank": 27
+}

@@ -1,1 +1,329 @@
-{"abbreviation":"CA","name":"California","totalSpending":1974459153.3699996,"totalFilings":79760,"clientCount":4744,"yearlySpending":[{"year":2018,"income":125222627.5},{"year":2019,"income":139054458.42000002},{"year":2020,"income":174778580.64},{"year":2021,"income":202657470.75},{"year":2022,"income":247307858.09},{"year":2023,"income":533058148},{"year":2024,"income":239663533.87},{"year":2025,"income":312716476.1}],"topClients":[{"name":"ILLUMINA, INC.","income":17285000},{"name":"QUALCOMM INCORPORATED","income":16610000},{"name":"GILEAD SCIENCES, INC.","income":14010000},{"name":"HIKVISION USA, INC.","income":11565000},{"name":"TIKTOK INC.","income":8350000},{"name":"COINBASE, INC.","income":8038000},{"name":"HANWHA Q CELLS AMERICA INC.","income":8035000},{"name":"GOOGLE CLIENT SERVICES","income":7375000},{"name":"SPACEX","income":7200000},{"name":"PALANTIR TECHNOLOGIES INC.","income":6685000},{"name":"GENENTECH, INC.","income":6240000},{"name":"LIVE NATION ENTERTAINMENT, INC.","income":5990000},{"name":"NEUROCRINE BIOSCIENCES, INC.","income":5780000},{"name":"SHEIN TECHNOLOGY LLC","income":5570000},{"name":"NEW CALIFORNIA REPUBLIC CO.","income":5507688},{"name":"GOTION, INC.","income":5255000},{"name":"BLOOM ENERGY","income":5050000},{"name":"META PLATFORMS, INC.","income":5045000},{"name":"LYFT, INC.","income":5028000},{"name":"YOCHA DEHE WINTUN NATION","income":5025000},{"name":"CITY AND COUNTY OF SAN FRANCISCO","income":4830000},{"name":"APPLE INC.","income":4810000},{"name":"DJI TECHNOLOGY, INC.","income":4807500},{"name":"APPLIED MATERIALS, INC.","income":4690000},{"name":"NISSAN NORTH AMERICA","income":4680000},{"name":"WESTLANDS WATER DISTRICT","income":4650000},{"name":"GILEAD SCIENCES INC.","income":4620000},{"name":"WAYMO LLC","income":4610000},{"name":"TENCENT AMERICA, LLC","income":4530000},{"name":"MAPLEBEAR INC. D/B/A INSTACART","income":4425000},{"name":"RIPPLE LABS INC.","income":4310000},{"name":"VIASAT, INC.","income":4155000},{"name":"FAIR ISAAC CORPORATION (DBA FICO)","income":4110000},{"name":"TRIMBLE INC","income":4000000},{"name":"SONY PICTURES ENTERTAINMENT","income":3920000},{"name":"SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT","income":3918000},{"name":"UBER TECHNOLOGIES, INC.","income":3840000},{"name":"INTUIT, INC. AND AFFILIATES (FORMERLY INTUIT, INC.)","income":3800000},{"name":"BLUE SHIELD OF CALIFORNIA","income":3720000},{"name":"BROADCOM LIMITED","income":3675000},{"name":"LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY","income":3660000},{"name":"BROADCOM INC.","income":3660000},{"name":"SALESFORCE.COM, INC.","income":3630000},{"name":"FEDERAL HOME LOAN BANK OF SAN FRANCISCO","income":3605000},{"name":"ARDELYX, INC.","income":3480000},{"name":"DOORDASH","income":3475000},{"name":"SK HYNIX AMERICA, INC.","income":3470000},{"name":"BLOCK, INC.","income":3400000},{"name":"SAMSUNG SEMICONDUCTOR, INC.","income":3350000},{"name":"CALIFORNIA PUBLIC EMPLOYEES' RETIREMENT SYSTEM","income":3320000}],"topIssues":[{"code":"BUD","income":379623948.12},{"code":"HCR","income":267456974.03000003},{"code":"TAX","income":222396477.5},{"code":"DEF","income":212799288.04},{"code":"TRA","income":172452742},{"code":"TRD","income":150569667},{"code":"ENG","income":132246615.03999999},{"code":"SCI","income":120222255},{"code":"TEC","income":107810570},{"code":"FIN","income":103489812.75},{"code":"MMM","income":102963021},{"code":"CPI","income":97960250},{"code":"ENV","income":95007857},{"code":"NAT","income":90549476.05},{"code":"AGR","income":75809261},{"code":"HOM","income":70195276},{"code":"LBR","income":69488970},{"code":"GOV","income":64097060.06},{"code":"HOU","income":57706809},{"code":"CSP","income":51554030}]}
+{
+  "abbreviation": "CA",
+  "name": "California",
+  "totalSpending": 1974459153.3699996,
+  "totalFilings": 79760,
+  "clientCount": 4744,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 125222627.5
+    },
+    {
+      "year": 2019,
+      "income": 139054458.42000002
+    },
+    {
+      "year": 2020,
+      "income": 174778580.64
+    },
+    {
+      "year": 2021,
+      "income": 202657470.75
+    },
+    {
+      "year": 2022,
+      "income": 247307858.09
+    },
+    {
+      "year": 2023,
+      "income": 533058148
+    },
+    {
+      "year": 2024,
+      "income": 239663533.87
+    },
+    {
+      "year": 2025,
+      "income": 312716476.1
+    }
+  ],
+  "topClients": [
+    {
+      "name": "ILLUMINA, INC.",
+      "income": 17285000
+    },
+    {
+      "name": "QUALCOMM INCORPORATED",
+      "income": 16610000
+    },
+    {
+      "name": "GILEAD SCIENCES, INC.",
+      "income": 14010000
+    },
+    {
+      "name": "HIKVISION USA, INC.",
+      "income": 11565000
+    },
+    {
+      "name": "TIKTOK INC.",
+      "income": 8350000
+    },
+    {
+      "name": "COINBASE, INC.",
+      "income": 8038000
+    },
+    {
+      "name": "HANWHA Q CELLS AMERICA INC.",
+      "income": 8035000
+    },
+    {
+      "name": "GOOGLE CLIENT SERVICES",
+      "income": 7375000
+    },
+    {
+      "name": "SPACEX",
+      "income": 7200000
+    },
+    {
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "income": 6685000
+    },
+    {
+      "name": "GENENTECH, INC.",
+      "income": 6240000
+    },
+    {
+      "name": "LIVE NATION ENTERTAINMENT, INC.",
+      "income": 5990000
+    },
+    {
+      "name": "NEUROCRINE BIOSCIENCES, INC.",
+      "income": 5780000
+    },
+    {
+      "name": "SHEIN TECHNOLOGY LLC",
+      "income": 5570000
+    },
+    {
+      "name": "NEW CALIFORNIA REPUBLIC CO.",
+      "income": 5507688
+    },
+    {
+      "name": "GOTION, INC.",
+      "income": 5255000
+    },
+    {
+      "name": "BLOOM ENERGY",
+      "income": 5050000
+    },
+    {
+      "name": "META PLATFORMS, INC.",
+      "income": 5045000
+    },
+    {
+      "name": "LYFT, INC.",
+      "income": 5028000
+    },
+    {
+      "name": "YOCHA DEHE WINTUN NATION",
+      "income": 5025000
+    },
+    {
+      "name": "CITY AND COUNTY OF SAN FRANCISCO",
+      "income": 4830000
+    },
+    {
+      "name": "APPLE INC.",
+      "income": 4810000
+    },
+    {
+      "name": "DJI TECHNOLOGY, INC.",
+      "income": 4807500
+    },
+    {
+      "name": "APPLIED MATERIALS, INC.",
+      "income": 4690000
+    },
+    {
+      "name": "NISSAN NORTH AMERICA",
+      "income": 4680000
+    },
+    {
+      "name": "WESTLANDS WATER DISTRICT",
+      "income": 4650000
+    },
+    {
+      "name": "GILEAD SCIENCES INC.",
+      "income": 4620000
+    },
+    {
+      "name": "WAYMO LLC",
+      "income": 4610000
+    },
+    {
+      "name": "TENCENT AMERICA, LLC",
+      "income": 4530000
+    },
+    {
+      "name": "MAPLEBEAR INC. D/B/A INSTACART",
+      "income": 4425000
+    },
+    {
+      "name": "RIPPLE LABS INC.",
+      "income": 4310000
+    },
+    {
+      "name": "VIASAT, INC.",
+      "income": 4155000
+    },
+    {
+      "name": "FAIR ISAAC CORPORATION (DBA FICO)",
+      "income": 4110000
+    },
+    {
+      "name": "TRIMBLE INC",
+      "income": 4000000
+    },
+    {
+      "name": "SONY PICTURES ENTERTAINMENT",
+      "income": 3920000
+    },
+    {
+      "name": "SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT",
+      "income": 3918000
+    },
+    {
+      "name": "UBER TECHNOLOGIES, INC.",
+      "income": 3840000
+    },
+    {
+      "name": "INTUIT, INC. AND AFFILIATES (FORMERLY INTUIT, INC.)",
+      "income": 3800000
+    },
+    {
+      "name": "BLUE SHIELD OF CALIFORNIA",
+      "income": 3720000
+    },
+    {
+      "name": "BROADCOM LIMITED",
+      "income": 3675000
+    },
+    {
+      "name": "LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY",
+      "income": 3660000
+    },
+    {
+      "name": "BROADCOM INC.",
+      "income": 3660000
+    },
+    {
+      "name": "SALESFORCE.COM, INC.",
+      "income": 3630000
+    },
+    {
+      "name": "FEDERAL HOME LOAN BANK OF SAN FRANCISCO",
+      "income": 3605000
+    },
+    {
+      "name": "ARDELYX, INC.",
+      "income": 3480000
+    },
+    {
+      "name": "DOORDASH",
+      "income": 3475000
+    },
+    {
+      "name": "SK HYNIX AMERICA, INC.",
+      "income": 3470000
+    },
+    {
+      "name": "BLOCK, INC.",
+      "income": 3400000
+    },
+    {
+      "name": "SAMSUNG SEMICONDUCTOR, INC.",
+      "income": 3350000
+    },
+    {
+      "name": "CALIFORNIA PUBLIC EMPLOYEES' RETIREMENT SYSTEM",
+      "income": 3320000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 379623948.12
+    },
+    {
+      "code": "HCR",
+      "income": 267456974.03000003
+    },
+    {
+      "code": "TAX",
+      "income": 222396477.5
+    },
+    {
+      "code": "DEF",
+      "income": 212799288.04
+    },
+    {
+      "code": "TRA",
+      "income": 172452742
+    },
+    {
+      "code": "TRD",
+      "income": 150569667
+    },
+    {
+      "code": "ENG",
+      "income": 132246615.03999999
+    },
+    {
+      "code": "SCI",
+      "income": 120222255
+    },
+    {
+      "code": "TEC",
+      "income": 107810570
+    },
+    {
+      "code": "FIN",
+      "income": 103489812.75
+    },
+    {
+      "code": "MMM",
+      "income": 102963021
+    },
+    {
+      "code": "CPI",
+      "income": 97960250
+    },
+    {
+      "code": "ENV",
+      "income": 95007857
+    },
+    {
+      "code": "NAT",
+      "income": 90549476.05
+    },
+    {
+      "code": "AGR",
+      "income": 75809261
+    },
+    {
+      "code": "HOM",
+      "income": 70195276
+    },
+    {
+      "code": "LBR",
+      "income": 69488970
+    },
+    {
+      "code": "GOV",
+      "income": 64097060.06
+    },
+    {
+      "code": "HOU",
+      "income": 57706809
+    },
+    {
+      "code": "CSP",
+      "income": 51554030
+    }
+  ],
+  "perCapita": 67.73,
+  "population": 38965193,
+  "nationalRank": 3,
+  "perCapitaRank": 8
+}

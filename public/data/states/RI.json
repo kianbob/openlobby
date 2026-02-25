@@ -1,1 +1,329 @@
-{"abbreviation":"RI","name":"Rhode Island","totalSpending":33562043,"totalFilings":1654,"clientCount":104,"yearlySpending":[{"year":2018,"income":2792500},{"year":2019,"income":3435568},{"year":2020,"income":3365125},{"year":2021,"income":3764150},{"year":2022,"income":2899300},{"year":2023,"income":6422600},{"year":2024,"income":3940100},{"year":2025,"income":6942700}],"topClients":[{"name":"HASBRO INC","income":3200000},{"name":"CVS HEALTH","income":2595000},{"name":"BALLY'S CORPORATION","income":1940000},{"name":"NEW ERA FUND","income":1600000},{"name":"PICERNE MILITARY HOUSING A/K/A CORVIAS GROUP","income":1530000},{"name":"AMERICAN CATALOG MAILERS ASSOCIATION","income":1295250},{"name":"IGT GLOBAL SOLUTIONS (FORMERLY GTECH)","income":1240000},{"name":"STATE OF RHODE ISLAND","income":1221000},{"name":"SEACORP","income":950000},{"name":"AMERICAN ACADEMY OF ADDICTION PSYCHIATRY","income":810568},{"name":"UNITED FOOD & COMMERCIAL WORKERS LOCAL 328","income":810000},{"name":"UNITED NATURAL FOODS, INC.","income":750000},{"name":"THE UNIVERSITY OF RHODE ISLAND RESEARCH FOUNDATION","income":750000},{"name":"REBUILDERS AUTOMOTIVE SUPPLY CO., INC.","income":580000},{"name":"NAVATEK, LTD.","income":570000},{"name":"RHODE ISLAND AIRPORT CORPORATION","income":550000},{"name":"CITIZENS BANK, N.A.","income":548000},{"name":"CHARTERCARE HEALTH PARTNERS","income":525000},{"name":"HOSPITAL ASSOCIATION OF RHODE ISLAND","income":520000},{"name":"ORSTED WIND POWER NORTH AMERICA LLC (FORMERLY DEEPWATER WIND LLC)","income":480000},{"name":"CITIZENS FINANCIAL GROUP","income":476600},{"name":"CORVIAS MILITARY LIVING (FORMALLY KNOWN AS CORVIAS CAMPUS LIVING)","income":470000},{"name":"CORVIAS MILITARY LIVING, LLC","income":470000},{"name":"UNIVERSITY OF RHODE ISLAND RESEARCH FOUNDATION","income":450000},{"name":"JOHNSON & WALES UNIVERSITY","income":432000},{"name":"UNITED NATURAL FOODS INC.","income":420000},{"name":"G-FORM, LLC","income":380000},{"name":"VATN SYSTEMS","income":370000},{"name":"UA PLUMBERS & PIPEFITTERS - LOCAL 51","income":350000},{"name":"REGENT CRAFT INC.","income":330000},{"name":"COMPOSITE ENERGY TECHNOLOGIES, D/B/A GOETZ COMPOSITES","income":305000},{"name":"RHODE ISLAND ASSOCIATION OF FACILITIES AND SERVICES FOR THE AGING","income":290000},{"name":"RBS  CITIZENS, N.A.","income":289125},{"name":"IGT GLOBAL SOLUTIONS","income":280000},{"name":"PROVIDENCE PERFORMING ARTS CENTER","income":275000},{"name":"NEIGHBORHOOD HEALTH PLAN OF RHODE ISLAND","income":257000},{"name":"PLAN INTERNATIONAL USA","income":225000},{"name":"VETERANS ASSEMBLED ELECTRONICS","income":220500},{"name":"TWIN RIVER MANAGEMENT GROUP","income":220000},{"name":"EDESIA","income":210000},{"name":"TWIN RIVER MANAGEMENT GROUP INC","income":210000},{"name":"BALLYS CORPORATION","income":200000},{"name":"BROWN UNIVERSITY","income":200000},{"name":"TOWN OF NORTH PROVIDENCE","income":193000},{"name":"NATIONAL RETIREMENT FUND","income":190000},{"name":"SMART ENERGY, LLC (FKA CLEAN ENERGY, LLC)","income":190000},{"name":"CITY OF PROVIDENCE","income":170000},{"name":"EFFECTIVE ADVOCATES LLC ON BEHALF OF THE GC3 SUSTAINABLE CHEMISTRY ALLIANCE","income":165500},{"name":"NORTH ATLANTIC RAIL, INC.","income":152000},{"name":"HCH ENTERPRISES, LLC","income":150000}],"topIssues":[{"code":"DEF","income":6493500},{"code":"BUD","income":6268000},{"code":"TRD","income":2426000},{"code":"HCR","income":2328568},{"code":"GAM","income":2280000},{"code":"LBR","income":2150000},{"code":"HOU","income":1795000},{"code":"TAX","income":1732750},{"code":"PHA","income":1600000},{"code":"CSP","income":1410000},{"code":"MMM","income":1133000},{"code":"POS","income":1115250},{"code":"EDU","income":1104000},{"code":"FIN","income":1045800},{"code":"FOO","income":1030000},{"code":"AER","income":1000000},{"code":"ENV","income":917500},{"code":"ENG","income":898500},{"code":"AGR","income":867000},{"code":"BAN","income":817125}]}
+{
+  "abbreviation": "RI",
+  "name": "Rhode Island",
+  "totalSpending": 33562043,
+  "totalFilings": 1654,
+  "clientCount": 104,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 2792500
+    },
+    {
+      "year": 2019,
+      "income": 3435568
+    },
+    {
+      "year": 2020,
+      "income": 3365125
+    },
+    {
+      "year": 2021,
+      "income": 3764150
+    },
+    {
+      "year": 2022,
+      "income": 2899300
+    },
+    {
+      "year": 2023,
+      "income": 6422600
+    },
+    {
+      "year": 2024,
+      "income": 3940100
+    },
+    {
+      "year": 2025,
+      "income": 6942700
+    }
+  ],
+  "topClients": [
+    {
+      "name": "HASBRO INC",
+      "income": 3200000
+    },
+    {
+      "name": "CVS HEALTH",
+      "income": 2595000
+    },
+    {
+      "name": "BALLY'S CORPORATION",
+      "income": 1940000
+    },
+    {
+      "name": "NEW ERA FUND",
+      "income": 1600000
+    },
+    {
+      "name": "PICERNE MILITARY HOUSING A/K/A CORVIAS GROUP",
+      "income": 1530000
+    },
+    {
+      "name": "AMERICAN CATALOG MAILERS ASSOCIATION",
+      "income": 1295250
+    },
+    {
+      "name": "IGT GLOBAL SOLUTIONS (FORMERLY GTECH)",
+      "income": 1240000
+    },
+    {
+      "name": "STATE OF RHODE ISLAND",
+      "income": 1221000
+    },
+    {
+      "name": "SEACORP",
+      "income": 950000
+    },
+    {
+      "name": "AMERICAN ACADEMY OF ADDICTION PSYCHIATRY",
+      "income": 810568
+    },
+    {
+      "name": "UNITED FOOD & COMMERCIAL WORKERS LOCAL 328",
+      "income": 810000
+    },
+    {
+      "name": "UNITED NATURAL FOODS, INC.",
+      "income": 750000
+    },
+    {
+      "name": "THE UNIVERSITY OF RHODE ISLAND RESEARCH FOUNDATION",
+      "income": 750000
+    },
+    {
+      "name": "REBUILDERS AUTOMOTIVE SUPPLY CO., INC.",
+      "income": 580000
+    },
+    {
+      "name": "NAVATEK, LTD.",
+      "income": 570000
+    },
+    {
+      "name": "RHODE ISLAND AIRPORT CORPORATION",
+      "income": 550000
+    },
+    {
+      "name": "CITIZENS BANK, N.A.",
+      "income": 548000
+    },
+    {
+      "name": "CHARTERCARE HEALTH PARTNERS",
+      "income": 525000
+    },
+    {
+      "name": "HOSPITAL ASSOCIATION OF RHODE ISLAND",
+      "income": 520000
+    },
+    {
+      "name": "ORSTED WIND POWER NORTH AMERICA LLC (FORMERLY DEEPWATER WIND LLC)",
+      "income": 480000
+    },
+    {
+      "name": "CITIZENS FINANCIAL GROUP",
+      "income": 476600
+    },
+    {
+      "name": "CORVIAS MILITARY LIVING (FORMALLY KNOWN AS CORVIAS CAMPUS LIVING)",
+      "income": 470000
+    },
+    {
+      "name": "CORVIAS MILITARY LIVING, LLC",
+      "income": 470000
+    },
+    {
+      "name": "UNIVERSITY OF RHODE ISLAND RESEARCH FOUNDATION",
+      "income": 450000
+    },
+    {
+      "name": "JOHNSON & WALES UNIVERSITY",
+      "income": 432000
+    },
+    {
+      "name": "UNITED NATURAL FOODS INC.",
+      "income": 420000
+    },
+    {
+      "name": "G-FORM, LLC",
+      "income": 380000
+    },
+    {
+      "name": "VATN SYSTEMS",
+      "income": 370000
+    },
+    {
+      "name": "UA PLUMBERS & PIPEFITTERS - LOCAL 51",
+      "income": 350000
+    },
+    {
+      "name": "REGENT CRAFT INC.",
+      "income": 330000
+    },
+    {
+      "name": "COMPOSITE ENERGY TECHNOLOGIES, D/B/A GOETZ COMPOSITES",
+      "income": 305000
+    },
+    {
+      "name": "RHODE ISLAND ASSOCIATION OF FACILITIES AND SERVICES FOR THE AGING",
+      "income": 290000
+    },
+    {
+      "name": "RBS  CITIZENS, N.A.",
+      "income": 289125
+    },
+    {
+      "name": "IGT GLOBAL SOLUTIONS",
+      "income": 280000
+    },
+    {
+      "name": "PROVIDENCE PERFORMING ARTS CENTER",
+      "income": 275000
+    },
+    {
+      "name": "NEIGHBORHOOD HEALTH PLAN OF RHODE ISLAND",
+      "income": 257000
+    },
+    {
+      "name": "PLAN INTERNATIONAL USA",
+      "income": 225000
+    },
+    {
+      "name": "VETERANS ASSEMBLED ELECTRONICS",
+      "income": 220500
+    },
+    {
+      "name": "TWIN RIVER MANAGEMENT GROUP",
+      "income": 220000
+    },
+    {
+      "name": "EDESIA",
+      "income": 210000
+    },
+    {
+      "name": "TWIN RIVER MANAGEMENT GROUP INC",
+      "income": 210000
+    },
+    {
+      "name": "BALLYS CORPORATION",
+      "income": 200000
+    },
+    {
+      "name": "BROWN UNIVERSITY",
+      "income": 200000
+    },
+    {
+      "name": "TOWN OF NORTH PROVIDENCE",
+      "income": 193000
+    },
+    {
+      "name": "NATIONAL RETIREMENT FUND",
+      "income": 190000
+    },
+    {
+      "name": "SMART ENERGY, LLC (FKA CLEAN ENERGY, LLC)",
+      "income": 190000
+    },
+    {
+      "name": "CITY OF PROVIDENCE",
+      "income": 170000
+    },
+    {
+      "name": "EFFECTIVE ADVOCATES LLC ON BEHALF OF THE GC3 SUSTAINABLE CHEMISTRY ALLIANCE",
+      "income": 165500
+    },
+    {
+      "name": "NORTH ATLANTIC RAIL, INC.",
+      "income": 152000
+    },
+    {
+      "name": "HCH ENTERPRISES, LLC",
+      "income": 150000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "DEF",
+      "income": 6493500
+    },
+    {
+      "code": "BUD",
+      "income": 6268000
+    },
+    {
+      "code": "TRD",
+      "income": 2426000
+    },
+    {
+      "code": "HCR",
+      "income": 2328568
+    },
+    {
+      "code": "GAM",
+      "income": 2280000
+    },
+    {
+      "code": "LBR",
+      "income": 2150000
+    },
+    {
+      "code": "HOU",
+      "income": 1795000
+    },
+    {
+      "code": "TAX",
+      "income": 1732750
+    },
+    {
+      "code": "PHA",
+      "income": 1600000
+    },
+    {
+      "code": "CSP",
+      "income": 1410000
+    },
+    {
+      "code": "MMM",
+      "income": 1133000
+    },
+    {
+      "code": "POS",
+      "income": 1115250
+    },
+    {
+      "code": "EDU",
+      "income": 1104000
+    },
+    {
+      "code": "FIN",
+      "income": 1045800
+    },
+    {
+      "code": "FOO",
+      "income": 1030000
+    },
+    {
+      "code": "AER",
+      "income": 1000000
+    },
+    {
+      "code": "ENV",
+      "income": 917500
+    },
+    {
+      "code": "ENG",
+      "income": 898500
+    },
+    {
+      "code": "AGR",
+      "income": 867000
+    },
+    {
+      "code": "BAN",
+      "income": 817125
+    }
+  ],
+  "perCapita": 38.17,
+  "population": 1095962,
+  "nationalRank": 42,
+  "perCapitaRank": 22
+}

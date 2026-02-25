@@ -1,1 +1,329 @@
-{"abbreviation":"KY","name":"Kentucky","totalSpending":95556548,"totalFilings":5036,"clientCount":272,"yearlySpending":[{"year":2018,"income":8380636},{"year":2019,"income":8650429},{"year":2020,"income":9985331},{"year":2021,"income":10417995},{"year":2022,"income":10968228},{"year":2023,"income":23182000},{"year":2024,"income":9522500},{"year":2025,"income":14449429}],"topClients":[{"name":"NATIONAL THOROUGHBRED RACING ASSOCIATION","income":4350000},{"name":"HUMANA","income":4030000},{"name":"BROWN-FORMAN CORPORATION","income":3412500},{"name":"U.S. HEMP ROUNDTABLE","income":2726000},{"name":"YUM! BRANDS","income":2560000},{"name":"KINDRED HEALTHCARE D/B/A SCIONHEALTH","income":2520000},{"name":"INDEPENDENT PILOTS ASSOCIATION","income":2200000},{"name":"HUMANA, INC.","income":1880000},{"name":"KINDRED HEALTHCARE D/B/A SCIONHEALTH (FKA KINDRED HEALTHCARE OPERATING, INC)","income":1835000},{"name":"NATIONAL ASSN OF STATE TREASURERS (NAST)","income":1800000},{"name":"BROWN-FORMAN CORP","income":1650000},{"name":"UNIVERSITY OF KENTUCKY","income":1650000},{"name":"BAMBOO HEALTH","income":1610000},{"name":"UNIVERSITY OF LOUISVILLE","income":1600000},{"name":"KENTUCKY COMMUNITY AND TECHNICAL COLLEGE SYSTEM","income":1550000},{"name":"AMERICAN SOCIETY OF INTERVENTIONAL PAIN PHYSICIANS","income":1530000},{"name":"THE JOCKEY CLUB","income":1530000},{"name":"ACADEMY OF DOCTORS OF AUDIOLOGY","income":1425000},{"name":"BROWN-FORMAN","income":1280000},{"name":"LAKE CUMBERLAND MARINA LLC","income":1260000},{"name":"RESCARE INC (DBA BRIGHTSPRING HEALTH SERVICES)","income":1230000},{"name":"LEXMARK INTERNATIONAL INC","income":1200000},{"name":"YUM RESTAURANT SERVICES GROUP, LLC","income":1150000},{"name":"MIDDLEGROUND CAPITAL","income":1120000},{"name":"BARBARA BANKE","income":1110000},{"name":"PRYSMIAN GROUP","income":1060000},{"name":"BAPTIST HEALTHCARE SYSTEM","income":1059000},{"name":"LEXINGTON FAYETTE COUNTY UNIFIED GOVERNMENT","income":1010000},{"name":"AMERICAN PRINTING HOUSE FOR THE BLIND","income":990000},{"name":"TURNING POINT BRANDS","income":970000},{"name":"ASSOCIATION OF KENTUCKY FRIED CHICKEN FRANCHISEES","income":960000},{"name":"SCIONHEALTH FKA KINDRED HEALTH CARE OPERATING INC.","income":940000},{"name":"CHURCHILL DOWNS INCORPORATED","income":930000},{"name":"NATIONAL ASSOCIATION OF VISION CARE PLANS","income":900000},{"name":"HOUCHENS INDUSTRIES","income":890000},{"name":"ALLTECH, INC.","income":880000},{"name":"SENTURE LLC","income":850000},{"name":"CHURCHILL DOWNS, INCORPORATED","income":810000},{"name":"KENTUCKY HOSPITAL ASSOCIATION","income":800000},{"name":"EAST KENTUCKY POWER COOPERATIVE, INC.","income":780000},{"name":"UOFL HEALTH, INC.","income":750000},{"name":"NATIONAL HORSEMEN'S BENEVOLENT AND PROTECTIVE ASSOCIATION (HBPA)","income":740000},{"name":"CITY OF FRANKFORT, KY","income":700000},{"name":"DIABETES PATIENT ADVOCACY COALITION","income":674000},{"name":"MINOVA GLOBAL","income":665000},{"name":"YUM! BRANDS, INC.","income":660000},{"name":"CLIMAVISION","income":620000},{"name":"DELTA T CORPORATION D/B/A BIG ASS FANS","income":610000},{"name":"APPRISS, INC.","income":590000},{"name":"LG&E AND KU ENERGY, LLC","income":580000}],"topIssues":[{"code":"TAX","income":17681145},{"code":"HCR","income":17433292},{"code":"BUD","income":15617036},{"code":"MMM","income":15085000},{"code":"AGR","income":10832629},{"code":"TRD","income":8964500},{"code":"EDU","income":6857050},{"code":"ANI","income":5103954},{"code":"LBR","income":4820500},{"code":"ENV","income":3868703},{"code":"DEF","income":3599500},{"code":"ENG","income":3381022},{"code":"TRA","income":3117349},{"code":"GAM","income":2840000},{"code":"AVI","income":2645000},{"code":"MAN","income":2451750},{"code":"PHA","income":2361500},{"code":"FIN","income":2338543},{"code":"HOM","income":2333098},{"code":"RET","income":2310000}]}
+{
+  "abbreviation": "KY",
+  "name": "Kentucky",
+  "totalSpending": 95556548,
+  "totalFilings": 5036,
+  "clientCount": 272,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 8380636
+    },
+    {
+      "year": 2019,
+      "income": 8650429
+    },
+    {
+      "year": 2020,
+      "income": 9985331
+    },
+    {
+      "year": 2021,
+      "income": 10417995
+    },
+    {
+      "year": 2022,
+      "income": 10968228
+    },
+    {
+      "year": 2023,
+      "income": 23182000
+    },
+    {
+      "year": 2024,
+      "income": 9522500
+    },
+    {
+      "year": 2025,
+      "income": 14449429
+    }
+  ],
+  "topClients": [
+    {
+      "name": "NATIONAL THOROUGHBRED RACING ASSOCIATION",
+      "income": 4350000
+    },
+    {
+      "name": "HUMANA",
+      "income": 4030000
+    },
+    {
+      "name": "BROWN-FORMAN CORPORATION",
+      "income": 3412500
+    },
+    {
+      "name": "U.S. HEMP ROUNDTABLE",
+      "income": 2726000
+    },
+    {
+      "name": "YUM! BRANDS",
+      "income": 2560000
+    },
+    {
+      "name": "KINDRED HEALTHCARE D/B/A SCIONHEALTH",
+      "income": 2520000
+    },
+    {
+      "name": "INDEPENDENT PILOTS ASSOCIATION",
+      "income": 2200000
+    },
+    {
+      "name": "HUMANA, INC.",
+      "income": 1880000
+    },
+    {
+      "name": "KINDRED HEALTHCARE D/B/A SCIONHEALTH (FKA KINDRED HEALTHCARE OPERATING, INC)",
+      "income": 1835000
+    },
+    {
+      "name": "NATIONAL ASSN OF STATE TREASURERS (NAST)",
+      "income": 1800000
+    },
+    {
+      "name": "BROWN-FORMAN CORP",
+      "income": 1650000
+    },
+    {
+      "name": "UNIVERSITY OF KENTUCKY",
+      "income": 1650000
+    },
+    {
+      "name": "BAMBOO HEALTH",
+      "income": 1610000
+    },
+    {
+      "name": "UNIVERSITY OF LOUISVILLE",
+      "income": 1600000
+    },
+    {
+      "name": "KENTUCKY COMMUNITY AND TECHNICAL COLLEGE SYSTEM",
+      "income": 1550000
+    },
+    {
+      "name": "AMERICAN SOCIETY OF INTERVENTIONAL PAIN PHYSICIANS",
+      "income": 1530000
+    },
+    {
+      "name": "THE JOCKEY CLUB",
+      "income": 1530000
+    },
+    {
+      "name": "ACADEMY OF DOCTORS OF AUDIOLOGY",
+      "income": 1425000
+    },
+    {
+      "name": "BROWN-FORMAN",
+      "income": 1280000
+    },
+    {
+      "name": "LAKE CUMBERLAND MARINA LLC",
+      "income": 1260000
+    },
+    {
+      "name": "RESCARE INC (DBA BRIGHTSPRING HEALTH SERVICES)",
+      "income": 1230000
+    },
+    {
+      "name": "LEXMARK INTERNATIONAL INC",
+      "income": 1200000
+    },
+    {
+      "name": "YUM RESTAURANT SERVICES GROUP, LLC",
+      "income": 1150000
+    },
+    {
+      "name": "MIDDLEGROUND CAPITAL",
+      "income": 1120000
+    },
+    {
+      "name": "BARBARA BANKE",
+      "income": 1110000
+    },
+    {
+      "name": "PRYSMIAN GROUP",
+      "income": 1060000
+    },
+    {
+      "name": "BAPTIST HEALTHCARE SYSTEM",
+      "income": 1059000
+    },
+    {
+      "name": "LEXINGTON FAYETTE COUNTY UNIFIED GOVERNMENT",
+      "income": 1010000
+    },
+    {
+      "name": "AMERICAN PRINTING HOUSE FOR THE BLIND",
+      "income": 990000
+    },
+    {
+      "name": "TURNING POINT BRANDS",
+      "income": 970000
+    },
+    {
+      "name": "ASSOCIATION OF KENTUCKY FRIED CHICKEN FRANCHISEES",
+      "income": 960000
+    },
+    {
+      "name": "SCIONHEALTH FKA KINDRED HEALTH CARE OPERATING INC.",
+      "income": 940000
+    },
+    {
+      "name": "CHURCHILL DOWNS INCORPORATED",
+      "income": 930000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF VISION CARE PLANS",
+      "income": 900000
+    },
+    {
+      "name": "HOUCHENS INDUSTRIES",
+      "income": 890000
+    },
+    {
+      "name": "ALLTECH, INC.",
+      "income": 880000
+    },
+    {
+      "name": "SENTURE LLC",
+      "income": 850000
+    },
+    {
+      "name": "CHURCHILL DOWNS, INCORPORATED",
+      "income": 810000
+    },
+    {
+      "name": "KENTUCKY HOSPITAL ASSOCIATION",
+      "income": 800000
+    },
+    {
+      "name": "EAST KENTUCKY POWER COOPERATIVE, INC.",
+      "income": 780000
+    },
+    {
+      "name": "UOFL HEALTH, INC.",
+      "income": 750000
+    },
+    {
+      "name": "NATIONAL HORSEMEN'S BENEVOLENT AND PROTECTIVE ASSOCIATION (HBPA)",
+      "income": 740000
+    },
+    {
+      "name": "CITY OF FRANKFORT, KY",
+      "income": 700000
+    },
+    {
+      "name": "DIABETES PATIENT ADVOCACY COALITION",
+      "income": 674000
+    },
+    {
+      "name": "MINOVA GLOBAL",
+      "income": 665000
+    },
+    {
+      "name": "YUM! BRANDS, INC.",
+      "income": 660000
+    },
+    {
+      "name": "CLIMAVISION",
+      "income": 620000
+    },
+    {
+      "name": "DELTA T CORPORATION D/B/A BIG ASS FANS",
+      "income": 610000
+    },
+    {
+      "name": "APPRISS, INC.",
+      "income": 590000
+    },
+    {
+      "name": "LG&E AND KU ENERGY, LLC",
+      "income": 580000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "TAX",
+      "income": 17681145
+    },
+    {
+      "code": "HCR",
+      "income": 17433292
+    },
+    {
+      "code": "BUD",
+      "income": 15617036
+    },
+    {
+      "code": "MMM",
+      "income": 15085000
+    },
+    {
+      "code": "AGR",
+      "income": 10832629
+    },
+    {
+      "code": "TRD",
+      "income": 8964500
+    },
+    {
+      "code": "EDU",
+      "income": 6857050
+    },
+    {
+      "code": "ANI",
+      "income": 5103954
+    },
+    {
+      "code": "LBR",
+      "income": 4820500
+    },
+    {
+      "code": "ENV",
+      "income": 3868703
+    },
+    {
+      "code": "DEF",
+      "income": 3599500
+    },
+    {
+      "code": "ENG",
+      "income": 3381022
+    },
+    {
+      "code": "TRA",
+      "income": 3117349
+    },
+    {
+      "code": "GAM",
+      "income": 2840000
+    },
+    {
+      "code": "AVI",
+      "income": 2645000
+    },
+    {
+      "code": "MAN",
+      "income": 2451750
+    },
+    {
+      "code": "PHA",
+      "income": 2361500
+    },
+    {
+      "code": "FIN",
+      "income": 2338543
+    },
+    {
+      "code": "HOM",
+      "income": 2333098
+    },
+    {
+      "code": "RET",
+      "income": 2310000
+    }
+  ],
+  "perCapita": 32.75,
+  "population": 4526154,
+  "nationalRank": 28,
+  "perCapitaRank": 29
+}

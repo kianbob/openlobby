@@ -1,1 +1,329 @@
-{"abbreviation":"AR","name":"Arkansas","totalSpending":34595090,"totalFilings":1704,"clientCount":116,"yearlySpending":[{"year":2018,"income":2814250},{"year":2019,"income":2149790},{"year":2020,"income":2794000},{"year":2021,"income":3270175},{"year":2022,"income":4203525},{"year":2023,"income":10221400},{"year":2024,"income":4231025},{"year":2025,"income":4910925}],"topClients":[{"name":"ACXIOM LLC","income":2400000},{"name":"WALMART INC","income":1840000},{"name":"TYSON FOODS INC","income":1530000},{"name":"ABF FREIGHT SYSTEMS, INC.","income":1350000},{"name":"ARCBEST","income":1280000},{"name":"CITY OF LITTLE ROCK","income":1080000},{"name":"ARCBEST CORPORATION","income":1060000},{"name":"LITTLE ROCK PORT AUTHORITY","income":1030000},{"name":"OURO MINING INC.","income":1030000},{"name":"TOWNES 5G LLC","income":975000},{"name":"BRISTOL BAY ECONOMIC DEVELOPMENT CORPORATION","income":967500},{"name":"UNIVERSITY OF ARKANSAS","income":860000},{"name":"STEPHENS INVESTMENT HOLDINGS, LLC","income":730000},{"name":"ARISTOTLE UNIFIED COMMUNICATIONS DBA ARISTOTLE","income":690000},{"name":"GOOD DAY FARM, LLC","income":670000},{"name":"WOLFSPEED (FKA CREE FAYETTEVILLE, INC.)","income":660000},{"name":"LYON COLLEGE","income":660000},{"name":"ALVA ELLIOT PARTNERS ON BEHALF OF GOOD DAY FARM LLC","income":620000},{"name":"CALIFORNIA ACADEMY OF SCIENCES","income":600000},{"name":"US VANADIUM LLC","income":600000},{"name":"STEPHENS SHARED SERVICES, LLC","income":600000},{"name":"ARKANSAS STATE UNIVERSITY","income":595000},{"name":"MISSISSIPPI COUNTY, ARKANSAS","income":560000},{"name":"UNIVERSITY OF ARKANSAS FOR MEDICAL SCIENCES","income":560000},{"name":"ARCARE","income":495000},{"name":"WILSON CITY, LLC","income":450000},{"name":"INDEPENDENT PROFESSIONAL SEED ASSOCIATION","income":440000},{"name":"SARACEN DEVELOPMENT LLC","income":420000},{"name":"US VANADIUM","income":400000},{"name":"SHORTER COLLEGE","income":380000},{"name":"WALMART INC.","income":370000},{"name":"DENALI WATER SOLUTIONS","income":365000},{"name":"AMERICAN CASE MANAGEMENT ASSOCIATION","income":350000},{"name":"STEPHENS INVESTMENTS HOLDINGS LLC","income":350000},{"name":"HOME INSTRUCTION PROGRAM FOR PARENTS OF PRESCHOOL YOUNGSTERS (HIPPY) USA","income":320000},{"name":"ARKANSAS STATE UNIVERSITY-NEWPORT","income":320000},{"name":"CHI ST. VINCENT HEALTH","income":320000},{"name":"ARKANSAS LITHIUM CORPORATION","income":315000},{"name":"CITY OF FORT SMITH","income":298800},{"name":"ARKANSAS CHILDREN'S HOSPITAL","income":275000},{"name":"NORTHWEST ARKANSAS COUNCIL OBO THE UNIVERSITY OF ARKANSAS","income":270000},{"name":"BLACKSTONE CONSTRUCTION LLC","income":270000},{"name":"TIER 1 GROUP, LLC (TIG)","income":250000},{"name":"EAST ARKANSAS GOOD ROADS' ASSOCIATION","income":245000},{"name":"BAYOU METO WATER MANAGEMENT DISTRICT","income":245000},{"name":"NORTH ARKANSAS REGIONAL MEDICAL CENTER","income":240000},{"name":"STEPHENS SHARED SERVICES","income":230000},{"name":"ENTEGRIS POCO MATERIALS","income":210000},{"name":"C19 DEVELOPMENT OBO NOWDIAGNOSTICS","income":190000},{"name":"JB HUNT TRANSPORT","income":180000}],"topIssues":[{"code":"BUD","income":5732675},{"code":"TAX","income":3180250},{"code":"TRA","income":2550000},{"code":"DEF","income":2486000},{"code":"TRD","income":2290000},{"code":"RET","income":2270000},{"code":"AGR","income":2055000},{"code":"CPI","income":1890000},{"code":"EDU","income":1795000},{"code":"ENG","income":1710000},{"code":"TEC","income":1551000},{"code":"HCR","income":1427750},{"code":"FIN","income":1410000},{"code":"GOV","income":1292500},{"code":"ECN","income":1240000},{"code":"LBR","income":1189000},{"code":"MAR","income":887500},{"code":"ENV","income":688675},{"code":"VET","income":575000},{"code":"MMM","income":550000}]}
+{
+  "abbreviation": "AR",
+  "name": "Arkansas",
+  "totalSpending": 34595090,
+  "totalFilings": 1704,
+  "clientCount": 116,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 2814250
+    },
+    {
+      "year": 2019,
+      "income": 2149790
+    },
+    {
+      "year": 2020,
+      "income": 2794000
+    },
+    {
+      "year": 2021,
+      "income": 3270175
+    },
+    {
+      "year": 2022,
+      "income": 4203525
+    },
+    {
+      "year": 2023,
+      "income": 10221400
+    },
+    {
+      "year": 2024,
+      "income": 4231025
+    },
+    {
+      "year": 2025,
+      "income": 4910925
+    }
+  ],
+  "topClients": [
+    {
+      "name": "ACXIOM LLC",
+      "income": 2400000
+    },
+    {
+      "name": "WALMART INC",
+      "income": 1840000
+    },
+    {
+      "name": "TYSON FOODS INC",
+      "income": 1530000
+    },
+    {
+      "name": "ABF FREIGHT SYSTEMS, INC.",
+      "income": 1350000
+    },
+    {
+      "name": "ARCBEST",
+      "income": 1280000
+    },
+    {
+      "name": "CITY OF LITTLE ROCK",
+      "income": 1080000
+    },
+    {
+      "name": "ARCBEST CORPORATION",
+      "income": 1060000
+    },
+    {
+      "name": "LITTLE ROCK PORT AUTHORITY",
+      "income": 1030000
+    },
+    {
+      "name": "OURO MINING INC.",
+      "income": 1030000
+    },
+    {
+      "name": "TOWNES 5G LLC",
+      "income": 975000
+    },
+    {
+      "name": "BRISTOL BAY ECONOMIC DEVELOPMENT CORPORATION",
+      "income": 967500
+    },
+    {
+      "name": "UNIVERSITY OF ARKANSAS",
+      "income": 860000
+    },
+    {
+      "name": "STEPHENS INVESTMENT HOLDINGS, LLC",
+      "income": 730000
+    },
+    {
+      "name": "ARISTOTLE UNIFIED COMMUNICATIONS DBA ARISTOTLE",
+      "income": 690000
+    },
+    {
+      "name": "GOOD DAY FARM, LLC",
+      "income": 670000
+    },
+    {
+      "name": "WOLFSPEED (FKA CREE FAYETTEVILLE, INC.)",
+      "income": 660000
+    },
+    {
+      "name": "LYON COLLEGE",
+      "income": 660000
+    },
+    {
+      "name": "ALVA ELLIOT PARTNERS ON BEHALF OF GOOD DAY FARM LLC",
+      "income": 620000
+    },
+    {
+      "name": "CALIFORNIA ACADEMY OF SCIENCES",
+      "income": 600000
+    },
+    {
+      "name": "US VANADIUM LLC",
+      "income": 600000
+    },
+    {
+      "name": "STEPHENS SHARED SERVICES, LLC",
+      "income": 600000
+    },
+    {
+      "name": "ARKANSAS STATE UNIVERSITY",
+      "income": 595000
+    },
+    {
+      "name": "MISSISSIPPI COUNTY, ARKANSAS",
+      "income": 560000
+    },
+    {
+      "name": "UNIVERSITY OF ARKANSAS FOR MEDICAL SCIENCES",
+      "income": 560000
+    },
+    {
+      "name": "ARCARE",
+      "income": 495000
+    },
+    {
+      "name": "WILSON CITY, LLC",
+      "income": 450000
+    },
+    {
+      "name": "INDEPENDENT PROFESSIONAL SEED ASSOCIATION",
+      "income": 440000
+    },
+    {
+      "name": "SARACEN DEVELOPMENT LLC",
+      "income": 420000
+    },
+    {
+      "name": "US VANADIUM",
+      "income": 400000
+    },
+    {
+      "name": "SHORTER COLLEGE",
+      "income": 380000
+    },
+    {
+      "name": "WALMART INC.",
+      "income": 370000
+    },
+    {
+      "name": "DENALI WATER SOLUTIONS",
+      "income": 365000
+    },
+    {
+      "name": "AMERICAN CASE MANAGEMENT ASSOCIATION",
+      "income": 350000
+    },
+    {
+      "name": "STEPHENS INVESTMENTS HOLDINGS LLC",
+      "income": 350000
+    },
+    {
+      "name": "HOME INSTRUCTION PROGRAM FOR PARENTS OF PRESCHOOL YOUNGSTERS (HIPPY) USA",
+      "income": 320000
+    },
+    {
+      "name": "ARKANSAS STATE UNIVERSITY-NEWPORT",
+      "income": 320000
+    },
+    {
+      "name": "CHI ST. VINCENT HEALTH",
+      "income": 320000
+    },
+    {
+      "name": "ARKANSAS LITHIUM CORPORATION",
+      "income": 315000
+    },
+    {
+      "name": "CITY OF FORT SMITH",
+      "income": 298800
+    },
+    {
+      "name": "ARKANSAS CHILDREN'S HOSPITAL",
+      "income": 275000
+    },
+    {
+      "name": "NORTHWEST ARKANSAS COUNCIL OBO THE UNIVERSITY OF ARKANSAS",
+      "income": 270000
+    },
+    {
+      "name": "BLACKSTONE CONSTRUCTION LLC",
+      "income": 270000
+    },
+    {
+      "name": "TIER 1 GROUP, LLC (TIG)",
+      "income": 250000
+    },
+    {
+      "name": "EAST ARKANSAS GOOD ROADS' ASSOCIATION",
+      "income": 245000
+    },
+    {
+      "name": "BAYOU METO WATER MANAGEMENT DISTRICT",
+      "income": 245000
+    },
+    {
+      "name": "NORTH ARKANSAS REGIONAL MEDICAL CENTER",
+      "income": 240000
+    },
+    {
+      "name": "STEPHENS SHARED SERVICES",
+      "income": 230000
+    },
+    {
+      "name": "ENTEGRIS POCO MATERIALS",
+      "income": 210000
+    },
+    {
+      "name": "C19 DEVELOPMENT OBO NOWDIAGNOSTICS",
+      "income": 190000
+    },
+    {
+      "name": "JB HUNT TRANSPORT",
+      "income": 180000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 5732675
+    },
+    {
+      "code": "TAX",
+      "income": 3180250
+    },
+    {
+      "code": "TRA",
+      "income": 2550000
+    },
+    {
+      "code": "DEF",
+      "income": 2486000
+    },
+    {
+      "code": "TRD",
+      "income": 2290000
+    },
+    {
+      "code": "RET",
+      "income": 2270000
+    },
+    {
+      "code": "AGR",
+      "income": 2055000
+    },
+    {
+      "code": "CPI",
+      "income": 1890000
+    },
+    {
+      "code": "EDU",
+      "income": 1795000
+    },
+    {
+      "code": "ENG",
+      "income": 1710000
+    },
+    {
+      "code": "TEC",
+      "income": 1551000
+    },
+    {
+      "code": "HCR",
+      "income": 1427750
+    },
+    {
+      "code": "FIN",
+      "income": 1410000
+    },
+    {
+      "code": "GOV",
+      "income": 1292500
+    },
+    {
+      "code": "ECN",
+      "income": 1240000
+    },
+    {
+      "code": "LBR",
+      "income": 1189000
+    },
+    {
+      "code": "MAR",
+      "income": 887500
+    },
+    {
+      "code": "ENV",
+      "income": 688675
+    },
+    {
+      "code": "VET",
+      "income": 575000
+    },
+    {
+      "code": "MMM",
+      "income": 550000
+    }
+  ],
+  "perCapita": 27.79,
+  "population": 3067732,
+  "nationalRank": 35,
+  "perCapitaRank": 34
+}

@@ -1,1 +1,329 @@
-{"abbreviation":"AK","name":"Alaska","totalSpending":71472188,"totalFilings":4849,"clientCount":226,"yearlySpending":[{"year":2018,"income":6176913},{"year":2019,"income":7003200},{"year":2020,"income":7328900},{"year":2021,"income":6391560},{"year":2022,"income":8102200},{"year":2023,"income":18462590},{"year":2024,"income":7944696},{"year":2025,"income":10062129}],"topClients":[{"name":"ARCTIC SLOPE REGIONAL CORPORATION","income":3050000},{"name":"ALASKA RAILROAD CORP","income":2420000},{"name":"BERING STRAITS NATIVE CORPORATION","income":2360000},{"name":"COOK INLET REGION INCORPORATED (CIRI)","income":1750000},{"name":"PEBBLE LIMITED PARTNERSHIP","income":1710000},{"name":"CALISTA CORPORATION","income":1700000},{"name":"PEBBLE PARTNERSHIP LIMITED","income":1640000},{"name":"GCI COMMUNICATION CORP.","income":1600000},{"name":"TANANA CHIEFS CONFERENCE","income":1485000},{"name":"BRISTOL BAY NATIVE CORPORATION","income":1480000},{"name":"OLD HARBOR NATIVE CORPORATION","income":1180000},{"name":"SEALASKA CORPORATION","income":1170000},{"name":"CHUGACH ALASKA CORP","income":1170000},{"name":"UNIVERSITY OF ALASKA","income":1150000},{"name":"DOYON LTD","income":1130000},{"name":"DOYON UTILITIES, LLC","income":1120000},{"name":"SANTOS LIMITED","income":1120000},{"name":"UKPEAGVIK INUPIAT CORPORATION","income":1110000},{"name":"CITY AND BOROUGH OF SITKA","income":1100000},{"name":"TDX CORP","income":1090000},{"name":"SOUTHCENTRAL FOUNDATION","income":1055000},{"name":"ALEUTIAN PRIBILOF ISLAND COMMUNITY DEVELOPMENT ASSOCIATION","income":1050000},{"name":"SOUTHEAST ALASKA REGIONAL HEALTH CONSORTIUM","income":1040000},{"name":"COASTAL VILLAGES REGION FUND","income":1005000},{"name":"MUNICIPALITY OF ANCHORAGE","income":1000000},{"name":"SHEE ATIKA INC.","income":990000},{"name":"ALASKA NATIVE TRIBAL HEALTH CONSORTIUM","income":966250},{"name":"QUINTILLION","income":940000},{"name":"CITY AND BOROUGH OF JUNEAU","income":850000},{"name":"ALASKA FEDERATION OF NATIVES","income":820000},{"name":"DONLIN GOLD","income":770000},{"name":"NATIVE VILLAGE OF EYAK","income":747500},{"name":"ALEUTIANS EAST BOROUGH","income":718200},{"name":"GRAPHITE ONE","income":690000},{"name":"AMBLER METALS LLC","income":680000},{"name":"CITY OF UNALASKA","income":647782},{"name":"ALASKA GASLINE DEVELOPMENT CORPORATION","income":620000},{"name":"KATMAI GOVERNMENT SERVICES LLC","income":580000},{"name":"RYAN AIR INC","income":580000},{"name":"NORTON SOUND ECONOMIC DEVELOPMENT CORPORATION","income":567000},{"name":"THE PEBBLE PARTNERSHIP","income":540000},{"name":"GOLDEN VALLEY ELECTRIC ASSOCIATION","income":510000},{"name":"COOK INLET TRIBAL COUNCIL","income":500000},{"name":"CHUGACH ELECTRIC ASSOCIATION","income":493000},{"name":"CITY OF SEWARD","income":487000},{"name":"ALASKA STRUCTURES","income":475000},{"name":"HUNA TOTEM CORPORATION","income":470000},{"name":"AMBLER METALS, LLC","income":460000},{"name":"CHENEGA CORPORATION","income":455000},{"name":"CITY OF NOME","income":448000}],"topIssues":[{"code":"BUD","income":21032794},{"code":"IND","income":18981930},{"code":"NAT","income":15830645},{"code":"DEF","income":11283889},{"code":"MAR","income":10415383},{"code":"TRA","income":9836859},{"code":"ENG","income":9715362},{"code":"ENV","income":5490090},{"code":"TAX","income":5214570},{"code":"TEC","income":4208440},{"code":"ECN","income":3118000},{"code":"HCR","income":2671700},{"code":"RES","income":2134500},{"code":"LBR","income":1940000},{"code":"GOV","income":1926500},{"code":"SMB","income":1820000},{"code":"URB","income":1645000},{"code":"SCI","income":1550000},{"code":"HOU","income":1510000},{"code":"POS","income":1310000}]}
+{
+  "abbreviation": "AK",
+  "name": "Alaska",
+  "totalSpending": 71472188,
+  "totalFilings": 4849,
+  "clientCount": 226,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 6176913
+    },
+    {
+      "year": 2019,
+      "income": 7003200
+    },
+    {
+      "year": 2020,
+      "income": 7328900
+    },
+    {
+      "year": 2021,
+      "income": 6391560
+    },
+    {
+      "year": 2022,
+      "income": 8102200
+    },
+    {
+      "year": 2023,
+      "income": 18462590
+    },
+    {
+      "year": 2024,
+      "income": 7944696
+    },
+    {
+      "year": 2025,
+      "income": 10062129
+    }
+  ],
+  "topClients": [
+    {
+      "name": "ARCTIC SLOPE REGIONAL CORPORATION",
+      "income": 3050000
+    },
+    {
+      "name": "ALASKA RAILROAD CORP",
+      "income": 2420000
+    },
+    {
+      "name": "BERING STRAITS NATIVE CORPORATION",
+      "income": 2360000
+    },
+    {
+      "name": "COOK INLET REGION INCORPORATED (CIRI)",
+      "income": 1750000
+    },
+    {
+      "name": "PEBBLE LIMITED PARTNERSHIP",
+      "income": 1710000
+    },
+    {
+      "name": "CALISTA CORPORATION",
+      "income": 1700000
+    },
+    {
+      "name": "PEBBLE PARTNERSHIP LIMITED",
+      "income": 1640000
+    },
+    {
+      "name": "GCI COMMUNICATION CORP.",
+      "income": 1600000
+    },
+    {
+      "name": "TANANA CHIEFS CONFERENCE",
+      "income": 1485000
+    },
+    {
+      "name": "BRISTOL BAY NATIVE CORPORATION",
+      "income": 1480000
+    },
+    {
+      "name": "OLD HARBOR NATIVE CORPORATION",
+      "income": 1180000
+    },
+    {
+      "name": "SEALASKA CORPORATION",
+      "income": 1170000
+    },
+    {
+      "name": "CHUGACH ALASKA CORP",
+      "income": 1170000
+    },
+    {
+      "name": "UNIVERSITY OF ALASKA",
+      "income": 1150000
+    },
+    {
+      "name": "DOYON LTD",
+      "income": 1130000
+    },
+    {
+      "name": "DOYON UTILITIES, LLC",
+      "income": 1120000
+    },
+    {
+      "name": "SANTOS LIMITED",
+      "income": 1120000
+    },
+    {
+      "name": "UKPEAGVIK INUPIAT CORPORATION",
+      "income": 1110000
+    },
+    {
+      "name": "CITY AND BOROUGH OF SITKA",
+      "income": 1100000
+    },
+    {
+      "name": "TDX CORP",
+      "income": 1090000
+    },
+    {
+      "name": "SOUTHCENTRAL FOUNDATION",
+      "income": 1055000
+    },
+    {
+      "name": "ALEUTIAN PRIBILOF ISLAND COMMUNITY DEVELOPMENT ASSOCIATION",
+      "income": 1050000
+    },
+    {
+      "name": "SOUTHEAST ALASKA REGIONAL HEALTH CONSORTIUM",
+      "income": 1040000
+    },
+    {
+      "name": "COASTAL VILLAGES REGION FUND",
+      "income": 1005000
+    },
+    {
+      "name": "MUNICIPALITY OF ANCHORAGE",
+      "income": 1000000
+    },
+    {
+      "name": "SHEE ATIKA INC.",
+      "income": 990000
+    },
+    {
+      "name": "ALASKA NATIVE TRIBAL HEALTH CONSORTIUM",
+      "income": 966250
+    },
+    {
+      "name": "QUINTILLION",
+      "income": 940000
+    },
+    {
+      "name": "CITY AND BOROUGH OF JUNEAU",
+      "income": 850000
+    },
+    {
+      "name": "ALASKA FEDERATION OF NATIVES",
+      "income": 820000
+    },
+    {
+      "name": "DONLIN GOLD",
+      "income": 770000
+    },
+    {
+      "name": "NATIVE VILLAGE OF EYAK",
+      "income": 747500
+    },
+    {
+      "name": "ALEUTIANS EAST BOROUGH",
+      "income": 718200
+    },
+    {
+      "name": "GRAPHITE ONE",
+      "income": 690000
+    },
+    {
+      "name": "AMBLER METALS LLC",
+      "income": 680000
+    },
+    {
+      "name": "CITY OF UNALASKA",
+      "income": 647782
+    },
+    {
+      "name": "ALASKA GASLINE DEVELOPMENT CORPORATION",
+      "income": 620000
+    },
+    {
+      "name": "KATMAI GOVERNMENT SERVICES LLC",
+      "income": 580000
+    },
+    {
+      "name": "RYAN AIR INC",
+      "income": 580000
+    },
+    {
+      "name": "NORTON SOUND ECONOMIC DEVELOPMENT CORPORATION",
+      "income": 567000
+    },
+    {
+      "name": "THE PEBBLE PARTNERSHIP",
+      "income": 540000
+    },
+    {
+      "name": "GOLDEN VALLEY ELECTRIC ASSOCIATION",
+      "income": 510000
+    },
+    {
+      "name": "COOK INLET TRIBAL COUNCIL",
+      "income": 500000
+    },
+    {
+      "name": "CHUGACH ELECTRIC ASSOCIATION",
+      "income": 493000
+    },
+    {
+      "name": "CITY OF SEWARD",
+      "income": 487000
+    },
+    {
+      "name": "ALASKA STRUCTURES",
+      "income": 475000
+    },
+    {
+      "name": "HUNA TOTEM CORPORATION",
+      "income": 470000
+    },
+    {
+      "name": "AMBLER METALS, LLC",
+      "income": 460000
+    },
+    {
+      "name": "CHENEGA CORPORATION",
+      "income": 455000
+    },
+    {
+      "name": "CITY OF NOME",
+      "income": 448000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 21032794
+    },
+    {
+      "code": "IND",
+      "income": 18981930
+    },
+    {
+      "code": "NAT",
+      "income": 15830645
+    },
+    {
+      "code": "DEF",
+      "income": 11283889
+    },
+    {
+      "code": "MAR",
+      "income": 10415383
+    },
+    {
+      "code": "TRA",
+      "income": 9836859
+    },
+    {
+      "code": "ENG",
+      "income": 9715362
+    },
+    {
+      "code": "ENV",
+      "income": 5490090
+    },
+    {
+      "code": "TAX",
+      "income": 5214570
+    },
+    {
+      "code": "TEC",
+      "income": 4208440
+    },
+    {
+      "code": "ECN",
+      "income": 3118000
+    },
+    {
+      "code": "HCR",
+      "income": 2671700
+    },
+    {
+      "code": "RES",
+      "income": 2134500
+    },
+    {
+      "code": "LBR",
+      "income": 1940000
+    },
+    {
+      "code": "GOV",
+      "income": 1926500
+    },
+    {
+      "code": "SMB",
+      "income": 1820000
+    },
+    {
+      "code": "URB",
+      "income": 1645000
+    },
+    {
+      "code": "SCI",
+      "income": 1550000
+    },
+    {
+      "code": "HOU",
+      "income": 1510000
+    },
+    {
+      "code": "POS",
+      "income": 1310000
+    }
+  ],
+  "perCapita": 97.59,
+  "population": 733406,
+  "nationalRank": 37,
+  "perCapitaRank": 6
+}

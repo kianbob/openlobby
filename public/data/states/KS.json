@@ -1,1 +1,329 @@
-{"abbreviation":"KS","name":"Kansas","totalSpending":73708376.62,"totalFilings":3437,"clientCount":198,"yearlySpending":[{"year":2018,"income":4691000},{"year":2019,"income":4658500},{"year":2020,"income":6479750},{"year":2021,"income":6879357},{"year":2022,"income":8983295.620000001},{"year":2023,"income":21606474},{"year":2024,"income":9050750},{"year":2025,"income":11359250}],"topClients":[{"name":"KOCH GOVERNMENT AFFAIRS, LLC","income":4930000},{"name":"CROP INSURANCE AND REINSURANCE BUREAU","income":3440000},{"name":"AMERICAN COLLEGE OF CLINICAL PHARMACY","income":3020000},{"name":"YELLOW CORPORATION","income":2517135},{"name":"TALLGRASS ENERGY PARTNERS, LP","income":2430000},{"name":"GARMIN INTERNATIONAL, INC.","income":1860000},{"name":"KOCH GOVERNMENT AFFAIRS, LLC FKA KOCH COMPANIES PUBLIC SECTOR, LLC","income":1850000},{"name":"KOCH GOVERNMENT AFFAIRS, LLC (FKA KOCH COMPANIES PUBLIC SECTOR, LLC)","income":1700000},{"name":"SPIRIT AEROSYSTEMS, INC.","income":1610000},{"name":"AMERICAN ACADEMY OF FAMILY PHYSICIANS","income":1520000},{"name":"MULTI SERVICE TECHNOLOGY SOLUTIONS, INC. (D/B/A TREVIPAY)","income":1410000},{"name":"EDP ENTERPRISES INC","income":1370000},{"name":"NATIONAL ASSOCIATION OF EMS PHYSICIANS","income":1340000},{"name":"KANSAS DEPARTMENT OF COMMERCE","income":1260000},{"name":"KOCH GOVERNMENT AFFAIRS","income":1210000},{"name":"NATIONAL ASSOCIATION OF TRAILER MANUFACTURERS","income":1200000},{"name":"WELLSKY","income":1080000},{"name":"UNIVERSITY OF KANSAS HOSPITAL AUTHORITY","income":1040000},{"name":"BEEF ALLIANCE","income":970000},{"name":"FARM JOURNAL, INC.","income":970000},{"name":"GOVERNOR'S MILITARY COUNCIL","income":960000},{"name":"RX SAVINGS, LLC DBA RX SAVINGS SOLUTIONS","income":910000},{"name":"GIDEON FOUNDATION","income":910000},{"name":"KANSAS STATE UNIVERSITY","income":830000},{"name":"NEOSHO MEMORIAL REGIONAL MEDICAL CENTER","income":830000},{"name":"INTEGRA TECHNOLOGIES","income":820000},{"name":"PERFORMANCE CONTRACTING GROUP, INC.","income":780000},{"name":"CROP INSURANCE PROFESSIONAL ASSOCIATION LLC (NEW NAME)","income":760000},{"name":"INTERNATIONAL ASSOCIATION OF PLASTICS DISTRIBUTION","income":700000},{"name":"CEREBRAL PALSY RESEARCH FOUNDATION","income":697500},{"name":"TACO BELL FRANCHISE MANAGEMENT ADVISORY COUNCIL","income":670000},{"name":"INTERNATIONAL PIZZA HUT FRANCHISE HOLDERS ASSOCIATION","income":660000},{"name":"IAPD - THE PERFORMANCE PLASTICS ASSOCIATION","income":660000},{"name":"CITY OF WICHITA, KS","income":650000},{"name":"NIC INC.","income":630000},{"name":"ANGEL CAPITAL ASSOCIATION","income":600000},{"name":"RURAL TELEPHONE D/B/A NEX-TECH","income":580000},{"name":"NORTHWEST KANSAS TECHNICAL COLLEGE","income":560000},{"name":"KANSAS HOSPITAL ASSOCIATION","income":553000},{"name":"SEDGWICK COUNTY, KS","income":540000},{"name":"SELECTQUOTE, INC.","income":540000},{"name":"SPRINT CORPORATION (FORMERLY SPRINT)","income":520000},{"name":"TORCH.AI","income":520000},{"name":"EMP SHIELD","income":520000},{"name":"YRC WORLDWIDE INC.","income":510000},{"name":"LEADING TECHNOLOGY COMPOSITES","income":510000},{"name":"DATALOCKER","income":485000},{"name":"KANSAS CITY COALITION (INFORMAL COALITION)","income":470000},{"name":"KANSAS CITY KANSAS COMMUNITY COLLEGE","income":470000},{"name":"CONCORDE CAREER COLLEGES, INC.","income":460000}],"topIssues":[{"code":"BUD","income":14075161},{"code":"TAX","income":11190500},{"code":"HCR","income":9526000},{"code":"TRA","income":9367500},{"code":"AGR","income":9109491.620000001},{"code":"DEF","income":8051750},{"code":"MMM","income":6769000},{"code":"ENG","income":5410000},{"code":"LBR","income":4605661},{"code":"FIN","income":4073000},{"code":"TRD","income":3995000},{"code":"HOM","income":3890000},{"code":"ENV","income":3745000},{"code":"UTI","income":2630000},{"code":"EDU","income":2625000},{"code":"TEC","income":2418000},{"code":"GOV","income":2280000},{"code":"ECN","income":2240000},{"code":"CAW","income":2215250},{"code":"AVI","income":1910000}]}
+{
+  "abbreviation": "KS",
+  "name": "Kansas",
+  "totalSpending": 73708376.62,
+  "totalFilings": 3437,
+  "clientCount": 198,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 4691000
+    },
+    {
+      "year": 2019,
+      "income": 4658500
+    },
+    {
+      "year": 2020,
+      "income": 6479750
+    },
+    {
+      "year": 2021,
+      "income": 6879357
+    },
+    {
+      "year": 2022,
+      "income": 8983295.620000001
+    },
+    {
+      "year": 2023,
+      "income": 21606474
+    },
+    {
+      "year": 2024,
+      "income": 9050750
+    },
+    {
+      "year": 2025,
+      "income": 11359250
+    }
+  ],
+  "topClients": [
+    {
+      "name": "KOCH GOVERNMENT AFFAIRS, LLC",
+      "income": 4930000
+    },
+    {
+      "name": "CROP INSURANCE AND REINSURANCE BUREAU",
+      "income": 3440000
+    },
+    {
+      "name": "AMERICAN COLLEGE OF CLINICAL PHARMACY",
+      "income": 3020000
+    },
+    {
+      "name": "YELLOW CORPORATION",
+      "income": 2517135
+    },
+    {
+      "name": "TALLGRASS ENERGY PARTNERS, LP",
+      "income": 2430000
+    },
+    {
+      "name": "GARMIN INTERNATIONAL, INC.",
+      "income": 1860000
+    },
+    {
+      "name": "KOCH GOVERNMENT AFFAIRS, LLC FKA KOCH COMPANIES PUBLIC SECTOR, LLC",
+      "income": 1850000
+    },
+    {
+      "name": "KOCH GOVERNMENT AFFAIRS, LLC (FKA KOCH COMPANIES PUBLIC SECTOR, LLC)",
+      "income": 1700000
+    },
+    {
+      "name": "SPIRIT AEROSYSTEMS, INC.",
+      "income": 1610000
+    },
+    {
+      "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS",
+      "income": 1520000
+    },
+    {
+      "name": "MULTI SERVICE TECHNOLOGY SOLUTIONS, INC. (D/B/A TREVIPAY)",
+      "income": 1410000
+    },
+    {
+      "name": "EDP ENTERPRISES INC",
+      "income": 1370000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF EMS PHYSICIANS",
+      "income": 1340000
+    },
+    {
+      "name": "KANSAS DEPARTMENT OF COMMERCE",
+      "income": 1260000
+    },
+    {
+      "name": "KOCH GOVERNMENT AFFAIRS",
+      "income": 1210000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF TRAILER MANUFACTURERS",
+      "income": 1200000
+    },
+    {
+      "name": "WELLSKY",
+      "income": 1080000
+    },
+    {
+      "name": "UNIVERSITY OF KANSAS HOSPITAL AUTHORITY",
+      "income": 1040000
+    },
+    {
+      "name": "BEEF ALLIANCE",
+      "income": 970000
+    },
+    {
+      "name": "FARM JOURNAL, INC.",
+      "income": 970000
+    },
+    {
+      "name": "GOVERNOR'S MILITARY COUNCIL",
+      "income": 960000
+    },
+    {
+      "name": "RX SAVINGS, LLC DBA RX SAVINGS SOLUTIONS",
+      "income": 910000
+    },
+    {
+      "name": "GIDEON FOUNDATION",
+      "income": 910000
+    },
+    {
+      "name": "KANSAS STATE UNIVERSITY",
+      "income": 830000
+    },
+    {
+      "name": "NEOSHO MEMORIAL REGIONAL MEDICAL CENTER",
+      "income": 830000
+    },
+    {
+      "name": "INTEGRA TECHNOLOGIES",
+      "income": 820000
+    },
+    {
+      "name": "PERFORMANCE CONTRACTING GROUP, INC.",
+      "income": 780000
+    },
+    {
+      "name": "CROP INSURANCE PROFESSIONAL ASSOCIATION LLC (NEW NAME)",
+      "income": 760000
+    },
+    {
+      "name": "INTERNATIONAL ASSOCIATION OF PLASTICS DISTRIBUTION",
+      "income": 700000
+    },
+    {
+      "name": "CEREBRAL PALSY RESEARCH FOUNDATION",
+      "income": 697500
+    },
+    {
+      "name": "TACO BELL FRANCHISE MANAGEMENT ADVISORY COUNCIL",
+      "income": 670000
+    },
+    {
+      "name": "INTERNATIONAL PIZZA HUT FRANCHISE HOLDERS ASSOCIATION",
+      "income": 660000
+    },
+    {
+      "name": "IAPD - THE PERFORMANCE PLASTICS ASSOCIATION",
+      "income": 660000
+    },
+    {
+      "name": "CITY OF WICHITA, KS",
+      "income": 650000
+    },
+    {
+      "name": "NIC INC.",
+      "income": 630000
+    },
+    {
+      "name": "ANGEL CAPITAL ASSOCIATION",
+      "income": 600000
+    },
+    {
+      "name": "RURAL TELEPHONE D/B/A NEX-TECH",
+      "income": 580000
+    },
+    {
+      "name": "NORTHWEST KANSAS TECHNICAL COLLEGE",
+      "income": 560000
+    },
+    {
+      "name": "KANSAS HOSPITAL ASSOCIATION",
+      "income": 553000
+    },
+    {
+      "name": "SEDGWICK COUNTY, KS",
+      "income": 540000
+    },
+    {
+      "name": "SELECTQUOTE, INC.",
+      "income": 540000
+    },
+    {
+      "name": "SPRINT CORPORATION (FORMERLY SPRINT)",
+      "income": 520000
+    },
+    {
+      "name": "TORCH.AI",
+      "income": 520000
+    },
+    {
+      "name": "EMP SHIELD",
+      "income": 520000
+    },
+    {
+      "name": "YRC WORLDWIDE INC.",
+      "income": 510000
+    },
+    {
+      "name": "LEADING TECHNOLOGY COMPOSITES",
+      "income": 510000
+    },
+    {
+      "name": "DATALOCKER",
+      "income": 485000
+    },
+    {
+      "name": "KANSAS CITY COALITION (INFORMAL COALITION)",
+      "income": 470000
+    },
+    {
+      "name": "KANSAS CITY KANSAS COMMUNITY COLLEGE",
+      "income": 470000
+    },
+    {
+      "name": "CONCORDE CAREER COLLEGES, INC.",
+      "income": 460000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 14075161
+    },
+    {
+      "code": "TAX",
+      "income": 11190500
+    },
+    {
+      "code": "HCR",
+      "income": 9526000
+    },
+    {
+      "code": "TRA",
+      "income": 9367500
+    },
+    {
+      "code": "AGR",
+      "income": 9109491.620000001
+    },
+    {
+      "code": "DEF",
+      "income": 8051750
+    },
+    {
+      "code": "MMM",
+      "income": 6769000
+    },
+    {
+      "code": "ENG",
+      "income": 5410000
+    },
+    {
+      "code": "LBR",
+      "income": 4605661
+    },
+    {
+      "code": "FIN",
+      "income": 4073000
+    },
+    {
+      "code": "TRD",
+      "income": 3995000
+    },
+    {
+      "code": "HOM",
+      "income": 3890000
+    },
+    {
+      "code": "ENV",
+      "income": 3745000
+    },
+    {
+      "code": "UTI",
+      "income": 2630000
+    },
+    {
+      "code": "EDU",
+      "income": 2625000
+    },
+    {
+      "code": "TEC",
+      "income": 2418000
+    },
+    {
+      "code": "GOV",
+      "income": 2280000
+    },
+    {
+      "code": "ECN",
+      "income": 2240000
+    },
+    {
+      "code": "CAW",
+      "income": 2215250
+    },
+    {
+      "code": "AVI",
+      "income": 1910000
+    }
+  ],
+  "perCapita": 39.77,
+  "population": 2940546,
+  "nationalRank": 33,
+  "perCapitaRank": 20
+}

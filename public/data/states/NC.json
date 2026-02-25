@@ -1,1 +1,329 @@
-{"abbreviation":"NC","name":"North Carolina","totalSpending":240026494.39000002,"totalFilings":11784,"clientCount":695,"yearlySpending":[{"year":2018,"income":16346500},{"year":2019,"income":17283500},{"year":2020,"income":22690000},{"year":2021,"income":23485300},{"year":2022,"income":25829400},{"year":2023,"income":63854030.620000005},{"year":2024,"income":28996802.23},{"year":2025,"income":41540961.54}],"topClients":[{"name":"RAI SERVICES COMPANY","income":5889000},{"name":"DUKE ENERGY BUSINESS SERVICES LLC","income":5320000},{"name":"NUCOR CORPORATION","income":4840000},{"name":"LABORATORY CORPORATION OF AMERICA HOLDINGS","income":4840000},{"name":"ATLANTIC COAST CONFERENCE","income":4530000},{"name":"RAI SERVICES COMPANY (FKA- RAISC)","income":3960000},{"name":"SAS INSTITUTE INC.","income":3520000},{"name":"STRATA CLEAN ENERGY","income":3315000},{"name":"EASTERN BAND OF CHEROKEE INDIANS","income":2550000},{"name":"NORTH CAROLINA MILITARY AFFAIRS COMMISSION","income":2340000},{"name":"PYXUS INTERNATIONAL, INC.","income":2220000},{"name":"EPIC GAMES, INC.","income":2160000},{"name":"ATRIUM HEALTH WAKE FOREST BAPTIST","income":2150000},{"name":"PROFESSIONAL BACKGROUND SCREENERS ASSOCIATION","income":2040000},{"name":"ITG BRANDS","income":2040000},{"name":"PHYSICIANS ADVOCACY INSTITUTE","income":2035000},{"name":"EXELA PHARMA SCIENCES, LLC","income":1938000},{"name":"DUKE ENERGY CORPORATION","income":1900000},{"name":"WOLFSPEED, INC.","income":1850000},{"name":"ALG SENIOR LLC","income":1830000},{"name":"RTI INTERNATIONAL","income":1810000},{"name":"CONAFAY GROUP ON BEHALF OF ANTIBIOTICS WORKING GROUP","income":1770000},{"name":"SAAB","income":1709000},{"name":"ELECTROLUX NORTH AMERICA","income":1690000},{"name":"LOWE'S COMPANIES INC.","income":1670000},{"name":"UMICORE USA, INC.","income":1640000},{"name":"CENTRAL ADMIXTURE PHARMACY SERVICES, INC.","income":1600000},{"name":"AMERICAN SOCIETY OF ECHOCARDIOGRAPHY","income":1600000},{"name":"TIAA","income":1560000},{"name":"VETERANS GUARDIAN VA CLAIM CONSULTING LLC","income":1550000},{"name":"CITY OF CHARLOTTE","income":1500000},{"name":"DIRECT CHASSISLINK, INC.","income":1490000},{"name":"OLD DOMINION FREIGHT LINE, INC.","income":1485000},{"name":"GLOBAL LASER ENRICHMENT LLC","income":1440000},{"name":"BANK OF AMERICA CORPORATION","income":1400000},{"name":"TRAUMA CENTER ASSOCIATION OF AMERICA","income":1360000},{"name":"RETIREMENT CLEARINGHOUSE","income":1360000},{"name":"NORTH CAROLINA STATE PORTS AUTHORITY","income":1340000},{"name":"RAI SERVICES COMPANY (FORMERLY KNOWN AS REYNOLDS AMERICAN)","income":1210000},{"name":"VICTIMS OF TERRORISM - SUDAN AND EAST AFRICA","income":1140000},{"name":"MILITARY SUPPORT COALITION","income":1130000},{"name":"HONEYWELL INTERNATIONAL, INC.","income":1100000},{"name":"NOVOZYMES NORTH AMERICA INC.","income":1090000},{"name":"HMS HOLDING LIMITED PARTNERSHIP","income":1080000},{"name":"CHIESI USA, INC.","income":1070000},{"name":"HOSPICE COMPASSUS","income":1070000},{"name":"USTC","income":1060000},{"name":"HANESBRANDS INC","income":1050000},{"name":"ALLIANCE ONE INTERNATIONAL, INC.","income":1050000},{"name":"VF CORPORATION","income":1040000}],"topIssues":[{"code":"BUD","income":44982050},{"code":"HCR","income":34878816.54},{"code":"DEF","income":26331250},{"code":"TAX","income":23772000},{"code":"TRD","income":23658166},{"code":"ENG","income":15913355},{"code":"TRA","income":15841700},{"code":"GOV","income":13876300},{"code":"TOB","income":11707000},{"code":"ENV","income":11048350},{"code":"MMM","income":9461816.54},{"code":"AGR","income":9398000},{"code":"MAN","income":8109000},{"code":"NAT","income":6549550},{"code":"BAN","income":6245000},{"code":"EDU","income":5785000},{"code":"FOR","income":5471000},{"code":"ECN","income":5206300},{"code":"FIN","income":5098500},{"code":"SPO","income":4705000}]}
+{
+  "abbreviation": "NC",
+  "name": "North Carolina",
+  "totalSpending": 240026494.39000002,
+  "totalFilings": 11784,
+  "clientCount": 695,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 16346500
+    },
+    {
+      "year": 2019,
+      "income": 17283500
+    },
+    {
+      "year": 2020,
+      "income": 22690000
+    },
+    {
+      "year": 2021,
+      "income": 23485300
+    },
+    {
+      "year": 2022,
+      "income": 25829400
+    },
+    {
+      "year": 2023,
+      "income": 63854030.620000005
+    },
+    {
+      "year": 2024,
+      "income": 28996802.23
+    },
+    {
+      "year": 2025,
+      "income": 41540961.54
+    }
+  ],
+  "topClients": [
+    {
+      "name": "RAI SERVICES COMPANY",
+      "income": 5889000
+    },
+    {
+      "name": "DUKE ENERGY BUSINESS SERVICES LLC",
+      "income": 5320000
+    },
+    {
+      "name": "NUCOR CORPORATION",
+      "income": 4840000
+    },
+    {
+      "name": "LABORATORY CORPORATION OF AMERICA HOLDINGS",
+      "income": 4840000
+    },
+    {
+      "name": "ATLANTIC COAST CONFERENCE",
+      "income": 4530000
+    },
+    {
+      "name": "RAI SERVICES COMPANY (FKA- RAISC)",
+      "income": 3960000
+    },
+    {
+      "name": "SAS INSTITUTE INC.",
+      "income": 3520000
+    },
+    {
+      "name": "STRATA CLEAN ENERGY",
+      "income": 3315000
+    },
+    {
+      "name": "EASTERN BAND OF CHEROKEE INDIANS",
+      "income": 2550000
+    },
+    {
+      "name": "NORTH CAROLINA MILITARY AFFAIRS COMMISSION",
+      "income": 2340000
+    },
+    {
+      "name": "PYXUS INTERNATIONAL, INC.",
+      "income": 2220000
+    },
+    {
+      "name": "EPIC GAMES, INC.",
+      "income": 2160000
+    },
+    {
+      "name": "ATRIUM HEALTH WAKE FOREST BAPTIST",
+      "income": 2150000
+    },
+    {
+      "name": "PROFESSIONAL BACKGROUND SCREENERS ASSOCIATION",
+      "income": 2040000
+    },
+    {
+      "name": "ITG BRANDS",
+      "income": 2040000
+    },
+    {
+      "name": "PHYSICIANS ADVOCACY INSTITUTE",
+      "income": 2035000
+    },
+    {
+      "name": "EXELA PHARMA SCIENCES, LLC",
+      "income": 1938000
+    },
+    {
+      "name": "DUKE ENERGY CORPORATION",
+      "income": 1900000
+    },
+    {
+      "name": "WOLFSPEED, INC.",
+      "income": 1850000
+    },
+    {
+      "name": "ALG SENIOR LLC",
+      "income": 1830000
+    },
+    {
+      "name": "RTI INTERNATIONAL",
+      "income": 1810000
+    },
+    {
+      "name": "CONAFAY GROUP ON BEHALF OF ANTIBIOTICS WORKING GROUP",
+      "income": 1770000
+    },
+    {
+      "name": "SAAB",
+      "income": 1709000
+    },
+    {
+      "name": "ELECTROLUX NORTH AMERICA",
+      "income": 1690000
+    },
+    {
+      "name": "LOWE'S COMPANIES INC.",
+      "income": 1670000
+    },
+    {
+      "name": "UMICORE USA, INC.",
+      "income": 1640000
+    },
+    {
+      "name": "CENTRAL ADMIXTURE PHARMACY SERVICES, INC.",
+      "income": 1600000
+    },
+    {
+      "name": "AMERICAN SOCIETY OF ECHOCARDIOGRAPHY",
+      "income": 1600000
+    },
+    {
+      "name": "TIAA",
+      "income": 1560000
+    },
+    {
+      "name": "VETERANS GUARDIAN VA CLAIM CONSULTING LLC",
+      "income": 1550000
+    },
+    {
+      "name": "CITY OF CHARLOTTE",
+      "income": 1500000
+    },
+    {
+      "name": "DIRECT CHASSISLINK, INC.",
+      "income": 1490000
+    },
+    {
+      "name": "OLD DOMINION FREIGHT LINE, INC.",
+      "income": 1485000
+    },
+    {
+      "name": "GLOBAL LASER ENRICHMENT LLC",
+      "income": 1440000
+    },
+    {
+      "name": "BANK OF AMERICA CORPORATION",
+      "income": 1400000
+    },
+    {
+      "name": "TRAUMA CENTER ASSOCIATION OF AMERICA",
+      "income": 1360000
+    },
+    {
+      "name": "RETIREMENT CLEARINGHOUSE",
+      "income": 1360000
+    },
+    {
+      "name": "NORTH CAROLINA STATE PORTS AUTHORITY",
+      "income": 1340000
+    },
+    {
+      "name": "RAI SERVICES COMPANY (FORMERLY KNOWN AS REYNOLDS AMERICAN)",
+      "income": 1210000
+    },
+    {
+      "name": "VICTIMS OF TERRORISM - SUDAN AND EAST AFRICA",
+      "income": 1140000
+    },
+    {
+      "name": "MILITARY SUPPORT COALITION",
+      "income": 1130000
+    },
+    {
+      "name": "HONEYWELL INTERNATIONAL, INC.",
+      "income": 1100000
+    },
+    {
+      "name": "NOVOZYMES NORTH AMERICA INC.",
+      "income": 1090000
+    },
+    {
+      "name": "HMS HOLDING LIMITED PARTNERSHIP",
+      "income": 1080000
+    },
+    {
+      "name": "CHIESI USA, INC.",
+      "income": 1070000
+    },
+    {
+      "name": "HOSPICE COMPASSUS",
+      "income": 1070000
+    },
+    {
+      "name": "USTC",
+      "income": 1060000
+    },
+    {
+      "name": "HANESBRANDS INC",
+      "income": 1050000
+    },
+    {
+      "name": "ALLIANCE ONE INTERNATIONAL, INC.",
+      "income": 1050000
+    },
+    {
+      "name": "VF CORPORATION",
+      "income": 1040000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 44982050
+    },
+    {
+      "code": "HCR",
+      "income": 34878816.54
+    },
+    {
+      "code": "DEF",
+      "income": 26331250
+    },
+    {
+      "code": "TAX",
+      "income": 23772000
+    },
+    {
+      "code": "TRD",
+      "income": 23658166
+    },
+    {
+      "code": "ENG",
+      "income": 15913355
+    },
+    {
+      "code": "TRA",
+      "income": 15841700
+    },
+    {
+      "code": "GOV",
+      "income": 13876300
+    },
+    {
+      "code": "TOB",
+      "income": 11707000
+    },
+    {
+      "code": "ENV",
+      "income": 11048350
+    },
+    {
+      "code": "MMM",
+      "income": 9461816.54
+    },
+    {
+      "code": "AGR",
+      "income": 9398000
+    },
+    {
+      "code": "MAN",
+      "income": 8109000
+    },
+    {
+      "code": "NAT",
+      "income": 6549550
+    },
+    {
+      "code": "BAN",
+      "income": 6245000
+    },
+    {
+      "code": "EDU",
+      "income": 5785000
+    },
+    {
+      "code": "FOR",
+      "income": 5471000
+    },
+    {
+      "code": "ECN",
+      "income": 5206300
+    },
+    {
+      "code": "FIN",
+      "income": 5098500
+    },
+    {
+      "code": "SPO",
+      "income": 4705000
+    }
+  ],
+  "perCapita": 28.9,
+  "population": 10835491,
+  "nationalRank": 18,
+  "perCapitaRank": 33
+}

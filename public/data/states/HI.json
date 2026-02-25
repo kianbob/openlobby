@@ -1,1 +1,329 @@
-{"abbreviation":"HI","name":"Hawaii","totalSpending":17919943,"totalFilings":1230,"clientCount":91,"yearlySpending":[{"year":2018,"income":774375},{"year":2019,"income":716800},{"year":2020,"income":1588900},{"year":2021,"income":1639430},{"year":2022,"income":1894277},{"year":2023,"income":4847200},{"year":2024,"income":2493552},{"year":2025,"income":3965409}],"topClients":[{"name":"HONOLULU AUTH. FOR RAPID TRNS. (PREVIOUSLY KNOWN AS INFRACONSULT, LLC.)","income":1490000},{"name":"NORTH STAR SCIENTIFIC CORPORATION","income":1140000},{"name":"THE QUEEN'S HEALTH SYSTEMS","income":992000},{"name":"MAUI HEALTH SYSTEM","income":863852},{"name":"STATE OF HAWAII DEPT OF TRANSPORTATION","income":820000},{"name":"KAMEHAMEHA SCHOOLS","income":758000},{"name":"HAWAII LONGLINE ASSOCIATION","income":710000},{"name":"COUNTY OF KAUA'I","income":640000},{"name":"KAIMANA HILA (ON BEHALF OF UNIVERSITY OF HAWAII)","income":560000},{"name":"SPECTRUM PHOTONICS, INC.","income":500000},{"name":"PACIFIC TECHNOLOGIES AND SOLUTIONS","income":450000},{"name":"MAUI ECONOMIC OPPORTUNITY","income":445000},{"name":"COUNTY OF MAUI, HAWAII","income":410000},{"name":"U.S. HEREDITARY ANGIOEDEMA ASSOCIATION","income":400000},{"name":"ONEBRIEF, INC.","income":380000},{"name":"VISIONSAFE","income":370000},{"name":"HALE MAKUA HEALTH SERVICES","income":360000},{"name":"HUI HULIAU","income":355000},{"name":"COUNTY OF MAUI- HAWAII","income":330000},{"name":"HONU SERVICES","income":300000},{"name":"PACIFIC MARINE & SUPPLY COMPANY","income":297500},{"name":"MATSON NAVIGATION COMPANY, INC.","income":290000},{"name":"CITY AND COUNTY OF HONOLULU","income":270000},{"name":"CHAMBER OF COMMERCE HAWAII/ MILITARY AFFAIRS COUNCIL","income":270000},{"name":"PACIFIC MARINE & SUPPLY COMPANY LTD.","income":270000},{"name":"ONEBRIEF","income":264000},{"name":"DAWSON","income":260000},{"name":"HAWAIIAN NATIVE CORPORATION","income":250000},{"name":"CHILD AND FAMILY SERVICE","income":240000},{"name":"MAHI PONO, LLC","income":240000},{"name":"HAWAII BIOTECH, INC.","income":230000},{"name":"KONA COMMUNITY HEALTH","income":220000},{"name":"HONOLULU BOARD OF WATER SUPPLY","income":150000},{"name":"PACMAR TECHNOLOGIES","income":130000},{"name":"NAVATEK LLC","income":120000},{"name":"REVACOMM","income":120000},{"name":"STATE OF HAWAII DEPARTMENT OF TRANSPORTATION","income":120000},{"name":"HAWAIIAN ELECTRIC COMPANY INC","income":110000},{"name":"MARTIN DEFENSE GROUP LLC (FORMERLY NAVATEK LLC)","income":100000},{"name":"HEI, INC.","income":100000},{"name":"WORKNOW HAWAII","income":100000},{"name":"EAST WEST CENTER","income":100000},{"name":"MAUI ECONOMIC OPPORTUNITY, INC.","income":90000},{"name":"MARTIN DEFENSE GROUP (FORMERLY NAVATEK LLC)","income":90000},{"name":"STATE OF HAWAII DEPARTMENT OF AGRICULTURE","income":90000},{"name":"MARTIN DEFENSE GROUP FORMERLY \"NAVATEK LLC\"","income":70000},{"name":"HAWAII LAND TRUST","income":70000},{"name":"THE HAWAI'I PACIFIC FOUNDATION","income":70000},{"name":"THE QUEENS HEALTH SYSTEMS","income":60000},{"name":"PLEXOS GROUP, LLC","income":60000}],"topIssues":[{"code":"BUD","income":7797510},{"code":"DEF","income":3482530},{"code":"TRA","income":2590000},{"code":"HCR","income":1633850},{"code":"MMM","income":1017175},{"code":"IND","income":900000},{"code":"DIS","income":895000},{"code":"LBR","income":765000},{"code":"ENV","income":722000},{"code":"EDU","income":606000},{"code":"AGR","income":555000},{"code":"ECN","income":539830},{"code":"WEL","income":485000},{"code":"HOM","income":480000},{"code":"SCI","income":330000},{"code":"TRD","income":320000},{"code":"SMB","income":320000},{"code":"TAX","income":250000},{"code":"HOU","income":250000},{"code":"ENG","income":220000}]}
+{
+  "abbreviation": "HI",
+  "name": "Hawaii",
+  "totalSpending": 17919943,
+  "totalFilings": 1230,
+  "clientCount": 91,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 774375
+    },
+    {
+      "year": 2019,
+      "income": 716800
+    },
+    {
+      "year": 2020,
+      "income": 1588900
+    },
+    {
+      "year": 2021,
+      "income": 1639430
+    },
+    {
+      "year": 2022,
+      "income": 1894277
+    },
+    {
+      "year": 2023,
+      "income": 4847200
+    },
+    {
+      "year": 2024,
+      "income": 2493552
+    },
+    {
+      "year": 2025,
+      "income": 3965409
+    }
+  ],
+  "topClients": [
+    {
+      "name": "HONOLULU AUTH. FOR RAPID TRNS. (PREVIOUSLY KNOWN AS INFRACONSULT, LLC.)",
+      "income": 1490000
+    },
+    {
+      "name": "NORTH STAR SCIENTIFIC CORPORATION",
+      "income": 1140000
+    },
+    {
+      "name": "THE QUEEN'S HEALTH SYSTEMS",
+      "income": 992000
+    },
+    {
+      "name": "MAUI HEALTH SYSTEM",
+      "income": 863852
+    },
+    {
+      "name": "STATE OF HAWAII DEPT OF TRANSPORTATION",
+      "income": 820000
+    },
+    {
+      "name": "KAMEHAMEHA SCHOOLS",
+      "income": 758000
+    },
+    {
+      "name": "HAWAII LONGLINE ASSOCIATION",
+      "income": 710000
+    },
+    {
+      "name": "COUNTY OF KAUA'I",
+      "income": 640000
+    },
+    {
+      "name": "KAIMANA HILA (ON BEHALF OF UNIVERSITY OF HAWAII)",
+      "income": 560000
+    },
+    {
+      "name": "SPECTRUM PHOTONICS, INC.",
+      "income": 500000
+    },
+    {
+      "name": "PACIFIC TECHNOLOGIES AND SOLUTIONS",
+      "income": 450000
+    },
+    {
+      "name": "MAUI ECONOMIC OPPORTUNITY",
+      "income": 445000
+    },
+    {
+      "name": "COUNTY OF MAUI, HAWAII",
+      "income": 410000
+    },
+    {
+      "name": "U.S. HEREDITARY ANGIOEDEMA ASSOCIATION",
+      "income": 400000
+    },
+    {
+      "name": "ONEBRIEF, INC.",
+      "income": 380000
+    },
+    {
+      "name": "VISIONSAFE",
+      "income": 370000
+    },
+    {
+      "name": "HALE MAKUA HEALTH SERVICES",
+      "income": 360000
+    },
+    {
+      "name": "HUI HULIAU",
+      "income": 355000
+    },
+    {
+      "name": "COUNTY OF MAUI- HAWAII",
+      "income": 330000
+    },
+    {
+      "name": "HONU SERVICES",
+      "income": 300000
+    },
+    {
+      "name": "PACIFIC MARINE & SUPPLY COMPANY",
+      "income": 297500
+    },
+    {
+      "name": "MATSON NAVIGATION COMPANY, INC.",
+      "income": 290000
+    },
+    {
+      "name": "CITY AND COUNTY OF HONOLULU",
+      "income": 270000
+    },
+    {
+      "name": "CHAMBER OF COMMERCE HAWAII/ MILITARY AFFAIRS COUNCIL",
+      "income": 270000
+    },
+    {
+      "name": "PACIFIC MARINE & SUPPLY COMPANY LTD.",
+      "income": 270000
+    },
+    {
+      "name": "ONEBRIEF",
+      "income": 264000
+    },
+    {
+      "name": "DAWSON",
+      "income": 260000
+    },
+    {
+      "name": "HAWAIIAN NATIVE CORPORATION",
+      "income": 250000
+    },
+    {
+      "name": "CHILD AND FAMILY SERVICE",
+      "income": 240000
+    },
+    {
+      "name": "MAHI PONO, LLC",
+      "income": 240000
+    },
+    {
+      "name": "HAWAII BIOTECH, INC.",
+      "income": 230000
+    },
+    {
+      "name": "KONA COMMUNITY HEALTH",
+      "income": 220000
+    },
+    {
+      "name": "HONOLULU BOARD OF WATER SUPPLY",
+      "income": 150000
+    },
+    {
+      "name": "PACMAR TECHNOLOGIES",
+      "income": 130000
+    },
+    {
+      "name": "NAVATEK LLC",
+      "income": 120000
+    },
+    {
+      "name": "REVACOMM",
+      "income": 120000
+    },
+    {
+      "name": "STATE OF HAWAII DEPARTMENT OF TRANSPORTATION",
+      "income": 120000
+    },
+    {
+      "name": "HAWAIIAN ELECTRIC COMPANY INC",
+      "income": 110000
+    },
+    {
+      "name": "MARTIN DEFENSE GROUP LLC (FORMERLY NAVATEK LLC)",
+      "income": 100000
+    },
+    {
+      "name": "HEI, INC.",
+      "income": 100000
+    },
+    {
+      "name": "WORKNOW HAWAII",
+      "income": 100000
+    },
+    {
+      "name": "EAST WEST CENTER",
+      "income": 100000
+    },
+    {
+      "name": "MAUI ECONOMIC OPPORTUNITY, INC.",
+      "income": 90000
+    },
+    {
+      "name": "MARTIN DEFENSE GROUP (FORMERLY NAVATEK LLC)",
+      "income": 90000
+    },
+    {
+      "name": "STATE OF HAWAII DEPARTMENT OF AGRICULTURE",
+      "income": 90000
+    },
+    {
+      "name": "MARTIN DEFENSE GROUP FORMERLY \"NAVATEK LLC\"",
+      "income": 70000
+    },
+    {
+      "name": "HAWAII LAND TRUST",
+      "income": 70000
+    },
+    {
+      "name": "THE HAWAI'I PACIFIC FOUNDATION",
+      "income": 70000
+    },
+    {
+      "name": "THE QUEENS HEALTH SYSTEMS",
+      "income": 60000
+    },
+    {
+      "name": "PLEXOS GROUP, LLC",
+      "income": 60000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 7797510
+    },
+    {
+      "code": "DEF",
+      "income": 3482530
+    },
+    {
+      "code": "TRA",
+      "income": 2590000
+    },
+    {
+      "code": "HCR",
+      "income": 1633850
+    },
+    {
+      "code": "MMM",
+      "income": 1017175
+    },
+    {
+      "code": "IND",
+      "income": 900000
+    },
+    {
+      "code": "DIS",
+      "income": 895000
+    },
+    {
+      "code": "LBR",
+      "income": 765000
+    },
+    {
+      "code": "ENV",
+      "income": 722000
+    },
+    {
+      "code": "EDU",
+      "income": 606000
+    },
+    {
+      "code": "AGR",
+      "income": 555000
+    },
+    {
+      "code": "ECN",
+      "income": 539830
+    },
+    {
+      "code": "WEL",
+      "income": 485000
+    },
+    {
+      "code": "HOM",
+      "income": 480000
+    },
+    {
+      "code": "SCI",
+      "income": 330000
+    },
+    {
+      "code": "TRD",
+      "income": 320000
+    },
+    {
+      "code": "SMB",
+      "income": 320000
+    },
+    {
+      "code": "TAX",
+      "income": 250000
+    },
+    {
+      "code": "HOU",
+      "income": 250000
+    },
+    {
+      "code": "ENG",
+      "income": 220000
+    }
+  ],
+  "perCapita": 11.51,
+  "population": 1435138,
+  "nationalRank": 50,
+  "perCapitaRank": 50
+}

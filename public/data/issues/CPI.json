@@ -1,1 +1,557 @@
-{"code":"CPI","name":"Computer Industry","totalSpending":365332123,"totalFilings":11134,"yearlySpending":[{"year":2018,"income":28178000,"filings":934},{"year":2019,"income":32559500,"filings":1054},{"year":2020,"income":37317500,"filings":1239},{"year":2021,"income":42049500,"filings":1353},{"year":2022,"income":51409750,"filings":1588},{"year":2023,"income":58806172,"filings":1759},{"year":2024,"income":49985000,"filings":1449},{"year":2025,"income":65026701,"filings":1758}],"topClients":[{"name":"MICROSOFT CORPORATION","income":9065000},{"name":"META PLATFORMS, INC.","income":8735000},{"name":"ORACLE AMERICA, INC.","income":7085000},{"name":"SAP AMERICA, INC.","income":6990000},{"name":"ORACLE CORPORATION","income":6590000},{"name":"APPLE INC.","income":4960000},{"name":"GOOGLE CLIENT SERVICES","income":4770000},{"name":"TECHNOLOGY CEO COUNCIL","income":4350000},{"name":"INTEL CORPORATION","income":3760000},{"name":"SAMSUNG ELECTRONICS AMERICA, INC.","income":3280000},{"name":"WORKDAY, INC.","income":3230000},{"name":"AMAZON WEB SERVICES","income":3070000},{"name":"ENTERTAINMENT SOFTWARE ASSOCIATION","income":3010000},{"name":"AMAZON CORPORATE, LLC","income":2850000},{"name":"YELP","income":2696250},{"name":"INTUIT, INC. AND AFFILIATES (FORMERLY INTUIT, INC.)","income":2610000},{"name":"INTUIT, INC. AND AFFILIATES","income":2315000},{"name":"TSMC ARIZONA","income":2140000},{"name":"SOLARWINDS CORPORATION","income":2120000},{"name":"DROPBOX, INC.","income":2100000},{"name":"THE HOME DEPOT","income":2090000},{"name":"COINBASE, INC.","income":2020000},{"name":"INTELLECTUAL KEYSTONE TECHNOLOGY LLC","income":2020000},{"name":"YODLEE INC.","income":2000000},{"name":"AMAZON.COM, INC.","income":1980000},{"name":"RELX INC.","income":1970000},{"name":"ACXIOM LLC","income":1890000},{"name":"NVIDIA CORPORATION","income":1880000},{"name":"ACCENTURE LLP","income":1870000},{"name":"SMALL UAV COALITION","income":1800000},{"name":"SALESFORCE.COM INC.","income":1800000},{"name":"COMPUTER & COMMUNICATIONS INDUSTRY ASSOCIATION","income":1790000},{"name":"FENIX INTERNATIONAL, LTD.","income":1775000},{"name":"EPIC SYSTEMS CORPORATION","income":1740000},{"name":"REDDIT, INC.","income":1710000},{"name":"FINANCIAL DATA AND TECHNOLOGY ASSOCIATION, FORMERLY FIN'L DATA & TECH'Y ASS'N NA","income":1639000},{"name":"EQUINIX, INC.","income":1630000},{"name":"AMERICAN INTERNATIONAL GROUP, INC.","income":1610000},{"name":"BROADCOM INC.","income":1610000},{"name":"RECORDING INDUSTRY ASSOCIATION OF AMERICA","income":1600000},{"name":"BYTEDANCE INC.","income":1600000},{"name":"INTERNET WORKS","income":1550000},{"name":"ACCENTURE, LLP","income":1540000},{"name":"INFORMATION TECHNOLOGY INDUSTRY COUNCIL (ITI)","income":1520000},{"name":"MATCH GROUP","income":1500000},{"name":"DELL TECHNOLOGIES","income":1490000},{"name":"IBM","income":1450000},{"name":"RELX INC","income":1450000},{"name":"TP-LINK SYSTEMS INC. (FKA TP-LINK GLOBAL INC.)","income":1420000},{"name":"GENERAL MOTORS COMPANY","income":1410000}],"topFirms":[{"name":"FRANKLIN SQUARE GROUP, LLC","income":30210000},{"name":"MEHLMAN CONSULTING, INC.","income":27990000},{"name":"INVARIANT LLC","income":27620000},{"name":"MONUMENT ADVOCACY","income":14220000},{"name":"AVOQ, LLC","income":13480000},{"name":"FIERCE GOVERNMENT RELATIONS","income":11000000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":7575000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":6760000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":5860000},{"name":"TWINLOGIC STRATEGIES, LLP","income":5820000},{"name":"TIBER CREEK GROUP","income":5720000},{"name":"CROSSROADS STRATEGIES, LLC","income":5580000},{"name":"KLEIN/JOHNSON GROUP","income":5150000},{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":4910000},{"name":"NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)","income":4660000},{"name":"FORBES-TATE","income":4610000},{"name":"HARBINGER STRATEGIES, LLC","income":4220000},{"name":"CGCN GROUP, LLC","income":4210000},{"name":"KOUNTOUPES DENHAM CARR & REID, LLC","income":4180000},{"name":"ALLON ADVOCACY, LLC","income":3939000},{"name":"BALLARD PARTNERS","income":3840000},{"name":"THEGROUP DC, LLC","income":3830000},{"name":"S-3 GROUP","income":3770000},{"name":"DLA PIPER LLP (US)","income":3750000},{"name":"K&L GATES, LLP","income":3440000},{"name":"MILLER STRATEGIES, LLC","income":3310000},{"name":"HUNTON ANDREWS KURTH LLP","income":3250000},{"name":"COVINGTON & BURLING LLP","income":3250000},{"name":"BGR GOVERNMENT AFFAIRS","income":3200000},{"name":"THE VOGEL GROUP","income":3118500}],"sampleDescriptions":["Issues related to use of geospatial technologies by government agencies and in commercial sectors.","The Tax Cuts and Jobs Act, business tax provisions, regulatory issues related to \nfinancial services technology,technology innovation for the financial services industry, \ncybersecurity regulations fo","General company overview for members and staff.","Issues related to cyber security","Promote efficient government procurement policy innovation via transparent and robust data analytics and IT modernization (H.R. 4887); encourage innovation and support intellectual property protection","Issues related to cybersecurity, data protection, data breach, NAFTA, digital trade, data location requirements, net neutrality, intermediary liability - no specific legislation.","Federal CryptoSecurities legislation to upgrade our stock exchanges to the digital age.","privacy and security","Cyber Legislation","Issues related to budget and tax issues.","cybersecurity, programming, computer services","Issues related to competition in technology industries","Consumer-permissioned data access, cyber and data security, including S. 2179, the Data Security and Breach Notification Act","Legislation affecting payments systems, cybersecurity, data security and breach notification. Use of cloud-based computing solutions by Federal departments and agencies.  Regulations affecting use of ","Address issues relating to Internet protocol address governance. \nLegislation on cyber security.\nIssues related to Internet governance.","Federal legislative representation, intelligence gathering, relationship building, and federal procurement opportunities","Encourage innovation and support intellectual property protections\npromoted efficient technology innovation via transparent and robust data analytics\n\nBills: OPEN Government Data Act (HR 1770/S.760) s","Lobbied for issues related to the computer industry.","Education and outreach related to ICANN mission and activities, including ICANN's multistakeholder policy development model; Internet governance preserving and enhancing the security and stability of ","Issues regarding software."]}
+{
+  "code": "CPI",
+  "name": "Computer Industry",
+  "totalSpending": 365332123,
+  "totalFilings": 11134,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 28178000,
+      "filings": 934
+    },
+    {
+      "year": 2019,
+      "income": 32559500,
+      "filings": 1054
+    },
+    {
+      "year": 2020,
+      "income": 37317500,
+      "filings": 1239
+    },
+    {
+      "year": 2021,
+      "income": 42049500,
+      "filings": 1353
+    },
+    {
+      "year": 2022,
+      "income": 51409750,
+      "filings": 1588
+    },
+    {
+      "year": 2023,
+      "income": 58806172,
+      "filings": 1759
+    },
+    {
+      "year": 2024,
+      "income": 49985000,
+      "filings": 1449
+    },
+    {
+      "year": 2025,
+      "income": 65026701,
+      "filings": 1758
+    }
+  ],
+  "topClients": [
+    {
+      "name": "MICROSOFT CORPORATION",
+      "income": 9065000
+    },
+    {
+      "name": "META PLATFORMS, INC.",
+      "income": 8735000
+    },
+    {
+      "name": "ORACLE AMERICA, INC.",
+      "income": 7085000
+    },
+    {
+      "name": "SAP AMERICA, INC.",
+      "income": 6990000
+    },
+    {
+      "name": "ORACLE CORPORATION",
+      "income": 6590000
+    },
+    {
+      "name": "APPLE INC.",
+      "income": 4960000
+    },
+    {
+      "name": "GOOGLE CLIENT SERVICES",
+      "income": 4770000
+    },
+    {
+      "name": "TECHNOLOGY CEO COUNCIL",
+      "income": 4350000
+    },
+    {
+      "name": "INTEL CORPORATION",
+      "income": 3760000
+    },
+    {
+      "name": "SAMSUNG ELECTRONICS AMERICA, INC.",
+      "income": 3280000
+    },
+    {
+      "name": "WORKDAY, INC.",
+      "income": 3230000
+    },
+    {
+      "name": "AMAZON WEB SERVICES",
+      "income": 3070000
+    },
+    {
+      "name": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+      "income": 3010000
+    },
+    {
+      "name": "AMAZON CORPORATE, LLC",
+      "income": 2850000
+    },
+    {
+      "name": "YELP",
+      "income": 2696250
+    },
+    {
+      "name": "INTUIT, INC. AND AFFILIATES (FORMERLY INTUIT, INC.)",
+      "income": 2610000
+    },
+    {
+      "name": "INTUIT, INC. AND AFFILIATES",
+      "income": 2315000
+    },
+    {
+      "name": "TSMC ARIZONA",
+      "income": 2140000
+    },
+    {
+      "name": "SOLARWINDS CORPORATION",
+      "income": 2120000
+    },
+    {
+      "name": "DROPBOX, INC.",
+      "income": 2100000
+    },
+    {
+      "name": "THE HOME DEPOT",
+      "income": 2090000
+    },
+    {
+      "name": "COINBASE, INC.",
+      "income": 2020000
+    },
+    {
+      "name": "INTELLECTUAL KEYSTONE TECHNOLOGY LLC",
+      "income": 2020000
+    },
+    {
+      "name": "YODLEE INC.",
+      "income": 2000000
+    },
+    {
+      "name": "AMAZON.COM, INC.",
+      "income": 1980000
+    },
+    {
+      "name": "RELX INC.",
+      "income": 1970000
+    },
+    {
+      "name": "ACXIOM LLC",
+      "income": 1890000
+    },
+    {
+      "name": "NVIDIA CORPORATION",
+      "income": 1880000
+    },
+    {
+      "name": "ACCENTURE LLP",
+      "income": 1870000
+    },
+    {
+      "name": "SMALL UAV COALITION",
+      "income": 1800000
+    },
+    {
+      "name": "SALESFORCE.COM INC.",
+      "income": 1800000
+    },
+    {
+      "name": "COMPUTER & COMMUNICATIONS INDUSTRY ASSOCIATION",
+      "income": 1790000
+    },
+    {
+      "name": "FENIX INTERNATIONAL, LTD.",
+      "income": 1775000
+    },
+    {
+      "name": "EPIC SYSTEMS CORPORATION",
+      "income": 1740000
+    },
+    {
+      "name": "REDDIT, INC.",
+      "income": 1710000
+    },
+    {
+      "name": "FINANCIAL DATA AND TECHNOLOGY ASSOCIATION, FORMERLY FIN'L DATA & TECH'Y ASS'N NA",
+      "income": 1639000
+    },
+    {
+      "name": "EQUINIX, INC.",
+      "income": 1630000
+    },
+    {
+      "name": "AMERICAN INTERNATIONAL GROUP, INC.",
+      "income": 1610000
+    },
+    {
+      "name": "BROADCOM INC.",
+      "income": 1610000
+    },
+    {
+      "name": "RECORDING INDUSTRY ASSOCIATION OF AMERICA",
+      "income": 1600000
+    },
+    {
+      "name": "BYTEDANCE INC.",
+      "income": 1600000
+    },
+    {
+      "name": "INTERNET WORKS",
+      "income": 1550000
+    },
+    {
+      "name": "ACCENTURE, LLP",
+      "income": 1540000
+    },
+    {
+      "name": "INFORMATION TECHNOLOGY INDUSTRY COUNCIL (ITI)",
+      "income": 1520000
+    },
+    {
+      "name": "MATCH GROUP",
+      "income": 1500000
+    },
+    {
+      "name": "DELL TECHNOLOGIES",
+      "income": 1490000
+    },
+    {
+      "name": "IBM",
+      "income": 1450000
+    },
+    {
+      "name": "RELX INC",
+      "income": 1450000
+    },
+    {
+      "name": "TP-LINK SYSTEMS INC. (FKA TP-LINK GLOBAL INC.)",
+      "income": 1420000
+    },
+    {
+      "name": "GENERAL MOTORS COMPANY",
+      "income": 1410000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "FRANKLIN SQUARE GROUP, LLC",
+      "income": 30210000
+    },
+    {
+      "name": "MEHLMAN CONSULTING, INC.",
+      "income": 27990000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 27620000
+    },
+    {
+      "name": "MONUMENT ADVOCACY",
+      "income": 14220000
+    },
+    {
+      "name": "AVOQ, LLC",
+      "income": 13480000
+    },
+    {
+      "name": "FIERCE GOVERNMENT RELATIONS",
+      "income": 11000000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 7575000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 6760000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 5860000
+    },
+    {
+      "name": "TWINLOGIC STRATEGIES, LLP",
+      "income": 5820000
+    },
+    {
+      "name": "TIBER CREEK GROUP",
+      "income": 5720000
+    },
+    {
+      "name": "CROSSROADS STRATEGIES, LLC",
+      "income": 5580000
+    },
+    {
+      "name": "KLEIN/JOHNSON GROUP",
+      "income": 5150000
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 4910000
+    },
+    {
+      "name": "NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",
+      "income": 4660000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 4610000
+    },
+    {
+      "name": "HARBINGER STRATEGIES, LLC",
+      "income": 4220000
+    },
+    {
+      "name": "CGCN GROUP, LLC",
+      "income": 4210000
+    },
+    {
+      "name": "KOUNTOUPES DENHAM CARR & REID, LLC",
+      "income": 4180000
+    },
+    {
+      "name": "ALLON ADVOCACY, LLC",
+      "income": 3939000
+    },
+    {
+      "name": "BALLARD PARTNERS",
+      "income": 3840000
+    },
+    {
+      "name": "THEGROUP DC, LLC",
+      "income": 3830000
+    },
+    {
+      "name": "S-3 GROUP",
+      "income": 3770000
+    },
+    {
+      "name": "DLA PIPER LLP (US)",
+      "income": 3750000
+    },
+    {
+      "name": "K&L GATES, LLP",
+      "income": 3440000
+    },
+    {
+      "name": "MILLER STRATEGIES, LLC",
+      "income": 3310000
+    },
+    {
+      "name": "HUNTON ANDREWS KURTH LLP",
+      "income": 3250000
+    },
+    {
+      "name": "COVINGTON & BURLING LLP",
+      "income": 3250000
+    },
+    {
+      "name": "BGR GOVERNMENT AFFAIRS",
+      "income": 3200000
+    },
+    {
+      "name": "THE VOGEL GROUP",
+      "income": 3118500
+    }
+  ],
+  "sampleDescriptions": [
+    "Issues related to use of geospatial technologies by government agencies and in commercial sectors.",
+    "The Tax Cuts and Jobs Act, business tax provisions, regulatory issues related to \nfinancial services technology,technology innovation for the financial services industry, \ncybersecurity regulations fo",
+    "General company overview for members and staff.",
+    "Issues related to cyber security",
+    "Promote efficient government procurement policy innovation via transparent and robust data analytics and IT modernization (H.R. 4887); encourage innovation and support intellectual property protection",
+    "Issues related to cybersecurity, data protection, data breach, NAFTA, digital trade, data location requirements, net neutrality, intermediary liability - no specific legislation.",
+    "Federal CryptoSecurities legislation to upgrade our stock exchanges to the digital age.",
+    "privacy and security",
+    "Cyber Legislation",
+    "Issues related to budget and tax issues.",
+    "cybersecurity, programming, computer services",
+    "Issues related to competition in technology industries",
+    "Consumer-permissioned data access, cyber and data security, including S. 2179, the Data Security and Breach Notification Act",
+    "Legislation affecting payments systems, cybersecurity, data security and breach notification. Use of cloud-based computing solutions by Federal departments and agencies.  Regulations affecting use of ",
+    "Address issues relating to Internet protocol address governance. \nLegislation on cyber security.\nIssues related to Internet governance.",
+    "Federal legislative representation, intelligence gathering, relationship building, and federal procurement opportunities",
+    "Encourage innovation and support intellectual property protections\npromoted efficient technology innovation via transparent and robust data analytics\n\nBills: OPEN Government Data Act (HR 1770/S.760) s",
+    "Lobbied for issues related to the computer industry.",
+    "Education and outreach related to ICANN mission and activities, including ICANN's multistakeholder policy development model; Internet governance preserving and enhancing the security and stability of ",
+    "Issues regarding software."
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 211,
+      "spending": 6201265.752955672
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 256,
+      "spending": 7214245.12046777
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 217,
+      "spending": 6983280.395941951
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 250,
+      "spending": 8037177.811512695
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 228,
+      "spending": 6461684.381767606
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 287,
+      "spending": 9380597.199427366
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 256,
+      "spending": 7398083.934571882
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 283,
+      "spending": 9401712.14043734
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 260,
+      "spending": 8417239.21193186
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 327,
+      "spending": 9410309.487401495
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 325,
+      "spending": 9449246.47702298
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 327,
+      "spending": 9035265.144300148
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 291,
+      "spending": 9308050.116324143
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 381,
+      "spending": 11269355.280571233
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 319,
+      "spending": 8870579.25530749
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 362,
+      "spending": 10881716.461927297
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 373,
+      "spending": 12067160.869281
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 424,
+      "spending": 13866014.605241267
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 387,
+      "spending": 34761540.40108115
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 404,
+      "spending": 13091204.077347063
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 454,
+      "spending": 15976242.05481107
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 439,
+      "spending": 14488186.318639807
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 430,
+      "spending": 15334163.098391587
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 436,
+      "spending": 15049204.42858326
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 340,
+      "spending": 12901445.083248002
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 397,
+      "spending": 14078626.684873302
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 359,
+      "spending": 12991706.096765172
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 353,
+      "spending": 12088116.210456599
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 383,
+      "spending": 14809382.944033744
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 487,
+      "spending": 17880090.34485513
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 408,
+      "spending": 17046014.705018464
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 480,
+      "spending": 17756187.50542763
+    }
+  ],
+  "totalEstimatedSpending": 391905094
+}

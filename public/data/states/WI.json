@@ -1,1 +1,329 @@
-{"abbreviation":"WI","name":"Wisconsin","totalSpending":136626737,"totalFilings":6859,"clientCount":366,"yearlySpending":[{"year":2018,"income":11497784},{"year":2019,"income":12064687},{"year":2020,"income":13438763},{"year":2021,"income":13205844},{"year":2022,"income":15610343},{"year":2023,"income":35087600},{"year":2024,"income":14053216},{"year":2025,"income":21668500}],"topClients":[{"name":"THRIVENT FINANCIAL FOR LUTHERANS","income":4400000},{"name":"FOREST COUNTY POTAWATOMI COMMUNITY","income":3770000},{"name":"THE NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY","income":2860000},{"name":"MGIC","income":2607500},{"name":"SCHNEIDER NATIONAL INC.","income":2490000},{"name":"MARINETTE MARINE CORPORATION","income":2330000},{"name":"SHINE MEDICAL TECHNOLOGIES","income":2325000},{"name":"EPIC SYSTEMS CORPORATION","income":2130000},{"name":"HNTB CORPORATION","income":2040000},{"name":"UNIVERSITY OF WISCONSIN MEDICAL FOUNDATION/UW HEALTH","income":1950000},{"name":"ALLIANT ENERGY CORPORATION","income":1820000},{"name":"EXACT SCIENCES CORPORATION","income":1750000},{"name":"KOHLER CO.","income":1727965},{"name":"FINCANTIERI MARINE GROUP LLC","income":1720000},{"name":"JOHNSON CONTROLS INC.","income":1713000},{"name":"ALLIANT ENERGY","income":1700000},{"name":"FAIRBANKS MORSE ENGINE","income":1590000},{"name":"OSHKOSH CORPORATION","income":1545000},{"name":"HO-CHUNK NATION LEGISLATURE","income":1530000},{"name":"DIRECT SUPPLY, INC.","income":1520000},{"name":"EXACT SCIENCES","income":1500000},{"name":"INDEPENDENT PHARMACY COOPERATIVE","income":1480000},{"name":"SOCIETY FOR IMMUNOTHERAPY OF CANCER","income":1470000},{"name":"BRIGGS & STRATTON LLC","income":1400000},{"name":"EDGE DAIRY FARMER COOPERATIVE (FORMERLY EDGE)","income":1390000},{"name":"MIAMI-DADE COUNTY","income":1360000},{"name":"U.S. VENTURE, INC. (FORMERLY U.S. OIL)","income":1310000},{"name":"HEMATOLOGY ONCOLOGY PHARMACY ASSOCIATION","income":1300000},{"name":"KOHL'S DEPARTMENT STORES, INC.","income":1280000},{"name":"FISERV","income":1245000},{"name":"ONEIDA TRIBE OF INDIANS OF WISCONSIN","income":1240000},{"name":"CHILDREN'S HOSPITAL AND HEALTH SYSTEM, INC.","income":1240000},{"name":"GUNDERSEN LUTHERAN ADMINISTRATIVE SERVICES, INC.","income":1210000},{"name":"FISERV, INC.","income":1200000},{"name":"MEDICAL COLLEGE OF WISCONSIN","income":1170000},{"name":"WE ENERGIES","income":1150000},{"name":"AMERICAN SOCIETY OF GENE AND CELL THERAPY","income":1120000},{"name":"AMERICAN SOC. OF AGRONOMY, CROP SCI. SOC. OF AMERICA & SOIL SCI. SOC. OF AMERICA","income":1110000},{"name":"AMERICAN TRANSMISSION COMPANY, LLC","income":1020000},{"name":"NATIONAL ASSOCIATION FOR FIXED ANNUITIES","income":1020000},{"name":"STOCKBRIDGE MUNSEE MOHICAN COMMUNITY","income":1020000},{"name":"QUAD GRAPHICS","income":980000},{"name":"MARQUETTE UNIVERSITY","income":965000},{"name":"NORTHERN ARAPAHO TRIBE","income":950000},{"name":"SENTRY INSURANCE COMPANY","income":950000},{"name":"NATIONAL FUNERAL DIRECTORS ASSOCIATION","income":930000},{"name":"TAPS","income":930000},{"name":"SARGENTO FOODS INC.","income":895000},{"name":"FOX VALLEY TECHNICAL COLLEGE","income":880000},{"name":"ROCKWELL AUTOMATION","income":860000}],"topIssues":[{"code":"BUD","income":24439250},{"code":"TAX","income":23799965},{"code":"HCR","income":22596485},{"code":"TRD","income":15302965},{"code":"ENG","income":14068471},{"code":"DEF","income":13525500},{"code":"FIN","income":10570500},{"code":"TRA","income":9430000},{"code":"IND","income":8304216},{"code":"MMM","income":8260000},{"code":"AGR","income":7770000},{"code":"ENV","income":7455000},{"code":"INS","income":6460500},{"code":"MAN","income":6070000},{"code":"BAN","income":4254000},{"code":"FOO","income":3967000},{"code":"HOM","income":3858200},{"code":"UTI","income":3550000},{"code":"LBR","income":3542965},{"code":"GAM","income":3340000}]}
+{
+  "abbreviation": "WI",
+  "name": "Wisconsin",
+  "totalSpending": 136626737,
+  "totalFilings": 6859,
+  "clientCount": 366,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 11497784
+    },
+    {
+      "year": 2019,
+      "income": 12064687
+    },
+    {
+      "year": 2020,
+      "income": 13438763
+    },
+    {
+      "year": 2021,
+      "income": 13205844
+    },
+    {
+      "year": 2022,
+      "income": 15610343
+    },
+    {
+      "year": 2023,
+      "income": 35087600
+    },
+    {
+      "year": 2024,
+      "income": 14053216
+    },
+    {
+      "year": 2025,
+      "income": 21668500
+    }
+  ],
+  "topClients": [
+    {
+      "name": "THRIVENT FINANCIAL FOR LUTHERANS",
+      "income": 4400000
+    },
+    {
+      "name": "FOREST COUNTY POTAWATOMI COMMUNITY",
+      "income": 3770000
+    },
+    {
+      "name": "THE NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY",
+      "income": 2860000
+    },
+    {
+      "name": "MGIC",
+      "income": 2607500
+    },
+    {
+      "name": "SCHNEIDER NATIONAL INC.",
+      "income": 2490000
+    },
+    {
+      "name": "MARINETTE MARINE CORPORATION",
+      "income": 2330000
+    },
+    {
+      "name": "SHINE MEDICAL TECHNOLOGIES",
+      "income": 2325000
+    },
+    {
+      "name": "EPIC SYSTEMS CORPORATION",
+      "income": 2130000
+    },
+    {
+      "name": "HNTB CORPORATION",
+      "income": 2040000
+    },
+    {
+      "name": "UNIVERSITY OF WISCONSIN MEDICAL FOUNDATION/UW HEALTH",
+      "income": 1950000
+    },
+    {
+      "name": "ALLIANT ENERGY CORPORATION",
+      "income": 1820000
+    },
+    {
+      "name": "EXACT SCIENCES CORPORATION",
+      "income": 1750000
+    },
+    {
+      "name": "KOHLER CO.",
+      "income": 1727965
+    },
+    {
+      "name": "FINCANTIERI MARINE GROUP LLC",
+      "income": 1720000
+    },
+    {
+      "name": "JOHNSON CONTROLS INC.",
+      "income": 1713000
+    },
+    {
+      "name": "ALLIANT ENERGY",
+      "income": 1700000
+    },
+    {
+      "name": "FAIRBANKS MORSE ENGINE",
+      "income": 1590000
+    },
+    {
+      "name": "OSHKOSH CORPORATION",
+      "income": 1545000
+    },
+    {
+      "name": "HO-CHUNK NATION LEGISLATURE",
+      "income": 1530000
+    },
+    {
+      "name": "DIRECT SUPPLY, INC.",
+      "income": 1520000
+    },
+    {
+      "name": "EXACT SCIENCES",
+      "income": 1500000
+    },
+    {
+      "name": "INDEPENDENT PHARMACY COOPERATIVE",
+      "income": 1480000
+    },
+    {
+      "name": "SOCIETY FOR IMMUNOTHERAPY OF CANCER",
+      "income": 1470000
+    },
+    {
+      "name": "BRIGGS & STRATTON LLC",
+      "income": 1400000
+    },
+    {
+      "name": "EDGE DAIRY FARMER COOPERATIVE (FORMERLY EDGE)",
+      "income": 1390000
+    },
+    {
+      "name": "MIAMI-DADE COUNTY",
+      "income": 1360000
+    },
+    {
+      "name": "U.S. VENTURE, INC. (FORMERLY U.S. OIL)",
+      "income": 1310000
+    },
+    {
+      "name": "HEMATOLOGY ONCOLOGY PHARMACY ASSOCIATION",
+      "income": 1300000
+    },
+    {
+      "name": "KOHL'S DEPARTMENT STORES, INC.",
+      "income": 1280000
+    },
+    {
+      "name": "FISERV",
+      "income": 1245000
+    },
+    {
+      "name": "ONEIDA TRIBE OF INDIANS OF WISCONSIN",
+      "income": 1240000
+    },
+    {
+      "name": "CHILDREN'S HOSPITAL AND HEALTH SYSTEM, INC.",
+      "income": 1240000
+    },
+    {
+      "name": "GUNDERSEN LUTHERAN ADMINISTRATIVE SERVICES, INC.",
+      "income": 1210000
+    },
+    {
+      "name": "FISERV, INC.",
+      "income": 1200000
+    },
+    {
+      "name": "MEDICAL COLLEGE OF WISCONSIN",
+      "income": 1170000
+    },
+    {
+      "name": "WE ENERGIES",
+      "income": 1150000
+    },
+    {
+      "name": "AMERICAN SOCIETY OF GENE AND CELL THERAPY",
+      "income": 1120000
+    },
+    {
+      "name": "AMERICAN SOC. OF AGRONOMY, CROP SCI. SOC. OF AMERICA & SOIL SCI. SOC. OF AMERICA",
+      "income": 1110000
+    },
+    {
+      "name": "AMERICAN TRANSMISSION COMPANY, LLC",
+      "income": 1020000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION FOR FIXED ANNUITIES",
+      "income": 1020000
+    },
+    {
+      "name": "STOCKBRIDGE MUNSEE MOHICAN COMMUNITY",
+      "income": 1020000
+    },
+    {
+      "name": "QUAD GRAPHICS",
+      "income": 980000
+    },
+    {
+      "name": "MARQUETTE UNIVERSITY",
+      "income": 965000
+    },
+    {
+      "name": "NORTHERN ARAPAHO TRIBE",
+      "income": 950000
+    },
+    {
+      "name": "SENTRY INSURANCE COMPANY",
+      "income": 950000
+    },
+    {
+      "name": "NATIONAL FUNERAL DIRECTORS ASSOCIATION",
+      "income": 930000
+    },
+    {
+      "name": "TAPS",
+      "income": 930000
+    },
+    {
+      "name": "SARGENTO FOODS INC.",
+      "income": 895000
+    },
+    {
+      "name": "FOX VALLEY TECHNICAL COLLEGE",
+      "income": 880000
+    },
+    {
+      "name": "ROCKWELL AUTOMATION",
+      "income": 860000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 24439250
+    },
+    {
+      "code": "TAX",
+      "income": 23799965
+    },
+    {
+      "code": "HCR",
+      "income": 22596485
+    },
+    {
+      "code": "TRD",
+      "income": 15302965
+    },
+    {
+      "code": "ENG",
+      "income": 14068471
+    },
+    {
+      "code": "DEF",
+      "income": 13525500
+    },
+    {
+      "code": "FIN",
+      "income": 10570500
+    },
+    {
+      "code": "TRA",
+      "income": 9430000
+    },
+    {
+      "code": "IND",
+      "income": 8304216
+    },
+    {
+      "code": "MMM",
+      "income": 8260000
+    },
+    {
+      "code": "AGR",
+      "income": 7770000
+    },
+    {
+      "code": "ENV",
+      "income": 7455000
+    },
+    {
+      "code": "INS",
+      "income": 6460500
+    },
+    {
+      "code": "MAN",
+      "income": 6070000
+    },
+    {
+      "code": "BAN",
+      "income": 4254000
+    },
+    {
+      "code": "FOO",
+      "income": 3967000
+    },
+    {
+      "code": "HOM",
+      "income": 3858200
+    },
+    {
+      "code": "UTI",
+      "income": 3550000
+    },
+    {
+      "code": "LBR",
+      "income": 3542965
+    },
+    {
+      "code": "GAM",
+      "income": 3340000
+    }
+  ],
+  "perCapita": 34.51,
+  "population": 5910955,
+  "nationalRank": 24,
+  "perCapitaRank": 28
+}

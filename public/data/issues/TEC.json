@@ -1,1 +1,557 @@
-{"code":"TEC","name":"Telecommunications","totalSpending":729925436.7,"totalFilings":23731,"yearlySpending":[{"year":2018,"income":72253770,"filings":2573},{"year":2019,"income":87704236,"filings":2953},{"year":2020,"income":94533658.7,"filings":3122},{"year":2021,"income":103538875,"filings":3223},{"year":2022,"income":102926800,"filings":3290},{"year":2023,"income":95271304,"filings":3183},{"year":2024,"income":82588880,"filings":2636},{"year":2025,"income":91107913,"filings":2751}],"topClients":[{"name":"COMCAST CORPORATION","income":24507625},{"name":"QUALCOMM INCORPORATED","income":20320000},{"name":"T-MOBILE USA, INC.","income":18016559.2},{"name":"AT&T SERVICES, INC.","income":12197500},{"name":"LIGADO NETWORKS","income":10519000},{"name":"NCTA - THE INTERNET & TELEVISION ASSOCIATION","income":8630000},{"name":"MICROSOFT CORPORATION","income":8450000},{"name":"CTIA - THE WIRELESS ASSOCIATION","income":8077500},{"name":"CHARTER COMMUNICATIONS, INC.","income":7997500},{"name":"NATIONAL CABLE AND TELECOMMUNICATIONS ASSOCIATION","income":7960000},{"name":"21ST CENTURY PRIVACY COALITION","income":7825000},{"name":"T-MOBILE","income":7670000},{"name":"VERIZON COMMUNICATIONS INC AND VARIOUS SUBSIDIARIES","income":7137000},{"name":"AT&T SERVICES INC","income":6570000},{"name":"ASSOCIATION OF EQUIPMENT MANUFACTURERS","income":6149925},{"name":"CTIA-THE WIRELESS ASSOCIATION","income":5816000},{"name":"CTIA","income":5700000},{"name":"NEW CALIFORNIA REPUBLIC CO.","income":5507688},{"name":"SAMSUNG ELECTRONICS AMERICA, INC.","income":5480000},{"name":"CHARTER COMMUNICATIONS OPERATING, LLC","income":5200000},{"name":"APOLLO GLOBAL MANAGEMENT","income":5180000},{"name":"HUAWEI TECHNOLOGIES USA, INC.","income":4980000},{"name":"LIGADO NETWORKS LLC","income":4725000},{"name":"ALIBABA GROUP HOLDING LIMITED","income":4700000},{"name":"T-MOBILE US, INC.","income":4651704},{"name":"VERISIGN, INC.","income":4060000},{"name":"ZTE CORPORATION (FORMERLY ZTE USA INC)","income":3920000},{"name":"VERIZON COMMUNICATIONS INC","income":3740000},{"name":"LIGADO NETWORKS, LLC","income":3677500},{"name":"ZTE CORPORATION","income":3640000},{"name":"FOX CORPORATION","income":3552500},{"name":"AMERICAN TOWER CORPORATION","income":3528000},{"name":"NCTA-THE INTERNET & TELEVISION ASSOCIATION","income":3510000},{"name":"TIKTOK INC.","income":3390000},{"name":"BROADCOM LIMITED","income":3315000},{"name":"CERBERUS CAPITAL MANAGEMENT, L.P.","income":3140000},{"name":"CHARTER COMMUNICATIONS","income":3080000},{"name":"VERIZON COMMUNICATIONS INC.","income":2910000},{"name":"UNITED STATES TELECOM ASSOCIATION","income":2907500},{"name":"ERICSSON INC.","income":2830000},{"name":"SAMSUNG ELECTRONICS AMERICA","income":2760000},{"name":"NATIONAL LIFELINE ASSOCIATION","income":2750000},{"name":"INTEL CORPORATION","income":2740000},{"name":"BROADCOM INC.","income":2700000},{"name":"NATIONAL CABLE TELECOMMUNICATIONS ASSOCIATION","income":2625000},{"name":"NOKIA OF AMERICA CORPORATION","income":2610000},{"name":"TENCENT AMERICA, LLC","income":2600000},{"name":"VERIZON","income":2480000},{"name":"VERIZON COMMUNICATIONS","income":2395000},{"name":"WIRELESS INFRASTRUCTURE ASSOCIATION","income":2350000}],"topFirms":[{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":24970000},{"name":"BGR GOVERNMENT AFFAIRS","income":22780000},{"name":"FORBES-TATE","income":18665000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":18260000},{"name":"COVINGTON & BURLING LLP","income":15150000},{"name":"SALT POINT STRATEGIES","income":13730000},{"name":"MEHLMAN CONSULTING, INC.","income":13270000},{"name":"FARRAGUT PARTNERS LLP","income":11990000},{"name":"POLARIS GOVERNMENT RELATIONS, LLC","income":10840000},{"name":"KOUNTOUPES DENHAM CARR & REID, LLC","income":10150000},{"name":"FIERCE GOVERNMENT RELATIONS","income":10020000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":10015000},{"name":"INVARIANT LLC","income":9730000},{"name":"TWINLOGIC STRATEGIES, LLP","income":9640000},{"name":"THE MADISON GROUP","income":9621500},{"name":"TELEMEDIA POLICY CORP.","income":9535750},{"name":"MONUMENT ADVOCACY","income":9040000},{"name":"OGR","income":8210000},{"name":"MILLER STRATEGIES, LLC","income":8170000},{"name":"HOGAN LOVELLS US LLP","income":8000000},{"name":"MERCURY STRATEGIES, LLC","income":7875000},{"name":"PUTALASTRATEGIES","income":7790000},{"name":"FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)","income":7710000},{"name":"GREENBERG TRAURIG, LLP","income":6975000},{"name":"VAN SCOYOC ASSOCIATES","income":6880000},{"name":"BALLARD PARTNERS","income":6820000},{"name":"HARBINGER STRATEGIES, LLC","income":6810000},{"name":"ACG ADVOCACY","income":6730000},{"name":"MAYER BROWN LLP","income":6680000},{"name":"CAPITOL COUNSEL LLC","income":6560000}],"sampleDescriptions":["Revise US Code sections 59A, 59B, 4491, 6038 A, C, and E establishing \"base erosion anti-abuse tax\" to relieve corporations covered by the tax from nullifying the effect of tax credits and deductions ","Broadcast-related issues, including program carriage.","- Issues regarding radio piracy","General issues related to telecommunication, broadband, satellite video and data security or privacy. Mobile Now Bill S. 19. Congressional Review Act as it related to the FCC\n\nAppropriations issues re","Tax corrections, Infrastructure, Tax Credits, Telecommunications","telecommunications and broadband issues","video programming, broadband, and automotive issues","video programming and broadband","General issues with regards to the wireless industry","FCC regulation; broadband and internet policy; USF reform; telecommunications policy","Disaster recovery issues related to rebuilding the telecom network. H.R. 4667","Issues related to telecommunications, cyber-security, trade and government","Availability of improved technology for federal prisons.","telecommunications issues","Issues related to immigration; issues related to telecommunications; issues related to the Census.","Issues related to cybersecurity, data protection, data breach, NAFTA, digital trade, data location requirements, net neutrality, intermediary liability - no specific legislation.","Technology Issues","ICANN Related Issues, cybersecurity issues, critical infrastructure protection issues, and telephone numbering issues.","Consultant will lend its knowledge and expertise to AT&T, providing information, advice and support on matters pertaining to AT&T public policy, outreach efforts, including assistance on efforts worki","Issues related to rural broadband deployment and modernization; issues related to universal service and intercarrier compensation reform, including phases 1 and 2 of the Connect America Fund; issues r"]}
+{
+  "code": "TEC",
+  "name": "Telecommunications",
+  "totalSpending": 729925436.7,
+  "totalFilings": 23731,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 72253770,
+      "filings": 2573
+    },
+    {
+      "year": 2019,
+      "income": 87704236,
+      "filings": 2953
+    },
+    {
+      "year": 2020,
+      "income": 94533658.7,
+      "filings": 3122
+    },
+    {
+      "year": 2021,
+      "income": 103538875,
+      "filings": 3223
+    },
+    {
+      "year": 2022,
+      "income": 102926800,
+      "filings": 3290
+    },
+    {
+      "year": 2023,
+      "income": 95271304,
+      "filings": 3183
+    },
+    {
+      "year": 2024,
+      "income": 82588880,
+      "filings": 2636
+    },
+    {
+      "year": 2025,
+      "income": 91107913,
+      "filings": 2751
+    }
+  ],
+  "topClients": [
+    {
+      "name": "COMCAST CORPORATION",
+      "income": 24507625
+    },
+    {
+      "name": "QUALCOMM INCORPORATED",
+      "income": 20320000
+    },
+    {
+      "name": "T-MOBILE USA, INC.",
+      "income": 18016559.2
+    },
+    {
+      "name": "AT&T SERVICES, INC.",
+      "income": 12197500
+    },
+    {
+      "name": "LIGADO NETWORKS",
+      "income": 10519000
+    },
+    {
+      "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION",
+      "income": 8630000
+    },
+    {
+      "name": "MICROSOFT CORPORATION",
+      "income": 8450000
+    },
+    {
+      "name": "CTIA - THE WIRELESS ASSOCIATION",
+      "income": 8077500
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS, INC.",
+      "income": 7997500
+    },
+    {
+      "name": "NATIONAL CABLE AND TELECOMMUNICATIONS ASSOCIATION",
+      "income": 7960000
+    },
+    {
+      "name": "21ST CENTURY PRIVACY COALITION",
+      "income": 7825000
+    },
+    {
+      "name": "T-MOBILE",
+      "income": 7670000
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC AND VARIOUS SUBSIDIARIES",
+      "income": 7137000
+    },
+    {
+      "name": "AT&T SERVICES INC",
+      "income": 6570000
+    },
+    {
+      "name": "ASSOCIATION OF EQUIPMENT MANUFACTURERS",
+      "income": 6149925
+    },
+    {
+      "name": "CTIA-THE WIRELESS ASSOCIATION",
+      "income": 5816000
+    },
+    {
+      "name": "CTIA",
+      "income": 5700000
+    },
+    {
+      "name": "NEW CALIFORNIA REPUBLIC CO.",
+      "income": 5507688
+    },
+    {
+      "name": "SAMSUNG ELECTRONICS AMERICA, INC.",
+      "income": 5480000
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS OPERATING, LLC",
+      "income": 5200000
+    },
+    {
+      "name": "APOLLO GLOBAL MANAGEMENT",
+      "income": 5180000
+    },
+    {
+      "name": "HUAWEI TECHNOLOGIES USA, INC.",
+      "income": 4980000
+    },
+    {
+      "name": "LIGADO NETWORKS LLC",
+      "income": 4725000
+    },
+    {
+      "name": "ALIBABA GROUP HOLDING LIMITED",
+      "income": 4700000
+    },
+    {
+      "name": "T-MOBILE US, INC.",
+      "income": 4651704
+    },
+    {
+      "name": "VERISIGN, INC.",
+      "income": 4060000
+    },
+    {
+      "name": "ZTE CORPORATION (FORMERLY ZTE USA INC)",
+      "income": 3920000
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC",
+      "income": 3740000
+    },
+    {
+      "name": "LIGADO NETWORKS, LLC",
+      "income": 3677500
+    },
+    {
+      "name": "ZTE CORPORATION",
+      "income": 3640000
+    },
+    {
+      "name": "FOX CORPORATION",
+      "income": 3552500
+    },
+    {
+      "name": "AMERICAN TOWER CORPORATION",
+      "income": 3528000
+    },
+    {
+      "name": "NCTA-THE INTERNET & TELEVISION ASSOCIATION",
+      "income": 3510000
+    },
+    {
+      "name": "TIKTOK INC.",
+      "income": 3390000
+    },
+    {
+      "name": "BROADCOM LIMITED",
+      "income": 3315000
+    },
+    {
+      "name": "CERBERUS CAPITAL MANAGEMENT, L.P.",
+      "income": 3140000
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS",
+      "income": 3080000
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC.",
+      "income": 2910000
+    },
+    {
+      "name": "UNITED STATES TELECOM ASSOCIATION",
+      "income": 2907500
+    },
+    {
+      "name": "ERICSSON INC.",
+      "income": 2830000
+    },
+    {
+      "name": "SAMSUNG ELECTRONICS AMERICA",
+      "income": 2760000
+    },
+    {
+      "name": "NATIONAL LIFELINE ASSOCIATION",
+      "income": 2750000
+    },
+    {
+      "name": "INTEL CORPORATION",
+      "income": 2740000
+    },
+    {
+      "name": "BROADCOM INC.",
+      "income": 2700000
+    },
+    {
+      "name": "NATIONAL CABLE TELECOMMUNICATIONS ASSOCIATION",
+      "income": 2625000
+    },
+    {
+      "name": "NOKIA OF AMERICA CORPORATION",
+      "income": 2610000
+    },
+    {
+      "name": "TENCENT AMERICA, LLC",
+      "income": 2600000
+    },
+    {
+      "name": "VERIZON",
+      "income": 2480000
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS",
+      "income": 2395000
+    },
+    {
+      "name": "WIRELESS INFRASTRUCTURE ASSOCIATION",
+      "income": 2350000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 24970000
+    },
+    {
+      "name": "BGR GOVERNMENT AFFAIRS",
+      "income": 22780000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 18665000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 18260000
+    },
+    {
+      "name": "COVINGTON & BURLING LLP",
+      "income": 15150000
+    },
+    {
+      "name": "SALT POINT STRATEGIES",
+      "income": 13730000
+    },
+    {
+      "name": "MEHLMAN CONSULTING, INC.",
+      "income": 13270000
+    },
+    {
+      "name": "FARRAGUT PARTNERS LLP",
+      "income": 11990000
+    },
+    {
+      "name": "POLARIS GOVERNMENT RELATIONS, LLC",
+      "income": 10840000
+    },
+    {
+      "name": "KOUNTOUPES DENHAM CARR & REID, LLC",
+      "income": 10150000
+    },
+    {
+      "name": "FIERCE GOVERNMENT RELATIONS",
+      "income": 10020000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 10015000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 9730000
+    },
+    {
+      "name": "TWINLOGIC STRATEGIES, LLP",
+      "income": 9640000
+    },
+    {
+      "name": "THE MADISON GROUP",
+      "income": 9621500
+    },
+    {
+      "name": "TELEMEDIA POLICY CORP.",
+      "income": 9535750
+    },
+    {
+      "name": "MONUMENT ADVOCACY",
+      "income": 9040000
+    },
+    {
+      "name": "OGR",
+      "income": 8210000
+    },
+    {
+      "name": "MILLER STRATEGIES, LLC",
+      "income": 8170000
+    },
+    {
+      "name": "HOGAN LOVELLS US LLP",
+      "income": 8000000
+    },
+    {
+      "name": "MERCURY STRATEGIES, LLC",
+      "income": 7875000
+    },
+    {
+      "name": "PUTALASTRATEGIES",
+      "income": 7790000
+    },
+    {
+      "name": "FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)",
+      "income": 7710000
+    },
+    {
+      "name": "GREENBERG TRAURIG, LLP",
+      "income": 6975000
+    },
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 6880000
+    },
+    {
+      "name": "BALLARD PARTNERS",
+      "income": 6820000
+    },
+    {
+      "name": "HARBINGER STRATEGIES, LLC",
+      "income": 6810000
+    },
+    {
+      "name": "ACG ADVOCACY",
+      "income": 6730000
+    },
+    {
+      "name": "MAYER BROWN LLP",
+      "income": 6680000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 6560000
+    }
+  ],
+  "sampleDescriptions": [
+    "Revise US Code sections 59A, 59B, 4491, 6038 A, C, and E establishing \"base erosion anti-abuse tax\" to relieve corporations covered by the tax from nullifying the effect of tax credits and deductions ",
+    "Broadcast-related issues, including program carriage.",
+    "- Issues regarding radio piracy",
+    "General issues related to telecommunication, broadband, satellite video and data security or privacy. Mobile Now Bill S. 19. Congressional Review Act as it related to the FCC\n\nAppropriations issues re",
+    "Tax corrections, Infrastructure, Tax Credits, Telecommunications",
+    "telecommunications and broadband issues",
+    "video programming, broadband, and automotive issues",
+    "video programming and broadband",
+    "General issues with regards to the wireless industry",
+    "FCC regulation; broadband and internet policy; USF reform; telecommunications policy",
+    "Disaster recovery issues related to rebuilding the telecom network. H.R. 4667",
+    "Issues related to telecommunications, cyber-security, trade and government",
+    "Availability of improved technology for federal prisons.",
+    "telecommunications issues",
+    "Issues related to immigration; issues related to telecommunications; issues related to the Census.",
+    "Issues related to cybersecurity, data protection, data breach, NAFTA, digital trade, data location requirements, net neutrality, intermediary liability - no specific legislation.",
+    "Technology Issues",
+    "ICANN Related Issues, cybersecurity issues, critical infrastructure protection issues, and telephone numbering issues.",
+    "Consultant will lend its knowledge and expertise to AT&T, providing information, advice and support on matters pertaining to AT&T public policy, outreach efforts, including assistance on efforts worki",
+    "Issues related to rural broadband deployment and modernization; issues related to universal service and intercarrier compensation reform, including phases 1 and 2 of the Connect America Fund; issues r"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 587,
+      "spending": 22069410.254267953
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 690,
+      "spending": 27570514.59195053
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 636,
+      "spending": 26774545.792278793
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 660,
+      "spending": 26942111.242376883
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 677,
+      "spending": 29186515.6445592
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 783,
+      "spending": 33369957.942977298
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 701,
+      "spending": 29693735.17404427
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 792,
+      "spending": 31965741.86031376
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 730,
+      "spending": 33692132.66356142
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 798,
+      "spending": 31206185.12430839
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 821,
+      "spending": 31474229.545411125
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 773,
+      "spending": 30414692.922125813
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 707,
+      "spending": 30795179.4293005
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 872,
+      "spending": 38101546.804132864
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 781,
+      "spending": 29776412.771601114
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 863,
+      "spending": 34826958.10002391
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 809,
+      "spending": 35285698.34400726
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 821,
+      "spending": 34612128.27859627
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 825,
+      "spending": 32415485.640233476
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 835,
+      "spending": 34208119.9546317
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 816,
+      "spending": 38095578.01356598
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 789,
+      "spending": 36690528.36843756
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 799,
+      "spending": 34561038.34562924
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 779,
+      "spending": 32309492.263265803
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 598,
+      "spending": 28315986.78059393
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 696,
+      "spending": 31671439.89991791
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 667,
+      "spending": 29459888.69699079
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 675,
+      "spending": 28518563.63682015
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 629,
+      "spending": 30397671.006589416
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 701,
+      "spending": 35307292.86140148
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 685,
+      "spending": 31258520.932766
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 736,
+      "spending": 35284520.4459553
+    }
+  ],
+  "totalEstimatedSpending": 1016251823
+}

@@ -1,1 +1,329 @@
-{"abbreviation":"NM","name":"New Mexico","totalSpending":43256429,"totalFilings":2874,"clientCount":176,"yearlySpending":[{"year":2018,"income":3335000},{"year":2019,"income":2769000},{"year":2020,"income":4215750},{"year":2021,"income":4156000},{"year":2022,"income":5278150},{"year":2023,"income":10910000},{"year":2024,"income":5332000},{"year":2025,"income":7260529}],"topClients":[{"name":"URANIUM PRODUCERS OF AMERICA","income":1940000},{"name":"MESCALERO APACHE","income":1480000},{"name":"SELECT MILK PRODUCERS, INC./CONTINENTAL DAIRY PRODUCTS, INC.","income":1280000},{"name":"UNIVERSITY OF NEW MEXICO","income":1240000},{"name":"LOUISIANA ENERGY SERVICES, LLC","income":1220000},{"name":"VERUS RESEARCH","income":1090000},{"name":"PUEBLO OF SAN FELIPE","income":1040000},{"name":"PUBLIC SERVICE COMPANY OF NEW MEXICO","income":990000},{"name":"MZA ASSOCIATES CORPORATION","income":980000},{"name":"BAYOTECH","income":960000},{"name":"X-BOW LAUNCH SYSTEMS","income":940000},{"name":"ENCHANT ENERGY CORPORATION","income":815000},{"name":"APPLIED RESEARCH ASSOCIATES, INC. (ARA)","income":770000},{"name":"PRESBYTERIAN HEALTH PLAN","income":762000},{"name":"X-BOW LAUNCH SYSTEMS INC.","income":760000},{"name":"EASTERN NEW MEXICO RURAL WATER AUTHORITY","income":740000},{"name":"APPLIED RESEARCH ASSOCIATES, INC.","income":740000},{"name":"PUEBLO OF TESUQUE","income":680000},{"name":"NAVAJO AGRICULTURAL PRODUCTS INDUSTRY","income":670000},{"name":"SANDOVAL COUNTY, NEW MEXICO","income":660000},{"name":"LOVELACE BIOMEDICAL RESEARCH INSTITUTE","income":650000},{"name":"ARRAY TECH, INC.","income":630000},{"name":"LOUISIANA ENERGY SERVICES","income":600000},{"name":"10 TANKER AIR CARRIER LLC","income":560000},{"name":"ARRAY TECHNOLOGIES, INC.","income":560000},{"name":"PUEBLO OF ACOMA","income":490000},{"name":"CITY OF GALLUP","income":480000},{"name":"ELEPHANT BUTTE IRRIGATION DISTRICT","income":450000},{"name":"MACK ENERGY CORPORATION","income":435000},{"name":"MIDDLE RIO GRANDE CONSERVANCY DISTRICT","income":420000},{"name":"STRATA PRODUCTION COMPANY","income":415000},{"name":"NATIONAL FOREST HOMEOWNERS","income":400000},{"name":"SOLAERO TECHNOLOGIES, INC.","income":400000},{"name":"3D GLASS SOLUTIONS, INC.","income":400000},{"name":"DO-RENE DAIRY","income":384000},{"name":"CITY OF RIO RANCHO, NEW MEXICO","income":380000},{"name":"HERITAGE WATERS COALITION","income":372000},{"name":"MESCALERO APACHE TELECOM, INC.","income":369000},{"name":"RAJEN DAIRY","income":364000},{"name":"JICARILLA APACHE NATION","income":360000},{"name":"SANTA CLARA PUEBLO","income":350000},{"name":"SAN JUAN COLLEGE","income":340000},{"name":"NATURES TOOLBOX, INC.","income":340000},{"name":"BIOFLYTE","income":340000},{"name":"CITY OF CARLSBAD NEW MEXICO","income":330000},{"name":"PUEBLO OF LAGUNA","income":330000},{"name":"ABQ BERNCO WATER UTILITY AUTHORITY","income":330000},{"name":"SSCAFCA - SOUTHERN SANDOVAL COUNTY ARROYO FLOOD CONTROL AUTHORITY","income":330000},{"name":"HIGHLAND DAIRY & FARM","income":330000},{"name":"CITY OF CARLSBAD, NEW MEXICO","income":320000}],"topIssues":[{"code":"BUD","income":10250529},{"code":"ENG","income":10090000},{"code":"DEF","income":5716529},{"code":"IND","income":5452650},{"code":"NAT","income":5183000},{"code":"ENV","income":3411000},{"code":"SCI","income":3290000},{"code":"TRA","income":3045000},{"code":"AGR","income":2694000},{"code":"TRD","income":2310000},{"code":"TAX","income":2273000},{"code":"EDU","income":1966500},{"code":"HCR","income":1861000},{"code":"CAW","income":1554000},{"code":"TEC","income":1269000},{"code":"UTI","income":1210000},{"code":"MMM","income":746000},{"code":"URB","income":694000},{"code":"MAN","income":595000},{"code":"IMM","income":528000}]}
+{
+  "abbreviation": "NM",
+  "name": "New Mexico",
+  "totalSpending": 43256429,
+  "totalFilings": 2874,
+  "clientCount": 176,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 3335000
+    },
+    {
+      "year": 2019,
+      "income": 2769000
+    },
+    {
+      "year": 2020,
+      "income": 4215750
+    },
+    {
+      "year": 2021,
+      "income": 4156000
+    },
+    {
+      "year": 2022,
+      "income": 5278150
+    },
+    {
+      "year": 2023,
+      "income": 10910000
+    },
+    {
+      "year": 2024,
+      "income": 5332000
+    },
+    {
+      "year": 2025,
+      "income": 7260529
+    }
+  ],
+  "topClients": [
+    {
+      "name": "URANIUM PRODUCERS OF AMERICA",
+      "income": 1940000
+    },
+    {
+      "name": "MESCALERO APACHE",
+      "income": 1480000
+    },
+    {
+      "name": "SELECT MILK PRODUCERS, INC./CONTINENTAL DAIRY PRODUCTS, INC.",
+      "income": 1280000
+    },
+    {
+      "name": "UNIVERSITY OF NEW MEXICO",
+      "income": 1240000
+    },
+    {
+      "name": "LOUISIANA ENERGY SERVICES, LLC",
+      "income": 1220000
+    },
+    {
+      "name": "VERUS RESEARCH",
+      "income": 1090000
+    },
+    {
+      "name": "PUEBLO OF SAN FELIPE",
+      "income": 1040000
+    },
+    {
+      "name": "PUBLIC SERVICE COMPANY OF NEW MEXICO",
+      "income": 990000
+    },
+    {
+      "name": "MZA ASSOCIATES CORPORATION",
+      "income": 980000
+    },
+    {
+      "name": "BAYOTECH",
+      "income": 960000
+    },
+    {
+      "name": "X-BOW LAUNCH SYSTEMS",
+      "income": 940000
+    },
+    {
+      "name": "ENCHANT ENERGY CORPORATION",
+      "income": 815000
+    },
+    {
+      "name": "APPLIED RESEARCH ASSOCIATES, INC. (ARA)",
+      "income": 770000
+    },
+    {
+      "name": "PRESBYTERIAN HEALTH PLAN",
+      "income": 762000
+    },
+    {
+      "name": "X-BOW LAUNCH SYSTEMS INC.",
+      "income": 760000
+    },
+    {
+      "name": "EASTERN NEW MEXICO RURAL WATER AUTHORITY",
+      "income": 740000
+    },
+    {
+      "name": "APPLIED RESEARCH ASSOCIATES, INC.",
+      "income": 740000
+    },
+    {
+      "name": "PUEBLO OF TESUQUE",
+      "income": 680000
+    },
+    {
+      "name": "NAVAJO AGRICULTURAL PRODUCTS INDUSTRY",
+      "income": 670000
+    },
+    {
+      "name": "SANDOVAL COUNTY, NEW MEXICO",
+      "income": 660000
+    },
+    {
+      "name": "LOVELACE BIOMEDICAL RESEARCH INSTITUTE",
+      "income": 650000
+    },
+    {
+      "name": "ARRAY TECH, INC.",
+      "income": 630000
+    },
+    {
+      "name": "LOUISIANA ENERGY SERVICES",
+      "income": 600000
+    },
+    {
+      "name": "10 TANKER AIR CARRIER LLC",
+      "income": 560000
+    },
+    {
+      "name": "ARRAY TECHNOLOGIES, INC.",
+      "income": 560000
+    },
+    {
+      "name": "PUEBLO OF ACOMA",
+      "income": 490000
+    },
+    {
+      "name": "CITY OF GALLUP",
+      "income": 480000
+    },
+    {
+      "name": "ELEPHANT BUTTE IRRIGATION DISTRICT",
+      "income": 450000
+    },
+    {
+      "name": "MACK ENERGY CORPORATION",
+      "income": 435000
+    },
+    {
+      "name": "MIDDLE RIO GRANDE CONSERVANCY DISTRICT",
+      "income": 420000
+    },
+    {
+      "name": "STRATA PRODUCTION COMPANY",
+      "income": 415000
+    },
+    {
+      "name": "NATIONAL FOREST HOMEOWNERS",
+      "income": 400000
+    },
+    {
+      "name": "SOLAERO TECHNOLOGIES, INC.",
+      "income": 400000
+    },
+    {
+      "name": "3D GLASS SOLUTIONS, INC.",
+      "income": 400000
+    },
+    {
+      "name": "DO-RENE DAIRY",
+      "income": 384000
+    },
+    {
+      "name": "CITY OF RIO RANCHO, NEW MEXICO",
+      "income": 380000
+    },
+    {
+      "name": "HERITAGE WATERS COALITION",
+      "income": 372000
+    },
+    {
+      "name": "MESCALERO APACHE TELECOM, INC.",
+      "income": 369000
+    },
+    {
+      "name": "RAJEN DAIRY",
+      "income": 364000
+    },
+    {
+      "name": "JICARILLA APACHE NATION",
+      "income": 360000
+    },
+    {
+      "name": "SANTA CLARA PUEBLO",
+      "income": 350000
+    },
+    {
+      "name": "SAN JUAN COLLEGE",
+      "income": 340000
+    },
+    {
+      "name": "NATURES TOOLBOX, INC.",
+      "income": 340000
+    },
+    {
+      "name": "BIOFLYTE",
+      "income": 340000
+    },
+    {
+      "name": "CITY OF CARLSBAD NEW MEXICO",
+      "income": 330000
+    },
+    {
+      "name": "PUEBLO OF LAGUNA",
+      "income": 330000
+    },
+    {
+      "name": "ABQ BERNCO WATER UTILITY AUTHORITY",
+      "income": 330000
+    },
+    {
+      "name": "SSCAFCA - SOUTHERN SANDOVAL COUNTY ARROYO FLOOD CONTROL AUTHORITY",
+      "income": 330000
+    },
+    {
+      "name": "HIGHLAND DAIRY & FARM",
+      "income": 330000
+    },
+    {
+      "name": "CITY OF CARLSBAD, NEW MEXICO",
+      "income": 320000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 10250529
+    },
+    {
+      "code": "ENG",
+      "income": 10090000
+    },
+    {
+      "code": "DEF",
+      "income": 5716529
+    },
+    {
+      "code": "IND",
+      "income": 5452650
+    },
+    {
+      "code": "NAT",
+      "income": 5183000
+    },
+    {
+      "code": "ENV",
+      "income": 3411000
+    },
+    {
+      "code": "SCI",
+      "income": 3290000
+    },
+    {
+      "code": "TRA",
+      "income": 3045000
+    },
+    {
+      "code": "AGR",
+      "income": 2694000
+    },
+    {
+      "code": "TRD",
+      "income": 2310000
+    },
+    {
+      "code": "TAX",
+      "income": 2273000
+    },
+    {
+      "code": "EDU",
+      "income": 1966500
+    },
+    {
+      "code": "HCR",
+      "income": 1861000
+    },
+    {
+      "code": "CAW",
+      "income": 1554000
+    },
+    {
+      "code": "TEC",
+      "income": 1269000
+    },
+    {
+      "code": "UTI",
+      "income": 1210000
+    },
+    {
+      "code": "MMM",
+      "income": 746000
+    },
+    {
+      "code": "URB",
+      "income": 694000
+    },
+    {
+      "code": "MAN",
+      "income": 595000
+    },
+    {
+      "code": "IMM",
+      "income": 528000
+    }
+  ],
+  "perCapita": 18.69,
+  "population": 2114371,
+  "nationalRank": 43,
+  "perCapitaRank": 46
+}

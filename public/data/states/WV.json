@@ -1,1 +1,329 @@
-{"abbreviation":"WV","name":"West Virginia","totalSpending":18178875,"totalFilings":1310,"clientCount":77,"yearlySpending":[{"year":2018,"income":952000},{"year":2019,"income":1163200},{"year":2020,"income":1197000},{"year":2021,"income":1733675},{"year":2022,"income":2248000},{"year":2023,"income":5379000},{"year":2024,"income":2445000},{"year":2025,"income":3061000}],"topClients":[{"name":"APPALACHIAN NATURAL GAS OPERATORS COALITION","income":1530000},{"name":"AMERICAN PUBLIC UNIVERSITY SYSTEM","income":1411875},{"name":"MARSHALL UNIVERSITY RESEARCH CORP.","income":1360000},{"name":"HERBERT J. THOMAS MEMORIAL HOSPITAL ASSOCIATION (FKA THOMAS HEALTH)","income":1110000},{"name":"HUNTINGTON MUNICIPAL DEVELOPMENT AUTHORITY WV","income":740000},{"name":"AMERICAN PUBLIC EDUCATION INC.","income":730000},{"name":"WVU MEDICINE/POTOMAC VALLEY HOSPITAL","income":580000},{"name":"?LONGVIEW POWER LLC","income":560000},{"name":"CITY OF WHEELING, WV","income":550000},{"name":"BRAXTON COUNTY DEVELOPMENT AUTHORITY, WV","income":540000},{"name":"CONSTELLIUM ROLLED PRODUCTS RAVENSWOOD LLC","income":520000},{"name":"CM ENERGY HOLDINGS","income":510000},{"name":"CITY OF CHARLESTON, WV","income":500000},{"name":"MARSHALL HEALTH NETWORK (FORMERLY MOUNTAIN HEALTH NETWORK)","income":490000},{"name":"VISIONARY SOLUTIONS","income":460000},{"name":"CLINE STRATEGIC CONSULTING, LLC OBO HOUSTON METRO","income":400000},{"name":"STS INTERNATIONAL, INC.","income":384000},{"name":"CITY OF CHARLES TOWN, WV","income":370000},{"name":"INFINITY NATURAL RESOURCES","income":360000},{"name":"GENERATION WEST VIRGINIA","income":340000},{"name":"BOONE MEMORIAL HEALTH, INC. (FORMERLY BOONE MEMORIAL HOSPITAL, INC.)","income":300000},{"name":"HILL STRATEGY LLC","income":300000},{"name":"BETHANY COLLEGE","income":280000},{"name":"NATIONAL COUNCIL OF COAL LESSORS","income":265000},{"name":"WEST VIRGINIA MUNICIPAL LEAGUE","income":260000},{"name":"TOUCHSTONE RESEARCH LABORATORY","income":240000},{"name":"SEMPER LIBERI","income":240000},{"name":"SOUTHERN WEST VIRGINIA COMMUNITY & TECHNICAL COLLEGE","income":220000},{"name":"COALFIELD DEVELOPMENT","income":220000},{"name":"CITY OF HUNTINGTON, WV","income":190000},{"name":"CITY OF WEIRTON, WV","income":180000},{"name":"X-MAT","income":180000},{"name":"CITY OF RANSON, WV","income":160000},{"name":"NEXTGEN FEDERAL SYSTEMS","income":160000},{"name":"COMMUNITY CARE OF WEST VIRGINIA","income":140000},{"name":"CITY OF MORGANTOWN, WV","income":130000},{"name":"DIVERSIFIED ENERGY COMPANY","income":130000},{"name":"THE HIGH TECHNOLOGY FOUNDATION","income":120000},{"name":"CENTRAL WEST VIRGINIA REGIONAL AIRPORT AUTHORITY","income":117000},{"name":"NATURAL RESOURCE PARTNERS (NRP) - OPERATING, LLC","income":105000},{"name":"WEIRTON MEDICAL CENTER","income":100000},{"name":"SCENIC VISTAS, LLC","income":100000},{"name":"CITY OF BLUEFIELD, WEST VIRGINIA","income":80000},{"name":"VANCE RIVER TERMINAL","income":80000},{"name":"HATFIELD MCCOY CONVENTION & VISITORS BUREAU","income":60000},{"name":"SPILMAN, THOMAS, & BATTLE, PLLC FOR NEW VENTURE FUND","income":50000},{"name":"BAILEY & GLASSER LLP ON BEHALF OF CALIBER MIDSTREAM HOLDINGS, LP","income":40000},{"name":"AMERICARBON","income":40000},{"name":"BRICKSTREET MUTUAL INSURANCE COMPANY","income":30000},{"name":"NICHOLAS COUNTY AIRPORT AUTHORITY","income":30000}],"topIssues":[{"code":"BUD","income":6410875},{"code":"DEF","income":4550875},{"code":"URB","income":3270000},{"code":"EDU","income":2451875},{"code":"HCR","income":2385000},{"code":"VET","income":1901875},{"code":"ECN","income":1590000},{"code":"ENG","income":1375000},{"code":"HOM","income":1250000},{"code":"MED","income":910000},{"code":"ALC","income":890000},{"code":"AGR","income":890000},{"code":"TEC","income":880000},{"code":"DIS","income":870000},{"code":"NAT","income":670000},{"code":"TAX","income":530000},{"code":"FUE","income":480000},{"code":"MAN","income":430000},{"code":"CIV","income":300000},{"code":"AVI","income":277500}]}
+{
+  "abbreviation": "WV",
+  "name": "West Virginia",
+  "totalSpending": 18178875,
+  "totalFilings": 1310,
+  "clientCount": 77,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 952000
+    },
+    {
+      "year": 2019,
+      "income": 1163200
+    },
+    {
+      "year": 2020,
+      "income": 1197000
+    },
+    {
+      "year": 2021,
+      "income": 1733675
+    },
+    {
+      "year": 2022,
+      "income": 2248000
+    },
+    {
+      "year": 2023,
+      "income": 5379000
+    },
+    {
+      "year": 2024,
+      "income": 2445000
+    },
+    {
+      "year": 2025,
+      "income": 3061000
+    }
+  ],
+  "topClients": [
+    {
+      "name": "APPALACHIAN NATURAL GAS OPERATORS COALITION",
+      "income": 1530000
+    },
+    {
+      "name": "AMERICAN PUBLIC UNIVERSITY SYSTEM",
+      "income": 1411875
+    },
+    {
+      "name": "MARSHALL UNIVERSITY RESEARCH CORP.",
+      "income": 1360000
+    },
+    {
+      "name": "HERBERT J. THOMAS MEMORIAL HOSPITAL ASSOCIATION (FKA THOMAS HEALTH)",
+      "income": 1110000
+    },
+    {
+      "name": "HUNTINGTON MUNICIPAL DEVELOPMENT AUTHORITY WV",
+      "income": 740000
+    },
+    {
+      "name": "AMERICAN PUBLIC EDUCATION INC.",
+      "income": 730000
+    },
+    {
+      "name": "WVU MEDICINE/POTOMAC VALLEY HOSPITAL",
+      "income": 580000
+    },
+    {
+      "name": "?LONGVIEW POWER LLC",
+      "income": 560000
+    },
+    {
+      "name": "CITY OF WHEELING, WV",
+      "income": 550000
+    },
+    {
+      "name": "BRAXTON COUNTY DEVELOPMENT AUTHORITY, WV",
+      "income": 540000
+    },
+    {
+      "name": "CONSTELLIUM ROLLED PRODUCTS RAVENSWOOD LLC",
+      "income": 520000
+    },
+    {
+      "name": "CM ENERGY HOLDINGS",
+      "income": 510000
+    },
+    {
+      "name": "CITY OF CHARLESTON, WV",
+      "income": 500000
+    },
+    {
+      "name": "MARSHALL HEALTH NETWORK (FORMERLY MOUNTAIN HEALTH NETWORK)",
+      "income": 490000
+    },
+    {
+      "name": "VISIONARY SOLUTIONS",
+      "income": 460000
+    },
+    {
+      "name": "CLINE STRATEGIC CONSULTING, LLC OBO HOUSTON METRO",
+      "income": 400000
+    },
+    {
+      "name": "STS INTERNATIONAL, INC.",
+      "income": 384000
+    },
+    {
+      "name": "CITY OF CHARLES TOWN, WV",
+      "income": 370000
+    },
+    {
+      "name": "INFINITY NATURAL RESOURCES",
+      "income": 360000
+    },
+    {
+      "name": "GENERATION WEST VIRGINIA",
+      "income": 340000
+    },
+    {
+      "name": "BOONE MEMORIAL HEALTH, INC. (FORMERLY BOONE MEMORIAL HOSPITAL, INC.)",
+      "income": 300000
+    },
+    {
+      "name": "HILL STRATEGY LLC",
+      "income": 300000
+    },
+    {
+      "name": "BETHANY COLLEGE",
+      "income": 280000
+    },
+    {
+      "name": "NATIONAL COUNCIL OF COAL LESSORS",
+      "income": 265000
+    },
+    {
+      "name": "WEST VIRGINIA MUNICIPAL LEAGUE",
+      "income": 260000
+    },
+    {
+      "name": "TOUCHSTONE RESEARCH LABORATORY",
+      "income": 240000
+    },
+    {
+      "name": "SEMPER LIBERI",
+      "income": 240000
+    },
+    {
+      "name": "SOUTHERN WEST VIRGINIA COMMUNITY & TECHNICAL COLLEGE",
+      "income": 220000
+    },
+    {
+      "name": "COALFIELD DEVELOPMENT",
+      "income": 220000
+    },
+    {
+      "name": "CITY OF HUNTINGTON, WV",
+      "income": 190000
+    },
+    {
+      "name": "CITY OF WEIRTON, WV",
+      "income": 180000
+    },
+    {
+      "name": "X-MAT",
+      "income": 180000
+    },
+    {
+      "name": "CITY OF RANSON, WV",
+      "income": 160000
+    },
+    {
+      "name": "NEXTGEN FEDERAL SYSTEMS",
+      "income": 160000
+    },
+    {
+      "name": "COMMUNITY CARE OF WEST VIRGINIA",
+      "income": 140000
+    },
+    {
+      "name": "CITY OF MORGANTOWN, WV",
+      "income": 130000
+    },
+    {
+      "name": "DIVERSIFIED ENERGY COMPANY",
+      "income": 130000
+    },
+    {
+      "name": "THE HIGH TECHNOLOGY FOUNDATION",
+      "income": 120000
+    },
+    {
+      "name": "CENTRAL WEST VIRGINIA REGIONAL AIRPORT AUTHORITY",
+      "income": 117000
+    },
+    {
+      "name": "NATURAL RESOURCE PARTNERS (NRP) - OPERATING, LLC",
+      "income": 105000
+    },
+    {
+      "name": "WEIRTON MEDICAL CENTER",
+      "income": 100000
+    },
+    {
+      "name": "SCENIC VISTAS, LLC",
+      "income": 100000
+    },
+    {
+      "name": "CITY OF BLUEFIELD, WEST VIRGINIA",
+      "income": 80000
+    },
+    {
+      "name": "VANCE RIVER TERMINAL",
+      "income": 80000
+    },
+    {
+      "name": "HATFIELD MCCOY CONVENTION & VISITORS BUREAU",
+      "income": 60000
+    },
+    {
+      "name": "SPILMAN, THOMAS, & BATTLE, PLLC FOR NEW VENTURE FUND",
+      "income": 50000
+    },
+    {
+      "name": "BAILEY & GLASSER LLP ON BEHALF OF CALIBER MIDSTREAM HOLDINGS, LP",
+      "income": 40000
+    },
+    {
+      "name": "AMERICARBON",
+      "income": 40000
+    },
+    {
+      "name": "BRICKSTREET MUTUAL INSURANCE COMPANY",
+      "income": 30000
+    },
+    {
+      "name": "NICHOLAS COUNTY AIRPORT AUTHORITY",
+      "income": 30000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 6410875
+    },
+    {
+      "code": "DEF",
+      "income": 4550875
+    },
+    {
+      "code": "URB",
+      "income": 3270000
+    },
+    {
+      "code": "EDU",
+      "income": 2451875
+    },
+    {
+      "code": "HCR",
+      "income": 2385000
+    },
+    {
+      "code": "VET",
+      "income": 1901875
+    },
+    {
+      "code": "ECN",
+      "income": 1590000
+    },
+    {
+      "code": "ENG",
+      "income": 1375000
+    },
+    {
+      "code": "HOM",
+      "income": 1250000
+    },
+    {
+      "code": "MED",
+      "income": 910000
+    },
+    {
+      "code": "ALC",
+      "income": 890000
+    },
+    {
+      "code": "AGR",
+      "income": 890000
+    },
+    {
+      "code": "TEC",
+      "income": 880000
+    },
+    {
+      "code": "DIS",
+      "income": 870000
+    },
+    {
+      "code": "NAT",
+      "income": 670000
+    },
+    {
+      "code": "TAX",
+      "income": 530000
+    },
+    {
+      "code": "FUE",
+      "income": 480000
+    },
+    {
+      "code": "MAN",
+      "income": 430000
+    },
+    {
+      "code": "CIV",
+      "income": 300000
+    },
+    {
+      "code": "AVI",
+      "income": 277500
+    }
+  ],
+  "perCapita": 11.54,
+  "population": 1770071,
+  "nationalRank": 48,
+  "perCapitaRank": 49
+}

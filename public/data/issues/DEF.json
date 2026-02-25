@@ -1,1 +1,557 @@
-{"code":"DEF","name":"Defense","totalSpending":1647576185.37,"totalFilings":65024,"yearlySpending":[{"year":2018,"income":124666558,"filings":5784},{"year":2019,"income":143882997,"filings":6239},{"year":2020,"income":166015116,"filings":7068},{"year":2021,"income":173503828,"filings":7253},{"year":2022,"income":212455874,"filings":8589},{"year":2023,"income":251241690,"filings":9989},{"year":2024,"income":241303446.33,"filings":9077},{"year":2025,"income":334506676.03999996,"filings":11025}],"topClients":[{"name":"STATE OF LOC NATION GLOBAL PUBLIC BENEFIT CORPORATION","income":20000000},{"name":"AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE","income":19226158},{"name":"GENERAL DYNAMICS","income":15262500},{"name":"LOCKHEED MARTIN CORPORATION","income":12019000},{"name":"HIKVISION USA, INC.","income":11565000},{"name":"THE BOEING COMPANY","income":8912500},{"name":"ORACLE CORPORATION","income":7040000},{"name":"SPACEX","income":6120000},{"name":"RAFAEL USA, INC.","income":5595000},{"name":"ORACLE AMERICA, INC.","income":4985000},{"name":"PALANTIR TECHNOLOGIES INC.","income":4945000},{"name":"UNITED LAUNCH ALLIANCE","income":4840000},{"name":"SHIPBUILDERS COUNCIL OF AMERICA","income":4290000},{"name":"MATERION BRUSH INC.","income":4240000},{"name":"GENERAL DYNAMICS CORPORATION","income":4159000},{"name":"MICROSOFT CORPORATION","income":4150000},{"name":"NORTHROP GRUMMAN CORPORATION","income":4070000},{"name":"BOEING COMPANY","income":4045000},{"name":"CUBIC CORPORATION","income":3990000},{"name":"CRUISE LINES INTERNATIONAL ASSOCIATION","income":3910000},{"name":"HAMPTON ROADS MILITARY AND FEDERAL FACILITIES ALLIANCE","income":3840000},{"name":"HUNTINGTON INGALLS INCORPORATED","income":3796000},{"name":"COALITION OF EPSCOR STATES","income":3560000},{"name":"TRIMBLE INC","income":3520000},{"name":"RTX CORPORATION AND AFFILIATES","income":3230000},{"name":"GENERAL ATOMICS","income":3200000},{"name":"AUSTAL USA","income":3190000},{"name":"GE AEROSPACE","income":3160000},{"name":"FINCANTIERI MARINE GROUP LLC","income":3140000},{"name":"ZTE CORPORATION","income":3130000},{"name":"PARKER HANNIFIN","income":3120000},{"name":"TEXTRON INC.","income":3120000},{"name":"LEIDOS","income":3077500},{"name":"SIERRA NEVADA CORPORATION","income":3070000},{"name":"SPACE EXPLORATION TECHNOLOGIES CORP.","income":3060000},{"name":"KONGSBERG DEFENCE & AEROSPACE","income":2868750},{"name":"VIASAT, INC.","income":2860000},{"name":"DJI TECHNOLOGY, INC.","income":2815000},{"name":"EMPLOYEE-OWNED CONTRACTORS ROUNDTABLE","income":2800000},{"name":"AGUSTAWESTLAND PHILADELPHIA CORPORATION","income":2800000},{"name":"PALANTIR TECHNOLOGIES, INC.","income":2770000},{"name":"CERBERUS CAPITAL MANAGEMENT, L.P.","income":2765000},{"name":"ULTRA MARITIME LLC (FORMERLY REPORTED AS ULTRA ELECTRONICS DEFENSE INC)","income":2690000},{"name":"BOSSIER PARISH POLICE JURY","income":2670000},{"name":"INNOVATIVE DEFENSE TECHNOLOGIES","income":2660000},{"name":"BLUE ORIGIN, LLC","income":2640000},{"name":"OSHKOSH CORPORATION","income":2580000},{"name":"MASSDEVELOPMENT","income":2560000},{"name":"QORVO","income":2550000},{"name":"HUNT DEVELOPMENT GROUP LLC","income":2540000}],"topFirms":[{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":79274500},{"name":"STRATEGIC MARKETING INNOVATIONS","income":70382400},{"name":"CASSIDY & ASSOCIATES, INC.","income":62540000},{"name":"THE ROOSEVELT GROUP","income":44525000},{"name":"J.A. GREEN AND COMPANY","income":44375000},{"name":"INVARIANT LLC","income":38080000},{"name":"AMERICAN DEFENSE INTERNATIONAL, INC.","income":37436000},{"name":"INNOVATIVE FEDERAL STRATEGIES, LLC","income":33650000},{"name":"HOLLAND & KNIGHT LLP","income":33320000},{"name":"VAN SCOYOC ASSOCIATES","income":31785000},{"name":"C2 STRATEGIES","income":28850000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":23260000},{"name":"LOC COMMUNITY ASSOCIATION","income":20000000},{"name":"AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE","income":19226158},{"name":"CROSSROADS STRATEGIES, LLC","income":17800000},{"name":"BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ","income":17244500},{"name":"K&L GATES, LLP","income":16160000},{"name":"FORBES-TATE","income":15375000},{"name":"LEWIS-BURKE ASSOCIATES, LLC","income":15351000},{"name":"DLA PIPER LLP (US)","income":15230000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":14650000},{"name":"BGR GOVERNMENT AFFAIRS","income":13850000},{"name":"ACG ADVOCACY","income":13270000},{"name":"WILLIAMS AND JENSEN, PLLC","income":12980000},{"name":"S-3 GROUP","income":12430000},{"name":"SIDLEY AUSTIN LLP","income":12325000},{"name":"THORN RUN PARTNERS","income":11920000},{"name":"ERVIN GRAVES STRATEGY GROUP, LLC","income":10530000},{"name":"RISING TIDE ASSOCIATES","income":10500000},{"name":"THE NICKLES GROUP, LLC","income":10207500}],"sampleDescriptions":["Missile Defense","Funding opportunities for first responder products","Advocacy for research and development of optics-base wideband telecommunication frequency interference cancellation systems.","Issues related to healthcare IT","Issues related to DOD procurement","House and Senate Defense Authorization Bills; House and Senate Defense Appropriations Acts; House and Senate Intelligence Authorization Acts. \n\nSpecific Issues:  Small Satellite Policy and Regulatory ","Funding opportunities for first responder products.","Support for defense funding of mobile satellite communications equipment, aviation training solutions and virtual and immersive training courseware.   Advocate for greater regional transportation tech","Defense Authorization and Appropriation bills and NASA Authorization and Appropriation bills.","Procurement","Expanded satellite technology applications","National Defense Authorization Act\nDefense Appropriations\nNavy Shipbuilding","Issues related to use of geospatial technologies by government agencies and in commercial sectors.","House (HR 3219) and Senate (no bill number) Fiscal Year 2018 Department of Defense (DoD) Appropriations Bills -- all provisions related to propulsion systems for tactical missiles; strategic systems; ","Issues relating to military housing\nTrade\nAppropriations","Veterans administration (structure, benefits, services, and quality of care)   Family code (UCCJEA) Federal enforcement of parental rights. Veteran suicide epidemic (root causes, actions, programs, ac","FY19 DoD Appropriations;\nFY19 Labor, HHS, Education Appropriations;\nFY19 NDAA;\nIssues related to autism research","Issues related to funding and the procurement of small/standard boats.","Issues related to supporting US industrial base that manufacture personal protective equipment.","General company overview for members and staff"]}
+{
+  "code": "DEF",
+  "name": "Defense",
+  "totalSpending": 1647576185.37,
+  "totalFilings": 65024,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 124666558,
+      "filings": 5784
+    },
+    {
+      "year": 2019,
+      "income": 143882997,
+      "filings": 6239
+    },
+    {
+      "year": 2020,
+      "income": 166015116,
+      "filings": 7068
+    },
+    {
+      "year": 2021,
+      "income": 173503828,
+      "filings": 7253
+    },
+    {
+      "year": 2022,
+      "income": 212455874,
+      "filings": 8589
+    },
+    {
+      "year": 2023,
+      "income": 251241690,
+      "filings": 9989
+    },
+    {
+      "year": 2024,
+      "income": 241303446.33,
+      "filings": 9077
+    },
+    {
+      "year": 2025,
+      "income": 334506676.03999996,
+      "filings": 11025
+    }
+  ],
+  "topClients": [
+    {
+      "name": "STATE OF LOC NATION GLOBAL PUBLIC BENEFIT CORPORATION",
+      "income": 20000000
+    },
+    {
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
+      "income": 19226158
+    },
+    {
+      "name": "GENERAL DYNAMICS",
+      "income": 15262500
+    },
+    {
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "income": 12019000
+    },
+    {
+      "name": "HIKVISION USA, INC.",
+      "income": 11565000
+    },
+    {
+      "name": "THE BOEING COMPANY",
+      "income": 8912500
+    },
+    {
+      "name": "ORACLE CORPORATION",
+      "income": 7040000
+    },
+    {
+      "name": "SPACEX",
+      "income": 6120000
+    },
+    {
+      "name": "RAFAEL USA, INC.",
+      "income": 5595000
+    },
+    {
+      "name": "ORACLE AMERICA, INC.",
+      "income": 4985000
+    },
+    {
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "income": 4945000
+    },
+    {
+      "name": "UNITED LAUNCH ALLIANCE",
+      "income": 4840000
+    },
+    {
+      "name": "SHIPBUILDERS COUNCIL OF AMERICA",
+      "income": 4290000
+    },
+    {
+      "name": "MATERION BRUSH INC.",
+      "income": 4240000
+    },
+    {
+      "name": "GENERAL DYNAMICS CORPORATION",
+      "income": 4159000
+    },
+    {
+      "name": "MICROSOFT CORPORATION",
+      "income": 4150000
+    },
+    {
+      "name": "NORTHROP GRUMMAN CORPORATION",
+      "income": 4070000
+    },
+    {
+      "name": "BOEING COMPANY",
+      "income": 4045000
+    },
+    {
+      "name": "CUBIC CORPORATION",
+      "income": 3990000
+    },
+    {
+      "name": "CRUISE LINES INTERNATIONAL ASSOCIATION",
+      "income": 3910000
+    },
+    {
+      "name": "HAMPTON ROADS MILITARY AND FEDERAL FACILITIES ALLIANCE",
+      "income": 3840000
+    },
+    {
+      "name": "HUNTINGTON INGALLS INCORPORATED",
+      "income": 3796000
+    },
+    {
+      "name": "COALITION OF EPSCOR STATES",
+      "income": 3560000
+    },
+    {
+      "name": "TRIMBLE INC",
+      "income": 3520000
+    },
+    {
+      "name": "RTX CORPORATION AND AFFILIATES",
+      "income": 3230000
+    },
+    {
+      "name": "GENERAL ATOMICS",
+      "income": 3200000
+    },
+    {
+      "name": "AUSTAL USA",
+      "income": 3190000
+    },
+    {
+      "name": "GE AEROSPACE",
+      "income": 3160000
+    },
+    {
+      "name": "FINCANTIERI MARINE GROUP LLC",
+      "income": 3140000
+    },
+    {
+      "name": "ZTE CORPORATION",
+      "income": 3130000
+    },
+    {
+      "name": "PARKER HANNIFIN",
+      "income": 3120000
+    },
+    {
+      "name": "TEXTRON INC.",
+      "income": 3120000
+    },
+    {
+      "name": "LEIDOS",
+      "income": 3077500
+    },
+    {
+      "name": "SIERRA NEVADA CORPORATION",
+      "income": 3070000
+    },
+    {
+      "name": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+      "income": 3060000
+    },
+    {
+      "name": "KONGSBERG DEFENCE & AEROSPACE",
+      "income": 2868750
+    },
+    {
+      "name": "VIASAT, INC.",
+      "income": 2860000
+    },
+    {
+      "name": "DJI TECHNOLOGY, INC.",
+      "income": 2815000
+    },
+    {
+      "name": "EMPLOYEE-OWNED CONTRACTORS ROUNDTABLE",
+      "income": 2800000
+    },
+    {
+      "name": "AGUSTAWESTLAND PHILADELPHIA CORPORATION",
+      "income": 2800000
+    },
+    {
+      "name": "PALANTIR TECHNOLOGIES, INC.",
+      "income": 2770000
+    },
+    {
+      "name": "CERBERUS CAPITAL MANAGEMENT, L.P.",
+      "income": 2765000
+    },
+    {
+      "name": "ULTRA MARITIME LLC (FORMERLY REPORTED AS ULTRA ELECTRONICS DEFENSE INC)",
+      "income": 2690000
+    },
+    {
+      "name": "BOSSIER PARISH POLICE JURY",
+      "income": 2670000
+    },
+    {
+      "name": "INNOVATIVE DEFENSE TECHNOLOGIES",
+      "income": 2660000
+    },
+    {
+      "name": "BLUE ORIGIN, LLC",
+      "income": 2640000
+    },
+    {
+      "name": "OSHKOSH CORPORATION",
+      "income": 2580000
+    },
+    {
+      "name": "MASSDEVELOPMENT",
+      "income": 2560000
+    },
+    {
+      "name": "QORVO",
+      "income": 2550000
+    },
+    {
+      "name": "HUNT DEVELOPMENT GROUP LLC",
+      "income": 2540000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 79274500
+    },
+    {
+      "name": "STRATEGIC MARKETING INNOVATIONS",
+      "income": 70382400
+    },
+    {
+      "name": "CASSIDY & ASSOCIATES, INC.",
+      "income": 62540000
+    },
+    {
+      "name": "THE ROOSEVELT GROUP",
+      "income": 44525000
+    },
+    {
+      "name": "J.A. GREEN AND COMPANY",
+      "income": 44375000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 38080000
+    },
+    {
+      "name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
+      "income": 37436000
+    },
+    {
+      "name": "INNOVATIVE FEDERAL STRATEGIES, LLC",
+      "income": 33650000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 33320000
+    },
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 31785000
+    },
+    {
+      "name": "C2 STRATEGIES",
+      "income": 28850000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 23260000
+    },
+    {
+      "name": "LOC COMMUNITY ASSOCIATION",
+      "income": 20000000
+    },
+    {
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
+      "income": 19226158
+    },
+    {
+      "name": "CROSSROADS STRATEGIES, LLC",
+      "income": 17800000
+    },
+    {
+      "name": "BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ",
+      "income": 17244500
+    },
+    {
+      "name": "K&L GATES, LLP",
+      "income": 16160000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 15375000
+    },
+    {
+      "name": "LEWIS-BURKE ASSOCIATES, LLC",
+      "income": 15351000
+    },
+    {
+      "name": "DLA PIPER LLP (US)",
+      "income": 15230000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 14650000
+    },
+    {
+      "name": "BGR GOVERNMENT AFFAIRS",
+      "income": 13850000
+    },
+    {
+      "name": "ACG ADVOCACY",
+      "income": 13270000
+    },
+    {
+      "name": "WILLIAMS AND JENSEN, PLLC",
+      "income": 12980000
+    },
+    {
+      "name": "S-3 GROUP",
+      "income": 12430000
+    },
+    {
+      "name": "SIDLEY AUSTIN LLP",
+      "income": 12325000
+    },
+    {
+      "name": "THORN RUN PARTNERS",
+      "income": 11920000
+    },
+    {
+      "name": "ERVIN GRAVES STRATEGY GROUP, LLC",
+      "income": 10530000
+    },
+    {
+      "name": "RISING TIDE ASSOCIATES",
+      "income": 10500000
+    },
+    {
+      "name": "THE NICKLES GROUP, LLC",
+      "income": 10207500
+    }
+  ],
+  "sampleDescriptions": [
+    "Missile Defense",
+    "Funding opportunities for first responder products",
+    "Advocacy for research and development of optics-base wideband telecommunication frequency interference cancellation systems.",
+    "Issues related to healthcare IT",
+    "Issues related to DOD procurement",
+    "House and Senate Defense Authorization Bills; House and Senate Defense Appropriations Acts; House and Senate Intelligence Authorization Acts. \n\nSpecific Issues:  Small Satellite Policy and Regulatory ",
+    "Funding opportunities for first responder products.",
+    "Support for defense funding of mobile satellite communications equipment, aviation training solutions and virtual and immersive training courseware.   Advocate for greater regional transportation tech",
+    "Defense Authorization and Appropriation bills and NASA Authorization and Appropriation bills.",
+    "Procurement",
+    "Expanded satellite technology applications",
+    "National Defense Authorization Act\nDefense Appropriations\nNavy Shipbuilding",
+    "Issues related to use of geospatial technologies by government agencies and in commercial sectors.",
+    "House (HR 3219) and Senate (no bill number) Fiscal Year 2018 Department of Defense (DoD) Appropriations Bills -- all provisions related to propulsion systems for tactical missiles; strategic systems; ",
+    "Issues relating to military housing\nTrade\nAppropriations",
+    "Veterans administration (structure, benefits, services, and quality of care)   Family code (UCCJEA) Federal enforcement of parental rights. Veteran suicide epidemic (root causes, actions, programs, ac",
+    "FY19 DoD Appropriations;\nFY19 Labor, HHS, Education Appropriations;\nFY19 NDAA;\nIssues related to autism research",
+    "Issues related to funding and the procurement of small/standard boats.",
+    "Issues related to supporting US industrial base that manufacture personal protective equipment.",
+    "General company overview for members and staff"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 1342,
+      "spending": 29527675.644818828
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 1484,
+      "spending": 34608482.06756506
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 1422,
+      "spending": 30209719.112961676
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 1536,
+      "spending": 34507544.928119555
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 1377,
+      "spending": 32721023.997279875
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 1732,
+      "spending": 40654024.203035556
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 1526,
+      "spending": 36127703.8972471
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 1604,
+      "spending": 37553679.59239389
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 1607,
+      "spending": 37317127.498136185
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 1841,
+      "spending": 43158448.49091717
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 1824,
+      "spending": 40449902.86401529
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 1796,
+      "spending": 40124874.412182875
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 1652,
+      "spending": 37388870.83519138
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 1964,
+      "spending": 46598714.72868631
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 1749,
+      "spending": 38831567.82613389
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 1888,
+      "spending": 43238991.395028315
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 1913,
+      "spending": 45785288.792780384
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 2304,
+      "spending": 57168452.48487536
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 2152,
+      "spending": 72021947.08972478
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 2220,
+      "spending": 55457971.42795642
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 2536,
+      "spending": 61802021.997794986
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 2504,
+      "spending": 66513904.88959069
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 2476,
+      "spending": 66306574.092423916
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 2473,
+      "spending": 61793441.49948872
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 2000,
+      "spending": 52676248.04539312
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 2542,
+      "spending": 65990746.05504884
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 2209,
+      "spending": 56957691.42365821
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 2326,
+      "spending": 59314401.6808795
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 2397,
+      "spending": 62773561.12302649
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 2996,
+      "spending": 83551995.7978256
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 2715,
+      "spending": 83945021.4477276
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 2917,
+      "spending": 80388904.34852175
+    }
+  ],
+  "totalEstimatedSpending": 1635466524
+}

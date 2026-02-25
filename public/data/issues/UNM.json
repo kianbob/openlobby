@@ -1,1 +1,509 @@
-{"code":"UNM","name":"Unemployment","totalSpending":8394750,"totalFilings":919,"yearlySpending":[{"year":2018,"income":200000,"filings":35},{"year":2019,"income":220000,"filings":50},{"year":2020,"income":2411500,"filings":226},{"year":2021,"income":2132000,"filings":206},{"year":2022,"income":1304000,"filings":140},{"year":2023,"income":865000,"filings":107},{"year":2024,"income":737500,"filings":86},{"year":2025,"income":524750,"filings":69}],"topClients":[{"name":"ALLSUP","income":770000},{"name":"MAXIMUS","income":562500},{"name":"SHOPIFY INC.","income":550000},{"name":"DOORDASH","income":530000},{"name":"THE HOPE PROGRAM","income":400000},{"name":"BOYD GAMING CORPORATION","income":380000},{"name":"EIGHTFOLD.AI","income":337500},{"name":"CARE IN ACTION","income":320000},{"name":"WORK OPPORTUNITY TAX CREDIT COALITION","income":312000},{"name":"THE BUSINESS ROUNDTABLE","income":300000},{"name":"FWD.US","income":280000},{"name":"STEADY","income":280000},{"name":"SERVICE EMPLOYEES INTERNATIONAL UNION","income":270000},{"name":"SOFTBANK","income":240000},{"name":"THE CENTER ON BUDGET AND POLICY PRIORITIES","income":239000},{"name":"ALLIANCE FOR SAFETY AND JUSTICE","income":220000},{"name":"MGM RESORTS INTERNATIONAL","income":200000},{"name":"AARP","income":180000},{"name":"DREAM CENTER INDIANAPOLIS","income":180000},{"name":"QUEST FOOD MANAGEMENT SERVICES","income":170000},{"name":"CAPITOL BRIDGE LLC","income":160000},{"name":"JOB CREATORS NETWORK","income":159750},{"name":"ALLSUP INC,","income":140000},{"name":"TRAVEL MANAGEMENT COALITION","income":140000},{"name":"CHURCH ALLIANCE","income":120000},{"name":"BUSINESS ROUNDTABLE","income":120000},{"name":"RELX INC.","income":120000},{"name":"STATE OF NEVADA","income":120000},{"name":"STATE OF INDIANA","income":109000},{"name":"YOGA ALLIANCE","income":90000},{"name":"ID.ME, INC.","income":90000},{"name":"ON POINT TECHNOLOGY, LLC","income":90000},{"name":"YWCA USA","income":80000},{"name":"CONFERENCE OF PROVINCIALS OF NORTH AMERICA","income":40000},{"name":"NEIGHBORS AND NEIGHBORS ASSOCIATION, INC.","income":30000},{"name":"KEYCORP","income":30000},{"name":"COUNTY OF MONTEREY, CA","income":20000},{"name":"EASTEREALS NEW JERSEY","income":15000}],"topFirms":[{"name":"TIBER CREEK GROUP","income":960000},{"name":"THE MCSWANE GROUP","income":770000},{"name":"INVARIANT LLC","income":640000},{"name":"DOGWOOD STRATEGIES","income":562500},{"name":"CASSIDY & ASSOCIATES, INC.","income":490000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":410000},{"name":"DAVIDOFF HUTCHER & CITRON, LLP","income":400000},{"name":"AVOQ, LLC","income":360000},{"name":"BOSE PUBLIC AFFAIRS GROUP","income":337500},{"name":"PAUL SUPLIZIO ASSOCIATES","income":312000},{"name":"THE NORMANDY GROUP, LLC","income":280000},{"name":"NVG, LLC","income":270000},{"name":"MR. NICHOLAS GWYN","income":239000},{"name":"THE RABEN GROUP","income":220000},{"name":"SQUIRE PATTON BOGGS","income":200000},{"name":"VENN STRATEGIES","income":180000},{"name":"A10 ASSOCIATES, LLC","income":180000},{"name":"ALEXANDER, BOROVICKA & O'SHEA GOVERNMENT SOLUTIONS (FKA ALEXANDER & BOROVICKA GO","income":170000},{"name":"FULCRUM PUBLIC AFFAIRS LLC","income":160000},{"name":"STEWART STRATEGIES AND SOLUTIONS, LLC","income":160000},{"name":"HARNED STRATEGIES LLC","income":159750},{"name":"THE MCGRATH GROUP LLLC","income":140000},{"name":"MONUMENT ADVOCACY","income":140000},{"name":"K&L GATES, LLP","income":120000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":120000},{"name":"DEBORAH HOHLT","income":100000},{"name":"PILLSBURY WINTHROP SHAW PITTMAN LLP","income":90000},{"name":"UNCORKED ADVOCATES","income":80000},{"name":"NATIONAL ADVOCACY CENTER OF THE SISTERS OF THE GOOD SHEPHERD","income":40000},{"name":"BECKER & POLIAKOFF, P.A.","income":30000}],"sampleDescriptions":["Social Security Disability Insurance and Return to Work.","Implementation of P.L. 113-128, the Workforce Innovation and Opportunity Act (WIOA)\nPermanent Extension of the Work Opportunity Tax Credit\nThe Rehab Act Reauthorization\nThe Ticket to Work and Work Inc","Improving worker standards for Homecare Workers who care for family members","Oppose an expansion of work credits of work requirements for SNAP (food stamps) in the 2018 Farm bill\nSupport a prohibition on employers using credit checks (support HR 3783 / S 1819)","Lobbying for improvements to the UI program and better funding for it.  Advocate for reforms to Disaster Unemployment Assistance program.  Advocating for RESEA program expansion.","The primary aim of the work opportunity tax credit is to increase opportunity, income mobility, and advancement of \"structurally unemployed\" populations who bear an actual or perceived quality that di","Legislation impacting state and/or local unemployment compensation benefits or taxes and workers' compensation","Lobbying for improvements to the UI program and better funding for it.  Advocate for reforms to Disaster Unemployment Assistance program.  Advocate for proper implementation of RESEA program.","Implementation of Social Security Work Incentives provisions dealing with employment for individuals with disabilities. \n\nEfforts to improve administration of SSI and Title II programs affecting peopl","Matters relating to the use of data analytics to detect unemployment fraud","Support the Water Affordability, Transparency, Equity and Reliability (WATER) Act, introduced by Congressmen Ellison (MN) and Khanna (CA), HR 5609","NDRN's work here is focused on helping individuals with disabilities achieve employment in competitive, integrated environments. Working to ensure that the employment needs of individuals with disabil","The primary aim of the work opportunity tax credit is to increase opportunity, income mobility, and advancement of \"structurally unemployed\" populations who bear actual or perceived limitations that d","Workplace inclusion for people with intellectual disabilities","S. 2360, the Disability Employment Incentives Act\nImplementation of P.L. 113-128, the Workforce Innovation and Opportunity Act (WIOA)\nPermanent Extension of the Work Opportunity Tax Credit\nThe Rehab A","S. 3260, the Disability Employment Incentive Act\nImplementation of P.L. 113-128, the Workforce Innovation and Opportunity Act (WIOA)\nPermanent Extension of the Work Opportunity Tax Credit\nThe Rehab Ac","Improve processing of Social Security disability claims and improve claimants' prospects for returning to work through private sector technology and employment network agency assistance.","Hurricane Harvey disaster funding for the UT Austin Marine Science Institute in Port Aransas TX; Higher Education Re-authorization; issues related to the Tax Cuts and Jobs Act; DACA and visa issues; i","Expanding workforce development and job training programs in New York City.","Improve processing of Social Security disability claims and claimants' prospects for returning to work through the assistance of an employment network agency. Reforms to the Ticket to Work program."]}
+{
+  "code": "UNM",
+  "name": "Unemployment",
+  "totalSpending": 8394750,
+  "totalFilings": 919,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 200000,
+      "filings": 35
+    },
+    {
+      "year": 2019,
+      "income": 220000,
+      "filings": 50
+    },
+    {
+      "year": 2020,
+      "income": 2411500,
+      "filings": 226
+    },
+    {
+      "year": 2021,
+      "income": 2132000,
+      "filings": 206
+    },
+    {
+      "year": 2022,
+      "income": 1304000,
+      "filings": 140
+    },
+    {
+      "year": 2023,
+      "income": 865000,
+      "filings": 107
+    },
+    {
+      "year": 2024,
+      "income": 737500,
+      "filings": 86
+    },
+    {
+      "year": 2025,
+      "income": 524750,
+      "filings": 69
+    }
+  ],
+  "topClients": [
+    {
+      "name": "ALLSUP",
+      "income": 770000
+    },
+    {
+      "name": "MAXIMUS",
+      "income": 562500
+    },
+    {
+      "name": "SHOPIFY INC.",
+      "income": 550000
+    },
+    {
+      "name": "DOORDASH",
+      "income": 530000
+    },
+    {
+      "name": "THE HOPE PROGRAM",
+      "income": 400000
+    },
+    {
+      "name": "BOYD GAMING CORPORATION",
+      "income": 380000
+    },
+    {
+      "name": "EIGHTFOLD.AI",
+      "income": 337500
+    },
+    {
+      "name": "CARE IN ACTION",
+      "income": 320000
+    },
+    {
+      "name": "WORK OPPORTUNITY TAX CREDIT COALITION",
+      "income": 312000
+    },
+    {
+      "name": "THE BUSINESS ROUNDTABLE",
+      "income": 300000
+    },
+    {
+      "name": "FWD.US",
+      "income": 280000
+    },
+    {
+      "name": "STEADY",
+      "income": 280000
+    },
+    {
+      "name": "SERVICE EMPLOYEES INTERNATIONAL UNION",
+      "income": 270000
+    },
+    {
+      "name": "SOFTBANK",
+      "income": 240000
+    },
+    {
+      "name": "THE CENTER ON BUDGET AND POLICY PRIORITIES",
+      "income": 239000
+    },
+    {
+      "name": "ALLIANCE FOR SAFETY AND JUSTICE",
+      "income": 220000
+    },
+    {
+      "name": "MGM RESORTS INTERNATIONAL",
+      "income": 200000
+    },
+    {
+      "name": "AARP",
+      "income": 180000
+    },
+    {
+      "name": "DREAM CENTER INDIANAPOLIS",
+      "income": 180000
+    },
+    {
+      "name": "QUEST FOOD MANAGEMENT SERVICES",
+      "income": 170000
+    },
+    {
+      "name": "CAPITOL BRIDGE LLC",
+      "income": 160000
+    },
+    {
+      "name": "JOB CREATORS NETWORK",
+      "income": 159750
+    },
+    {
+      "name": "ALLSUP INC,",
+      "income": 140000
+    },
+    {
+      "name": "TRAVEL MANAGEMENT COALITION",
+      "income": 140000
+    },
+    {
+      "name": "CHURCH ALLIANCE",
+      "income": 120000
+    },
+    {
+      "name": "BUSINESS ROUNDTABLE",
+      "income": 120000
+    },
+    {
+      "name": "RELX INC.",
+      "income": 120000
+    },
+    {
+      "name": "STATE OF NEVADA",
+      "income": 120000
+    },
+    {
+      "name": "STATE OF INDIANA",
+      "income": 109000
+    },
+    {
+      "name": "YOGA ALLIANCE",
+      "income": 90000
+    },
+    {
+      "name": "ID.ME, INC.",
+      "income": 90000
+    },
+    {
+      "name": "ON POINT TECHNOLOGY, LLC",
+      "income": 90000
+    },
+    {
+      "name": "YWCA USA",
+      "income": 80000
+    },
+    {
+      "name": "CONFERENCE OF PROVINCIALS OF NORTH AMERICA",
+      "income": 40000
+    },
+    {
+      "name": "NEIGHBORS AND NEIGHBORS ASSOCIATION, INC.",
+      "income": 30000
+    },
+    {
+      "name": "KEYCORP",
+      "income": 30000
+    },
+    {
+      "name": "COUNTY OF MONTEREY, CA",
+      "income": 20000
+    },
+    {
+      "name": "EASTEREALS NEW JERSEY",
+      "income": 15000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "TIBER CREEK GROUP",
+      "income": 960000
+    },
+    {
+      "name": "THE MCSWANE GROUP",
+      "income": 770000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 640000
+    },
+    {
+      "name": "DOGWOOD STRATEGIES",
+      "income": 562500
+    },
+    {
+      "name": "CASSIDY & ASSOCIATES, INC.",
+      "income": 490000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 410000
+    },
+    {
+      "name": "DAVIDOFF HUTCHER & CITRON, LLP",
+      "income": 400000
+    },
+    {
+      "name": "AVOQ, LLC",
+      "income": 360000
+    },
+    {
+      "name": "BOSE PUBLIC AFFAIRS GROUP",
+      "income": 337500
+    },
+    {
+      "name": "PAUL SUPLIZIO ASSOCIATES",
+      "income": 312000
+    },
+    {
+      "name": "THE NORMANDY GROUP, LLC",
+      "income": 280000
+    },
+    {
+      "name": "NVG, LLC",
+      "income": 270000
+    },
+    {
+      "name": "MR. NICHOLAS GWYN",
+      "income": 239000
+    },
+    {
+      "name": "THE RABEN GROUP",
+      "income": 220000
+    },
+    {
+      "name": "SQUIRE PATTON BOGGS",
+      "income": 200000
+    },
+    {
+      "name": "VENN STRATEGIES",
+      "income": 180000
+    },
+    {
+      "name": "A10 ASSOCIATES, LLC",
+      "income": 180000
+    },
+    {
+      "name": "ALEXANDER, BOROVICKA & O'SHEA GOVERNMENT SOLUTIONS (FKA ALEXANDER & BOROVICKA GO",
+      "income": 170000
+    },
+    {
+      "name": "FULCRUM PUBLIC AFFAIRS LLC",
+      "income": 160000
+    },
+    {
+      "name": "STEWART STRATEGIES AND SOLUTIONS, LLC",
+      "income": 160000
+    },
+    {
+      "name": "HARNED STRATEGIES LLC",
+      "income": 159750
+    },
+    {
+      "name": "THE MCGRATH GROUP LLLC",
+      "income": 140000
+    },
+    {
+      "name": "MONUMENT ADVOCACY",
+      "income": 140000
+    },
+    {
+      "name": "K&L GATES, LLP",
+      "income": 120000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 120000
+    },
+    {
+      "name": "DEBORAH HOHLT",
+      "income": 100000
+    },
+    {
+      "name": "PILLSBURY WINTHROP SHAW PITTMAN LLP",
+      "income": 90000
+    },
+    {
+      "name": "UNCORKED ADVOCATES",
+      "income": 80000
+    },
+    {
+      "name": "NATIONAL ADVOCACY CENTER OF THE SISTERS OF THE GOOD SHEPHERD",
+      "income": 40000
+    },
+    {
+      "name": "BECKER & POLIAKOFF, P.A.",
+      "income": 30000
+    }
+  ],
+  "sampleDescriptions": [
+    "Social Security Disability Insurance and Return to Work.",
+    "Implementation of P.L. 113-128, the Workforce Innovation and Opportunity Act (WIOA)\nPermanent Extension of the Work Opportunity Tax Credit\nThe Rehab Act Reauthorization\nThe Ticket to Work and Work Inc",
+    "Improving worker standards for Homecare Workers who care for family members",
+    "Oppose an expansion of work credits of work requirements for SNAP (food stamps) in the 2018 Farm bill\nSupport a prohibition on employers using credit checks (support HR 3783 / S 1819)",
+    "Lobbying for improvements to the UI program and better funding for it.  Advocate for reforms to Disaster Unemployment Assistance program.  Advocating for RESEA program expansion.",
+    "The primary aim of the work opportunity tax credit is to increase opportunity, income mobility, and advancement of \"structurally unemployed\" populations who bear an actual or perceived quality that di",
+    "Legislation impacting state and/or local unemployment compensation benefits or taxes and workers' compensation",
+    "Lobbying for improvements to the UI program and better funding for it.  Advocate for reforms to Disaster Unemployment Assistance program.  Advocate for proper implementation of RESEA program.",
+    "Implementation of Social Security Work Incentives provisions dealing with employment for individuals with disabilities. \n\nEfforts to improve administration of SSI and Title II programs affecting peopl",
+    "Matters relating to the use of data analytics to detect unemployment fraud",
+    "Support the Water Affordability, Transparency, Equity and Reliability (WATER) Act, introduced by Congressmen Ellison (MN) and Khanna (CA), HR 5609",
+    "NDRN's work here is focused on helping individuals with disabilities achieve employment in competitive, integrated environments. Working to ensure that the employment needs of individuals with disabil",
+    "The primary aim of the work opportunity tax credit is to increase opportunity, income mobility, and advancement of \"structurally unemployed\" populations who bear actual or perceived limitations that d",
+    "Workplace inclusion for people with intellectual disabilities",
+    "S. 2360, the Disability Employment Incentives Act\nImplementation of P.L. 113-128, the Workforce Innovation and Opportunity Act (WIOA)\nPermanent Extension of the Work Opportunity Tax Credit\nThe Rehab A",
+    "S. 3260, the Disability Employment Incentive Act\nImplementation of P.L. 113-128, the Workforce Innovation and Opportunity Act (WIOA)\nPermanent Extension of the Work Opportunity Tax Credit\nThe Rehab Ac",
+    "Improve processing of Social Security disability claims and improve claimants' prospects for returning to work through private sector technology and employment network agency assistance.",
+    "Hurricane Harvey disaster funding for the UT Austin Marine Science Institute in Port Aransas TX; Higher Education Re-authorization; issues related to the Tax Cuts and Jobs Act; DACA and visa issues; i",
+    "Expanding workforce development and job training programs in New York City.",
+    "Improve processing of Social Security disability claims and claimants' prospects for returning to work through the assistance of an employment network agency. Reforms to the Ticket to Work program."
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 8,
+      "spending": 81552.51770451771
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 10,
+      "spending": 48741.09523809524
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 8,
+      "spending": 50022.83809523809
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 9,
+      "spending": 38017.58085052203
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 15,
+      "spending": 116983.01388888889
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 13,
+      "spending": 83753.69581529581
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 10,
+      "spending": 50208.753000387136
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 12,
+      "spending": 78421.24963924964
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 38,
+      "spending": 1574120.0000481
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 57,
+      "spending": 2351429.6192039982
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 71,
+      "spending": 1659726.8729036478
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 60,
+      "spending": 2758696.726817313
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 51,
+      "spending": 1415034.4409709712
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 49,
+      "spending": 1839234.4644300144
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 53,
+      "spending": 1682797.2672949475
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 53,
+      "spending": 2211624.527266562
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 40,
+      "spending": 1348720.8428647374
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 34,
+      "spending": 2129767.641847042
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 33,
+      "spending": 1408838.3287157286
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 33,
+      "spending": 2342963.6095238095
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 31,
+      "spending": 509271.41942560364
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 25,
+      "spending": 277610.7950937951
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 27,
+      "spending": 413385.4517120307
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 24,
+      "spending": 241795.38372738374
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 17,
+      "spending": 212092.72020961496
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 21,
+      "spending": 153360.76551226553
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 26,
+      "spending": 336635.96714396717
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 22,
+      "spending": 229172.91752691753
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 14,
+      "spending": 467627.60333333333
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 17,
+      "spending": 115145.64285714287
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 19,
+      "spending": 467170.12698412704
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 19,
+      "spending": 372723.19047619053
+    }
+  ],
+  "totalEstimatedSpending": 27066647
+}

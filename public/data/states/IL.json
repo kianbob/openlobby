@@ -1,1 +1,329 @@
-{"abbreviation":"IL","name":"Illinois","totalSpending":530682464.45,"totalFilings":22545,"clientCount":1259,"yearlySpending":[{"year":2018,"income":45060031.21},{"year":2019,"income":45867739.24},{"year":2020,"income":50042183},{"year":2021,"income":52036639},{"year":2022,"income":64048150},{"year":2023,"income":138465300},{"year":2024,"income":59385850},{"year":2025,"income":75776572}],"topClients":[{"name":"VICTIMS OF TERRORISM - EAST AFRICA","income":7820000},{"name":"WALGREEN CO.","income":7505000},{"name":"ABBOTT LABORATORIES","income":6955000},{"name":"EXPANSION FUNDING PARTNERS, LLC","income":6695000},{"name":"ASTELLAS PHARMA US, INC.","income":5180000},{"name":"TAKEDA PHARMACEUTICALS AMERICA, INC.","income":5130000},{"name":"HEALTH CARE SERVICE CORPORATION","income":4910000},{"name":"BAXTER HEALTHCARE CORPORATION","income":4840000},{"name":"AON SERVICE CORPORATION","income":4530000},{"name":"CHURCH ALLIANCE","income":4100000},{"name":"ASSOCIATION OF FOOD AND DAIRY RETAILERS, WHOLESALERS AND MANUFACTURERS","income":3790000},{"name":"CBOE GLOBAL MARKETS, INC.","income":3780000},{"name":"OPTIONS CLEARING CORPORATION (OCC)","income":3700000},{"name":"SKINCURE ONCOLOGY","income":3572500},{"name":"STATE FARM INSURANCE COMPANIES","income":3424000},{"name":"LARGE UROLOGY GROUP PRACTICE ASSOCIATION","income":3060000},{"name":"ILLINOIS CORN GROWERS ASSOCIATION","income":3000000},{"name":"BOEING COMPANY","income":2930000},{"name":"UNIVERSITY OF ILLINOIS","income":2915000},{"name":"WALGREENS CO.","income":2885000},{"name":"MCCAIN FOODS USA, INC.","income":2800000},{"name":"UNITED AIRLINES INC","income":2794000},{"name":"INVENERGY LLC","income":2680000},{"name":"ABBVIE INC.","income":2670000},{"name":"BLUE CROSS BLUE SHIELD ASSOCIATION","income":2667500},{"name":"AMERICAN SOCIETY OF PLASTIC SURGERY","income":2650000},{"name":"AMERICAN MEDICAL ASSOCIATION","income":2640000},{"name":"START EARLY","income":2410000},{"name":"NORTHEAST ILLINOIS REGIONAL COMMUTER RAILROAD CORPORATION","income":2390000},{"name":"NORTHWESTERN UNIVERSITY","income":2370000},{"name":"UNITED STATES CELLULAR CORPORATION","income":2310000},{"name":"MOTOROLA SOLUTIONS, INC.","income":2300000},{"name":"AAR CORP.","income":2180000},{"name":"CITADEL ENTERPRISE AMERICAS LLC","income":2180000},{"name":"CRESCO LABS","income":2170000},{"name":"LKQ CORPORATION","income":2105000},{"name":"LARGE UROLOGY GROUP PRACTICE ASSOCIATION (LUGPA)","income":2100000},{"name":"ALLSTATE INSURANCE COMPANY","income":2080000},{"name":"ADTALEM GLOBAL EDUCATION INC","income":2030000},{"name":"ABBVIE","income":2010000},{"name":"CENTURY ALUMINUM","income":2010000},{"name":"MEDLINE INDUSTRIES, L.P. (FORMERLY MEDLINE INDUSTRIES, INC.)","income":2010000},{"name":"CITADEL LLC","income":1980000},{"name":"GEOTHERMAL EXCHANGE ORGANIZATION","income":1980000},{"name":"AMERICAN COLLEGE OF SURGEONS","income":1980000},{"name":"INTERNATIONAL MOTORS, LLC (FORMERLY NAVISTAR, INC)","income":1980000},{"name":"ZEBRA TECHNOLOGIES CORPORATION","income":1960000},{"name":"AMERICAN RENTAL ASSOCIATION","income":1950000},{"name":"ARTHUR J. GALLAGHER & CO.","income":1906462},{"name":"BLUE CROSS AND BLUE SHIELD ASSOCIATION","income":1884000}],"topIssues":[{"code":"HCR","income":127932378.45},{"code":"BUD","income":88485490},{"code":"TAX","income":83126565},{"code":"MMM","income":71249250},{"code":"FIN","income":45334014},{"code":"TRD","income":45031000},{"code":"TRA","income":33172700},{"code":"DEF","income":31996000},{"code":"EDU","income":23686800},{"code":"ENG","income":22764478},{"code":"AGR","income":18681200},{"code":"ENV","income":17502853},{"code":"INS","income":16430250},{"code":"MAN","income":15366300},{"code":"BAN","income":15138500},{"code":"SCI","income":14652800},{"code":"LBR","income":14384100},{"code":"PHA","income":13680000},{"code":"AVI","income":12761471},{"code":"CSP","income":10877500}]}
+{
+  "abbreviation": "IL",
+  "name": "Illinois",
+  "totalSpending": 530682464.45,
+  "totalFilings": 22545,
+  "clientCount": 1259,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 45060031.21
+    },
+    {
+      "year": 2019,
+      "income": 45867739.24
+    },
+    {
+      "year": 2020,
+      "income": 50042183
+    },
+    {
+      "year": 2021,
+      "income": 52036639
+    },
+    {
+      "year": 2022,
+      "income": 64048150
+    },
+    {
+      "year": 2023,
+      "income": 138465300
+    },
+    {
+      "year": 2024,
+      "income": 59385850
+    },
+    {
+      "year": 2025,
+      "income": 75776572
+    }
+  ],
+  "topClients": [
+    {
+      "name": "VICTIMS OF TERRORISM - EAST AFRICA",
+      "income": 7820000
+    },
+    {
+      "name": "WALGREEN CO.",
+      "income": 7505000
+    },
+    {
+      "name": "ABBOTT LABORATORIES",
+      "income": 6955000
+    },
+    {
+      "name": "EXPANSION FUNDING PARTNERS, LLC",
+      "income": 6695000
+    },
+    {
+      "name": "ASTELLAS PHARMA US, INC.",
+      "income": 5180000
+    },
+    {
+      "name": "TAKEDA PHARMACEUTICALS AMERICA, INC.",
+      "income": 5130000
+    },
+    {
+      "name": "HEALTH CARE SERVICE CORPORATION",
+      "income": 4910000
+    },
+    {
+      "name": "BAXTER HEALTHCARE CORPORATION",
+      "income": 4840000
+    },
+    {
+      "name": "AON SERVICE CORPORATION",
+      "income": 4530000
+    },
+    {
+      "name": "CHURCH ALLIANCE",
+      "income": 4100000
+    },
+    {
+      "name": "ASSOCIATION OF FOOD AND DAIRY RETAILERS, WHOLESALERS AND MANUFACTURERS",
+      "income": 3790000
+    },
+    {
+      "name": "CBOE GLOBAL MARKETS, INC.",
+      "income": 3780000
+    },
+    {
+      "name": "OPTIONS CLEARING CORPORATION (OCC)",
+      "income": 3700000
+    },
+    {
+      "name": "SKINCURE ONCOLOGY",
+      "income": 3572500
+    },
+    {
+      "name": "STATE FARM INSURANCE COMPANIES",
+      "income": 3424000
+    },
+    {
+      "name": "LARGE UROLOGY GROUP PRACTICE ASSOCIATION",
+      "income": 3060000
+    },
+    {
+      "name": "ILLINOIS CORN GROWERS ASSOCIATION",
+      "income": 3000000
+    },
+    {
+      "name": "BOEING COMPANY",
+      "income": 2930000
+    },
+    {
+      "name": "UNIVERSITY OF ILLINOIS",
+      "income": 2915000
+    },
+    {
+      "name": "WALGREENS CO.",
+      "income": 2885000
+    },
+    {
+      "name": "MCCAIN FOODS USA, INC.",
+      "income": 2800000
+    },
+    {
+      "name": "UNITED AIRLINES INC",
+      "income": 2794000
+    },
+    {
+      "name": "INVENERGY LLC",
+      "income": 2680000
+    },
+    {
+      "name": "ABBVIE INC.",
+      "income": 2670000
+    },
+    {
+      "name": "BLUE CROSS BLUE SHIELD ASSOCIATION",
+      "income": 2667500
+    },
+    {
+      "name": "AMERICAN SOCIETY OF PLASTIC SURGERY",
+      "income": 2650000
+    },
+    {
+      "name": "AMERICAN MEDICAL ASSOCIATION",
+      "income": 2640000
+    },
+    {
+      "name": "START EARLY",
+      "income": 2410000
+    },
+    {
+      "name": "NORTHEAST ILLINOIS REGIONAL COMMUTER RAILROAD CORPORATION",
+      "income": 2390000
+    },
+    {
+      "name": "NORTHWESTERN UNIVERSITY",
+      "income": 2370000
+    },
+    {
+      "name": "UNITED STATES CELLULAR CORPORATION",
+      "income": 2310000
+    },
+    {
+      "name": "MOTOROLA SOLUTIONS, INC.",
+      "income": 2300000
+    },
+    {
+      "name": "AAR CORP.",
+      "income": 2180000
+    },
+    {
+      "name": "CITADEL ENTERPRISE AMERICAS LLC",
+      "income": 2180000
+    },
+    {
+      "name": "CRESCO LABS",
+      "income": 2170000
+    },
+    {
+      "name": "LKQ CORPORATION",
+      "income": 2105000
+    },
+    {
+      "name": "LARGE UROLOGY GROUP PRACTICE ASSOCIATION (LUGPA)",
+      "income": 2100000
+    },
+    {
+      "name": "ALLSTATE INSURANCE COMPANY",
+      "income": 2080000
+    },
+    {
+      "name": "ADTALEM GLOBAL EDUCATION INC",
+      "income": 2030000
+    },
+    {
+      "name": "ABBVIE",
+      "income": 2010000
+    },
+    {
+      "name": "CENTURY ALUMINUM",
+      "income": 2010000
+    },
+    {
+      "name": "MEDLINE INDUSTRIES, L.P. (FORMERLY MEDLINE INDUSTRIES, INC.)",
+      "income": 2010000
+    },
+    {
+      "name": "CITADEL LLC",
+      "income": 1980000
+    },
+    {
+      "name": "GEOTHERMAL EXCHANGE ORGANIZATION",
+      "income": 1980000
+    },
+    {
+      "name": "AMERICAN COLLEGE OF SURGEONS",
+      "income": 1980000
+    },
+    {
+      "name": "INTERNATIONAL MOTORS, LLC (FORMERLY NAVISTAR, INC)",
+      "income": 1980000
+    },
+    {
+      "name": "ZEBRA TECHNOLOGIES CORPORATION",
+      "income": 1960000
+    },
+    {
+      "name": "AMERICAN RENTAL ASSOCIATION",
+      "income": 1950000
+    },
+    {
+      "name": "ARTHUR J. GALLAGHER & CO.",
+      "income": 1906462
+    },
+    {
+      "name": "BLUE CROSS AND BLUE SHIELD ASSOCIATION",
+      "income": 1884000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "HCR",
+      "income": 127932378.45
+    },
+    {
+      "code": "BUD",
+      "income": 88485490
+    },
+    {
+      "code": "TAX",
+      "income": 83126565
+    },
+    {
+      "code": "MMM",
+      "income": 71249250
+    },
+    {
+      "code": "FIN",
+      "income": 45334014
+    },
+    {
+      "code": "TRD",
+      "income": 45031000
+    },
+    {
+      "code": "TRA",
+      "income": 33172700
+    },
+    {
+      "code": "DEF",
+      "income": 31996000
+    },
+    {
+      "code": "EDU",
+      "income": 23686800
+    },
+    {
+      "code": "ENG",
+      "income": 22764478
+    },
+    {
+      "code": "AGR",
+      "income": 18681200
+    },
+    {
+      "code": "ENV",
+      "income": 17502853
+    },
+    {
+      "code": "INS",
+      "income": 16430250
+    },
+    {
+      "code": "MAN",
+      "income": 15366300
+    },
+    {
+      "code": "BAN",
+      "income": 15138500
+    },
+    {
+      "code": "SCI",
+      "income": 14652800
+    },
+    {
+      "code": "LBR",
+      "income": 14384100
+    },
+    {
+      "code": "PHA",
+      "income": 13680000
+    },
+    {
+      "code": "AVI",
+      "income": 12761471
+    },
+    {
+      "code": "CSP",
+      "income": 10877500
+    }
+  ],
+  "perCapita": 67.17,
+  "population": 12549689,
+  "nationalRank": 6,
+  "perCapitaRank": 9
+}

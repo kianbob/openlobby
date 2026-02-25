@@ -1,1 +1,329 @@
-{"abbreviation":"MT","name":"Montana","totalSpending":34203569.3,"totalFilings":1938,"clientCount":125,"yearlySpending":[{"year":2018,"income":2355750},{"year":2019,"income":2503000},{"year":2020,"income":2982474},{"year":2021,"income":3299205.3},{"year":2022,"income":3656016},{"year":2023,"income":9363632},{"year":2024,"income":4120252},{"year":2025,"income":5923240}],"topClients":[{"name":"ISLAND MOUNTAIN DEVELOPMENT GROUP (IMDG)","income":2140000},{"name":"AMERICAN HONEY PRODUCERS ASSOCIATION","income":1940000},{"name":"BLUESCOPE STEEL NORTH AMERICA CORPORATION","income":1520000},{"name":"MONTANA STATE UNIVERSITY","income":1120000},{"name":"NATIONAL COUNCIL OF SOCIAL SECURITY MANAGEMENT ASSOCIATIONS","income":1010000},{"name":"BILLINGS CLINIC","income":970000},{"name":"NATIONAL SPACE GRANT ALLIANCE","income":930000},{"name":"FORT BELKNAP INDIAN COMMUNITY","income":850703.3},{"name":"WILD SHEEP FOUNDATION","income":850000},{"name":"THE CONFEDERATED SALISH AND KOOTENAI TRIBES","income":815000},{"name":"BOONE AND CROCKETT CLUB","income":800000},{"name":"UNIVERSITY OF MONTANA","income":780000},{"name":"DRY PRAIRIE RURAL WATER AUTHORITY","income":760000},{"name":"SIBANYE STILLWATER","income":760000},{"name":"OSRX PHARMACEUTICALS","income":750000},{"name":"NORTH CENTRAL MONTANA REGIONAL WATER SYSTEM PROJECT","income":712500},{"name":"ROCKY MOUNTAIN ELK FOUNDATION","income":696000},{"name":"BOONE & CROCKETT CLUB","income":695000},{"name":"DRY-REDWATER REGIONAL WATER AUTHORITY","income":640000},{"name":"CENTRAL MONTANA REGIONAL WATER AUTHORITY","income":600000},{"name":"LOGAN HEALTH (FORMALLY KNOWN AS KALISPELL REGIONAL HEALTHCARE)","income":600000},{"name":"BLACKFEET TRIBE","income":570000},{"name":"CITY OF BILLINGS, MONTANA","income":500000},{"name":"FAIR ISAAC CORPORATION","income":490000},{"name":"BILLINGS FLYING SERVICE","income":480000},{"name":"POINT OF ROCKS RANCH, LLC","income":465000},{"name":"BEAR PAW DEVELOPMENT CORPORATION OF NORTHERN MONTANA","income":440000},{"name":"S & K TECHNOLOGIES, INC.","income":400000},{"name":"BLACKFEET NATION","income":390000},{"name":"LOWER YELLOWSTONE IRRIGATION PROJECT","income":388500},{"name":"WESTERN ORGANIZATION OF RESOURCE COUNCILS","income":380000},{"name":"BRIDGER AEROSPACE GROUP HOLDINGS, LLC","income":370000},{"name":"NEPTUNE AVIATION SERVICES","income":330000},{"name":"STILLWATER MINING CO. (D/B/A SIBANYE-STILLWATER)","income":330000},{"name":"COUNTY OF FALLON, MONTANA","income":320000},{"name":"CONFEDERATED SALISH AND KOOTENAI TRIBES OF THE FLATHEAD RESERVATION","income":320000},{"name":"BRIDGER PHOTONICS","income":310000},{"name":"MONTANA HEALTH CO-OP","income":300000},{"name":"CONFEDERATED SALISH AND KOOTENAI TRIBES OF THE FLATHEAD NATION \"TRIBES\"","income":280000},{"name":"UNIVERSITY OF PROVIDENCE","income":280000},{"name":"CLASSONE TECHNOLOGY INC.","income":270000},{"name":"CARROLL COLLEGE","income":270000},{"name":"MONTANA TECHNOLOGIES LLC","income":260000},{"name":"STILLWATER CRITICAL MINERALS","income":260000},{"name":"WHITEFISH ENERGY HOLDINGS, LLC","income":230000},{"name":"CROSSCUT MOUNTAIN SPORTS CENTER INC.","income":230000},{"name":"IND HEMP","income":225000},{"name":"BRIDGER AEROSPACE GROUP, LLC","income":215000},{"name":"REVEAL TECHNOLOGY INC.","income":210000},{"name":"TRADEVERIFYD (FKA MESUR.IO)","income":202000}],"topIssues":[{"code":"BUD","income":6590442},{"code":"NAT","income":6390000},{"code":"IND","income":5349657.3},{"code":"AGR","income":3655000},{"code":"TRD","income":3317000},{"code":"DEF","income":3062250},{"code":"ENV","income":2600000},{"code":"TRA","income":2110000},{"code":"SCI","income":1865000},{"code":"FOO","income":1650000},{"code":"ENG","income":1635000},{"code":"MMM","income":1598750},{"code":"HOM","income":1420000},{"code":"HCR","income":1383448},{"code":"AVI","income":1235000},{"code":"AER","income":1180000},{"code":"GOV","income":900000},{"code":"CAW","income":865000},{"code":"RES","income":669980},{"code":"AUT","income":620000}]}
+{
+  "abbreviation": "MT",
+  "name": "Montana",
+  "totalSpending": 34203569.3,
+  "totalFilings": 1938,
+  "clientCount": 125,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 2355750
+    },
+    {
+      "year": 2019,
+      "income": 2503000
+    },
+    {
+      "year": 2020,
+      "income": 2982474
+    },
+    {
+      "year": 2021,
+      "income": 3299205.3
+    },
+    {
+      "year": 2022,
+      "income": 3656016
+    },
+    {
+      "year": 2023,
+      "income": 9363632
+    },
+    {
+      "year": 2024,
+      "income": 4120252
+    },
+    {
+      "year": 2025,
+      "income": 5923240
+    }
+  ],
+  "topClients": [
+    {
+      "name": "ISLAND MOUNTAIN DEVELOPMENT GROUP (IMDG)",
+      "income": 2140000
+    },
+    {
+      "name": "AMERICAN HONEY PRODUCERS ASSOCIATION",
+      "income": 1940000
+    },
+    {
+      "name": "BLUESCOPE STEEL NORTH AMERICA CORPORATION",
+      "income": 1520000
+    },
+    {
+      "name": "MONTANA STATE UNIVERSITY",
+      "income": 1120000
+    },
+    {
+      "name": "NATIONAL COUNCIL OF SOCIAL SECURITY MANAGEMENT ASSOCIATIONS",
+      "income": 1010000
+    },
+    {
+      "name": "BILLINGS CLINIC",
+      "income": 970000
+    },
+    {
+      "name": "NATIONAL SPACE GRANT ALLIANCE",
+      "income": 930000
+    },
+    {
+      "name": "FORT BELKNAP INDIAN COMMUNITY",
+      "income": 850703.3
+    },
+    {
+      "name": "WILD SHEEP FOUNDATION",
+      "income": 850000
+    },
+    {
+      "name": "THE CONFEDERATED SALISH AND KOOTENAI TRIBES",
+      "income": 815000
+    },
+    {
+      "name": "BOONE AND CROCKETT CLUB",
+      "income": 800000
+    },
+    {
+      "name": "UNIVERSITY OF MONTANA",
+      "income": 780000
+    },
+    {
+      "name": "DRY PRAIRIE RURAL WATER AUTHORITY",
+      "income": 760000
+    },
+    {
+      "name": "SIBANYE STILLWATER",
+      "income": 760000
+    },
+    {
+      "name": "OSRX PHARMACEUTICALS",
+      "income": 750000
+    },
+    {
+      "name": "NORTH CENTRAL MONTANA REGIONAL WATER SYSTEM PROJECT",
+      "income": 712500
+    },
+    {
+      "name": "ROCKY MOUNTAIN ELK FOUNDATION",
+      "income": 696000
+    },
+    {
+      "name": "BOONE & CROCKETT CLUB",
+      "income": 695000
+    },
+    {
+      "name": "DRY-REDWATER REGIONAL WATER AUTHORITY",
+      "income": 640000
+    },
+    {
+      "name": "CENTRAL MONTANA REGIONAL WATER AUTHORITY",
+      "income": 600000
+    },
+    {
+      "name": "LOGAN HEALTH (FORMALLY KNOWN AS KALISPELL REGIONAL HEALTHCARE)",
+      "income": 600000
+    },
+    {
+      "name": "BLACKFEET TRIBE",
+      "income": 570000
+    },
+    {
+      "name": "CITY OF BILLINGS, MONTANA",
+      "income": 500000
+    },
+    {
+      "name": "FAIR ISAAC CORPORATION",
+      "income": 490000
+    },
+    {
+      "name": "BILLINGS FLYING SERVICE",
+      "income": 480000
+    },
+    {
+      "name": "POINT OF ROCKS RANCH, LLC",
+      "income": 465000
+    },
+    {
+      "name": "BEAR PAW DEVELOPMENT CORPORATION OF NORTHERN MONTANA",
+      "income": 440000
+    },
+    {
+      "name": "S & K TECHNOLOGIES, INC.",
+      "income": 400000
+    },
+    {
+      "name": "BLACKFEET NATION",
+      "income": 390000
+    },
+    {
+      "name": "LOWER YELLOWSTONE IRRIGATION PROJECT",
+      "income": 388500
+    },
+    {
+      "name": "WESTERN ORGANIZATION OF RESOURCE COUNCILS",
+      "income": 380000
+    },
+    {
+      "name": "BRIDGER AEROSPACE GROUP HOLDINGS, LLC",
+      "income": 370000
+    },
+    {
+      "name": "NEPTUNE AVIATION SERVICES",
+      "income": 330000
+    },
+    {
+      "name": "STILLWATER MINING CO. (D/B/A SIBANYE-STILLWATER)",
+      "income": 330000
+    },
+    {
+      "name": "COUNTY OF FALLON, MONTANA",
+      "income": 320000
+    },
+    {
+      "name": "CONFEDERATED SALISH AND KOOTENAI TRIBES OF THE FLATHEAD RESERVATION",
+      "income": 320000
+    },
+    {
+      "name": "BRIDGER PHOTONICS",
+      "income": 310000
+    },
+    {
+      "name": "MONTANA HEALTH CO-OP",
+      "income": 300000
+    },
+    {
+      "name": "CONFEDERATED SALISH AND KOOTENAI TRIBES OF THE FLATHEAD NATION \"TRIBES\"",
+      "income": 280000
+    },
+    {
+      "name": "UNIVERSITY OF PROVIDENCE",
+      "income": 280000
+    },
+    {
+      "name": "CLASSONE TECHNOLOGY INC.",
+      "income": 270000
+    },
+    {
+      "name": "CARROLL COLLEGE",
+      "income": 270000
+    },
+    {
+      "name": "MONTANA TECHNOLOGIES LLC",
+      "income": 260000
+    },
+    {
+      "name": "STILLWATER CRITICAL MINERALS",
+      "income": 260000
+    },
+    {
+      "name": "WHITEFISH ENERGY HOLDINGS, LLC",
+      "income": 230000
+    },
+    {
+      "name": "CROSSCUT MOUNTAIN SPORTS CENTER INC.",
+      "income": 230000
+    },
+    {
+      "name": "IND HEMP",
+      "income": 225000
+    },
+    {
+      "name": "BRIDGER AEROSPACE GROUP, LLC",
+      "income": 215000
+    },
+    {
+      "name": "REVEAL TECHNOLOGY INC.",
+      "income": 210000
+    },
+    {
+      "name": "TRADEVERIFYD (FKA MESUR.IO)",
+      "income": 202000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 6590442
+    },
+    {
+      "code": "NAT",
+      "income": 6390000
+    },
+    {
+      "code": "IND",
+      "income": 5349657.3
+    },
+    {
+      "code": "AGR",
+      "income": 3655000
+    },
+    {
+      "code": "TRD",
+      "income": 3317000
+    },
+    {
+      "code": "DEF",
+      "income": 3062250
+    },
+    {
+      "code": "ENV",
+      "income": 2600000
+    },
+    {
+      "code": "TRA",
+      "income": 2110000
+    },
+    {
+      "code": "SCI",
+      "income": 1865000
+    },
+    {
+      "code": "FOO",
+      "income": 1650000
+    },
+    {
+      "code": "ENG",
+      "income": 1635000
+    },
+    {
+      "code": "MMM",
+      "income": 1598750
+    },
+    {
+      "code": "HOM",
+      "income": 1420000
+    },
+    {
+      "code": "HCR",
+      "income": 1383448
+    },
+    {
+      "code": "AVI",
+      "income": 1235000
+    },
+    {
+      "code": "AER",
+      "income": 1180000
+    },
+    {
+      "code": "GOV",
+      "income": 900000
+    },
+    {
+      "code": "CAW",
+      "income": 865000
+    },
+    {
+      "code": "RES",
+      "income": 669980
+    },
+    {
+      "code": "AUT",
+      "income": 620000
+    }
+  ],
+  "perCapita": 27.58,
+  "population": 1132812,
+  "nationalRank": 45,
+  "perCapitaRank": 36
+}

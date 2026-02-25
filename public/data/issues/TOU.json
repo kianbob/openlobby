@@ -1,1 +1,557 @@
-{"code":"TOU","name":"Travel/Tourism","totalSpending":85852270,"totalFilings":3414,"yearlySpending":[{"year":2018,"income":9029000,"filings":322},{"year":2019,"income":8730170,"filings":359},{"year":2020,"income":11500850,"filings":507},{"year":2021,"income":10838750,"filings":449},{"year":2022,"income":11768500,"filings":463},{"year":2023,"income":9979000,"filings":449},{"year":2024,"income":10291000,"filings":412},{"year":2025,"income":13715000,"filings":453}],"topClients":[{"name":"U.S. TRAVEL ASSOCIATION","income":6278000},{"name":"AMERICAN HOTEL & LODGING ASSOCIATION","income":3570000},{"name":"CARNIVAL CORPORATION","income":2740000},{"name":"HILTON WORLDWIDE","income":2535000},{"name":"MARRIOTT INTERNATIONAL, INC.","income":2520000},{"name":"RECREATION VEHICLE INDUSTRY ASSOCIATION","income":2300000},{"name":"CRUISE LINES INTERNATIONAL ASSOCIATION","income":2215000},{"name":"SIX CONTINENTS HOTELS, INC. D/B/A IHG HOTELS & RESORTS","income":2200000},{"name":"LOS ANGELES ORGANIZING COMMITTEE FOR THE OLYMPIC AND PARALYMPIC GAMES 2028","income":2190000},{"name":"MGM RESORTS","income":2040000},{"name":"EXPEDIA, INC.","income":1890000},{"name":"MGM RESORTS INTERNATIONAL","income":1680000},{"name":"ROYAL CARIBBEAN CRUISES LTD.","income":1680000},{"name":"CRUISE LINES INTERNATIONAL ASSOCIATION, INC.","income":1560000},{"name":"NORWEGIAN CRUISE LINE HOLDINGS LTD.","income":1555000},{"name":"AIRBNB","income":1540000},{"name":"EXPEDIA INC.","income":1320000},{"name":"UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE","income":1110000},{"name":"LAS VEGAS SANDS CORP.","income":1100000},{"name":"SMALL UAV COALITION","income":1030000},{"name":"FWC2026 US, INC.","income":1010000},{"name":"EXHIBITIONS & CONFERENCES ALLIANCE","income":950000},{"name":"HARD ROCK JAPAN K.K.","income":900000},{"name":"LOEWS HOTELS HOLDING CORPORATION","income":820000},{"name":"AIRBNB, INC.","income":780000},{"name":"LAS VEGAS SANDS CORPORATION","income":780000},{"name":"AMERICAN HOTEL AND LODGING ASSOCIATION","income":740000},{"name":"IDEMIA IDENTITY AND SECURITY USA LLC","income":740000},{"name":"BOOKING.COM B.V.","income":720000},{"name":"LIGHTSTONE INVESTMENTS","income":710000},{"name":"THE WALT DISNEY COMPANY","income":700000},{"name":"US TRAVEL ASSOCIATION","income":685000},{"name":"BOOKING HOLDINGS INC. (FORMERLY KNOWN AS BOOKING.COM B.V.)","income":676000},{"name":"BOOKING HOLDINGS INC.","income":670000},{"name":"CRESTVIEW STRATEGIES US LLC ON BEHALF OF CARNIVAL NORTH AMERICA LLC","income":660000},{"name":"AMERICAN AIRLINES, INC.","income":660000},{"name":"AMERICAN CAR RENTAL ASSOCIATION","income":642500},{"name":"CROSS SOUND FERRY SERVICES, INC.","income":636250},{"name":"WALTON COUNTY BOCC","income":630000},{"name":"EXPEDIA GROUP","income":620000},{"name":"UNITED STATES TOUR OPERATORS ASSOCIATION","income":600000},{"name":"ASIAN AMERICAN HOTEL OWNERS ASSOCIATION","income":600000},{"name":"DFS GUAM L.P.","income":590000},{"name":"CLEAR","income":550000},{"name":"WESTERN STATES TOURISM POLICY COUNCIL","income":540000},{"name":"STANISLAUS COUNTY CALIFORNIA","income":510000},{"name":"LAS VEGAS CONVENTION AND VISITORS AUTHORITY","income":510000},{"name":"LOEWS CORPORATION","income":476000},{"name":"AMERICAN GAMING ASSOCIATION","income":450000},{"name":"SKYSCANNER LIMITED","income":440000}],"topFirms":[{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":9950000},{"name":"MONUMENT ADVOCACY","income":4160000},{"name":"AVOQ, LLC","income":3740000},{"name":"CASSIDY & ASSOCIATES, INC.","income":3150000},{"name":"HARBINGER STRATEGIES, LLC","income":3080000},{"name":"PENN AVENUE PARTNERS","income":2690000},{"name":"KOUNTOUPES DENHAM CARR & REID, LLC","income":2470000},{"name":"POLSINELLI PC","income":2300000},{"name":"HOLLAND & KNIGHT LLP","income":2200000},{"name":"TIBER CREEK GROUP","income":2120000},{"name":"CAPITOL COUNSEL LLC","income":2100000},{"name":"BALLARD PARTNERS","income":1910000},{"name":"INVARIANT LLC","income":1780000},{"name":"MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP)","income":1735000},{"name":"ALCALDE & FAY","income":1640000},{"name":"MCCARTER & ENGLISH, LLP","income":1555000},{"name":"FIERCE GOVERNMENT RELATIONS","income":1400000},{"name":"ELEVATE GOVERNMENT AFFAIRS, LLC","income":1390000},{"name":"MILLER STRATEGIES, LLC","income":1380000},{"name":"KLEIN/JOHNSON GROUP","income":1360000},{"name":"CGCN GROUP, LLC","income":1129000},{"name":"S-3 GROUP","income":880000},{"name":"OGR","income":820000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":800000},{"name":"POLARIS GOVERNMENT RELATIONS, LLC","income":750000},{"name":"ARNOLD & PORTER KAYE SCHOLER LLP","income":750000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":740000},{"name":"CROSSROADS STRATEGIES, LLC","income":720000},{"name":"FULCRUM PUBLIC AFFAIRS LLC","income":720000},{"name":"MADISON GOVERNMENT AFFAIRS","income":720000}],"sampleDescriptions":["Department of Interior Approvals for Visitor Center","US-Mongolia Trade and Travel","Issues related to encouraging safe travel to and within the United States for both business and tourism. Appropriations and Brand USA.","Travel and tourism policy.","Advocate for safe and efficient travel to and within the United States, with focus on visa processing, Visa Waiver Program, homeland security, Brand USA, travel documentation, federal employee travel,","Deepening commercial ties and cultural exchange between the United States and Mongolia.","General Entertainment and Tourism","Issues related to competition in the travel industry; \nStop Online Booking Scams Act","Issues related to competition in the travel industry.","Support for travel and tourism to United States hotels and resorts; H.R. 2495 and S.1164, the Stop Online Booking Scams Act.","Work on federal approval of a new Tribal casino","Tourism policy","Federal Designation","ePassport","Tourism promotion.","Tourism promotion; Recreation Not Red Tape Act (HR3400/S.1633); Administration's review of J-1 Visa policy regarding seasonal workers.","Economic development and preservation of the Myrtle Beach Area","Promote awareness of the economic impact and contribution of Carnival to the United States in terms of travel and tourism.","S. 1405, Federal Aviation Reauthorization Act of 2017: unmanned aircraft systems provisions; H.R. 2997, 21st Century Aviation Innovation, Reform, and Reauthorization Act: unmanned aircraft systems pro","Transportation Security Administration, passenger facilitation, expanding access to passenger screening, limiting access to TSA PreCheck program to vetted passengers, business travel issues, expanded "]}
+{
+  "code": "TOU",
+  "name": "Travel/Tourism",
+  "totalSpending": 85852270,
+  "totalFilings": 3414,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 9029000,
+      "filings": 322
+    },
+    {
+      "year": 2019,
+      "income": 8730170,
+      "filings": 359
+    },
+    {
+      "year": 2020,
+      "income": 11500850,
+      "filings": 507
+    },
+    {
+      "year": 2021,
+      "income": 10838750,
+      "filings": 449
+    },
+    {
+      "year": 2022,
+      "income": 11768500,
+      "filings": 463
+    },
+    {
+      "year": 2023,
+      "income": 9979000,
+      "filings": 449
+    },
+    {
+      "year": 2024,
+      "income": 10291000,
+      "filings": 412
+    },
+    {
+      "year": 2025,
+      "income": 13715000,
+      "filings": 453
+    }
+  ],
+  "topClients": [
+    {
+      "name": "U.S. TRAVEL ASSOCIATION",
+      "income": 6278000
+    },
+    {
+      "name": "AMERICAN HOTEL & LODGING ASSOCIATION",
+      "income": 3570000
+    },
+    {
+      "name": "CARNIVAL CORPORATION",
+      "income": 2740000
+    },
+    {
+      "name": "HILTON WORLDWIDE",
+      "income": 2535000
+    },
+    {
+      "name": "MARRIOTT INTERNATIONAL, INC.",
+      "income": 2520000
+    },
+    {
+      "name": "RECREATION VEHICLE INDUSTRY ASSOCIATION",
+      "income": 2300000
+    },
+    {
+      "name": "CRUISE LINES INTERNATIONAL ASSOCIATION",
+      "income": 2215000
+    },
+    {
+      "name": "SIX CONTINENTS HOTELS, INC. D/B/A IHG HOTELS & RESORTS",
+      "income": 2200000
+    },
+    {
+      "name": "LOS ANGELES ORGANIZING COMMITTEE FOR THE OLYMPIC AND PARALYMPIC GAMES 2028",
+      "income": 2190000
+    },
+    {
+      "name": "MGM RESORTS",
+      "income": 2040000
+    },
+    {
+      "name": "EXPEDIA, INC.",
+      "income": 1890000
+    },
+    {
+      "name": "MGM RESORTS INTERNATIONAL",
+      "income": 1680000
+    },
+    {
+      "name": "ROYAL CARIBBEAN CRUISES LTD.",
+      "income": 1680000
+    },
+    {
+      "name": "CRUISE LINES INTERNATIONAL ASSOCIATION, INC.",
+      "income": 1560000
+    },
+    {
+      "name": "NORWEGIAN CRUISE LINE HOLDINGS LTD.",
+      "income": 1555000
+    },
+    {
+      "name": "AIRBNB",
+      "income": 1540000
+    },
+    {
+      "name": "EXPEDIA INC.",
+      "income": 1320000
+    },
+    {
+      "name": "UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE",
+      "income": 1110000
+    },
+    {
+      "name": "LAS VEGAS SANDS CORP.",
+      "income": 1100000
+    },
+    {
+      "name": "SMALL UAV COALITION",
+      "income": 1030000
+    },
+    {
+      "name": "FWC2026 US, INC.",
+      "income": 1010000
+    },
+    {
+      "name": "EXHIBITIONS & CONFERENCES ALLIANCE",
+      "income": 950000
+    },
+    {
+      "name": "HARD ROCK JAPAN K.K.",
+      "income": 900000
+    },
+    {
+      "name": "LOEWS HOTELS HOLDING CORPORATION",
+      "income": 820000
+    },
+    {
+      "name": "AIRBNB, INC.",
+      "income": 780000
+    },
+    {
+      "name": "LAS VEGAS SANDS CORPORATION",
+      "income": 780000
+    },
+    {
+      "name": "AMERICAN HOTEL AND LODGING ASSOCIATION",
+      "income": 740000
+    },
+    {
+      "name": "IDEMIA IDENTITY AND SECURITY USA LLC",
+      "income": 740000
+    },
+    {
+      "name": "BOOKING.COM B.V.",
+      "income": 720000
+    },
+    {
+      "name": "LIGHTSTONE INVESTMENTS",
+      "income": 710000
+    },
+    {
+      "name": "THE WALT DISNEY COMPANY",
+      "income": 700000
+    },
+    {
+      "name": "US TRAVEL ASSOCIATION",
+      "income": 685000
+    },
+    {
+      "name": "BOOKING HOLDINGS INC. (FORMERLY KNOWN AS BOOKING.COM B.V.)",
+      "income": 676000
+    },
+    {
+      "name": "BOOKING HOLDINGS INC.",
+      "income": 670000
+    },
+    {
+      "name": "CRESTVIEW STRATEGIES US LLC ON BEHALF OF CARNIVAL NORTH AMERICA LLC",
+      "income": 660000
+    },
+    {
+      "name": "AMERICAN AIRLINES, INC.",
+      "income": 660000
+    },
+    {
+      "name": "AMERICAN CAR RENTAL ASSOCIATION",
+      "income": 642500
+    },
+    {
+      "name": "CROSS SOUND FERRY SERVICES, INC.",
+      "income": 636250
+    },
+    {
+      "name": "WALTON COUNTY BOCC",
+      "income": 630000
+    },
+    {
+      "name": "EXPEDIA GROUP",
+      "income": 620000
+    },
+    {
+      "name": "UNITED STATES TOUR OPERATORS ASSOCIATION",
+      "income": 600000
+    },
+    {
+      "name": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION",
+      "income": 600000
+    },
+    {
+      "name": "DFS GUAM L.P.",
+      "income": 590000
+    },
+    {
+      "name": "CLEAR",
+      "income": 550000
+    },
+    {
+      "name": "WESTERN STATES TOURISM POLICY COUNCIL",
+      "income": 540000
+    },
+    {
+      "name": "STANISLAUS COUNTY CALIFORNIA",
+      "income": 510000
+    },
+    {
+      "name": "LAS VEGAS CONVENTION AND VISITORS AUTHORITY",
+      "income": 510000
+    },
+    {
+      "name": "LOEWS CORPORATION",
+      "income": 476000
+    },
+    {
+      "name": "AMERICAN GAMING ASSOCIATION",
+      "income": 450000
+    },
+    {
+      "name": "SKYSCANNER LIMITED",
+      "income": 440000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 9950000
+    },
+    {
+      "name": "MONUMENT ADVOCACY",
+      "income": 4160000
+    },
+    {
+      "name": "AVOQ, LLC",
+      "income": 3740000
+    },
+    {
+      "name": "CASSIDY & ASSOCIATES, INC.",
+      "income": 3150000
+    },
+    {
+      "name": "HARBINGER STRATEGIES, LLC",
+      "income": 3080000
+    },
+    {
+      "name": "PENN AVENUE PARTNERS",
+      "income": 2690000
+    },
+    {
+      "name": "KOUNTOUPES DENHAM CARR & REID, LLC",
+      "income": 2470000
+    },
+    {
+      "name": "POLSINELLI PC",
+      "income": 2300000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 2200000
+    },
+    {
+      "name": "TIBER CREEK GROUP",
+      "income": 2120000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 2100000
+    },
+    {
+      "name": "BALLARD PARTNERS",
+      "income": 1910000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 1780000
+    },
+    {
+      "name": "MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP)",
+      "income": 1735000
+    },
+    {
+      "name": "ALCALDE & FAY",
+      "income": 1640000
+    },
+    {
+      "name": "MCCARTER & ENGLISH, LLP",
+      "income": 1555000
+    },
+    {
+      "name": "FIERCE GOVERNMENT RELATIONS",
+      "income": 1400000
+    },
+    {
+      "name": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+      "income": 1390000
+    },
+    {
+      "name": "MILLER STRATEGIES, LLC",
+      "income": 1380000
+    },
+    {
+      "name": "KLEIN/JOHNSON GROUP",
+      "income": 1360000
+    },
+    {
+      "name": "CGCN GROUP, LLC",
+      "income": 1129000
+    },
+    {
+      "name": "S-3 GROUP",
+      "income": 880000
+    },
+    {
+      "name": "OGR",
+      "income": 820000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 800000
+    },
+    {
+      "name": "POLARIS GOVERNMENT RELATIONS, LLC",
+      "income": 750000
+    },
+    {
+      "name": "ARNOLD & PORTER KAYE SCHOLER LLP",
+      "income": 750000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 740000
+    },
+    {
+      "name": "CROSSROADS STRATEGIES, LLC",
+      "income": 720000
+    },
+    {
+      "name": "FULCRUM PUBLIC AFFAIRS LLC",
+      "income": 720000
+    },
+    {
+      "name": "MADISON GOVERNMENT AFFAIRS",
+      "income": 720000
+    }
+  ],
+  "sampleDescriptions": [
+    "Department of Interior Approvals for Visitor Center",
+    "US-Mongolia Trade and Travel",
+    "Issues related to encouraging safe travel to and within the United States for both business and tourism. Appropriations and Brand USA.",
+    "Travel and tourism policy.",
+    "Advocate for safe and efficient travel to and within the United States, with focus on visa processing, Visa Waiver Program, homeland security, Brand USA, travel documentation, federal employee travel,",
+    "Deepening commercial ties and cultural exchange between the United States and Mongolia.",
+    "General Entertainment and Tourism",
+    "Issues related to competition in the travel industry; \nStop Online Booking Scams Act",
+    "Issues related to competition in the travel industry.",
+    "Support for travel and tourism to United States hotels and resorts; H.R. 2495 and S.1164, the Stop Online Booking Scams Act.",
+    "Work on federal approval of a new Tribal casino",
+    "Tourism policy",
+    "Federal Designation",
+    "ePassport",
+    "Tourism promotion.",
+    "Tourism promotion; Recreation Not Red Tape Act (HR3400/S.1633); Administration's review of J-1 Visa policy regarding seasonal workers.",
+    "Economic development and preservation of the Myrtle Beach Area",
+    "Promote awareness of the economic impact and contribution of Carnival to the United States in terms of travel and tourism.",
+    "S. 1405, Federal Aviation Reauthorization Act of 2017: unmanned aircraft systems provisions; H.R. 2997, 21st Century Aviation Innovation, Reform, and Reauthorization Act: unmanned aircraft systems pro",
+    "Transportation Security Administration, passenger facilitation, expanding access to passenger screening, limiting access to TSA PreCheck program to vetted passengers, business travel issues, expanded "
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 71,
+      "spending": 1682494.7691197693
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 78,
+      "spending": 1285451.1183261182
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 80,
+      "spending": 1710999.0715424924
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 93,
+      "spending": 2032529.8399048403
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 84,
+      "spending": 1929235.919191919
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 98,
+      "spending": 2140019.3061791444
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 81,
+      "spending": 1812741.7693196442
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 96,
+      "spending": 1867809.3639401535
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 124,
+      "spending": 2642629.7058930234
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 112,
+      "spending": 2790803.9832982332
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 144,
+      "spending": 2956844.372294372
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 127,
+      "spending": 4062660.9876028625
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 90,
+      "spending": 2242141.071428572
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 121,
+      "spending": 3824947.5376290367
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 121,
+      "spending": 3383817.431609327
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 117,
+      "spending": 3535153.5517815514
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 110,
+      "spending": 4343454.0722825555
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 111,
+      "spending": 3595146.38023088
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 124,
+      "spending": 3452055.987234987
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 118,
+      "spending": 4006321.5063365754
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 108,
+      "spending": 4259739.636530137
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 111,
+      "spending": 3895734.195643066
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 110,
+      "spending": 3464293.866036741
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 120,
+      "spending": 3394338.8975044563
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 97,
+      "spending": 3046100.9022366516
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 110,
+      "spending": 3126390.5312235653
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 100,
+      "spending": 3048268.2891774885
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 105,
+      "spending": 2946093.108486342
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 104,
+      "spending": 3030754.145952613
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 121,
+      "spending": 3140362.509936507
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 110,
+      "spending": 2814268.6761904764
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 118,
+      "spending": 3045012.345743146
+    }
+  ],
+  "totalEstimatedSpending": 94508615
+}

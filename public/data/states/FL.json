@@ -1,1 +1,329 @@
-{"abbreviation":"FL","name":"Florida","totalSpending":581732543.9200001,"totalFilings":29020,"clientCount":2027,"yearlySpending":[{"year":2018,"income":42287748},{"year":2019,"income":42808145.08},{"year":2020,"income":54724334.33},{"year":2021,"income":58350832},{"year":2022,"income":67010537.65},{"year":2023,"income":150260470.84},{"year":2024,"income":66511406.32},{"year":2025,"income":99779069.7}],"topClients":[{"name":"CSX CORPORATION","income":5590000},{"name":"THE GEO GROUP, INC.","income":5310000},{"name":"NOVA SOUTHEASTERN UNIVERSITY","income":4790000},{"name":"NEXTERA ENERGY, INC.","income":4507500},{"name":"FORIS DAX, INC. D/B/A CRYPTO.COM","income":4010000},{"name":"U.S SUGAR CORPORATION","income":3960000},{"name":"PGA TOUR","income":3750000},{"name":"THE MOSAIC COMPANY","income":3545000},{"name":"SAFE PORT TERMINALS, LLC","income":3410000},{"name":"MICCOSUKEE TRIBE OF INDIANS OF FLORIDA","income":3372000},{"name":"CARNIVAL CORPORATION","income":3333500},{"name":"SEMINOLE TRIBE OF FLORIDA","income":3240000},{"name":"U.S. SUGAR CORPORATION","income":3225000},{"name":"DARDEN RESTAURANTS, INC.","income":3135000},{"name":"LINCARE","income":2880000},{"name":"AMSCOT FINANCIAL CORPORATION","income":2640000},{"name":"CEO ADVISORS","income":2600000},{"name":"NEWSMAX","income":2543000},{"name":"VECTOR GROUP LTD","income":2530000},{"name":"SOUTH FLORIDA ADMIRALTY TRIAL LAWYERS ASSOCIATION","income":2510000},{"name":"OVERSEAS SHIPHOLDING GROUP, INC.","income":2460000},{"name":"MDVIP","income":2430000},{"name":"WELLHIVE","income":2290000},{"name":"UNIVERSITY OF MIAMI","income":2215000},{"name":"TRULIEVE","income":2210000},{"name":"THE VUCCI LAW GROUP, P.A.","income":2170000},{"name":"MANAGEMENT HEALTH SYSTEMS, LLC (D/B/A MEDPRO)","income":2090000},{"name":"EFA EDUCATION, LLC","income":2070000},{"name":"RESTAURANT BRANDS INTERNATIONAL INC (RBI)","income":2060000},{"name":"LONGEVITY HEALTH PLAN","income":2050000},{"name":"BAYCARE HEALTH SYSTEM","income":2040000},{"name":"ROYAL CARIBBEAN CRUISES LTD.","income":2040000},{"name":"NORTHERN CALIFORNIA POWER AGENCY","income":2026074},{"name":"FLORIDA HOSPITAL ASSOCIATION","income":2020000},{"name":"YARA NORTH AMERICA INC.","income":1960000},{"name":"FRANKLIN TEMPLETON INVESTMENTS","income":1920000},{"name":"SOUTHERN GLAZER'S WINE AND SPIRITS, LLC","income":1900000},{"name":"AIRSPAN NETWORKS INC.","income":1884500},{"name":"VERDEGO AERO","income":1881250},{"name":"CARRIER CORPORATION","income":1880000},{"name":"Q LINK WIRELESS LLC","income":1860000},{"name":"BROWARD COUNTY FLORIDA","income":1850000},{"name":"FLORIDA CITRUS MUTUAL","income":1836000},{"name":"NEOGENOMICS LABORATORIES","income":1833615.42},{"name":"SUN AFRICA","income":1800000},{"name":"BLINK CHARGING CO.","income":1750000},{"name":"LIV GOLF, INC","income":1740000},{"name":"MIAMI-DADE COUNTY","income":1732500},{"name":"AVIATOR CAPITAL MANAGEMENT, LLC","income":1730000},{"name":"DEL MONTE FRESH PRODUCE COMPANY","income":1720000}],"topIssues":[{"code":"BUD","income":114216941.97999999},{"code":"HCR","income":72114000},{"code":"TAX","income":69420866},{"code":"TRA","income":51734951},{"code":"DEF","income":48586458.33},{"code":"MMM","income":36199000},{"code":"HOM","income":27100000},{"code":"EDU","income":27064458.33},{"code":"GOV","income":25044859},{"code":"AGR","income":24484739},{"code":"ENG","income":24029876},{"code":"ENV","income":21686651},{"code":"TRD","income":20496252.060000002},{"code":"MAR","income":19487800},{"code":"IMM","income":19470500},{"code":"NAT","income":17862618},{"code":"FIN","income":17505162},{"code":"LBR","income":17124000},{"code":"LAW","income":16775000},{"code":"AVI","income":14306340}]}
+{
+  "abbreviation": "FL",
+  "name": "Florida",
+  "totalSpending": 581732543.9200001,
+  "totalFilings": 29020,
+  "clientCount": 2027,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 42287748
+    },
+    {
+      "year": 2019,
+      "income": 42808145.08
+    },
+    {
+      "year": 2020,
+      "income": 54724334.33
+    },
+    {
+      "year": 2021,
+      "income": 58350832
+    },
+    {
+      "year": 2022,
+      "income": 67010537.65
+    },
+    {
+      "year": 2023,
+      "income": 150260470.84
+    },
+    {
+      "year": 2024,
+      "income": 66511406.32
+    },
+    {
+      "year": 2025,
+      "income": 99779069.7
+    }
+  ],
+  "topClients": [
+    {
+      "name": "CSX CORPORATION",
+      "income": 5590000
+    },
+    {
+      "name": "THE GEO GROUP, INC.",
+      "income": 5310000
+    },
+    {
+      "name": "NOVA SOUTHEASTERN UNIVERSITY",
+      "income": 4790000
+    },
+    {
+      "name": "NEXTERA ENERGY, INC.",
+      "income": 4507500
+    },
+    {
+      "name": "FORIS DAX, INC. D/B/A CRYPTO.COM",
+      "income": 4010000
+    },
+    {
+      "name": "U.S SUGAR CORPORATION",
+      "income": 3960000
+    },
+    {
+      "name": "PGA TOUR",
+      "income": 3750000
+    },
+    {
+      "name": "THE MOSAIC COMPANY",
+      "income": 3545000
+    },
+    {
+      "name": "SAFE PORT TERMINALS, LLC",
+      "income": 3410000
+    },
+    {
+      "name": "MICCOSUKEE TRIBE OF INDIANS OF FLORIDA",
+      "income": 3372000
+    },
+    {
+      "name": "CARNIVAL CORPORATION",
+      "income": 3333500
+    },
+    {
+      "name": "SEMINOLE TRIBE OF FLORIDA",
+      "income": 3240000
+    },
+    {
+      "name": "U.S. SUGAR CORPORATION",
+      "income": 3225000
+    },
+    {
+      "name": "DARDEN RESTAURANTS, INC.",
+      "income": 3135000
+    },
+    {
+      "name": "LINCARE",
+      "income": 2880000
+    },
+    {
+      "name": "AMSCOT FINANCIAL CORPORATION",
+      "income": 2640000
+    },
+    {
+      "name": "CEO ADVISORS",
+      "income": 2600000
+    },
+    {
+      "name": "NEWSMAX",
+      "income": 2543000
+    },
+    {
+      "name": "VECTOR GROUP LTD",
+      "income": 2530000
+    },
+    {
+      "name": "SOUTH FLORIDA ADMIRALTY TRIAL LAWYERS ASSOCIATION",
+      "income": 2510000
+    },
+    {
+      "name": "OVERSEAS SHIPHOLDING GROUP, INC.",
+      "income": 2460000
+    },
+    {
+      "name": "MDVIP",
+      "income": 2430000
+    },
+    {
+      "name": "WELLHIVE",
+      "income": 2290000
+    },
+    {
+      "name": "UNIVERSITY OF MIAMI",
+      "income": 2215000
+    },
+    {
+      "name": "TRULIEVE",
+      "income": 2210000
+    },
+    {
+      "name": "THE VUCCI LAW GROUP, P.A.",
+      "income": 2170000
+    },
+    {
+      "name": "MANAGEMENT HEALTH SYSTEMS, LLC (D/B/A MEDPRO)",
+      "income": 2090000
+    },
+    {
+      "name": "EFA EDUCATION, LLC",
+      "income": 2070000
+    },
+    {
+      "name": "RESTAURANT BRANDS INTERNATIONAL INC (RBI)",
+      "income": 2060000
+    },
+    {
+      "name": "LONGEVITY HEALTH PLAN",
+      "income": 2050000
+    },
+    {
+      "name": "BAYCARE HEALTH SYSTEM",
+      "income": 2040000
+    },
+    {
+      "name": "ROYAL CARIBBEAN CRUISES LTD.",
+      "income": 2040000
+    },
+    {
+      "name": "NORTHERN CALIFORNIA POWER AGENCY",
+      "income": 2026074
+    },
+    {
+      "name": "FLORIDA HOSPITAL ASSOCIATION",
+      "income": 2020000
+    },
+    {
+      "name": "YARA NORTH AMERICA INC.",
+      "income": 1960000
+    },
+    {
+      "name": "FRANKLIN TEMPLETON INVESTMENTS",
+      "income": 1920000
+    },
+    {
+      "name": "SOUTHERN GLAZER'S WINE AND SPIRITS, LLC",
+      "income": 1900000
+    },
+    {
+      "name": "AIRSPAN NETWORKS INC.",
+      "income": 1884500
+    },
+    {
+      "name": "VERDEGO AERO",
+      "income": 1881250
+    },
+    {
+      "name": "CARRIER CORPORATION",
+      "income": 1880000
+    },
+    {
+      "name": "Q LINK WIRELESS LLC",
+      "income": 1860000
+    },
+    {
+      "name": "BROWARD COUNTY FLORIDA",
+      "income": 1850000
+    },
+    {
+      "name": "FLORIDA CITRUS MUTUAL",
+      "income": 1836000
+    },
+    {
+      "name": "NEOGENOMICS LABORATORIES",
+      "income": 1833615.42
+    },
+    {
+      "name": "SUN AFRICA",
+      "income": 1800000
+    },
+    {
+      "name": "BLINK CHARGING CO.",
+      "income": 1750000
+    },
+    {
+      "name": "LIV GOLF, INC",
+      "income": 1740000
+    },
+    {
+      "name": "MIAMI-DADE COUNTY",
+      "income": 1732500
+    },
+    {
+      "name": "AVIATOR CAPITAL MANAGEMENT, LLC",
+      "income": 1730000
+    },
+    {
+      "name": "DEL MONTE FRESH PRODUCE COMPANY",
+      "income": 1720000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 114216941.97999999
+    },
+    {
+      "code": "HCR",
+      "income": 72114000
+    },
+    {
+      "code": "TAX",
+      "income": 69420866
+    },
+    {
+      "code": "TRA",
+      "income": 51734951
+    },
+    {
+      "code": "DEF",
+      "income": 48586458.33
+    },
+    {
+      "code": "MMM",
+      "income": 36199000
+    },
+    {
+      "code": "HOM",
+      "income": 27100000
+    },
+    {
+      "code": "EDU",
+      "income": 27064458.33
+    },
+    {
+      "code": "GOV",
+      "income": 25044859
+    },
+    {
+      "code": "AGR",
+      "income": 24484739
+    },
+    {
+      "code": "ENG",
+      "income": 24029876
+    },
+    {
+      "code": "ENV",
+      "income": 21686651
+    },
+    {
+      "code": "TRD",
+      "income": 20496252.060000002
+    },
+    {
+      "code": "MAR",
+      "income": 19487800
+    },
+    {
+      "code": "IMM",
+      "income": 19470500
+    },
+    {
+      "code": "NAT",
+      "income": 17862618
+    },
+    {
+      "code": "FIN",
+      "income": 17505162
+    },
+    {
+      "code": "LBR",
+      "income": 17124000
+    },
+    {
+      "code": "LAW",
+      "income": 16775000
+    },
+    {
+      "code": "AVI",
+      "income": 14306340
+    }
+  ],
+  "perCapita": 30.12,
+  "population": 23372215,
+  "nationalRank": 8,
+  "perCapitaRank": 32
+}

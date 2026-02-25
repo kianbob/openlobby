@@ -1,1 +1,557 @@
-{"code":"VET","name":"Veterans","totalSpending":245260560,"totalFilings":12287,"yearlySpending":[{"year":2018,"income":23199397,"filings":1353},{"year":2019,"income":25027032,"filings":1429},{"year":2020,"income":26361100,"filings":1489},{"year":2021,"income":22855874,"filings":1316},{"year":2022,"income":30805497,"filings":1603},{"year":2023,"income":38115250,"filings":1789},{"year":2024,"income":36278030,"filings":1601},{"year":2025,"income":42618380,"filings":1707}],"topClients":[{"name":"ORACLE CORPORATION","income":5240000},{"name":"BELL LEGAL GROUP","income":3585000},{"name":"ORACLE AMERICA, INC.","income":2555000},{"name":"AMERICAN ASSOCIATION OF NURSE ANESTHETISTS","income":2490000},{"name":"ENDEAVORS","income":2290000},{"name":"AIR METHODS CORPORATION","income":2246500},{"name":"UNITED SPINAL ASSOCIATION","income":2105000},{"name":"SAN DIEGO COUNTY","income":2070000},{"name":"TRIWEST HEALTHCARE ALLIANCE","income":1797500},{"name":"STARKEY HEARING TECHNOLOGIES","income":1790000},{"name":"WELLHIVE","income":1770000},{"name":"ADVANCING MENTAL HEALTH FOR MILITARY FAMILIES, LLC","income":1660000},{"name":"STRIDE, INC.","income":1600000},{"name":"FREEDOM MORTGAGE CORPORATION","income":1550000},{"name":"AMERICAN ACADEMY OF OPHTHALMOLOGY","income":1530000},{"name":"HILL-ROM","income":1440000},{"name":"VOLUNTEERS OF AMERICA","income":1430000},{"name":"ABBOTT","income":1390000},{"name":"AMERICAN AMBULANCE ASSOCIATION","income":1366000},{"name":"MISSISSIPPI STATE UNIVERSITY","income":1350000},{"name":"WALMART INC","income":1350000},{"name":"ALLIANCE FOR AMERICA'S PROMISE, INC.","income":1340000},{"name":"COUNTY OF SAN BERNARDINO, CA","income":1336300},{"name":"AMERICAN PUBLIC UNIVERSITY SYSTEM","income":1331875},{"name":"AMERICAN PODIATRIC MEDICAL ASSOCIATION","income":1330000},{"name":"CHRISTUS HEALTH SYSTEM","income":1300000},{"name":"PHILIPS NORTH AMERICA LLC (FORMERLY REPORTING AS PHILIPS HEALTHCARE/HOLDING)","income":1300000},{"name":"AMERICAN HEALTH CARE ASSOCIATION","income":1260000},{"name":"DOCUMENT STORAGE SYSTEMS, INC.","income":1260000},{"name":"VETERANS GUARDIAN VA CLAIM CONSULTING LLC","income":1260000},{"name":"PROMEDICA HEALTH SYSTEM","income":1209000},{"name":"WESTERN GOVERNORS UNIVERSITY","income":1200000},{"name":"AUBURN UNIVERSITY","income":1200000},{"name":"MEDICAL PLACE","income":1190000},{"name":"PODIMETRICS","income":1190000},{"name":"STARBUCKS CORPORATION","income":1115000},{"name":"HOUSING AUTHORITY OF THE COUNTY OF SAN BERNARDINO (HACSB)","income":1084500},{"name":"HANGER INC (FORMERLY HANGER ORTHOPEDIC)","income":1070000},{"name":"THE INDEPENDENCE FUND","income":1045000},{"name":"COPPER DEVELOPMENT ASSOCIATION","income":1040000},{"name":"AMERICAN FLOOD COALITION ACTION INC","income":1020000},{"name":"NATIONAL MEDAL OF HONOR MUSEUM","income":1019000},{"name":"JOSHCO GROUP, LLC","income":1000000},{"name":"BROKER ACTION COALITION","income":1000000},{"name":"AMVETS/AMERICAN VETERANS","income":962333},{"name":"NOVA SOUTHEASTERN UNIVERSITY","income":960000},{"name":"COALITION TO HEAL INVISIBLE WOUNDS","income":950000},{"name":"GUIDEHOUSE LLP","income":950000},{"name":"AMERICAN SOCIETY OF ANESTHESIOLOGISTS","income":945000},{"name":"QUANTA SERVICES, INC.","income":940000}],"topFirms":[{"name":"VAN SCOYOC ASSOCIATES","income":10155000},{"name":"MEHLMAN CONSULTING, INC.","income":9090000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":7710000},{"name":"CASSIDY & ASSOCIATES, INC.","income":6310000},{"name":"FORBES-TATE","income":6150000},{"name":"BALLARD PARTNERS","income":5610000},{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":5510000},{"name":"STRATEGIC HEALTH CARE","income":4683000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":4500000},{"name":"HOLLAND & KNIGHT LLP","income":4130000},{"name":"POTOMAC PARTNERS DC","income":3887800},{"name":"ARNOLD & PORTER KAYE SCHOLER LLP","income":3780000},{"name":"INVARIANT LLC","income":3420000},{"name":"THE NICKLES GROUP, LLC","income":3339747},{"name":"THE NIMITZ GROUP LLC","income":3260333},{"name":"CROSSROADS STRATEGIES, LLC","income":2670000},{"name":"THE CORMAC GROUP, LLC","income":2460000},{"name":"KOUNTOUPES DENHAM CARR & REID, LLC","income":2370000},{"name":"MERCURY PUBLIC AFFAIRS, LLC","income":2360000},{"name":"HALEY & ASSOCIATES","income":2340000},{"name":"FOLEY & LARDNER LLP","income":2320000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":2260000},{"name":"K&L GATES, LLP","income":2240000},{"name":"SIGNAL GROUP CONSULTING, LLC","income":2230000},{"name":"CAPITOL COUNSEL LLC","income":2190000},{"name":"THE PETRIZZO GROUP, INC.","income":2165000},{"name":"UNITED SPINAL ASSOCIATION","income":2105000},{"name":"LIBERTY PARTNERS GROUP, LLC","income":1970000},{"name":"MCDERMOTT+ LLC","income":1960000},{"name":"10-SQUARE SOLUTIONS","income":1935000}],"sampleDescriptions":["Funding opportunities for first responder products","Issues related to healthcare IT","Funding opportunities for first responder products.","Medicaid and VA coverage of podiatric services.","Medicare payment for hyperbaric oxygen therapy;\nUse of hyperbaric oxygen therapy for treatment of PTSD and CTE;\nResearch on effectiveness of HBOT for PTSD and CTE for active duty and retired and disab","Veterans administration (structure, benefits, services, and quality of care)   Family code (UCCJEA) Federal enforcement of parental rights. Veteran suicide epidemic (root causes, actions, programs, ac","Healthcare public-private partnerships with the Veterans Affairs Administration.","S.1050 / H.R. 2358 - Chinese American World War II Veterans Congressional Gold Medal Act","Veteran Issues","Toxic Exposures","Advance issues pertaining to infrastructure construction, disaster recovery, and job training/veteran job training.","FAA Reauthorization; Small Community Air Service; Pilot Workforce and Training; Air Traffic Control Modernization; Essential Air Service; Higher Ed Support for Flight Training; and Veterans' benefits ","Lobbying on Medicare and Medicaid reimbursement levels and policies applicable to ambulance services.  Lobbying on the Medicare Ambulance Access, Fraud Prevention and Reform Act (S. 967), Ambulance Me","infrastructure and Federal land development and any other real estate activity.  Also any Veteran Housing or administration relocation or development.","Veteran Education Benefits","Issues related to Veteran Housing.","Encouraging VA to Research Medical Cannabis","Veterans Choice Program authorization and appropriations; Veterans Administration contract renewal.","VA Accountability, VA Health Care, VA Benefits","Adoption of prostate cancer biomarkers with the VHA"]}
+{
+  "code": "VET",
+  "name": "Veterans",
+  "totalSpending": 245260560,
+  "totalFilings": 12287,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 23199397,
+      "filings": 1353
+    },
+    {
+      "year": 2019,
+      "income": 25027032,
+      "filings": 1429
+    },
+    {
+      "year": 2020,
+      "income": 26361100,
+      "filings": 1489
+    },
+    {
+      "year": 2021,
+      "income": 22855874,
+      "filings": 1316
+    },
+    {
+      "year": 2022,
+      "income": 30805497,
+      "filings": 1603
+    },
+    {
+      "year": 2023,
+      "income": 38115250,
+      "filings": 1789
+    },
+    {
+      "year": 2024,
+      "income": 36278030,
+      "filings": 1601
+    },
+    {
+      "year": 2025,
+      "income": 42618380,
+      "filings": 1707
+    }
+  ],
+  "topClients": [
+    {
+      "name": "ORACLE CORPORATION",
+      "income": 5240000
+    },
+    {
+      "name": "BELL LEGAL GROUP",
+      "income": 3585000
+    },
+    {
+      "name": "ORACLE AMERICA, INC.",
+      "income": 2555000
+    },
+    {
+      "name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS",
+      "income": 2490000
+    },
+    {
+      "name": "ENDEAVORS",
+      "income": 2290000
+    },
+    {
+      "name": "AIR METHODS CORPORATION",
+      "income": 2246500
+    },
+    {
+      "name": "UNITED SPINAL ASSOCIATION",
+      "income": 2105000
+    },
+    {
+      "name": "SAN DIEGO COUNTY",
+      "income": 2070000
+    },
+    {
+      "name": "TRIWEST HEALTHCARE ALLIANCE",
+      "income": 1797500
+    },
+    {
+      "name": "STARKEY HEARING TECHNOLOGIES",
+      "income": 1790000
+    },
+    {
+      "name": "WELLHIVE",
+      "income": 1770000
+    },
+    {
+      "name": "ADVANCING MENTAL HEALTH FOR MILITARY FAMILIES, LLC",
+      "income": 1660000
+    },
+    {
+      "name": "STRIDE, INC.",
+      "income": 1600000
+    },
+    {
+      "name": "FREEDOM MORTGAGE CORPORATION",
+      "income": 1550000
+    },
+    {
+      "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY",
+      "income": 1530000
+    },
+    {
+      "name": "HILL-ROM",
+      "income": 1440000
+    },
+    {
+      "name": "VOLUNTEERS OF AMERICA",
+      "income": 1430000
+    },
+    {
+      "name": "ABBOTT",
+      "income": 1390000
+    },
+    {
+      "name": "AMERICAN AMBULANCE ASSOCIATION",
+      "income": 1366000
+    },
+    {
+      "name": "MISSISSIPPI STATE UNIVERSITY",
+      "income": 1350000
+    },
+    {
+      "name": "WALMART INC",
+      "income": 1350000
+    },
+    {
+      "name": "ALLIANCE FOR AMERICA'S PROMISE, INC.",
+      "income": 1340000
+    },
+    {
+      "name": "COUNTY OF SAN BERNARDINO, CA",
+      "income": 1336300
+    },
+    {
+      "name": "AMERICAN PUBLIC UNIVERSITY SYSTEM",
+      "income": 1331875
+    },
+    {
+      "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION",
+      "income": 1330000
+    },
+    {
+      "name": "CHRISTUS HEALTH SYSTEM",
+      "income": 1300000
+    },
+    {
+      "name": "PHILIPS NORTH AMERICA LLC (FORMERLY REPORTING AS PHILIPS HEALTHCARE/HOLDING)",
+      "income": 1300000
+    },
+    {
+      "name": "AMERICAN HEALTH CARE ASSOCIATION",
+      "income": 1260000
+    },
+    {
+      "name": "DOCUMENT STORAGE SYSTEMS, INC.",
+      "income": 1260000
+    },
+    {
+      "name": "VETERANS GUARDIAN VA CLAIM CONSULTING LLC",
+      "income": 1260000
+    },
+    {
+      "name": "PROMEDICA HEALTH SYSTEM",
+      "income": 1209000
+    },
+    {
+      "name": "WESTERN GOVERNORS UNIVERSITY",
+      "income": 1200000
+    },
+    {
+      "name": "AUBURN UNIVERSITY",
+      "income": 1200000
+    },
+    {
+      "name": "MEDICAL PLACE",
+      "income": 1190000
+    },
+    {
+      "name": "PODIMETRICS",
+      "income": 1190000
+    },
+    {
+      "name": "STARBUCKS CORPORATION",
+      "income": 1115000
+    },
+    {
+      "name": "HOUSING AUTHORITY OF THE COUNTY OF SAN BERNARDINO (HACSB)",
+      "income": 1084500
+    },
+    {
+      "name": "HANGER INC (FORMERLY HANGER ORTHOPEDIC)",
+      "income": 1070000
+    },
+    {
+      "name": "THE INDEPENDENCE FUND",
+      "income": 1045000
+    },
+    {
+      "name": "COPPER DEVELOPMENT ASSOCIATION",
+      "income": 1040000
+    },
+    {
+      "name": "AMERICAN FLOOD COALITION ACTION INC",
+      "income": 1020000
+    },
+    {
+      "name": "NATIONAL MEDAL OF HONOR MUSEUM",
+      "income": 1019000
+    },
+    {
+      "name": "JOSHCO GROUP, LLC",
+      "income": 1000000
+    },
+    {
+      "name": "BROKER ACTION COALITION",
+      "income": 1000000
+    },
+    {
+      "name": "AMVETS/AMERICAN VETERANS",
+      "income": 962333
+    },
+    {
+      "name": "NOVA SOUTHEASTERN UNIVERSITY",
+      "income": 960000
+    },
+    {
+      "name": "COALITION TO HEAL INVISIBLE WOUNDS",
+      "income": 950000
+    },
+    {
+      "name": "GUIDEHOUSE LLP",
+      "income": 950000
+    },
+    {
+      "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+      "income": 945000
+    },
+    {
+      "name": "QUANTA SERVICES, INC.",
+      "income": 940000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 10155000
+    },
+    {
+      "name": "MEHLMAN CONSULTING, INC.",
+      "income": 9090000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 7710000
+    },
+    {
+      "name": "CASSIDY & ASSOCIATES, INC.",
+      "income": 6310000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 6150000
+    },
+    {
+      "name": "BALLARD PARTNERS",
+      "income": 5610000
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 5510000
+    },
+    {
+      "name": "STRATEGIC HEALTH CARE",
+      "income": 4683000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 4500000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 4130000
+    },
+    {
+      "name": "POTOMAC PARTNERS DC",
+      "income": 3887800
+    },
+    {
+      "name": "ARNOLD & PORTER KAYE SCHOLER LLP",
+      "income": 3780000
+    },
+    {
+      "name": "INVARIANT LLC",
+      "income": 3420000
+    },
+    {
+      "name": "THE NICKLES GROUP, LLC",
+      "income": 3339747
+    },
+    {
+      "name": "THE NIMITZ GROUP LLC",
+      "income": 3260333
+    },
+    {
+      "name": "CROSSROADS STRATEGIES, LLC",
+      "income": 2670000
+    },
+    {
+      "name": "THE CORMAC GROUP, LLC",
+      "income": 2460000
+    },
+    {
+      "name": "KOUNTOUPES DENHAM CARR & REID, LLC",
+      "income": 2370000
+    },
+    {
+      "name": "MERCURY PUBLIC AFFAIRS, LLC",
+      "income": 2360000
+    },
+    {
+      "name": "HALEY & ASSOCIATES",
+      "income": 2340000
+    },
+    {
+      "name": "FOLEY & LARDNER LLP",
+      "income": 2320000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 2260000
+    },
+    {
+      "name": "K&L GATES, LLP",
+      "income": 2240000
+    },
+    {
+      "name": "SIGNAL GROUP CONSULTING, LLC",
+      "income": 2230000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 2190000
+    },
+    {
+      "name": "THE PETRIZZO GROUP, INC.",
+      "income": 2165000
+    },
+    {
+      "name": "UNITED SPINAL ASSOCIATION",
+      "income": 2105000
+    },
+    {
+      "name": "LIBERTY PARTNERS GROUP, LLC",
+      "income": 1970000
+    },
+    {
+      "name": "MCDERMOTT+ LLC",
+      "income": 1960000
+    },
+    {
+      "name": "10-SQUARE SOLUTIONS",
+      "income": 1935000
+    }
+  ],
+  "sampleDescriptions": [
+    "Funding opportunities for first responder products",
+    "Issues related to healthcare IT",
+    "Funding opportunities for first responder products.",
+    "Medicaid and VA coverage of podiatric services.",
+    "Medicare payment for hyperbaric oxygen therapy;\nUse of hyperbaric oxygen therapy for treatment of PTSD and CTE;\nResearch on effectiveness of HBOT for PTSD and CTE for active duty and retired and disab",
+    "Veterans administration (structure, benefits, services, and quality of care)   Family code (UCCJEA) Federal enforcement of parental rights. Veteran suicide epidemic (root causes, actions, programs, ac",
+    "Healthcare public-private partnerships with the Veterans Affairs Administration.",
+    "S.1050 / H.R. 2358 - Chinese American World War II Veterans Congressional Gold Medal Act",
+    "Veteran Issues",
+    "Toxic Exposures",
+    "Advance issues pertaining to infrastructure construction, disaster recovery, and job training/veteran job training.",
+    "FAA Reauthorization; Small Community Air Service; Pilot Workforce and Training; Air Traffic Control Modernization; Essential Air Service; Higher Ed Support for Flight Training; and Veterans' benefits ",
+    "Lobbying on Medicare and Medicaid reimbursement levels and policies applicable to ambulance services.  Lobbying on the Medicare Ambulance Access, Fraud Prevention and Reform Act (S. 967), Ambulance Me",
+    "infrastructure and Federal land development and any other real estate activity.  Also any Veteran Housing or administration relocation or development.",
+    "Veteran Education Benefits",
+    "Issues related to Veteran Housing.",
+    "Encouraging VA to Research Medical Cannabis",
+    "Veterans Choice Program authorization and appropriations; Veterans Administration contract renewal.",
+    "VA Accountability, VA Health Care, VA Benefits",
+    "Adoption of prostate cancer biomarkers with the VHA"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 300,
+      "spending": 7217287.208025308
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 374,
+      "spending": 8580680.673995903
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 331,
+      "spending": 7338307.968718505
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 348,
+      "spending": 8198201.454070685
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 295,
+      "spending": 4715739.217826616
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 406,
+      "spending": 9174231.667407567
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 353,
+      "spending": 7031108.332154511
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 375,
+      "spending": 8314875.823336371
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 369,
+      "spending": 10113772.739471953
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 373,
+      "spending": 9356401.15627614
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 380,
+      "spending": 9510941.38749213
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 367,
+      "spending": 8321270.283318864
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 290,
+      "spending": 7212924.6821622
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 359,
+      "spending": 9682216.364771025
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 332,
+      "spending": 6960285.87740034
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 335,
+      "spending": 6795903.764327639
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 362,
+      "spending": 7653398.892776255
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 429,
+      "spending": 10498554.471169531
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 392,
+      "spending": 8998916.656082598
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 420,
+      "spending": 9371231.075380366
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 454,
+      "spending": 14101133.240141831
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 446,
+      "spending": 10119756.728809778
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 448,
+      "spending": 11647940.5525389
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 441,
+      "spending": 10596147.37794355
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 355,
+      "spending": 7937188.982922946
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 434,
+      "spending": 11984573.078290839
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 390,
+      "spending": 10766867.961426556
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 422,
+      "spending": 10955595.352136923
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 366,
+      "spending": 10612407.567615673
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 442,
+      "spending": 13740194.290232472
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 435,
+      "spending": 13317878.676866336
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 464,
+      "spending": 13184248.626172818
+    }
+  ],
+  "totalEstimatedSpending": 304010182
+}

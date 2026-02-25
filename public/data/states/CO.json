@@ -1,1 +1,329 @@
-{"abbreviation":"CO","name":"Colorado","totalSpending":273731070,"totalFilings":12622,"clientCount":799,"yearlySpending":[{"year":2018,"income":19623134},{"year":2019,"income":20320473},{"year":2020,"income":23587660},{"year":2021,"income":26570750},{"year":2022,"income":32727403},{"year":2023,"income":71630200},{"year":2024,"income":33850750},{"year":2025,"income":45420700}],"topClients":[{"name":"UNITED LAUNCH ALLIANCE","income":7640000},{"name":"OMNITRAX, INC.","income":6940000},{"name":"ONLINE LENDERS ALLIANCE","income":5960000},{"name":"AIR METHODS CORPORATION","income":5664500},{"name":"JBS USA","income":4498000},{"name":"LIBERTY MEDIA CORPORATION","income":4380000},{"name":"ALDEN TORCH FINANCIAL LLC","income":4380000},{"name":"WESTERN UNION","income":4269000},{"name":"COBANK","income":3890000},{"name":"SOUTHERN UTE INDIAN TRIBE","income":3016500},{"name":"JBS USA FOOD COMPANY","income":2900000},{"name":"INTREPID POTASH INC.","income":2380000},{"name":"FRONT LINE HOSPITAL ALLIANCE","income":2260000},{"name":"TRISALUS LIFE SCIENCES","income":2250000},{"name":"DAVITA INC","income":2160000},{"name":"BALL CORPORATION","income":2030000},{"name":"COLORADO STATE UNIVERSITY FOUNDATION","income":1950000},{"name":"ASSOCIATION OF DENTAL SUPPORT ORGANIZATIONS","income":1940000},{"name":"ASPECT HOLDINGS, LLC","income":1920000},{"name":"NUTRIEN US LLC","income":1880000},{"name":"OVINTIV, INC. (FKA ENCANA OIL AND GAS (USA), INC.)","income":1877500},{"name":"DENVER REGIONAL TRANSPORTATION DISTRICT","income":1830000},{"name":"OUTPATIENT OPHTHALMIC SURGERY SOCIETY, INC","income":1750000},{"name":"HF SINCLAIR CORPORATION","income":1730000},{"name":"GEVO, INC.","income":1710000},{"name":"ALDEN TORCH FINANCIAL, LLC","income":1680000},{"name":"OFFICE OF THE GOVERNOR, STATE OF COLORADO","income":1640000},{"name":"THE REGENTS OF THE UNIVERSITY OF COLORADO","income":1640000},{"name":"STEADMAN PHILIPPON RESEARCH INSTITUTE","income":1570000},{"name":"NUTRIEN US LLC (FORMERLY KNOWN AS AGRIUM U.S. INC.) (A NUTRIEN LTD SUBSIDIARY)","income":1560000},{"name":"URSA MAJOR","income":1510000},{"name":"MAXAR TECHNOLOGIES HOLDINGS INC.","income":1500000},{"name":"PALANTIR TECHNOLOGIES, INC.","income":1480000},{"name":"DOMINION VOTING SYSTEMS, INC.","income":1470000},{"name":"ENERGY FUELS RESOURCES INC.","income":1410000},{"name":"TRI-STATE GENERATION AND TRANSMISSION ASSOCIATION, INC.","income":1390000},{"name":"WESTERN CONSERVATION ACTION","income":1380000},{"name":"AMERICAN SHEEP INDUSTRY ASSOCIATION","income":1370000},{"name":"COLORADO STATE UNIVERSITY","income":1350000},{"name":"ADVANCED EMISSIONS SOLUTIONS, INC.","income":1320000},{"name":"WESTMORELAND MINING LLC","income":1320000},{"name":"UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE","income":1310000},{"name":"HUDBAY MINERALS","income":1310000},{"name":"ARDENT MILLS, LLC","income":1290000},{"name":"PALANTIR TECHNOLOGIES INC.","income":1290000},{"name":"CIRCADENCE CORPORATION","income":1275000},{"name":"BROADNET","income":1270000},{"name":"PATRIOT RAIL COMPANY (FKA PIONEER LINES (FKA PIONEER RAILCORP))","income":1270000},{"name":"COLORADO RIVER INDIAN TRIBES","income":1255000},{"name":"CHILDREN'S HOSPITAL COLORADO","income":1250000}],"topIssues":[{"code":"BUD","income":57224816},{"code":"DEF","income":35371233},{"code":"TAX","income":34220316},{"code":"HCR","income":32068505},{"code":"AGR","income":27839000},{"code":"NAT","income":24402273},{"code":"ENG","income":23379750},{"code":"MMM","income":20688611},{"code":"TRA","income":13660500},{"code":"ENV","income":13380750},{"code":"TRD","income":12855000},{"code":"SCI","income":12023150},{"code":"BAN","income":10354500},{"code":"AER","income":8991900},{"code":"IMM","income":8074000},{"code":"AVI","income":7831333},{"code":"RRR","income":7690000},{"code":"HOM","income":7631000},{"code":"VET","income":7578500},{"code":"TEC","income":7380000}]}
+{
+  "abbreviation": "CO",
+  "name": "Colorado",
+  "totalSpending": 273731070,
+  "totalFilings": 12622,
+  "clientCount": 799,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 19623134
+    },
+    {
+      "year": 2019,
+      "income": 20320473
+    },
+    {
+      "year": 2020,
+      "income": 23587660
+    },
+    {
+      "year": 2021,
+      "income": 26570750
+    },
+    {
+      "year": 2022,
+      "income": 32727403
+    },
+    {
+      "year": 2023,
+      "income": 71630200
+    },
+    {
+      "year": 2024,
+      "income": 33850750
+    },
+    {
+      "year": 2025,
+      "income": 45420700
+    }
+  ],
+  "topClients": [
+    {
+      "name": "UNITED LAUNCH ALLIANCE",
+      "income": 7640000
+    },
+    {
+      "name": "OMNITRAX, INC.",
+      "income": 6940000
+    },
+    {
+      "name": "ONLINE LENDERS ALLIANCE",
+      "income": 5960000
+    },
+    {
+      "name": "AIR METHODS CORPORATION",
+      "income": 5664500
+    },
+    {
+      "name": "JBS USA",
+      "income": 4498000
+    },
+    {
+      "name": "LIBERTY MEDIA CORPORATION",
+      "income": 4380000
+    },
+    {
+      "name": "ALDEN TORCH FINANCIAL LLC",
+      "income": 4380000
+    },
+    {
+      "name": "WESTERN UNION",
+      "income": 4269000
+    },
+    {
+      "name": "COBANK",
+      "income": 3890000
+    },
+    {
+      "name": "SOUTHERN UTE INDIAN TRIBE",
+      "income": 3016500
+    },
+    {
+      "name": "JBS USA FOOD COMPANY",
+      "income": 2900000
+    },
+    {
+      "name": "INTREPID POTASH INC.",
+      "income": 2380000
+    },
+    {
+      "name": "FRONT LINE HOSPITAL ALLIANCE",
+      "income": 2260000
+    },
+    {
+      "name": "TRISALUS LIFE SCIENCES",
+      "income": 2250000
+    },
+    {
+      "name": "DAVITA INC",
+      "income": 2160000
+    },
+    {
+      "name": "BALL CORPORATION",
+      "income": 2030000
+    },
+    {
+      "name": "COLORADO STATE UNIVERSITY FOUNDATION",
+      "income": 1950000
+    },
+    {
+      "name": "ASSOCIATION OF DENTAL SUPPORT ORGANIZATIONS",
+      "income": 1940000
+    },
+    {
+      "name": "ASPECT HOLDINGS, LLC",
+      "income": 1920000
+    },
+    {
+      "name": "NUTRIEN US LLC",
+      "income": 1880000
+    },
+    {
+      "name": "OVINTIV, INC. (FKA ENCANA OIL AND GAS (USA), INC.)",
+      "income": 1877500
+    },
+    {
+      "name": "DENVER REGIONAL TRANSPORTATION DISTRICT",
+      "income": 1830000
+    },
+    {
+      "name": "OUTPATIENT OPHTHALMIC SURGERY SOCIETY, INC",
+      "income": 1750000
+    },
+    {
+      "name": "HF SINCLAIR CORPORATION",
+      "income": 1730000
+    },
+    {
+      "name": "GEVO, INC.",
+      "income": 1710000
+    },
+    {
+      "name": "ALDEN TORCH FINANCIAL, LLC",
+      "income": 1680000
+    },
+    {
+      "name": "OFFICE OF THE GOVERNOR, STATE OF COLORADO",
+      "income": 1640000
+    },
+    {
+      "name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+      "income": 1640000
+    },
+    {
+      "name": "STEADMAN PHILIPPON RESEARCH INSTITUTE",
+      "income": 1570000
+    },
+    {
+      "name": "NUTRIEN US LLC (FORMERLY KNOWN AS AGRIUM U.S. INC.) (A NUTRIEN LTD SUBSIDIARY)",
+      "income": 1560000
+    },
+    {
+      "name": "URSA MAJOR",
+      "income": 1510000
+    },
+    {
+      "name": "MAXAR TECHNOLOGIES HOLDINGS INC.",
+      "income": 1500000
+    },
+    {
+      "name": "PALANTIR TECHNOLOGIES, INC.",
+      "income": 1480000
+    },
+    {
+      "name": "DOMINION VOTING SYSTEMS, INC.",
+      "income": 1470000
+    },
+    {
+      "name": "ENERGY FUELS RESOURCES INC.",
+      "income": 1410000
+    },
+    {
+      "name": "TRI-STATE GENERATION AND TRANSMISSION ASSOCIATION, INC.",
+      "income": 1390000
+    },
+    {
+      "name": "WESTERN CONSERVATION ACTION",
+      "income": 1380000
+    },
+    {
+      "name": "AMERICAN SHEEP INDUSTRY ASSOCIATION",
+      "income": 1370000
+    },
+    {
+      "name": "COLORADO STATE UNIVERSITY",
+      "income": 1350000
+    },
+    {
+      "name": "ADVANCED EMISSIONS SOLUTIONS, INC.",
+      "income": 1320000
+    },
+    {
+      "name": "WESTMORELAND MINING LLC",
+      "income": 1320000
+    },
+    {
+      "name": "UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE",
+      "income": 1310000
+    },
+    {
+      "name": "HUDBAY MINERALS",
+      "income": 1310000
+    },
+    {
+      "name": "ARDENT MILLS, LLC",
+      "income": 1290000
+    },
+    {
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "income": 1290000
+    },
+    {
+      "name": "CIRCADENCE CORPORATION",
+      "income": 1275000
+    },
+    {
+      "name": "BROADNET",
+      "income": 1270000
+    },
+    {
+      "name": "PATRIOT RAIL COMPANY (FKA PIONEER LINES (FKA PIONEER RAILCORP))",
+      "income": 1270000
+    },
+    {
+      "name": "COLORADO RIVER INDIAN TRIBES",
+      "income": 1255000
+    },
+    {
+      "name": "CHILDREN'S HOSPITAL COLORADO",
+      "income": 1250000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 57224816
+    },
+    {
+      "code": "DEF",
+      "income": 35371233
+    },
+    {
+      "code": "TAX",
+      "income": 34220316
+    },
+    {
+      "code": "HCR",
+      "income": 32068505
+    },
+    {
+      "code": "AGR",
+      "income": 27839000
+    },
+    {
+      "code": "NAT",
+      "income": 24402273
+    },
+    {
+      "code": "ENG",
+      "income": 23379750
+    },
+    {
+      "code": "MMM",
+      "income": 20688611
+    },
+    {
+      "code": "TRA",
+      "income": 13660500
+    },
+    {
+      "code": "ENV",
+      "income": 13380750
+    },
+    {
+      "code": "TRD",
+      "income": 12855000
+    },
+    {
+      "code": "SCI",
+      "income": 12023150
+    },
+    {
+      "code": "BAN",
+      "income": 10354500
+    },
+    {
+      "code": "AER",
+      "income": 8991900
+    },
+    {
+      "code": "IMM",
+      "income": 8074000
+    },
+    {
+      "code": "AVI",
+      "income": 7831333
+    },
+    {
+      "code": "RRR",
+      "income": 7690000
+    },
+    {
+      "code": "HOM",
+      "income": 7631000
+    },
+    {
+      "code": "VET",
+      "income": 7578500
+    },
+    {
+      "code": "TEC",
+      "income": 7380000
+    }
+  ],
+  "perCapita": 65.69,
+  "population": 5877610,
+  "nationalRank": 14,
+  "perCapitaRank": 11
+}

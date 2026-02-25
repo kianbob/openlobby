@@ -1,1 +1,329 @@
-{"abbreviation":"TX","name":"Texas","totalSpending":883373515.62,"totalFilings":36349,"clientCount":2333,"yearlySpending":[{"year":2018,"income":64735282},{"year":2019,"income":70353279},{"year":2020,"income":83873342},{"year":2021,"income":89668486},{"year":2022,"income":100213818.62},{"year":2023,"income":226687212},{"year":2024,"income":103134576},{"year":2025,"income":144707520}],"topClients":[{"name":"UNITED SERVICES AUTOMOBILE ASSOCIATION","income":6220000},{"name":"SOUTHWEST RESEARCH INSTITUTE","income":5720000},{"name":"CITGO PETROLEUM CORPORATION","income":5360000},{"name":"AMERICAN AIRLINES INC","income":5251000},{"name":"TENET HEALTHCARE","income":4513000},{"name":"SOUTHWEST AIRLINES","income":4440000},{"name":"ENTERPRISE PRODUCTS OPERATING LLC","income":4360000},{"name":"PLAINS ALL AMERICAN PIPELINE, L.P.","income":4300000},{"name":"ENERGY TRANSFER PARTNERS","income":4280000},{"name":"VALERO ENERGY CORPORATION","income":4240000},{"name":"AIR LIQUIDE USA LLC","income":4238000},{"name":"COGNIZANT TECHNOLOGY SOLUTIONS","income":4095000},{"name":"EQUINOR US OPERATIONS LLC","income":3897500},{"name":"ACTION NOW INITIATIVE, LLC","income":3790000},{"name":"ALABAMA-COUSHATTA TRIBE OF TEXAS","income":3690000},{"name":"CALPINE CORPORATION","income":3670000},{"name":"TENET BUSINESS SERVICES CORPORATION","income":3640000},{"name":"TALOS ENERGY","income":3580000},{"name":"ENDEAVORS","income":3450000},{"name":"U.S. RENAL CARE","income":3310000},{"name":"CHRISTUS HEALTH SYSTEM","income":3280000},{"name":"PORT OF CORPUS CHRISTI AUTHORITY","income":3150000},{"name":"HUNT DEVELOPMENT GROUP LLC","income":3060000},{"name":"AUTOMOTIVE SERVICE ASSOCIATION","income":3060000},{"name":"H-E-B","income":3010000},{"name":"AT&T SERVICES, INC. (FKA AT&T)","income":2930000},{"name":"QORVO","income":2910000},{"name":"NESTE US, INC.","income":2860000},{"name":"7 ELEVEN, INC.","income":2840000},{"name":"NAVIGATOR CO2 VENTURES LLC","income":2840000},{"name":"CHARTER BROKERAGE LLC","income":2730000},{"name":"HILLTOP HOLDINGS INC.","income":2720000},{"name":"PTTGC AMERICA LLC","income":2650000},{"name":"WESTLAKE CHEMICAL PARTNERS, LP","income":2560000},{"name":"ORACLE CORPORATION","income":2560000},{"name":"LARGE PUBLIC POWER COUNCIL","income":2450000},{"name":"TEXAS STATE UNIVERSITY SYSTEM","income":2430000},{"name":"BAYLOR UNIVERSITY","income":2430000},{"name":"TPG","income":2420000},{"name":"TARRANT REGIONAL WATER DISTRICT","income":2412000},{"name":"WOODSIDE ENERGY","income":2340000},{"name":"NEC CORPORATION OF AMERICA","income":2332500},{"name":"CHILDRENS HEALTH SYSTEM OF TEXAS","income":2330000},{"name":"DARLING INGREDIENTS INC","income":2320000},{"name":"SABINE-NECHES NAVIGATION DISTRICT","income":2320000},{"name":"NATIONAL SORGHUM PRODUCERS","income":2310000},{"name":"NATIONAL PAWNBROKERS ASSOCIATION","income":2310000},{"name":"VISTRA CORPORATE SERVICES COMPANY","income":2300000},{"name":"HIGHLY INNOVATIVE FUELS","income":2292500},{"name":"ENBRIDGE (U.S.) INC. (FORMERLY SPECTRA ENERGY)","income":2290000}],"topIssues":[{"code":"BUD","income":147495284},{"code":"ENG","income":135521991},{"code":"TAX","income":116148155},{"code":"HCR","income":101568684},{"code":"TRA","income":89450107},{"code":"DEF","income":86356108},{"code":"MMM","income":56620900},{"code":"ENV","income":48283677},{"code":"TRD","income":47378667},{"code":"FUE","income":47140418},{"code":"NAT","income":34692951},{"code":"HOM","income":25821239},{"code":"FIN","income":25655250},{"code":"SCI","income":24924448},{"code":"EDU","income":24237150},{"code":"FOR","income":23495023},{"code":"IMM","income":22471200},{"code":"AVI","income":22214351},{"code":"GOV","income":21048450},{"code":"AGR","income":20822596.619999997}]}
+{
+  "abbreviation": "TX",
+  "name": "Texas",
+  "totalSpending": 883373515.62,
+  "totalFilings": 36349,
+  "clientCount": 2333,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 64735282
+    },
+    {
+      "year": 2019,
+      "income": 70353279
+    },
+    {
+      "year": 2020,
+      "income": 83873342
+    },
+    {
+      "year": 2021,
+      "income": 89668486
+    },
+    {
+      "year": 2022,
+      "income": 100213818.62
+    },
+    {
+      "year": 2023,
+      "income": 226687212
+    },
+    {
+      "year": 2024,
+      "income": 103134576
+    },
+    {
+      "year": 2025,
+      "income": 144707520
+    }
+  ],
+  "topClients": [
+    {
+      "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+      "income": 6220000
+    },
+    {
+      "name": "SOUTHWEST RESEARCH INSTITUTE",
+      "income": 5720000
+    },
+    {
+      "name": "CITGO PETROLEUM CORPORATION",
+      "income": 5360000
+    },
+    {
+      "name": "AMERICAN AIRLINES INC",
+      "income": 5251000
+    },
+    {
+      "name": "TENET HEALTHCARE",
+      "income": 4513000
+    },
+    {
+      "name": "SOUTHWEST AIRLINES",
+      "income": 4440000
+    },
+    {
+      "name": "ENTERPRISE PRODUCTS OPERATING LLC",
+      "income": 4360000
+    },
+    {
+      "name": "PLAINS ALL AMERICAN PIPELINE, L.P.",
+      "income": 4300000
+    },
+    {
+      "name": "ENERGY TRANSFER PARTNERS",
+      "income": 4280000
+    },
+    {
+      "name": "VALERO ENERGY CORPORATION",
+      "income": 4240000
+    },
+    {
+      "name": "AIR LIQUIDE USA LLC",
+      "income": 4238000
+    },
+    {
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS",
+      "income": 4095000
+    },
+    {
+      "name": "EQUINOR US OPERATIONS LLC",
+      "income": 3897500
+    },
+    {
+      "name": "ACTION NOW INITIATIVE, LLC",
+      "income": 3790000
+    },
+    {
+      "name": "ALABAMA-COUSHATTA TRIBE OF TEXAS",
+      "income": 3690000
+    },
+    {
+      "name": "CALPINE CORPORATION",
+      "income": 3670000
+    },
+    {
+      "name": "TENET BUSINESS SERVICES CORPORATION",
+      "income": 3640000
+    },
+    {
+      "name": "TALOS ENERGY",
+      "income": 3580000
+    },
+    {
+      "name": "ENDEAVORS",
+      "income": 3450000
+    },
+    {
+      "name": "U.S. RENAL CARE",
+      "income": 3310000
+    },
+    {
+      "name": "CHRISTUS HEALTH SYSTEM",
+      "income": 3280000
+    },
+    {
+      "name": "PORT OF CORPUS CHRISTI AUTHORITY",
+      "income": 3150000
+    },
+    {
+      "name": "HUNT DEVELOPMENT GROUP LLC",
+      "income": 3060000
+    },
+    {
+      "name": "AUTOMOTIVE SERVICE ASSOCIATION",
+      "income": 3060000
+    },
+    {
+      "name": "H-E-B",
+      "income": 3010000
+    },
+    {
+      "name": "AT&T SERVICES, INC. (FKA AT&T)",
+      "income": 2930000
+    },
+    {
+      "name": "QORVO",
+      "income": 2910000
+    },
+    {
+      "name": "NESTE US, INC.",
+      "income": 2860000
+    },
+    {
+      "name": "7 ELEVEN, INC.",
+      "income": 2840000
+    },
+    {
+      "name": "NAVIGATOR CO2 VENTURES LLC",
+      "income": 2840000
+    },
+    {
+      "name": "CHARTER BROKERAGE LLC",
+      "income": 2730000
+    },
+    {
+      "name": "HILLTOP HOLDINGS INC.",
+      "income": 2720000
+    },
+    {
+      "name": "PTTGC AMERICA LLC",
+      "income": 2650000
+    },
+    {
+      "name": "WESTLAKE CHEMICAL PARTNERS, LP",
+      "income": 2560000
+    },
+    {
+      "name": "ORACLE CORPORATION",
+      "income": 2560000
+    },
+    {
+      "name": "LARGE PUBLIC POWER COUNCIL",
+      "income": 2450000
+    },
+    {
+      "name": "TEXAS STATE UNIVERSITY SYSTEM",
+      "income": 2430000
+    },
+    {
+      "name": "BAYLOR UNIVERSITY",
+      "income": 2430000
+    },
+    {
+      "name": "TPG",
+      "income": 2420000
+    },
+    {
+      "name": "TARRANT REGIONAL WATER DISTRICT",
+      "income": 2412000
+    },
+    {
+      "name": "WOODSIDE ENERGY",
+      "income": 2340000
+    },
+    {
+      "name": "NEC CORPORATION OF AMERICA",
+      "income": 2332500
+    },
+    {
+      "name": "CHILDRENS HEALTH SYSTEM OF TEXAS",
+      "income": 2330000
+    },
+    {
+      "name": "DARLING INGREDIENTS INC",
+      "income": 2320000
+    },
+    {
+      "name": "SABINE-NECHES NAVIGATION DISTRICT",
+      "income": 2320000
+    },
+    {
+      "name": "NATIONAL SORGHUM PRODUCERS",
+      "income": 2310000
+    },
+    {
+      "name": "NATIONAL PAWNBROKERS ASSOCIATION",
+      "income": 2310000
+    },
+    {
+      "name": "VISTRA CORPORATE SERVICES COMPANY",
+      "income": 2300000
+    },
+    {
+      "name": "HIGHLY INNOVATIVE FUELS",
+      "income": 2292500
+    },
+    {
+      "name": "ENBRIDGE (U.S.) INC. (FORMERLY SPECTRA ENERGY)",
+      "income": 2290000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 147495284
+    },
+    {
+      "code": "ENG",
+      "income": 135521991
+    },
+    {
+      "code": "TAX",
+      "income": 116148155
+    },
+    {
+      "code": "HCR",
+      "income": 101568684
+    },
+    {
+      "code": "TRA",
+      "income": 89450107
+    },
+    {
+      "code": "DEF",
+      "income": 86356108
+    },
+    {
+      "code": "MMM",
+      "income": 56620900
+    },
+    {
+      "code": "ENV",
+      "income": 48283677
+    },
+    {
+      "code": "TRD",
+      "income": 47378667
+    },
+    {
+      "code": "FUE",
+      "income": 47140418
+    },
+    {
+      "code": "NAT",
+      "income": 34692951
+    },
+    {
+      "code": "HOM",
+      "income": 25821239
+    },
+    {
+      "code": "FIN",
+      "income": 25655250
+    },
+    {
+      "code": "SCI",
+      "income": 24924448
+    },
+    {
+      "code": "EDU",
+      "income": 24237150
+    },
+    {
+      "code": "FOR",
+      "income": 23495023
+    },
+    {
+      "code": "IMM",
+      "income": 22471200
+    },
+    {
+      "code": "AVI",
+      "income": 22214351
+    },
+    {
+      "code": "GOV",
+      "income": 21048450
+    },
+    {
+      "code": "AGR",
+      "income": 20822596.619999997
+    }
+  ],
+  "perCapita": 44.32,
+  "population": 30503301,
+  "nationalRank": 4,
+  "perCapitaRank": 16
+}

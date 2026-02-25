@@ -1,1 +1,353 @@
-{"code":"DOC","name":"District of Columbia","totalSpending":4538181,"totalFilings":431,"yearlySpending":[{"year":2018,"income":183000,"filings":33},{"year":2019,"income":551181,"filings":51},{"year":2020,"income":725000,"filings":72},{"year":2021,"income":504000,"filings":67},{"year":2022,"income":505000,"filings":46},{"year":2023,"income":565000,"filings":54},{"year":2024,"income":785000,"filings":43},{"year":2025,"income":720000,"filings":65}],"topClients":[{"name":"UNITED SPINAL ASSOCIATION","income":1760000},{"name":"GOVERNMENT OF THE DISTRICT OF COLUMBIA","income":930000},{"name":"COMPASSION & CHOICES","income":430000},{"name":"SERVICE EMPLOYEES INTERNATIONAL UNION CTW-CLC","income":288181},{"name":"DC POLICE UNION","income":260000},{"name":"DOORDASH","income":250000},{"name":"AMERICAN FEDERATION FOR CHILDREN","income":183000},{"name":"DC 2021 LLC","income":137000},{"name":"FEDERAL CITY COUNCIL","income":80000},{"name":"MEDSTAR HEALTH","income":60000},{"name":"DRUG POLICY ALLIANCE","income":40000},{"name":"SUSTAINABLE H2O TECHNOLOGIES","income":30000},{"name":"BRANDED CITIES DC, LLC","income":30000},{"name":"COLDCHAIN TECHNOLOGY SERVICES","income":20000},{"name":"HORTON'S KIDS, INC.","income":20000},{"name":"CLARK CONSTRUCTION GROUP, LLC","income":20000}],"topFirms":[{"name":"UNITED SPINAL ASSOCIATION","income":1760000},{"name":"THEGROUP DC, LLC","income":930000},{"name":"THE RABEN GROUP","income":430000},{"name":"SERVICE EMPLOYEES INTERNATIONAL UNION CTW-CLC","income":288181},{"name":"MODERN FORTIS LLC","income":260000},{"name":"AKIN GUMP STRAUSS HAUER & FELD","income":250000},{"name":"MR. MICHAEL MUSANTE","income":183000},{"name":"CARMEN GROUP INCORPORATED","income":167000},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":80000},{"name":"FIERCE GOVERNMENT RELATIONS","income":80000},{"name":"ARENTFOX SCHIFF LLP","income":60000},{"name":"PATRIOT STRATEGIES, LLC","income":30000},{"name":"HOGAN LOVELLS US LLP","income":20000}],"sampleDescriptions":["Educate policymakers and congressional committees on MedStar Health and importance ensuring critical medical transportation and trauma services in the National Capital Region. Work with federal agenci","Defending duly enacted state and local laws, like D.C.'s Death with Dignity Act, from federal interference. As such, we monitored bills including H.R.3280: Financial Services and General Government Ap","Educate policymakers and congressional committees on MedStar Health and importance ensuring critical medical transportation and trauma services\nin the National Capital Region. Work with federal agenci","Support H.R. 1291, the Washington, DC Admission Act, to provide for the admission of the State of Washington, DC into the Union.","Budget reconciliation involving the pay, benefits, staffing levels, and job security of DC Government employees.  \n\nLobbied on enforcement of DC and federal laws as well as collective bargaining agree","Support statehood for DC (support HR 1291 / s 1278)","To ensure that the SOAR Act as written and passed in Bill 1387 by the Committee on Government Oversight and Reform in the House of Representatives is reauthorized for five years.","Monitored issues relating to the civil rights and civil liberties of nontheist Americans. Monitored issues relating to the civil rights and civil liberties of nontheist Americans and to the Free Exerc","To pursue hurricane relief opportunities in Texas, Florida.","Support statehood for DC (support HR 1291 / s 1278)\nOppose the D.C. Voucher Program and support zeroing out funding for the program in 2019\nOppose the Palmer (AL) amendment to HR 6147 that would prohi","Defending duly enacted state and local laws, like D.C.'s Death with Dignity Act, from federal interference. As such, we monitored bills including HR 6258 and S. 3107: Financial Services and General Go","Was contacted by the Chief of Disability Integration Bureau of Homeland Security & Preparedness Division of DC to discuss preparedness for the disability community ahead of the possibility of Hurrican","To ensure that the SOAR Act is reauthorized for five years.","Issues pertaining to the ability for people who live in DC to opt out of Obamacare's individual mandate.","To ensure that the District of Columbia SOAR Act is\nreauthorized for five years and has an increase in funds.","Musante Strategies, LLC lobbying efforts are centered around the reauthorization of the District of Columbia SOAR Act including minor technical corrections to the language and an increase in the funds","Defending duly enacted state and local laws, like D.C.'s Death with Dignity Act, from federal interference. As such, we monitored bills including H.R.648: Financial Services and General Government App","Supporting the Washington, D.C. Admission Act (116th H.R. 51) and opposing the Gosar-Meadows amendment to the For the People Act (116th H.R. 1 Rules Cmte Amdt #146) (see also \"Supporting comprehensive","Oppose the reauthorization of the DC school voucher program\nSupport statehood for DC / Support full voting rights for the residents of DC; support HR 51","Support H.R. 51, the Washington D.C. Admission Act, to provide for the admission of the the State of Washington, DC, into the Union."]}
+{
+  "code": "DOC",
+  "name": "District of Columbia",
+  "totalSpending": 4538181,
+  "totalFilings": 431,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 183000,
+      "filings": 33
+    },
+    {
+      "year": 2019,
+      "income": 551181,
+      "filings": 51
+    },
+    {
+      "year": 2020,
+      "income": 725000,
+      "filings": 72
+    },
+    {
+      "year": 2021,
+      "income": 504000,
+      "filings": 67
+    },
+    {
+      "year": 2022,
+      "income": 505000,
+      "filings": 46
+    },
+    {
+      "year": 2023,
+      "income": 565000,
+      "filings": 54
+    },
+    {
+      "year": 2024,
+      "income": 785000,
+      "filings": 43
+    },
+    {
+      "year": 2025,
+      "income": 720000,
+      "filings": 65
+    }
+  ],
+  "topClients": [
+    {
+      "name": "UNITED SPINAL ASSOCIATION",
+      "income": 1760000
+    },
+    {
+      "name": "GOVERNMENT OF THE DISTRICT OF COLUMBIA",
+      "income": 930000
+    },
+    {
+      "name": "COMPASSION & CHOICES",
+      "income": 430000
+    },
+    {
+      "name": "SERVICE EMPLOYEES INTERNATIONAL UNION CTW-CLC",
+      "income": 288181
+    },
+    {
+      "name": "DC POLICE UNION",
+      "income": 260000
+    },
+    {
+      "name": "DOORDASH",
+      "income": 250000
+    },
+    {
+      "name": "AMERICAN FEDERATION FOR CHILDREN",
+      "income": 183000
+    },
+    {
+      "name": "DC 2021 LLC",
+      "income": 137000
+    },
+    {
+      "name": "FEDERAL CITY COUNCIL",
+      "income": 80000
+    },
+    {
+      "name": "MEDSTAR HEALTH",
+      "income": 60000
+    },
+    {
+      "name": "DRUG POLICY ALLIANCE",
+      "income": 40000
+    },
+    {
+      "name": "SUSTAINABLE H2O TECHNOLOGIES",
+      "income": 30000
+    },
+    {
+      "name": "BRANDED CITIES DC, LLC",
+      "income": 30000
+    },
+    {
+      "name": "COLDCHAIN TECHNOLOGY SERVICES",
+      "income": 20000
+    },
+    {
+      "name": "HORTON'S KIDS, INC.",
+      "income": 20000
+    },
+    {
+      "name": "CLARK CONSTRUCTION GROUP, LLC",
+      "income": 20000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "UNITED SPINAL ASSOCIATION",
+      "income": 1760000
+    },
+    {
+      "name": "THEGROUP DC, LLC",
+      "income": 930000
+    },
+    {
+      "name": "THE RABEN GROUP",
+      "income": 430000
+    },
+    {
+      "name": "SERVICE EMPLOYEES INTERNATIONAL UNION CTW-CLC",
+      "income": 288181
+    },
+    {
+      "name": "MODERN FORTIS LLC",
+      "income": 260000
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "income": 250000
+    },
+    {
+      "name": "MR. MICHAEL MUSANTE",
+      "income": 183000
+    },
+    {
+      "name": "CARMEN GROUP INCORPORATED",
+      "income": 167000
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 80000
+    },
+    {
+      "name": "FIERCE GOVERNMENT RELATIONS",
+      "income": 80000
+    },
+    {
+      "name": "ARENTFOX SCHIFF LLP",
+      "income": 60000
+    },
+    {
+      "name": "PATRIOT STRATEGIES, LLC",
+      "income": 30000
+    },
+    {
+      "name": "HOGAN LOVELLS US LLP",
+      "income": 20000
+    }
+  ],
+  "sampleDescriptions": [
+    "Educate policymakers and congressional committees on MedStar Health and importance ensuring critical medical transportation and trauma services in the National Capital Region. Work with federal agenci",
+    "Defending duly enacted state and local laws, like D.C.'s Death with Dignity Act, from federal interference. As such, we monitored bills including H.R.3280: Financial Services and General Government Ap",
+    "Educate policymakers and congressional committees on MedStar Health and importance ensuring critical medical transportation and trauma services\nin the National Capital Region. Work with federal agenci",
+    "Support H.R. 1291, the Washington, DC Admission Act, to provide for the admission of the State of Washington, DC into the Union.",
+    "Budget reconciliation involving the pay, benefits, staffing levels, and job security of DC Government employees.  \n\nLobbied on enforcement of DC and federal laws as well as collective bargaining agree",
+    "Support statehood for DC (support HR 1291 / s 1278)",
+    "To ensure that the SOAR Act as written and passed in Bill 1387 by the Committee on Government Oversight and Reform in the House of Representatives is reauthorized for five years.",
+    "Monitored issues relating to the civil rights and civil liberties of nontheist Americans. Monitored issues relating to the civil rights and civil liberties of nontheist Americans and to the Free Exerc",
+    "To pursue hurricane relief opportunities in Texas, Florida.",
+    "Support statehood for DC (support HR 1291 / s 1278)\nOppose the D.C. Voucher Program and support zeroing out funding for the program in 2019\nOppose the Palmer (AL) amendment to HR 6147 that would prohi",
+    "Defending duly enacted state and local laws, like D.C.'s Death with Dignity Act, from federal interference. As such, we monitored bills including HR 6258 and S. 3107: Financial Services and General Go",
+    "Was contacted by the Chief of Disability Integration Bureau of Homeland Security & Preparedness Division of DC to discuss preparedness for the disability community ahead of the possibility of Hurrican",
+    "To ensure that the SOAR Act is reauthorized for five years.",
+    "Issues pertaining to the ability for people who live in DC to opt out of Obamacare's individual mandate.",
+    "To ensure that the District of Columbia SOAR Act is\nreauthorized for five years and has an increase in funds.",
+    "Musante Strategies, LLC lobbying efforts are centered around the reauthorization of the District of Columbia SOAR Act including minor technical corrections to the language and an increase in the funds",
+    "Defending duly enacted state and local laws, like D.C.'s Death with Dignity Act, from federal interference. As such, we monitored bills including H.R.648: Financial Services and General Government App",
+    "Supporting the Washington, D.C. Admission Act (116th H.R. 51) and opposing the Gosar-Meadows amendment to the For the People Act (116th H.R. 1 Rules Cmte Amdt #146) (see also \"Supporting comprehensive",
+    "Oppose the reauthorization of the DC school voucher program\nSupport statehood for DC / Support full voting rights for the residents of DC; support HR 51",
+    "Support H.R. 51, the Washington D.C. Admission Act, to provide for the admission of the the State of Washington, DC, into the Union."
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 9,
+      "spending": 104073.01587301587
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 6,
+      "spending": 95428.57142857142
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 9,
+      "spending": 140328.57142857142
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 9,
+      "spending": 119340.33613445378
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 8,
+      "spending": 86622.76785714286
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 14,
+      "spending": 185487.63419913416
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 13,
+      "spending": 255041.52112115527
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 16,
+      "spending": 202402.91865079364
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 15,
+      "spending": 190031.77133237134
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 19,
+      "spending": 491603.26194067375
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 19,
+      "spending": 280401.7773629149
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 19,
+      "spending": 462861.3164856457
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 14,
+      "spending": 148085.00219780218
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 13,
+      "spending": 161952.02380952382
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 25,
+      "spending": 530009.068931069
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 15,
+      "spending": 303444.4952380953
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 11,
+      "spending": 151889.1900946276
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 13,
+      "spending": 160554.7435897436
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 9,
+      "spending": 94522.47619047618
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 13,
+      "spending": 202328.45396825398
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 12,
+      "spending": 134730.55020469724
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 15,
+      "spending": 490615.37540849677
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 12,
+      "spending": 145552.24089635853
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 15,
+      "spending": 480704.9574579832
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 11,
+      "spending": 119906.3086104007
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 12,
+      "spending": 185765.77485994398
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 9,
+      "spending": 135002.80112044816
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 11,
+      "spending": 122939.86979882864
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 12,
+      "spending": 161350.93445378152
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 19,
+      "spending": 263724.8725849314
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 11,
+      "spending": 205702.52525252526
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 23,
+      "spending": 297185.1166056166
+    }
+  ],
+  "totalEstimatedSpending": 7109590
+}

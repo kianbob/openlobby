@@ -1,1 +1,329 @@
-{"abbreviation":"AZ","name":"Arizona","totalSpending":197819896.7,"totalFilings":8748,"clientCount":508,"yearlySpending":[{"year":2018,"income":12748788},{"year":2019,"income":16594238},{"year":2020,"income":18316250},{"year":2021,"income":18748104.96},{"year":2022,"income":22815110},{"year":2023,"income":53108998.480000004},{"year":2024,"income":23948077.259999998},{"year":2025,"income":31540330}],"topClients":[{"name":"GILA RIVER INDIAN COMMUNITY","income":25380000},{"name":"AXON ENTERPRISE, INC.","income":4779250},{"name":"NAVAJO NATION","income":2900000},{"name":"NATIONAL BORDER PATROL COUNCIL","income":2839998},{"name":"TOHONO O'ODHAM NATION","income":2740000},{"name":"TSMC ARIZONA","income":2740000},{"name":"MATRIX MEDICAL NETWORK","income":2500000},{"name":"ARIZONA STATE UNIVERSITY","income":2300000},{"name":"CITY OF PHOENIX AZ","income":2240000},{"name":"SALT RIVER PIMA MARICOPA INDIAN COMMUNITY","income":2145000},{"name":"SAFARI CLUB INTERNATIONAL","income":2040000},{"name":"REPUBLIC SERVICES, INC.","income":2020000},{"name":"UNIVERSAL TECHNICAL INSTITUTE","income":2020000},{"name":"CENTRAL ARIZONA WATER CONSERVATION DISTRICT (CAWCD)","income":1980000},{"name":"PASCUA YAQUI TRIBE","income":1950000},{"name":"FIRST SOLAR INC.","income":1930000},{"name":"TRIWEST HEALTHCARE ALLIANCE","income":1887500},{"name":"RAYTHEON TECHNOLOGIES CORPORATION","income":1860000},{"name":"TYSON SHARED SERVICES, INC.","income":1810000},{"name":"RIO TINTO SERVICES INC.","income":1770000},{"name":"PHI AIR MEDICAL","income":1760000},{"name":"TPI COMPOSITES, INC.","income":1720000},{"name":"UNIVERSITY OF PHOENIX","income":1720000},{"name":"WHITE MOUNTAIN APACHE TRIBE","income":1670000},{"name":"UNIVERSITY OF ARIZONA","income":1660000},{"name":"SAN CARLOS APACHE TRIBE","income":1620000},{"name":"ASML US, LLC","income":1470000},{"name":"AMERICAN ASSOCIATION OF COSMETOLOGY SCHOOLS","income":1460000},{"name":"FENNEMORE CRAIG, P.C.","income":1410000},{"name":"SUPIMA","income":1400000},{"name":"BLUE CROSS BLUE SHIELD OF ARIZONA","income":1360000},{"name":"PROFESSIONAL BEAUTY ASSOCIATION","income":1300000},{"name":"RTX CORPORATION AND AFFILIATES (FKA RAYTHEON TECHNOLOGIES CORP. AND AFFILIATES)","income":1270000},{"name":"GODADDY, INC.","income":1260000},{"name":"GEOST, INC.","income":1250000},{"name":"EARLY WARNING SERVICES, LLC","income":1250000},{"name":"CITY OF GLENDALE","income":1220000},{"name":"AK CHIN INDIAN COMMUNITY","income":1200000},{"name":"FRESH PRODUCE ASSOCIATION OF THE AMERICAS","income":1183500},{"name":"ARIZONA MINERALS, INC.","income":1160000},{"name":"SOUTHWESTERN POWER GROUP","income":1140000},{"name":"VALLEY METRO","income":1100000},{"name":"PETSMART, INC.","income":1080000},{"name":"CHILDHELP","income":1080000},{"name":"AMITY FOUNDATION","income":1050000},{"name":"AXON ENTERPRISE INC.","income":1040000},{"name":"SEMICONDUCTOR COMPONENT INDUSTRIES LLC","income":1030000},{"name":"HOPI TRIBE","income":1010000},{"name":"LA PAZ COUNTY, ARIZONA","income":1000000},{"name":"PREPASS SAFETY ALLIANCE FORMERLY REPORTED AS HELP INC","income":970000}],"topIssues":[{"code":"BUD","income":40300612.26},{"code":"IND","income":31254000},{"code":"GOV","income":22332500},{"code":"NAT","income":20634715},{"code":"TAX","income":17975560},{"code":"HCR","income":17916124.130000003},{"code":"DEF","income":16583250},{"code":"TRA","income":14023250},{"code":"ENG","income":12819219.2},{"code":"TRD","income":12067100},{"code":"EDU","income":9443000},{"code":"ACC","income":8374880},{"code":"HOM","income":7767498},{"code":"LAW","income":7422750},{"code":"ENV","income":6874805},{"code":"LBR","income":5700000},{"code":"SCI","income":5638000},{"code":"AVI","income":5180000},{"code":"MMM","income":4667358},{"code":"CPI","income":4542500}]}
+{
+  "abbreviation": "AZ",
+  "name": "Arizona",
+  "totalSpending": 197819896.7,
+  "totalFilings": 8748,
+  "clientCount": 508,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 12748788
+    },
+    {
+      "year": 2019,
+      "income": 16594238
+    },
+    {
+      "year": 2020,
+      "income": 18316250
+    },
+    {
+      "year": 2021,
+      "income": 18748104.96
+    },
+    {
+      "year": 2022,
+      "income": 22815110
+    },
+    {
+      "year": 2023,
+      "income": 53108998.480000004
+    },
+    {
+      "year": 2024,
+      "income": 23948077.259999998
+    },
+    {
+      "year": 2025,
+      "income": 31540330
+    }
+  ],
+  "topClients": [
+    {
+      "name": "GILA RIVER INDIAN COMMUNITY",
+      "income": 25380000
+    },
+    {
+      "name": "AXON ENTERPRISE, INC.",
+      "income": 4779250
+    },
+    {
+      "name": "NAVAJO NATION",
+      "income": 2900000
+    },
+    {
+      "name": "NATIONAL BORDER PATROL COUNCIL",
+      "income": 2839998
+    },
+    {
+      "name": "TOHONO O'ODHAM NATION",
+      "income": 2740000
+    },
+    {
+      "name": "TSMC ARIZONA",
+      "income": 2740000
+    },
+    {
+      "name": "MATRIX MEDICAL NETWORK",
+      "income": 2500000
+    },
+    {
+      "name": "ARIZONA STATE UNIVERSITY",
+      "income": 2300000
+    },
+    {
+      "name": "CITY OF PHOENIX AZ",
+      "income": 2240000
+    },
+    {
+      "name": "SALT RIVER PIMA MARICOPA INDIAN COMMUNITY",
+      "income": 2145000
+    },
+    {
+      "name": "SAFARI CLUB INTERNATIONAL",
+      "income": 2040000
+    },
+    {
+      "name": "REPUBLIC SERVICES, INC.",
+      "income": 2020000
+    },
+    {
+      "name": "UNIVERSAL TECHNICAL INSTITUTE",
+      "income": 2020000
+    },
+    {
+      "name": "CENTRAL ARIZONA WATER CONSERVATION DISTRICT (CAWCD)",
+      "income": 1980000
+    },
+    {
+      "name": "PASCUA YAQUI TRIBE",
+      "income": 1950000
+    },
+    {
+      "name": "FIRST SOLAR INC.",
+      "income": 1930000
+    },
+    {
+      "name": "TRIWEST HEALTHCARE ALLIANCE",
+      "income": 1887500
+    },
+    {
+      "name": "RAYTHEON TECHNOLOGIES CORPORATION",
+      "income": 1860000
+    },
+    {
+      "name": "TYSON SHARED SERVICES, INC.",
+      "income": 1810000
+    },
+    {
+      "name": "RIO TINTO SERVICES INC.",
+      "income": 1770000
+    },
+    {
+      "name": "PHI AIR MEDICAL",
+      "income": 1760000
+    },
+    {
+      "name": "TPI COMPOSITES, INC.",
+      "income": 1720000
+    },
+    {
+      "name": "UNIVERSITY OF PHOENIX",
+      "income": 1720000
+    },
+    {
+      "name": "WHITE MOUNTAIN APACHE TRIBE",
+      "income": 1670000
+    },
+    {
+      "name": "UNIVERSITY OF ARIZONA",
+      "income": 1660000
+    },
+    {
+      "name": "SAN CARLOS APACHE TRIBE",
+      "income": 1620000
+    },
+    {
+      "name": "ASML US, LLC",
+      "income": 1470000
+    },
+    {
+      "name": "AMERICAN ASSOCIATION OF COSMETOLOGY SCHOOLS",
+      "income": 1460000
+    },
+    {
+      "name": "FENNEMORE CRAIG, P.C.",
+      "income": 1410000
+    },
+    {
+      "name": "SUPIMA",
+      "income": 1400000
+    },
+    {
+      "name": "BLUE CROSS BLUE SHIELD OF ARIZONA",
+      "income": 1360000
+    },
+    {
+      "name": "PROFESSIONAL BEAUTY ASSOCIATION",
+      "income": 1300000
+    },
+    {
+      "name": "RTX CORPORATION AND AFFILIATES (FKA RAYTHEON TECHNOLOGIES CORP. AND AFFILIATES)",
+      "income": 1270000
+    },
+    {
+      "name": "GODADDY, INC.",
+      "income": 1260000
+    },
+    {
+      "name": "GEOST, INC.",
+      "income": 1250000
+    },
+    {
+      "name": "EARLY WARNING SERVICES, LLC",
+      "income": 1250000
+    },
+    {
+      "name": "CITY OF GLENDALE",
+      "income": 1220000
+    },
+    {
+      "name": "AK CHIN INDIAN COMMUNITY",
+      "income": 1200000
+    },
+    {
+      "name": "FRESH PRODUCE ASSOCIATION OF THE AMERICAS",
+      "income": 1183500
+    },
+    {
+      "name": "ARIZONA MINERALS, INC.",
+      "income": 1160000
+    },
+    {
+      "name": "SOUTHWESTERN POWER GROUP",
+      "income": 1140000
+    },
+    {
+      "name": "VALLEY METRO",
+      "income": 1100000
+    },
+    {
+      "name": "PETSMART, INC.",
+      "income": 1080000
+    },
+    {
+      "name": "CHILDHELP",
+      "income": 1080000
+    },
+    {
+      "name": "AMITY FOUNDATION",
+      "income": 1050000
+    },
+    {
+      "name": "AXON ENTERPRISE INC.",
+      "income": 1040000
+    },
+    {
+      "name": "SEMICONDUCTOR COMPONENT INDUSTRIES LLC",
+      "income": 1030000
+    },
+    {
+      "name": "HOPI TRIBE",
+      "income": 1010000
+    },
+    {
+      "name": "LA PAZ COUNTY, ARIZONA",
+      "income": 1000000
+    },
+    {
+      "name": "PREPASS SAFETY ALLIANCE FORMERLY REPORTED AS HELP INC",
+      "income": 970000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 40300612.26
+    },
+    {
+      "code": "IND",
+      "income": 31254000
+    },
+    {
+      "code": "GOV",
+      "income": 22332500
+    },
+    {
+      "code": "NAT",
+      "income": 20634715
+    },
+    {
+      "code": "TAX",
+      "income": 17975560
+    },
+    {
+      "code": "HCR",
+      "income": 17916124.130000003
+    },
+    {
+      "code": "DEF",
+      "income": 16583250
+    },
+    {
+      "code": "TRA",
+      "income": 14023250
+    },
+    {
+      "code": "ENG",
+      "income": 12819219.2
+    },
+    {
+      "code": "TRD",
+      "income": 12067100
+    },
+    {
+      "code": "EDU",
+      "income": 9443000
+    },
+    {
+      "code": "ACC",
+      "income": 8374880
+    },
+    {
+      "code": "HOM",
+      "income": 7767498
+    },
+    {
+      "code": "LAW",
+      "income": 7422750
+    },
+    {
+      "code": "ENV",
+      "income": 6874805
+    },
+    {
+      "code": "LBR",
+      "income": 5700000
+    },
+    {
+      "code": "SCI",
+      "income": 5638000
+    },
+    {
+      "code": "AVI",
+      "income": 5180000
+    },
+    {
+      "code": "MMM",
+      "income": 4667358
+    },
+    {
+      "code": "CPI",
+      "income": 4542500
+    }
+  ],
+  "perCapita": 27.59,
+  "population": 7431344,
+  "nationalRank": 23,
+  "perCapitaRank": 35
+}

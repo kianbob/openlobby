@@ -1,1 +1,329 @@
-{"abbreviation":"NJ","name":"New Jersey","totalSpending":307565029,"totalFilings":14094,"clientCount":848,"yearlySpending":[{"year":2018,"income":24413844},{"year":2019,"income":23383450},{"year":2020,"income":28435379},{"year":2021,"income":32656105},{"year":2022,"income":37236626},{"year":2023,"income":79075332},{"year":2024,"income":34398916},{"year":2025,"income":47965377}],"topClients":[{"name":"HACKENSACK MERIDIAN HEALTH","income":4254000},{"name":"PACIRA PHARMACEUTICALS INC.","income":3980000},{"name":"BAYER CORPORATION","income":3370000},{"name":"PRUDENTIAL FINANCIAL, INC.","income":3240000},{"name":"SANOFI US SERVICES INC.","income":3120000},{"name":"CROSS RIVER BANK","income":2767000},{"name":"FREEDOM MORTGAGE CORPORATION","income":2570000},{"name":"REWORLD (F/K/A COVANTA ENERGY CORPORATION)","income":2520000},{"name":"SES AMERICOM INC.","income":2484500},{"name":"BD (BECTON, DICKINSON AND COMPANY)","income":2310000},{"name":"ARCH CAPITAL GROUP (U.S.) INC.","income":2300000},{"name":"AVIS-BUDGET GROUP, INC.","income":2260000},{"name":"NOVO NORDISK, INC.","income":2150000},{"name":"NRG ENERGY","income":2130000},{"name":"PANASONIC CORPORATION OF NORTH AMERICA","income":2070000},{"name":"GREAT BASIN TRANSMISSION, LLC","income":2040000},{"name":"PRUDENTIAL FINANCIAL INC.","income":2020000},{"name":"ALVOGEN","income":2015000},{"name":"IQVIA","income":1970000},{"name":"JOHNSON & JOHNSON SERVICES, INC","income":1960000},{"name":"AMERICAN SOCIETY OF TRANSPLANTATION","income":1920000},{"name":"PTC THERAPEUTICS","income":1910000},{"name":"MERCK","income":1900000},{"name":"NOVO NORDISK INC.","income":1820000},{"name":"CELGENE CORPORATION","income":1810000},{"name":"BAYER U.S. LLC","income":1810000},{"name":"DR. REDDY'S LABORATORIES, LTD","income":1785000},{"name":"INNOVATIVE PAYMENTS ASSOCIATION","income":1780000},{"name":"JOHNSON & JOHNSON SERVICES, INC.","income":1755000},{"name":"ZOETIS","income":1720000},{"name":"VIRTUA","income":1720000},{"name":"DSM-FIRMENICH","income":1700000},{"name":"FERRING PHARMACEUTICALS INC.","income":1690000},{"name":"PBF HOLDING COMPANY LLC","income":1620000},{"name":"PHARMA & BIOPHARMA OUTSOURCING ASSOCIATION","income":1600000},{"name":"RWJ BARNABAS HEALTH - FKA BARNABAS HEALTH","income":1580000},{"name":"AMERICAN ROLL-ON ROLL-OFF CARRIER GROUP, INC.","income":1560000},{"name":"SEQIRUS","income":1530000},{"name":"AUTISM SPEAKS INC.","income":1520000},{"name":"EVONIK CORPORATION","income":1520000},{"name":"ALVOGEN, PHARMA US, INC.","income":1510000},{"name":"FOX REHABILITATION","income":1500000},{"name":"GS1 US","income":1450000},{"name":"FERRERO USA, INC.","income":1440000},{"name":"EOS ENERGY ENTERPRISES LLC (FKA EOS ENERGY STORAGE LLC)","income":1440000},{"name":"NATIONAL LIMOUSINE ASSOCIATION","income":1430000},{"name":"BECTON, DICKINSON AND COMPANY","income":1410000},{"name":"THE CAMPBELL'S COMPANY (FKA CAMPBELL SOUP COMPANY)","income":1380000},{"name":"BRAEBURN PHARMACEUTICALS, INC.","income":1360000},{"name":"FERRERO U.S.A., INC.","income":1360000}],"topIssues":[{"code":"HCR","income":104304293},{"code":"BUD","income":48558400},{"code":"TAX","income":34105850},{"code":"MMM","income":32299793},{"code":"TRD","income":26408804},{"code":"ENG","income":18914000},{"code":"ENV","income":18645706},{"code":"PHA","income":17114350},{"code":"DEF","income":15129800},{"code":"AGR","income":13324505},{"code":"TRA","income":12833393},{"code":"BAN","income":8831000},{"code":"HOU","income":8510350},{"code":"MED","income":8279350},{"code":"EDU","income":8038850},{"code":"FIN","income":8016000},{"code":"VET","income":6372350},{"code":"FOO","income":6271500},{"code":"LBR","income":5750393},{"code":"SCI","income":5555000}]}
+{
+  "abbreviation": "NJ",
+  "name": "New Jersey",
+  "totalSpending": 307565029,
+  "totalFilings": 14094,
+  "clientCount": 848,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 24413844
+    },
+    {
+      "year": 2019,
+      "income": 23383450
+    },
+    {
+      "year": 2020,
+      "income": 28435379
+    },
+    {
+      "year": 2021,
+      "income": 32656105
+    },
+    {
+      "year": 2022,
+      "income": 37236626
+    },
+    {
+      "year": 2023,
+      "income": 79075332
+    },
+    {
+      "year": 2024,
+      "income": 34398916
+    },
+    {
+      "year": 2025,
+      "income": 47965377
+    }
+  ],
+  "topClients": [
+    {
+      "name": "HACKENSACK MERIDIAN HEALTH",
+      "income": 4254000
+    },
+    {
+      "name": "PACIRA PHARMACEUTICALS INC.",
+      "income": 3980000
+    },
+    {
+      "name": "BAYER CORPORATION",
+      "income": 3370000
+    },
+    {
+      "name": "PRUDENTIAL FINANCIAL, INC.",
+      "income": 3240000
+    },
+    {
+      "name": "SANOFI US SERVICES INC.",
+      "income": 3120000
+    },
+    {
+      "name": "CROSS RIVER BANK",
+      "income": 2767000
+    },
+    {
+      "name": "FREEDOM MORTGAGE CORPORATION",
+      "income": 2570000
+    },
+    {
+      "name": "REWORLD (F/K/A COVANTA ENERGY CORPORATION)",
+      "income": 2520000
+    },
+    {
+      "name": "SES AMERICOM INC.",
+      "income": 2484500
+    },
+    {
+      "name": "BD (BECTON, DICKINSON AND COMPANY)",
+      "income": 2310000
+    },
+    {
+      "name": "ARCH CAPITAL GROUP (U.S.) INC.",
+      "income": 2300000
+    },
+    {
+      "name": "AVIS-BUDGET GROUP, INC.",
+      "income": 2260000
+    },
+    {
+      "name": "NOVO NORDISK, INC.",
+      "income": 2150000
+    },
+    {
+      "name": "NRG ENERGY",
+      "income": 2130000
+    },
+    {
+      "name": "PANASONIC CORPORATION OF NORTH AMERICA",
+      "income": 2070000
+    },
+    {
+      "name": "GREAT BASIN TRANSMISSION, LLC",
+      "income": 2040000
+    },
+    {
+      "name": "PRUDENTIAL FINANCIAL INC.",
+      "income": 2020000
+    },
+    {
+      "name": "ALVOGEN",
+      "income": 2015000
+    },
+    {
+      "name": "IQVIA",
+      "income": 1970000
+    },
+    {
+      "name": "JOHNSON & JOHNSON SERVICES, INC",
+      "income": 1960000
+    },
+    {
+      "name": "AMERICAN SOCIETY OF TRANSPLANTATION",
+      "income": 1920000
+    },
+    {
+      "name": "PTC THERAPEUTICS",
+      "income": 1910000
+    },
+    {
+      "name": "MERCK",
+      "income": 1900000
+    },
+    {
+      "name": "NOVO NORDISK INC.",
+      "income": 1820000
+    },
+    {
+      "name": "CELGENE CORPORATION",
+      "income": 1810000
+    },
+    {
+      "name": "BAYER U.S. LLC",
+      "income": 1810000
+    },
+    {
+      "name": "DR. REDDY'S LABORATORIES, LTD",
+      "income": 1785000
+    },
+    {
+      "name": "INNOVATIVE PAYMENTS ASSOCIATION",
+      "income": 1780000
+    },
+    {
+      "name": "JOHNSON & JOHNSON SERVICES, INC.",
+      "income": 1755000
+    },
+    {
+      "name": "ZOETIS",
+      "income": 1720000
+    },
+    {
+      "name": "VIRTUA",
+      "income": 1720000
+    },
+    {
+      "name": "DSM-FIRMENICH",
+      "income": 1700000
+    },
+    {
+      "name": "FERRING PHARMACEUTICALS INC.",
+      "income": 1690000
+    },
+    {
+      "name": "PBF HOLDING COMPANY LLC",
+      "income": 1620000
+    },
+    {
+      "name": "PHARMA & BIOPHARMA OUTSOURCING ASSOCIATION",
+      "income": 1600000
+    },
+    {
+      "name": "RWJ BARNABAS HEALTH - FKA BARNABAS HEALTH",
+      "income": 1580000
+    },
+    {
+      "name": "AMERICAN ROLL-ON ROLL-OFF CARRIER GROUP, INC.",
+      "income": 1560000
+    },
+    {
+      "name": "SEQIRUS",
+      "income": 1530000
+    },
+    {
+      "name": "AUTISM SPEAKS INC.",
+      "income": 1520000
+    },
+    {
+      "name": "EVONIK CORPORATION",
+      "income": 1520000
+    },
+    {
+      "name": "ALVOGEN, PHARMA US, INC.",
+      "income": 1510000
+    },
+    {
+      "name": "FOX REHABILITATION",
+      "income": 1500000
+    },
+    {
+      "name": "GS1 US",
+      "income": 1450000
+    },
+    {
+      "name": "FERRERO USA, INC.",
+      "income": 1440000
+    },
+    {
+      "name": "EOS ENERGY ENTERPRISES LLC (FKA EOS ENERGY STORAGE LLC)",
+      "income": 1440000
+    },
+    {
+      "name": "NATIONAL LIMOUSINE ASSOCIATION",
+      "income": 1430000
+    },
+    {
+      "name": "BECTON, DICKINSON AND COMPANY",
+      "income": 1410000
+    },
+    {
+      "name": "THE CAMPBELL'S COMPANY (FKA CAMPBELL SOUP COMPANY)",
+      "income": 1380000
+    },
+    {
+      "name": "BRAEBURN PHARMACEUTICALS, INC.",
+      "income": 1360000
+    },
+    {
+      "name": "FERRERO U.S.A., INC.",
+      "income": 1360000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "HCR",
+      "income": 104304293
+    },
+    {
+      "code": "BUD",
+      "income": 48558400
+    },
+    {
+      "code": "TAX",
+      "income": 34105850
+    },
+    {
+      "code": "MMM",
+      "income": 32299793
+    },
+    {
+      "code": "TRD",
+      "income": 26408804
+    },
+    {
+      "code": "ENG",
+      "income": 18914000
+    },
+    {
+      "code": "ENV",
+      "income": 18645706
+    },
+    {
+      "code": "PHA",
+      "income": 17114350
+    },
+    {
+      "code": "DEF",
+      "income": 15129800
+    },
+    {
+      "code": "AGR",
+      "income": 13324505
+    },
+    {
+      "code": "TRA",
+      "income": 12833393
+    },
+    {
+      "code": "BAN",
+      "income": 8831000
+    },
+    {
+      "code": "HOU",
+      "income": 8510350
+    },
+    {
+      "code": "MED",
+      "income": 8279350
+    },
+    {
+      "code": "EDU",
+      "income": 8038850
+    },
+    {
+      "code": "FIN",
+      "income": 8016000
+    },
+    {
+      "code": "VET",
+      "income": 6372350
+    },
+    {
+      "code": "FOO",
+      "income": 6271500
+    },
+    {
+      "code": "LBR",
+      "income": 5750393
+    },
+    {
+      "code": "SCI",
+      "income": 5555000
+    }
+  ],
+  "perCapita": 63.58,
+  "population": 9290841,
+  "nationalRank": 11,
+  "perCapitaRank": 12
+}

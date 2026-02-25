@@ -140,6 +140,36 @@ export default function DefenseLobbyingPage() {
           <p className="text-sm text-gray-600 mt-1">All DEF-coded filings</p>
         </Link>
       </div>
+
+      <div className="mt-12">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Dive Deeper</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/investigations/doge-vs-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🐕 DOGE vs. Lobbying</div>
+            <div className="text-xs text-gray-500 mt-1">Government efficiency meets defense spending</div>
+          </Link>
+          <Link href="/investigations/the-22000-percent-roi" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📈 The 22,000% ROI</div>
+            <div className="text-xs text-gray-500 mt-1">Defense contractors&apos; lobbying returns</div>
+          </Link>
+          <Link href="/investigations/revolving-door-exposed" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🚪 Revolving Door</div>
+            <div className="text-xs text-gray-500 mt-1">Pentagon officials who became lobbyists</div>
+          </Link>
+          <Link href="/clients" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">👤 Top Clients</div>
+            <div className="text-xs text-gray-500 mt-1">See all top lobbying spenders</div>
+          </Link>
+          <Link href="/geographic" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🗺️ Geographic Analysis</div>
+            <div className="text-xs text-gray-500 mt-1">Where defense lobbying concentrates</div>
+          </Link>
+          <Link href="/how-lobbying-works" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📖 How Lobbying Works</div>
+            <div className="text-xs text-gray-500 mt-1">The complete guide</div>
+          </Link>
+        </div>
+      </div>
     </article>
   )
 }

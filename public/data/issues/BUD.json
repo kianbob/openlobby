@@ -1,1 +1,557 @@
-{"code":"BUD","name":"Budget/Appropriations","totalSpending":3099365333.34,"totalFilings":140443,"yearlySpending":[{"year":2018,"income":265565168.04000002,"filings":13048},{"year":2019,"income":267757705.53,"filings":13069},{"year":2020,"income":323919712.95,"filings":15304},{"year":2021,"income":360412627.65,"filings":17046},{"year":2022,"income":425302918.40000004,"filings":19447},{"year":2023,"income":473536666.1,"filings":21536},{"year":2024,"income":438868071.32,"filings":19579},{"year":2025,"income":544002463.35,"filings":21414}],"topClients":[{"name":"STATE OF LOC NATION GLOBAL PUBLIC BENEFIT CORPORATION","income":40000000},{"name":"AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE","income":21522871},{"name":"GENERAL DYNAMICS","income":10865000},{"name":"AMERICAN HOSPITAL ASSOCIATION","income":6952000},{"name":"LAKE CARRIERS ASSOCIATION","income":6540000},{"name":"MICROSOFT CORPORATION","income":6405000},{"name":"OMNITRAX, INC.","income":6350000},{"name":"DUCTILE IRON PIPE RESEARCH ASSOCIATION","income":5990000},{"name":"SAMSUNG ELECTRONICS AMERICA, INC.","income":5280000},{"name":"ORACLE CORPORATION","income":5070000},{"name":"ALTRIA CLIENT SERVICES LLC","income":5050000},{"name":"NOVO NORDISK INC.","income":4840000},{"name":"GOOGLE CLIENT SERVICES","income":4770000},{"name":"THE BOEING COMPANY","income":4732500},{"name":"GILEAD SCIENCES, INC.","income":4450000},{"name":"TECHNOLOGY CEO COUNCIL","income":4350000},{"name":"PHRMA","income":4270000},{"name":"GENENTECH, INC.","income":4210000},{"name":"UNITED LAUNCH ALLIANCE","income":4190000},{"name":"NATIONAL WATER RESOURCES ASSOCIATION","income":4080000},{"name":"INTUIT, INC. AND AFFILIATES","income":4075000},{"name":"CRUISE LINES INTERNATIONAL ASSOCIATION","income":4070000},{"name":"MUNICIPAL CASTINGS ASSOCIATION FORMERLY MUNICIPAL CASTINGS FAIR TRADE COUNCIL","income":4040000},{"name":"NOVA SOUTHEASTERN UNIVERSITY","income":4030000},{"name":"BUSINESS ROUNDTABLE","income":3940000},{"name":"AMERICAN VETERINARY MEDICAL ASSOCIATION","income":3890000},{"name":"AIR LIQUIDE USA LLC","income":3838000},{"name":"BLUE CROSS BLUE SHIELD ASSOCIATION","income":3700000},{"name":"MISSISSIPPI BAND OF CHOCTAW INDIANS","income":3680000},{"name":"SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT","income":3675000},{"name":"CORECIVIC","income":3570000},{"name":"COALITION OF EPSCOR STATES","income":3560000},{"name":"TRIMBLE INC","income":3520000},{"name":"NORTHROP GRUMMAN CORPORATION","income":3515000},{"name":"SOUTHWEST RESEARCH INSTITUTE","income":3495000},{"name":"COBANK","income":3470000},{"name":"EDISON ELECTRIC INSTITUTE","income":3460000},{"name":"MATERION BRUSH INC.","income":3460000},{"name":"ALZHEIMER'S ASSOCIATION","income":3400000},{"name":"THOMAS JEFFERSON UNIVERSITY","income":3300000},{"name":"LOCKHEED MARTIN CORPORATION","income":3264000},{"name":"AFFORDABLE HOUSING DEVELOPERS COUNCIL","income":3260000},{"name":"ENTERGY SERVICES LLC","income":3240000},{"name":"EMERGENT BIOSOLUTIONS INC.","income":3220000},{"name":"CHICKASAW NATION","income":3220000},{"name":"FINCANTIERI MARINE GROUP LLC","income":3140000},{"name":"PARKER HANNIFIN","income":3120000},{"name":"SAREPTA THERAPEUTICS","income":3110000},{"name":"GENERAL ATOMICS","income":3110000},{"name":"AUSTAL USA","income":3080000}],"topFirms":[{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":162399500},{"name":"VAN SCOYOC ASSOCIATES","income":98830000},{"name":"HOLLAND & KNIGHT LLP","income":73730000},{"name":"TARPLIN, DOWNS & YOUNG, LLC","income":72950000},{"name":"CASSIDY & ASSOCIATES, INC.","income":60990000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":51080000},{"name":"THORN RUN PARTNERS","income":50980000},{"name":"FORBES-TATE","income":46875000},{"name":"SQUIRE PATTON BOGGS","income":45450000},{"name":"LEWIS-BURKE ASSOCIATES, LLC","income":44105000},{"name":"CROSSROADS STRATEGIES, LLC","income":41850000},{"name":"THE FERGUSON GROUP","income":40352250},{"name":"INNOVATIVE FEDERAL STRATEGIES, LLC","income":40250000},{"name":"LOC COMMUNITY ASSOCIATION","income":40000000},{"name":"MEHLMAN CONSULTING, INC.","income":39325000},{"name":"AVOQ, LLC","income":36510000},{"name":"WILLIAMS AND JENSEN, PLLC","income":34920000},{"name":"CAPITOL COUNSEL LLC","income":31550000},{"name":"TOWNSEND PUBLIC AFFAIRS, INC","income":30807899.12},{"name":"MCALLISTER & QUINN, LLC","income":27368148},{"name":"K&L GATES, LLP","income":26610000},{"name":"TIBER CREEK GROUP","income":26045000},{"name":"CAVAROCCHI RUSCIO DENNIS ASSOCIATES, L.L.C.","income":23490000},{"name":"CARPI & CLAY, INC","income":21927000},{"name":"ELEVATE GOVERNMENT AFFAIRS, LLC","income":21880000},{"name":"VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)","income":21670000},{"name":"AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE","income":21522871},{"name":"S-3 GROUP","income":21460000},{"name":"GREENBERG TRAURIG, LLP","income":21045000},{"name":"CLARK HILL, PLC","income":20532000}],"sampleDescriptions":["General defense / homeland security budget issues","Defense appropriations / Agriculture Appropriations","FY18 appropriations for energy and water.","Monitor funding, legislation and regulations pertaining to outer space.","General appropriations issues","Federal policies regarding water infrastructure, public health, environmental protection and economic development.","Offshore One Call Notification Center Pipeline Safety","water infrastructure funding and related water policy issues","Matters related to healthcare, hospital ratings, and funding opportunities.","Tobacco use prevention funding through the FY 2018 and FY 2019 appropriations process.","Issues surrounding Medicare Dependent Hospitals\nPreserving Medicare reimbursement rates for rural public hospitals serving a disproportionate Medicare/Medcaid patient mix.","coverage and reimbursement, respiratory issues","USDA's business and industry Loan program, REAP program & appropriations.","General issues related to telecommunication, broadband, satellite video and data security or privacy. Mobile Now Bill S. 19. Congressional Review Act as it related to the FCC\n\nAppropriations issues re","Issues related to the H2B visa program.","Monitor energy related legislation and issues.","Department of Defense Appropriations Funding","Issues related to DOD procurement","Emergency communications interoperability Federal Emergency Management Agency Appropriations FY 18 Department of Homeland Security Appropriations FY 18","Monitor and evaluate federal initiatives, both authorizing and appropriations, and regulatory matters regarding: International and Foreign Assistance funding; the Arctic Region; Illegal, unreported an"]}
+{
+  "code": "BUD",
+  "name": "Budget/Appropriations",
+  "totalSpending": 3099365333.34,
+  "totalFilings": 140443,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 265565168.04000002,
+      "filings": 13048
+    },
+    {
+      "year": 2019,
+      "income": 267757705.53,
+      "filings": 13069
+    },
+    {
+      "year": 2020,
+      "income": 323919712.95,
+      "filings": 15304
+    },
+    {
+      "year": 2021,
+      "income": 360412627.65,
+      "filings": 17046
+    },
+    {
+      "year": 2022,
+      "income": 425302918.40000004,
+      "filings": 19447
+    },
+    {
+      "year": 2023,
+      "income": 473536666.1,
+      "filings": 21536
+    },
+    {
+      "year": 2024,
+      "income": 438868071.32,
+      "filings": 19579
+    },
+    {
+      "year": 2025,
+      "income": 544002463.35,
+      "filings": 21414
+    }
+  ],
+  "topClients": [
+    {
+      "name": "STATE OF LOC NATION GLOBAL PUBLIC BENEFIT CORPORATION",
+      "income": 40000000
+    },
+    {
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
+      "income": 21522871
+    },
+    {
+      "name": "GENERAL DYNAMICS",
+      "income": 10865000
+    },
+    {
+      "name": "AMERICAN HOSPITAL ASSOCIATION",
+      "income": 6952000
+    },
+    {
+      "name": "LAKE CARRIERS ASSOCIATION",
+      "income": 6540000
+    },
+    {
+      "name": "MICROSOFT CORPORATION",
+      "income": 6405000
+    },
+    {
+      "name": "OMNITRAX, INC.",
+      "income": 6350000
+    },
+    {
+      "name": "DUCTILE IRON PIPE RESEARCH ASSOCIATION",
+      "income": 5990000
+    },
+    {
+      "name": "SAMSUNG ELECTRONICS AMERICA, INC.",
+      "income": 5280000
+    },
+    {
+      "name": "ORACLE CORPORATION",
+      "income": 5070000
+    },
+    {
+      "name": "ALTRIA CLIENT SERVICES LLC",
+      "income": 5050000
+    },
+    {
+      "name": "NOVO NORDISK INC.",
+      "income": 4840000
+    },
+    {
+      "name": "GOOGLE CLIENT SERVICES",
+      "income": 4770000
+    },
+    {
+      "name": "THE BOEING COMPANY",
+      "income": 4732500
+    },
+    {
+      "name": "GILEAD SCIENCES, INC.",
+      "income": 4450000
+    },
+    {
+      "name": "TECHNOLOGY CEO COUNCIL",
+      "income": 4350000
+    },
+    {
+      "name": "PHRMA",
+      "income": 4270000
+    },
+    {
+      "name": "GENENTECH, INC.",
+      "income": 4210000
+    },
+    {
+      "name": "UNITED LAUNCH ALLIANCE",
+      "income": 4190000
+    },
+    {
+      "name": "NATIONAL WATER RESOURCES ASSOCIATION",
+      "income": 4080000
+    },
+    {
+      "name": "INTUIT, INC. AND AFFILIATES",
+      "income": 4075000
+    },
+    {
+      "name": "CRUISE LINES INTERNATIONAL ASSOCIATION",
+      "income": 4070000
+    },
+    {
+      "name": "MUNICIPAL CASTINGS ASSOCIATION FORMERLY MUNICIPAL CASTINGS FAIR TRADE COUNCIL",
+      "income": 4040000
+    },
+    {
+      "name": "NOVA SOUTHEASTERN UNIVERSITY",
+      "income": 4030000
+    },
+    {
+      "name": "BUSINESS ROUNDTABLE",
+      "income": 3940000
+    },
+    {
+      "name": "AMERICAN VETERINARY MEDICAL ASSOCIATION",
+      "income": 3890000
+    },
+    {
+      "name": "AIR LIQUIDE USA LLC",
+      "income": 3838000
+    },
+    {
+      "name": "BLUE CROSS BLUE SHIELD ASSOCIATION",
+      "income": 3700000
+    },
+    {
+      "name": "MISSISSIPPI BAND OF CHOCTAW INDIANS",
+      "income": 3680000
+    },
+    {
+      "name": "SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT",
+      "income": 3675000
+    },
+    {
+      "name": "CORECIVIC",
+      "income": 3570000
+    },
+    {
+      "name": "COALITION OF EPSCOR STATES",
+      "income": 3560000
+    },
+    {
+      "name": "TRIMBLE INC",
+      "income": 3520000
+    },
+    {
+      "name": "NORTHROP GRUMMAN CORPORATION",
+      "income": 3515000
+    },
+    {
+      "name": "SOUTHWEST RESEARCH INSTITUTE",
+      "income": 3495000
+    },
+    {
+      "name": "COBANK",
+      "income": 3470000
+    },
+    {
+      "name": "EDISON ELECTRIC INSTITUTE",
+      "income": 3460000
+    },
+    {
+      "name": "MATERION BRUSH INC.",
+      "income": 3460000
+    },
+    {
+      "name": "ALZHEIMER'S ASSOCIATION",
+      "income": 3400000
+    },
+    {
+      "name": "THOMAS JEFFERSON UNIVERSITY",
+      "income": 3300000
+    },
+    {
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "income": 3264000
+    },
+    {
+      "name": "AFFORDABLE HOUSING DEVELOPERS COUNCIL",
+      "income": 3260000
+    },
+    {
+      "name": "ENTERGY SERVICES LLC",
+      "income": 3240000
+    },
+    {
+      "name": "EMERGENT BIOSOLUTIONS INC.",
+      "income": 3220000
+    },
+    {
+      "name": "CHICKASAW NATION",
+      "income": 3220000
+    },
+    {
+      "name": "FINCANTIERI MARINE GROUP LLC",
+      "income": 3140000
+    },
+    {
+      "name": "PARKER HANNIFIN",
+      "income": 3120000
+    },
+    {
+      "name": "SAREPTA THERAPEUTICS",
+      "income": 3110000
+    },
+    {
+      "name": "GENERAL ATOMICS",
+      "income": 3110000
+    },
+    {
+      "name": "AUSTAL USA",
+      "income": 3080000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 162399500
+    },
+    {
+      "name": "VAN SCOYOC ASSOCIATES",
+      "income": 98830000
+    },
+    {
+      "name": "HOLLAND & KNIGHT LLP",
+      "income": 73730000
+    },
+    {
+      "name": "TARPLIN, DOWNS & YOUNG, LLC",
+      "income": 72950000
+    },
+    {
+      "name": "CASSIDY & ASSOCIATES, INC.",
+      "income": 60990000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 51080000
+    },
+    {
+      "name": "THORN RUN PARTNERS",
+      "income": 50980000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 46875000
+    },
+    {
+      "name": "SQUIRE PATTON BOGGS",
+      "income": 45450000
+    },
+    {
+      "name": "LEWIS-BURKE ASSOCIATES, LLC",
+      "income": 44105000
+    },
+    {
+      "name": "CROSSROADS STRATEGIES, LLC",
+      "income": 41850000
+    },
+    {
+      "name": "THE FERGUSON GROUP",
+      "income": 40352250
+    },
+    {
+      "name": "INNOVATIVE FEDERAL STRATEGIES, LLC",
+      "income": 40250000
+    },
+    {
+      "name": "LOC COMMUNITY ASSOCIATION",
+      "income": 40000000
+    },
+    {
+      "name": "MEHLMAN CONSULTING, INC.",
+      "income": 39325000
+    },
+    {
+      "name": "AVOQ, LLC",
+      "income": 36510000
+    },
+    {
+      "name": "WILLIAMS AND JENSEN, PLLC",
+      "income": 34920000
+    },
+    {
+      "name": "CAPITOL COUNSEL LLC",
+      "income": 31550000
+    },
+    {
+      "name": "TOWNSEND PUBLIC AFFAIRS, INC",
+      "income": 30807899.12
+    },
+    {
+      "name": "MCALLISTER & QUINN, LLC",
+      "income": 27368148
+    },
+    {
+      "name": "K&L GATES, LLP",
+      "income": 26610000
+    },
+    {
+      "name": "TIBER CREEK GROUP",
+      "income": 26045000
+    },
+    {
+      "name": "CAVAROCCHI RUSCIO DENNIS ASSOCIATES, L.L.C.",
+      "income": 23490000
+    },
+    {
+      "name": "CARPI & CLAY, INC",
+      "income": 21927000
+    },
+    {
+      "name": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+      "income": 21880000
+    },
+    {
+      "name": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
+      "income": 21670000
+    },
+    {
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
+      "income": 21522871
+    },
+    {
+      "name": "S-3 GROUP",
+      "income": 21460000
+    },
+    {
+      "name": "GREENBERG TRAURIG, LLP",
+      "income": 21045000
+    },
+    {
+      "name": "CLARK HILL, PLC",
+      "income": 20532000
+    }
+  ],
+  "sampleDescriptions": [
+    "General defense / homeland security budget issues",
+    "Defense appropriations / Agriculture Appropriations",
+    "FY18 appropriations for energy and water.",
+    "Monitor funding, legislation and regulations pertaining to outer space.",
+    "General appropriations issues",
+    "Federal policies regarding water infrastructure, public health, environmental protection and economic development.",
+    "Offshore One Call Notification Center Pipeline Safety",
+    "water infrastructure funding and related water policy issues",
+    "Matters related to healthcare, hospital ratings, and funding opportunities.",
+    "Tobacco use prevention funding through the FY 2018 and FY 2019 appropriations process.",
+    "Issues surrounding Medicare Dependent Hospitals\nPreserving Medicare reimbursement rates for rural public hospitals serving a disproportionate Medicare/Medcaid patient mix.",
+    "coverage and reimbursement, respiratory issues",
+    "USDA's business and industry Loan program, REAP program & appropriations.",
+    "General issues related to telecommunication, broadband, satellite video and data security or privacy. Mobile Now Bill S. 19. Congressional Review Act as it related to the FCC\n\nAppropriations issues re",
+    "Issues related to the H2B visa program.",
+    "Monitor energy related legislation and issues.",
+    "Department of Defense Appropriations Funding",
+    "Issues related to DOD procurement",
+    "Emergency communications interoperability Federal Emergency Management Agency Appropriations FY 18 Department of Homeland Security Appropriations FY 18",
+    "Monitor and evaluate federal initiatives, both authorizing and appropriations, and regulatory matters regarding: International and Foreign Assistance funding; the Arctic Region; Illegal, unreported an"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 3238,
+      "spending": 65874254.906795874
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 3207,
+      "spending": 60341256.542186804
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 3238,
+      "spending": 59144602.30635408
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 3365,
+      "spending": 63021915.851580314
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 3043,
+      "spending": 58336692.91639907
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 3578,
+      "spending": 68920138.58429484
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 3043,
+      "spending": 57379103.96008353
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 3405,
+      "spending": 63210697.20058829
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 3352,
+      "spending": 64324359.94071004
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 4051,
+      "spending": 71873127.30204174
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 4058,
+      "spending": 69569212.30946855
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 3843,
+      "spending": 69269276.60607961
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 3648,
+      "spending": 68218449.46335182
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 4548,
+      "spending": 87005244.55597396
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 4389,
+      "spending": 73410509.68366629
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 4461,
+      "spending": 80958287.60615927
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 4510,
+      "spending": 83627802.91929539
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 5017,
+      "spending": 97145463.19779259
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 4963,
+      "spending": 112648571.14975102
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 4957,
+      "spending": 92540634.60598935
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 5588,
+      "spending": 105515775.86839071
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 5278,
+      "spending": 102300352.21338582
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 5365,
+      "spending": 104244998.01225322
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 5305,
+      "spending": 99591215.62833321
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 4584,
+      "spending": 87366794.4576481
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 5222,
+      "spending": 101738215.88057518
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 4911,
+      "spending": 96805772.37651156
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 4862,
+      "spending": 91891057.4576081
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 4815,
+      "spending": 122880404.09717795
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 5467,
+      "spending": 113882182.22510712
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 5521,
+      "spending": 125108505.87282537
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 5611,
+      "spending": 115894119.39234188
+    }
+  ],
+  "totalEstimatedSpending": 2734038995
+}

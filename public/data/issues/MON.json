@@ -1,1 +1,441 @@
-{"code":"MON","name":"Minting/Money/Gold Standard","totalSpending":8722750,"totalFilings":316,"yearlySpending":[{"year":2018,"income":977750,"filings":50},{"year":2019,"income":1060000,"filings":45},{"year":2020,"income":2190000,"filings":42},{"year":2021,"income":845000,"filings":34},{"year":2022,"income":1040000,"filings":42},{"year":2023,"income":360000,"filings":25},{"year":2024,"income":910000,"filings":28},{"year":2025,"income":1340000,"filings":50}],"topClients":[{"name":"CARDTRONICS USA, INC.","income":1540000},{"name":"JARDEN ZINC PRODUCTS","income":1290000},{"name":"MBI, INC.","income":900000},{"name":"COINSTAR","income":880000},{"name":"FWC2026 US, INC.","income":630000},{"name":"COPPER DEVELOPMENT ASSOCIATION","income":395000},{"name":"UNITED STATES TENNIS ASSOCIATION","income":380000},{"name":"THE CLARK ESTATES, INC.","income":330000},{"name":"SOLANA POLICY INSTITUTE","income":310000},{"name":"MOTOROLA SOLUTIONS, INC.","income":300000},{"name":"CITY OF CINCINNATI","income":300000},{"name":"BLOCKCHAIN ASSOCIATION","income":240000},{"name":"THE CLARK ESTATES","income":220000},{"name":"COALITION FOR EQUITABLE REGULATION AND TAXATION","income":180000},{"name":"NAISMITH MEMORIAL BASKETBALL HALL OF FAME","income":177750},{"name":"NATIONAL ASSOCIATION OF CONVENIENCE STORES","income":140000},{"name":"AMERICA'S VETDOGS","income":110000},{"name":"ARTAZN LLC","income":100000},{"name":"UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE","income":80000},{"name":"THE CORMAC GROUP, ON BEHALF OF CARDTRONICS USA, INC.","income":75000},{"name":"GEPHARDT GROUP GOVERNMENT AFFAIRS (ON BEHALF OF MBI, INC.)","income":45000},{"name":"BARRICK GOLD OF NORTH AMERICA, INC.","income":30000},{"name":"AMERICAN SENIORS HOUSING ASSOCIATION","income":30000},{"name":"COPPER AND BRASS FABRICATORS COUNCIL","income":20000},{"name":"NATIONAL AUTOMATED MERCHANDISING ASSOCIATION","income":20000}],"topFirms":[{"name":"THE CORMAC GROUP, LLC","income":1540000},{"name":"POLSINELLI PC","income":1270000},{"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP","income":980000},{"name":"RICH FEUER ANDERSON","income":750000},{"name":"ALPINE GROUP PARTNERS, LLC.","income":700000},{"name":"ARNOLD & PORTER KAYE SCHOLER LLP","income":630000},{"name":"KINGHORN, HILBERT & ASSOCIATES","income":395000},{"name":"MILLER STRATEGIES, LLC","income":380000},{"name":"SIXKILLER CONSULTING, LLC","income":300000},{"name":"CALFEE, HALTER & GRISWOLD LLP","income":300000},{"name":"FORBES-TATE","income":240000},{"name":"CAPITOL SOLUTIONS, LLC (DC)","income":220000},{"name":"WASHINGTON MATTERS LLC","income":180000},{"name":"GEPHARDT GROUP GOVERNMENT AFFAIRS","income":140000},{"name":"A STREET STRATEGIES","income":140000},{"name":"KSG LLC, DBA KLEIN AND SAKS GROUP","income":117750},{"name":"CORNERSTONE GOVERNMENT AFFAIRS, INC.","income":110000},{"name":"MONUMENT ADVOCACY","income":80000},{"name":"AMERICAN CAPITOL GROUP","income":75000},{"name":"BOCKORNY GROUP, INC.","income":45000},{"name":"GREENBERG TRAURIG, LLP","income":30000},{"name":"CALFEE STRATEGIC SOLUTIONS","income":30000},{"name":"DENTONS US LLP","income":20000},{"name":"KELLEY DRYE & WARREN LLP","income":20000},{"name":"PORTER GROUP, LLC","income":20000},{"name":"CGCN GROUP, LLC","income":10000}],"sampleDescriptions":["Veterans administration (structure, benefits, services, and quality of care)   Family code (UCCJEA) Federal enforcement of parental rights. Veteran suicide epidemic (root causes, actions, programs, ac","Dollar coin series.","S.2399 and H.R.770, the \"American Innovation $1 Coin Act.\"","Work with National Park Service\nWork with the Congressional Baseball Caucus","Issues related to the one-cent coin, specifically S.759, the Currency Optimization Innovation and National Security (COINS) Act of 2017","Issues relating to currency and coins.","Issues related to currency and coins.; S. 1326 and H.R.770: American Innovation $1 Coin Act.","H.R. 770 - American Innovation $1 Coin Act; S.1326, S.2399 - American Innovation $1 Coin Act","Issues relating to promotion of the $1 coin","Tracking issues related to the Secretary of the Treasurys decision to provide meaning access to US Currency in accordance with the Courts judgment in American Council of the Blind, et al. v. Timothy F","Issues related to minting and coinage","S. 1503, Naismith Memorial Hall of Fame Commemorative Coin Bill","Issues relating to currency and coins","Administrative and legislative monitoring and outreach on various issues affecting the hard rock mining industry.\nMonitor administrative action on issues related to the NEPA review process.","H.R.770 - American Innovation $1 Coin Act; S.1326, S.2399 - American Innovation $1 Coin Act","Commemorative coins","Implementation of H.R.770, the \"American Innovation $1 Coin Act.\"  Continuation of America's Beautiful National Parks coin series.","Issues related to the one-cent coin","Issues related to the one cent coin; S 759 the Currency Optimization Innovation and National Security (COINS) Act","Tracking issues related to the Secretary of the Treasurys decision to provide meaningful access to US Currency in accordance with the Courts judgment in American Council of the Blind, et al. v. Timoth"]}
+{
+  "code": "MON",
+  "name": "Minting/Money/Gold Standard",
+  "totalSpending": 8722750,
+  "totalFilings": 316,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 977750,
+      "filings": 50
+    },
+    {
+      "year": 2019,
+      "income": 1060000,
+      "filings": 45
+    },
+    {
+      "year": 2020,
+      "income": 2190000,
+      "filings": 42
+    },
+    {
+      "year": 2021,
+      "income": 845000,
+      "filings": 34
+    },
+    {
+      "year": 2022,
+      "income": 1040000,
+      "filings": 42
+    },
+    {
+      "year": 2023,
+      "income": 360000,
+      "filings": 25
+    },
+    {
+      "year": 2024,
+      "income": 910000,
+      "filings": 28
+    },
+    {
+      "year": 2025,
+      "income": 1340000,
+      "filings": 50
+    }
+  ],
+  "topClients": [
+    {
+      "name": "CARDTRONICS USA, INC.",
+      "income": 1540000
+    },
+    {
+      "name": "JARDEN ZINC PRODUCTS",
+      "income": 1290000
+    },
+    {
+      "name": "MBI, INC.",
+      "income": 900000
+    },
+    {
+      "name": "COINSTAR",
+      "income": 880000
+    },
+    {
+      "name": "FWC2026 US, INC.",
+      "income": 630000
+    },
+    {
+      "name": "COPPER DEVELOPMENT ASSOCIATION",
+      "income": 395000
+    },
+    {
+      "name": "UNITED STATES TENNIS ASSOCIATION",
+      "income": 380000
+    },
+    {
+      "name": "THE CLARK ESTATES, INC.",
+      "income": 330000
+    },
+    {
+      "name": "SOLANA POLICY INSTITUTE",
+      "income": 310000
+    },
+    {
+      "name": "MOTOROLA SOLUTIONS, INC.",
+      "income": 300000
+    },
+    {
+      "name": "CITY OF CINCINNATI",
+      "income": 300000
+    },
+    {
+      "name": "BLOCKCHAIN ASSOCIATION",
+      "income": 240000
+    },
+    {
+      "name": "THE CLARK ESTATES",
+      "income": 220000
+    },
+    {
+      "name": "COALITION FOR EQUITABLE REGULATION AND TAXATION",
+      "income": 180000
+    },
+    {
+      "name": "NAISMITH MEMORIAL BASKETBALL HALL OF FAME",
+      "income": 177750
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES",
+      "income": 140000
+    },
+    {
+      "name": "AMERICA'S VETDOGS",
+      "income": 110000
+    },
+    {
+      "name": "ARTAZN LLC",
+      "income": 100000
+    },
+    {
+      "name": "UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE",
+      "income": 80000
+    },
+    {
+      "name": "THE CORMAC GROUP, ON BEHALF OF CARDTRONICS USA, INC.",
+      "income": 75000
+    },
+    {
+      "name": "GEPHARDT GROUP GOVERNMENT AFFAIRS (ON BEHALF OF MBI, INC.)",
+      "income": 45000
+    },
+    {
+      "name": "BARRICK GOLD OF NORTH AMERICA, INC.",
+      "income": 30000
+    },
+    {
+      "name": "AMERICAN SENIORS HOUSING ASSOCIATION",
+      "income": 30000
+    },
+    {
+      "name": "COPPER AND BRASS FABRICATORS COUNCIL",
+      "income": 20000
+    },
+    {
+      "name": "NATIONAL AUTOMATED MERCHANDISING ASSOCIATION",
+      "income": 20000
+    }
+  ],
+  "topFirms": [
+    {
+      "name": "THE CORMAC GROUP, LLC",
+      "income": 1540000
+    },
+    {
+      "name": "POLSINELLI PC",
+      "income": 1270000
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "income": 980000
+    },
+    {
+      "name": "RICH FEUER ANDERSON",
+      "income": 750000
+    },
+    {
+      "name": "ALPINE GROUP PARTNERS, LLC.",
+      "income": 700000
+    },
+    {
+      "name": "ARNOLD & PORTER KAYE SCHOLER LLP",
+      "income": 630000
+    },
+    {
+      "name": "KINGHORN, HILBERT & ASSOCIATES",
+      "income": 395000
+    },
+    {
+      "name": "MILLER STRATEGIES, LLC",
+      "income": 380000
+    },
+    {
+      "name": "SIXKILLER CONSULTING, LLC",
+      "income": 300000
+    },
+    {
+      "name": "CALFEE, HALTER & GRISWOLD LLP",
+      "income": 300000
+    },
+    {
+      "name": "FORBES-TATE",
+      "income": 240000
+    },
+    {
+      "name": "CAPITOL SOLUTIONS, LLC (DC)",
+      "income": 220000
+    },
+    {
+      "name": "WASHINGTON MATTERS LLC",
+      "income": 180000
+    },
+    {
+      "name": "GEPHARDT GROUP GOVERNMENT AFFAIRS",
+      "income": 140000
+    },
+    {
+      "name": "A STREET STRATEGIES",
+      "income": 140000
+    },
+    {
+      "name": "KSG LLC, DBA KLEIN AND SAKS GROUP",
+      "income": 117750
+    },
+    {
+      "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "income": 110000
+    },
+    {
+      "name": "MONUMENT ADVOCACY",
+      "income": 80000
+    },
+    {
+      "name": "AMERICAN CAPITOL GROUP",
+      "income": 75000
+    },
+    {
+      "name": "BOCKORNY GROUP, INC.",
+      "income": 45000
+    },
+    {
+      "name": "GREENBERG TRAURIG, LLP",
+      "income": 30000
+    },
+    {
+      "name": "CALFEE STRATEGIC SOLUTIONS",
+      "income": 30000
+    },
+    {
+      "name": "DENTONS US LLP",
+      "income": 20000
+    },
+    {
+      "name": "KELLEY DRYE & WARREN LLP",
+      "income": 20000
+    },
+    {
+      "name": "PORTER GROUP, LLC",
+      "income": 20000
+    },
+    {
+      "name": "CGCN GROUP, LLC",
+      "income": 10000
+    }
+  ],
+  "sampleDescriptions": [
+    "Veterans administration (structure, benefits, services, and quality of care)   Family code (UCCJEA) Federal enforcement of parental rights. Veteran suicide epidemic (root causes, actions, programs, ac",
+    "Dollar coin series.",
+    "S.2399 and H.R.770, the \"American Innovation $1 Coin Act.\"",
+    "Work with National Park Service\nWork with the Congressional Baseball Caucus",
+    "Issues related to the one-cent coin, specifically S.759, the Currency Optimization Innovation and National Security (COINS) Act of 2017",
+    "Issues relating to currency and coins.",
+    "Issues related to currency and coins.; S. 1326 and H.R.770: American Innovation $1 Coin Act.",
+    "H.R. 770 - American Innovation $1 Coin Act; S.1326, S.2399 - American Innovation $1 Coin Act",
+    "Issues relating to promotion of the $1 coin",
+    "Tracking issues related to the Secretary of the Treasurys decision to provide meaning access to US Currency in accordance with the Courts judgment in American Council of the Blind, et al. v. Timothy F",
+    "Issues related to minting and coinage",
+    "S. 1503, Naismith Memorial Hall of Fame Commemorative Coin Bill",
+    "Issues relating to currency and coins",
+    "Administrative and legislative monitoring and outreach on various issues affecting the hard rock mining industry.\nMonitor administrative action on issues related to the NEPA review process.",
+    "H.R.770 - American Innovation $1 Coin Act; S.1326, S.2399 - American Innovation $1 Coin Act",
+    "Commemorative coins",
+    "Implementation of H.R.770, the \"American Innovation $1 Coin Act.\"  Continuation of America's Beautiful National Parks coin series.",
+    "Issues related to the one-cent coin",
+    "Issues related to the one cent coin; S 759 the Currency Optimization Innovation and National Security (COINS) Act",
+    "Tracking issues related to the Secretary of the Treasurys decision to provide meaningful access to US Currency in accordance with the Courts judgment in American Council of the Blind, et al. v. Timoth"
+  ],
+  "quarterlyTrend": [
+    {
+      "quarter": "2018-first_quarter",
+      "filings": 14,
+      "spending": 229383.33333333334
+    },
+    {
+      "quarter": "2018-fourth_quarter",
+      "filings": 15,
+      "spending": 254600
+    },
+    {
+      "quarter": "2018-second_quarter",
+      "filings": 11,
+      "spending": 176396.27976190476
+    },
+    {
+      "quarter": "2018-third_quarter",
+      "filings": 10,
+      "spending": 196050
+    },
+    {
+      "quarter": "2019-first_quarter",
+      "filings": 10,
+      "spending": 223515.625
+    },
+    {
+      "quarter": "2019-fourth_quarter",
+      "filings": 11,
+      "spending": 298150.73333333334
+    },
+    {
+      "quarter": "2019-second_quarter",
+      "filings": 10,
+      "spending": 197268.29268292684
+    },
+    {
+      "quarter": "2019-third_quarter",
+      "filings": 14,
+      "spending": 469346.081871345
+    },
+    {
+      "quarter": "2020-first_quarter",
+      "filings": 7,
+      "spending": 228333.33333333334
+    },
+    {
+      "quarter": "2020-fourth_quarter",
+      "filings": 10,
+      "spending": 312728.84210526315
+    },
+    {
+      "quarter": "2020-second_quarter",
+      "filings": 13,
+      "spending": 314152.2285714286
+    },
+    {
+      "quarter": "2020-third_quarter",
+      "filings": 12,
+      "spending": 725168.6507936508
+    },
+    {
+      "quarter": "2021-first_quarter",
+      "filings": 7,
+      "spending": 176220.2380952381
+    },
+    {
+      "quarter": "2021-fourth_quarter",
+      "filings": 10,
+      "spending": 163412.2909090909
+    },
+    {
+      "quarter": "2021-second_quarter",
+      "filings": 8,
+      "spending": 97708.33333333333
+    },
+    {
+      "quarter": "2021-third_quarter",
+      "filings": 9,
+      "spending": 107401.51428571428
+    },
+    {
+      "quarter": "2022-first_quarter",
+      "filings": 13,
+      "spending": 193777.77777777778
+    },
+    {
+      "quarter": "2022-fourth_quarter",
+      "filings": 9,
+      "spending": 232334.79047619048
+    },
+    {
+      "quarter": "2022-second_quarter",
+      "filings": 9,
+      "spending": 192039.6
+    },
+    {
+      "quarter": "2022-third_quarter",
+      "filings": 11,
+      "spending": 225467.46666666667
+    },
+    {
+      "quarter": "2023-first_quarter",
+      "filings": 7,
+      "spending": 99333.33333333334
+    },
+    {
+      "quarter": "2023-fourth_quarter",
+      "filings": 6,
+      "spending": 98333.33333333334
+    },
+    {
+      "quarter": "2023-second_quarter",
+      "filings": 6,
+      "spending": 90833.33333333333
+    },
+    {
+      "quarter": "2023-third_quarter",
+      "filings": 6,
+      "spending": 65833.33333333334
+    },
+    {
+      "quarter": "2024-first_quarter",
+      "filings": 6,
+      "spending": 101666.66666666666
+    },
+    {
+      "quarter": "2024-fourth_quarter",
+      "filings": 9,
+      "spending": 135666.66666666666
+    },
+    {
+      "quarter": "2024-second_quarter",
+      "filings": 4,
+      "spending": 123333.33333333334
+    },
+    {
+      "quarter": "2024-third_quarter",
+      "filings": 9,
+      "spending": 219242.42424242423
+    },
+    {
+      "quarter": "2025-first_quarter",
+      "filings": 6,
+      "spending": 163181.81818181818
+    },
+    {
+      "quarter": "2025-fourth_quarter",
+      "filings": 17,
+      "spending": 700810.606060606
+    },
+    {
+      "quarter": "2025-second_quarter",
+      "filings": 11,
+      "spending": 255181.81818181818
+    },
+    {
+      "quarter": "2025-third_quarter",
+      "filings": 16,
+      "spending": 456972.81639928697
+    }
+  ],
+  "totalEstimatedSpending": 7523845
+}

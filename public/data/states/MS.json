@@ -1,1 +1,329 @@
-{"abbreviation":"MS","name":"Mississippi","totalSpending":64466389,"totalFilings":3295,"clientCount":207,"yearlySpending":[{"year":2018,"income":5236461},{"year":2019,"income":5343614},{"year":2020,"income":6470350},{"year":2021,"income":6393850},{"year":2022,"income":6247000},{"year":2023,"income":15575600},{"year":2024,"income":8723067},{"year":2025,"income":10476447}],"topClients":[{"name":"MISSISSIPPI BAND OF CHOCTAW INDIANS","income":4190000},{"name":"NACCO INDUSTRIES, INC.","income":2620000},{"name":"UNIVERSITY OF MISSISSIPPI","income":1780000},{"name":"UNIVERSITY OF SOUTHERN MISSISSIPPI","income":1760000},{"name":"MISSISSIPPI STATE UNIVERSITY","income":1550000},{"name":"HYPERION TECHNOLOGY GROUP, INC.","income":1510000},{"name":"CATFISH FARMERS OF AMERICA","income":1406000},{"name":"LAMBERT-ST LOUIS INTERNATIONAL AIRPORT","income":1383335},{"name":"UTAH TRANSIT AUTHORITY (UTA)","income":1360000},{"name":"TENAX AEROSPACE","income":1299000},{"name":"ERGON, INC.","income":1215000},{"name":"SEA GRANT ASSOCIATION","income":1150000},{"name":"SANDERSON FARMS, INC.","income":1085000},{"name":"C SPIRE","income":1080000},{"name":"CITY OF ST LOUIS","income":1044679},{"name":"SUPERIOR OPTICAL LABS, INC.","income":1010000},{"name":"TAYLOR DEFENSE PRODUCTS, LLC","income":982500},{"name":"EDGETHEORY","income":980000},{"name":"NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS (NAEMT)","income":973175},{"name":"UNITED STATES MARINE, INC.","income":950000},{"name":"HERO HOMES","income":945000},{"name":"MADISON COUNTY BOARD OF SUPERVISORS","income":870000},{"name":"ERGON INC","income":857500},{"name":"JACKSON MUNICIPAL AIRPORT AUTHORITY","income":850000},{"name":"V2X, INC. (FORMERLY KNOWN AS VERTEX AEROSPACE)","income":822500},{"name":"CAMGIAN CORPORATION (FKA CAMGIAN MICROSYSTEMS CORPORATION)","income":790000},{"name":"CITY OF BILOXI","income":780000},{"name":"HINDS COMMUNITY COLLEGE","income":760000},{"name":"PARK CITY UTAH","income":760000},{"name":"MISSISSIPPI DEVELOPMENT AUTHORITY","income":720000},{"name":"METRO","income":683750},{"name":"CITY OF GAUTIER","income":680000},{"name":"HOPE ENTERPRISE CORPORATION","income":670000},{"name":"SANDERSON FARMS. INC","income":645000},{"name":"NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS","income":640000},{"name":"HANCOCK COUNTY PORT AND HARBOR COMMISSION","income":630000},{"name":"DELTA CAPITAL RESEARCH LLC","income":620000},{"name":"JACKSON REDEVELOPMENT AUTHORITY","income":600000},{"name":"FOUNDATION FOR MISSISSIPPI HISTORY","income":560000},{"name":"RANKIN HINDS PEARL RIVER FLOOD & DRAINAGE CONTROL DISTRICT","income":540000},{"name":"AMERICAN SHRIMP PROCESSORS ASSOCIATION","income":510000},{"name":"THREE RIVERS PLANNING & DEVELOPMENT DISTRICT","income":500000},{"name":"EAVES LAW FIRM","income":475000},{"name":"ALABAMA EXPORT RAILROAD","income":470000},{"name":"MISSISSIPPI STATE PORT AUTHORITY AT GULFPORT","income":470000},{"name":"TRIBAL SOLUTIONS GROUP","income":460000},{"name":"HAMMACK, BARRY, THAGGARD & MAY, LLP","income":450000},{"name":"TRIBAL SOLUTIONS MEDICAL LLC","income":430000},{"name":"CITY OF CLINTON","income":427500},{"name":"AMERICAN SHRIMP PROCESSORS ASSOC","income":400000}],"topIssues":[{"code":"BUD","income":24326614},{"code":"DEF","income":12180000},{"code":"TRA","income":8288350},{"code":"AGR","income":6731000},{"code":"EDU","income":5940700},{"code":"HCR","income":5499675},{"code":"GOV","income":4638000},{"code":"ENG","income":4195000},{"code":"HOM","income":4190985},{"code":"NAT","income":4065000},{"code":"TAX","income":4065000},{"code":"LAW","income":3965000},{"code":"SCI","income":3890250},{"code":"AER","income":3762750},{"code":"GAM","income":3680000},{"code":"ROD","income":3273135},{"code":"IND","income":3185000},{"code":"VET","income":3015000},{"code":"ECN","income":3000500},{"code":"MAR","income":2595000}]}
+{
+  "abbreviation": "MS",
+  "name": "Mississippi",
+  "totalSpending": 64466389,
+  "totalFilings": 3295,
+  "clientCount": 207,
+  "yearlySpending": [
+    {
+      "year": 2018,
+      "income": 5236461
+    },
+    {
+      "year": 2019,
+      "income": 5343614
+    },
+    {
+      "year": 2020,
+      "income": 6470350
+    },
+    {
+      "year": 2021,
+      "income": 6393850
+    },
+    {
+      "year": 2022,
+      "income": 6247000
+    },
+    {
+      "year": 2023,
+      "income": 15575600
+    },
+    {
+      "year": 2024,
+      "income": 8723067
+    },
+    {
+      "year": 2025,
+      "income": 10476447
+    }
+  ],
+  "topClients": [
+    {
+      "name": "MISSISSIPPI BAND OF CHOCTAW INDIANS",
+      "income": 4190000
+    },
+    {
+      "name": "NACCO INDUSTRIES, INC.",
+      "income": 2620000
+    },
+    {
+      "name": "UNIVERSITY OF MISSISSIPPI",
+      "income": 1780000
+    },
+    {
+      "name": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+      "income": 1760000
+    },
+    {
+      "name": "MISSISSIPPI STATE UNIVERSITY",
+      "income": 1550000
+    },
+    {
+      "name": "HYPERION TECHNOLOGY GROUP, INC.",
+      "income": 1510000
+    },
+    {
+      "name": "CATFISH FARMERS OF AMERICA",
+      "income": 1406000
+    },
+    {
+      "name": "LAMBERT-ST LOUIS INTERNATIONAL AIRPORT",
+      "income": 1383335
+    },
+    {
+      "name": "UTAH TRANSIT AUTHORITY (UTA)",
+      "income": 1360000
+    },
+    {
+      "name": "TENAX AEROSPACE",
+      "income": 1299000
+    },
+    {
+      "name": "ERGON, INC.",
+      "income": 1215000
+    },
+    {
+      "name": "SEA GRANT ASSOCIATION",
+      "income": 1150000
+    },
+    {
+      "name": "SANDERSON FARMS, INC.",
+      "income": 1085000
+    },
+    {
+      "name": "C SPIRE",
+      "income": 1080000
+    },
+    {
+      "name": "CITY OF ST LOUIS",
+      "income": 1044679
+    },
+    {
+      "name": "SUPERIOR OPTICAL LABS, INC.",
+      "income": 1010000
+    },
+    {
+      "name": "TAYLOR DEFENSE PRODUCTS, LLC",
+      "income": 982500
+    },
+    {
+      "name": "EDGETHEORY",
+      "income": 980000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS (NAEMT)",
+      "income": 973175
+    },
+    {
+      "name": "UNITED STATES MARINE, INC.",
+      "income": 950000
+    },
+    {
+      "name": "HERO HOMES",
+      "income": 945000
+    },
+    {
+      "name": "MADISON COUNTY BOARD OF SUPERVISORS",
+      "income": 870000
+    },
+    {
+      "name": "ERGON INC",
+      "income": 857500
+    },
+    {
+      "name": "JACKSON MUNICIPAL AIRPORT AUTHORITY",
+      "income": 850000
+    },
+    {
+      "name": "V2X, INC. (FORMERLY KNOWN AS VERTEX AEROSPACE)",
+      "income": 822500
+    },
+    {
+      "name": "CAMGIAN CORPORATION (FKA CAMGIAN MICROSYSTEMS CORPORATION)",
+      "income": 790000
+    },
+    {
+      "name": "CITY OF BILOXI",
+      "income": 780000
+    },
+    {
+      "name": "HINDS COMMUNITY COLLEGE",
+      "income": 760000
+    },
+    {
+      "name": "PARK CITY UTAH",
+      "income": 760000
+    },
+    {
+      "name": "MISSISSIPPI DEVELOPMENT AUTHORITY",
+      "income": 720000
+    },
+    {
+      "name": "METRO",
+      "income": 683750
+    },
+    {
+      "name": "CITY OF GAUTIER",
+      "income": 680000
+    },
+    {
+      "name": "HOPE ENTERPRISE CORPORATION",
+      "income": 670000
+    },
+    {
+      "name": "SANDERSON FARMS. INC",
+      "income": 645000
+    },
+    {
+      "name": "NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS",
+      "income": 640000
+    },
+    {
+      "name": "HANCOCK COUNTY PORT AND HARBOR COMMISSION",
+      "income": 630000
+    },
+    {
+      "name": "DELTA CAPITAL RESEARCH LLC",
+      "income": 620000
+    },
+    {
+      "name": "JACKSON REDEVELOPMENT AUTHORITY",
+      "income": 600000
+    },
+    {
+      "name": "FOUNDATION FOR MISSISSIPPI HISTORY",
+      "income": 560000
+    },
+    {
+      "name": "RANKIN HINDS PEARL RIVER FLOOD & DRAINAGE CONTROL DISTRICT",
+      "income": 540000
+    },
+    {
+      "name": "AMERICAN SHRIMP PROCESSORS ASSOCIATION",
+      "income": 510000
+    },
+    {
+      "name": "THREE RIVERS PLANNING & DEVELOPMENT DISTRICT",
+      "income": 500000
+    },
+    {
+      "name": "EAVES LAW FIRM",
+      "income": 475000
+    },
+    {
+      "name": "ALABAMA EXPORT RAILROAD",
+      "income": 470000
+    },
+    {
+      "name": "MISSISSIPPI STATE PORT AUTHORITY AT GULFPORT",
+      "income": 470000
+    },
+    {
+      "name": "TRIBAL SOLUTIONS GROUP",
+      "income": 460000
+    },
+    {
+      "name": "HAMMACK, BARRY, THAGGARD & MAY, LLP",
+      "income": 450000
+    },
+    {
+      "name": "TRIBAL SOLUTIONS MEDICAL LLC",
+      "income": 430000
+    },
+    {
+      "name": "CITY OF CLINTON",
+      "income": 427500
+    },
+    {
+      "name": "AMERICAN SHRIMP PROCESSORS ASSOC",
+      "income": 400000
+    }
+  ],
+  "topIssues": [
+    {
+      "code": "BUD",
+      "income": 24326614
+    },
+    {
+      "code": "DEF",
+      "income": 12180000
+    },
+    {
+      "code": "TRA",
+      "income": 8288350
+    },
+    {
+      "code": "AGR",
+      "income": 6731000
+    },
+    {
+      "code": "EDU",
+      "income": 5940700
+    },
+    {
+      "code": "HCR",
+      "income": 5499675
+    },
+    {
+      "code": "GOV",
+      "income": 4638000
+    },
+    {
+      "code": "ENG",
+      "income": 4195000
+    },
+    {
+      "code": "HOM",
+      "income": 4190985
+    },
+    {
+      "code": "NAT",
+      "income": 4065000
+    },
+    {
+      "code": "TAX",
+      "income": 4065000
+    },
+    {
+      "code": "LAW",
+      "income": 3965000
+    },
+    {
+      "code": "SCI",
+      "income": 3890250
+    },
+    {
+      "code": "AER",
+      "income": 3762750
+    },
+    {
+      "code": "GAM",
+      "income": 3680000
+    },
+    {
+      "code": "ROD",
+      "income": 3273135
+    },
+    {
+      "code": "IND",
+      "income": 3185000
+    },
+    {
+      "code": "VET",
+      "income": 3015000
+    },
+    {
+      "code": "ECN",
+      "income": 3000500
+    },
+    {
+      "code": "MAR",
+      "income": 2595000
+    }
+  ],
+  "perCapita": 20.05,
+  "population": 2939690,
+  "nationalRank": 38,
+  "perCapitaRank": 44
+}

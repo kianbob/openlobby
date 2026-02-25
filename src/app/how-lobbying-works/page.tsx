@@ -143,6 +143,36 @@ export default function HowLobbyingWorksPage() {
           <p className="text-sm text-gray-600 mt-1">Deep-dive articles</p>
         </Link>
       </div>
+
+      <div className="mt-12">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Dive Deeper</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/investigations/what-is-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📖 What Is Lobbying?</div>
+            <div className="text-xs text-gray-500 mt-1">The complete explainer guide</div>
+          </Link>
+          <Link href="/investigations/lobbying-statistics" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📊 Lobbying Statistics 2025</div>
+            <div className="text-xs text-gray-500 mt-1">The definitive numbers</div>
+          </Link>
+          <Link href="/investigations/follow-the-money" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💰 Follow the Money</div>
+            <div className="text-xs text-gray-500 mt-1">Where lobbying dollars actually go</div>
+          </Link>
+          <Link href="/tech-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💻 Tech Lobbying</div>
+            <div className="text-xs text-gray-500 mt-1">Industry overview</div>
+          </Link>
+          <Link href="/pharmaceutical-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💊 Pharma Lobbying</div>
+            <div className="text-xs text-gray-500 mt-1">Industry overview</div>
+          </Link>
+          <Link href="/defense-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🛡️ Defense Lobbying</div>
+            <div className="text-xs text-gray-500 mt-1">Industry overview</div>
+          </Link>
+        </div>
+      </div>
     </article>
   )
 }
