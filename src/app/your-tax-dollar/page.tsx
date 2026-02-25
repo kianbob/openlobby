@@ -78,7 +78,7 @@ export default function YourTaxDollarPage() {
             <div className="w-16 text-right text-sm font-medium">${ind.amount.toFixed(2)}</div>
           </div>
         ))}
-        <p className="text-xs text-gray-500 mt-2">*Based on $2.7B total lobbying spend and approximate industry shares from our data.</p>
+        <p className="text-xs text-gray-500 mt-2">*Based on $6.0B total lobbying spend and approximate industry shares from our data.</p>
       </div>
 
       {/* Key context */}

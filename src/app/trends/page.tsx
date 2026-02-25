@@ -112,7 +112,7 @@ export default function TrendsPage() {
             </div>
             <div className="flex flex-wrap gap-4 mt-3 text-xs text-gray-500">
               <span className="flex items-center gap-1"><span className="w-3 h-0.5 bg-red-500 inline-block"></span> COVID-era surge (2020)</span>
-              <span className="flex items-center gap-1"><span className="w-3 h-0.5 bg-amber-500 inline-block"></span> 2025 all-time record ($2.7B)</span>
+              <span className="flex items-center gap-1"><span className="w-3 h-0.5 bg-amber-500 inline-block"></span> 2025 all-time record ($6.0B)</span>
             </div>
           </section>
 

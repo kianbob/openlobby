@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 const facts = [
   { stat: '$2,101', label: 'Average return for every $1 spent on lobbying' },
   { stat: '5,000+', label: 'Former government officials now work as lobbyists' },
-  { stat: '$2.7B', label: 'Record lobbying spending in 2025 alone' },
+  { stat: '$6.0B', label: 'Record lobbying spending in 2025 alone' },
   { stat: '2,485%', label: 'Surge in Constitution lobbying (2025 vs 2024)' },
   { stat: '561%', label: 'Increase in tariff lobbying after 2025 tariffs' },
   { stat: '8,187x', label: 'McKesson\'s return: $1.45M lobbied → $11.8B in contracts' },

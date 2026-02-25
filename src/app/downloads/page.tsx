@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 }
 
 const dataFiles = [
-  { name: 'Top Clients', file: 'top-clients.json', desc: 'Top 5,000 lobbying clients by spending', size: '~2MB' },
+  { name: 'Top Clients', file: 'top-clients.json', desc: 'Top 32,000+ lobbying clients by spending', size: '~4MB' },
   { name: 'Top Firms', file: 'top-firms.json', desc: 'Top 2,000 lobbying firms by income', size: '~500KB' },
   { name: 'Top Lobbyists', file: 'top-lobbyists.json', desc: 'Top 5,000 lobbyists by filing count', size: '~1MB' },
   { name: 'Revolving Door', file: 'revolving-door.json', desc: 'Lobbyists with prior government positions', size: '~1MB' },
@@ -18,6 +18,7 @@ const dataFiles = [
   { name: 'Foreign Entities', file: 'foreign-entities.json', desc: 'Foreign entities involved in US lobbying', size: '~200KB' },
   { name: 'States', file: 'state-index.json', desc: 'Lobbying spending by client state', size: '~5KB' },
   { name: 'Stats', file: 'stats.json', desc: 'Overall summary statistics', size: '~2KB' },
+  { name: 'Government Entities', file: 'gov-entities.json', desc: '240 government agencies targeted by lobbyists', size: '~500KB' },
   { name: 'Surge Tracker', file: 'surge-tracker.json', desc: 'Quarter-over-quarter lobbying surges by issue', size: '~50KB' },
   { name: 'Text Analysis', file: 'text-analysis.json', desc: 'Word frequency and bill mentions from lobbying descriptions', size: '~100KB' },
   { name: 'Network Analysis', file: 'network-analysis.json', desc: 'Lobbyist network connections, multi-firm relationships', size: '~200KB' },
