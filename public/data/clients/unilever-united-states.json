@@ -1,11 +1,1 @@
-{
-  "name": "UNILEVER UNITED STATES",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":154229,"name":"UNILEVER UNITED STATES","slug":"unilever-united-states","state":"NJ","country":"United States of America","description":"Food and products manufacturer","totalSpending":0,"filings":15,"yearlySpending":[{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":0},{"year":2024,"income":0}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["LIEBMAN & ASSOCIATES, INC."],"lobbyists":["MURRAY LIEBMAN"],"govEntities":["Energy, Dept of"],"sampleDescriptions":["Clean and sustainable energy technology research, development, and demonstration","Clean and sustainable energy technology research, development and demonstration","Clean and sustainable energy technology research, development, and demonstration"]}

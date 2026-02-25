@@ -113,7 +113,7 @@ export default function TextAnalysisPage() {
           <span className="text-2xl">🤖</span>
           <div>
             <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
-            <p className="text-gray-700 text-sm leading-relaxed">By analyzing the text of 650,000+ lobbying disclosures, we can see exactly what lobbyists are telling Congress. The most frequently mentioned bills, the buzzwords that signal industry priorities, and the specific policy language that reveals what companies really want. This is the closest thing to reading lobbyists&apos; playbooks.</p>
+            <p className="text-gray-700 text-sm leading-relaxed">By analyzing the text of 726,000+ lobbying disclosures, we can see exactly what lobbyists are telling Congress. The most frequently mentioned bills, the buzzwords that signal industry priorities, and the specific policy language that reveals what companies really want. This is the closest thing to reading lobbyists&apos; playbooks.</p>
           </div>
         </div>
       </div>

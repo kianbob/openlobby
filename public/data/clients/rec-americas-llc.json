@@ -1,11 +1,1 @@
-{
-  "name": "REC AMERICAS, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":201241,"name":"REC AMERICAS, LLC","slug":"rec-americas-llc","state":"CA","country":"United States of America","description":"&#226;€‹Solar Energy Company","totalSpending":150000,"filings":5,"yearlySpending":[{"year":2018,"income":150000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","DANIEL MCFAUL"],"govEntities":["U.S. Trade Representative (USTR)","White House Office","Natl Economic Council (NEC)"],"sampleDescriptions":["The registrant will advise and advocate for the client on general government policies and regulations.","Solar Panel Trade Policy & Tariffs","Solar Panel Trade Policy & Tariffs","Solar Panel Trade Policy & Tariffs","Solar Panel Trade Policy & Tariffs"]}

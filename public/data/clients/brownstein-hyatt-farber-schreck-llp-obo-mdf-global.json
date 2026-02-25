@@ -1,11 +1,1 @@
-{
-  "name": "BROWNSTEIN HYATT FARBER SCHRECK LLP OBO MDF GLOBAL",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69902,"name":"BROWNSTEIN HYATT FARBER SCHRECK LLP OBO MDF GLOBAL","slug":"brownstein-hyatt-farber-schreck-llp-obo-mdf-global","state":"AK","country":"United States of America","description":"Critical mineral discovery and development company","totalSpending":0,"filings":2,"yearlySpending":[{"year":2025,"income":0}],"issues":[{"code":"NAT","display":"Natural Resources"}],"firms":["NORTHERN COMPASS GROUP LLC"],"lobbyists":["MARK BEGICH"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to offtake agreements for Alaska's antimony supply.","Issues related to offtake agreements for Alaska's antimony supply."]}

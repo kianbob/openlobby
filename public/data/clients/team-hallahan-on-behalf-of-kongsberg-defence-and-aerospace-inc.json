@@ -1,11 +1,1 @@
-{
-  "name": "TEAM HALLAHAN ON BEHALF OF KONGSBERG DEFENCE AND AEROSPACE, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":52344,"name":"TEAM HALLAHAN ON BEHALF OF KONGSBERG DEFENCE AND AEROSPACE, INC.","slug":"team-hallahan-on-behalf-of-kongsberg-defence-and-aerospace-inc","state":"DC","country":"United States of America","description":"Government affairs firm","totalSpending":135000,"filings":11,"yearlySpending":[{"year":2022,"income":35000},{"year":2023,"income":75000},{"year":2024,"income":25000}],"issues":[{"code":"AVI","display":"Aviation/Airlines/Airports"}],"firms":["SULLIVAN STRATEGIES LLC (FKA SB CAPITOL SOLUTIONS)"],"lobbyists":["SUZANNE SULLIVAN"],"govEntities":["Federal Aviation Administration (FAA)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["FY 23 THUD Appropriations; FAA's remote tower program","FY 23 THUD Appropriations; FAA's remote tower program","FY 23 THUD Appropriations; FAA's remote tower program","FY 23 THUD Appropriations; FAA's remote tower program","Advanced Air Mobility programs, Remote air traffic control tower program, and UAS issues; FY 24 Transportation, Housing and Urban Development and Related Agencies Appropriations; Infrastructure Invest"]}

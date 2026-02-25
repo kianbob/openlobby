@@ -5,21 +5,21 @@ import ShareStatCards from './ShareStatCards'
 
 export const metadata: Metadata = {
   title: 'Lobbying Spending in Perspective | OpenLobby',
-  description: 'Put $15.2 billion in lobbying spending into context with relatable comparisons — from NASA budgets to teacher salaries.',
+  description: 'Put $37.7 billion in lobbying spending into context with relatable comparisons — from NASA budgets to teacher salaries.',
   openGraph: {
     title: 'Lobbying Spending in Perspective',
-    description: '$15.2B in lobbying spending since 2018. Here\'s what that actually means.',
+    description: '$37.7B in lobbying spending since 2018. Here\'s what that actually means.',
     type: 'website',
   },
 }
 
 const comparisons = [
   {
-    bigNumber: '$15.2B',
+    bigNumber: '$37.7B',
     headline: '60% of NASA\'s Budget',
     description: 'Total lobbying spending since 2018 equals about 60% of NASA\'s annual budget ($25.4B). Corporate lobbyists nearly outspend rocket science.',
     source: 'NASA FY2024 budget; OpenLobby data 2018–2025',
-    tweet: '💰 $15.2 BILLION in lobbying since 2018 — that\'s 60% of NASA\'s entire annual budget. Corporate influence nearly outspends rocket science. via @OpenLobby',
+    tweet: '💰 $37.7 BILLION in lobbying since 2018 — that\'s 60% of NASA\'s entire annual budget. Corporate influence nearly outspends rocket science. via @OpenLobby',
     color: 'from-indigo-500 to-blue-600',
     emoji: '🚀',
   },
@@ -62,9 +62,9 @@ const comparisons = [
   {
     bigNumber: '60,000',
     headline: 'Homes at Median Price',
-    description: '$15.2B in lobbying could buy 60,000 homes at the US median price of $253K (2018 median). That\'s enough to house a small city.',
+    description: '$37.7B in lobbying could buy 149,000 homes at the US median price of $253K (2018 median). That\'s enough to house a small city.',
     source: 'US Census median home price; OpenLobby data',
-    tweet: '🏠 $15.2B in lobbying spending could buy 60,000 homes at the US median price. That\'s a whole city. via @OpenLobby',
+    tweet: '🏠 $37.7B in lobbying spending could buy 60,000 homes at the US median price. That\'s a whole city. via @OpenLobby',
     color: 'from-violet-500 to-purple-600',
     emoji: '🏠',
   },
@@ -88,7 +88,7 @@ export default function CompareSpendingPage() {
         Lobbying Spending in Perspective
       </h1>
       <p className="text-gray-600 mb-10 max-w-3xl text-lg">
-        $15.2 billion is hard to wrap your head around. These comparisons put lobbying spending 
+        $37.7 billion is hard to wrap your head around. These comparisons put lobbying spending 
         in context — and make it easy to share.
       </p>
 

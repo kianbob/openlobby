@@ -1,11 +1,1 @@
-{
-  "name": "MITSUBISHI ELECTRIC US, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":166355,"name":"MITSUBISHI ELECTRIC US INC","slug":"mitsubishi-electric-us-inc","state":"VA","country":"United States of America","description":"","totalSpending":1910000,"filings":33,"yearlySpending":[{"year":2018,"income":190000},{"year":2019,"income":160000},{"year":2020,"income":140000},{"year":2021,"income":140000},{"year":2022,"income":320000},{"year":2023,"income":240000},{"year":2024,"income":320000},{"year":2025,"income":400000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"DEF","display":"Defense"},{"code":"ENG","display":"Energy/Nuclear"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"},{"code":"MAN","display":"Manufacturing"}],"firms":["MITSUBISHI ELECTRIC US, INC."],"lobbyists":["PETER SALAVANTIS","CORRY MARSHALL"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE","Natl Economic Council (NEC)","U.S. Trade Representative (USTR)","Energy, Dept of","Defense, Dept of (DOD)","Environmental Protection Agency (EPA)","White House Office","Natl Security Council (NSC)"],"sampleDescriptions":["Potential imposition of tariffs and/or quotas on imports of steel, including grain oriented electrical steel and negative impact on large power transformer manufacturers in the US including Mitsubishi","- Negative impact of 25% tariffs on certain components from China on U.S. manufacturing facilities.\n- Negative impact of tariffs on automotive part imports on U.S. manufacturing facilities.\n- Support ","- Negative impact of 25% tariffs on certain components from China on U.S. manufacturing facilities.\n- Negative impact of tariffs on automotive part imports on U.S. manufacturing facilities.","- Negative impact of Section 301 tariffs on US manufacturing operations.","-Impact of 25% Section 301 tariffs on US manufacturing facilities."]}

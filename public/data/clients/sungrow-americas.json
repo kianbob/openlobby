@@ -1,11 +1,1 @@
-{
-  "name": "SUNGROW AMERICAS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":211287,"name":"SUNGROW AMERICAS","slug":"sungrow-americas","state":"CA","country":"United States of America","description":"Solar Energy Component Supplier","totalSpending":560000,"filings":16,"yearlySpending":[{"year":2021,"income":80000},{"year":2022,"income":160000},{"year":2023,"income":160000},{"year":2024,"income":160000},{"year":2025,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"ENG","display":"Energy/Nuclear"},{"code":"HOM","display":"Homeland Security"}],"firms":["FBB FEDERAL RELATIONS"],"lobbyists":["RAY BUCHEGER","PETER FRIEDMANN","MADISON HITE"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Energy, Dept of","Treasury, Dept of"],"sampleDescriptions":["Promote renewable energy deployment and advise on related cybersecurity standards and import restrictions.","Promote renewable energy deployment and advise on related cybersecurity standards and import restrictions.","Promote renewable energy deployment and advise on related cybersecurity standards and import restrictions.","Promote renewable energy deployment and advise on related cybersecurity standards and import restrictions.","Promote renewable energy deployment and advise on related cybersecurity standards and import restrictions."]}

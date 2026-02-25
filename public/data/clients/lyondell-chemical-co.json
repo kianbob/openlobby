@@ -1,11 +1,1 @@
-{
-  "name": "LYONDELL CHEMICAL CO",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":132886,"name":"LYONDELL CHEMICAL CO","slug":"lyondell-chemical-co","state":"TX","country":"United States of America","description":"Chemical manufacturer.","totalSpending":400000,"filings":27,"yearlySpending":[{"year":2018,"income":0},{"year":2019,"income":0},{"year":2021,"income":160000},{"year":2022,"income":20000},{"year":2023,"income":0},{"year":2024,"income":70000},{"year":2025,"income":150000}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["MILLER & CHEVALIER CHARTERED"],"lobbyists":["JORGE CASTRO","ROCCO FEMIA","LAYLA ASALI"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Internal Revenue Service (IRS)","Treasury, Dept of"],"sampleDescriptions":["Tax policy issues relating to the CARES Act and net operating losses.","Tax policy issues relating to the CARES Act and net operating losses.","Tax policy issues relating to the CARES Act and net operating losses.","Tax policy issues relating to proposed corporate and international tax reforms, including a worldwide limitation on interest deductions and the REDUCE Act of 2021 (S. 2645/H.R. 5389, which proposes an","Tax policy issues relating to proposed corporate and international tax reforms, including a worldwide limitation on interest deductions and the REDUCE Act of 2021 (S. 2645/H.R. 5389, which proposes an"]}

@@ -1,11 +1,1 @@
-{
-  "name": "HUAWEI TECHNOLOGY USA, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":210840,"name":"HUAWEI TECHNOLOGY USA, INC.","slug":"huawei-technology-usa-inc","state":"TX","country":"United States of America","description":"Telecommunications networks and products","totalSpending":0,"filings":2,"yearlySpending":[{"year":2021,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"SCI","display":"Science/Technology"},{"code":"COM","display":"Communications/Broadcasting/Radio/TV"},{"code":"TEC","display":"Telecommunications"},{"code":"CPI","display":"Computer Industry"},{"code":"HOM","display":"Homeland Security"},{"code":"ACC","display":"Accounting"}],"firms":["J.S. HELD, LLC"],"lobbyists":["FRANK HOLDER","WILLIAM MARQUARDT"],"govEntities":[],"sampleDescriptions":["Foreign investment; telecommunications; export controls; trade and economic sanctions; National Defense Authorization Act","Foreign investment; telecommunications; export controls; trade and economic sanctions; National Defense Authorization Act","Foreign investment; telecommunications; export controls; trade and economic sanctions; National Defense Authorization Act","Foreign investment; telecommunications; export controls; trade and economic sanctions; National Defense Authorization Act","Foreign investment; telecommunications; export controls; trade and economic sanctions; National Defense Authorization Act"]}

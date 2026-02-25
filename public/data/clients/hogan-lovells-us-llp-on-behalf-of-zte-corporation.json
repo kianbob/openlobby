@@ -1,11 +1,1 @@
-{
-  "name": "HOGAN LOVELLS US LLP (ON BEHALF OF ZTE CORPORATION)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202372,"name":"HOGAN LOVELLS US LLP (ON BEHALF OF ZTE CORPORATION)","slug":"hogan-lovells-us-llp-on-behalf-of-zte-corporation","state":"DC","country":"United States of America","description":"Law Firm","totalSpending":480000,"filings":7,"yearlySpending":[{"year":2018,"income":50000},{"year":2019,"income":430000},{"year":2020,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"TEC","display":"Telecommunications"}],"firms":["BLACK DIAMOND STRATEGIES LLC"],"lobbyists":["CONNIE MACK","DOUGLAS DAVENPORT","RICK WILEY"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Commerce, Dept of (DOC)","Treasury, Dept of","White House Office"],"sampleDescriptions":["S. 3455, \"ZTE Enforcement Review and Oversight Act\"\nH.R. 7255, \"Telecommunications Denial Order Enforcement Act\"","S. 3455, \"ZTE Enforcement Review and Oversight Act\"\nH.R. 7255, \"Telecommunications Denial Order Enforcement Act\"","S. 3455, \"ZTE Enforcement Review and Oversight Act\" \nH.R. 7255, \"Telecommunications Denial Order Enforcement Act\"","S. 3455, \"ZTE Enforcement Review and Oversight Act\" \nH.R. 7255, \"Telecommunications Denial Order Enforcement Act\"","S. 335, \"ZTE Enforcement Review & Oversight Act\"\nH.R. 602, \"Telecommunications Denial Order Enforcement Act\""]}

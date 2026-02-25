@@ -1,11 +1,1 @@
-{
-  "name": "SIBELCO NORTH AMERICA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":61473,"name":"SIBELCO NORTH AMERICA","slug":"sibelco-north-america","state":"NC","country":"United States of America","description":"Global material solutions company: mine, process and sell industrial minerals","totalSpending":350000,"filings":7,"yearlySpending":[{"year":2024,"income":100000},{"year":2025,"income":250000}],"issues":[{"code":"ENV","display":"Environment/Superfund"},{"code":"MAN","display":"Manufacturing"},{"code":"NAT","display":"Natural Resources"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["LSN PARTNERS, LLC"],"lobbyists":["TOM QUINN"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE","U.S. Geological Survey (USGS)","Energy, Dept of"],"sampleDescriptions":["High Purity Quartz and mining related issues","High Purity Quartz and mining related issues","High Purity Quartz and mining related issues","High Purity Quartz and mining related issues","Critical Minerals, Mining and Exporting related issues"]}

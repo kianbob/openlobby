@@ -1,11 +1,1 @@
-{
-  "name": "FLOW-LINER SYSTEMS, LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":187457,"name":"FLOW-LINER SYSTEMS, LTD.","slug":"flow-liner-systems-ltd","state":"OH","country":"United States of America","description":"Supplies & installs innovative PET lining to rehabilitate lead service lines.","totalSpending":0,"filings":22,"yearlySpending":[{"year":2018,"income":0},{"year":2019,"income":0},{"year":2020,"income":0},{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":0}],"issues":[{"code":"GOV","display":"Government Issues"},{"code":"CHM","display":"Chemicals/Chemical Industry"},{"code":"CSP","display":"Consumer Issues/Safety/Products"},{"code":"MAN","display":"Manufacturing"},{"code":"URB","display":"Urban Development/Municipalities"},{"code":"ECN","display":"Economics/Economic Development"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"ENV","display":"Environment/Superfund"},{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"},{"code":"CAW","display":"Clean Air and Water (quality)"}],"firms":["CANSLER CONSULTING, LLC"],"lobbyists":["TIMOTHY CANSLER"],"govEntities":["Environmental Protection Agency (EPA)","HOUSE OF REPRESENTATIVES","SENATE","Office of Management & Budget (OMB)","White House Office"],"sampleDescriptions":["Issues relating to structural lining of drinking water service lines.","Issues relating to structural lining of drinking water service lines.","Issues relating to structural lining of drinking water service lines.","Issues relating to structural lining of drinking water service lines.","Issues relating to structural lining of drinking water service lines."]}

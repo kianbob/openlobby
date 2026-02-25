@@ -1,11 +1,1 @@
-{
-  "name": "ARKEMA INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":211952,"name":"ARKEMA INC.","slug":"arkema-inc","state":"PA","country":"United States of America","description":"A specialty chemicals and advanced materials company","totalSpending":820000,"filings":16,"yearlySpending":[{"year":2021,"income":70000},{"year":2022,"income":240000},{"year":2023,"income":240000},{"year":2024,"income":240000},{"year":2025,"income":30000}],"issues":[{"code":"ENV","display":"Environment/Superfund"},{"code":"CHM","display":"Chemicals/Chemical Industry"},{"code":"MAN","display":"Manufacturing"}],"firms":["FTI GOVERNMENT AFFAIRS"],"lobbyists":["ABIGAIL AVERY","BRYAN ZUMWALT","RUSS KELLEY","JOHN STEITZ","IAN WHITSON","TESS PETERSON"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Executive Office of the President (EOP)"],"sampleDescriptions":["Advisory and advocacy services focused on chemical management and environmental issues.","Advisory and advocacy services focused on chemical management and environmental issues.","Advisory and advocacy services focused on chemical management and environmental issues","Advisory and advocacy services focused on Chemical Management and environmental issues","Advisory and advocacy services focused on Chemical Management and environmental issues"]}

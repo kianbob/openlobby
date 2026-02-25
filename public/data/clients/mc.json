@@ -1,11 +1,1 @@
-{
-  "name": "MC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":204047,"name":"MC","slug":"mc","state":"NJ","country":"United States of America","description":"&#226;€‹Exhibits and event production","totalSpending":10000,"filings":5,"yearlySpending":[{"year":2020,"income":10000}],"issues":[{"code":"SMB","display":"Small Business"}],"firms":["BRYAN CAVE LEIGHTON PAISNER LLP"],"lobbyists":["DAVID RUSSELL","MATT JESSEE"],"govEntities":["Executive Office of the President (EOP)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Event production issues related to CARES Act","Event production issues related to CARES Act","Event production issues related to CARES Act"]}

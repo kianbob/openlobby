@@ -1,11 +1,1 @@
-{
-  "name": "NESTLE USA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":200700,"name":"NESTLE USA","slug":"nestle-usa","state":"DC","country":"United States of America","description":"food processing.","totalSpending":20000,"filings":4,"yearlySpending":[{"year":2018,"income":20000}],"issues":[{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["MS. LOUISE HILSEN"],"lobbyists":["LOUISE HILSEN"],"govEntities":["Labor, Dept of (DOL)"],"sampleDescriptions":["Continued implementation of the 2010 US Department of Labor Framework of Action in fulfillment of the Harkin/Engel protocol.","Implementation of the Trade Facilitation and Trade Enforcement Act of 2016","Continued implementation of the 2010 US Department of Labor Framework of Action in fulfillment of the Harkin/Engel protocol.","Implementation of the Trade Facilitation and Trade Enforcement Act of 2016","Implementation of the Trade Facilitation and Trade Enforcement Act of 2016"]}

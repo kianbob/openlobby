@@ -1,11 +1,1 @@
-{
-  "name": "NATIXIS NORTH AMERICA LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":208990,"name":"NATIXIS NORTH AMERICA LLC","slug":"natixis-north-america-llc","state":"NY","country":"United States of America","description":"","totalSpending":190000,"filings":21,"yearlySpending":[{"year":2021,"income":50000},{"year":2022,"income":40000},{"year":2023,"income":70000},{"year":2024,"income":30000},{"year":2025,"income":0}],"issues":[{"code":"BAN","display":"Banking"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"},{"code":"ENV","display":"Environment/Superfund"}],"firms":["NATIXIS NORTH AMERICA LLC"],"lobbyists":["MELISSA RUTH"],"govEntities":["Commodity Futures Trading Commission (CFTC)","Securities & Exchange Commission (SEC)","Treasury, Dept of","Federal Deposit Insurance Corporation (FDIC)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to the regulation and supervision non-U.S. banks operating in the United States.","Issues related to the regulation and supervision non-U.S. banks operating in the United States.","Issues related to climate change, sustainability and Environmental, Social and Governance disclosure.","Issues related to security-based swap dealer registration.","Issues related to digital assets, fraud and misconduct, custody, and regulation of crypto exchanges."]}

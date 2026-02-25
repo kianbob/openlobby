@@ -1,11 +1,1 @@
-{
-  "name": "CELLCRYPT",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":200259,"name":"CELLCRYPT","slug":"cellcrypt","state":"VA","country":"United States of America","description":"encrypted communications","totalSpending":670000,"filings":17,"yearlySpending":[{"year":2018,"income":190000},{"year":2019,"income":160000},{"year":2020,"income":160000},{"year":2021,"income":160000}],"issues":[{"code":"DEF","display":"Defense"},{"code":"SCI","display":"Science/Technology"}],"firms":["EDGEPOINT, LLC"],"lobbyists":["DAVID THOMPSON","HUNTER PRICE"],"govEntities":["Defense, Dept of (DOD)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Developing channels and increasing awareness for the need for increased security and resiliency of communications for government agencies","Developing channels and increasing awareness for the need for increased security and resiliency of communications for government agencies","subcontracting opportunities, government agency outreach and defense appropriations for enhancing encrypted communications in government","enhancing government knowledge of encrypted communications","enhancing government knowledge of encrypted communications"]}

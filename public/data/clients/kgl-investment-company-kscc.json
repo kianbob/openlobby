@@ -1,11 +1,1 @@
-{
-  "name": "KGL INVESTMENT COMPANY, KSCC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":201298,"name":"KGL INVESTMENT COMPANY KSCC","slug":"kgl-investment-company-kscc","state":null,"country":"Kuwait","description":"International Investment Company","totalSpending":350000,"filings":4,"yearlySpending":[{"year":2019,"income":350000}],"issues":[{"code":"IMM","display":"Immigration"},{"code":"LAW","display":"Law Enforcement/Crime/Criminal Justice"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","JUSTIN SAYFIE","PAMELA BONDI"],"govEntities":["HOUSE OF REPRESENTATIVES","Natl Security Council (NSC)","SENATE","State, Dept of (DOS)","White House Office"],"sampleDescriptions":["Immigration Policy and Process","Immigration Policy and Process","Issues Related to Potential Global Magnitsky Act Violations and Imprisonment","Immigration policy and process; human rights abuses.","Issues related to potential Global Magnitsky Act violations."]}

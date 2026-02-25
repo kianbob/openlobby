@@ -1,11 +1,1 @@
-{
-  "name": "TELE-FONIKA CABLE AMERICAS CORPORATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69484,"name":"TELE-FONIKA CABLE AMERICAS CORPORATION","slug":"tele-fonika-cable-americas-corporation","state":null,"country":"Poland","description":"Manufacturing and energy","totalSpending":180000,"filings":3,"yearlySpending":[{"year":2025,"income":180000}],"issues":[{"code":"MAN","display":"Manufacturing"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["BRACEWELL LLP"],"lobbyists":["SCOTT SEGAL","JOSHUA ZIVE","DANE PEDERSEN"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Assist with appropriate federal policy response for planned manufacturer in the United States.","Assist with appropriate federal policy response for planned manufacturer in the United States.","Assist with appropriate federal policy research for planned manufacturing facility in the United States.","Assist with appropriate federal policy response for planned manufacturing facility in the United States.","Assist with appropriate federal policy research for planned manufacturing facility in the United States."]}

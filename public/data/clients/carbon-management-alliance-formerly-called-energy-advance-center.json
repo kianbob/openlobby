@@ -1,11 +1,1 @@
-{
-  "name": "CARBON MANAGEMENT ALLIANCE (FORMERLY CALLED ENERGY ADVANCE CENTER)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":205913,"name":"CARBON MANAGEMENT ALLIANCE (FORMERLY CALLED ENERGY ADVANCE CENTER)","slug":"carbon-management-alliance-formerly-called-energy-advance-center","state":"DC","country":"United States of America","description":"Ad hoc coalition supporting carbon capture, utilization, and storage (CCUS) in the US.","totalSpending":610000,"filings":25,"yearlySpending":[{"year":2020,"income":10000},{"year":2021,"income":110000},{"year":2022,"income":90000},{"year":2023,"income":120000},{"year":2024,"income":120000},{"year":2025,"income":160000}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"ENV","display":"Environment/Superfund"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["WILLIAMS AND JENSEN, PLLC"],"lobbyists":["GEORGE BAKER","CHRISTOPHER HATCHER"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Energy, Dept of","Environmental Protection Agency (EPA)"],"sampleDescriptions":["Tax issues including Section 45Q; Federal regulation of and incentives for CCUS development.","Tax issues including Section 45Q; Federal regulation of and incentives for CCUS development.","Tax issues including Section 45Q; Federal regulation of and incentives for CCUS development.","Tax issues including Section 45Q and Section 38 General Business Tax Credits pertaining to CCUS.","Tax issues including Section 45Q and Section 38 General Business Tax Credits pertaining to CCUS."]}

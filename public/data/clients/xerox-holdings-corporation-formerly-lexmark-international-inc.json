@@ -1,11 +1,1 @@
-{
-  "name": "XEROX HOLDINGS CORPORATION (FORMERLY LEXMARK INTERNATIONAL, INC.)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":65700,"name":"XEROX HOLDINGS CORPORATION (FORMERLY LEXMARK INTERNATIONAL, INC.)","slug":"xerox-holdings-corporation-formerly-lexmark-international-inc","state":"KY","country":"United States of America","description":"Printing and imaging product manufacturer.","totalSpending":220000,"filings":5,"yearlySpending":[{"year":2025,"income":220000}],"issues":[{"code":"PHA","display":"Pharmacy"}],"firms":["DLA PIPER LLP (US)"],"lobbyists":["KARINA LYNCH","JAMIE GREGORIAN"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Ensuring full patient access to drug label and package insert information.","Ensuring full patient access to drug label and package insert information.","Ensuring full patient access to drug label and package insert information.","Ensuring full patient access to drug label and package insert information. H.R. 5133, Patients Right to Know Their Medication Act of 2025.","Ensuring full patient access to drug label and package insert information. H.R. 5133, Patients Right to Know Their Medication Act of 2025."]}

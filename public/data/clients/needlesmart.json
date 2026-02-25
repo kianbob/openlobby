@@ -1,11 +1,1 @@
-{
-  "name": "NEEDLESMART",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":211189,"name":"NEEDLESMART","slug":"needlesmart","state":"PA","country":"United States of America","description":"Medical Technology.","totalSpending":467500,"filings":21,"yearlySpending":[{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":150000},{"year":2024,"income":157500},{"year":2025,"income":160000}],"issues":[{"code":"MED","display":"Medical/Disease Research/Clinical Labs"}],"firms":["NOSSAMAN LLP"],"lobbyists":["CHRISTOPHER CARNEY","FREDERICK DOMBO"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Veterans Affairs, Dept of (VA)","Health & Human Services, Dept of (HHS)","Labor, Dept of (DOL)","Defense, Dept of (DOD)"],"sampleDescriptions":["Digital vaccination system to be used by DOD and VA to reduce needle stick injuries and electronically send digital vaccination reports to patients records.","Digital vaccination system to be used by DOD and VA to reduce needle stick injuries and electronically send digital vaccination reports to patients records.","Digital vaccination system to be used by DOD and VA to reduce needle stick injuries and electronically send digital vaccination reports to patients records,","Digital vaccination system to be used by DOD and VA to reduce needle stick injuries and electronically send digital vaccination reports to patients records,","Digital vaccination system to be used by DOD and VA to reduce needle stick injuries and electronically send digital vaccination reports to patients records,"]}

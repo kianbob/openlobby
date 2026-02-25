@@ -27,7 +27,7 @@ export default async function Image() {
           Follow the Money in Washington
         </div>
         <div style={{ fontSize: 20, color: '#a5b4fc' }}>
-          $15.2B in Federal Lobbying · 650K+ Filings · 2018–2025
+          $37.7B in Federal Lobbying · 726K+ Filings · 2018–2025
         </div>
       </div>
     ),

@@ -1,11 +1,1 @@
-{
-  "name": "NESTLE USA, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":52598,"name":"NESTLE USA, INC.","slug":"nestle-usa-inc","state":"VA","country":"United States of America","description":"food and beverage company","totalSpending":120000,"filings":4,"yearlySpending":[{"year":2022,"income":100000},{"year":2023,"income":20000}],"issues":[{"code":"FOO","display":"Food Industry (safety, labeling, etc.)"}],"firms":["RAMPY NORTHRUP LLC"],"lobbyists":["STEPHEN NORTHRUP","STACEY RAMPY"],"govEntities":["Health & Human Services, Dept of (HHS)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to infant formula and medical nutrition.","Issues related to infant formula and medical nutrition; S.4348, FDASLA Act of 2022; H.R.6833, Making continuing appropriations for fiscal year 2023, and for other purposes (P.L.117-180).","Issues related to infant formula and medical nutrition; S.4348, FDASLA Act of 2022; H.R.2617, Consolidated Appropriations Act, 2023.","Issues related to infant formula and medical nutrition. Issues related to FDA reorganization of food regulation."]}

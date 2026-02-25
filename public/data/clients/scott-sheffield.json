@@ -1,18 +1,1 @@
-{
-  "name": "SCOTT SHEFFIELD",
-  "slug": "scott-sheffield",
-  "state": "TX",
-  "totalSpend": 850000,
-  "filings": 6,
-  "years": [
-    2024,
-    2025
-  ],
-  "issues": [
-    "LBR"
-  ],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "descriptions": []
-}
+{"id":60516,"name":"SCOTT SHEFFIELD","slug":"scott-sheffield","state":"TX","country":"United States of America","description":"Individual","totalSpending":1000000,"filings":8,"yearlySpending":[{"year":2024,"income":350000},{"year":2025,"income":650000}],"issues":[{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["WILLIAM MOSCHELLA","MARC LAMPKIN","NORMAN BROWNSTEIN","WILLIAM MCGRATH","WILLIAM DUNHAM","TRIPP MCKEMEY"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to the FTC","Issues related to the FTC","Issues related to the FTC","Issues related to the FTC","Issues related to the FTC"]}

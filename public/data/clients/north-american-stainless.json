@@ -1,11 +1,1 @@
-{
-  "name": "NORTH AMERICAN STAINLESS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":148617,"name":"NORTH AMERICAN STAINLESS","slug":"north-american-stainless","state":"KY","country":"United States of America","description":"Stainless Steel Manufacturer","totalSpending":330000,"filings":19,"yearlySpending":[{"year":2019,"income":30000},{"year":2020,"income":110000},{"year":2021,"income":70000},{"year":2022,"income":80000},{"year":2023,"income":40000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"MAN","display":"Manufacturing"},{"code":"FOR","display":"Foreign Relations"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"},{"code":"TRA","display":"Transportation"},{"code":"ENV","display":"Environment/Superfund"}],"firms":["VAN SCOYOC ASSOCIATES"],"lobbyists":["SHANNON CAMPAGNA","RAY COLE","GRAHAM HALL"],"govEntities":["Commerce, Dept of (DOC)","SENATE","Treasury, Dept of","HOUSE OF REPRESENTATIVES","Natl Economic Council (NEC)"],"sampleDescriptions":["International trade policy, manufacturing, and investment related issues.","International trade policy, manufacturing, and investment related issues.","International trade policy, manufacturing, and investment related issues.","International trade policy, manufacturing, and investment related issues.","International trade policy, manufacturing, and investment related issues."]}

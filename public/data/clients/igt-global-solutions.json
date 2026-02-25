@@ -1,11 +1,1 @@
-{
-  "name": "IGT GLOBAL SOLUTIONS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":201292,"name":"IGT GLOBAL SOLUTIONS","slug":"igt-global-solutions","state":"RI","country":"United States of America","description":"Gaming technology manufacturing.","totalSpending":380000,"filings":8,"yearlySpending":[{"year":2019,"income":220000},{"year":2020,"income":160000}],"issues":[{"code":"GAM","display":"Gaming/Gambling/Casino"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","PAMELA BONDI","SUSAN WILES"],"govEntities":["White House Office"],"sampleDescriptions":["Gaming technology policy","Issues Pertaining to Lottery and the Wire Act.","Issues Pertaining to Lottery and the Wire Act.","Issues pertaining to lottery and the Wire Act."]}

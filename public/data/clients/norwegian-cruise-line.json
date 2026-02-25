@@ -1,11 +1,1 @@
-{
-  "name": "NORWEGIAN CRUISE LINE",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":139747,"name":"NORWEGIAN CRUISE LINE","slug":"norwegian-cruise-line","state":"FL","country":"United States of America","description":"","totalSpending":140000,"filings":25,"yearlySpending":[{"year":2018,"income":0},{"year":2019,"income":10000},{"year":2020,"income":50000},{"year":2021,"income":0},{"year":2022,"income":0},{"year":2025,"income":80000}],"issues":[{"code":"MAR","display":"Marine/Maritime/Boating/Fisheries"}],"firms":["K&L GATES, LLP"],"lobbyists":["WILLIAM MYHRE","DARRELL CONNER","EMANUEL ROUVELAS","JAMES SARTUCCI","ELLE STUART BURNS","ALEXIS GUTIERREZ"],"govEntities":["SENATE","U.S. Coast Guard (USCG)","HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Seeking clarification of vessel documentation authority.","Issues related to the operation of U.S-flag cruise ships and H.R. 748/S.3548, CARES Act (no specific provision).","Issues related to the operation of U.S-flag cruise ships.","Issues related to the operation of U.S-flag cruise ships - no specific legislation.","S. 524 and H.R. 4275, Coast Guard Authorization Act of 2025: Issues related to the operation of U.S-flag cruise ships."]}

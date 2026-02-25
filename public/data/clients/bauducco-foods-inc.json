@@ -1,11 +1,1 @@
-{
-  "name": "BAUDUCCO FOODS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68945,"name":"BAUDUCCO FOODS, INC.","slug":"bauducco-foods-inc","state":"FL","country":"United States of America","description":"Food manufacturer of baked goods in Brazil","totalSpending":100000,"filings":3,"yearlySpending":[{"year":2025,"income":100000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["DAVID COHEN","SAMANTHA CARL-YODER","MELISSA KUIPERS BLAKE","JOSEPH HOWELL"],"govEntities":["HOUSE OF REPRESENTATIVES","State, Dept of (DOS)","Commerce, Dept of (DOC)","Executive Office of the President (EOP)","SENATE","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Issues related to trade and tariffs of Brazilian imports and expansion of manufacturing in Florida.","Issues related to trade and tariffs of Brazilian imports and expansion of manufacturing in Florida.","Issues related to trade and tariffs of Brazilian imports and expansion of manufacturing in Florida."]}

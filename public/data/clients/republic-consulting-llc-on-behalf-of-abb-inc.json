@@ -1,11 +1,1 @@
-{
-  "name": "REPUBLIC CONSULTING, LLC ON BEHALF OF ABB, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":203247,"name":"REPUBLIC CONSULTING, LLC ON BEHALF OF ABB, INC.","slug":"republic-consulting-llc-on-behalf-of-abb-inc","state":"KY","country":"United States of America","description":"&#226;€‹Public Policy Consulting and Advocacy","totalSpending":0,"filings":5,"yearlySpending":[{"year":2019,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"TRA","display":"Transportation"},{"code":"POS","display":"Postal"},{"code":"ENG","display":"Energy/Nuclear"},{"code":"HOM","display":"Homeland Security"},{"code":"SCI","display":"Science/Technology"}],"firms":["MOONWALKER ASSOCIATES"],"lobbyists":["ROBERT WALKER"],"govEntities":[],"sampleDescriptions":["Issues related to technology, energy, electrification, and industrial automation","Issues related to technology, energy, electrification, and industrial automation","Issues related to technology, energy, electrification, and industrial automation","Issues related to technology, energy, electrification, and industrial automation","Issues related to technology, energy, electrification, and industrial automation"]}

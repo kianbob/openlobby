@@ -1,17 +1,1 @@
-{
-  "name": "KIRKLAND & ELLIS LLP",
-  "slug": "kirkland-ellis-llp",
-  "state": "DC",
-  "totalSpend": 820000,
-  "filings": 4,
-  "years": [
-    2025
-  ],
-  "issues": [
-    "LBR"
-  ],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "descriptions": []
-}
+{"id":65671,"name":"KIRKLAND & ELLIS LLP","slug":"kirkland-ellis-llp","state":"DC","country":"United States of America","description":"Law firm","totalSpending":820000,"filings":5,"yearlySpending":[{"year":2025,"income":820000}],"issues":[{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","JUSTIN SAYFIE","SYLVESTER LUKIS"],"govEntities":["Labor, Dept of (DOL)","White House Office"],"sampleDescriptions":["Advice related to employment practices.","Advice related to employment practices.","Advice related to employment practices.","Advice related to employment practices."]}

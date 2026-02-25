@@ -1,11 +1,1 @@
-{
-  "name": "EMD MILLIPORE CORPORATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":53031,"name":"EMD MILLIPORE CORPORATION","slug":"emd-millipore-corporation","state":"DC","country":"United States of America","description":"Manufacturing of preparation, separation, filtration and monitoring life sciences tools.","totalSpending":940000,"filings":15,"yearlySpending":[{"year":2022,"income":210000},{"year":2023,"income":360000},{"year":2024,"income":90000},{"year":2025,"income":280000}],"issues":[{"code":"FOO","display":"Food Industry (safety, labeling, etc.)"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"CHM","display":"Chemicals/Chemical Industry"},{"code":"HCR","display":"Health Issues"},{"code":"MAN","display":"Manufacturing"},{"code":"SCI","display":"Science/Technology"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"}],"firms":["EMD MILLIPORE CORPORATION"],"lobbyists":["ANDREW TANTILLO"],"govEntities":["Health & Human Services, Dept of (HHS)","HOUSE OF REPRESENTATIVES","SENATE","White House Office","Commerce, Dept of (DOC)","State, Dept of (DOS)","U.S. Trade Representative (USTR)","Food & Drug Administration (FDA)","Energy, Dept of","Treasury, Dept of","Office of Management & Budget (OMB)"],"sampleDescriptions":["Issues related to the manufacturing and development of life sciences tools.","Issues related to the manufacturing and development of life sciences tools.","Issues related to the manufacturing and development of life sciences tools.","Issues related to the manufacturing and development of life sciences tools.","Issues related to the manufacturing and development of life sciences tools."]}

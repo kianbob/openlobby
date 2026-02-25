@@ -216,7 +216,7 @@ export default async function StateDetailPage({ params }: { params: Promise<{ sl
         <div className="grid md:grid-cols-2 gap-3">
           <Link href="/investigations/lobbying-statistics" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
             <div className="font-medium text-sm text-indigo-700">Federal Lobbying Statistics 2025</div>
-            <div className="text-xs text-gray-500 mt-1">The definitive stats — $15.2B total, industry breakdowns, and trends.</div>
+            <div className="text-xs text-gray-500 mt-1">The definitive stats — $37.7B total, industry breakdowns, and trends.</div>
           </Link>
           <Link href="/investigations/what-is-lobbying" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
             <div className="font-medium text-sm text-indigo-700">What Is Lobbying? A Complete Guide</div>

@@ -1,11 +1,1 @@
-{
-  "name": "JFD NORTH AMERICA LIMITED",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":61797,"name":"JFD NORTH AMERICA LIMITED","slug":"jfd-north-america-limited","state":"VA","country":"United States of America","description":"Sub-surface engineering, technology, and special operations.","totalSpending":250000,"filings":8,"yearlySpending":[{"year":2024,"income":90000},{"year":2025,"income":160000}],"issues":[{"code":"DEF","display":"Defense"},{"code":"BUD","display":"Budget/Appropriations"}],"firms":["NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)"],"lobbyists":["NICHOLAS SADOSKI","RYAN BERGER","PHILMORE ANDERSON"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Defense, Dept of (DOD)"],"sampleDescriptions":["Issues related to underwater mobility for special operations and sub-surface rescue.","Issues related to maritime and underwater defense capabilities. Issues related to sub-surface engineering, technology, and special operations. S.4638 - National Defense Authorization Act for Fiscal Ye","Issues related to maritime and underwater defense capabilities. Issues related to sub-surface engineering, technology, and special operations. S.4638 - National Defense Authorization Act for Fiscal Ye","Issues related to maritime and underwater defense capabilities. Issues related to sub-surface engineering, technology, and special operations. S.4638 - National Defense Authorization Act for Fiscal Ye","Issues related to maritime and underwater defense capabilities. Issues related to sub-surface engineering, technology, and special operations. Issues related to the FY26 NDAA process."]}

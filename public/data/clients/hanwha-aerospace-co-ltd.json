@@ -1,11 +1,1 @@
-{
-  "name": "HANWHA AEROSPACE CO., LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69455,"name":"HANWHA AEROSPACE CO., LTD.","slug":"hanwha-aerospace-co-ltd","state":"VA","country":"United States of America","description":"Aerospace, aviation, and defense.","totalSpending":660000,"filings":3,"yearlySpending":[{"year":2025,"income":660000}],"issues":[{"code":"MAR","display":"Marine/Maritime/Boating/Fisheries"},{"code":"DEF","display":"Defense"},{"code":"MAN","display":"Manufacturing"},{"code":"FUE","display":"Fuel/Gas/Oil"}],"firms":["HANWHA AEROSPACE CO., LTD."],"lobbyists":["MAXWELL CASON","ALEX WONG","MICHAEL VIGGIANO","STEPHEN VOLINE"],"govEntities":["Defense, Dept of (DOD)","HOUSE OF REPRESENTATIVES","SENATE","Commerce, Dept of (DOC)","State, Dept of (DOS)","Treasury, Dept of","U.S. Trade Representative (USTR)","Homeland Security, Dept of (DHS)"],"sampleDescriptions":["Issues related to commercial shipbuilding and shipping, including SHIPS Act (S. 1541, HR 3151); army ground systems; defense authorization.","Issues related to commercial shipbuilding and shipping, including SHIPS Act (S. 1541, HR 3151); army ground systems; defense authorization.","Issues related to commercial shipbuilding and shipping, including SHIPS Act (S. 1541, HR 3151); army ground systems; defense authorization.","Issues related to shipbuilding, army ground systems, and defense authorization.","Issues related to commercial shipbuilding."]}

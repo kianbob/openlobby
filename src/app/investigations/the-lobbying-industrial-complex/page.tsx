@@ -6,14 +6,14 @@ import SourceCitation from '@/components/SourceCitation'
 import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
-  title: "The Lobbying Industrial Complex: 650,000 Filings, $15.2 Billion, and the Machine That Runs Washington",
-  description: 'A comprehensive look at the scale of federal lobbying: 650K+ filings, $15.2B in spending, 29,000+ lobbyists, and the growth trends reshaping American democracy.',
+  title: "The Lobbying Industrial Complex: 726,000 Filings, $37.7 Billion, and the Machine That Runs Washington",
+  description: 'A comprehensive look at the scale of federal lobbying: 726K+ filings, $37.7B in spending, 29,000+ lobbyists, and the growth trends reshaping American democracy.',
 }
 
 export default function TheLobbyingIndustrialComplexPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "The Lobbying Industrial Complex: 650,000 Filings, $15.2 Billion, and the Machine That Runs Washington", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "A comprehensive look at the full scale of federal lobbying in America.", mainEntityOfPage: "https://www.openlobby.us/investigations/the-lobbying-industrial-complex" }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "The Lobbying Industrial Complex: 726,000 Filings, $37.7 Billion, and the Machine That Runs Washington", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "A comprehensive look at the full scale of federal lobbying in America.", mainEntityOfPage: "https://www.openlobby.us/investigations/the-lobbying-industrial-complex" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'The Lobbying Industrial Complex' },
@@ -25,17 +25,17 @@ export default function TheLobbyingIndustrialComplexPage() {
 
       <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
         The Lobbying Industrial Complex:{' '}
-        <span className="text-indigo-600">$15.2 Billion</span>{' '}
-        and 650,000 Filings
+        <span className="text-indigo-600">$37.7 Billion</span>{' '}
+        and 726,000 Filings
       </h1>
 
       <p className="text-gray-500 mb-4">Published February 2026 · 14 min read</p>
 
-      <ShareButtons url="https://www.openlobby.us/investigations/the-lobbying-industrial-complex" title="The Lobbying Industrial Complex: $15.2B and 650K Filings" />
+      <ShareButtons url="https://www.openlobby.us/investigations/the-lobbying-industrial-complex" title="The Lobbying Industrial Complex: $37.7B and 650K Filings" />
 
       <QuickFacts facts={[
-        { label: 'Total lobbying filings', value: '650,333' },
-        { label: 'Total reported income', value: '$15.2B' },
+        { label: 'Total lobbying filings', value: '726,268' },
+        { label: 'Total reported income', value: '$37.7B' },
         { label: 'Registered lobbyists', value: '29,754' },
         { label: 'Unique clients', value: '1,591+' },
       ]} />
@@ -43,8 +43,8 @@ export default function TheLobbyingIndustrialComplexPage() {
       <div className="my-8 bg-indigo-50 border-l-4 border-indigo-500 p-6 rounded-r-xl">
         <h2 className="text-lg font-bold text-indigo-700 mb-2">The Bottom Line</h2>
         <p className="text-gray-700">
-          Federal lobbying in America is a <strong>$15.2 billion</strong> industry. Our dataset contains{' '}
-          <strong>650,333 filings</strong> from <strong>29,754 lobbyists</strong> working for <strong>7,746 firms</strong>{' '}
+          Federal lobbying in America is a <strong>$37.7 billion</strong> industry. Our dataset contains{' '}
+          <strong>726,000+ filings</strong> from <strong>29,754 lobbyists</strong> working for <strong>7,746 firms</strong>{' '}
           representing thousands of clients. Lobbying spending has grown every single year since 2018, reaching nearly{' '}
           <strong>$2 billion</strong> in 2024 alone. This is the machine that really runs Washington — and it&apos;s
           bigger than most people imagine.
@@ -64,8 +64,8 @@ export default function TheLobbyingIndustrialComplexPage() {
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The Lobbying Industry at a Glance</h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
-              { label: 'Total Filings', value: '650,333', sub: '2018–2025' },
-              { label: 'Total Spending', value: '$15.2B', sub: 'Reported income' },
+              { label: 'Total Filings', value: '726,268', sub: '2018–2025' },
+              { label: 'Total Spending', value: '$37.7B', sub: 'Reported income' },
               { label: 'Lobbyists', value: '29,754', sub: 'Unique registered' },
               { label: 'Lobbying Firms', value: '7,746', sub: 'Active firms' },
               { label: 'Clients', value: '1,591+', sub: 'Top indexed' },
@@ -224,7 +224,7 @@ export default function TheLobbyingIndustrialComplexPage() {
         </p>
 
         <p>
-          But the scale matters. When industries spend $15.2 billion on lobbying while individual citizens have no
+          But the scale matters. When industries spend $37.7 billion on lobbying while individual citizens have no
           lobbyist, the playing field isn&apos;t level. When 5,000 former officials monetize their government service
           by lobbying their old colleagues, the revolving door undermines public trust. When the industries that spend
           the most on lobbying consistently get the policies they want, it&apos;s hard to argue that the system is
@@ -243,7 +243,7 @@ export default function TheLobbyingIndustrialComplexPage() {
 
         <div className="bg-indigo-50 border border-indigo-200 rounded-xl p-6 my-8 not-prose">
           <h3 className="font-bold text-lg mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Explore the Full Dataset</h3>
-          <p className="text-gray-700 mb-4">Dive into 650,000+ filings, search any client, firm, or lobbyist.</p>
+          <p className="text-gray-700 mb-4">Dive into 726,000+ filings, search any client, firm, or lobbyist.</p>
           <div className="flex flex-wrap gap-3">
             <Link href="/clients" className="px-4 py-2 bg-primary text-white rounded-lg text-sm font-medium hover:bg-primary-dark transition-colors">
               Top Clients →
@@ -267,7 +267,7 @@ export default function TheLobbyingIndustrialComplexPage() {
       <SourceCitation
         sources={[
           'Senate LDA Filings (lda.senate.gov)',
-          'OpenLobby dataset — 650,333 filings analyzed',
+          'OpenLobby dataset — 726,000+ filings analyzed',
           'USASpending.gov contract data',
           'Academic research on lobbying ROI (Raquel Alexander et al., 2009)',
         ]}

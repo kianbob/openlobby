@@ -1,11 +1,1 @@
-{
-  "name": "GN HEARING",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":184294,"name":"GN HEARING","slug":"gn-hearing","state":"MN","country":"United States of America","description":"Hearing device and hearing protection manufacturer","totalSpending":170000,"filings":11,"yearlySpending":[{"year":2018,"income":90000},{"year":2019,"income":80000},{"year":2020,"income":0}],"issues":[{"code":"DEF","display":"Defense"}],"firms":["J.A. GREEN AND COMPANY (FORMERLY LLC)"],"lobbyists":["JEFFERY GREEN"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Procurement of advanced hearing protection.","Procurement of advanced hearing protection.","Procurement of Advanced hearing protection; National Defense Authorization Act for Fiscal Year 2019; Defense Appropriations Act for Fiscal Year 2019","Procurement of Advanced hearing protection; National Defense Authorization Act for Fiscal Year 2019; Defense Appropriations Act for Fiscal Year 2019","Procurement of Advanced hearing protection"]}

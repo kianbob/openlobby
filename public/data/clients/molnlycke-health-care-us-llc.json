@@ -1,11 +1,1 @@
-{
-  "name": "MOLNLYCKE HEALTH CARE US, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":209700,"name":"MOLNLYCKE HEALTH CARE US, LLC","slug":"molnlycke-health-care-us-llc","state":"GA","country":"United States of America","description":"Design/Supply of Medical Equipment and Supplies","totalSpending":660000,"filings":23,"yearlySpending":[{"year":2021,"income":120000},{"year":2022,"income":180000},{"year":2023,"income":120000},{"year":2024,"income":120000},{"year":2025,"income":120000}],"issues":[{"code":"DEF","display":"Defense"},{"code":"VET","display":"Veterans"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"}],"firms":["HANCE SCARBOROUGH"],"lobbyists":["LARRY MEYERS","ROBERT PORE","FRANCIS BOYD"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to VA standard of care for pressure wound injuries \nUpcoming National Defense Authorization","Issues related to VA standard of care for pressure wound injuries \nUpcoming National Defense Authorization","National Defense Authorization, Issues related to Pressure Wound Injuries, PPE Supply","National Defense Authorization, Issues related to Pressure Wound Injuries, PPE Supply","National Defense Authorization, Issues related to Pressure Wound Injuries, PPE Supply"]}

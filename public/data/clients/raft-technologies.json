@@ -1,11 +1,1 @@
-{
-  "name": "RAFT TECHNOLOGIES",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":46059,"name":"RAFT TECHNOLOGIES","slug":"raft-technologies","state":null,"country":"Israel","description":"Technology Company.","totalSpending":210000,"filings":13,"yearlySpending":[{"year":2022,"income":120000},{"year":2023,"income":90000},{"year":2024,"income":0}],"issues":[{"code":"SCI","display":"Science/Technology"},{"code":"TEC","display":"Telecommunications"}],"firms":["GOLDSTEIN POLICY SOLUTIONS LLC"],"lobbyists":["LON GOLDSTEIN"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Represent Raft Technologies Ltd. on policies that promote spectrum efficiency, investment, and innovation in frequencies below 30 megahertz.","Represent Raft Technologies Ltd. on policies that promote spectrum efficiency, investment, and innovation in frequencies below 30 megahertz.","Spectrum efficiency, investment and innovation in frequencies below 30 megahertz.","Spectrum efficiency, investment and innovation in frequencies below 30 megahertz.","Spectrum efficiency, investment and innovation in frequencies below 30 megahertz."]}

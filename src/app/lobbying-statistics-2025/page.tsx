@@ -3,11 +3,11 @@ import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Lobbying Statistics 2024-2025: Key Facts and Data',
-  description: 'Comprehensive federal lobbying statistics for 2024-2025. Total spending, number of lobbyists, top clients, biggest issues, and year-over-year trends from 650,000+ filings.',
+  description: 'Comprehensive federal lobbying statistics for 2024-2025. Total spending, number of lobbyists, top clients, biggest issues, and year-over-year trends from 726,000+ filings.',
   keywords: ['lobbying statistics', 'lobbying spending data', 'lobbying statistics 2025', 'lobbying statistics 2024', 'federal lobbying data', 'how much is spent on lobbying'],
   openGraph: {
     title: 'Lobbying Statistics 2024-2025: Key Facts and Data',
-    description: 'Every key lobbying statistic from 2024-2025 — total spending, lobbyists, filings, issues, and trends from our database of 650,000+ filings.',
+    description: 'Every key lobbying statistic from 2024-2025 — total spending, lobbyists, filings, issues, and trends from our database of 726,000+ filings.',
     url: 'https://www.openlobby.us/lobbying-statistics-2025',
   },
 }
@@ -39,7 +39,7 @@ export default function LobbyingStatistics2025Page() {
           Lobbying Statistics 2024–2025: Key Facts and Data
         </h1>
         <p className="text-xl text-gray-600 leading-relaxed">
-          Comprehensive federal lobbying statistics compiled from our database of 650,000+ Senate LDA filings
+          Comprehensive federal lobbying statistics compiled from our database of 726,000+ Senate LDA filings
           covering 2018–2025. Updated regularly as new filings are published.
         </p>
       </header>
@@ -49,8 +49,8 @@ export default function LobbyingStatistics2025Page() {
         <h2 className="text-xl font-bold mb-6 text-indigo-200">Overall Statistics (2018–2025)</h2>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
           {[
-            { value: '$15.2B', label: 'Total Lobbying Spending' },
-            { value: '650,333', label: 'Total Filings' },
+            { value: '$37.7B', label: 'Total Lobbying Spending' },
+            { value: '726,268', label: 'Total Filings' },
             { value: '29,754', label: 'Unique Lobbyists' },
             { value: '5,000+', label: 'Revolving Door Officials' },
             { value: '79', label: 'Issue Categories' },

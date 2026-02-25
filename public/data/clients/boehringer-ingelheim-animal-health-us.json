@@ -1,11 +1,1 @@
-{
-  "name": "BOEHRINGER INGELHEIM ANIMAL HEALTH US",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":64702,"name":"BOEHRINGER INGELHEIM ANIMAL HEALTH US","slug":"boehringer-ingelheim-animal-health-us","state":"GA","country":"United States of America","description":"Animal health.","totalSpending":170000,"filings":5,"yearlySpending":[{"year":2025,"income":170000}],"issues":[{"code":"ANI","display":"Animals"},{"code":"MED","display":"Medical/Disease Research/Clinical Labs"}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["JOHN MARTIN"],"govEntities":["Food & Drug Administration (FDA)","SENATE"],"sampleDescriptions":["Issues regarding FDA animal drug approval process.","Issues regarding FDA animal drug approval process.","Issues regarding FDA animal drug approval process.","Issues regarding FDA animal drug approval process.","Issues regarding FDA animal drug approval process."]}

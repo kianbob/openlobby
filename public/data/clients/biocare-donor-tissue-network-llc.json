@@ -1,17 +1,1 @@
-{
-  "name": "BIOCARE DONOR TISSUE NETWORK, LLC",
-  "slug": "biocare-donor-tissue-network-llc",
-  "state": "PA",
-  "totalSpend": 1000000,
-  "filings": 4,
-  "years": [
-    2025
-  ],
-  "issues": [
-    "HCR"
-  ],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "descriptions": []
-}
+{"id":65089,"name":"BIOCARE DONOR TISSUE NETWORK, LLC","slug":"biocare-donor-tissue-network-llc","state":"PA","country":"United States of America","description":"Tissue donation services","totalSpending":1000000,"filings":5,"yearlySpending":[{"year":2025,"income":1000000}],"issues":[{"code":"HCR","display":"Health Issues"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","HUNTER MORGEN","DANIEL MCFAUL"],"govEntities":["Health & Human Services, Dept of (HHS)","White House Office"],"sampleDescriptions":["Coverage determination for regenerative skin wound care.","Coverage determination for regenerative skin wound care.","Coverage determination for regenerative skin wound care.","Coverage determination for regenerative skin wound care.","Coverage determination for regenerative skin wound care."]}

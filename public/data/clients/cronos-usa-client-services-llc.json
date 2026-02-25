@@ -1,11 +1,1 @@
-{
-  "name": "CRONOS USA CLIENT SERVICES LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":205689,"name":"CRONOS USA CLIENT SERVICES LLC","slug":"cronos-usa-client-services-llc","state":"DC","country":"United States of America","description":"","totalSpending":855000,"filings":22,"yearlySpending":[{"year":2020,"income":235000},{"year":2021,"income":170000},{"year":2022,"income":270000},{"year":2023,"income":120000},{"year":2024,"income":60000}],"issues":[{"code":"BAN","display":"Banking"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"HCR","display":"Health Issues"},{"code":"ALC","display":"Alcohol and Drug Abuse"},{"code":"AGR","display":"Agriculture"},{"code":"MED","display":"Medical/Disease Research/Clinical Labs"},{"code":"LAW","display":"Law Enforcement/Crime/Criminal Justice"},{"code":"GOV","display":"Government Issues"}],"firms":["CRONOS USA CLIENT SERVICES LLC"],"lobbyists":["PETE MEACHUM","LAWRENCE HUDSON"],"govEntities":["Food & Drug Administration (FDA)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["All matters affecting the cannabis industry","All matters affecting the cannabis industry","All matters affecting the cannabis industry","All matters affecting the cannabis industry","All matters affecting the cannabis industry"]}

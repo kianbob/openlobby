@@ -60,7 +60,7 @@ const issueCodeToName: Record<string, string> = {
 }
 
 const alwaysArticles = [
-  { href: '/investigations/lobbying-statistics', title: 'Federal Lobbying Statistics 2025', desc: 'The definitive stats — $15.2B total, industry breakdowns, and trends.' },
+  { href: '/investigations/lobbying-statistics', title: 'Federal Lobbying Statistics 2025', desc: 'The definitive stats — $37.7B total, industry breakdowns, and trends.' },
   { href: '/investigations/what-is-lobbying', title: 'What Is Lobbying? A Complete Guide', desc: 'How lobbying works, who does it, and why it matters.' },
 ]
 

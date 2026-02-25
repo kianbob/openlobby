@@ -1,11 +1,1 @@
-{
-  "name": "WISE US INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":61891,"name":"WISE US INC.","slug":"wise-us-inc","state":"NY","country":"United States of America","description":"Financial Services, Financial Technology","totalSpending":150000,"filings":6,"yearlySpending":[{"year":2024,"income":20000},{"year":2025,"income":130000}],"issues":[{"code":"BAN","display":"Banking"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["RICH FEUER ANDERSON"],"lobbyists":["JENNIFER RUST","ALEX TEEL","THOMAS KOONCE","BEN HARNEY","ANDREW PALMER","JUSTIN SOK"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues regarding international payments.","Issues regarding international payments.","Issues regarding international payments.","Issues regarding international payments.","Issues regarding international payments."]}

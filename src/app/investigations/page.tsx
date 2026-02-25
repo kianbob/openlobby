@@ -91,7 +91,7 @@ const investigations = [
   {
     slug: 'lobbying-statistics',
     title: 'Federal Lobbying Statistics 2025: Complete Guide',
-    desc: 'The definitive stats page — $15.2B total, $2.7B in 2025, 650K+ filings, industry breakdowns, and historical trends.',
+    desc: 'The definitive stats page — $37.7B total, $2.7B in 2025, 726K+ filings, industry breakdowns, and historical trends.',
     tag: 'Reference',
     date: 'Feb 2026',
     readTime: '12 min read',
@@ -131,7 +131,7 @@ const investigations = [
   {
     slug: 'the-22000-percent-roi',
     title: 'The 22,000% ROI: How Lobbying Became America\'s Best Investment',
-    desc: '93 firms spent $283M lobbying for a tax holiday and saved $62.5B. Academic research meets our data on 650K+ filings.',
+    desc: '93 firms spent $283M lobbying for a tax holiday and saved $62.5B. Academic research meets our data on 726K+ filings.',
     tag: 'Analysis',
     date: 'Feb 2026',
     readTime: '11 min read',
@@ -202,8 +202,8 @@ const investigations = [
   },
   {
     slug: 'the-lobbying-industrial-complex',
-    title: 'The Lobbying Industrial Complex: $15.2 Billion and 650,000 Filings',
-    desc: 'The definitive overview: 650K filings, $15.2B spent, 29,000+ lobbyists, and the machine that really runs Washington.',
+    title: 'The Lobbying Industrial Complex: $37.7 Billion and 726,000 Filings',
+    desc: 'The definitive overview: 650K filings, $37.7B spent, 29,000+ lobbyists, and the machine that really runs Washington.',
     tag: 'Analysis',
     date: 'Feb 2026',
     readTime: '12 min read',

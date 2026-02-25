@@ -1,11 +1,1 @@
-{
-  "name": "PHARMACEUTICAL DISTRIBUTION SECURITY ALLIANCE (PDSA)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":198723,"name":"PHARMACEUTICAL DISTRIBUTION SECURITY ALLIANCE (PDSA)","slug":"pharmaceutical-distribution-security-alliance-pdsa","state":"DC","country":"United States of America","description":"Pharmaceutical distribution and supply chain security","totalSpending":200000,"filings":42,"yearlySpending":[{"year":2018,"income":20000},{"year":2019,"income":70000},{"year":2020,"income":0},{"year":2021,"income":50000},{"year":2022,"income":40000},{"year":2023,"income":20000},{"year":2024,"income":0},{"year":2025,"income":0}],"issues":[{"code":"HCR","display":"Health Issues"}],"firms":["LEAVITT PARTNERS, LLC"],"lobbyists":["VINCE VENTIMIGLIA","ANNE LAUTERBACH","REILY INMAN","MARK HENDRICKSON"],"govEntities":["Food & Drug Administration (FDA)","HOUSE OF REPRESENTATIVES","SENATE","Health & Human Services, Dept of (HHS)","White House Office"],"sampleDescriptions":["Pharmaceutical distribution and supply chain security","Pharmaceutical distribution and supply chain security","Pharmaceutical distribution and supply chain security.","Pharmaceutical distribution and supply chain security.","Pharmaceutical distribution and supply chain security."]}

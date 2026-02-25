@@ -1,11 +1,1 @@
-{
-  "name": "GIC PRIVATE LIMITED",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":143848,"name":"GIC PRIVATE LIMITED","slug":"gic-private-limited","state":null,"country":"Singapore","description":"Global long-term investor","totalSpending":140000,"filings":9,"yearlySpending":[{"year":2019,"income":140000},{"year":2020,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["SIDLEY AUSTIN LLP"],"lobbyists":["JAMES MENDENHALL","JEN FERNANDEZ","JUSTIN BECKER"],"govEntities":["Treasury, Dept of"],"sampleDescriptions":["Issues regarding implementation of the Foreign Investment Risk Review Modernization Act of 2018","Issues regarding implementation of the Foreign Investment Risk Review Modernization Act of 2018","Issues regarding implementation of the Foreign Risk Review Modernization Act of 2018.","Issues regarding implementation of the Foreign Risk Review Modernization Act of 2018.","Issues regarding implementation of the Foreign Risk Review Modernization Act of 2018."]}

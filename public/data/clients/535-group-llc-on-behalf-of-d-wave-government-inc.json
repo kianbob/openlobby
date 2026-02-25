@@ -1,11 +1,1 @@
-{
-  "name": "535 GROUP, LLC ON BEHALF OF D-WAVE GOVERNMENT INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":211244,"name":"535 GROUP, LLC ON BEHALF OF D-WAVE GOVERNMENT INC.","slug":"535-group-llc-on-behalf-of-d-wave-government-inc","state":"DC","country":"United States of America","description":"Government Relations Consulting / Manufacturer of quantum computing hardware and software","totalSpending":110000,"filings":20,"yearlySpending":[{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":40000},{"year":2024,"income":40000},{"year":2025,"income":30000}],"issues":[{"code":"BUD","display":"Budget/Appropriations"},{"code":"CPI","display":"Computer Industry"},{"code":"DEF","display":"Defense"},{"code":"SCI","display":"Science/Technology"}],"firms":["RESTON STRATEGY GROUP, LLC"],"lobbyists":["JOHN CZERWINSKI"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Supporting expansion, cloud availability and near-term applications of quantum computing. FY2022 CJS/Defense/Energy and Water Appropriations Bills (House/Senate).","Supporting expansion, cloud availability and near-term applications of quantum computing. FY2022 CJS/Defense/Energy and Water Appropriations Bills (House/Senate).","Supporting expansion, cloud availability and near-term applications of quantum computing in FY2022 CJS, Defense and Energy & Water Appropriations bills (House/Senate).","Supporting expansion, cloud availability and near-term applications of quantum computing in FY2022 CJS, Defense and Energy & Water Appropriations bills (House/Senate).","Supporting expansion, cloud availability and near-term applications of quantum computing in FY2022 CJS, Defense and Energy & Water Appropriations bills (House/Senate)."]}

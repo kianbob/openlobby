@@ -1,11 +1,1 @@
-{
-  "name": "RAI SERVICES, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":203478,"name":"RAI SERVICES, INC.","slug":"rai-services-inc","state":"NC","country":"United States of America","description":"Manufacturing","totalSpending":24000,"filings":4,"yearlySpending":[{"year":2019,"income":24000}],"issues":[{"code":"TOB","display":"Tobacco"}],"firms":["THE WESLEYPRESTONGREEN GROUP"],"lobbyists":["KIMBERLY WOODARD"],"govEntities":["HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Menthol Cigarettes, Taxation, Vapor, etc.","HR 2339; issues related to vapor products and menthol cigarettes.","HR 2339; issues related to vapor products and menthol cigarettes.","HR 2339; issues related to vapor products and menthol cigarettes."]}

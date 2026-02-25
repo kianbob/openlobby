@@ -1,11 +1,1 @@
-{
-  "name": "STANDARD LITHIUM",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":58392,"name":"STANDARD LITHIUM","slug":"standard-lithium","state":"BC","country":"Canada","description":"Lithium company","totalSpending":85000,"filings":11,"yearlySpending":[{"year":2023,"income":20000},{"year":2024,"income":65000},{"year":2025,"income":0}],"issues":[{"code":"DEF","display":"Defense"}],"firms":["STRATEGIC MARKETING INNOVATIONS"],"lobbyists":["MARIA BOWIE"],"govEntities":["Defense, Dept of (DOD)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Defense appropriations","Defense Appropriations","Defense Appropriations","Defense Appropriations","Defense Appropriations"]}

@@ -1,11 +1,1 @@
-{
-  "name": "ASOCIATIA ENERGIA INTELIGENTA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":207442,"name":"ASOCIATIA ENERGIA INTELIGENTA","slug":"asociatia-energia-inteligenta","state":null,"country":"Romania","description":"non-profit organization","totalSpending":0,"filings":3,"yearlySpending":[{"year":2020,"income":0},{"year":2021,"income":0}],"issues":[{"code":"ENG","display":"Energy/Nuclear"},{"code":"FUE","display":"Fuel/Gas/Oil"}],"firms":["THE ABRAHAM GROUP LLC"],"lobbyists":["SPENCER ABRAHAM"],"govEntities":["Energy, Dept of","HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Seek participation of US government officials in the events/activities of the US Romania Commercial Energy Dialogue.","Seek participation of US government officials in the events/activities of the US Romania Commercial Energy Dialogue.","Potential US-Romania commercial energy virtual event/dialogue","Potential US-Romania commercial energy virtual event/dialogue","Potential US-Romania commercial energy virtual event/dialogue"]}

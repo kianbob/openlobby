@@ -1,56 +1,58 @@
 {
-  "totalFilings": 650333,
-  "totalIncome": 15213161685,
-  "latestYearIncome": 1980946137,
+  "totalFilings": 726268,
+  "totalIncome": 37715512894.09001,
+  "latestYearIncome": 5153224435.8,
   "latestYear": 2024,
   "yearRange": "2018-2025",
-  "totalClients": 1591,
-  "totalFirms": 7746,
-  "totalLobbyists": 29754,
+  "totalClients": 39330,
+  "totalFirms": 7757,
+  "totalLobbyists": 23545,
   "totalRevolvingDoor": 5000,
   "totalForeignEntities": 1000,
   "totalIndustries": 10,
   "totalIssues": 79,
+  "totalGovEntities": 240,
   "yearlyTrends": [
     {
       "year": 2018,
-      "income": 1397919144,
-      "filings": 66516
+      "income": 4023324072.3700004,
+      "filings": 78416
     },
     {
       "year": 2019,
-      "income": 1466135615,
-      "filings": 68815
+      "income": 4088222783.9199996,
+      "filings": 80040
     },
     {
       "year": 2020,
-      "income": 1623722328,
-      "filings": 75360
+      "income": 4102050437.179999,
+      "filings": 84085
     },
     {
       "year": 2021,
-      "income": 1755639127,
-      "filings": 78650
+      "income": 4401198758.71,
+      "filings": 90760
     },
     {
       "year": 2022,
-      "income": 2046988898,
-      "filings": 88232
+      "income": 4958400099.199999,
+      "filings": 93482
     },
     {
       "year": 2023,
-      "income": 2239714089,
+      "income": 4970006526.64,
       "filings": 95236
     },
     {
       "year": 2024,
-      "income": 1980946137,
-      "filings": 82249
+      "income": 5153224435.8,
+      "filings": 96649
     },
     {
       "year": 2025,
-      "income": 2702096347,
-      "filings": 95275
+      "income": 6019085780.27,
+      "filings": 107600
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-25T22:14:01.454Z"
 }

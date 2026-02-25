@@ -1,11 +1,1 @@
-{
-  "name": "TRANSURBAN (USA) INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":204722,"name":"TRANSURBAN (USA) INC.","slug":"transurban-usa-inc","state":"VA","country":"United States of America","description":"Toll-road operator","totalSpending":430000,"filings":27,"yearlySpending":[{"year":2020,"income":70000},{"year":2021,"income":80000},{"year":2022,"income":80000},{"year":2023,"income":47500},{"year":2024,"income":32500},{"year":2025,"income":120000}],"issues":[{"code":"TRA","display":"Transportation"}],"firms":["BECKER & POLIAKOFF, P.A."],"lobbyists":["OMAR FRANCO","ANTHONY BEDELL"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Transportation, Dept of (DOT)"],"sampleDescriptions":["Toll Road Issues","Transportation infrastructure finance and innovation act (TIFIA)","Transportation infrastructure finance and innovation act (TIFIA)","Transportation infrastructure finance and innovation act (TIFIA)","Transportation infrastructure finance and innovation act (TIFIA)"]}

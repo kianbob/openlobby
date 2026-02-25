@@ -1,11 +1,1 @@
-{
-  "name": "NIEDNER, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":187451,"name":"NIEDNER, INC.","slug":"niedner-inc","state":null,"country":"Canada","description":"manufacturer of firefighting, industrial and specialized applications hoses.","totalSpending":140000,"filings":27,"yearlySpending":[{"year":2018,"income":0},{"year":2019,"income":0},{"year":2020,"income":0},{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":60000},{"year":2024,"income":80000},{"year":2025,"income":0}],"issues":[{"code":"DIS","display":"Disaster Planning/Emergencies"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"CSP","display":"Consumer Issues/Safety/Products"},{"code":"MAN","display":"Manufacturing"},{"code":"DEF","display":"Defense"},{"code":"AGR","display":"Agriculture"},{"code":"GOV","display":"Government Issues"},{"code":"APP","display":"Apparel/Clothing Industry/Textiles"}],"firms":["CANSLER CONSULTING, LLC"],"lobbyists":["TIMOTHY CANSLER"],"govEntities":["Agriculture, Dept of (USDA)","U.S. Forest Service","Interior, Dept of (DOI)","Commerce, Dept of (DOC)","Defense Logistics Agency","White House Office","General Services Administration (GSA)","HOUSE OF REPRESENTATIVES","Environmental Protection Agency (EPA)","SENATE"],"sampleDescriptions":["procurement and logistics of fire hoses for US Forest Service.","procurement and logistics of fire hoses for US Forest Service.","procurement and logistics of fire hoses for US Forest Service.","procurement and logistics of fire hoses for US Forest Service.","procurement and logistics of fire hoses for US Forest Service."]}

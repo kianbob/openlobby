@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'How Federal Lobbying Works: A Complete Guide',
-  description: 'Learn how federal lobbying works in the United States. Understand the Lobbying Disclosure Act, lobbyist registration, quarterly reports, the revolving door, and how $15.2 billion flows through Washington.',
+  description: 'Learn how federal lobbying works in the United States. Understand the Lobbying Disclosure Act, lobbyist registration, quarterly reports, the revolving door, and how $37.7 billion flows through Washington.',
   keywords: ['how lobbying works', 'what is lobbying', 'lobbying disclosure act', 'federal lobbying', 'lobbyist registration', 'K Street'],
   openGraph: {
     title: 'How Federal Lobbying Works: A Complete Guide',
@@ -29,8 +29,8 @@ export default function HowLobbyingWorksPage() {
       {/* Quick Stats */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
         {[
-          { value: '$15.2B', label: 'Total Lobbying (2018-2025)' },
-          { value: '650,000+', label: 'Filings in Our Database' },
+          { value: '$37.7B', label: 'Total Lobbying (2018-2025)' },
+          { value: '726,000+', label: 'Filings in Our Database' },
           { value: '29,754', label: 'Registered Lobbyists' },
           { value: '79', label: 'Issue Categories' },
         ].map(s => (
@@ -67,7 +67,7 @@ export default function HowLobbyingWorksPage() {
         <p>
           Registered lobbyists must file quarterly reports (LD-2 forms) disclosing their clients, the issues they lobbied on,
           the government entities they contacted, and how much they were paid. This is the data that powers OpenLobby —
-          we&apos;ve analyzed <strong>over 650,000 of these filings</strong> from 2018 to 2025.
+          we&apos;ve analyzed <strong>over 726,000 of these filings</strong> from 2018 to 2025.
         </p>
 
         <h2 className="text-2xl font-bold mt-12 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>How Lobbying Actually Happens</h2>

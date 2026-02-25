@@ -1,11 +1,1 @@
-{
-  "name": "VERSUM MATERIALS US, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69057,"name":"VERSUM MATERIALS US, LLC","slug":"versum-materials-us-llc","state":"DC","country":"United States of America","description":"Semiconductor manufacturing and high-tech materials and solutions.","totalSpending":60000,"filings":3,"yearlySpending":[{"year":2025,"income":60000}],"issues":[{"code":"CHM","display":"Chemicals/Chemical Industry"},{"code":"MAN","display":"Manufacturing"},{"code":"SCI","display":"Science/Technology"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["VERSUM MATERIALS US, LLC"],"lobbyists":["STEPHANIE FRYE"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Commerce, Dept of (DOC)"],"sampleDescriptions":["Tariffs","Tariffs","Tariffs","Tariffs","General discussions related to tariffs"]}

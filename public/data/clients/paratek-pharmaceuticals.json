@@ -1,11 +1,1 @@
-{
-  "name": "PARATEK PHARMACEUTICALS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":191044,"name":"PARATEK PHARMACEUTICALS","slug":"paratek-pharmaceuticals","state":"MA","country":"United States of America","description":"Paratek, a biopharma company, develops transformative drugs to treat infectious diseases","totalSpending":42750,"filings":5,"yearlySpending":[{"year":2018,"income":15000},{"year":2019,"income":27750}],"issues":[{"code":"VET","display":"Veterans"},{"code":"HOM","display":"Homeland Security"},{"code":"DEF","display":"Defense"},{"code":"HCR","display":"Health Issues"}],"firms":["HOWARD CONSULTING GROUP, INC."],"lobbyists":["FRANK HOWARD"],"govEntities":["Defense, Dept of (DOD)","Health & Human Services, Dept of (HHS)","HOUSE OF REPRESENTATIVES","Natl Institutes of Health (NIH)","SENATE"],"sampleDescriptions":["Use of biopharmaceutical products by armed forces, veterans, first responders.","Use of biopharmaceutical products by armed forces, veterans, first responders.","Use of biopharmaceutical products by armed forces, veterans, first responders.","Use of biopharmaceutical products by armed forces, veterans, first responders.","- Antimicrobial applications to treatment of infectious diseases\n- Use of FDA approved products by defense and health agencies"]}

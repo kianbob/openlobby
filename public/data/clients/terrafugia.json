@@ -1,11 +1,1 @@
-{
-  "name": "TERRAFUGIA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":201016,"name":"TERRAFUGIA","slug":"terrafugia","state":"MA","country":"United States of America","description":"Practical flying cars that enable a new dimension of personal freedom","totalSpending":100000,"filings":5,"yearlySpending":[{"year":2018,"income":80000},{"year":2019,"income":20000}],"issues":[{"code":"AUT","display":"Automotive Industry"},{"code":"TRA","display":"Transportation"},{"code":"AVI","display":"Aviation/Airlines/Airports"}],"firms":["TEAM HALLAHAN LLC"],"lobbyists":["KATE HALLAHAN"],"govEntities":["Federal Aviation Administration (FAA)","HOUSE OF REPRESENTATIVES","SENATE","Transportation, Dept of (DOT)"],"sampleDescriptions":["Policies, legislation and regulations related to electric vertical take off and landing (eVTOL) technologies.","Policies, legislation and regulations related to electric vertical take off and landing (eVTOL) technologies.","Policies, legislation and regulations related to electric vertical take off and landing (eVTOL) technologies.","Flying Vehicle Policies and Regulations; House: H.R.4 - FAA Reauthorization Act of 2018; \ns. 1405:  Federal Aviation Administration Reauthorization Act of 2017.","Flying Vehicle Policies and Regulations; House: H.R.4 - FAA Reauthorization Act of 2018; \ns. 1405:  Federal Aviation Administration Reauthorization Act of 2017."]}

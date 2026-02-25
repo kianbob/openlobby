@@ -1,11 +1,1 @@
-{
-  "name": "EQUINOR ASA (FORMERLY STATOIL ASA)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":115299,"name":"EQUINOR ASA (FORMERLY STATOIL ASA)","slug":"equinor-asa-formerly-statoil-asa","state":"DC","country":"United States of America","description":"Energy Production and Distribution","totalSpending":10000,"filings":26,"yearlySpending":[{"year":2018,"income":10000},{"year":2019,"income":0},{"year":2020,"income":0},{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":0},{"year":2024,"income":0}],"issues":[{"code":"FOR","display":"Foreign Relations"},{"code":"GOV","display":"Government Issues"}],"firms":["COVINGTON & BURLING LLP"],"lobbyists":["BRIAN SMITH","ZACHARY PARKS","ALAN LARSON"],"govEntities":["Treasury, Dept of","State, Dept of (DOS)"],"sampleDescriptions":["Foreign Agents Registration Act reform legislation","Foreign Agents Registration Act reform legislation","U.S. Government rules regarding investment in the United States.","U.S. Government rules regarding investment in the United States.","U.S. Government rules regarding investment in the United States."]}

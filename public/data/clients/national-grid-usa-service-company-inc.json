@@ -1,11 +1,1 @@
-{
-  "name": "NATIONAL GRID USA SERVICE COMPANY INC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":65100,"name":"NATIONAL GRID USA SERVICE COMPANY, INC.","slug":"national-grid-usa-service-company-inc","state":"NY","country":"United States of America","description":"Electric and gas utility company","totalSpending":120000,"filings":5,"yearlySpending":[{"year":2025,"income":120000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["HILL EAST GROUP, LLC"],"lobbyists":["BRAD GENTILE","ERIN O'CONNOR ELLIOTT","TYLER GUTCHESS","JOHN KATKO"],"govEntities":["HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["New York State energy policy","Issues related to New York State energy policy (no specific legislation).","Issues related to New York State energy policy (no specific legislation).","Issues related to New York State energy policy (no specific legislation).","Issues related to New York State energy policy (no specific legislation)."]}

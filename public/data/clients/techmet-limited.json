@@ -1,11 +1,1 @@
-{
-  "name": "TECHMET LIMITED",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":65574,"name":"TECHMET LIMITED","slug":"techmet-limited","state":null,"country":"Ireland","description":"Private industrial company","totalSpending":300000,"filings":5,"yearlySpending":[{"year":2025,"income":300000}],"issues":[{"code":"NAT","display":"Natural Resources"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","ADRIAN LUKIS","WILLIAM RUSSELL"],"govEntities":["White House Office","Commerce, Dept of (DOC)","Defense, Dept of (DOD)","Energy, Dept of","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Advocacy on policy related to securing critical minerals supply chains.","Advocacy on policy related to securing critical minerals supply chains.","Advocacy on policy related to securing critical minerals supply chains.","Advocacy on policy related to securing critical minerals supply chains.","Advocacy on policy related to securing critical minerals supply chains."]}

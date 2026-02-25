@@ -1,11 +1,1 @@
-{
-  "name": "SOLVAY AMERICA LLC, A MEMBER OF THE SYENSQO GROUP (FKA SOLVAY AMERICA, INC.)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":61645,"name":"SOLVAY AMERICA LLC, A MEMBER OF THE SYENSQO GROUP (FKA SOLVAY AMERICA, INC.)","slug":"solvay-america-llc-a-member-of-the-syensqo-group-fka-solvay-america-inc","state":"NJ","country":"United States of America","description":"Chemicals and advanced materials production","totalSpending":140000,"filings":5,"yearlySpending":[{"year":2024,"income":80000},{"year":2025,"income":60000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["THE VOGEL GROUP"],"lobbyists":["ALI KHIMJI","SAMIR KAPADIA","ALEXANDER VOGEL"],"govEntities":["Commerce, Dept of (DOC)","Energy, Dept of","HOUSE OF REPRESENTATIVES","SENATE","State, Dept of (DOS)","White House Office"],"sampleDescriptions":["Issues related to clean energy programs and building resilient energy supply chains.","Issues related to incentives, clean energy programs, and building resilient energy supply chains.","Issues related to incentives, clean energy programs, and building resilient energy supply chains.","Issues related to incentives, clean energy programs, and building resilient energy supply chains.","Issues related to incentives, clean energy programs, and building resilient energy supply chains."]}

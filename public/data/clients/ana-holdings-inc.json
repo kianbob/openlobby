@@ -1,11 +1,1 @@
-{
-  "name": "ANA HOLDINGS, INC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":205186,"name":"ANA HOLDINGS, INC.","slug":"ana-holdings-inc","state":null,"country":"Japan","description":"Airline","totalSpending":170000,"filings":7,"yearlySpending":[{"year":2020,"income":170000},{"year":2021,"income":0}],"issues":[{"code":"AVI","display":"Aviation/Airlines/Airports"},{"code":"TOU","display":"Travel/Tourism"}],"firms":["BANNER PUBLIC AFFAIRS, LLC"],"lobbyists":["RICHARD HOAR","MATTHEW BORMET","CHRISTIAN WHITON"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Airports, travel, and trade issues.","Airports, travel, and trade issues.","Airports, Travel, Trade Issues and Preclearance. Homeland Security FY2021 appropriations","Airports, Travel, Trade Issues and Preclearance. Homeland Security FY2021 appropriations","Airports, Travel, Trade Issues and Preclearance. H.R. 7668, Homeland Security FY2021 appropriations"]}

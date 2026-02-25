@@ -1,11 +1,1 @@
-{
-  "name": "KNDS - KMW + NEXTER DEFENSE SYSTEMS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":213376,"name":"KNDS - KMW + NEXTER DEFENSE SYSTEMS","slug":"knds-kmw-nexter-defense-systems","state":null,"country":"Netherlands","description":"Defense Manufacturing - NATO Defense Supplier","totalSpending":660000,"filings":24,"yearlySpending":[{"year":2022,"income":240000},{"year":2023,"income":180000},{"year":2024,"income":120000},{"year":2025,"income":120000}],"issues":[{"code":"DEF","display":"Defense"}],"firms":["REPUBLIC CONSULTANTS, LLC"],"lobbyists":["RON PHILLIPS"],"govEntities":["Defense, Dept of (DOD)","HOUSE OF REPRESENTATIVES","SENATE","Army, Dept of (Other)","Defense Department Field Activities"],"sampleDescriptions":["Defense Appropriations and Authorization - Department of Defense","NDAA - HASC, NDAA - SASC","HASC - NDAA SASC - NDAA","HASC - NDAA SASC - NDAA","HASC - NDAA SASC - NDAA"]}

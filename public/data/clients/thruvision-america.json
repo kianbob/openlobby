@@ -1,11 +1,1 @@
-{
-  "name": "THRUVISION AMERICA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":201138,"name":"THRUVISION AMERICA","slug":"thruvision-america","state":"VA","country":"United States of America","description":"passive screening security technology manufacturer","totalSpending":495000,"filings":34,"yearlySpending":[{"year":2018,"income":70000},{"year":2019,"income":80000},{"year":2020,"income":80000},{"year":2021,"income":80000},{"year":2022,"income":80000},{"year":2023,"income":80000},{"year":2024,"income":10000},{"year":2025,"income":15000}],"issues":[{"code":"BUD","display":"Budget/Appropriations"},{"code":"HOM","display":"Homeland Security"},{"code":"LAW","display":"Law Enforcement/Crime/Criminal Justice"}],"firms":["A1.9 STRATEGIES LLC"],"lobbyists":["MICHAEL HIGDON","JEFFREY NANCE"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Transportation Security Administration (TSA)"],"sampleDescriptions":["DHS adoption and use of standoff screening technologies; Congressional funding of FEMA state and local grants","DHS adoption and use of standoff screening technologies; Congressional funding of FEMA state and local grants","Support for Thruvision non-intrusive standoff technology adoption by TSA, CBP and other DHS entities.","Support for Thruvision non-intrusive standoff technology adoption by TSA, CBP and other DHS entities.","Support for Thruvision non-intrusive standoff technology adoption by TSA, CBP and other DHS entities."]}

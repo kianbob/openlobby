@@ -1,11 +1,1 @@
-{
-  "name": "GOLDEN PASS LNG TERMINAL LLC - FKA - GOLDEN PASS PRODUCTS LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":196090,"name":"GOLDEN PASS LNG TERMINAL LLC - FKA - GOLDEN PASS PRODUCTS LLC","slug":"golden-pass-lng-terminal-llc-fka-golden-pass-products-llc","state":"TX","country":"United States of America","description":"Energy company that produces liquefied natural gas.","totalSpending":790000,"filings":28,"yearlySpending":[{"year":2019,"income":40000},{"year":2020,"income":120000},{"year":2021,"income":120000},{"year":2022,"income":120000},{"year":2023,"income":120000},{"year":2024,"income":150000},{"year":2025,"income":120000}],"issues":[{"code":"BUD","display":"Budget/Appropriations"},{"code":"ENV","display":"Environment/Superfund"},{"code":"ENG","display":"Energy/Nuclear"},{"code":"FUE","display":"Fuel/Gas/Oil"},{"code":"TRA","display":"Transportation"}],"firms":["MABRY PUBLIC AFFAIRS LLC"],"lobbyists":["MILAM MABRY"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Energy, Dept of","Transportation, Dept of (DOT)"],"sampleDescriptions":["All issues relating to the production and transit of Liquefied Natural Gas.","All issues relating to the production and transit of Liquefied Natural Gas.","All issues relating to the production and transit of Liquefied Natural Gas.","All issues relating to the production and transit of Liquefied Natural Gas.","Fiscal Year 2020 Appropriations Legislation impacting the U.S. Liquefied Natural Gas Industry."]}

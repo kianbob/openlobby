@@ -1,11 +1,1 @@
-{
-  "name": "DESRI",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":67725,"name":"DESRI","slug":"desri","state":"NY","country":"United States of America","description":"Developer, owner, and operator of renewable energy projects.","totalSpending":180000,"filings":4,"yearlySpending":[{"year":2025,"income":180000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["TRIPP MCKEMEY","ZACHARY PFISTER","HAROLD HANCOCK","MATT GRINNEY","GRETA JOYNES","BRIAN MCGUIRE","JONATHAN TOWERS","JOHN REISING","MARK PRYOR","ANNICK MILLER","TRACY TOLK","AARON THIELE","AARON CUMMINGS","SAMANTHA CARL-YODER"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Treasury, Dept of","Federal Energy Regulatory Commission (FERC)","White House Office"],"sampleDescriptions":["Issues related to renewable energy projects in the US. Issues related to renewable energy tax credits.","Issues related to renewable energy projects in the US. Issues related to renewable energy tax credits.","Issues related to clean energy tax credits in the congressional budget reconciliation process and other legislative vehicles H.R.1 One Big Beautiful Bill","Issues related to clean energy tax credits in the congressional budget reconciliation process and other legislative vehicles H.R.1 One Big Beautiful Bill","Issues related to renewable energy"]}

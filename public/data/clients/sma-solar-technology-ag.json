@@ -1,11 +1,1 @@
-{
-  "name": "SMA SOLAR TECHNOLOGY AG",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69166,"name":"SMA SOLAR TECHNOLOGY AG","slug":"sma-solar-technology-ag","state":null,"country":"Germany","description":"A global power inverter manufacturer","totalSpending":70000,"filings":3,"yearlySpending":[{"year":2025,"income":70000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["WILLIAMS AND JENSEN, PLLC"],"lobbyists":["DANIEL ZIEGLER","FRANK VLOSSAK"],"govEntities":["Energy, Dept of","HOUSE OF REPRESENTATIVES","SENATE","White House Office","Federal Energy Regulatory Commission (FERC)"],"sampleDescriptions":["Issues related to permitting reform and grid interconnection rules including FERC regulations.","Issues related to permitting reform and grid interconnection rules including FERC regulations.","Issues related to permitting reform and grid interconnection rules including FERC regulations."]}

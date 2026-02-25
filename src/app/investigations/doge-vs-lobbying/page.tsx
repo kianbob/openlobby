@@ -7,13 +7,13 @@ import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
   title: 'DOGE Wants to Cut Government. $4.4 Billion in Lobbying Wants to Keep It.',
-  description: 'The Department of Government Efficiency wants to slash federal spending. But the lobbying industry spent a record $4.4 billion in 2024 to keep the money flowing. Here\'s who\'s fighting back.',
+  description: 'The Department of Government Efficiency wants to slash federal spending. But the lobbying industry spent a record $5.2 billion in 2024 to keep the money flowing. Here\'s who\'s fighting back.',
 }
 
 export default function DogeVsLobbyingPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "DOGE Wants to Cut Government. $4.4 Billion in Lobbying Wants to Keep It.", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "The Department of Government Efficiency wants to slash federal spending. But the lobbying industry spent a record $4.4 billion in 2024.", mainEntityOfPage: "https://www.openlobby.us/investigations/doge-vs-lobbying" }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "DOGE Wants to Cut Government. $4.4 Billion in Lobbying Wants to Keep It.", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "The Department of Government Efficiency wants to slash federal spending. But the lobbying industry spent a record $5.2 billion in 2024.", mainEntityOfPage: "https://www.openlobby.us/investigations/doge-vs-lobbying" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'DOGE vs. The Lobbying Machine' },
@@ -45,7 +45,7 @@ export default function DogeVsLobbyingPage() {
         <h2 className="text-lg font-bold text-red-700 mb-2">The Bottom Line</h2>
         <p className="text-gray-700">
           The Department of Government Efficiency (DOGE) has promised to slash federal spending and eliminate waste. 
-          But the lobbying industry — which spent a record <strong>$4.4 billion in 2024 alone</strong> — exists specifically 
+          But the lobbying industry — which spent a record <strong>$5.2 billion in 2024 alone</strong> — exists specifically 
           to keep government money flowing. Every contract DOGE tries to cut has a lobbyist fighting to save it. 
           Every agency DOGE targets has an industry that depends on it. This is the story of an unstoppable force 
           meeting an extremely well-funded immovable object.
@@ -56,7 +56,7 @@ export default function DogeVsLobbyingPage() {
         <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The $4.4 Billion Machine</h2>
         
         <p>
-          In 2024, federal lobbying hit an all-time record: <strong>$4.4 billion</strong>. That&apos;s $150 million more than 2023, 
+          In 2024, federal lobbying hit an all-time record: <strong>$5.2 billion</strong>. That&apos;s $150 million more than 2023, 
           continuing an upward trend that started in 2016. The number of registered lobbyists, the amount of money flowing 
           through K Street, and the scope of issues being lobbied on — all at historic highs.
         </p>
@@ -207,7 +207,7 @@ export default function DogeVsLobbyingPage() {
 
         <p>
           The question isn&apos;t whether DOGE can identify waste. It&apos;s whether any reform effort can overcome 
-          a $4.4 billion industry whose entire purpose is preventing exactly that.
+          a $5.2 billion industry whose entire purpose is preventing exactly that.
         </p>
 
         <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What This Means for Taxpayers</h2>
@@ -219,7 +219,7 @@ export default function DogeVsLobbyingPage() {
         </p>
 
         <p>
-          $4.4 billion a year isn&apos;t spent on lobbying because it doesn&apos;t work. It&apos;s spent because 
+          $5.2 billion a year isn&apos;t spent on lobbying because it doesn&apos;t work. It&apos;s spent because 
           the return on investment is extraordinary. Studies have found that for every dollar spent 
           on lobbying, companies see returns of $200 or more in tax benefits, contracts, and favorable regulation.
         </p>

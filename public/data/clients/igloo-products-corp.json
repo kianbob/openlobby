@@ -1,11 +1,1 @@
-{
-  "name": "IGLOO PRODUCTS CORP",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":213526,"name":"IGLOO PRODUCTS CORP.","slug":"igloo-products-corp","state":"TX","country":"United States of America","description":"manufacturing","totalSpending":0,"filings":4,"yearlySpending":[{"year":2022,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["BUTZEL LONG, P.C."],"lobbyists":["LESLIE GLICK"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["The matter concerns customs classification.","Inquiry relating to U.S. Customs and Border Protection matter.","Inquiry relating to U.S. Customs and Border Protection matter.","Inquiry relating to U.S. Customs and Border Protection matter."]}

@@ -1,11 +1,1 @@
-{
-  "name": "VHG LABS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":122565,"name":"VHG LABS, INC.","slug":"vhg-labs-inc","state":"NH","country":"United States of America","description":"Global producer and distributor of reference materials and proficiency testing schemes.","totalSpending":100000,"filings":4,"yearlySpending":[{"year":2018,"income":100000}],"issues":[{"code":"PHA","display":"Pharmacy"}],"firms":["GREENBERG TRAURIG, LLP"],"lobbyists":["TIM HUTCHINSON","CHARLES BASS","ANNA LAAKMANN","RANDY FORBES"],"govEntities":["Food & Drug Administration (FDA)","SENATE"],"sampleDescriptions":["Administrative and legislative monitoring and outreach on issues related to pharmaceutical reference standards.","Administrative and legislative monitoring and outreach on issues related to pharmaceutical reference standards.","Administrative and legislative monitoring and outreach on issues related to pharmaceutical reference standards."]}

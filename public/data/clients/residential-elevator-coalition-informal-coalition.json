@@ -1,11 +1,1 @@
-{
-  "name": "RESIDENTIAL ELEVATOR COALITION (INFORMAL COALITION)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":212631,"name":"RESIDENTIAL ELEVATOR COALITION (INFORMAL COALITION)","slug":"residential-elevator-coalition-informal-coalition","state":"DC","country":"United States of America","description":"Manufacturing","totalSpending":40000,"filings":7,"yearlySpending":[{"year":2021,"income":30000},{"year":2022,"income":10000},{"year":2023,"income":0}],"issues":[{"code":"CSP","display":"Consumer Issues/Safety/Products"}],"firms":["BRACEWELL LLP"],"lobbyists":["EDWARD KRENIK","CHRISTINE WYMAN"],"govEntities":["Consumer Product Safety Commission (CPSC)"],"sampleDescriptions":["Issues in front of the Consumer Product Safety Commission.","Issues in front of the Consumer Product Safety Commission.","Issues in front of the Consumer Product Safety Commission."]}

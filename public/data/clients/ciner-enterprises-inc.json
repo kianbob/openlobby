@@ -1,11 +1,1 @@
-{
-  "name": "CINER ENTERPRISES INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":186719,"name":"CINER ENTERPRISES INC.","slug":"ciner-enterprises-inc","state":"GA","country":"United States of America","description":"Company that extracts and processes natural soda ash.","totalSpending":20000,"filings":4,"yearlySpending":[{"year":2018,"income":20000}],"issues":[{"code":"NAT","display":"Natural Resources"}],"firms":["KOUNTOUPES DENHAM CARR & REID, LLC"],"lobbyists":["MARY REID"],"govEntities":["Bureau of Land Management (BLM)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to new soda ash greenfield site.","Issues related to new soda ash greenfield site."]}

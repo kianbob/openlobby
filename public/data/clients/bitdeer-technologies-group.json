@@ -1,11 +1,1 @@
-{
-  "name": "BITDEER TECHNOLOGIES GROUP",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":70098,"name":"BITDEER TECHNOLOGIES GROUP","slug":"bitdeer-technologies-group","state":"TX","country":"United States of America","description":"Technology firm focused on data centers, compute systems, and digital infrastructure.","totalSpending":50000,"filings":2,"yearlySpending":[{"year":2025,"income":50000}],"issues":[{"code":"SCI","display":"Science/Technology"},{"code":"CPI","display":"Computer Industry"},{"code":"ENG","display":"Energy/Nuclear"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"},{"code":"GOV","display":"Government Issues"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"MAN","display":"Manufacturing"}],"firms":["TOWER STRATEGY, LLC"],"lobbyists":["ENRIQUE DE LA TORRE"],"govEntities":["Bureau of Industry and Security (BIS)","Energy, Dept of","HOUSE OF REPRESENTATIVES","Vice President of the U.S.","White House Office"],"sampleDescriptions":["Support for federal policies affecting data centers, high performance computing infrastructure, and large energy load facilities. Engagement with DOE, DOC, and other federal agencies on energy access,","Support for federal policies affecting data centers, high performance computing infrastructure, and large energy load facilities. Engagement with DOE, DOC, and other federal agencies on energy access,","Support for federal policies affecting data centers, high performance computing infrastructure, and large energy load facilities. Engagement with DOE, DOC, and other federal agencies on energy access,","Support for federal policies affecting data centers, high performance computing infrastructure, and large energy load facilities. Engagement with DOE, DOC, and other federal agencies on energy access,","Support for federal policies affecting data centers, high performance computing infrastructure, and large energy load facilities. Engagement with DOE, DOC, and other federal agencies on energy access,"]}

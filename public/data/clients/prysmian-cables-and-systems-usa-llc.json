@@ -1,11 +1,1 @@
-{
-  "name": "PRYSMIAN CABLES AND SYSTEMS USA, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":66766,"name":"PRYSMIAN CABLES AND SYSTEMS USA, LLC","slug":"prysmian-cables-and-systems-usa-llc","state":"KY","country":"United States of America","description":"Cable Manufacturing","totalSpending":80000,"filings":5,"yearlySpending":[{"year":2025,"income":80000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"},{"code":"MAN","display":"Manufacturing"}],"firms":["KING & SPALDING LLP"],"lobbyists":["THOMAS SPULAK","JAMES TAYLOR"],"govEntities":["Energy, Dept of","Federal Energy Regulatory Commission (FERC)","Commerce, Dept of (DOC)"],"sampleDescriptions":["Advocacy regarding US Manufacturing","Advocacy regarding US Manufacturing","Advocacy regarding US Manufacturing.","Advocacy regarding US Energy.","Advocacy regarding US Manufacturing."]}

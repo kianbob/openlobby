@@ -1,11 +1,1 @@
-{
-  "name": "BITDEER",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":70757,"name":"BITDEER","slug":"bitdeer","state":null,"country":"Singapore","description":"Bitcoin Mining","totalSpending":150000,"filings":2,"yearlySpending":[{"year":2025,"income":150000}],"issues":[{"code":"FIN","display":"Financial Institutions/Investments/Securities"}],"firms":["CHECKMATE GOVERNMENT RELATIONS"],"lobbyists":["FREDERICK VAUGHAN","CHARLES MCDOWELL","JAMES JOHNSON","MUHAMMAD RAHIM"],"govEntities":["Energy, Dept of","White House Office"],"sampleDescriptions":["Issues related to digital assets and AI","Issues related to digital assets and AI."]}

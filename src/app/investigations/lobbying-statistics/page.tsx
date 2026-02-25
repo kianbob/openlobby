@@ -26,10 +26,10 @@ export default function LobbyingStatisticsPage() {
           <h2 className="text-lg font-bold text-indigo-900 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Key Statistics at a Glance</h2>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {[
-              { label: 'Total Lobbying (2018-2025)', value: '$15.2 Billion' },
+              { label: 'Total Lobbying (2018-2025)', value: '$37.7 Billion' },
               { label: '2025 Lobbying Income', value: '$2.7 Billion' },
               { label: '2024 Lobbying Income', value: '$2.0 Billion' },
-              { label: 'Total Filings', value: '650,333' },
+              { label: 'Total Filings', value: '726,268' },
               { label: 'Year-over-Year Growth', value: '+36%' },
               { label: 'Years of Data', value: '2018–2025' },
             ].map(s => (
@@ -103,7 +103,7 @@ export default function LobbyingStatisticsPage() {
 
         <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>About This Data</h2>
         <p>All statistics on OpenLobby come from the <a href="https://lda.senate.gov" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline">Senate Lobbying Disclosure Act (LDA) filing system</a>. We process every filing from 2018 through 2025, normalize entity names, and aggregate spending by client, firm, lobbyist, issue, and state.</p>
-        <p>Our dataset includes <strong>650,333 filings</strong> totaling <strong>$15.2 billion</strong> in reported lobbying income.</p>
+        <p>Our dataset includes <strong>726,000+ filings</strong> totaling <strong>$37.7 billion</strong> in reported lobbying income.</p>
 
         <div className="mt-8 p-6 bg-gray-50 rounded-xl not-prose">
           <h3 className="font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Explore the Data</h3>

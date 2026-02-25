@@ -1,11 +1,1 @@
-{
-  "name": "SMA AMERICA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":60810,"name":"SMA AMERICA","slug":"sma-america","state":"CA","country":"United States of America","description":"SMA America is a global inverter solar manufacturer with headquarters in CA and Germany.","totalSpending":64750,"filings":24,"yearlySpending":[{"year":2024,"income":37000},{"year":2025,"income":27750}],"issues":[{"code":"ENG","display":"Energy/Nuclear"},{"code":"GOV","display":"Government Issues"},{"code":"MAN","display":"Manufacturing"},{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["SMA AMERICA"],"lobbyists":["ANTHONY LAURITA"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Domestic Manufacturing Incentives like 45x of the IRA; Protecting a strong solar supply chain through trade partners in Europe; advocating for permitting and transmission reform in favor of clean ener","Domestic Manufacturing Incentives like 45x of the IRA; Protecting a strong solar supply chain through trade partners in Europe; advocating for permitting and transmission reform in favor of clean ener","Domestic Manufacturing Incentives like 45x of the IRA; Protecting a strong solar supply chain through trade partners in Europe; advocating for permitting and transmission reform in favor of clean ener","Domestic Manufacturing Incentives like 45x of the IRA; Protecting a strong solar supply chain through trade partners in Europe; advocating for permitting and transmission reform in favor of clean ener","Domestic Manufacturing Incentives like 45x of the IRA; Protecting a strong solar supply chain through trade partners in Europe; advocating for permitting and transmission reform in favor of clean ener"]}

@@ -1,11 +1,1 @@
-{
-  "name": "JINDAL SOUTH AMERICA METALS AND MINING (FKAVULCAN SOUTH AMERICA METALS & MINING)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":63461,"name":"JINDAL SOUTH AMERICA METALS AND MINING (FKAVULCAN SOUTH AMERICA METALS & MINING)","slug":"jindal-south-america-metals-and-mining-fkavulcan-south-america-metals-mining","state":null,"country":"Mauritius","description":"Mineral exploration company","totalSpending":520000,"filings":7,"yearlySpending":[{"year":2024,"income":40000},{"year":2025,"income":480000}],"issues":[{"code":"NAT","display":"Natural Resources"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS"],"govEntities":["State, Dept of (DOS)","Commerce, Dept of (DOC)"],"sampleDescriptions":["Advocacy related to steel and energy production.","Advocacy related to steel and energy production.","Advocacy related to steel and energy production.","Advocacy related to steel and energy production.","Advocacy related to steel and energy production."]}

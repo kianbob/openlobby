@@ -1,11 +1,1 @@
-{
-  "name": "1776 PHARMACEUTICALS LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":206755,"name":"1776 PHARMACEUTICALS LLC","slug":"1776-pharmaceuticals-llc","state":"CA","country":"United States of America","description":"Pharmaceutical Manufacturing","totalSpending":210000,"filings":5,"yearlySpending":[{"year":2020,"income":130000},{"year":2021,"income":80000}],"issues":[{"code":"PHA","display":"Pharmacy"},{"code":"MAN","display":"Manufacturing"},{"code":"HCR","display":"Health Issues"}],"firms":["COVINGTON & BURLING LLP"],"lobbyists":["JOAN KUTCHER","MUFTIAH MCCARTIN","LAYTH ELHASSANI","GARY HEIMBERG","HOWARD BERMAN","BRODERICK JOHNSON"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Re-shoring production of essential medicine","Re-shoring production of essential medicine","Re-shoring production of essential medicine","Re-shoring production of essential medicine","Re-shoring production of essential medicine"]}

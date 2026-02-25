@@ -1,17 +1,1 @@
-{
-  "name": "MONTE VALLE ENERGY LLC",
-  "slug": "monte-valle-energy-llc",
-  "state": "FL",
-  "totalSpend": 900000,
-  "filings": 3,
-  "years": [
-    2025
-  ],
-  "issues": [
-    "ENG"
-  ],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "descriptions": []
-}
+{"id":66684,"name":"MONTE VALLE ENERGY LLC","slug":"monte-valle-energy-llc","state":"FL","country":"United States of America","description":"Investment firm","totalSpending":900000,"filings":5,"yearlySpending":[{"year":2025,"income":900000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["CHECKMATE GOVERNMENT RELATIONS"],"lobbyists":["FREDERICK VAUGHAN","CHARLES MCDOWELL","WILLIAM O'DWYER","CHRISTOPHER LACIVITA"],"govEntities":["Energy, Dept of","Treasury, Dept of"],"sampleDescriptions":["Sanctions and energy policy related to commercial activity in Europe","Agency engagement focused on sanctions and energy policy related to commercial activity in Europe.","Agency engagement focused on sanctions and energy policy related to commercial activity in Europe.","Agency engagement focused on sanctions and energy policy related to commercial activity in Europe.","Agency engagement focused on sanctions and energy policy related to commercial activity in Europe."]}

@@ -1,11 +1,1 @@
-{
-  "name": "WESTINGHOUSE ELECTRIC COMPANY LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":59451,"name":"WESTINGHOUSE ELECTRIC COMPANY LLC","slug":"westinghouse-electric-company-llc","state":"DC","country":"United States of America","description":"Nuclear Energy Manufacturer/Supplier","totalSpending":320000,"filings":6,"yearlySpending":[{"year":2024,"income":290000},{"year":2025,"income":30000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["K&L GATES, LLP"],"lobbyists":["MATTHEW LEGGETT","TIM PECKINPAUGH","MICHAEL DOYLE","SCOTT ALIFERIS","ANDREW TABLER","SCOTT NELSON","RYAN CARNEY"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Army, Dept of (Other)","Defense, Dept of (DOD)"],"sampleDescriptions":["Advanced reactor and micoreactor technology and nuclear fuels.","Yet to be introduced FY 25, Energy & Water Appropriations, accident tolerate fuels and microreactors. Yet to be introduced FY 25, Defense Appropriations, microreactor program. Yet to be introduced FY ","H.R.8997, Energy and Water Development and Related Agencies Appropriations Act, 2025, accident tolerate fuels and microreactors. H.R.8774, Department of Defense Appropriations Act, 2025, microreactor ","H.R.8997, S. 4927 - Energy and Water Development and Related Agencies Appropriations Act, 2025, accident tolerate fuels and microreactors. H.R.8774, S. 4921 - Department of Defense Appropriations Act,","H.R.8997, S. 4927 - Energy and Water Development and Related Agencies Appropriations Act, 2025, accident tolerate fuels and microreactors. H.R.8774, S. 4921 - Department of Defense Appropriations Act,"]}

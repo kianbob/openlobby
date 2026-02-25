@@ -1,11 +1,1 @@
-{
-  "name": "LARAMIDE RESOURCES",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69450,"name":"LARAMIDE RESOURCES","slug":"laramide-resources","state":"CO","country":"United States of America","description":"mineral developer","totalSpending":100000,"filings":6,"yearlySpending":[{"year":2025,"income":100000}],"issues":[{"code":"NAT","display":"Natural Resources"}],"firms":["LOT SIXTEEN LLC"],"lobbyists":["ASHLEY NICHOLS (MCMANUS)","COLIN HAYES","NICOLE HERENDEEN"],"govEntities":["White House Office","Energy, Dept of"],"sampleDescriptions":["permitting of mineral projects","permitting of minerals projects","Permitting of mineral projects","permitting of minerals projects","policies related to mineral development"]}

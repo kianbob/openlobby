@@ -1,11 +1,1 @@
-{
-  "name": "HICKEY FREEMAN TAILORED CLOTHING, INC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":151528,"name":"HICKEY FREEMAN TAILORED CLOTHING, INC","slug":"hickey-freeman-tailored-clothing-inc","state":"NY","country":"United States of America","description":"Clothing manufacturer","totalSpending":630000,"filings":23,"yearlySpending":[{"year":2018,"income":40000},{"year":2019,"income":40000},{"year":2020,"income":40000},{"year":2021,"income":150000},{"year":2022,"income":340000},{"year":2023,"income":20000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"APP","display":"Apparel/Clothing Industry/Textiles"},{"code":"MAN","display":"Manufacturing"}],"firms":["WILLIAMS AND JENSEN, PLLC"],"lobbyists":["DAVID STARR","MELINDA MAXFIELD","SUSAN HIRSCHMANN","SCOTT GRAVES","JACK HART","LEAH KIM","CHRISTOPHER HATCHER","MATTHEW HOEKSTRA","ANN MARIE BUERKLE","LAURA SIMMONS","CHRISTOPHER WILCOX","MAHLET MAKONNEN","MARTI THOMAS"],"govEntities":["Agriculture, Dept of (USDA)","HOUSE OF REPRESENTATIVES","SENATE","Commerce, Dept of (DOC)","Federal Emergency Management Agency (FEMA)","Food & Drug Administration (FDA)","Health & Human Services, Dept of (HHS)","U.S. Trade Representative (USTR)","White House Office","Office of Management & Budget (OMB)"],"sampleDescriptions":["Duties on wool fabrics; 2018 Farm Bill.","Duties on wool fabrics; 2018 Farm Bill.","Duties on wool fabrics; 2018 Farm Bill.","Duties on wool fabrics; 2018 Farm Bill.  (H.R. 2; S. 3042); Duties on cashmere fabrics (S. 3470).","Duties on wool fabrics; 2018 Farm Bill implementation."]}

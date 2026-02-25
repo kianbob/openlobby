@@ -1,11 +1,1 @@
-{
-  "name": "BORUSAN MANNESMANN PIPE",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202740,"name":"BORUSAN MANNESMANN PIPE","slug":"borusan-mannesmann-pipe","state":"TX","country":"United States of America","description":"Steel Pipe Manufacturing","totalSpending":300000,"filings":4,"yearlySpending":[{"year":2018,"income":300000}],"issues":[{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"}],"firms":["THE PATAKI-CAHILL GROUP"],"lobbyists":["GEORGE PATAKI"],"govEntities":["Commerce, Dept of (DOC)"],"sampleDescriptions":["Section 232 Tariffs on Steel & Aluminum","Section 232 of the Trade Expansion Act of 1962","Section 232 of the Trade Expansion Act of 1962","Section 232 of the Trade Expansion Act of 1962"]}

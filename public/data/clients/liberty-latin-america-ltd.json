@@ -1,11 +1,1 @@
-{
-  "name": "LIBERTY LATIN AMERICA, LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":208755,"name":"LIBERTY LATIN AMERICA LTD.","slug":"liberty-latin-america-ltd","state":"CO","country":"United States of America","description":"Communications","totalSpending":0,"filings":12,"yearlySpending":[{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":0}],"issues":[{"code":"TEC","display":"Telecommunications"},{"code":"FOR","display":"Foreign Relations"}],"firms":["AKERMAN LLP"],"lobbyists":["AUGUSTO MAXWELL","MATTHEW AHO"],"govEntities":["State, Dept of (DOS)","Natl Security Council (NSC)"],"sampleDescriptions":["Regulation of telecommunications","Regulation of telecommunications","Regulation of telecommunications","Regulation of telecommunications","Regulation of telecommunications"]}

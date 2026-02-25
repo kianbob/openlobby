@@ -1,11 +1,1 @@
-{
-  "name": "SANY AMERICA, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":107109,"name":"SANY AMERICA, INC.","slug":"sany-america-inc","state":"GA","country":"United States of America","description":"Manufactures, sells and supports construction and material handling equipment.","totalSpending":70000,"filings":17,"yearlySpending":[{"year":2018,"income":20000},{"year":2019,"income":0},{"year":2020,"income":50000},{"year":2021,"income":0},{"year":2022,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"}],"firms":["BARNES & THORNBURG, LLP"],"lobbyists":["DAVID SPOONER","ROBERT GANIM","RICHARD KAYE"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Assist client with trade and tariff issues.","Assist client with trade and tariff issues.","Assist client with trade and tariff issues relating to its products.","Assist client with trade and tariff issues relating to its products.","Assist client with trade and tariff issues relating to its products."]}

@@ -1,11 +1,1 @@
-{
-  "name": "ITG BRANDS, LLC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":122528,"name":"ITG BRANDS, LLC.","slug":"itg-brands-llc","state":"NC","country":"United States of America","description":"Tobacco product manufacturer","totalSpending":400000,"filings":12,"yearlySpending":[{"year":2018,"income":100000},{"year":2019,"income":120000},{"year":2020,"income":180000}],"issues":[{"code":"GOV","display":"Government Issues"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"HCR","display":"Health Issues"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"TOB","display":"Tobacco"}],"firms":["GREENBERG TRAURIG, LLP"],"lobbyists":["K MCKAY","KATIE PHILLIPS REED","ALBERT WYNN","TIM HUTCHINSON","MONICA PRAHL SCHULTEIS"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Legislative outreach and monitoring related to issues affecting lobbying disclosure.","Congressional outreach and monitoring related to the tobacco industry.\nMonitor the implementation of Family Smoking Prevention and Tobacco Control Act (P.L. 113-3).\nMonitor federal and legislative act","Congressional outreach and monitoring related to the tobacco industry.\nMonitor the implementation of Family Smoking Prevention and Tobacco Control Act (P.L. 113-3).\nMonitor federal and legislative act","Congressional outreach and monitoring related to the tobacco industry.\nMonitor the implementation of Family Smoking Prevention and Tobacco Control Act (P.L. 113-3).\nMonitor federal and legislative act","Congressional outreach and monitoring related to the tobacco industry.\nMonitor the implementation of Family Smoking Prevention and Tobacco Control Act (P.L. 113-3).\nMonitor federal and legislative act"]}

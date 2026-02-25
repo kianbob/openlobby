@@ -1,11 +1,1 @@
-{
-  "name": "GLAXOSMITHKLINE CONSUMER HEALTHCARE HOLDINGS (US) LLC DBA HALEON",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":51094,"name":"GLAXOSMITHKLINE CONSUMER HEALTHCARE HOLDINGS (US) LLC DBA HALEON","slug":"glaxosmithkline-consumer-healthcare-holdings-us-llc-dba-haleon","state":"NJ","country":"United States of America","description":"Consumer health care company","totalSpending":620000,"filings":9,"yearlySpending":[{"year":2022,"income":190000},{"year":2023,"income":430000}],"issues":[{"code":"MMM","display":"Medicare/Medicaid"},{"code":"MED","display":"Medical/Disease Research/Clinical Labs"},{"code":"HCR","display":"Health Issues"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"TOB","display":"Tobacco"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["VENABLE LLP"],"lobbyists":["JENNIFER TAYLOR MCBRIDE","ILISA HALPERN PAUL","LAURA HANEN","JIM TWADDELL","SARAH DONOVAN","SAMUEL OLCHYK"],"govEntities":["SENATE","HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Oral health; tobacco cessation; self-care; dietary supplements; FDA policy for over-the-counter products; pain management","Oral health; tobacco cessation; self-care; dietary supplements; FDA policy for over-the-counter products; pain management","Oral health; tobacco cessation; self-care; dietary supplements; FDA policy for over-the-counter products; pain management","Oral health; tobacco cessation; self-care; dietary supplements; FDA policy for over-the-counter products; pain management","Oral health; tobacco cessation; self-care; dietary supplements; FDA policy for over-the-counter products; pain management"]}

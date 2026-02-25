@@ -1,11 +1,1 @@
-{
-  "name": "FMG PROCUREMENT SERVICES PTY LTD",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":65217,"name":"FMG PROCUREMENT SERVICES PTY LTD","slug":"fmg-procurement-services-pty-ltd","state":null,"country":"Australia","description":"Technology, energy and metals group","totalSpending":80000,"filings":3,"yearlySpending":[{"year":2025,"income":80000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS"],"govEntities":["Commerce, Dept of (DOC)","Energy, Dept of","SENATE","White House Office"],"sampleDescriptions":["Tax credits for clean energy products.","Tax credits for clean energy products.","Tax credits for clean energy products.","Tax credits for clean energy products.","Tax credits for clean energy products."]}

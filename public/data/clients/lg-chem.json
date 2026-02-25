@@ -1,11 +1,1 @@
-{
-  "name": "LG CHEM",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":208094,"name":"LG CHEM","slug":"lg-chem","state":null,"country":"South Korea","description":"Chemical company.","totalSpending":0,"filings":5,"yearlySpending":[{"year":2020,"income":0},{"year":2021,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["MAYER BROWN LLP"],"lobbyists":["TIMOTHY KEELER"],"govEntities":["U.S. Trade Representative (USTR)"],"sampleDescriptions":["Administration of U.S. trade laws and regulations concerning trade secrets for manufactured products in the energy sector.","Administration of U.S. trade laws and regulations concerning trade secrets for manufactured products in the energy sector."]}

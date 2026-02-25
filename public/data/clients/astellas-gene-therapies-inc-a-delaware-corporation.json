@@ -1,11 +1,1 @@
-{
-  "name": "ASTELLAS GENE THERAPIES, INC. A DELAWARE CORPORATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":206554,"name":"ASTELLAS GENE THERAPIES, INC. A DELAWARE CORPORATION","slug":"astellas-gene-therapies-inc-a-delaware-corporation","state":"CA","country":"United States of America","description":"","totalSpending":860000,"filings":14,"yearlySpending":[{"year":2020,"income":140000},{"year":2021,"income":90000},{"year":2022,"income":270000},{"year":2023,"income":360000},{"year":2024,"income":0}],"issues":[{"code":"HCR","display":"Health Issues"},{"code":"MMM","display":"Medicare/Medicaid"}],"firms":["ASTELLAS GENE THERAPIES, INC. A DELAWARE CORPORATION"],"lobbyists":["STEPHEN RUBRIGHT"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to expanding access for cell and gene therapies, Medicare, Medicaid, and other general healthcare issues","Issues related to expanding access for cell and gene therapies, Medicare, Medicaid, and other general healthcare issues","Gene therapy issues, value-based pricing, Prescription Drug Pricing Reduction Act of 2020 (S.4199)","Gene therapy issues, value-based pricing, Prescription Drug Pricing Reduction Act of 2020 (S.4199)","Gene therapy issues, value-based pricing, Prescription Drug Pricing Reduction Act of 2021, Elijah Cummings Lower Drug Costs Now Act (H.R. 3)"]}

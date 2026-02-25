@@ -1,11 +1,1 @@
-{
-  "name": "VIRGIN ORBIT, LLC AND SUBSIDIARIES",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":210103,"name":"VIRGIN ORBIT, LLC AND SUBSIDIARIES","slug":"virgin-orbit-llc-and-subsidiaries","state":"CA","country":"United States of America","description":"","totalSpending":1400000,"filings":9,"yearlySpending":[{"year":2021,"income":670000},{"year":2022,"income":610000},{"year":2023,"income":120000}],"issues":[{"code":"AER","display":"Aerospace"},{"code":"DEF","display":"Defense"}],"firms":["VIRGIN ORBIT, LLC AND SUBSIDIARIES"],"lobbyists":["CODY KNIPFER","CHRISTOPHER INGRAHAM","MORGAN MCCORD","KATHRYN WALL"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Executive Office of the President (EOP)","Federal Aviation Administration (FAA)","Natl Aeronautics & Space Administration (NASA)","Natl Transportation Safety Board (NTSB)","Defense, Dept of (DOD)"],"sampleDescriptions":["Issues related to space launch","Issues related to FY22 appropriations, including Defense launch and satellite appropriations; issues related to the FY22 National Defense Authorization Act, including space launch and satellite relate","Issues related to FY22 appropriations, including Commerce, Justice, Science and Related Agencies (CJS), space launch, and transportation; issues related to the NASA Authorization Act, including issues","Issues related to FY22 appropriations, including Defense launch and satellite appropriations; issues related to the FY22 National Defense Authorization Act, including space launch and satellite relate","Issues related to FY22 appropriations, including Commerce, Justice, Science and Related Agencies (CJS), space launch, and transportation; issues related to the NASA Authorization Act, including issues"]}

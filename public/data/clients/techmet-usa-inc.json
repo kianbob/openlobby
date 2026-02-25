@@ -1,11 +1,1 @@
-{
-  "name": "TECHMET USA INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":60205,"name":"TECHMET USA INC.","slug":"techmet-usa-inc","state":"DE","country":"United States of America","description":"Investment firm with a focus on critical minerals projects","totalSpending":300000,"filings":8,"yearlySpending":[{"year":2024,"income":100000},{"year":2025,"income":200000}],"issues":[{"code":"NAT","display":"Natural Resources"},{"code":"AUT","display":"Automotive Industry"},{"code":"ECN","display":"Economics/Economic Development"},{"code":"MAN","display":"Manufacturing"},{"code":"DEF","display":"Defense"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["TECHMET USA INC."],"lobbyists":["CHRISTOPHER BEATTY"],"govEntities":["Defense, Dept of (DOD)","Energy, Dept of","HOUSE OF REPRESENTATIVES","SENATE","State, Dept of (DOS)","White House Office","Commerce, Dept of (DOC)","Export-Import Bank of the United States (EXIM Bank)","Natl Security Council (NSC)","Overseas Private Investment Corp (OPIC)","President of the U.S."],"sampleDescriptions":["Critical minerals supply chains","Critical minerals supply chains","Critical minerals supply chains","Critical minerals supply chains","Critical minerals supply chains"]}

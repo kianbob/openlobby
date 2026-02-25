@@ -1,11 +1,1 @@
-{
-  "name": "BHARAT FORGE AMERICA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202566,"name":"BHARAT FORGE AMERICA","slug":"bharat-forge-america","state":"TN","country":"United States of America","description":"Automotive parts manufacturing","totalSpending":139930,"filings":15,"yearlySpending":[{"year":2019,"income":27930},{"year":2020,"income":96000},{"year":2021,"income":16000},{"year":2022,"income":0},{"year":2023,"income":0}],"issues":[{"code":"MAN","display":"Manufacturing"},{"code":"IMM","display":"Immigration"},{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["THE VOGEL GROUP"],"lobbyists":["SAMIR KAPADIA","BRIAN JOHNSON","ALEXANDER VOGEL"],"govEntities":["Executive Office of the President (EOP)","HOUSE OF REPRESENTATIVES","SENATE","White House Office"],"sampleDescriptions":["Issues relating to manufacturing operations in the tier one automotive parts sector","Issues relating to job creation in North Carolina","Issues relating to L1-A visas","Issues relating to USMCA and new rules on imports/exports in the auto parts industry","Issues relating to L1-A visas"]}

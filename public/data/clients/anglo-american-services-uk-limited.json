@@ -1,11 +1,1 @@
-{
-  "name": "ANGLO AMERICAN SERVICES (UK) LIMITED",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":60677,"name":"ANGLO AMERICAN SERVICES (UK) LIMITED","slug":"anglo-american-services-uk-limited","state":null,"country":"United Kingdom","description":"investment holding company","totalSpending":380000,"filings":10,"yearlySpending":[{"year":2024,"income":180000},{"year":2025,"income":200000}],"issues":[{"code":"NAT","display":"Natural Resources"},{"code":"AGR","display":"Agriculture"},{"code":"SMB","display":"Small Business"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["SAMANTHA CARL-YODER","LAUREN DIEKMAN","KATE GONZALES","WILLIAM MCGRATH","AARON THIELE","MAXWELL HUNTLEY"],"govEntities":["Agriculture, Dept of (USDA)","Energy, Dept of","Natl Security Council (NSC)","State, Dept of (DOS)","U.S. Geological Survey (USGS)","Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Mineral supply chains both domestically and internationally. Crop Nutrient issues.","Mineral supply chains both domestically and internationally. Crop Nutrient issues.","Mineral supply chains both domestically and internationally. Crop Nutrient issues.","Mineral supply chains both domestically and internationally. Crop Nutrient issues.","Mineral supply chains both domestically and internationally. Crop Nutrient issues."]}

@@ -1,11 +1,1 @@
-{
-  "name": "TEAM HALLAHAN (ON BEHALF OF INFINEON TECHNOLOGIES AMERICAS CORP.)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202969,"name":"TEAM HALLAHAN (ON BEHALF OF INFINEON TECHNOLOGIES AMERICAS CORP.)","slug":"team-hallahan-on-behalf-of-infineon-technologies-americas-corp","state":"DC","country":"United States of America","description":"Government Relations Firm","totalSpending":80000,"filings":6,"yearlySpending":[{"year":2018,"income":20000},{"year":2019,"income":60000}],"issues":[{"code":"TRA","display":"Transportation"},{"code":"HOM","display":"Homeland Security"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["CAPITOL POINT GROUP, LLC"],"lobbyists":["NATALIE HARTMAN"],"govEntities":["Homeland Security, Dept of (DHS)","HOUSE OF REPRESENTATIVES","SENATE","Transportation, Dept of (DOT)","General Services Administration (GSA)","Treasury, Dept of"],"sampleDescriptions":["Transportation and Infrastructure, Energy, and Cybersecurity","Transportation and Infrastructure, Energy, and Cybersecurity","Transportation and Infrastructure, Energy, and Cybersecurity","Transportation and Infrastructure, Energy & Cybersecurity","Transportation and Infrastructure, Energy & Cybersecurity"]}

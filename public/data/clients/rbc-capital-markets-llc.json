@@ -1,11 +1,1 @@
-{
-  "name": "RBC CAPITAL MARKETS, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":195232,"name":"RBC CAPITAL MARKETS, LLC","slug":"rbc-capital-markets-llc","state":"NY","country":"United States of America","description":"","totalSpending":15130000,"filings":49,"yearlySpending":[{"year":2018,"income":4320000},{"year":2019,"income":3540000},{"year":2020,"income":2290000},{"year":2021,"income":1400000},{"year":2022,"income":900000},{"year":2023,"income":640000},{"year":2024,"income":430000},{"year":2025,"income":1610000}],"issues":[{"code":"BAN","display":"Banking"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"}],"firms":["RBC CAPITAL MARKETS, LLC"],"lobbyists":["SHAWN MAHER","MATTHEW REED","NATALIE MCGARRY","DANIELLE BARRETT"],"govEntities":["Federal Deposit Insurance Corporation (FDIC)","Federal Reserve System","HOUSE OF REPRESENTATIVES","Office of the Comptroller of the Currency (OCC)","Securities & Exchange Commission (SEC)","SENATE","Treasury, Dept of","Transportation, Dept of (DOT)","Office of Management & Budget (OMB)"],"sampleDescriptions":["Issues related to the Dodd-Frank Wall Street Reform and Consumer Protection Act: Titles I, VI, VII, and IX. Issues related to market structure, including Regulation NMS. Issues related to Department o","Issues related to renegotiation of NAFTA.","Issues related to tax reform, including implementation of H.R. 1, the Low Income Housing Tax Credit (LIHTC), and infrastructure finance.","Issues related to tax reform, including implementation of H.R. 1, the Low Income Housing Tax Credit (LIHTC), and infrastructure finance.","Issues related to renegotiation of NAFTA."]}

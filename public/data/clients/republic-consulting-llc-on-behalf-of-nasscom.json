@@ -1,11 +1,1 @@
-{
-  "name": "REPUBLIC CONSULTING LLC ON BEHALF OF NASSCOM",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":203361,"name":"REPUBLIC CONSULTING LLC ON BEHALF OF NASSCOM","slug":"republic-consulting-llc-on-behalf-of-nasscom","state":"KY","country":"United States of America","description":"Public Policy Consulting and Advocacy","totalSpending":20000,"filings":4,"yearlySpending":[{"year":2019,"income":20000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"IMM","display":"Immigration"}],"firms":["ABRAHAM STRATEGIES LLC"],"lobbyists":["SPENCER ABRAHAM"],"govEntities":["Executive Office of the President (EOP)","Natl Economic Council (NEC)"],"sampleDescriptions":["Issues related to immigration and trade policy","Issues related to immigration and trade policy","Issues related to immigration and trade policy","Issues related to immigration and trade policy","Issues related to immigration policy\nSkilled worker training"]}

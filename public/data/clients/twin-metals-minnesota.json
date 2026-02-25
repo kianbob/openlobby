@@ -1,11 +1,1 @@
-{
-  "name": "TWIN METALS MINNESOTA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":67790,"name":"TWIN METALS MINNESOTA","slug":"twin-metals-minnesota","state":"DC","country":"United States of America","description":"Law firm","totalSpending":260000,"filings":4,"yearlySpending":[{"year":2025,"income":260000}],"issues":[{"code":"NAT","display":"Natural Resources"}],"firms":["THE BERNHARDT GROUP LLC"],"lobbyists":["WILLIAM MCGRATH","KATE GONZALES","LUKE JOHNSON"],"govEntities":["HOUSE OF REPRESENTATIVES","Interior, Dept of (DOI)","SENATE","White House Office","Justice, Dept of (DOJ)","Agriculture, Dept of (USDA)","Executive Office of the President (EOP)"],"sampleDescriptions":["Mine leasing issues","Mine leasing issues","Mine leasing issues","Mine leasing issues"]}

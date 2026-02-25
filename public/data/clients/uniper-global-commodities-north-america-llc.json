@@ -1,11 +1,1 @@
-{
-  "name": "UNIPER GLOBAL COMMODITIES NORTH AMERICA LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":210858,"name":"UNIPER GLOBAL COMMODITIES NORTH AMERICA LLC","slug":"uniper-global-commodities-north-america-llc","state":"IL","country":"United States of America","description":"Global energy company that sells, trades and markets natural gas and power in the U.S.","totalSpending":800000,"filings":21,"yearlySpending":[{"year":2021,"income":80000},{"year":2022,"income":200000},{"year":2023,"income":200000},{"year":2024,"income":120000},{"year":2025,"income":200000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"},{"code":"GOV","display":"Government Issues"},{"code":"ENV","display":"Environment/Superfund"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["FTI GOVERNMENT AFFAIRS"],"lobbyists":["ROBERT MORAN","SHANNON BANAGA","JOHN STEITZ","BRYAN ZUMWALT"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","General Services Administration (GSA)","Energy, Dept of","Environmental Protection Agency (EPA)"],"sampleDescriptions":["Legislative and regulatory issues related to Uniper and its work in energy supply, services and management in the United States.","Energy transition, hydrogen, energy supply, renewable energy, and LNG issues generally.  House and Senate.","Energy transition, hydrogen, energy supply, renewable energy, and LNG issues generally.  House and Senate.","Energy transition, hydrogen, energy supply, renewable energy, and LNG issues generally. House and Senate.","Energy transition, hydrogen, energy supply, renewable energy, and LNG issues generally. House and Senate."]}

@@ -1,11 +1,1 @@
-{
-  "name": "SMR AUTOMOTIVE MIRRORS INTERNATIONAL USA INC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202561,"name":"SMR AUTOMOTIVE MIRRORS INTERNATIONAL USA INC","slug":"smr-automotive-mirrors-international-usa-inc","state":"MI","country":"United States of America","description":"Automotive component manufacturer","totalSpending":412653,"filings":21,"yearlySpending":[{"year":2019,"income":43653},{"year":2020,"income":120000},{"year":2021,"income":120000},{"year":2022,"income":60000},{"year":2023,"income":54000},{"year":2024,"income":15000}],"issues":[{"code":"MAN","display":"Manufacturing"},{"code":"IMM","display":"Immigration"}],"firms":["THE VOGEL GROUP"],"lobbyists":["BRIAN JOHNSON","SAMIR KAPADIA","ALEXANDER VOGEL","NIKHIL DHINGRA"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE","White House Office"],"sampleDescriptions":["Issues around advanced manufacturing and workforce training","Issues relating to job creation in the advanced manufacturing sector","Issues relating to job creation in the advanced manufacturing sector","Issues relating to intra-company workforce transfers and job training in advanced manufacturing","Issues relating to job creation in the advanced manufacturing sector"]}

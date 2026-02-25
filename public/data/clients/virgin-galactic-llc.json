@@ -1,11 +1,1 @@
-{
-  "name": "VIRGIN GALACTIC, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":209391,"name":"VIRGIN GALACTIC, LLC","slug":"virgin-galactic-llc","state":"DC","country":"United States of America","description":"","totalSpending":2560000,"filings":26,"yearlySpending":[{"year":2021,"income":400000},{"year":2022,"income":790000},{"year":2023,"income":690000},{"year":2024,"income":480000},{"year":2025,"income":200000}],"issues":[{"code":"AER","display":"Aerospace"},{"code":"AVI","display":"Aviation/Airlines/Airports"},{"code":"SCI","display":"Science/Technology"}],"firms":["VIRGIN GALACTIC, LLC"],"lobbyists":["TAYLOR ARMENTROUT","RAMZI MASRI-ELYAFAOUI"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Suborbital Crew Program; Flight Opportunities Program; Hypersonics Technology Program; High-Speed Technology Project; Endless Frontier Act","Suborbital Crew Program; Flight Opportunities Program; Hypersonics Technology Program; High-Speed Technology Project; Endless Frontier Act","Suborbital Crew Program; Flight Opportunities Program; Hypersonics Technology Program; High-Speed Technology Project; Endless Frontier Act","Suborbital Crew Program; Flight Opportunities Program; Hypersonics Technology Program; High-Speed Demonstrator Project; Endless Frontier Act","Hypersonics Technology Program; High-speed Demonstrator Project"]}

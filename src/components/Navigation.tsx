@@ -54,7 +54,7 @@ const navGroups = [
       { name: 'Big Oil\'s Climate Lobby', href: '/investigations/big-oil-climate-lobby', desc: 'Energy sector vs. climate policy' },
       { name: 'Silicon Valley vs. Antitrust', href: '/investigations/silicon-valley-antitrust', desc: 'Big Tech fights to stay big' },
       { name: 'Health Insurance Lobby', href: '/investigations/healthcare-insurance-lobby', desc: 'Insurers vs. Medicare expansion' },
-      { name: 'The Lobbying Industrial Complex', href: '/investigations/the-lobbying-industrial-complex', desc: '$15.2B and 650K filings' },
+      { name: 'The Lobbying Industrial Complex', href: '/investigations/the-lobbying-industrial-complex', desc: '$37.7B and 650K filings' },
     ],
   },
   {

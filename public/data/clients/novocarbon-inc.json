@@ -1,11 +1,1 @@
-{
-  "name": "NOVOCARBON, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":184297,"name":"NOVOCARBON, INC.","slug":"novocarbon-inc","state":"MA","country":"United States of America","description":"Graphite Product Manufacturer","totalSpending":0,"filings":5,"yearlySpending":[{"year":2018,"income":0}],"issues":[{"code":"DEF","display":"Defense"}],"firms":["J.A. GREEN AND COMPANY (FORMERLY LLC)"],"lobbyists":["JEFFERY GREEN"],"govEntities":["Defense, Dept of (DOD)"],"sampleDescriptions":["Sourcing and manufacture of battery-grade graphite","Sourcing and manufacture of battery-grade graphite"]}

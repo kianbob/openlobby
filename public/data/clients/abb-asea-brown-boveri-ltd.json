@@ -1,11 +1,1 @@
-{
-  "name": "ABB ASEA BROWN BOVERI, LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":57902,"name":"ABB ASEA BROWN BOVERI LTD","slug":"abb-asea-brown-boveri-ltd","state":null,"country":"Switzerland","description":"Global technology leader in electrification and automation","totalSpending":370000,"filings":7,"yearlySpending":[{"year":2023,"income":70000},{"year":2024,"income":300000},{"year":2025,"income":0}],"issues":[{"code":"DEF","display":"Defense"}],"firms":["SQUIRE PATTON BOGGS"],"lobbyists":["PABLO CARRILLO","JEFFREY TURNER","DAVID SCHNITTGER","THOMAS ANDREWS"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Cyber-related national security issues.","Cybersecurity-related national security issues.","Cybersecurity-related national security issues.","Cybersecurity-related national security issues.","Cybersecurity-related national security issues."]}

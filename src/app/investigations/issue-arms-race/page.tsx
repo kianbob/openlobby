@@ -82,7 +82,7 @@ export default function Page() {
       <div className="my-8 bg-red-50 border-l-4 border-red-500 p-6 rounded-r-xl">
         <h2 className="text-lg font-bold text-red-700 mb-2">Key Finding</h2>
         <p className="text-gray-700">
-          Of 650,333 lobbying filings in our database, <strong>287,262 (44%)</strong> mention multiple issues —
+          Of 726,268 lobbying filings in our database, <strong>287,262 (44%)</strong> mention multiple issues —
           averaging <strong>1.94 issues per filing</strong>. The #1 issue co-occurrence? <strong>Healthcare +
           Medicare/Medicaid</strong> with 31,240 joint filings and a Jaccard similarity of 0.434, meaning
           these issues appear together more often than apart. When one industry lobbies on an issue, opponents

@@ -1,11 +1,1 @@
-{
-  "name": "THE BERNHARDT GROUP LLC OBO BHP MINERALS SERVICE CO.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68986,"name":"THE BERNHARDT GROUP LLC OBO BHP MINERALS SERVICE CO.","slug":"the-bernhardt-group-llc-obo-bhp-minerals-service-co","state":"DC","country":"United States of America","description":"Advisory Services and Government Affairs Consulting Firm on behalf of Mining Company","totalSpending":90000,"filings":3,"yearlySpending":[{"year":2025,"income":90000}],"issues":[{"code":"NAT","display":"Natural Resources"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["SAMANTHA CARL-YODER"],"govEntities":["Commerce, Dept of (DOC)","State, Dept of (DOS)"],"sampleDescriptions":["International supply chain issues, critical minerals, legacy assets","International supply chain issues, critical minerals, legacy assets","International supply chain issues, critical minerals, legacy assets"]}

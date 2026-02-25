@@ -1,11 +1,1 @@
-{
-  "name": "MILWAUKEE ELECTRIC TOOL CORPORATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":142864,"name":"MILWAUKEE ELECTRIC TOOL CORPORATION","slug":"milwaukee-electric-tool-corporation","state":"WI","country":"United States of America","description":"tool products manufacturer","totalSpending":0,"filings":3,"yearlySpending":[{"year":2018,"income":0}],"issues":[{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"}],"firms":["SANDLER, TRAVIS & ROSENBERG, P.A."],"lobbyists":["EDWARD STEINER"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE","U.S. International Trade Commission (ITC)"],"sampleDescriptions":["Support of the miscellaneous tariff bill"]}

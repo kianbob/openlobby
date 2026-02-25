@@ -1,11 +1,1 @@
-{
-  "name": "INTERNATIONAL OLYMPIC COMMITTEE",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":105773,"name":"INTERNATIONAL OLYMPIC COMMITTEE","slug":"international-olympic-committee","state":null,"country":"Switzerland","description":"Non-governmental sports organization","totalSpending":560000,"filings":20,"yearlySpending":[{"year":2019,"income":20000},{"year":2020,"income":110000},{"year":2021,"income":250000},{"year":2022,"income":130000},{"year":2023,"income":40000},{"year":2024,"income":10000}],"issues":[{"code":"ENV","display":"Environment/Superfund"},{"code":"SPO","display":"Sports/Athletics"},{"code":"CIV","display":"Civil Rights/Civil Liberties"},{"code":"HCR","display":"Health Issues"},{"code":"FOR","display":"Foreign Relations"},{"code":"IMM","display":"Immigration"},{"code":"COM","display":"Communications/Broadcasting/Radio/TV"}],"firms":["BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ"],"lobbyists":["SPENCER WOLF","VERONICA POLLOCK","NATHAN DASCHLE","THOMAS DASCHLE"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Executive Office of the President (EOP)"],"sampleDescriptions":["Athletics, foreign policy, health issues, environment, communications/broadcasting, immigration, and human rights issues related to international sports and the Olympic Games.","Athletics, foreign policy, health issues, environment, communications/broadcasting, immigration, and human rights issues related to international sports and the Olympic Games.","Athletics, foreign policy, health issues, environment, communications/broadcasting, immigration, and human rights issues related to international sports and the Olympic Games.","Athletics, foreign policy, health issues, environment, communications/broadcasting, immigration, and human rights issues related to international sports and the Olympic Games.","Athletics, foreign policy, health issues, environment, communications/broadcasting, immigration, and human rights issues related to international sports and the Olympic Games."]}

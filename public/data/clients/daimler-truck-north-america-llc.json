@@ -1,11 +1,1 @@
-{
-  "name": "DAIMLER TRUCK NORTH AMERICA LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":213211,"name":"DAIMLER TRUCK NORTH AMERICA LLC","slug":"daimler-truck-north-america-llc","state":"OR","country":"United States of America","description":"","totalSpending":2490000,"filings":18,"yearlySpending":[{"year":2022,"income":510000},{"year":2023,"income":570000},{"year":2024,"income":620000},{"year":2025,"income":790000}],"issues":[{"code":"AUT","display":"Automotive Industry"},{"code":"ENG","display":"Energy/Nuclear"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"TRA","display":"Transportation"},{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["DAIMLER TRUCK NORTH AMERICA LLC"],"lobbyists":["DAVID TREBING","RITCHIE HUANG"],"govEntities":["SENATE","Energy, Dept of","Transportation, Dept of (DOT)","Environmental Protection Agency (EPA)","HOUSE OF REPRESENTATIVES","Natl Highway Traffic Safety Administration (NHTSA)","Natl Transportation Safety Board (NTSB)","U.S. Trade Representative (USTR)","Labor, Dept of (DOL)","Intl Trade Administration (ITA)","Commerce, Dept of (DOC)","Executive Office of the President (EOP)","Natl Economic Council (NEC)","Office of Management & Budget (OMB)","Council of Economic Advisers (CEA)"],"sampleDescriptions":["Issues related to the commercial vehicle manufacturing industry.","Issues pertaining to Advanced Driver Assistance Systems and Underride Guards","Electrification policy related to infrastructure in S. 1298, The Clean Energy for America Act and H.R. 848, the GREEN Act of 2021.","Electrification policy related to infrastructure in S. 1298, the Clean Energy for America Act and H.R. 848, the GREEN Act of 2021.","Issues pertaining to Advanced Driver Assistance Systems and Underride Guards"]}

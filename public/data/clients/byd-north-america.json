@@ -1,11 +1,1 @@
-{
-  "name": "BYD NORTH AMERICA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":209030,"name":"BYD NORTH AMERICA","slug":"byd-north-america","state":"CA","country":"United States of America","description":"commercial vehicle manufacturing","totalSpending":155000,"filings":7,"yearlySpending":[{"year":2021,"income":135000},{"year":2022,"income":20000}],"issues":[{"code":"TRA","display":"Transportation"}],"firms":["CAPITOL CITY GROUP, LTD."],"lobbyists":["GERALD HARRINGTON"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Transportation, Dept of (DOT)","Commerce, Dept of (DOC)","White House Office"],"sampleDescriptions":["Issues related to implementation of NDAA and restrictions on imported rolling stock.","issues related to commercial/electric vehicle manufacturing. H.R.1879 To promote American leadership in vehicle manufacturing, job creation, improved air quality, and climate protection through domest","issues related to commercial/electric vehicle manufacturing and 2020 NDAA Sec.7613 and restrictions on imported rolling stock; review and discussions of HR 7095 Invest in America Act 2020; H.R.1879 To","issues related to commercial/electric vehicle manufacturing and implementation of FY 2020 NDAA Sec.7613 and restrictions on imported rolling stock.","issues related to commercial/electric vehicle manufacturing and implementation of FY 2020 NDAA Sec.7613 and restrictions on imported rolling stock."]}

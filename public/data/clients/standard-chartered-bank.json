@@ -1,11 +1,1 @@
-{
-  "name": "STANDARD CHARTERED BANK",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":203112,"name":"STANDARD CHARTERED BANK","slug":"standard-chartered-bank","state":"DC","country":"United States of America","description":"","totalSpending":2659581,"filings":18,"yearlySpending":[{"year":2018,"income":610000},{"year":2019,"income":769000},{"year":2020,"income":640581},{"year":2025,"income":640000}],"issues":[{"code":"BAN","display":"Banking"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["STANDARD CHARTERED BANK"],"lobbyists":["MICHAEL BERESIK","KATHYANNE COHEN","GABRIEL PEREZ-ALVAREZ"],"govEntities":["Commerce, Dept of (DOC)","Federal Reserve System","HOUSE OF REPRESENTATIVES","Natl Economic Council (NEC)","Natl Security Council (NSC)","SENATE","Treasury, Dept of","Federal Deposit Insurance Corporation (FDIC)","Executive Office of the President (EOP)","Overseas Private Investment Corp (OPIC)","Securities & Exchange Commission (SEC)","U.S. Trade Representative (USTR)","U.S. Agency for International Development (USAID)","State, Dept of (DOS)"],"sampleDescriptions":["Introduction to Standard Chartered; Proposed financial crime and AML legislation; Africa trade and economic policy; China trade and economic policy, including market conditions; BUILD Act (S. 2463); B","Introduction to Standard Chartered; Proposed financial crime and AML legislation; Africa trade and economic policy; China trade and economic policy, including market conditions; BUILD Act (S. 2463); B","Introduction to Standard Chartered; Proposed financial crime and AML legislation; Africa trade and economic policy; China trade and economic policy, including market conditions; Foreign bank regulator","Introduction to Standard Chartered; Proposed financial crime and AML legislation; Africa trade and economic policy; China trade and economic policy, including market conditions; Foreign bank regulator","Background on Standard Chartered, financial crime legislation, trade policy, Africa trade and economic conditions and policy, China trade and economic conditions and policy, foreign bank regulation."]}

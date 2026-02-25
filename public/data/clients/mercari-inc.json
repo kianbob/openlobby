@@ -1,11 +1,1 @@
-{
-  "name": "MERCARI, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":213218,"name":"MERCARI, INC.","slug":"mercari-inc","state":"CA","country":"United States of America","description":"","totalSpending":2380000,"filings":17,"yearlySpending":[{"year":2022,"income":610000},{"year":2023,"income":580000},{"year":2024,"income":570000},{"year":2025,"income":620000}],"issues":[{"code":"COM","display":"Communications/Broadcasting/Radio/TV"},{"code":"CPT","display":"Copyright/Patent/Trademark"},{"code":"IMM","display":"Immigration"},{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"},{"code":"CPI","display":"Computer Industry"},{"code":"CSP","display":"Consumer Issues/Safety/Products"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"POS","display":"Postal"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"},{"code":"TRA","display":"Transportation"},{"code":"TEC","display":"Telecommunications"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["MERCARI, INC."],"lobbyists":["TIMOTHY CAREY"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["H.R. 5502/S. 936 -The INFORM Act; H.R. 5374/S. 1843 - The SHOP SAFE Act; The Build Back Better Act; Issues concerning consumer tax reporting for online marketplaces; Issues impacting e-commerce.","H.R. 5502/S. 936 -The INFORM Act; H.R. 5374/S. 1843 - The SHOP SAFE Act; The Build Back Better Act; Issues concerning consumer tax reporting for online marketplaces; Issues impacting e-commerce.","H.R. 5502/S. 936 -The INFORM Act; H.R. 5374/S. 1843 - The SHOP SAFE Act; The Build Back Better Act; Issues concerning consumer tax reporting for online marketplaces; Issues impacting e-commerce.","H.R. 5502/S. 936 -The INFORM Act; H.R. 5374/S. 1843 - The SHOP SAFE Act; The Build Back Better Act; Issues concerning consumer tax reporting for online marketplaces; Issues impacting e-commerce.","H.R. 5502/S. 936 -The INFORM Act; H.R. 5374/S. 1843 - The SHOP SAFE Act; The Build Back Better Act; Issues concerning consumer tax reporting for online marketplaces; Issues impacting e-commerce."]}

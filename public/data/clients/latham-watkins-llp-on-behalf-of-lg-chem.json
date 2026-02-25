@@ -1,11 +1,1 @@
-{
-  "name": "LATHAM & WATKINS LLP (ON BEHALF OF LG CHEM)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":208584,"name":"LATHAM & WATKINS LLP (ON BEHALF OF LG CHEM)","slug":"latham-watkins-llp-on-behalf-of-lg-chem","state":"DC","country":"United States of America","description":"Chemical company.","totalSpending":200000,"filings":3,"yearlySpending":[{"year":2021,"income":200000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["TIBER CREEK GROUP"],"lobbyists":["JONATHON JONES","JOHN GONZALEZ","TIMOTHY MOLINO","JAMES HEIMBACH","KRISTEN HARPER"],"govEntities":["Commerce, Dept of (DOC)","Energy, Dept of","HOUSE OF REPRESENTATIVES","SENATE","State, Dept of (DOS)","U.S. Trade Representative (USTR)","White House Office"],"sampleDescriptions":["Issues related to the administration of U.S. trade laws and regulations relevant to the energy sector.","Issues related to the administration of U.S. trade laws and regulations relevant to the energy sector.","Issues related to the administration of U.S. trade laws and regulations relevant to the energy sector."]}

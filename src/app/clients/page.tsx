@@ -142,7 +142,7 @@ export default function ClientsPage() {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
           <Link href="/investigations/lobbying-statistics" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">📊 Federal Lobbying Statistics 2025</div>
-            <div className="text-xs text-gray-500 mt-1">$15.2B total spending — the definitive breakdown</div>
+            <div className="text-xs text-gray-500 mt-1">$37.7B total spending — the definitive breakdown</div>
           </Link>
           <Link href="/investigations/follow-the-money" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">💰 Follow the Money</div>

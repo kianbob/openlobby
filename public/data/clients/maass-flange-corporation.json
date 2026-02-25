@@ -1,11 +1,1 @@
-{
-  "name": "MAASS FLANGE CORPORATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":186416,"name":"MAASS FLANGE CORPORATION","slug":"maass-flange-corporation","state":"TX","country":"United States of America","description":"Manufacturing","totalSpending":20000,"filings":4,"yearlySpending":[{"year":2018,"income":20000}],"issues":[{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["STRATEGIC PUBLIC AFFAIRS"],"lobbyists":["ANDREW BIAR"],"govEntities":["HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Tariffs on imported and exported goods and materials; trade issues.","Tariffs on imported and exported goods and materials; trade issues.","Proposed tariffs on imported and exported materials and products.","Tariffs on imported materials and products."]}

@@ -1,11 +1,1 @@
-{
-  "name": "SMART GREEN AVIATION GROUP, INC (DBA CONNECT AIRLINES)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":65751,"name":"SMART GREEN AVIATION GROUP, INC (DBA CONNECT AIRLINES)","slug":"smart-green-aviation-group-inc-dba-connect-airlines","state":"MA","country":"United States of America","description":"Connect Airlines is a Part 135 operator with a proposed Part 121 operation.","totalSpending":170000,"filings":8,"yearlySpending":[{"year":2025,"income":170000}],"issues":[{"code":"AVI","display":"Aviation/Airlines/Airports"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["LOT SIXTEEN LLC"],"lobbyists":["DANIEL BLACK","COLIN HAYES"],"govEntities":["Energy, Dept of","HOUSE OF REPRESENTATIVES","SENATE","Transportation, Dept of (DOT)","Commerce, Dept of (DOC)"],"sampleDescriptions":["Pursuing federal support for reshored airplane manufacturing and navigating processes associated with certification to provide passenger air service.","Pursuing federal support for reshored airplane manufacturing and navigating processes associated with certification to provide passenger air service.","Pursuing federal support for re-shored airplane manufacturing and navigating processes associated with certification to provide passenger air service.","Pursuing federal support for re-shored airplane manufacturing","Pursuing federal support for reshored airplane manufacturing and navigating processes associated with certification to provide passenger air service."]}

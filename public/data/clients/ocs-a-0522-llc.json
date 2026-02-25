@@ -1,11 +1,1 @@
-{
-  "name": "OCS-A 0522, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":213234,"name":"OCS-A 0522, LLC","slug":"ocs-a-0522-llc","state":"MA","country":"United States of America","description":"Offshore wind development","totalSpending":62000,"filings":5,"yearlySpending":[{"year":2022,"income":62000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["TRAVAGLINI SCORZONI KILEY LLC"],"lobbyists":["CHRISTIAN SCORZONI"],"govEntities":["Council on Environmental Quality (CEQ)","HOUSE OF REPRESENTATIVES","Interior, Dept of (DOI)","SENATE","White House Office"],"sampleDescriptions":["Issues pertaining to the development of offshore wind.","The client is OCS-A 0522 LLC, an offshore wind development company seeking to build one or more large-scale offshore wind energy project(s) in the US.","The client is OCS-A 0522 LLC, an offshore wind development company seeking to build one or more large-scale offshore wind energy project(s) in the US.","The client is OCS-A 0522 LLC, an offshore wind development company seeking to build one or more large-scale offshore wind energy project(s) in the US.","The client is OCS-A 0522 LLC, an offshore wind development company seeking to build one or more large-scale offshore wind energy project(s) in the US."]}

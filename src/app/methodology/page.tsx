@@ -16,7 +16,7 @@ const sections = [
     content: (
       <>
         <p>All data comes from the <a href="https://lda.senate.gov/api/v1/" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline font-medium">Senate Lobbying Disclosure Act (LDA) API</a>, which provides machine-readable access to all lobbying registrations and quarterly activity reports filed since 1999.</p>
-        <p className="mt-3">Our dataset covers <strong>2018–2025</strong>, comprising <strong>650,333 filings</strong> with a total of <strong>$15.2 billion</strong> in reported lobbying income/expenses.</p>
+        <p className="mt-3">Our dataset covers <strong>2018–2025</strong>, comprising <strong>726,000+ filings</strong> with a total of <strong>$37.7 billion</strong> in reported lobbying income/expenses.</p>
       </>
     ),
   },
@@ -134,7 +134,7 @@ export default function MethodologyPage() {
               Methodology
             </h1>
             <p className="text-lg text-indigo-200 max-w-2xl mx-auto">
-              How we collect, process, and present federal lobbying data from 650,000+ Senate LDA filings.
+              How we collect, process, and present federal lobbying data from 726,000+ Senate LDA filings.
             </p>
           </div>
         </div>

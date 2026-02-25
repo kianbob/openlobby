@@ -1,11 +1,1 @@
-{
-  "name": "AVANTUS FEDERAL",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":54157,"name":"AVANTUS FEDERAL","slug":"avantus-federal","state":"VA","country":"United States of America","description":"Engineering, operations, logistics and sustainment","totalSpending":460000,"filings":12,"yearlySpending":[{"year":2022,"income":0},{"year":2023,"income":250000},{"year":2024,"income":170000},{"year":2025,"income":40000}],"issues":[{"code":"INT","display":"Intelligence"},{"code":"DEF","display":"Defense"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"HOM","display":"Homeland Security"}],"firms":["WESTMORELAND160, LLC"],"lobbyists":["WILLIAM RICE"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Aerostats, Intelligence, Reconnaissance and Surveillance, Customs and Border Protection, and Defense","Aerostats, Intelligence, Reconnaissance and Surveillance, Customs and Border Protection, and Defense","Aerostats, Intelligence, Reconnaissance and Surveillance, Customs and Border Protection, and Defense","Aerostats, Intelligence, Reconnaissance and Surveillance, Customs and Border Protection, and Defense","Department of Homeland Security Tactical Aerostat Systems Fiscal Year 2024 Department of Homeland Security Appropriations Act"]}

@@ -1,11 +1,1 @@
-{
-  "name": "YAZAKI NORTH AMERICA, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":70572,"name":"YAZAKI NORTH AMERICA, INC","slug":"yazaki-north-america-inc","state":"MI","country":"United States of America","description":"Autopart Manufacturer","totalSpending":10000,"filings":2,"yearlySpending":[{"year":2025,"income":10000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["IQOM STRATEGIC ADVISORS, LLC"],"lobbyists":["SERGIO GOMEZ LORA"],"govEntities":["Labor, Dept of (DOL)","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Resolution of potential USMCA Labor Dispute","Resolution of USMCA Labor Complaint"]}

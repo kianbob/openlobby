@@ -1,11 +1,1 @@
-{
-  "name": "MEDITERRANEAN SHIPPING COMPANY (USA) INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":63879,"name":"MEDITERRANEAN SHIPPING COMPANY (USA) INC.","slug":"mediterranean-shipping-company-usa-inc","state":"NY","country":"United States of America","description":"Transportation and logistics","totalSpending":700000,"filings":5,"yearlySpending":[{"year":2025,"income":700000}],"issues":[{"code":"TRA","display":"Transportation"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["MEDITERRANEAN SHIPPING COMPANY (USA) INC."],"lobbyists":["DARIEN FLOWERS"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","U.S. Trade Representative (USTR)","Transportation, Dept of (DOT)","State, Dept of (DOS)"],"sampleDescriptions":["Issues related to transportation and logistics","Section 301 duties and vessel fees","Issues related to transportation and logistics","Section 301 duties and vessel fees","Issues related to transportation and logistics"]}

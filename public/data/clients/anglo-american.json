@@ -1,11 +1,1 @@
-{
-  "name": "ANGLO AMERICAN",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":51798,"name":"ANGLO AMERICAN","slug":"anglo-american","state":null,"country":"United Kingdom","description":"Mining company","totalSpending":295000,"filings":18,"yearlySpending":[{"year":2022,"income":10000},{"year":2023,"income":0},{"year":2024,"income":150000},{"year":2025,"income":135000}],"issues":[{"code":"ECN","display":"Economics/Economic Development"},{"code":"FOR","display":"Foreign Relations"},{"code":"NAT","display":"Natural Resources"}],"firms":["ANGLO AMERICAN"],"lobbyists":["DUNCAN WANBLAD","JAN KLAWITTER","DARIAS JONKER","RICHARD MORGAN","ROSCOE JONES","MICHAEL BOPP","RICHARD PRICE","FROYDIS CAMERON-JOHANSSON","CRISTINA BRUCE","JAMES WYATT-TILBY"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","Natl Security Council (NSC)","SENATE","State, Dept of (DOS)","U.S. Agency for International Development (USAID)","White House Office","Agriculture, Dept of (USDA)","Export-Import Bank of the United States (EXIM Bank)","U.S. Trade & Development Agency (USTDA)","U.S. Trade Representative (USTR)","U.S. Geological Survey (USGS)"],"sampleDescriptions":["Engagement in connection with investment in critical minerals exploration and extraction in southern Africa.","Engagement in connection with investment in critical minerals exploration and extraction in southern Africa.","Engagement in connection with investment in critical minerals exploration and extraction in southern Africa.","Engagement in connection with investment in critical minerals exploration and extraction in southern Africa","Engagement in connection with investment in critical minerals exploration and extraction in southern Africa."]}

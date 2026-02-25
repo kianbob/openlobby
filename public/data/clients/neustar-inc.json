@@ -1,11 +1,1 @@
-{
-  "name": "NEUSTAR, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":185531,"name":"NEUSTAR, INC.","slug":"neustar-inc","state":"VA","country":"United States of America","description":"real-time information services and analytics","totalSpending":80000,"filings":3,"yearlySpending":[{"year":2018,"income":80000}],"issues":[{"code":"TEC","display":"Telecommunications"},{"code":"LAW","display":"Law Enforcement/Crime/Criminal Justice"},{"code":"HOM","display":"Homeland Security"}],"firms":["GEPHARDT GROUP GOVERNMENT AFFAIRS"],"lobbyists":["JANICE O'CONNELL"],"govEntities":["SENATE"],"sampleDescriptions":["FCC related issues","FCC related issues","FCC related issues","FCC related issues","FCC related issues"]}

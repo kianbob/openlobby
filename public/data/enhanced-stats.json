@@ -1,0 +1,18 @@
+{
+  "totalFilings": 726268,
+  "totalClients": 52981,
+  "enrichedClients": 46145,
+  "govEntities": 240,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "totalSpending": 41479814280.519966,
+  "lastUpdated": "2026-02-25T22:12:52.611Z"
+}

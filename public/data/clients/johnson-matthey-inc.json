@@ -1,11 +1,1 @@
-{
-  "name": "JOHNSON MATTHEY INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":201844,"name":"JOHNSON MATTHEY INC.","slug":"johnson-matthey-inc","state":"PA","country":"United States of America","description":"","totalSpending":1080000,"filings":27,"yearlySpending":[{"year":2018,"income":70000},{"year":2019,"income":150000},{"year":2020,"income":70000},{"year":2021,"income":30000},{"year":2024,"income":210000},{"year":2025,"income":550000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"ENV","display":"Environment/Superfund"},{"code":"GOV","display":"Government Issues"},{"code":"PHA","display":"Pharmacy"},{"code":"NAT","display":"Natural Resources"},{"code":"TRA","display":"Transportation"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["JOHNSON MATTHEY INC."],"lobbyists":["DAVID CETOLA","THOMAS SMITH","KRISTA JOHNSON"],"govEntities":["Environmental Protection Agency (EPA)","HOUSE OF REPRESENTATIVES","Natl Highway Traffic Safety Administration (NHTSA)","Office of Management & Budget (OMB)","SENATE","Natl Economic Council (NEC)","Commerce, Dept of (DOC)","Executive Office of the President (EOP)","White House Office","Energy, Dept of","U.S. Trade Representative (USTR)","Natl Security Council (NSC)","Interior, Dept of (DOI)"],"sampleDescriptions":["Revisions of the North American Free Trade Agreement (NAFTA) and the Uniform Tariff Schedule (UTS).","H.R. 1, Tax Cut and Jobs Act, including provisions related to the corporate tax rate, interest deductibility, incorporation of an excise tax, base erosion anti-abuse tax, and repatriation.\n\nS. 2256 Ta","H.R. 1892 Bipartisan Budget Act of 2018, provisions related to delaying implementation of the 2015 Ozone NAAQS.\n\nH.R. 1625 Consolidated Appropriations Act of 2018, provisions related to delaying imple","S.951 Regulatory Accountability Act, provisions relating to regulatory reform of the Administrative Procedures Act. \n\nS. 1734 Regulatory Improvement and Transparency Act of 2017, provisions relating t","H.R. 4170 and S. 2039 Disclosing Foreign Influence Act, provisions related to removal of Lobbying Disclosure Act exemption for foreign-owned corporations.\n\nS. 2482 Foreign Agents Registration Act, pro"]}

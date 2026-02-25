@@ -1,11 +1,1 @@
-{
-  "name": "AXEL SPRINGER USA INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":65607,"name":"AXEL SPRINGER USA INC.","slug":"axel-springer-usa-inc","state":"NY","country":"United States of America","description":"Digital news/media","totalSpending":80000,"filings":2,"yearlySpending":[{"year":2025,"income":80000}],"issues":[{"code":"GOV","display":"Government Issues"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","PATRICK KILCUR","WILLIAM RUSSELL"],"govEntities":["Office of the Vice President of the United States"],"sampleDescriptions":["Engagement with the Executive Branch.","Engagement with the Executive Branch."]}

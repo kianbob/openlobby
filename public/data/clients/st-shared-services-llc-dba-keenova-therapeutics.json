@@ -1,11 +1,1 @@
-{
-  "name": "ST SHARED SERVICES LLC DBA KEENOVA THERAPEUTICS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":67901,"name":"ST SHARED SERVICES LLC DBA KEENOVA THERAPEUTICS","slug":"st-shared-services-llc-dba-keenova-therapeutics","state":"DC","country":"United States of America","description":"Pharmaceutical company","totalSpending":190000,"filings":5,"yearlySpending":[{"year":2025,"income":190000}],"issues":[{"code":"PHA","display":"Pharmacy"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"MAN","display":"Manufacturing"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["DAVID REID","ADAM STEINMETZ","HAROLD HANCOCK","JOSEPH HOWELL","DEEMA TARAZI","EMILY FELDER","LAUREN MISH","LAUREN FLYNN","AARON CUMMINGS","TIM SHADYAC"],"govEntities":["Commerce, Dept of (DOC)","Executive Office of the President (EOP)","HOUSE OF REPRESENTATIVES","SENATE","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Issues related to pharmaceutical manufacturing, tax and trade policy affecting the pharmaceutical industry, and the companys expansion of its domestic footprint.","Issues related to pharmaceutical manufacturing, tax and trade policy affecting the pharmaceutical industry, and the companys expansion of its domestic footprint.","Issues related to pharmaceutical manufacturing, tax and trade policy affecting the pharmaceutical industry, and the companys expansion of its domestic footprint.","Issues related to pharmaceutical manufacturing Tax and trade policy affecting the pharmaceutical industry","Companys expansion of its domestic footprint."]}

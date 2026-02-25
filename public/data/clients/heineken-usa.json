@@ -1,11 +1,1 @@
-{
-  "name": "HEINEKEN USA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":210193,"name":"HEINEKEN USA","slug":"heineken-usa","state":"NY","country":"United States of America","description":"Beer producer","totalSpending":140000,"filings":7,"yearlySpending":[{"year":2021,"income":70000},{"year":2022,"income":70000}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"BEV","display":"Beverage Industry"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["GREGORY BERGER","RUSSELL SULLIVAN","MARK WARREN","HAROLD HANCOCK"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Treasury, Dept of"],"sampleDescriptions":["Issues related to international and corporate tax","Issues related to international and corporate tax","Issues related to international and corporate tax\nH.R.5376 - Build Back Better Act","Issues related to international and corporate tax\nH.R.5376 - Build Back Better Act","Issues related to international and corporate tax\nH.R.5376 - Build Back Better Act"]}

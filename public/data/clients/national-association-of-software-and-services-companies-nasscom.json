@@ -1,11 +1,1 @@
-{
-  "name": "NATIONAL ASSOCIATION OF SOFTWARE AND SERVICES COMPANIES (NASSCOM)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":203360,"name":"NATIONAL ASSOCIATION OF SOFTWARE AND SERVICES COMPANIES (NASSCOM)","slug":"national-association-of-software-and-services-companies-nasscom","state":null,"country":"India","description":"Software Industry Association for the IT-BPM Sector","totalSpending":170000,"filings":9,"yearlySpending":[{"year":2019,"income":60000},{"year":2020,"income":90000},{"year":2021,"income":20000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"IMM","display":"Immigration"}],"firms":["ABRAHAM STRATEGIES LLC"],"lobbyists":["SPENCER ABRAHAM"],"govEntities":["Commerce, Dept of (DOC)","Executive Office of the President (EOP)","SENATE","Labor, Dept of (DOL)"],"sampleDescriptions":["Issues related to immigration and trade policy","Issues related to immigration and trade policy","Issues related to immigration and trade policy\nSkilled worker training","Issues related to immigration and trade policy\nSkilled worker training","Issues related to immigration and trade policy\nSkilled worker training"]}

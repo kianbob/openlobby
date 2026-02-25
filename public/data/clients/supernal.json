@@ -1,11 +1,1 @@
-{
-  "name": "SUPERNAL",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":52084,"name":"SUPERNAL","slug":"supernal","state":"DC","country":"United States of America","description":"Advanced Air mobility designer and manufacturer","totalSpending":360000,"filings":14,"yearlySpending":[{"year":2022,"income":60000},{"year":2023,"income":120000},{"year":2024,"income":120000},{"year":2025,"income":60000}],"issues":[{"code":"AVI","display":"Aviation/Airlines/Airports"}],"firms":["DGA GROUP GOVERNMENT RELATIONS LLC"],"lobbyists":["LARA TENNYSON","MARGEAUX PLAISTED","MICHAEL DROBAC","GREGORY WALDEN","BRETT SCOTT","ADRIANA SANTONI VICENS","MAGGIE KLAU"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Transportation, Dept of (DOT)"],"sampleDescriptions":["AVI- Legislative proposals, rulemakings, and policies related to advanced air mobility; FAA UAS/AAM realignment proposal in reprograming request and FY 23 THUD budget proposal; H.R. 6270, S. 4246, Adv","AVI - Proposals, rulemakings, and policies related to advanced air mobility; FAA reprogramming request-UAM/AAM provisions; H.R. 6270 and S. 4246, Advanced Aviation Innovation Modernization Act; Transf","AVI - Proposals, rulemakings, and policies related to advanced air mobility; H.R. 6270 and S. 4246, Advanced Aviation Innovation Modernization Act; Transforming Transportation Advisory Committee","AVI Legislative proposals, rulemakings, and policies related to advanced air mobility; FAA UAS/AAM realignment proposal in reprogramming request and THUD budget proposals; Advanced Aviation Innovation","Proposals, rulemakings, and policies related to advanced air mobility; Transforming Transportation Advisory Committee; FAA reauthorization: AAM proposals"]}

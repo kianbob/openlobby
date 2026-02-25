@@ -1,11 +1,1 @@
-{
-  "name": "CMA CGM (AMERICA) LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":210772,"name":"CMA CGM (AMERICA) LLC","slug":"cma-cgm-america-llc","state":"VA","country":"United States of America","description":"Transportation Logistics Company","totalSpending":370000,"filings":8,"yearlySpending":[{"year":2021,"income":130000},{"year":2022,"income":240000}],"issues":[{"code":"ENV","display":"Environment/Superfund"},{"code":"CAW","display":"Clean Air and Water (quality)"},{"code":"DEF","display":"Defense"},{"code":"ROD","display":"Roads/Highway"},{"code":"TRA","display":"Transportation"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"MAR","display":"Marine/Maritime/Boating/Fisheries"},{"code":"IMM","display":"Immigration"}],"firms":["VAN SCOYOC ASSOCIATES"],"lobbyists":["JENNIFER CAVE","MICHAEL SHUPP","DAVID HAINES","STEVEN PALMER","GEOFFREY BOWMAN","ASHLEY STROBEL","JOHN FULLER","LAUREN BRESETTE"],"govEntities":["Transportation, Dept of (DOT)","Defense, Dept of (DOD)","Federal Maritime Commission","HOUSE OF REPRESENTATIVES","Joint Chiefs of Staff","Office of the Vice President of the United States","SENATE","State, Dept of (DOS)","White House Office","Maritime Administration (MARAD)","U.S. Trade Representative (USTR)","Agriculture, Dept of (USDA)","Commerce, Dept of (DOC)","Labor, Dept of (DOL)","Energy, Dept of","Executive Office of the President (EOP)","Small Business Administration (SBA)","Treasury, Dept of"],"sampleDescriptions":["Maritime, Transportation and Logistics related issues","Maritime, Transportation and Logistics related issues","Maritime, Transportation and Logistics related issues","Maritime, Transportation and Logistics related issues","Maritime, Transportation and Logistics related issues"]}

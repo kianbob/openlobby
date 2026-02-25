@@ -1,11 +1,1 @@
-{
-  "name": "INTEREST DEDUCTIBILITY WORKING GROUP",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":61128,"name":"INTEREST DEDUCTIBILITY WORKING GROUP","slug":"interest-deductibility-working-group","state":"DC","country":"United States of America","description":"Coalition of companies focused on interest deductibility policies.","totalSpending":390000,"filings":6,"yearlySpending":[{"year":2024,"income":210000},{"year":2025,"income":180000}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["THE WASHINGTON TAX & PUBLIC POLICY GROUP"],"lobbyists":["GREGORY NICKERSON","ZACHARY PRICE","JAMES PEDROTTI"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related interest deductibility.","Issues related to the deductibility of interest expense, including IRC section 163(j). (H.R. 7024, H.R. 2788, S. 1232)","Issues related to the deductibility of interest expense, including IRC section 163(j). (H.R. 7024, H.R. 2788, S. 1232)","Issues related to the deductibility of interest expense, including IRC section 163(j). (H.R. 1347, S. 559)","Issues related to the deductibility of interest expense, including IRC section 163(j). (H.R. 1347, S. 559, S. 1688, H.R. 1 - Sections 70303, 70341, 70342)"]}

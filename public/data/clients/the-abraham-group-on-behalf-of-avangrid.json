@@ -1,11 +1,1 @@
-{
-  "name": "THE ABRAHAM GROUP (ON BEHALF OF AVANGRID)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":65932,"name":"THE ABRAHAM GROUP (ON BEHALF OF AVANGRID)","slug":"the-abraham-group-on-behalf-of-avangrid","state":"DC","country":"United States of America","description":"Consulting","totalSpending":80000,"filings":5,"yearlySpending":[{"year":2025,"income":80000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["BLANK ROME GOVERNMENT RELATIONS"],"lobbyists":["SPENCER ABRAHAM","CJ ZANE","JOAN BONDAREFF","DAVID THOMPSON","STEVEN WALL"],"govEntities":["Interior, Dept of (DOI)"],"sampleDescriptions":["Offshore wind energy development","Offshore wind energy development.","Offshore wind energy development. Monitor and Report.","Offshore wind energy development. Monitor and Report.","Offshore wind energy development. Monitor and Report. Issues related to offshore and energy projects and permitting."]}

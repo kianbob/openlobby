@@ -1,11 +1,1 @@
-{
-  "name": "WATEREUSE",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":199969,"name":"WATEREUSE","slug":"watereuse","state":"VA","country":"United States of America","description":"","totalSpending":712500,"filings":36,"yearlySpending":[{"year":2018,"income":156500},{"year":2019,"income":90000},{"year":2020,"income":0},{"year":2021,"income":70000},{"year":2022,"income":0},{"year":2023,"income":0},{"year":2024,"income":147000},{"year":2025,"income":249000}],"issues":[{"code":"BUD","display":"Budget/Appropriations"},{"code":"CAW","display":"Clean Air and Water (quality)"},{"code":"UTI","display":"Utilities"},{"code":"ENV","display":"Environment/Superfund"},{"code":"NAT","display":"Natural Resources"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["WATEREUSE ASSOCIATION"],"lobbyists":["AMBER KIM","PAT SINICROPI","MIA O'CONNELL","GREG FOGEL"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Environmental Protection Agency (EPA)"],"sampleDescriptions":["Appropriations for State Revolving Funds, WIFIA, Title XVI","Water reuse/recycling\nWater Resources Development Act proposal","Appropriations for State Revolving Funds, WIFIA, Title XVI","General water reuse/recycling advocacy\nWater Resources Development Act (H.R.8 and S.2800) for inclusion of local planning language","-General water reuse/recycling advocacy\n-Water Resources Development Act (H.R.8 and S.2800) for inclusion of local planning language\n-Reauthorization of Bureau of Reclamation's Title XVI program"]}

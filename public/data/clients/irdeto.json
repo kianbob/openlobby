@@ -1,11 +1,1 @@
-{
-  "name": "IRDETO",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":132757,"name":"IRDETO","slug":"irdeto","state":null,"country":"Canada","description":"Digital platform security","totalSpending":180000,"filings":8,"yearlySpending":[{"year":2018,"income":90000},{"year":2019,"income":90000}],"issues":[{"code":"TRA","display":"Transportation"},{"code":"CPI","display":"Computer Industry"},{"code":"HOM","display":"Homeland Security"}],"firms":["MEYERS AND ASSOCIATES"],"lobbyists":["LARRY MEYERS","RICK MEYERS"],"govEntities":["Homeland Security, Dept of (DHS)","HOUSE OF REPRESENTATIVES","SENATE","Transportation, Dept of (DOT)"],"sampleDescriptions":["Autonomous vehicles","S. 1885 - AV START Act; S. 680 - SPY Car Act; H.R. 5730; H.R. 5733; H.R. 5766","S. 1885 - AV START Act; S. 680 - SPY Car Act; H.R. 5730; H.R. 5733; H.R. 5766","S. 1885 - AV START Act; S. 680 - SPY Car Act; H.R. 5730; H.R. 5733; H.R. 5766","S. 1885 - AV START Act; S. 680 - SPY Car Act; H.R. 5730; H.R. 5733; H.R. 5766"]}

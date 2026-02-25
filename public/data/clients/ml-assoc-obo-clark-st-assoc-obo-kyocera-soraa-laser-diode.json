@@ -1,11 +1,1 @@
-{
-  "name": "ML ASSOC OBO CLARK ST ASSOC OBO KYOCERA SORAA LASER DIODE",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":52944,"name":"ML ASSOC OBO CLARK ST ASSOC OBO KYOCERA SORAA LASER DIODE","slug":"ml-assoc-obo-clark-st-assoc-obo-kyocera-soraa-laser-diode","state":"MD","country":"United States of America","description":"Consulting firm","totalSpending":40000,"filings":6,"yearlySpending":[{"year":2022,"income":20000},{"year":2023,"income":20000}],"issues":[{"code":"DEF","display":"Defense"}],"firms":["HAWLEY LLC"],"lobbyists":["THOMAS HAWLEY"],"govEntities":["Army, Dept of (Other)","Air Force, Dept of","Defense, Dept of (DOD)","HOUSE OF REPRESENTATIVES","Navy, Dept of","U.S. Marines"],"sampleDescriptions":["Issues related to laser light technology applications","Issues related to laser light technology applications","Issues related to laser light technology applications - no specific legislation","Issues related to laser light technology applications - no specific legislation","Issues related to laser light technology applications; National Defense Authorization Act for FY2024"]}

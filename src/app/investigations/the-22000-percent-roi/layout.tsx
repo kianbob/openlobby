@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'The 22,000% ROI: How Lobbying Became America\'s Best Investment',
-  description: 'Academic research proves lobbying returns 22,000%. Our data on 650,000+ filings and $15.2B in spending confirms it — the more you lobby, the more you get.',
+  description: 'Academic research proves lobbying returns 22,000%. Our data on 726,000+ filings and $37.7B in spending confirms it — the more you lobby, the more you get.',
   openGraph: {
     title: 'The 22,000% ROI: How Lobbying Became America\'s Best Investment',
     description: '93 firms spent $283M lobbying for a tax holiday and saved $62.5B. That\'s a 22,000% return. Our data confirms lobbying is the best investment in America.',

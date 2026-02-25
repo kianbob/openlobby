@@ -1,11 +1,1 @@
-{
-  "name": "POLYMET MINING CORP",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":172600,"name":"POLYMET MINING CORP","slug":"polymet-mining-corp","state":"MN","country":"United States of America","description":"Mining","totalSpending":232025,"filings":7,"yearlySpending":[{"year":2018,"income":232025},{"year":2019,"income":0}],"issues":[{"code":"RES","display":"Real Estate/Land Use/Conservation"}],"firms":["MR. THOMAS R. H. GLASS"],"lobbyists":["THOMAS GLASS"],"govEntities":["HOUSE OF REPRESENTATIVES","Interior, Dept of (DOI)","SENATE"],"sampleDescriptions":["Land Exchange","Land Exchange HR 3115","Land Exchange HR 3115","Land Exchange HR 3115","Land Exchange HR 3115"]}

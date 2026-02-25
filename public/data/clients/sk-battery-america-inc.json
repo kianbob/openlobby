@@ -1,11 +1,1 @@
-{
-  "name": "SK BATTERY AMERICA, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":52675,"name":"SK BATTERY AMERICA, INC.","slug":"sk-battery-america-inc","state":"GA","country":"United States of America","description":"EV Battery Manufacturer","totalSpending":10000,"filings":3,"yearlySpending":[{"year":2022,"income":10000}],"issues":[{"code":"AUT","display":"Automotive Industry"},{"code":"ENG","display":"Energy/Nuclear"},{"code":"MAN","display":"Manufacturing"}],"firms":["NELSON MULLINS RILEY & SCARBOROUGH"],"lobbyists":["JUSTIN MEYERS"],"govEntities":["SENATE"],"sampleDescriptions":["EV battery manufacturing","EV battery manufacturing","EV battery manufacturing","EV battery manufacturing","EV battery manufacturing"]}

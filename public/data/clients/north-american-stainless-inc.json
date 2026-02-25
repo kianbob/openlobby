@@ -1,11 +1,1 @@
-{
-  "name": "NORTH AMERICAN STAINLESS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":102540,"name":"NORTH AMERICAN STAINLESS, INC.","slug":"north-american-stainless-inc","state":"KY","country":"United States of America","description":"Stainless steel manufacturing.","totalSpending":150000,"filings":7,"yearlySpending":[{"year":2018,"income":150000},{"year":2019,"income":0}],"issues":[{"code":"MAN","display":"Manufacturing"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["ALSTON & BIRD LLP"],"lobbyists":["JASON WAITE","SHANNON CAMPAGNA"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Commerce, Dept of (DOC)"],"sampleDescriptions":["Trade and Investment Policy.","Issues related to trade and investment policy.","Issues related to trade and investment policy.","Issues related to tariffs and international trade.","Issues related to tariffs and international trade."]}

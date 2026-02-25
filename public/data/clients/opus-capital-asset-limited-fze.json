@@ -1,11 +1,1 @@
-{
-  "name": "OPUS CAPITAL ASSET LIMITED FZE",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":182769,"name":"OPUS CAPITAL ASSET LIMITED FZE","slug":"opus-capital-asset-limited-fze","state":null,"country":"United Arab Emirates","description":"Geopolitical national security firm","totalSpending":120000,"filings":7,"yearlySpending":[{"year":2019,"income":120000}],"issues":[{"code":"DEF","display":"Defense"},{"code":"FUE","display":"Fuel/Gas/Oil"}],"firms":["FEDERAL ADVOCATES, INC."],"lobbyists":["MICHAEL ESPOSITO","JENNIFER ARANGIO","KEVIN TALLEY"],"govEntities":["White House Office"],"sampleDescriptions":["Working with the Administration on geopolitical issues in Africa.","Oil and gas logistics services - providing educational background to the Administration.","Oil and gas logistics services - providing educational background to the Administration.","Oil and gas logistics services - providing educational background to the Administration.","Oil and gas logistics services - providing educational background to the Administration."]}

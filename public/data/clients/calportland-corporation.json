@@ -1,11 +1,1 @@
-{
-  "name": "CALPORTLAND CORPORATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":211548,"name":"CALPORTLAND CORPORATION","slug":"calportland-corporation","state":"CA","country":"United States of America","description":"Is a producer of cement, ready mixed concrete, aggregate and other related products.","totalSpending":530000,"filings":19,"yearlySpending":[{"year":2021,"income":50000},{"year":2022,"income":120000},{"year":2023,"income":120000},{"year":2024,"income":120000},{"year":2025,"income":120000}],"issues":[{"code":"NAT","display":"Natural Resources"},{"code":"TRA","display":"Transportation"},{"code":"ENV","display":"Environment/Superfund"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["THE SMITH-FREE GROUP, LLC"],"lobbyists":["ROBERT HICKMOTT","JACK DEUSER","TREVOR KOLEGO","W. LOCKE","MICHAEL GAFFIN","JOHN CHRISTIE"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Council on Environmental Quality (CEQ)","General Services Administration (GSA)","Transportation, Dept of (DOT)","White House Office"],"sampleDescriptions":["Issues concerning building materials.","Monitored H.R.3684, Infrastructure investment and Jobs Act","Discussions involving transportation and infrastructure legislation\n\nMonitored H.R.3684, Infrastructure investment and Jobs Act","Discussions involving climate and buy clean policies","Discussions involving climate and buy clean policies Monitored proposed EPA environmental regulation"]}

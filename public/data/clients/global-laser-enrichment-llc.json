@@ -1,11 +1,1 @@
-{
-  "name": "GLOBAL LASER ENRICHMENT LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":212474,"name":"GLOBAL LASER ENRICHMENT LLC","slug":"global-laser-enrichment-llc","state":"NC","country":"United States of America","description":"","totalSpending":1730000,"filings":20,"yearlySpending":[{"year":2021,"income":20000},{"year":2022,"income":200000},{"year":2023,"income":340000},{"year":2024,"income":650000},{"year":2025,"income":520000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["GLOBAL LASER ENRICHMENT LLC"],"lobbyists":["JAMES DOBCHUK","MORGAN MURPHY","NIMA ASHKEBOUSSI"],"govEntities":["Energy, Dept of","HOUSE OF REPRESENTATIVES","SENATE","White House Office"],"sampleDescriptions":["Any legislation or regulations regarding uranium enrichment and the front end of the nuclear energy production cycle.","Any legislation or regulations regarding uranium enrichment and the front end of the nuclear energy production cycle","Any legislation or regulations regarding uranium enrichment and the front end of the nuclear energy production cycle","Any legislation or regulations regarding uranium enrichment and the front end of the nuclear energy production cycle","Any legislation or regulations regarding uranium enrichment and the front end of the nuclear energy production cycle"]}

@@ -1,11 +1,1 @@
-{
-  "name": "ECOLOG INTERNATIONAL FZE",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":213260,"name":"ECOLOG INTERNATIONAL FZE","slug":"ecolog-international-fze","state":null,"country":"United Arab Emirates","description":"Integrated services solutions","totalSpending":270000,"filings":4,"yearlySpending":[{"year":2021,"income":130000},{"year":2022,"income":140000}],"issues":[{"code":"DIS","display":"Disaster Planning/Emergencies"},{"code":"HCR","display":"Health Issues"}],"firms":["CROWELL & MORING LLP"],"lobbyists":["SCOTT DOUGLAS","JAMES FLOOD","TIMOTHY SHADYAC","KATHLEEN BEALE"],"govEntities":["State, Dept of (DOS)","U.S. Agency for International Development (USAID)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["International COVID-19 vaccination and testing support","International COVID-19 vaccination and testing support","International COVID-19 vaccination and testing support","International COVID-19 vaccination and testing support","Global COVID-19 vaccine funding International COVID-19 vaccination and testing support"]}

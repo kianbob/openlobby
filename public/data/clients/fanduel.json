@@ -1,11 +1,1 @@
-{
-  "name": "FANDUEL",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68933,"name":"FANDUEL","slug":"fanduel","state":"NY","country":"United States of America","description":"Online Sports Gaming","totalSpending":70000,"filings":3,"yearlySpending":[{"year":2025,"income":70000}],"issues":[{"code":"GAM","display":"Gaming/Gambling/Casino"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["MEHLMAN CONSULTING, INC."],"lobbyists":["JON ADAME","STEPHEN COTE","BRUCE MEHLMAN","ZACHARY MALLOVE","ALEXANDER PERKINS","DEAN ROSEN","CAITLIN VAN SANT","LISA GOLDMAN","JOSEPH BROWN","HELEN TOLAR","ELISE FINLEY PICKERING","MICHAEL ROBINSON","NICHOLE DISTEFANO","PAUL THORNELL","ANNIE WOLF","DAVID THOMAS","NAVEEN PARMAR","ERICA CHABOT","ALYENE MLINAR","ROSEMARY GUTIERREZ","LAUREN ARONSON","SAGE EASTMAN","EARL FLOOD"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Issues related to sports gambling.","Issues related to sports gambling.","Issues related to online sports betting.","Issues related to online sports betting. H.R. 4304 - FAIR Bet Act. S. 2230 - Full House Act.","Issues related to online sports betting and foreign market access barriers."]}

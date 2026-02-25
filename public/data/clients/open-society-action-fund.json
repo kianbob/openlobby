@@ -1,11 +1,1 @@
-{
-  "name": "OPEN SOCIETY ACTION FUND",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":167639,"name":"OPEN SOCIETY ACTION FUND","slug":"open-society-action-fund","state":"DC","country":"United States of America","description":"","totalSpending":100474000,"filings":22,"yearlySpending":[{"year":2018,"income":31520000},{"year":2019,"income":48470000},{"year":2020,"income":4950000},{"year":2023,"income":11510000},{"year":2024,"income":3990000},{"year":2025,"income":34000}],"issues":[{"code":"FOR","display":"Foreign Relations"},{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"},{"code":"ECN","display":"Economics/Economic Development"},{"code":"IMM","display":"Immigration"},{"code":"CIV","display":"Civil Rights/Civil Liberties"},{"code":"GOV","display":"Government Issues"},{"code":"CON","display":"Constitution"},{"code":"DEF","display":"Defense"}],"firms":["OPEN SOCIETY ACTION FUND"],"lobbyists":["LORA LUMPE","ALEX JOHNSON","JACOB MARX","MICAELA FERNANDEZ ALLEN","RACHEL EVERETTE"],"govEntities":["Defense, Dept of (DOD)","HOUSE OF REPRESENTATIVES","Natl Security Council (NSC)","SENATE","State, Dept of (DOS)","Executive Office of the President (EOP)"],"sampleDescriptions":["S.2047, Preventing Preemptive War in North Korea Act of 2017, provision regarding withholding funds for any U.S. military action against North Korea unless authorized by Congress\nH.R.4140, No Unconsti","S.2047, Preventing Preemptive War in North Korea Act of 2017\nH.R.4837/S.2019, No Unconstitutional Strike against North Korea Act\nH.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 201","H.R.5515/S.2987, National Defense Authorization Act for Fiscal Year 2019 (issues related to security sector assistance, North Korea, Defense Institute for International Legal Studies, and Leahy Law) \n","H.R.2200, Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2017\nH.R.695, Department of Defense Appropriations Act, 2018 \nH.Con.Res.138, Directing the President p","S.544, A bill to require the Director of National Intelligence to submit to Congress a report on the death of Jamal Khashoggi, and for other purposes\nS.J.Res.7, A joint resolution to direct the remova"]}

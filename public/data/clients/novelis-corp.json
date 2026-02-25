@@ -1,11 +1,1 @@
-{
-  "name": "NOVELIS CORP.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":128499,"name":"NOVELIS CORP.","slug":"novelis-corp","state":"GA","country":"United States of America","description":"Industrial aluminum company.","totalSpending":10000,"filings":27,"yearlySpending":[{"year":2018,"income":0},{"year":2019,"income":0},{"year":2020,"income":0},{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":0},{"year":2024,"income":0},{"year":2025,"income":10000}],"issues":[{"code":"MAN","display":"Manufacturing"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["KING & SPALDING LLP"],"lobbyists":["JAMES TAYLOR","RAHUL PATEL"],"govEntities":["Commerce, Dept of (DOC)"],"sampleDescriptions":["Manufacturing: Advocacy Support. Trade: Advocacy Support.","Manufacturing: Advocacy Support. Trade: Advocacy Support.","Advocacy regarding US Manufacturing."]}

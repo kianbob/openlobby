@@ -1,11 +1,1 @@
-{
-  "name": "GENTING MANAGEMENT SERVICES, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202361,"name":"GENTING MANAGEMENT SERVICES, LLC","slug":"genting-management-services-llc","state":"NY","country":"United States of America","description":"Resort, Casino, and Hotel Developer and Operator","totalSpending":20000,"filings":2,"yearlySpending":[{"year":2018,"income":20000}],"issues":[{"code":"IND","display":"Indian/Native American Affairs"},{"code":"GAM","display":"Gaming/Gambling/Casino"}],"firms":["DAKOTA STRATEGIES, LLC (F/N/A ODNEY, INC.)"],"lobbyists":["SHANE GOETTLE","DONALD LARSON"],"govEntities":["SENATE"],"sampleDescriptions":["HR 5244; S 2628","Interior Department land decisions"]}

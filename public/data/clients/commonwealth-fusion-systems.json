@@ -1,11 +1,1 @@
-{
-  "name": "COMMONWEALTH FUSION SYSTEMS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":191825,"name":"COMMONWEALTH FUSION SYSTEMS","slug":"commonwealth-fusion-systems","state":"MA","country":"United States of America","description":"CFS is commercializing fusion energy by using decades of government and academic research.","totalSpending":283500,"filings":27,"yearlySpending":[{"year":2019,"income":38500},{"year":2020,"income":40000},{"year":2021,"income":50000},{"year":2022,"income":45000},{"year":2023,"income":50000},{"year":2024,"income":45000},{"year":2025,"income":15000}],"issues":[{"code":"SCI","display":"Science/Technology"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["THE DESNER GROUP, LLC"],"lobbyists":["FLOYD DESCHAMPS"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Energy, Dept of","Nuclear Regulatory Commission (NRC)"],"sampleDescriptions":["Efforts are focused upon the creation of public private partnerships program at the US Department of Energy.","Efforts are focused upon the creation of public private partnerships program at the US Department of Energy.","Pursued the establishment of a public-private partnership program at DOE and continual funding for fusion research by the federal agencies.","Pursued the establishment of a public-private partnership program at DOE and continual funding for fusion research by the federal agencies.","Provided information on the science behind fusion energy and the magnets used."]}

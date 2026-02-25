@@ -1,11 +1,1 @@
-{
-  "name": "SPORTRADAR US LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":201866,"name":"SPORTRADAR US LLC","slug":"sportradar-us-llc","state":"NY","country":"United States of America","description":"Sports data provider","totalSpending":130000,"filings":5,"yearlySpending":[{"year":2018,"income":130000}],"issues":[{"code":"GAM","display":"Gaming/Gambling/Casino"}],"firms":["FOCUS DC LLC"],"lobbyists":["MATTHEW GERSON"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Sports Gambling Issues.","Sports Gambling Issues.","Sports Gambling Issues.","Sports Gambling Issues.","Sports Gambling Issues."]}

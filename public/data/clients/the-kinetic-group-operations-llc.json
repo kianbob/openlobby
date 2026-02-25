@@ -1,11 +1,1 @@
-{
-  "name": "THE KINETIC GROUP OPERATIONS LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":66769,"name":"THE KINETIC GROUP OPERATIONS LLC","slug":"the-kinetic-group-operations-llc","state":"MN","country":"United States of America","description":"Manufacturing and Machinery","totalSpending":220000,"filings":5,"yearlySpending":[{"year":2025,"income":220000}],"issues":[{"code":"DEF","display":"Defense"},{"code":"ECN","display":"Economics/Economic Development"},{"code":"ENV","display":"Environment/Superfund"},{"code":"FIR","display":"Firearms/Guns/Ammunition"},{"code":"MAN","display":"Manufacturing"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["MERCURY PUBLIC AFFAIRS, LLC"],"lobbyists":["MICHAEL MCSHERRY","JAMES MESSNER","WILLIAM CORTESE"],"govEntities":["HOUSE OF REPRESENTATIVES","Office of Administration","SENATE"],"sampleDescriptions":["issues related to ammunition","issues related to ammunition","issues related to ammunition","issues related to ammunition","issues related to ammunition"]}

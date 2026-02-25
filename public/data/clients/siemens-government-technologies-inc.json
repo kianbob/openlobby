@@ -1,11 +1,1 @@
-{
-  "name": "SIEMENS GOVERNMENT TECHNOLOGIES, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":204452,"name":"SIEMENS GOVERNMENT TECHNOLOGIES, INC.","slug":"siemens-government-technologies-inc","state":"VA","country":"United States of America","description":"Innovative products, technologies, and services","totalSpending":50000,"filings":11,"yearlySpending":[{"year":2020,"income":0},{"year":2021,"income":0},{"year":2022,"income":30000},{"year":2023,"income":20000}],"issues":[{"code":"DEF","display":"Defense"},{"code":"HOM","display":"Homeland Security"}],"firms":["STEPTOE LLP"],"lobbyists":["JOSEPH CORRIGAN"],"govEntities":[],"sampleDescriptions":["Federal policy and procurement relating to DoD facilities and Corps of Engineers facilities for Homeland FEMA procurement.","Federal policy and procurement relating to DoD facilities and Corps of Engineers facilities for Homeland FEMA procurement.","Federal policy and procurement relating to DoD facilities and Corps of Engineers facilities for Homeland FEMA procurement.","Federal policy and procurement relating to DoD facilities and Corps of Engineers facilities for Homeland FEMA procurement."]}

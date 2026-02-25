@@ -1,11 +1,1 @@
-{
-  "name": "THE HS COALITION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":67748,"name":"THE HS COALITION","slug":"the-hs-coalition","state":"DC","country":"United States of America","description":"Promote policies that improve lives of individuals with hidradenitis suppurativa (HS)","totalSpending":190000,"filings":5,"yearlySpending":[{"year":2025,"income":190000}],"issues":[{"code":"MED","display":"Medical/Disease Research/Clinical Labs"},{"code":"MMM","display":"Medicare/Medicaid"},{"code":"PHA","display":"Pharmacy"}],"firms":["THE KPM GROUP DC LLC"],"lobbyists":["JACOB JACKSON","BRANDEN CORDEIRO","ALEXANDER ROOT"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["General HS awareness HS research funding Medicare - Telehealth; Step Therapy/Prior Authorization in Part C and Part D","General HS awareness HS research funding Medicare - Telehealth; Step Therapy/Prior Authorization in Part C and Part D","General HS awareness HS research funding Medicare - Telehealth; Step Therapy/Prior Authorization in Part C and Part D","General HS awareness HS research funding Medicare - Telehealth; Step Therapy/Prior Authorization in Part C and Part D","S.864, Help Ensure Lower Patient (HELP) Copays Act H. Res 484, Expressing support for the recognition of \"Hidradenitis Suppurativa Awareness Week\""]}

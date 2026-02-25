@@ -1,11 +1,1 @@
-{
-  "name": "ACUSENSUS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":209868,"name":"ACUSENSUS","slug":"acusensus","state":"CA","country":"United States of America","description":"manufacturer of traffic cameras","totalSpending":0,"filings":9,"yearlySpending":[{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":0}],"issues":[{"code":"TRA","display":"Transportation"}],"firms":["STORM KING STRATEGIES, LLC"],"lobbyists":["DAVID KELLY"],"govEntities":["HOUSE OF REPRESENTATIVES","Natl Highway Traffic Safety Administration (NHTSA)","SENATE"],"sampleDescriptions":["distracted driving, law enforcement, occupant protection","Infrastructure legislation\nTraffic enforcement\nTraffic safety research","Infrastructure legislation\nTraffic enforcement\nTraffic safety research","Infrastructure legislation Traffic enforcement Traffic safety research","Infrastructure legislation Traffic enforcement Traffic safety research"]}

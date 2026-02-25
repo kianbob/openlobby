@@ -90,16 +90,16 @@ export default function Page() {
         <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Most Concentrated Industry in America</h2>
 
         <p>
-          If lobbying were an industry — and at $15.2 billion over eight years, it is — it would be the most
+          If lobbying were an industry — and at $37.7 billion over eight years, it is — it would be the most
           geographically concentrated industry in the United States. Not Hollywood for movies. Not Silicon Valley
           for tech. Not Wall Street for finance. <em>K Street for lobbying.</em>
         </p>
 
         <p>
           Our geographic analysis of every lobbying filing in the database reveals a stunning concentration.
-          Of the $15.2 billion in total disclosed lobbying income tracked by OpenLobby since 2018,
+          Of the $37.7 billion in total disclosed lobbying income tracked by OpenLobby since 2018,
           a staggering <strong>$18.4 billion</strong> is attributed to organizations headquartered in Washington DC
-          (the total exceeds $15.2B because geographic data includes firm-side income allocations and
+          (the total exceeds $37.7B because geographic data includes firm-side income allocations and
           multi-year accumulation across all parties to each filing).
         </p>
 

@@ -1,11 +1,1 @@
-{
-  "name": "EVOLUTIONARY RAIL LTD",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":52989,"name":"EVOLUTIONARY RAIL LTD","slug":"evolutionary-rail-ltd","state":null,"country":"United Kingdom","description":"Rail communications provider","totalSpending":120000,"filings":11,"yearlySpending":[{"year":2022,"income":40000},{"year":2023,"income":80000},{"year":2024,"income":0}],"issues":[{"code":"TRA","display":"Transportation"},{"code":"RRR","display":"Railroads"}],"firms":["DUTKO WORLDWIDE, LLC"],"lobbyists":["WILLIAM SIMMONS","CHRIS ANDRESEN"],"govEntities":["Executive Office of the President (EOP)","HOUSE OF REPRESENTATIVES","SENATE","Transportation, Dept of (DOT)"],"sampleDescriptions":["Issues related to the importance of rail-5g to passenger rail investments.","Issues related to the importance of rail-5g to passenger rail investments.","Discuss benefits for Rail-5G","Discuss benefits for Rail-5G","Discuss benefits for Rail-5G"]}

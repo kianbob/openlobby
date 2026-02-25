@@ -1,11 +1,1 @@
-{
-  "name": "AMERICAN ETHANE COMPANY, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202236,"name":"AMERICAN ETHANE COMPANY, LLC","slug":"american-ethane-company-llc","state":"TX","country":"United States of America","description":"Energy company.","totalSpending":50000,"filings":3,"yearlySpending":[{"year":2018,"income":50000}],"issues":[{"code":"FUE","display":"Fuel/Gas/Oil"},{"code":"CHM","display":"Chemicals/Chemical Industry"}],"firms":["BOLD STRATEGIES, LLC"],"lobbyists":["KYLE RUCKERT"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["No lobbying activity.","Trade issues generally.","Trade issues generally.","Trade issues generally."]}

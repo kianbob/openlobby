@@ -1,11 +1,1 @@
-{
-  "name": "NAMMO PERRY, INC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":198003,"name":"NAMMO PERRY, INC","slug":"nammo-perry-inc","state":"FL","country":"United States of America","description":"Manufacturing and assembly","totalSpending":180000,"filings":14,"yearlySpending":[{"year":2018,"income":80000},{"year":2019,"income":70000},{"year":2020,"income":30000},{"year":2021,"income":0}],"issues":[{"code":"DEF","display":"Defense"},{"code":"FIR","display":"Firearms/Guns/Ammunition"}],"firms":["CAPITOL INTEGRATION"],"lobbyists":["EUGENE MORAN"],"govEntities":["HOUSE OF REPRESENTATIVES","State, Dept of (DOS)","SENATE"],"sampleDescriptions":["Interests in Foreign Military Sales procedures","Tracking and reporting status of direct military sales ammunition classifications, markings and approvals.","Interests in Foreign Military Sales procedures. US military ammunition solutions.","Tracking and reporting status of direct military sales ammunition classifications, markings and approvals.","Interests in Foreign Military Sales procedures and authorized direct foreign sales. US military ammunition solutions."]}

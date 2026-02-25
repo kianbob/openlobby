@@ -1,11 +1,1 @@
-{
-  "name": "PIRELLI TIRE, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68054,"name":"PIRELLI TIRE LLC","slug":"pirelli-tire-llc","state":"GA","country":"United States of America","description":"Tire Manufacturer","totalSpending":440000,"filings":4,"yearlySpending":[{"year":2025,"income":440000}],"issues":[{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"GOV","display":"Government Issues"},{"code":"ECN","display":"Economics/Economic Development"}],"firms":["PIRELLI TIRE LLC"],"lobbyists":["MAUREEN KLINE"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Commerce, Dept of (DOC)","Office of the Vice President of the United States","State, Dept of (DOS)"],"sampleDescriptions":["Issues related to trade/tariffs and corporate governance.","Issues related to trade/tariffs and corporate governance.","Issues related to trade/tariffs and corporate governance.","Issues related to trade/tariffs and corporate governance.","Tariffs on whole tires and raw materials. Issues relating to the United States-Mexico-Canada Agreement."]}

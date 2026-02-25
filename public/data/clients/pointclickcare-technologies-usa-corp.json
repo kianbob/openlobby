@@ -1,11 +1,1 @@
-{
-  "name": "POINTCLICKCARE TECHNOLOGIES USA CORP.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":52666,"name":"POINTCLICKCARE TECHNOLOGIES USA CORP.","slug":"pointclickcare-technologies-usa-corp","state":"MN","country":"United States of America","description":"Healthcare software provider","totalSpending":960000,"filings":15,"yearlySpending":[{"year":2022,"income":120000},{"year":2023,"income":280000},{"year":2024,"income":280000},{"year":2025,"income":280000}],"issues":[{"code":"HCR","display":"Health Issues"}],"firms":["POINTCLICKCARE TECHNOLOGIES USA CORP."],"lobbyists":["STEVE HOLT"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Advocacy related to expanded use of integrated health information technology to improve coordination of care in the long term and post-acute care settings.","Advocacy related to expanded use of integrated health information technology to improve coordination of care in the long term and post-acute care settings","Advocacy related to expanded use of integrated health information technology to improve coordination of care in the long term and post-acute care settings","Advocacy related to expanded use of integrated health information technology to improve coordination of care in the long term and post-acute care settings.","Advocacy related to expanded use of integrated health information technology to improve coordination of care in the long term and post-acute care settings."]}

@@ -1,11 +1,1 @@
-{
-  "name": "IEEE STANDARDS ASSOCIAITON",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202793,"name":"IEEE STANDARDS ASSOCIAITON","slug":"ieee-standards-associaiton","state":"NY","country":"United States of America","description":"Technical Professional and Standard Setting Organization","totalSpending":30000,"filings":3,"yearlySpending":[{"year":2019,"income":30000}],"issues":[{"code":"SCI","display":"Science/Technology"}],"firms":["INTEREL US"],"lobbyists":["TRISTAN NORTH"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Education solely on the development of standards on artificial intelligence (AI) and autonomous and intelligent systems (A/IS).","Briefed congressional offices on the role of IEEE Standards Association (SA) on setting standards specifically on artificial intelligence. Coordinated logistics for IEEE SA on AI Standards Symposium. ","Briefed congressional offices on the role of IEEE Standards Association (SA) on setting standards specifically on artificial intelligence. Coordinated logistics for IEEE SA on AI Standards Symposium. "]}

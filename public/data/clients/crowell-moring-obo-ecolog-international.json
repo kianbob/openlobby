@@ -1,11 +1,1 @@
-{
-  "name": "CROWELL & MORING OBO ECOLOG INTERNATIONAL",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":213262,"name":"CROWELL & MORING OBO ECOLOG INTERNATIONAL","slug":"crowell-moring-obo-ecolog-international","state":"DC","country":"United States of America","description":"Law firm","totalSpending":30000,"filings":4,"yearlySpending":[{"year":2021,"income":30000},{"year":2022,"income":0}],"issues":[{"code":"DIS","display":"Disaster Planning/Emergencies"},{"code":"HCR","display":"Health Issues"},{"code":"FOR","display":"Foreign Relations"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["EDWARD ROYCE","DOUGLAS MAGUIRE","SAMANTHA CARL-YODER"],"govEntities":["Centers For Disease Control & Prevention (CDC)","Health & Human Services, Dept of (HHS)","HOUSE OF REPRESENTATIVES","SENATE","State, Dept of (DOS)","U.S. Agency for International Development (USAID)","Defense, Dept of (DOD)","Executive Office of the President (EOP)"],"sampleDescriptions":["International COVID-19 vaccination and testing support","International COVID-19 vaccination and testing support","Issues related to COVID response in Africa","Issues related to COVID response in Africa","Issues related to COVID response in Africa"]}

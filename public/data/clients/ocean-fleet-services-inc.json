@@ -1,11 +1,1 @@
-{
-  "name": "OCEAN FLEET SERVICES, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":182425,"name":"OCEAN FLEET SERVICES, INC.","slug":"ocean-fleet-services-inc","state":"VA","country":"United States of America","description":"Fleet service provider","totalSpending":130000,"filings":28,"yearlySpending":[{"year":2019,"income":40000},{"year":2020,"income":40000},{"year":2021,"income":30000},{"year":2022,"income":0},{"year":2023,"income":20000},{"year":2024,"income":0},{"year":2025,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"MAR","display":"Marine/Maritime/Boating/Fisheries"},{"code":"ANI","display":"Animals"}],"firms":["KELLEY DRYE & WARREN LLP"],"lobbyists":["ANDREW MINKIEWICZ","DAVID FRULLA","BRET SPARKS","GREG MASTEL","JOHN HERRMANN"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Conservation management, federal trade and tariff policies","Conservation management, federal trade and tariff policies","Atlantic and Gulf menhaden optimum yield and sustainability; Coast Guard administration of merchant marine licenses; Conservation management of forage fish.","Impact of federal trade and tariff policies on fish meal and oil export process and markets.","Atlantic and Gulf menhaden optimum yield and sustainability; Coast Guard administration of merchant marine licenses; Conservation management of forage fish."]}

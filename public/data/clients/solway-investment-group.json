@@ -1,11 +1,1 @@
-{
-  "name": "SOLWAY INVESTMENT GROUP",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":58622,"name":"SOLWAY INVESTMENT GROUP","slug":"solway-investment-group","state":null,"country":"Switzerland","description":"mining and metals group that operates mines and smelting plants in several countries","totalSpending":20000,"filings":4,"yearlySpending":[{"year":2024,"income":20000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"FOR","display":"Foreign Relations"}],"firms":["PERSEUS STRATEGIES"],"lobbyists":["BRIAN TRONIC","JARED GENSER"],"govEntities":["State, Dept of (DOS)"],"sampleDescriptions":["Supporting client and its subsidiaries in resuming mining operations in Guatemala consistent with human rights, labor rights, and environmental rights standards.","Supporting client and its subsidiaries in resuming mining operations in Guatemala consistent with human rights, labor rights, and environmental rights standards.","Supporting client and its subsidiaries in resuming mining operations in Guatemala consistent with human rights, labor rights, and environmental rights standards.","Supporting client and its subsidiaries in resuming mining operations in Guatemala consistent with human rights, labor rights, and environmental rights standards.","Supporting client and its subsidiaries in resuming mining operations in Guatemala consistent with human rights, labor rights, and environmental rights standards."]}

@@ -1,11 +1,1 @@
-{
-  "name": "SYNGENTA CORPORATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":207169,"name":"SYNGENTA CORPORATION","slug":"syngenta-corporation","state":"DC","country":"United States of America","description":"Seeds and crop protection.","totalSpending":0,"filings":6,"yearlySpending":[{"year":2020,"income":0},{"year":2021,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"AGR","display":"Agriculture"}],"firms":["APCO WORLDWIDE LLC"],"lobbyists":["DAN SCANDLING"],"govEntities":[],"sampleDescriptions":["Agricultural and crop protection sales to US and foreign markets.","Agricultural and crop protection sales to US and foreign markets."]}

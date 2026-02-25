@@ -1,11 +1,1 @@
-{
-  "name": "FLIXBUS INC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":211342,"name":"FLIXBUS INC","slug":"flixbus-inc","state":"CA","country":"United States of America","description":"Intercity bus technology company","totalSpending":110000,"filings":4,"yearlySpending":[{"year":2021,"income":80000},{"year":2022,"income":30000}],"issues":[{"code":"TRA","display":"Transportation"}],"firms":["FTI GOVERNMENT AFFAIRS"],"lobbyists":["JOHN WHITCOMB","RUSS KELLEY"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Monitor developments related to transportation and infrastructure legislation.","Monitor infrastructure legislation","Monitor infrastructure legislation","Monitor infrastructure legislation"]}

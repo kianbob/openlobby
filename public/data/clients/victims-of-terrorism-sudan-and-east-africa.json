@@ -1,18 +1,1 @@
-{
-  "name": "VICTIMS OF TERRORISM - SUDAN AND EAST AFRICA",
-  "slug": "victims-of-terrorism-sudan-and-east-africa",
-  "state": "NC",
-  "totalSpend": 1140000,
-  "filings": 5,
-  "years": [
-    2020
-  ],
-  "issues": [
-    "BUD",
-    "FOR"
-  ],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "descriptions": []
-}
+{"id":206082,"name":"VICTIMS OF TERRORISM - SUDAN AND EAST AFRICA","slug":"victims-of-terrorism-sudan-and-east-africa","state":"NC","country":"United States of America","description":"U.S. Embassy employees in Nairobi, Kenya and Duces Salaam, Tanzania","totalSpending":1140000,"filings":8,"yearlySpending":[{"year":2020,"income":1140000},{"year":2021,"income":0}],"issues":[{"code":"BUD","display":"Budget/Appropriations"},{"code":"FOR","display":"Foreign Relations"}],"firms":["GIBSON, DUNN & CRUTCHER LLP"],"lobbyists":["ROSCOE JONES","MICHAEL BOPP","MATTHEW MCGILL"],"govEntities":["Executive Office of the President (EOP)","HOUSE OF REPRESENTATIVES","SENATE","State, Dept of (DOS)","White House Office"],"sampleDescriptions":["Compensation for victims of 1998 Embassy bombings in East Africa;","Compensation for victims of 1998 Embassy Bombings in East Africa.","Compensation for victims of 1998 Embassy Bombings in East Africa.","Lobbied for American and foreign national victims of 1998 terrorist bombing by Al Qaeda of US Embassies in East Africa to obtain claims settlement funds from Sudan via legislation that Congress would ","Lobbied for American and foreign national victims of 1998 terrorist bombing by Al Qaeda of US Embassies in East Africa to obtain claims settlement funds from Sudan via legislation that Congress would "]}

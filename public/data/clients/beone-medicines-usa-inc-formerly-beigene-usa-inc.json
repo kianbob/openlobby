@@ -1,11 +1,1 @@
-{
-  "name": "BEONE MEDICINES USA, INC (FORMERLY BEIGENE USA, INC.)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":206543,"name":"BEONE MEDICINES USA, INC (FORMERLY BEIGENE USA, INC.)","slug":"beone-medicines-usa-inc-formerly-beigene-usa-inc","state":"MA","country":"United States of America","description":"","totalSpending":3490000,"filings":24,"yearlySpending":[{"year":2020,"income":120000},{"year":2021,"income":320000},{"year":2022,"income":510000},{"year":2023,"income":700000},{"year":2024,"income":910000},{"year":2025,"income":930000}],"issues":[{"code":"MMM","display":"Medicare/Medicaid"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"MAN","display":"Manufacturing"},{"code":"HCR","display":"Health Issues"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"},{"code":"CPT","display":"Copyright/Patent/Trademark"},{"code":"ACC","display":"Accounting"}],"firms":["BEONE MEDICINES USA, INC. (FORMERLY BEIGENE USA, INC.)"],"lobbyists":["JOHN HALLIWELL","HAYLEY ALEXANDER"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Centers For Medicare and Medicaid Services (CMS)","Executive Office of the President (EOP)","Health & Human Services, Dept of (HHS)","Securities & Exchange Commission (SEC)"],"sampleDescriptions":["Support first U.S. product launch and efforts to enhance company profile/reputation; issues related to general business operations.","Support first U.S. product launch and efforts to enhance company profile/reputation; issues related to general business operations.","Support first U.S. product launch and efforts to enhance company profile/reputation; issues related to general business operations.","Support first U.S. product launch and efforts to enhance company profile/reputation; issues related to general business operations.","Support first U.S. product launch and efforts to enhance company profile/reputation; issues related to general business operations."]}

@@ -1,11 +1,1 @@
-{
-  "name": "KAZ USA, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":211076,"name":"KAZ USA, INC.","slug":"kaz-usa-inc","state":"MA","country":"United States of America","description":"Manufacturing","totalSpending":30000,"filings":8,"yearlySpending":[{"year":2021,"income":0},{"year":2025,"income":30000}],"issues":[{"code":"ENV","display":"Environment/Superfund"}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["JOSE BORJON","JAMES TUCKER","RYAN THOMPSON"],"govEntities":["HOUSE OF REPRESENTATIVES","Environmental Protection Agency (EPA)"],"sampleDescriptions":["Engagement with EPA on status of regulatory determinations.","Engagement with EPA on status of regulatory determinations.","Advocacy before Congress on issue involving federal environmental protection.","Environmental issues.","Issues related to consumer labeling disclosures."]}

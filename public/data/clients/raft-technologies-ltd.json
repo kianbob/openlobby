@@ -1,11 +1,1 @@
-{
-  "name": "RAFT TECHNOLOGIES, LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":45949,"name":"RAFT TECHNOLOGIES, LTD.","slug":"raft-technologies-ltd","state":null,"country":"Israel","description":"Technology company.","totalSpending":190000,"filings":9,"yearlySpending":[{"year":2022,"income":110000},{"year":2023,"income":80000}],"issues":[{"code":"SCI","display":"Science/Technology"},{"code":"TEC","display":"Telecommunications"}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["JEFFREY CARROLL","LYNDON BOOZER"],"govEntities":["HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Represent Raft Technologies Ltd. on policies that promote spectrum efficiency, investment, and innovation in frequencies below 30 megahertz.","Represent Raft Technologies Ltd. on policies that promote spectrum efficiency, investment, and innovation in frequencies below 30 megahertz.","Represent Raft Technologies Ltd. on policies that promote spectrum efficiency, investment, and innovation in frequencies below 30 megahertz.","Represent Raft Technologies Ltd. on policies that promote spectrum efficiency, investment, and innovation in frequencies below 30 megahertz.","Represent Raft Technologies Ltd. on policies that promote spectrum efficiency, investment, and innovation in frequencies below 30 megahertz."]}

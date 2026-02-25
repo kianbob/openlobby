@@ -1,11 +1,1 @@
-{
-  "name": "THALES USA, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":63894,"name":"THALES USA, INC.","slug":"thales-usa-inc","state":"VA","country":"United States of America","description":"Aerospace, defense, space and security company.","totalSpending":0,"filings":5,"yearlySpending":[{"year":2025,"income":0}],"issues":[{"code":"AER","display":"Aerospace"},{"code":"DEF","display":"Defense"},{"code":"GOV","display":"Government Issues"}],"firms":["262 STRATEGY LLC"],"lobbyists":["JAMES FRASER"],"govEntities":[],"sampleDescriptions":["\"Buy American\" issues, CFIUS reform, FARA reform, FY26 NDAA and Appropriations.","\"Buy American\" issues, CFIUS reform, FARA reform, FY26 NDAA and Appropriations.","\"Buy American\" issues, CFIUS reform, FARA reform, FY26 NDAA and Appropriations."]}

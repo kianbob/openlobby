@@ -1,11 +1,1 @@
-{
-  "name": "SVANTE, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":212818,"name":"SVANTE, INC.","slug":"svante-inc","state":null,"country":"Canada","description":"Carbon capture technology provider","totalSpending":450000,"filings":14,"yearlySpending":[{"year":2021,"income":30000},{"year":2022,"income":165000},{"year":2023,"income":180000},{"year":2024,"income":75000}],"issues":[{"code":"SCI","display":"Science/Technology"},{"code":"CAW","display":"Clean Air and Water (quality)"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"ENG","display":"Energy/Nuclear"},{"code":"NAT","display":"Natural Resources"}],"firms":["THE VOGEL GROUP"],"lobbyists":["SAMUEL YNTEMA","VALERIE WEST","ROBERT VAN HEUVELEN","WILLIAM MCGINLEY","EMILY KLECK","DEANNA ARCHULETA","ALEXANDER BLAIR","ALEXANDER VOGEL"],"govEntities":["Council on Environmental Quality (CEQ)","Energy, Dept of","HOUSE OF REPRESENTATIVES","SENATE","White House Office","Environmental Protection Agency (EPA)"],"sampleDescriptions":["Issues pertaining to the deployment of carbon capture, utilization, and storage technology.\nEnergy and Water Appropriations Congressional support for applications for DOE project funding,Reconciliatio","Issues pertaining to the deployment of carbon capture, utilization, and storage technology.\nEnergy and Water Appropriations Congressional support for applications for DOE project funding,Reconciliatio","Issues pertaining to the deployment of carbon capture, utilization, and storage technology.\nEnergy and Water Appropriations Congressional support for applications for DOE project funding,Reconciliatio","Issues pertaining to the deployment of carbon capture, utilization, and storage technology.\nEnergy and Water Appropriations Congressional support for applications for DOE project funding,Reconciliatio","Issues pertaining to the deployment of carbon capture, utilization, and storage technology.\nEnergy and Water Appropriations Congressional support for applications for DOE project funding,Reconciliatio"]}

@@ -1,11 +1,1 @@
-{
-  "name": "CAPITOL COUNSEL, LLC ON BEHALF OF TRACPLUS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69778,"name":"CAPITOL COUNSEL, LLC ON BEHALF OF TRACPLUS","slug":"capitol-counsel-llc-on-behalf-of-tracplus","state":"DC","country":"United States of America","description":"Aerial Firefighting data collection technology company","totalSpending":20000,"filings":2,"yearlySpending":[{"year":2025,"income":20000}],"issues":[{"code":"NAT","display":"Natural Resources"},{"code":"AVI","display":"Aviation/Airlines/Airports"}],"firms":["COLLECTIVE STRATEGIES & COMMUNICATIONS"],"lobbyists":["PHIL HARDY","MATT GALL"],"govEntities":["Agriculture, Dept of (USDA)","HOUSE OF REPRESENTATIVES","Interior, Dept of (DOI)","Office of Management & Budget (OMB)","SENATE","U.S. Forest Service"],"sampleDescriptions":["Educate Congress and Federal Agencies on the efficiencies of innovative aerial firefighting data tracking technology","Educate Congress and Federal Agencies on the efficiencies of innovative aerial firefighting data tracking technology","FY26 Interior and Environment Appropriations Implementation of Executive Order 14308 Empowering Commonsense Wildfire Prevention And Response"]}

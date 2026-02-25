@@ -1,11 +1,1 @@
-{
-  "name": "MILWAUKEE TOOL",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":63614,"name":"MILWAUKEE TOOL","slug":"milwaukee-tool","state":"WI","country":"United States of America","description":"Delivering innovative solutions to the professional construction trades","totalSpending":350000,"filings":5,"yearlySpending":[{"year":2025,"income":350000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["DAVID URBAN","STEVEN PFRANG","JOSEPH LAI","SYD TERRY"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Commerce, Dept of (DOC)"],"sampleDescriptions":["Provide strategic counsel and advocate on issues related to trade policy and other issues of importance","Provide strategic counsel and advocate on issues related to trade policy and other issues of importance","Provide strategic counsel and advocate on issues related to trade policy and other issues of importance","Provide strategic counsel and advocate on issues related to trade policy and other issues of importance","Provide strategic counsel and advocate on issues related to trade policy and other issues of importance"]}

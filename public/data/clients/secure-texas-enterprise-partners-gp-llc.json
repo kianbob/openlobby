@@ -1,11 +1,1 @@
-{
-  "name": "SECURE TEXAS ENTERPRISE PARTNERS GP, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":70647,"name":"SECURE TEXAS ENTERPRISE PARTNERS GP, LLC","slug":"secure-texas-enterprise-partners-gp-llc","state":"TX","country":"United States of America","description":"General partner entity","totalSpending":30000,"filings":2,"yearlySpending":[{"year":2025,"income":30000}],"issues":[{"code":"AVI","display":"Aviation/Airlines/Airports"}],"firms":["FEDERAL SCIENCE PARTNERS LLC"],"lobbyists":["MEG THOMPSON","JOHN CULBERSON"],"govEntities":[],"sampleDescriptions":["FAA's Unmanned Aircraft System Traffic Management (UTM)","Engaged in preparation and coordination of efforts related to FAA's Unmanned Aircraft System Traffic Management (UTM)"]}

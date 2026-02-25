@@ -1,11 +1,1 @@
-{
-  "name": "ANGLO AMERICAN PLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":51786,"name":"ANGLO AMERICAN PLC","slug":"anglo-american-plc","state":null,"country":"United Kingdom","description":"Global mining company","totalSpending":30000,"filings":12,"yearlySpending":[{"year":2022,"income":30000},{"year":2023,"income":0},{"year":2024,"income":0}],"issues":[{"code":"ECN","display":"Economics/Economic Development"},{"code":"FOR","display":"Foreign Relations"},{"code":"NAT","display":"Natural Resources"}],"firms":["GIBSON, DUNN & CRUTCHER LLP"],"lobbyists":["MICHAEL BOPP","ROSCOE JONES"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","Natl Security Council (NSC)","SENATE","Energy, Dept of","Interior, Dept of (DOI)"],"sampleDescriptions":["Engagement in connection with investment in critical minerals exploration and extraction in southern Africa.","Engagement in connection with investment in critical minerals exploration and extraction in southern Africa.","Engagement in connection with investment in critical minerals exploration and extraction in southern Africa.","Engagement in connection with investment in critical minerals exploration and extraction in southern Africa.","Engagement in connection with investment in critical minerals exploration and extraction in southern Africa."]}

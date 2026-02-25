@@ -1,11 +1,1 @@
-{
-  "name": "NEUSTAR",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202744,"name":"NEUSTAR","slug":"neustar","state":"DC","country":"United States of America","description":"Technology","totalSpending":110000,"filings":5,"yearlySpending":[{"year":2018,"income":110000}],"issues":[{"code":"TEC","display":"Telecommunications"}],"firms":["SLAIMAN CONSULTING LLC"],"lobbyists":["GARY SLAIMAN"],"govEntities":["SENATE"],"sampleDescriptions":["cybersecurity, critical infrastructure, telephone numbering","Telecommunications issues","Telecommunications issues","Telecommunications issues","Telecommunications issues"]}

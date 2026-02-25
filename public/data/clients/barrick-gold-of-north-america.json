@@ -1,11 +1,1 @@
-{
-  "name": "BARRICK GOLD OF NORTH AMERICA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":156213,"name":"BARRICK GOLD OF NORTH AMERICA","slug":"barrick-gold-of-north-america","state":"DC","country":"United States of America","description":"Mining","totalSpending":0,"filings":8,"yearlySpending":[{"year":2018,"income":0},{"year":2019,"income":0}],"issues":[{"code":"ENV","display":"Environment/Superfund"}],"firms":["PARSONS BEHLE & LATIMER"],"lobbyists":["JIM BUTLER"],"govEntities":["Environmental Protection Agency (EPA)","HOUSE OF REPRESENTATIVES","Interior, Dept of (DOI)","SENATE"],"sampleDescriptions":["EPA proposed CERCLA 108(b) rulemaking; mine permitting legislation.","Mine permitting legislation.","Mine permitting legislation.","Mine permitting legislation.","Mine Permitting legislation"]}

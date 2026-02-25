@@ -1,11 +1,1 @@
-{
-  "name": "VARIAN MEDICAL SYSTEMS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":209997,"name":"VARIAN MEDICAL SYSTEMS, INC.","slug":"varian-medical-systems-inc","state":"CA","country":"United States of America","description":"manufacturer of medical devices and software","totalSpending":120000,"filings":5,"yearlySpending":[{"year":2021,"income":90000},{"year":2022,"income":30000}],"issues":[{"code":"MMM","display":"Medicare/Medicaid"},{"code":"MED","display":"Medical/Disease Research/Clinical Labs"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["OGR"],"lobbyists":["MOSES MERCADO","GORDON TAYLOR","DEAN AGUILLEN","KARISSA WILLHITE","JEROME MURRAY"],"govEntities":["Executive Office of the President (EOP)","HOUSE OF REPRESENTATIVES","SENATE","Health & Human Services, Dept of (HHS)","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Legislative and regulatory issues related to medical devices, including: radiation oncology treatment, Medicare/Medicaid reimbursement, trade, and COVID-19 diagnostic tests.","Legislative and regulatory issues related to medical devices, including: radiation oncology treatment, Medicare/Medicaid reimbursement, trade, and COVID-19 diagnostic tests.","Legislative and regulatory issues related to medical devices, including: radiation oncology treatment, Medicare/Medicaid reimbursement, trade, and COVID-19 diagnostic tests.","Trade issues related to medical device manufacturers.","Legislative and regulatory issues related to medical devices, including: radiation oncology treatment, Medicare/Medicaid reimbursement, and COVID-19 diagnostic tests."]}

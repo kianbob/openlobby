@@ -1,11 +1,1 @@
-{
-  "name": "HYOSUNG AMERICAS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":66479,"name":"HYOSUNG AMERICAS","slug":"hyosung-americas","state":"TX","country":"United States of America","description":"ATM Company","totalSpending":0,"filings":3,"yearlySpending":[{"year":2025,"income":0}],"issues":[{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"}],"firms":["MONUMENT STRATEGIES, LLC"],"lobbyists":["JONATHAN ALEXANDER"],"govEntities":[],"sampleDescriptions":["Tariff & Trade issues"]}

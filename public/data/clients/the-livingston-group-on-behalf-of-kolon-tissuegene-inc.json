@@ -1,11 +1,1 @@
-{
-  "name": "THE LIVINGSTON GROUP (ON BEHALF OF KOLON TISSUEGENE, INC.)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":58545,"name":"THE LIVINGSTON GROUP (ON BEHALF OF KOLON TISSUEGENE, INC.)","slug":"the-livingston-group-on-behalf-of-kolon-tissuegene-inc","state":"MD","country":"United States of America","description":"A clinical stage bio-pharmaceutical company","totalSpending":120000,"filings":8,"yearlySpending":[{"year":2024,"income":120000}],"issues":[{"code":"SCI","display":"Science/Technology"},{"code":"AER","display":"Aerospace"},{"code":"HCR","display":"Health Issues"}],"firms":["THE DLM GROUP"],"lobbyists":["MARCUS LUBIN"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","Natl Aeronautics & Space Administration (NASA)","SENATE","Defense Advanced Research Projects Agency (DARPA)","Health & Human Services, Dept of (HHS)","Natl Institutes of Health (NIH)","Veterans Affairs, Dept of (VA)","State, Dept of (DOS)","U.S. Trade Representative (USTR)","Defense, Dept of (DOD)"],"sampleDescriptions":["Support for the advancement of technologies in the biomedical and aeronautics industries.","Support for the advancement of technologies in the biomedical and aeronautics industries.","Support for the advancement of technologies in the biomedical and aeronautics industries.","Introduce company and its technologies, and discuss opportunities for collaboration","Introduce company and its technologies, and discuss opportunities for collaboration"]}

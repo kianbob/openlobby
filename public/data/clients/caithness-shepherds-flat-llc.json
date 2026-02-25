@@ -1,11 +1,1 @@
-{
-  "name": "CAITHNESS SHEPHERDS FLAT, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":208833,"name":"CAITHNESS SHEPHERDS FLAT, LLC","slug":"caithness-shepherds-flat-llc","state":"NY","country":"United States of America","description":"Mining, Quarrying, and Oil and Gas Extraction","totalSpending":60000,"filings":5,"yearlySpending":[{"year":2021,"income":60000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["MERCURY PUBLIC AFFAIRS, LLC"],"lobbyists":["TOBY MOFFETT"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Oregon Wind Project","Oregon Wind Project","Oregon Wind Project","Oregon Wind Project","Oregon Wind Project"]}

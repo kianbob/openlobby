@@ -1,11 +1,1 @@
-{
-  "name": "INFOCARE HEALTH SERVICES (USA) LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":104664,"name":"INFOCARE HEALTH SERVICES (USA) LLC","slug":"infocare-health-services-usa-llc","state":"IL","country":"United States of America","description":"Healthcare services company","totalSpending":520000,"filings":17,"yearlySpending":[{"year":2018,"income":160000},{"year":2019,"income":240000},{"year":2020,"income":120000},{"year":2021,"income":0}],"issues":[{"code":"HCR","display":"Health Issues"},{"code":"VET","display":"Veterans"}],"firms":["ARNOLD & PORTER KAYE SCHOLER LLP"],"lobbyists":["SARA LINDER","GREGORY LOUER","KRISTINE BLACKWOOD","PARI MODY","EUGENIA PIERSON","ROXANA BOYD","KEVIN O'NEILL","CJ MAHLER","GRACE BENDIK","MICKAYLA STOGSDILL"],"govEntities":["Veterans Affairs, Dept of (VA)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to veterans' healthcare and health information technology policy.","Issues related to veterans' healthcare and health information technology policy.","Issues related to veterans' healthcare and health information technology policy.","Issues related to veterans' healthcare and health information technology policy.","Issues related to veterans' healthcare and health information technology policy."]}

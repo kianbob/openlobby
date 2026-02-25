@@ -1,11 +1,1 @@
-{
-  "name": "IROBOT",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202788,"name":"IROBOT","slug":"irobot","state":"MA","country":"United States of America","description":"Manufacturing","totalSpending":84000,"filings":7,"yearlySpending":[{"year":2018,"income":20000},{"year":2019,"income":64000}],"issues":[{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["INTEREL US"],"lobbyists":["TRISTAN NORTH","RUTH HAZDOVAC"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE","U.S. Trade Representative (USTR)","Vice President of the U.S."],"sampleDescriptions":["Lobbying on tariffs on vacuum cleaners manufactured in China.","Lobbying on tariffs on vacuum cleaners manufactured in China.","Lobbied on exclusion from 301 tariffs for certain vacuum cleaners manufactured in China.","Lobbied on exclusion from 301 tariffs for certain vacuum cleaners manufactured in China.","Lobbied on exclusion from 301 tariffs for vacuum cleaner and mop robots manufactured in China."]}

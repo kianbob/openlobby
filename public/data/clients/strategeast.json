@@ -1,11 +1,1 @@
-{
-  "name": "STRATEGEAST",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":103973,"name":"STRATEGEAST","slug":"strategeast","state":"DC","country":"United States of America","description":"International education and research.","totalSpending":10000,"filings":5,"yearlySpending":[{"year":2018,"income":10000}],"issues":[{"code":"EDU","display":"Education"}],"firms":["APCO WORLDWIDE LLC"],"lobbyists":["ALISON PATCH","CLIFF STEARNS"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","State, Dept of (DOS)","U.S. Agency for International Development (USAID)","Commerce, Dept of (DOC)"],"sampleDescriptions":["Mutual education and people-to-people exchanges involving the U.S. and the states of the former Soviet Union, excluding Russia.","Mutual education and people-to-people exchanges involving the U.S. and the states of the former Soviet Union, excluding Russia.","Mutual education and people-to-people exchanges involving the U.S. and the states of the former Soviet Union, excluding Russia."]}

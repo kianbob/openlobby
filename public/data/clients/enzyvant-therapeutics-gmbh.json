@@ -1,11 +1,1 @@
-{
-  "name": "ENZYVANT THERAPEUTICS GMBH",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":153957,"name":"ENZYVANT THERAPEUTICS GMBH","slug":"enzyvant-therapeutics-gmbh","state":"MA","country":"United States of America","description":"Biopharmaceutical company","totalSpending":700000,"filings":25,"yearlySpending":[{"year":2018,"income":130000},{"year":2019,"income":120000},{"year":2020,"income":120000},{"year":2021,"income":120000},{"year":2022,"income":120000},{"year":2023,"income":90000},{"year":2024,"income":0}],"issues":[{"code":"HCR","display":"Health Issues"},{"code":"MMM","display":"Medicare/Medicaid"}],"firms":["JEFFREY J. KIMBELL & ASSOCIATES, INC."],"lobbyists":["JEFFREY KIMBELL","JOHN HERZOG","JODIE LOCKHART","KENNETH HODGE","KEITH STUDDARD","JOHN RAY","DAVID RUDLOFF","KELSEY CARLSON"],"govEntities":["Centers For Medicare and Medicaid Services (CMS)","Health & Human Services, Dept of (HHS)","HOUSE OF REPRESENTATIVES","Office of Management & Budget (OMB)","SENATE","Food & Drug Administration (FDA)"],"sampleDescriptions":["Pharmaceutical and healthcare issues","Pharmaceutical and healthcare issues","Education about rare disease therapies","Education about rare disease therapies","Education about rare disease therapies"]}

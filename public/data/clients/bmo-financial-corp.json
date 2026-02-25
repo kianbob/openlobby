@@ -1,11 +1,1 @@
-{
-  "name": "BMO FINANCIAL CORP",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":203737,"name":"BMO FINANCIAL CORP","slug":"bmo-financial-corp","state":"IL","country":"United States of America","description":"Bank holding company.","totalSpending":750000,"filings":26,"yearlySpending":[{"year":2019,"income":30000},{"year":2020,"income":120000},{"year":2021,"income":120000},{"year":2022,"income":120000},{"year":2023,"income":120000},{"year":2024,"income":120000},{"year":2025,"income":120000}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"BAN","display":"Banking"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["1607 STRATEGIES, LLC"],"lobbyists":["TRAVIS JOHNSON","EMILY THREADGILL","HAILEY MILLER","CAROLINE RAFFERTY","HANNAH BAHAM"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Small Business Administration (SBA)","Treasury, Dept of","White House Office"],"sampleDescriptions":["Issues related to the implementation of the Dodd-Frank Wall Street Reform and Consumer Protection Act.\nIssues related to proposed rulemaking by the Federal Reserve Board for financial institutions wit","Issues related to the implementation of the Dodd-Frank Wall Street Reform and Consumer Protection Act.\nIssues related to proposed rulemaking by the Federal Reserve Board for financial institutions wit","Issues related to the implementation of the Dodd-Frank Wall Street Reform and Consumer Protection Act. \nIssues related to proposed rulemaking by the Federal Reserve Board for financial institutions wi","Implementation of P.L. 115-97, Tax Cuts and Jobs Act of 2017, relating to base erosion and anti-abuse tax provisions.","Implementation of P.L. 115-97, Tax Cuts and Jobs Act of 2017, relating to base erosion and anti-abuse tax provisions. \nS.3548, CARES Act, provisions affecting financial institutions and their customer"]}

@@ -1,11 +1,1 @@
-{
-  "name": "DLI NORTH AMERICA INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":200136,"name":"DLI NORTH AMERICA INC.","slug":"dli-north-america-inc","state":"DC","country":"United States of America","description":"","totalSpending":80000,"filings":32,"yearlySpending":[{"year":2018,"income":10000},{"year":2019,"income":10000},{"year":2020,"income":10000},{"year":2021,"income":10000},{"year":2022,"income":10000},{"year":2023,"income":10000},{"year":2024,"income":10000},{"year":2025,"income":10000}],"issues":[{"code":"INS","display":"Insurance"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"}],"firms":["DLI NORTH AMERICA INC."],"lobbyists":["YOSHIMASA OSHIRABE"],"govEntities":["Treasury, Dept of","SENATE"],"sampleDescriptions":["Public Law 111-203 - Dodd-Frank Wall Street Reform and Consumer Protection Act - matters relating to international regulatory issues, including international capital standards and US-EU covered agreem","Issues relating to the Committee on Foreign Investment in the US - the Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA).\nIssues related to climate change - no specific legislation.","Public Law 111-203,  Dodd-Frank Wall Street Reform and Consumer Protection Act - issues relating to insurance capital standard."]}

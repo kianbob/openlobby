@@ -1,11 +1,1 @@
-{
-  "name": "COLIBRI ENTERPRISES, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":186940,"name":"COLIBRI ENTERPRISES, LLC","slug":"colibri-enterprises-llc","state":"CA","country":"United States of America","description":"Consulting","totalSpending":150000,"filings":8,"yearlySpending":[{"year":2019,"income":50000},{"year":2020,"income":100000},{"year":2021,"income":0}],"issues":[{"code":"CAW","display":"Clean Air and Water (quality)"},{"code":"NAT","display":"Natural Resources"},{"code":"MAN","display":"Manufacturing"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"SCI","display":"Science/Technology"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["VAN HEUVELEN STRATEGIES, LLC"],"lobbyists":["ROBERT VAN HEUVELEN","VALERIE WEST","STEPHEN WARD","SAMUEL YNTEMA"],"govEntities":["Environmental Protection Agency (EPA)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to carbon capture, use, and storage (CCUS)","Issues related to carbon capture, use, and storage (CCUS)","Issues related to carbon capture, use, and storage (CCUS)","Issues related to carbon capture, use, and storage (CCUS)","Issues related to carbon capture, use, and storage (CCUS)"]}

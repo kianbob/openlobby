@@ -1,11 +1,1 @@
-{
-  "name": "FTI ON BEHALF OF PPC INSULATORS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":205483,"name":"FTI ON BEHALF OF PPC INSULATORS","slug":"fti-on-behalf-of-ppc-insulators","state":"DC","country":"United States of America","description":"Consulting and global business advisory","totalSpending":25000,"filings":4,"yearlySpending":[{"year":2020,"income":25000}],"issues":[{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"}],"firms":["THE VOGEL GROUP"],"lobbyists":["BRIAN JOHNSON","SAMIR KAPADIA","ALEXANDER VOGEL"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues surrounding Section 301 tariffs","Issues relating to Section 301 tariffs","Issues relating to Section 301 tariffs","Issues relating to Section 301 tariffs"]}

@@ -1,11 +1,1 @@
-{
-  "name": "TAX FAIRNESS FOR AMERICANS ABROAD",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":60790,"name":"TAX FAIRNESS FOR AMERICANS ABROAD","slug":"tax-fairness-for-americans-abroad","state":"DC","country":"United States of America","description":"Non-profit organization lobbying for fair and equal tax treatment for Americans abroad","totalSpending":70000,"filings":7,"yearlySpending":[{"year":2024,"income":70000}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"},{"code":"SMB","display":"Small Business"},{"code":"BAN","display":"Banking"},{"code":"CIV","display":"Civil Rights/Civil Liberties"},{"code":"ACC","display":"Accounting"}],"firms":["TAX FAIRNESS FOR AMERICANS ABROAD"],"lobbyists":["ROBERT MACK","BRANDON MITCHENER (REGISTERED IN ERROR)","KARL STEINKE","MARY JO BRAID-FORBES (REGISTERED IN ERROR)","MARK WARREN","JOHN MENGES","REBECCA LAMMERS (REGISTERED IN ERROR)","PETE SEPP (REGISTERED IN ERROR)","PHILIPPE IN ERROR)"],"govEntities":["HOUSE OF REPRESENTATIVES","Internal Revenue Service (IRS)","SENATE","White House Office","Treasury, Dept of"],"sampleDescriptions":["Replacing unfair, discriminatory tax and related compliance obligations (FATCA, FBAR) and penalties for American citizens abroad with a system of residence-based taxation.","Replacing unfair, discriminatory tax and related compliance obligations (FATCA, FBAR) and penalties for American citizens abroad with a system of residence-based taxation.","Replacing unfair, discriminatory tax and related compliance obligations (FATCA, FBAR) and penalties for American citizens abroad with a system of residence-based taxation.","Replacing unfair, discriminatory tax and related compliance obligations (FATCA, FBAR) and penalties for American citizens abroad with a system of residence-based taxation.","Replacing unfair, discriminatory tax and related compliance obligations (FATCA, FBAR) and penalties for American citizens abroad with a system of residence-based taxation."]}

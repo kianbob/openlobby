@@ -1,11 +1,1 @@
-{
-  "name": "GRINDR, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68485,"name":"GRINDR LLC","slug":"grindr-llc","state":"CA","country":"United States of America","description":"Gay dating and social networking app","totalSpending":120000,"filings":3,"yearlySpending":[{"year":2025,"income":120000}],"issues":[{"code":"HCR","display":"Health Issues"},{"code":"SCI","display":"Science/Technology"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["TRIPP MCKEMEY","WILLIAM MOSCHELLA","MARC LAMPKIN","GRETA JOYNES","LAUREN FLYNN","EMILY FELDER","JOHN REISING","LAUREN DIEKMAN"],"govEntities":["Centers For Disease Control & Prevention (CDC)","Health & Human Services, Dept of (HHS)","HOUSE OF REPRESENTATIVES","SENATE","State, Dept of (DOS)"],"sampleDescriptions":["HIV prevention, PEPFAR, family formation, artificial intelligence, and age-assurance.","HIV prevention, PEPFAR, family formation, artificial intelligence, and age-assurance.","HIV prevention, PEPFAR, family formation","Artificial intelligence and age-verification","HIV prevention, PEPFAR, family formation"]}

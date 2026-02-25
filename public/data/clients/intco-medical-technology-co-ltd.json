@@ -1,11 +1,1 @@
-{
-  "name": "INTCO MEDICAL TECHNOLOGY CO., LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68900,"name":"INTCO MEDICAL TECHNOLOGY CO., LTD.","slug":"intco-medical-technology-co-ltd","state":"VA","country":"United States of America","description":"Medical supplies manufacturer","totalSpending":130000,"filings":3,"yearlySpending":[{"year":2025,"income":130000}],"issues":[{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["HOLLAND & KNIGHT LLP"],"lobbyists":["RICHARD GOLD","MICAH BURBANKS-IVEY","PETER TABOR"],"govEntities":["Commerce, Dept of (DOC)","U.S. Trade Representative (USTR)","White House Office","HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Tariff and trade issues; US healthcare access to personal protective equipment.","Tariff and trade issues; US healthcare access to personal protective equipment.","Tariff and trade issues.","Tariff and trade issues.","Medical products imports; Sec 232 & Sec 301 Tariffs."]}

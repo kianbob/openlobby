@@ -1,11 +1,1 @@
-{
-  "name": "BALFOUR BEATTY INVESTMENTS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":59035,"name":"BALFOUR BEATTY INVESTMENTS","slug":"balfour-beatty-investments","state":"PA","country":"United States of America","description":"Long-term investor, developer and operator of public/private sector infrastructure.","totalSpending":700000,"filings":9,"yearlySpending":[{"year":2024,"income":350000},{"year":2025,"income":350000}],"issues":[{"code":"HOU","display":"Housing"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"DEF","display":"Defense"},{"code":"INS","display":"Insurance"},{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"},{"code":"UTI","display":"Utilities"}],"firms":["BALFOUR BEATTY INVESTMENTS"],"lobbyists":["LLOYD MUSTIN"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Outreach and education regarding the development and financing of infrastructure projects and the operation of a portfolio of long-term infrastructure assets, including the Military Privatized Housing","Outreach and education regarding the development and financing of infrastructure projects and the operation of a portfolio of long-term infrastructure assets, including the Military Privatized Housing","Outreach and education regarding the development and financing of infrastructure projects and the operation of a portfolio of long-term infrastructure assets, including the Military Privatized Housing","Outreach and education regarding the development and financing of infrastructure projects and the operation of a portfolio of long-term infrastructure assets, including the Military Privatized Housing","Outreach and education regarding the development and financing of infrastructure projects and the operation of a portfolio of long-term infrastructure assets, including the Military Privatized Housing"]}

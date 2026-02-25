@@ -1,11 +1,1 @@
-{
-  "name": "NAMMO INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":199231,"name":"NAMMO INC.","slug":"nammo-inc","state":"VA","country":"United States of America","description":"","totalSpending":1849000,"filings":21,"yearlySpending":[{"year":2021,"income":320000},{"year":2022,"income":320000},{"year":2023,"income":320000},{"year":2024,"income":410000},{"year":2025,"income":479000}],"issues":[{"code":"DEF","display":"Defense"},{"code":"FIR","display":"Firearms/Guns/Ammunition"}],"firms":["NAMMO INC."],"lobbyists":["ANDREW ASHLEY"],"govEntities":["Defense, Dept of (DOD)","HOUSE OF REPRESENTATIVES","SENATE","Alcohol & Tobacco Tax & Trade Bureau (TTB)"],"sampleDescriptions":["Defense Authorizations, Defense Appropriations, Ammunition","Defense Authorizations, Defense Appropriations, Ammunition","National Defense Authorization Act; Appropriations","Civilian Ammunition Sales","National Defense Authorization Act; Appropriations"]}

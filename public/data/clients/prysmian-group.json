@@ -1,11 +1,1 @@
-{
-  "name": "PRYSMIAN GROUP",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":53285,"name":"PRYSMIAN GROUP","slug":"prysmian-group","state":"KY","country":"United States of America","description":"Energy and telecom cable system manufacturing","totalSpending":830000,"filings":17,"yearlySpending":[{"year":2022,"income":150000},{"year":2023,"income":280000},{"year":2024,"income":200000},{"year":2025,"income":200000}],"issues":[{"code":"MAN","display":"Manufacturing"}],"firms":["FROST BROWN TODD LLC"],"lobbyists":["REBECCA ROBERTSON","JONATHAN MILLER"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Coast Guard Reauthorization Act","Coast Guard Reauthorization Act","Coast Guard Reauthorization Act","H.R.6865 - Coast Guard Reauthorization Act","H.R.6865 - Coast Guard Reauthorization Act"]}

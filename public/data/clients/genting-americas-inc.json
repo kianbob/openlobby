@@ -1,11 +1,1 @@
-{
-  "name": "GENTING AMERICAS INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":201249,"name":"GENTING AMERICAS INC.","slug":"genting-americas-inc","state":"NY","country":"United States of America","description":"&#226;€‹Resort, Casino, and Hotel Developer and Operator","totalSpending":340000,"filings":8,"yearlySpending":[{"year":2018,"income":140000},{"year":2019,"income":200000}],"issues":[{"code":"TOU","display":"Travel/Tourism"},{"code":"GAM","display":"Gaming/Gambling/Casino"},{"code":"GOV","display":"Government Issues"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS","DANIEL MCFAUL"],"govEntities":["Interior, Dept of (DOI)"],"sampleDescriptions":["Gaming Rules & Regulations","Gaming Rules & Regulations","Gaming Rules & Regulations","Gaming Rules and Regulations","Gaming Rules and Regulations"]}

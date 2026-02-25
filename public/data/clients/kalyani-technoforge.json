@@ -1,11 +1,1 @@
-{
-  "name": "KALYANI TECHNOFORGE",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202544,"name":"KALYANI TECHNOFORGE","slug":"kalyani-technoforge","state":null,"country":"India","description":"Auto supply manufacturer of forgings and machined components and assemblies.","totalSpending":88000,"filings":5,"yearlySpending":[{"year":2019,"income":88000}],"issues":[{"code":"AUT","display":"Automotive Industry"},{"code":"UTI","display":"Utilities"},{"code":"MAN","display":"Manufacturing"}],"firms":["THE VOGEL GROUP"],"lobbyists":["SAMIR KAPADIA","BRIAN JOHNSON","ALEXANDER VOGEL"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","SENATE","Executive Office of the President (EOP)","Natl Security Council (NSC)","White House Office"],"sampleDescriptions":["Issues relating to CAPEX projects in the automotive supplier industry, issues relating to manufacturing, issues relating to utilities rates for manufacturers, issues relating to job creation tax credi","Issues relating to CAPEX projects in the automotive supplier industry, issues relating to manufacturing, issues relating to utilities rates for manufacturers, issues relating to job creation tax credi","Issues relating to CAPEX projects in the automotive supplier industry, issues relating to manufacturing, issues relating to utilities rates for manufacturers, issues relating to job creation tax credi","Aluminum forging industry","Aluminum forging industry"]}

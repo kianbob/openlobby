@@ -1,11 +1,1 @@
-{
-  "name": "VIEGA LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69284,"name":"VIEGA LLC","slug":"viega-llc","state":"CO","country":"United States of America","description":"Industrial manufacturer","totalSpending":80000,"filings":3,"yearlySpending":[{"year":2025,"income":80000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["SQUIRE PATTON BOGGS"],"lobbyists":["LUDMILLA KASULKE (NEE SAVELIEFF)","EVERETT EISSENSTAT","STEPHANIE CHEUNG"],"govEntities":["Commerce, Dept of (DOC)","HOUSE OF REPRESENTATIVES","Natl Economic Council (NEC)","SENATE","White House Office","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Tariff issues, including reciprocal and Section 232 tariffs.","Tariff issues, including reciprocal and Section 232 tariffs.","Tariff issues, including reciprocal and Section 232 tariffs."]}

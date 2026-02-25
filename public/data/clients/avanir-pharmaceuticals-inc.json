@@ -1,11 +1,1 @@
-{
-  "name": "AVANIR PHARMACEUTICALS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":208872,"name":"AVANIR PHARMACEUTICALS, INC.","slug":"avanir-pharmaceuticals-inc","state":"CA","country":"United States of America","description":"Biopharmaceutical research and manufacturing.","totalSpending":330000,"filings":10,"yearlySpending":[{"year":2021,"income":180000},{"year":2022,"income":150000}],"issues":[{"code":"HCR","display":"Health Issues"}],"firms":["VENN STRATEGIES"],"lobbyists":["STEPHANIE SILVERMAN","ELIZABETH LEE","MICHAEL SPIRA","GRANT COUCH"],"govEntities":["Centers For Medicare and Medicaid Services (CMS)","HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Access to and innovation in biopharmaceuticals, including through policies related to payment, pricing, and clinical trials.","Access to and innovation in biopharmaceuticals, including through policies related to payment, pricing, and clinical trials.","Access to and innovation in biopharmaceuticals, including through policies related to payment, pricing, and clinical trials.","Access to and innovation in biopharmaceuticals, including through policies related to payment, pricing, and clinical trials.","Access to and innovation in biopharmaceuticals, including through policies related to payment, pricing, and clinical trials."]}

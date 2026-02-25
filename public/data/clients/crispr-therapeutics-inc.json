@@ -1,11 +1,1 @@
-{
-  "name": "CRISPR THERAPEUTICS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":208421,"name":"CRISPR THERAPEUTICS, INC.","slug":"crispr-therapeutics-inc","state":"MA","country":"United States of America","description":"Biotechnology.","totalSpending":50000,"filings":3,"yearlySpending":[{"year":2021,"income":50000}],"issues":[{"code":"HCR","display":"Health Issues"}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["AARON COHEN"],"govEntities":[],"sampleDescriptions":["Reimbursements for cell and gene therapies.","Reimbursements for cell and gene therapies.","Reimbursements for cell and gene therapies."]}

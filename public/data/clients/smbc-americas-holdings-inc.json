@@ -1,11 +1,1 @@
-{
-  "name": "SMBC AMERICAS HOLDINGS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":61699,"name":"SMBC AMERICAS HOLDINGS, INC.","slug":"smbc-americas-holdings-inc","state":"NY","country":"United States of America","description":"Financial services company","totalSpending":320000,"filings":7,"yearlySpending":[{"year":2024,"income":80000},{"year":2025,"income":240000}],"issues":[{"code":"BAN","display":"Banking"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["PATRICK AMES","ANDREW LEWIN","MATT HOFFMANN"],"govEntities":["Natl Economic Council (NEC)","Treasury, Dept of"],"sampleDescriptions":["Issues related to global banks, consumer financial services, financial technology, public company disclosure, and securities regulation","Issues related to global banks, consumer financial services, financial technology, public company disclosure, and securities regulation","Issues related to global banks, consumer financial services, financial technology, public company disclosure, and securities regulation","Issues related to global banks, consumer financial services, financial technology, public company disclosure, and securities regulation","Issues related to global banks, consumer financial services, financial technology, public company disclosure, and securities regulation"]}

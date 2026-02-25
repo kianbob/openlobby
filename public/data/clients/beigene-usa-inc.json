@@ -1,11 +1,1 @@
-{
-  "name": "BEIGENE USA, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":115327,"name":"BEIGENE USA, INC.","slug":"beigene-usa-inc","state":"MA","country":"United States of America","description":"Biopharmaceutical company","totalSpending":280000,"filings":20,"yearlySpending":[{"year":2019,"income":130000},{"year":2020,"income":150000},{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":0}],"issues":[{"code":"HCR","display":"Health Issues"},{"code":"ACC","display":"Accounting"}],"firms":["COVINGTON & BURLING LLP"],"lobbyists":["GARY HEIMBERG"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Support anticipated first U.S. product launch and efforts to enhance company profile/reputation","Support anticipated first U.S. product launch and efforts to enhance company profile/reputation.","Support anticipated first U.S. product launch and efforts to enhance company profile/reputation.","Support first U.S. product launch and efforts to enhance company profile/reputation.","Support first U.S. product launch and efforts to enhance company profile/reputation."]}

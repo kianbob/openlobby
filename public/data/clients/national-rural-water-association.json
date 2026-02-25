@@ -1,11 +1,1 @@
-{
-  "name": "NATIONAL RURAL WATER ASSOCIATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":196482,"name":"NATIONAL RURAL WATER ASSOCIATION","slug":"national-rural-water-association","state":"OK","country":"United States of America","description":"Water and wastewater industry support organization","totalSpending":585000,"filings":13,"yearlySpending":[{"year":2018,"income":180000},{"year":2019,"income":180000},{"year":2020,"income":180000},{"year":2021,"income":45000}],"issues":[{"code":"BUD","display":"Budget/Appropriations"},{"code":"AGR","display":"Agriculture"},{"code":"ENV","display":"Environment/Superfund"}],"firms":["KEY IMPACT STRATEGIES"],"lobbyists":["B. KEITH HEARD"],"govEntities":["Agriculture, Dept of (USDA)","Environmental Protection Agency (EPA)","Executive Office of the President (EOP)","HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["H.R.1625- Consolidated Appropriations Act 2018","HR 1653- Drinking Water Affordability Act\nHR 998- Searching for and Cutting Regulations that are Unnecessarily Burdensome Act (SCRUB Act)\nHR 1009- OIRA Insight, Reform, and Accountability Act\nHR 1004-","H.R.1625- Consolidated Appropriations Act 2018\nHR 1653- Drinking Water Affordability Act\nHR 998- Searching for and Cutting Regulations that are Unnecessarily Burdensome Act (SCRUB Act)\nHR 1009- OIRA I","HR 1653- Drinking Water Affordability Act\nHR 998- Searching for and Cutting Regulations that are Unnecessarily Burdensome Act (SCRUB Act)\nHR 1009- OIRA Insight, Reform, and Accountability Act\nHR 1004-","FY2019 Agriculture Appropriations- HR 5961 and S 2976\nFY2019 Interior Appropriations- HR 6147 and S 3073"]}

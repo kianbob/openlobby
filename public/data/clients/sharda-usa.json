@@ -1,11 +1,1 @@
-{
-  "name": "SHARDA USA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":59536,"name":"SHARDA USA","slug":"sharda-usa","state":"PA","country":"United States of America","description":"Crop protection tool manufacturer","totalSpending":110000,"filings":4,"yearlySpending":[{"year":2024,"income":110000}],"issues":[{"code":"AGR","display":"Agriculture"}],"firms":["INVARIANT LLC"],"lobbyists":["DANIELLE BECK","KEVIN DIESTELOW","KENNETH BARBIC","ANNE MACMILLAN"],"govEntities":["Agriculture, Dept of (USDA)","HOUSE OF REPRESENTATIVES","SENATE","Environmental Protection Agency (EPA)"],"sampleDescriptions":["Crop protection tools and biotech innovation and regulation","Educate policy makers on crop protection tool and biotech innovation and regulation.","Educate policy makers on crop protection tool and biotech innovation and regulation.","Educate policy makers on crop protection tool and biotech innovation and regulation."]}

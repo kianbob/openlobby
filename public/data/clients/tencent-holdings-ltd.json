@@ -1,11 +1,1 @@
-{
-  "name": "TENCENT HOLDINGS LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":206579,"name":"TENCENT HOLDINGS LTD.","slug":"tencent-holdings-ltd","state":null,"country":"China","description":"Hong Kong-listed global technology company","totalSpending":210000,"filings":7,"yearlySpending":[{"year":2020,"income":210000},{"year":2021,"income":0}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"CSP","display":"Consumer Issues/Safety/Products"},{"code":"MIA","display":"Media (information/publishing)"}],"firms":["PAUL, WEISS, RIFKIND, WHARTON & GARRISON LLP"],"lobbyists":["ROBERTO GONZALEZ","JULIE ROONEY","ANAND SITHIAN"],"govEntities":["Commerce, Dept of (DOC)","Treasury, Dept of"],"sampleDescriptions":["Implementation of WeChat Executive Order of August 6, 2020","Implementation of WeChat Executive Order of August 6, 2020","Implementation of WeChat Executive Order of August 6, 2020","Implementation of WeChat Executive Order of August 6, 2020","Implementation of WeChat Executive Order of August 6, 2020"]}

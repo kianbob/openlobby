@@ -1,11 +1,1 @@
-{
-  "name": "SELEX ES INC. AIR TRAFFIC CONTROL SYSTEMS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202015,"name":"SELEX ES INC. AIR TRAFFIC CONTROL SYSTEMS","slug":"selex-es-inc-air-traffic-control-systems","state":"KS","country":"United States of America","description":"Supplier of aviation navigation, precision approach, landing and surveillance systems","totalSpending":330000,"filings":20,"yearlySpending":[{"year":2019,"income":40000},{"year":2020,"income":80000},{"year":2021,"income":80000},{"year":2022,"income":100000},{"year":2023,"income":30000}],"issues":[{"code":"AVI","display":"Aviation/Airlines/Airports"},{"code":"DEF","display":"Defense"},{"code":"TRA","display":"Transportation"},{"code":"BUD","display":"Budget/Appropriations"}],"firms":["THE PRENDA GROUP LLC"],"lobbyists":["BRADFORD PRICE","BRIAN PRENDA","GARRETT PRENDA"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Office of Management & Budget (OMB)","Federal Aviation Administration (FAA)","Commerce, Dept of (DOC)"],"sampleDescriptions":["FAA issues, Air Traffic Control Systems, Aviation / Defense and Civilian","FAA issues, Air Traffic Control Systems, Aviation / Defense and Civilian","FAA issues, Air Traffic Control Systems, Aviation / Defense and Civilian","Issues related to procurement by the FAA of next generation Air Traffic Control Systems","Issues related to procurement by the FAA of next generation Air Traffic Control Systems."]}

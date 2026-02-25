@@ -1,11 +1,1 @@
-{
-  "name": "EMBASSY OF THE KINGDOM OF SAUDI ARABIA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":207679,"name":"EMBASSY OF THE KINGDOM OF SAUDI ARABIA","slug":"embassy-of-the-kingdom-of-saudi-arabia","state":"DC","country":"United States of America","description":"Diplomatic Relations","totalSpending":0,"filings":2,"yearlySpending":[{"year":2020,"income":0}],"issues":[{"code":"GOV","display":"Government Issues"}],"firms":["OFF HILL STRATEGIES L.L.C."],"lobbyists":["JENNIFER BAIRD","FREDERICK (TRIPP) BAIRD"],"govEntities":[],"sampleDescriptions":["Gathering information regarding the end-of-year omnibus legislation"]}

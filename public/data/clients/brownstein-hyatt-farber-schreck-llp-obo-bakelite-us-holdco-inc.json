@@ -1,11 +1,1 @@
-{
-  "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP OBO BAKELITE US HOLDCO, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":67788,"name":"BROWNSTEIN HYATT FARBER SCHRECK, LLP OBO BAKELITE US HOLDCO, INC.","slug":"brownstein-hyatt-farber-schreck-llp-obo-bakelite-us-holdco-inc","state":"DC","country":"United States of America","description":"Law firm","totalSpending":70000,"filings":4,"yearlySpending":[{"year":2025,"income":70000}],"issues":[{"code":"CHM","display":"Chemicals/Chemical Industry"}],"firms":["THE BERNHARDT GROUP LLC"],"lobbyists":["WILLIAM MCGRATH"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues regarding the regulation of formaldehyde","Issues regarding the regulation of formaldehyde","Issues regarding the regulation of formaldehyde","Issues regarding the regulation of formaldehyde"]}

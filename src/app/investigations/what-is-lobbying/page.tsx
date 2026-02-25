@@ -39,7 +39,7 @@ export default function WhatIsLobbyingPage() {
 
         <h3>Step 4: They File Disclosure Reports</h3>
         <p>Under the <strong>Lobbying Disclosure Act (LDA)</strong>, any individual or organization spending more than $14,000 per quarter on lobbying must register with the Senate and file quarterly reports disclosing how much they spent, what issues they lobbied on, and which lobbyists were involved.</p>
-        <p>These filings are public record — and they&apos;re what powers this entire site. We&apos;ve analyzed <strong>650,333 filings</strong> from 2018 through 2025.</p>
+        <p>These filings are public record — and they&apos;re what powers this entire site. We&apos;ve analyzed <strong>726,000+ filings</strong> from 2018 through 2025.</p>
 
         <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Who Lobbies?</h2>
         <p>Almost every major industry lobbies Congress. The biggest spenders include:</p>

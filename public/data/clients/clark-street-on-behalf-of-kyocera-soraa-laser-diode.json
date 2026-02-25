@@ -1,11 +1,1 @@
-{
-  "name": "CLARK STREET ON BEHALF OF KYOCERA SORAA LASER DIODE",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":52861,"name":"CLARK STREET ON BEHALF OF KYOCERA SORAA LASER DIODE","slug":"clark-street-on-behalf-of-kyocera-soraa-laser-diode","state":"CA","country":"United States of America","description":"Consulting firm/Manufacturer of Gallium Nitride based laser light sources.","totalSpending":150000,"filings":5,"yearlySpending":[{"year":2022,"income":80000},{"year":2023,"income":70000}],"issues":[{"code":"DEF","display":"Defense"}],"firms":["MCHUGH LEMAY ASSOC., LLC"],"lobbyists":["ANNE LEMAY","JOHN MCHUGH"],"govEntities":["Air Force, Dept of","Army, Dept of (Other)","Defense, Dept of (DOD)","HOUSE OF REPRESENTATIVES","Navy, Dept of","U.S. Marines"],"sampleDescriptions":["Issues related to laser light technology applications.","Issues related to laser light technology applications - no specific legislation.","Issues related to laser light technology applications - no specific legislation.","Issues related to laser light technology applications - including FY2024 National Defense Authorization Act.","Issues related to laser light technology applications - including H.R. 2670 - FY2024 National Defense Authorization Act."]}

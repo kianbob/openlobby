@@ -1,11 +1,1 @@
-{
-  "name": "ALTAEROS ENERGIES, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":207858,"name":"ALTAEROS ENERGIES, INC.","slug":"altaeros-energies-inc","state":"MA","country":"United States of America","description":"High capacity, long endurance aerial platforms","totalSpending":200000,"filings":23,"yearlySpending":[{"year":2020,"income":0},{"year":2021,"income":30000},{"year":2022,"income":30000},{"year":2023,"income":40000},{"year":2024,"income":50000},{"year":2025,"income":50000}],"issues":[{"code":"AER","display":"Aerospace"},{"code":"HOM","display":"Homeland Security"},{"code":"SCI","display":"Science/Technology"},{"code":"DIS","display":"Disaster Planning/Emergencies"},{"code":"TEC","display":"Telecommunications"},{"code":"DEF","display":"Defense"},{"code":"AGR","display":"Agriculture"}],"firms":["CAPITAL PARK PARTNERS LLC"],"lobbyists":["WILLIAM RIELS","BRIAN DOWNEY"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Defense, Dept of (DOD)","Homeland Security, Dept of (DHS)","U.S. Customs & Border Protection"],"sampleDescriptions":["General advocacy for the capability set of long endurance aerostats","General advocacy for the capability set of long endurance aerostats","General advocacy for the capability set of long endurance aerostats","General advocacy for the capability set of long endurance aerostats","General advocacy for the capability set of long endurance aerostats"]}

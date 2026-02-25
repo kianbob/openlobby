@@ -1,11 +1,1 @@
-{
-  "name": "SAP NATIONAL SECURITY SERVICES, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":205267,"name":"SAP NATIONAL SECURITY SERVICES, INC.","slug":"sap-national-security-services-inc","state":"VA","country":"United States of America","description":"Information Technology, Services and Software","totalSpending":160000,"filings":9,"yearlySpending":[{"year":2020,"income":60000},{"year":2021,"income":80000},{"year":2022,"income":20000}],"issues":[{"code":"GOV","display":"Government Issues"},{"code":"DEF","display":"Defense"},{"code":"INT","display":"Intelligence"}],"firms":["HETTINGER STRATEGY GROUP LLC"],"lobbyists":["MICHAEL HETTINGER"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to funding for IT modernization, software acquisition, and digital services. Issues related to the Department of Defense and Intelligence Community's use of technology.","Issues related to funding for IT modernization, software acquisition, and digital services. Issues related to the Department of Defense and Intelligence Community's use of technology.","Issues related to funding for IT modernization, software acquisition, and digital services. Issues related to the Department of Defense and Intelligence Community's use of technology.","Issues related to government's use and acquisition of software.\nHR 5901, the Modernization Centers of Excellence Act\nHR 3941, the FedRAMP Authorization Act of 2019","FY21 National Defense Authorization Act"]}

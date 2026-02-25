@@ -1,11 +1,1 @@
-{
-  "name": "TIBER CREEK GROUP OBO SIEMENS HEALTHINEERS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68007,"name":"TIBER CREEK GROUP OBO SIEMENS HEALTHINEERS","slug":"tiber-creek-group-obo-siemens-healthineers","state":"DC","country":"United States of America","description":"Manufacturer of medical devices and software.","totalSpending":90000,"filings":4,"yearlySpending":[{"year":2025,"income":90000}],"issues":[{"code":"HCR","display":"Health Issues"},{"code":"MMM","display":"Medicare/Medicaid"}],"firms":["B HALL STRATEGIES, LLC"],"lobbyists":["JAMES HALL"],"govEntities":["SENATE"],"sampleDescriptions":["Issues related to FDA, Medicare reimbursement, cancer screening, workforce shortages and artificial intelligence.","Monitor issues related to artificial intelligence; Health issues in the One Big Beautiful Bill Act (PL 119-21).","Monitor issues related to artificial intelligence. Monitor issues related to Public Law 119-21: One Big Beautiful Bill Act.","Issues related to artificial intelligence."]}

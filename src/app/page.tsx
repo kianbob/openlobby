@@ -13,8 +13,8 @@ function getStats() {
 
 export default function HomePage() {
   const stats = getStats()
-  const totalSpending = stats ? formatCurrency(stats.totalIncome) : '$15.2B'
-  const totalFilings = stats ? formatNumber(stats.totalFilings) : '650,000+'
+  const totalSpending = stats ? formatCurrency(stats.totalIncome) : '$37.7B'
+  const totalFilings = stats ? formatNumber(stats.totalFilings) : '726,000+'
   const totalLobbyists = stats ? formatNumber(stats.totalLobbyists) : '29,754'
 
   return (
@@ -30,7 +30,7 @@ export default function HomePage() {
               <span className="text-amber-400">{totalLobbyists}</span> Lobbyists.
             </h1>
             <p className="text-xl md:text-2xl text-indigo-200 mb-4 font-medium">
-              $15.2 Billion Spent Buying Policy. We Tracked Every Dollar.
+              {totalSpending} Spent Buying Policy. We Tracked Every Dollar.
             </p>
             <p className="text-base text-indigo-300 mb-10 max-w-2xl mx-auto">
               The only platform that cross-references lobbying filings with federal contracts, Medicare spending, and workforce data.
@@ -181,7 +181,7 @@ export default function HomePage() {
               {
                 slug: 'doge-vs-lobbying',
                 title: 'DOGE vs. The Lobbying Machine',
-                desc: 'What happens when government efficiency meets the $15 billion lobbying industry? A collision course analysis.',
+                desc: 'What happens when government efficiency meets the $38 billion lobbying industry? A collision course analysis.',
                 tag: 'DOGE',
                 tagColor: 'bg-amber-100 text-amber-800',
               },

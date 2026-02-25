@@ -1,11 +1,1 @@
-{
-  "name": "QINETIQ INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69211,"name":"QINETIQ INC.","slug":"qinetiq-inc","state":"VA","country":"United States of America","description":"Security & Engineering","totalSpending":80000,"filings":3,"yearlySpending":[{"year":2025,"income":80000}],"issues":[{"code":"HOM","display":"Homeland Security"}],"firms":["NICHOLS LAW LLP"],"lobbyists":["PHILIP BESHARA"],"govEntities":["Office of Management & Budget (OMB)","White House Office"],"sampleDescriptions":["Implementation of the One Big Beautiful Bill Act","Implementation of the One Big Beautiful Bill Act.","FMS procurement strategy."]}

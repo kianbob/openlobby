@@ -1,11 +1,1 @@
-{
-  "name": "ITC HOLDINGS CORP",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":206894,"name":"ITC HOLDINGS CORP","slug":"itc-holdings-corp","state":"DC","country":"United States of America","description":"&#226;€‹Invests in building and upgrading high voltage electric transmission systems.","totalSpending":50000,"filings":4,"yearlySpending":[{"year":2020,"income":40000},{"year":2021,"income":10000}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["CAPITOL COUNSEL LLC"],"lobbyists":["PATRICK RAFFANIELLO"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues regarding corporate taxation.","Issues regarding corporate taxation.","Issues regarding corporate taxation.","Issues regarding corporate taxation."]}

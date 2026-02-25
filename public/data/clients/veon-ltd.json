@@ -1,11 +1,1 @@
-{
-  "name": "VEON LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68829,"name":"VEON LTD.","slug":"veon-ltd","state":null,"country":"United Arab Emirates","description":"Telecommunications","totalSpending":0,"filings":3,"yearlySpending":[{"year":2025,"income":0}],"issues":[{"code":"TEC","display":"Telecommunications"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"}],"firms":["STILLPOINT PARTNERS"],"lobbyists":["GARRETT MARQUIS"],"govEntities":["Defense, Dept of (DOD)","Energy, Dept of","Environmental Protection Agency (EPA)","Overseas Private Investment Corp (OPIC)","Treasury, Dept of"],"sampleDescriptions":["Issues related to U.S. capital markets and investor engagement affecting telecommunications and technology companies operating in emerging markets.","Issues related to U.S. capital markets and investor engagement affecting telecommunications and technology companies operating in emerging markets.","Issues related to U.S. telecommunications and technology policy, including general discussions of international market dynamics and investment considerations affecting global communications companies.","Issues related to U.S. financial and investment policy, including general discussions of capital-markets access, cross-border investment, and regulatory considerations affecting multinational companie","Issues related to U.S. telecommunications and technology policy, including general discussions of international market dynamics and investment considerations affecting global communications companies."]}

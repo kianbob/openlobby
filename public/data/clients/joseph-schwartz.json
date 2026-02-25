@@ -1,17 +1,1 @@
-{
-  "name": "JOSEPH SCHWARTZ",
-  "slug": "joseph-schwartz",
-  "state": "NY",
-  "totalSpend": 960000,
-  "filings": 1,
-  "years": [
-    2025
-  ],
-  "issues": [
-    "GOV"
-  ],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "descriptions": []
-}
+{"id":208900,"name":"JOSEPH SCHWARTZ","slug":"joseph-schwartz","state":"NY","country":"United States of America","description":"Criminal justice advocacy","totalSpending":50000,"filings":4,"yearlySpending":[{"year":2021,"income":50000}],"issues":[{"code":"LAW","display":"Law Enforcement/Crime/Criminal Justice"},{"code":"BUD","display":"Budget/Appropriations"}],"firms":["AVOQ, LLC"],"lobbyists":["SHANTI STANTON","BARRY LASALA","WHITAKER ASKEW","NATALIE FARR HARRISON"],"govEntities":["Executive Office of the President (EOP)","HOUSE OF REPRESENTATIVES","Justice, Dept of (DOJ)","SENATE","Bureau of Prisons (BOP)"],"sampleDescriptions":["Issues related to criminal justice reform","Issues related to criminal justice reform, sentencing reform, and the Bureau of Prisons \nIssues related to prison reform during the Coronavirus pandemic\nH.R.929 / S.312 (COVID-19 Safer Detention Act o","H.R. 1312 (American Rescue Plan Act of 2021)","Issues related to criminal justice reform, sentencing reform, and the Bureau of Prisons \nIssues related to prison reform during the Coronavirus pandemic\nIssues related to OLC's COVID-19 Memo\nS.312 (CO","H.R. 1319 (American Rescue Plan Act of 2021)"]}

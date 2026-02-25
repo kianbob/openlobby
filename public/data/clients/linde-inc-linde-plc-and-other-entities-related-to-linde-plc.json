@@ -1,11 +1,1 @@
-{
-  "name": "LINDE INC., LINDE, PLC AND OTHER ENTITIES RELATED TO LINDE, PLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":139585,"name":"LINDE INC., LINDE, PLC AND OTHER ENTITIES RELATED TO LINDE, PLC","slug":"linde-inc-linde-plc-and-other-entities-related-to-linde-plc","state":"CT","country":"United States of America","description":"Manufacturing","totalSpending":3210000,"filings":35,"yearlySpending":[{"year":2018,"income":590000},{"year":2019,"income":470000},{"year":2020,"income":350000},{"year":2021,"income":400000},{"year":2022,"income":380000},{"year":2023,"income":310000},{"year":2024,"income":290000},{"year":2025,"income":420000}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["LINDE INC."],"lobbyists":["NEIL BEUP","BRIAN HEINDL"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues relating to tax reform generally in H.R.1, Tax Cuts and Jobs Act.  Issues relating to capital cost recovery, tax extenders and the hydrogen fuel cell investment tax credit (generally, no specif","Issues related to funding for the Department of Energy, Office of Energy Efficiency and Renewable Energy (EERE) (generally, no specific legislation).","Issues relating to tax reform generally in H.R.1, Tax Cuts and Jobs Act.  Issues relating to capital cost recovery, tax extenders and the hydrogen fuel cell investment tax credit (generally, no specif","Issues related to funding for the Department of Energy, Office of Energy Efficiency and Renewable Energy (EERE) (generally, no specific legislation).","Issues relating to tax reform generally in H.R.1, Tax Cuts and Jobs Act.  Issues relating to capital cost recovery, tax extenders and the hydrogen fuel cell investment tax credit (generally, no specif"]}

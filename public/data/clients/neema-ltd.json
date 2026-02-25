@@ -1,11 +1,1 @@
-{
-  "name": "NEEMA LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202828,"name":"NEEMA LTD.","slug":"neema-ltd","state":"NY","country":"United States of America","description":"Cryptocurrency developer","totalSpending":0,"filings":6,"yearlySpending":[{"year":2018,"income":0},{"year":2019,"income":0}],"issues":[{"code":"FIN","display":"Financial Institutions/Investments/Securities"}],"firms":["TUSK VENTURES LLC"],"lobbyists":["ROBERT GREENLEE","SHEILA NIX","JONATHAN SABOL","LANCE TROVER","JACQUELINE ZUPSIC","BRADLEY TUSK"],"govEntities":[],"sampleDescriptions":["Issues surrounding U.S. acceptance of the Republic of the Marshall Islands' planned adoption of a new cryptocurrency as its official legal tender"]}

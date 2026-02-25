@@ -1,11 +1,1 @@
-{
-  "name": "DISCOVER FINANCIAL SERVICES",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":186277,"name":"DISCOVER FINANCIAL SERVICES","slug":"discover-financial-services","state":"DC","country":"United States of America","description":"","totalSpending":15930000,"filings":30,"yearlySpending":[{"year":2018,"income":1960000},{"year":2019,"income":2260000},{"year":2020,"income":2500000},{"year":2021,"income":2300000},{"year":2022,"income":1930000},{"year":2023,"income":1930000},{"year":2024,"income":2160000},{"year":2025,"income":890000}],"issues":[{"code":"BAN","display":"Banking"},{"code":"BNK","display":"Bankruptcy"},{"code":"HOM","display":"Homeland Security"},{"code":"INT","display":"Intelligence"},{"code":"EDU","display":"Education"},{"code":"CSP","display":"Consumer Issues/Safety/Products"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["DISCOVER FINANCIAL SERVICES"],"lobbyists":["RICHARD SANTORO","MARY PEMBROKE","KERRI GROSS","KRISTIANA LARSON","KAREEM DALE","DIANA THOMPSON"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Federal Deposit Insurance Corporation (FDIC)","Natl Economic Council (NEC)","Consumer Financial Protection Bureau (CFPB)","Federal Reserve System","Treasury, Dept of"],"sampleDescriptions":["Issues related to banking regulatory reform:\nHR 3312 - Systemic Risk Designation Improvement Act of 2017 \nHR 10 - Financial CHOICE Act of 2017  \nHR 1116 - Tailor Act of 2017\nHR 5192 - Protecting Child","Issues related to the discharge of private student loan debt, including:\nHR 2366 - Student Loan Bankruptcy Parity Act of 2017\nHR 137 - Stopping Abusive Student Loan Collection Practices in Bankruptcy ","Issues related to data security, including:\nHR 3766 - Credit Information Protection Act of 2017\nHR 3806 - Personal Data Notification and Protection Act of 2017\nHR 3904 - Data Protection Act of 2017\nHR","Issues related to cybersecurity, including:\nHR 1560 - Protecting Cyber Networks Act of 2017\nHR 1465 - National Cybersecurity Preparedness Consortium Act of 2017\nHR 1335 - Cybersecurity Responsibility ","Issues related to private student lending, including:\nHR 3048 - Student Loan Interest Deduction Act of 2017  \nHR 3630 - Student Loan Borrowers' Bill of Rights Act of 2017\nHR 283  - Student Debt Repaym"]}

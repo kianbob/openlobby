@@ -1,11 +1,1 @@
-{
-  "name": "CONGAREE RIVER GROUP LLC (OBO WEJO DATA SERVICES, INC.)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":51322,"name":"CONGAREE RIVER GROUP LLC (OBO WEJO DATA SERVICES, INC.)","slug":"congaree-river-group-llc-obo-wejo-data-services-inc","state":"DC","country":"United States of America","description":"Consulting","totalSpending":120000,"filings":6,"yearlySpending":[{"year":2022,"income":90000},{"year":2023,"income":30000}],"issues":[{"code":"SCI","display":"Science/Technology"},{"code":"AUT","display":"Automotive Industry"},{"code":"TRA","display":"Transportation"}],"firms":["HB STRATEGIES"],"lobbyists":["COOPER EHRENDREICH","ERIC LAUSTEN"],"govEntities":["Energy, Dept of","Federal Highway Administration (FHA)","HOUSE OF REPRESENTATIVES","Natl Transportation Safety Board (NTSB)","SENATE","Transportation, Dept of (DOT)"],"sampleDescriptions":["Issues related to data privacy","Issues related to data privacy","Issues related to transportation funding, privacy and data capture","Issues related to transportation funding, privacy and data capture","Issues related to transportation funding, privacy and data capture"]}

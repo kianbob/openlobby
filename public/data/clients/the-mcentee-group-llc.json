@@ -1,17 +1,1 @@
-{
-  "name": "THE MCENTEE GROUP, LLC",
-  "slug": "the-mcentee-group-llc",
-  "state": "CA",
-  "totalSpend": 900000,
-  "filings": 3,
-  "years": [
-    2025
-  ],
-  "issues": [
-    "CPI"
-  ],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "descriptions": []
-}
+{"id":66651,"name":"THE MCENTEE GROUP, LLC","slug":"the-mcentee-group-llc","state":"CA","country":"United States of America","description":"Law firm","totalSpending":900000,"filings":4,"yearlySpending":[{"year":2025,"income":900000}],"issues":[{"code":"CPI","display":"Computer Industry"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","SYLVESTER LUKIS"],"govEntities":[],"sampleDescriptions":["Advocacy and guidance pertaining to AI, the entertainment industry, and crypto currency.","Advocacy and guidance pertaining to AI, the entertainment industry, and crypto currency.","Advocacy and guidance pertaining to AI, the entertainment industry, and crypto currency."]}

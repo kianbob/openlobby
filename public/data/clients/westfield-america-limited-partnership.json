@@ -1,11 +1,1 @@
-{
-  "name": "WESTFIELD AMERICA LIMITED PARTNERSHIP",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":144069,"name":"WESTFIELD AMERICA LIMITED PARTNERSHIP","slug":"westfield-america-limited-partnership","state":"CA","country":"United States of America","description":"Retail Property Group","totalSpending":400000,"filings":27,"yearlySpending":[{"year":2018,"income":290000},{"year":2019,"income":90000},{"year":2020,"income":20000},{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":0},{"year":2024,"income":0}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["SKADDEN, ARPS, SLATE, MEAGHER & FLOM LLP"],"lobbyists":["JOHN RAYIS","DAVID POLSTER"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Treasury, Dept of"],"sampleDescriptions":["Foreign Investment Real Estate Act of 1980 and Section 897 of the Internal Revenue Code.","Foreign Investment Real Estate Act of 1980 and Section 897 of the Internal Revenue Code.","Foreign Investment Real Estate Act of 1980 and Section 897 of the Internal Revenue Code.","Foreign Investment Real Estate Act of 1980 and Section 897 of the Internal Revenue Code.","Foreign Investment Real Estate Act of 1980 and Section 897 of the Internal Revenue Code."]}

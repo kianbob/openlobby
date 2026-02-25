@@ -1,11 +1,1 @@
-{
-  "name": "MIDAS GOLD IDAHO",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":156215,"name":"MIDAS GOLD IDAHO","slug":"midas-gold-idaho","state":"ID","country":"United States of America","description":"Exploration and Mining.","totalSpending":152100,"filings":4,"yearlySpending":[{"year":2018,"income":152100}],"issues":[{"code":"ENV","display":"Environment/Superfund"},{"code":"GOV","display":"Government Issues"},{"code":"NAT","display":"Natural Resources"}],"firms":["PARSONS BEHLE & LATIMER"],"lobbyists":["L. BOGERT"],"govEntities":["Commerce, Dept of (DOC)","Environmental Protection Agency (EPA)","HOUSE OF REPRESENTATIVES","Interior, Dept of (DOI)","SENATE","U.S. Fish & Wildlife Service (USFWS)"],"sampleDescriptions":["Permitting, Stibnite Gold Project; Endangered Species Act.","Permitting, Stibnite Gold Project; Endangered Species Act.","Permitting, Stibnite Gold Project; Endangered Species Act.","Permitting Stibnite Mine Project; Endangered Species Act","Permitting Stibnite Mine Project; Endangered Species Act"]}

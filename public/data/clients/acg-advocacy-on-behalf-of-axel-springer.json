@@ -1,11 +1,1 @@
-{
-  "name": "ACG ADVOCACY ON BEHALF OF AXEL SPRINGER",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":66127,"name":"ACG ADVOCACY ON BEHALF OF AXEL SPRINGER","slug":"acg-advocacy-on-behalf-of-axel-springer","state":"DC","country":"United States of America","description":"Government Affairs / Digital news/media.","totalSpending":80000,"filings":5,"yearlySpending":[{"year":2025,"income":80000}],"issues":[{"code":"CPT","display":"Copyright/Patent/Trademark"}],"firms":["MARLA GROSSMAN LLC"],"lobbyists":["MARLA GROSSMAN","LUKE LYNCH"],"govEntities":["HOUSE OF REPRESENTATIVES","Patent & Trademark Office (PTO)","SENATE"],"sampleDescriptions":["Copyright issues.","Copyright issues.","Copyright issues.","Copyright issues.","Copyright issues."]}

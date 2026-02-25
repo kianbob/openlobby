@@ -1,11 +1,1 @@
-{
-  "name": "COLDQUANTA DBA INFLEQTION (FKA COLDQUANTA)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":45538,"name":"COLDQUANTA DBA INFLEQTION (FKA COLDQUANTA)","slug":"coldquanta-dba-infleqtion-fka-coldquanta","state":"CO","country":"United States of America","description":"quantum technology manufacturer","totalSpending":325000,"filings":20,"yearlySpending":[{"year":2022,"income":39000},{"year":2023,"income":62000},{"year":2024,"income":55000},{"year":2025,"income":169000}],"issues":[{"code":"HOM","display":"Homeland Security"},{"code":"SCI","display":"Science/Technology"},{"code":"MAN","display":"Manufacturing"},{"code":"SMB","display":"Small Business"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"}],"firms":["COLDQUANTA DBA INFLEQTION (FKA COLDQUANTA)"],"lobbyists":["CHRISTINA WILLIS","WILLIAM COOK","CHRIS COOK"],"govEntities":["SENATE","HOUSE OF REPRESENTATIVES","State, Dept of (DOS)","Energy, Dept of","White House Office"],"sampleDescriptions":["Quantum topics in USICA and COMPETES conference. Generally legislation relating to quantum technology, including computing, networks, and sensors.","Quantum topics in USICA and COMPETES conference. Generally legislation relating to quantum technology, including computing, networks, and sensors.","Quantum topics in USICA and COMPETES conference. Generally legislation relating to quantum technology, including computing, networks, and sensors.","Quantum topics in USICA and COMPETES conference. Generally legislation relating to quantum technology, including computing, networks, and sensors.","Quantum topics in USICA and COMPETES conference. Generally legislation relating to quantum technology, including computing, networks, and sensors."]}

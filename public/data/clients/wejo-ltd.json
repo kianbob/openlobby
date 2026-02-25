@@ -1,11 +1,1 @@
-{
-  "name": "WEJO LTD.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":205657,"name":"WEJO LTD.","slug":"wejo-ltd","state":null,"country":"United Kingdom","description":"Connected vehicle and mobility data.","totalSpending":0,"filings":5,"yearlySpending":[{"year":2020,"income":0}],"issues":[{"code":"ROD","display":"Roads/Highway"},{"code":"URB","display":"Urban Development/Municipalities"},{"code":"ACC","display":"Accounting"},{"code":"TRA","display":"Transportation"},{"code":"TEC","display":"Telecommunications"},{"code":"SCI","display":"Science/Technology"}],"firms":["HAWKSBILL ADVISORS"],"lobbyists":["HARRY LIGHTSEY","BOB FERGUSON","HAL LENOX"],"govEntities":[],"sampleDescriptions":["Data privacy, autonomous vehicles, cybersecurity, reauthorization of DoT (anticipated).","Data privacy, autonomous vehicles, cybersecurity, reauthorization of DoT (anticipated).","Data privacy, autonomous vehicles, cybersecurity, reauthorization of DoT (anticipated).","Data privacy, autonomous vehicles, cybersecurity, reauthorization of DoT (anticipated).","Data privacy, autonomous vehicles, cybersecurity, reauthorization of DoT (anticipated)."]}

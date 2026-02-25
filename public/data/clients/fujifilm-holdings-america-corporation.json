@@ -1,11 +1,1 @@
-{
-  "name": "FUJIFILM HOLDINGS AMERICA CORPORATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":153637,"name":"FUJIFILM HOLDINGS AMERICA CORPORATION","slug":"fujifilm-holdings-america-corporation","state":"NY","country":"United States of America","description":"","totalSpending":2090900,"filings":11,"yearlySpending":[{"year":2023,"income":68000},{"year":2024,"income":915000},{"year":2025,"income":1107900}],"issues":[{"code":"HCR","display":"Health Issues"},{"code":"MAN","display":"Manufacturing"},{"code":"CHM","display":"Chemicals/Chemical Industry"},{"code":"SCI","display":"Science/Technology"},{"code":"BUD","display":"Budget/Appropriations"},{"code":"CSP","display":"Consumer Issues/Safety/Products"},{"code":"ECN","display":"Economics/Economic Development"},{"code":"MMM","display":"Medicare/Medicaid"},{"code":"VET","display":"Veterans"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"ENV","display":"Environment/Superfund"},{"code":"DEF","display":"Defense"}],"firms":["FUJIFILM HOLDINGS AMERICA CORPORATION"],"lobbyists":["CRYSTAL VANUCH"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Health & Human Services, Dept of (HHS)","Environmental Protection Agency (EPA)","Natl Security Council (NSC)","State, Dept of (DOS)","U.S. Trade Representative (USTR)","Natl Security Agency (NSA)","White House Office","Commerce, Dept of (DOC)","Bureau of Industry and Security (BIS)"],"sampleDescriptions":["Reauthorization of Pandemic and All- Hazards Preparedness and Advancing Innovation Act","Contract development and manufacturing, medical devices, life science issues, appropriations and budget, domestic manufacturing, electronic materials","Contract development and manufacturing, medical devices, life science issues, appropriations and budget, domestic manufacturing, electronic materials","Contract development and manufacturing, medical devices, life science issues, appropriations and budget, domestic manufacturing, electronic materials","Contract development and manufacturing, medical devices, life science issues, appropriations and budget, domestic manufacturing, electronic materials"]}

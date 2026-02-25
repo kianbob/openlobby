@@ -1,11 +1,1 @@
-{
-  "name": "AMSTERDAM GROUP PUBLIC RELATIONS (FOR TECHMET LIMITED)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":209477,"name":"AMSTERDAM GROUP PUBLIC RELATIONS (FOR TECHMET LIMITED)","slug":"amsterdam-group-public-relations-for-techmet-limited","state":"VA","country":"United States of America","description":"TechMet Limited, the beneficiary of the services, is a private industrial company.","totalSpending":365000,"filings":28,"yearlySpending":[{"year":2021,"income":30000},{"year":2022,"income":105000},{"year":2023,"income":230000},{"year":2024,"income":0}],"issues":[{"code":"NAT","display":"Natural Resources"}],"firms":["GREYSTONE GLOBAL STRATEGIES LLC"],"lobbyists":["CHRIS BEATTY"],"govEntities":["Energy, Dept of","HOUSE OF REPRESENTATIVES","SENATE","State, Dept of (DOS)","Commerce, Dept of (DOC)","Overseas Private Investment Corp (OPIC)","Export-Import Bank of the United States (EXIM Bank)","Defense, Dept of (DOD)","Defense Logistics Agency","White House Office"],"sampleDescriptions":["Critical mineral supply chains.","Critical minerals supply chains","Critical minerals supply chains","Critical minerals supply chains","Critical minerals supply chains"]}

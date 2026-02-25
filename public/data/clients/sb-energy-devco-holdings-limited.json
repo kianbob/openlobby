@@ -1,11 +1,1 @@
-{
-  "name": "SB ENERGY DEVCO HOLDINGS LIMITED",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":212010,"name":"SB ENERGY DEVCO HOLDINGS LIMITED","slug":"sb-energy-devco-holdings-limited","state":"CA","country":"United States of America","description":"Utility scale solar, energy storage, and technology platform","totalSpending":120000,"filings":4,"yearlySpending":[{"year":2021,"income":120000}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["CAPITOL TAX PARTNERS, LLP"],"lobbyists":["LAWRENCE WILLCOX","JOSEPH MIKRUT","SARAH SHIVE","WILLIAM DAVIS"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Tax policy issues related to renewable tax incentives.","Tax policy issues related to renewable tax incentives.","Tax policy issues related to renewable tax incentives and H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14.","Tax policy issues related to renewable tax incentives, H.R. 5376, Bill to provide for reconciliation pursuant to title II of S. Con. Res. 14, andS. 3091, Solar Energy Manufacturing for America Act."]}

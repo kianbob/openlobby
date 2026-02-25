@@ -1,11 +1,1 @@
-{
-  "name": "IKEA SUPPLY AG",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":199689,"name":"IKEA SUPPLY AG","slug":"ikea-supply-ag","state":null,"country":"Switzerland","description":"Design, manufacture, distribute, and supply home improvement products.","totalSpending":278500,"filings":15,"yearlySpending":[{"year":2019,"income":101500},{"year":2020,"income":87000},{"year":2021,"income":0},{"year":2022,"income":90000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"TAR","display":"Tariff (miscellaneous tariff bills)"}],"firms":["MCLARTY INBOUND LLC"],"lobbyists":["TAMERA OVERBY"],"govEntities":["HOUSE OF REPRESENTATIVES","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Impact of trade and tariffs on supply chain and operations.","Impact of trade and tariffs on supply chain and operations.","Impact of tariffs and trade on supply chain and operations.","Impact of tariffs and trade on supply chain and operations.","Impact of tariffs and trade on supply chain and operations."]}

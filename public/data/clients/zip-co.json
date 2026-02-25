@@ -1,11 +1,1 @@
-{
-  "name": "ZIP CO",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":58664,"name":"ZIP CO","slug":"zip-co","state":"CA","country":"United States of America","description":"Financial Services, Financial Technology","totalSpending":60000,"filings":3,"yearlySpending":[{"year":2024,"income":60000}],"issues":[{"code":"FIN","display":"Financial Institutions/Investments/Securities"}],"firms":["PORTERFIELD, FETTIG & SEARS, LLC"],"lobbyists":["BRYAN BLOM","JENNIFER READ","LENDELL PORTERFIELD","DWIGHT FETTIG","DAWN SEARS"],"govEntities":[],"sampleDescriptions":["Issues related to Buy Now, Pay Later."]}

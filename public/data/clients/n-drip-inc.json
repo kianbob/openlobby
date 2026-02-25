@@ -1,11 +1,1 @@
-{
-  "name": "N-DRIP INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":52880,"name":"N-DRIP INC.","slug":"n-drip-inc","state":"AZ","country":"United States of America","description":"Company with gravity micro-irrigation system designed to offer efficient drip irrigation","totalSpending":520000,"filings":13,"yearlySpending":[{"year":2022,"income":90000},{"year":2023,"income":220000},{"year":2024,"income":210000},{"year":2025,"income":0}],"issues":[{"code":"NAT","display":"Natural Resources"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["KATE GONZALES","JESSICA KRAMER","BELLA SEWALL WOLITZ","SAMANTHA CARL-YODER","RYAN SMITH","LAUREN DIEKMAN","MARK PRYOR","ANDREW USYK","ADAM STEINMETZ","DAVID REID"],"govEntities":["Agriculture, Dept of (USDA)","HOUSE OF REPRESENTATIVES","Interior, Dept of (DOI)","SENATE","State, Dept of (DOS)","U.S. Agency for International Development (USAID)","Commerce, Dept of (DOC)","White House Office","Executive Office of the President (EOP)"],"sampleDescriptions":["Energy and Water Appropriations, Agriculture, Rural Development Appropriations, Farm Bill","Drought funding and water conservation Inflation Reduction Act Bi-Partisan Infrastructure Law- drought funding","Drought funding and water conservation Inflation Reduction Act Bi-Partisan Infrastructure Law- drought funding","Drought funding and water conservation Inflation Reduction Act Bi-Partisan Infrastructure Law- drought funding","Drought funding and water conservation Inflation Reduction Act FARM Bill irrigation efficiency funding"]}

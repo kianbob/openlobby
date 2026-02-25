@@ -1,11 +1,1 @@
-{
-  "name": "ABRAHAM STRATEGIES LLC ON BEHALF OF NASSCOM",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202807,"name":"ABRAHAM STRATEGIES LLC ON BEHALF OF NASSCOM","slug":"abraham-strategies-llc-on-behalf-of-nasscom","state":"VA","country":"United States of America","description":"Government Relations","totalSpending":90000,"filings":9,"yearlySpending":[{"year":2019,"income":30000},{"year":2020,"income":50000},{"year":2021,"income":10000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"IMM","display":"Immigration"}],"firms":["ENGLER LLC"],"lobbyists":["JOHN ENGLER"],"govEntities":["Commerce, Dept of (DOC)","Executive Office of the President (EOP)","Justice, Dept of (DOJ)","Labor, Dept of (DOL)","Natl Economic Council (NEC)","State, Dept of (DOS)","SENATE"],"sampleDescriptions":["Issues related to immigration and trade policy","Issues related to immigration and trade policy","Issues related to immigration and trade policy\nSkilled worker training","Issues related to immigration and trade policy\nSkilled worker training","Issues related to immigration and trade policy\nSkilled worker training"]}

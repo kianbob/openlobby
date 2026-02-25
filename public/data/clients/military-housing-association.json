@@ -1,11 +1,1 @@
-{
-  "name": "MILITARY HOUSING ASSOCIATION",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":195213,"name":"MILITARY HOUSING ASSOCIATION","slug":"military-housing-association","state":"DC","country":"United States of America","description":"Trade association for participants in the MHPI program.","totalSpending":590000,"filings":14,"yearlySpending":[{"year":2019,"income":90000},{"year":2020,"income":200000},{"year":2021,"income":300000}],"issues":[{"code":"DEF","display":"Defense"}],"firms":["S-3 GROUP"],"lobbyists":["JOHN SCOFIELD","MARTIN DELGADO","MICHAELEEN CROWELL"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Military Housing Privatization Initiative provisions in the FY2020 National Defense Authorization Act.","Military Housing Privatization Initiative provisions in the FY2020 NDAA","Military Housing Privatization Initiative provisions in the FY2020 NDAA","Military Housing Privatization Initiative provisions in the FY2020 NDAA (S.1790)","Military Housing Privatization Initiative issues"]}

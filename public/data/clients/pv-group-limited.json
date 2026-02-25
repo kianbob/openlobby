@@ -1,11 +1,1 @@
-{
-  "name": "PV GROUP LIMITED",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":203767,"name":"PV GROUP LIMITED","slug":"pv-group-limited","state":"DE","country":"United States of America","description":"Special Purpose Vehicle","totalSpending":80000,"filings":8,"yearlySpending":[{"year":2019,"income":20000},{"year":2020,"income":60000}],"issues":[{"code":"LAW","display":"Law Enforcement/Crime/Criminal Justice"},{"code":"ECN","display":"Economics/Economic Development"}],"firms":["LAW OFFICES OF BUD CUMMINS, PLC"],"lobbyists":["HARRY CUMMINS"],"govEntities":["HOUSE OF REPRESENTATIVES","Treasury, Dept of","Homeland Security, Dept of (DHS)","SENATE","State, Dept of (DOS)"],"sampleDescriptions":["Foreign fraudulent activity using or flowing through U.S. banks","Foreign fraudulent activity using or flowing through U.S. banks","Making inquiries about whether the US government is investigating and/or whether the U.S. has considered, or should consider, economic sanctions against either Dmitri Ananyev or Alexei Ananyev.","Foreign fraudulent activity using or flowing through US banks.","Foreign fraudulent activity using or flowing through US banks."]}

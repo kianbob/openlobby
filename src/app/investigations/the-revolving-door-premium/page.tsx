@@ -37,7 +37,7 @@ const premiumChart = [
 export default function Page() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "The 369% Premium: Hard Proof That the Revolving Door Pays", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Lobbying firms with ex-government employees earn 369% more revenue and have 4.9x more clients. We quantified the revolving door premium with 650,000+ filings.", mainEntityOfPage: "https://www.openlobby.us/investigations/the-revolving-door-premium" }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "The 369% Premium: Hard Proof That the Revolving Door Pays", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-02-24", description: "Lobbying firms with ex-government employees earn 369% more revenue and have 4.9x more clients. We quantified the revolving door premium with 726,000+ filings.", mainEntityOfPage: "https://www.openlobby.us/investigations/the-revolving-door-premium" }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'The Revolving Door Premium' },

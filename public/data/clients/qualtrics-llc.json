@@ -1,11 +1,1 @@
-{
-  "name": "QUALTRICS, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":211033,"name":"QUALTRICS LLC","slug":"qualtrics-llc","state":"UT","country":"United States of America","description":"Software; experience management","totalSpending":540000,"filings":19,"yearlySpending":[{"year":2021,"income":60000},{"year":2022,"income":120000},{"year":2023,"income":120000},{"year":2024,"income":120000},{"year":2025,"income":120000}],"issues":[{"code":"GOV","display":"Government Issues"},{"code":"AGR","display":"Agriculture"},{"code":"BUD","display":"Budget/Appropriations"}],"firms":["HETTINGER STRATEGY GROUP LLC"],"lobbyists":["MICHAEL HETTINGER"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to federal employee experience and human resources; issues related to federal customer experience.","Issues related to government's adoption of customer and employee experience technologies.\nS. 1934 / H.R. 3609, the Trust in Public Service Act.","Issues related to government's adoption of customer and employee experience technologies.\nS. 1934 / H.R. 3609, the Trust in Public Service Act.","Issues related to government's adoption of customer and employee experience technologies. S. 1934 / H.R. 3609, the Trust in Public Service Act.","Issues related to government's adoption of customer and employee experience technologies. S. 1934 / H.R. 3609, the Trust in Public Service Act. Congressional oversight of government customer experienc"]}

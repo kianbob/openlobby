@@ -1,11 +1,1 @@
-{
-  "name": "EQUINOR US OPERATIONS LLC FKA EQUINOR",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68530,"name":"EQUINOR US OPERATIONS LLC FKA EQUINOR","slug":"equinor-us-operations-llc-fka-equinor","state":"TX","country":"United States of America","description":"Energy company primarily focused on upstream oil and gas operations","totalSpending":550000,"filings":7,"yearlySpending":[{"year":2025,"income":550000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"}],"firms":["THE BERNHARDT GROUP LLC"],"lobbyists":["LUKE JOHNSON","JON HROBSKY"],"govEntities":["HOUSE OF REPRESENTATIVES","Interior, Dept of (DOI)","SENATE"],"sampleDescriptions":["Issues related to upstream oil and gas operations","Issues related to upstream oil and gas operations, and offshore energy","Issues related to upstream oil and gas operations","Issues related to upstream oil and gas operations, and offshore energy","Issues related to upstream oil and gas operations, and offshore energy"]}

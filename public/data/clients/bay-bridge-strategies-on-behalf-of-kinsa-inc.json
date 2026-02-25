@@ -1,11 +1,1 @@
-{
-  "name": "BAY BRIDGE STRATEGIES (ON BEHALF OF KINSA, INC.)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":205924,"name":"BAY BRIDGE STRATEGIES (ON BEHALF OF KINSA, INC.)","slug":"bay-bridge-strategies-on-behalf-of-kinsa-inc","state":"DC","country":"United States of America","description":"Health technology company.","totalSpending":120000,"filings":7,"yearlySpending":[{"year":2020,"income":60000},{"year":2021,"income":60000}],"issues":[{"code":"HCR","display":"Health Issues"},{"code":"BUD","display":"Budget/Appropriations"}],"firms":["TIBER CREEK GROUP"],"lobbyists":["JOHN GONZALEZ","ANDREW MCKECHNIE","JEFFREY SHAPIRO","MATTHEW LEFFINGWELL","ASHLI PALMER","EMILY KIRLIN"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to COVID-19, including early warning about outbreaks.","Issues related to COVID-19, including early warning about outbreaks","Issues related to COVID-19, including early warning about outbreaks","Issues related to COVID-19, including early warning about outbreaks. The Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law No. 116-136); The Health, Economic Assistance, Liability","Issues related to COVID-19, including early warning about outbreaks. The Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law No. 116-136); The Health, Economic Assistance, Liability"]}

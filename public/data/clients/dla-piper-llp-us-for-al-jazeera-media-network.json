@@ -1,11 +1,1 @@
-{
-  "name": "DLA PIPER LLP (US) (FOR AL JAZEERA MEDIA NETWORK)",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":188220,"name":"DLA PIPER LLP (US) (FOR AL JAZEERA MEDIA NETWORK)","slug":"dla-piper-llp-us-for-al-jazeera-media-network","state":"DC","country":"United States of America","description":"Law firm, on behalf of its client, a global media network.","totalSpending":40000,"filings":5,"yearlySpending":[{"year":2019,"income":20000},{"year":2020,"income":20000}],"issues":[{"code":"MIA","display":"Media (information/publishing)"}],"firms":["TCK INTERNATIONAL, LLC"],"lobbyists":["TOM KOROLOGOS"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Informational communications regarding client's journalism, press freedom, and other issues impacting client's U.S. operations.","Informational communications regarding client's journalism, press freedom, and other issues impacting client's U.S. operations.","Informational communications regarding client's journalism, press freedom, and other issues impacting client's U.S. operations."]}

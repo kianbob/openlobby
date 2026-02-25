@@ -1,11 +1,1 @@
-{
-  "name": "LIGHTSOLVER LTD",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69998,"name":"LIGHTSOLVER, LTD","slug":"lightsolver-ltd","state":null,"country":"Israel","description":"Developer of quantum-inspired, all-optical computing systems","totalSpending":20000,"filings":2,"yearlySpending":[{"year":2025,"income":20000}],"issues":[{"code":"AER","display":"Aerospace"},{"code":"AVI","display":"Aviation/Airlines/Airports"},{"code":"CPI","display":"Computer Industry"},{"code":"DEF","display":"Defense"}],"firms":["GROISMAN LLC"],"lobbyists":["GABRIEL GROISMAN"],"govEntities":[],"sampleDescriptions":["Engagement with federal agencies regarding programs, opportunities, funding mechanisms, research and development initiatives, and procurement pathways related to advanced computing, photonics, and eme","Engagement with federal agencies regarding programs, opportunities, funding mechanisms, research and development initiatives, and procurement pathways related to advanced computing, photonics, and eme","Engagement with federal agencies regarding programs, opportunities, funding mechanisms, research and development initiatives, and procurement pathways related to advanced computing, photonics, and eme","Engagement with federal agencies regarding programs, opportunities, funding mechanisms, research and development initiatives, and procurement pathways related to advanced computing, photonics, and eme"]}

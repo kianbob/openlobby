@@ -1,11 +1,1 @@
-{
-  "name": "GLENCORE, LTD",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":60901,"name":"GLENCORE, LTD","slug":"glencore-ltd","state":"NY","country":"United States of America","description":"Financial institution","totalSpending":510000,"filings":9,"yearlySpending":[{"year":2024,"income":190000},{"year":2025,"income":320000}],"issues":[{"code":"ENG","display":"Energy/Nuclear"},{"code":"ENV","display":"Environment/Superfund"},{"code":"FOR","display":"Foreign Relations"},{"code":"TRD","display":"Trade (domestic/foreign)"}],"firms":["BGR GOVERNMENT AFFAIRS"],"lobbyists":["WALKER ROBERTS","PATRICK AMES","MAYA SEIDEN","LOREN MONROE","DAN GREENWOOD","LESTER MUNSON","SCOTT EISNER"],"govEntities":["SENATE","Environmental Protection Agency (EPA)","HOUSE OF REPRESENTATIVES","State, Dept of (DOS)","Commerce, Dept of (DOC)","Natl Economic Council (NEC)","White House Office"],"sampleDescriptions":["Provide strategic counsel and advocate for the company at relevant agencies, Congress, and the Administration.","Provide strategic counsel and advocate for the company at relevant agencies, Congress, and the Administration.","Provide strategic counsel and advocate for the company at relevant agencies, Congress, and the Administration.","Provide strategic counsel and advocate for the company at relevant agencies, Congress, and the Administration.","Provide strategic counsel and advocate for the company at relevant agencies, Congress, and the Administration."]}

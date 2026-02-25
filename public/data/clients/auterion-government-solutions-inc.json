@@ -1,11 +1,1 @@
-{
-  "name": "AUTERION GOVERNMENT SOLUTIONS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":110342,"name":"AUTERION GOVERNMENT SOLUTIONS, INC.","slug":"auterion-government-solutions-inc","state":"CA","country":"United States of America","description":"Open source drone software","totalSpending":440000,"filings":24,"yearlySpending":[{"year":2019,"income":10000},{"year":2020,"income":80000},{"year":2021,"income":80000},{"year":2022,"income":80000},{"year":2023,"income":80000},{"year":2024,"income":20000},{"year":2025,"income":90000}],"issues":[{"code":"GOV","display":"Government Issues"},{"code":"HOM","display":"Homeland Security"},{"code":"AVI","display":"Aviation/Airlines/Airports"},{"code":"DEF","display":"Defense"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["ALFRED MOTTUR","DAVID COHEN","GRETA JOYNES","MILAN DALAL","ARI ZIMMERMAN","MICHAEL MARN","GEOFFREY BURR","BRIAN MCKEON","BRIAN WILD","WILLIAM MOSCHELLA","BRANDT ANDERSON","TRAVIS NORTON","MARK PRYOR","MAXWELL HUNTLEY","JESSICA LEWIS"],"govEntities":["Commerce, Dept of (DOC)","Executive Office of the President (EOP)","Homeland Security, Dept of (DHS)","HOUSE OF REPRESENTATIVES","SENATE","Transportation, Dept of (DOT)","U.S. Trade Representative (USTR)","White House Office","Defense, Dept of (DOD)","Natl Security Council (NSC)","Federal Communications Commission (FCC)"],"sampleDescriptions":["Issues related to supply chain/national security","Issues related to supply chain/national security","Issues related to supply chain/national security","Issues related to supply chain/national security","Issues related to supply chain/national security"]}

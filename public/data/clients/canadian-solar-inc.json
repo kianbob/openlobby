@@ -1,11 +1,1 @@
-{
-  "name": "CANADIAN SOLAR INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":204216,"name":"CANADIAN SOLAR INC.","slug":"canadian-solar-inc","state":null,"country":"Canada","description":"Canadian Solar Inc. is a global solar energy company.","totalSpending":580000,"filings":25,"yearlySpending":[{"year":2020,"income":20000},{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":100000},{"year":2024,"income":170000},{"year":2025,"income":290000}],"issues":[{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["HOGAN LOVELLS US LLP"],"lobbyists":["NORM COLEMAN","EDUARDO ZAPIEN","AARON CUTLER"],"govEntities":["HOUSE OF REPRESENTATIVES","U.S. Trade Representative (USTR)","Natl Economic Council (NEC)","Natl Security Council (NSC)","SENATE","Executive Office of the President (EOP)","Interior, Dept of (DOI)","State, Dept of (DOS)","Treasury, Dept of","Commerce, Dept of (DOC)"],"sampleDescriptions":["Solar trade and policy issues.","Solar trade and policy issues.","Solar trade and policy issues.","Solar trade and policy issues.","Solar trade and policy issues."]}

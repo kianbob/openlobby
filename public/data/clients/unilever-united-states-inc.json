@@ -1,11 +1,1 @@
-{
-  "name": "UNILEVER UNITED STATES, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":147107,"name":"UNILEVER UNITED STATES, INC.","slug":"unilever-united-states-inc","state":"DC","country":"United States of America","description":"","totalSpending":20925000,"filings":37,"yearlySpending":[{"year":2018,"income":1980000},{"year":2019,"income":4530000},{"year":2020,"income":11460000},{"year":2021,"income":360000},{"year":2022,"income":710000},{"year":2023,"income":650000},{"year":2024,"income":745000},{"year":2025,"income":490000}],"issues":[{"code":"ANI","display":"Animals"},{"code":"TRD","display":"Trade (domestic/foreign)"},{"code":"CSP","display":"Consumer Issues/Safety/Products"},{"code":"CDT","display":"Commodities (big ticket)"},{"code":"ENV","display":"Environment/Superfund"},{"code":"LBR","display":"Labor Issues/Antitrust/Workplace"},{"code":"AGR","display":"Agriculture"},{"code":"FOO","display":"Food Industry (safety, labeling, etc.)"},{"code":"CIV","display":"Civil Rights/Civil Liberties"},{"code":"ENG","display":"Energy/Nuclear"},{"code":"MAN","display":"Manufacturing"},{"code":"FIN","display":"Financial Institutions/Investments/Securities"},{"code":"SCI","display":"Science/Technology"},{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"HCR","display":"Health Issues"}],"firms":["UNILEVER UNITED STATES, INC."],"lobbyists":["MARK BESCHER","THOMAS LANGAN","DEVIN SEARS","STEFANI GRANT","PATRICK UZCATEGUI"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE","Agriculture, Dept of (USDA)","Food & Drug Administration (FDA)","Homeland Security, Dept of (DHS)","Labor, Dept of (DOL)","White House Office","Commerce, Dept of (DOC)","U.S. Trade Representative (USTR)"],"sampleDescriptions":["Draft legislation in the Senate on animal testing -- primarily with Senator Booker's office.","NAFTA Reform\ntrade agreement reform","S. 1113 Personal Care Product's Safety Act","S. 2088 - Sugar Reform Act","Discussing U.S. congressional support for Paris Climate Agreement with House and Senate members -- no specific legislation. \n\nSupport for Clean Power Plan\n\nDraft carbon pricing legislation\n\nCAFE Stand"]}

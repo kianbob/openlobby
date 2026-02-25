@@ -1,11 +1,1 @@
-{
-  "name": "WASTE CONNECTIONS US, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":70741,"name":"WASTE CONNECTIONS US, INC.","slug":"waste-connections-us-inc","state":"TX","country":"United States of America","description":"Provider of waste collection services, recycling, disposal services, and resource recovery","totalSpending":80000,"filings":2,"yearlySpending":[{"year":2025,"income":80000}],"issues":[{"code":"FUE","display":"Fuel/Gas/Oil"},{"code":"ENV","display":"Environment/Superfund"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["AKIN GUMP STRAUSS HAUER & FELD"],"lobbyists":["TRUMAN REED","JEFF MCMILLEN","ZACH DEATHERAGE"],"govEntities":["HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Issues related to renewable fuel solutions.","Issues related to EPA Proposed Rule, Renewable Fuel Standard (RFS) Program: Standards for 2026 and 2027 (EPA-HQ-OAR-2024-0505).","Issues related to EPA Proposed Rule, Renewable Fuel Standard (RFS) Program: Standards for 2026 and 2027 (EPA-HQ-OAR-2024-0505).","Issues related to EPA Proposed Rule, Renewable Fuel Standard (RFS) Program: Standards for 2026 and 2027 (EPA-HQ-OAR-2024-0505)."]}

@@ -1,11 +1,1 @@
-{
-  "name": "AKIN GUMP STRAUSS HAUER & FIELD LLP ON BEHALF OF TP-LINK SYSTEMS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":68460,"name":"AKIN GUMP STRAUSS HAUER & FIELD LLP ON BEHALF OF TP-LINK SYSTEMS, INC.","slug":"akin-gump-strauss-hauer-field-llp-on-behalf-of-tp-link-systems-inc","state":"DC","country":"United States of America","description":"Law firm (Manufacturer of network equipment and smart home products)","totalSpending":560000,"filings":4,"yearlySpending":[{"year":2025,"income":560000}],"issues":[{"code":"CPI","display":"Computer Industry"},{"code":"SCI","display":"Science/Technology"}],"firms":["BALLARD PARTNERS"],"lobbyists":["BRIAN BALLARD","THOMAS BOODRY"],"govEntities":["Commerce, Dept of (DOC)","SENATE"],"sampleDescriptions":["Issues related to cybersecurity and routers.","Issues related to cybersecurity and routers.","Educate policymakers, federal agencies, and Congress on TP-Link Systems U.S. operations, California headquarters, and compliance with U.S. data security and supply chain requirements."]}

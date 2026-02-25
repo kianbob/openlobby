@@ -1,11 +1,1 @@
-{
-  "name": "MONOLITH MATERIALS",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":212414,"name":"MONOLITH MATERIALS","slug":"monolith-materials","state":"NE","country":"United States of America","description":"Energy and Chemical Company","totalSpending":400000,"filings":18,"yearlySpending":[{"year":2021,"income":40000},{"year":2022,"income":160000},{"year":2023,"income":160000},{"year":2024,"income":40000},{"year":2025,"income":0}],"issues":[{"code":"TAX","display":"Taxation/Internal Revenue Code"},{"code":"ENV","display":"Environment/Superfund"},{"code":"ENG","display":"Energy/Nuclear"}],"firms":["HB STRATEGIES"],"lobbyists":["ROCHELLE MALLETT","DUSTIN VAUGHAN"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Issues related to DOE loan program, federal income tax credits for clean energy production.","Issues related to DOE loan program, federal income tax credits for clean energy production.","Issues related to DOE loan program, federal income tax credits for clean energy production.","Issues related to DOE loan program, federal income tax credits for clean energy production.","Federal Income Tax Credits"]}

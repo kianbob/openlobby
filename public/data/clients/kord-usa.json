@@ -1,11 +1,1 @@
-{
-  "name": "KORD USA",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":206010,"name":"KORD USA","slug":"kord-usa","state":"VA","country":"United States of America","description":"Defense contractor","totalSpending":0,"filings":24,"yearlySpending":[{"year":2020,"income":0},{"year":2021,"income":0},{"year":2022,"income":0},{"year":2023,"income":0},{"year":2024,"income":0},{"year":2025,"income":0}],"issues":[{"code":"DEF","display":"Defense"}],"firms":["KORD USA"],"lobbyists":["KENNETH LEE"],"govEntities":["HOUSE OF REPRESENTATIVES","SENATE"],"sampleDescriptions":["Testing and Evaluation under Foreign Comparative Testing Program leading to acquisition and deployment","Foreign comparative testing of electronic controllers.","Foreign comparative testing of electronic controllers.","Foreign comparative testing of electronic controllers.","Support for Army testing and evaluation of electronics"]}

@@ -1,11 +1,1 @@
-{
-  "name": "PARAGON SYSTEMS, INC.",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":206512,"name":"PARAGON SYSTEMS, INC.","slug":"paragon-systems-inc","state":"VA","country":"United States of America","description":"US-based private security and investigative firm","totalSpending":0,"filings":3,"yearlySpending":[{"year":2020,"income":0}],"issues":[{"code":"BUD","display":"Budget/Appropriations"},{"code":"HOM","display":"Homeland Security"}],"firms":["VENABLE LLP"],"lobbyists":["GREGORY GILL","THOMAS BOYD","JOSH FINESTONE","NICHOLAS CHOATE","LOREN AHO"],"govEntities":["Homeland Security, Dept of (DHS)","HOUSE OF REPRESENTATIVES","SENATE","White House Office"],"sampleDescriptions":["Revenue questions pertaining to COVID-19 funding","Sec. 3610 of the CARES Act; Payments to federal contractors"]}

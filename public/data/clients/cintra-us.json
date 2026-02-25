@@ -1,11 +1,1 @@
-{
-  "name": "CINTRA US",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":202369,"name":"CINTRA US","slug":"cintra-us","state":"TX","country":"United States of America","description":"Transportation Infrastructure","totalSpending":650000,"filings":30,"yearlySpending":[{"year":2018,"income":120000},{"year":2019,"income":120000},{"year":2020,"income":80000},{"year":2021,"income":80000},{"year":2022,"income":80000},{"year":2023,"income":80000},{"year":2024,"income":80000},{"year":2025,"income":10000}],"issues":[{"code":"TRA","display":"Transportation"}],"firms":["BLACK DIAMOND STRATEGIES LLC"],"lobbyists":["HANS KLINGLER"],"govEntities":["HOUSE OF REPRESENTATIVES"],"sampleDescriptions":["Transportation Public Private Partnerships","Transportation Public Private Partnerships","Transportation Public Private Partnerships","Transportation Public Private Partnerships","Transportation Public Private Partnerships"]}

@@ -1,11 +1,1 @@
-{
-  "name": "RAIN & HAIL, LLC",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":69281,"name":"RAIN & HAIL, LLC","slug":"rain-hail-llc","state":"IA","country":"United States of America","description":"Crop insurance company","totalSpending":20000,"filings":3,"yearlySpending":[{"year":2025,"income":20000}],"issues":[{"code":"AGR","display":"Agriculture"}],"firms":["VALESKO PUBLIC AFFAIRS LLC"],"lobbyists":["MATTHEW VALESKO"],"govEntities":["Agriculture, Dept of (USDA)","HOUSE OF REPRESENTATIVES","Office of Management & Budget (OMB)","SENATE"],"sampleDescriptions":["All aspects of the Federal crop insurance program and farm bill.","All areas related to the Federal crop insurance program. The farm bill and agricultural provisions in the OBBBA.","All areas related to the Federal crop insurance program. The farm bill and agricultural provisions in the OBBBA."]}

@@ -1,11 +1,1 @@
-{
-  "name": "ANGLOAMERICAN WOODSMITH LIMITED",
-  "totalSpending": 0,
-  "filings": 0,
-  "years": [],
-  "issues": [],
-  "firms": [],
-  "lobbyists": [],
-  "yearlySpending": [],
-  "sampleDescriptions": []
-}
+{"id":59959,"name":"ANGLOAMERICAN WOODSMITH LIMITED","slug":"angloamerican-woodsmith-limited","state":null,"country":"United Kingdom","description":"Critical Minerals Company","totalSpending":100000,"filings":4,"yearlySpending":[{"year":2024,"income":100000}],"issues":[{"code":"NAT","display":"Natural Resources"},{"code":"TAX","display":"Taxation/Internal Revenue Code"}],"firms":["BROWNSTEIN HYATT FARBER SCHRECK, LLP"],"lobbyists":["SAMANTHA CARL-YODER","LAUREN DIEKMAN","KATE GONZALES"],"govEntities":["Agriculture, Dept of (USDA)","Energy, Dept of","Environmental Protection Agency (EPA)","Natl Security Council (NSC)","State, Dept of (DOS)"],"sampleDescriptions":["Government engagement to promote and support AngloAmericans Crop Nutrients product and clean energy tax issues in the United States.","Government engagement to promote and support AngloAmericans Crop Nutrients product and clean energy tax issues in the United States.","Government engagement to promote and support AngloAmericans Crop Nutrients product and clean energy tax issues in the United States.","Government engagement to promote and support AngloAmericans Crop Nutrients product and clean energy tax issues in the United States.","Government engagement to promote and support AngloAmericans Crop Nutrients product and clean energy tax issues in the United States."]}
