@@ -16,10 +16,10 @@ export const metadata: Metadata = {
 const comparisons = [
   {
     bigNumber: '$37.7B',
-    headline: '60% of NASA\'s Budget',
-    description: 'Total lobbying spending since 2018 equals about 60% of NASA\'s annual budget ($25.4B). Corporate lobbyists nearly outspend rocket science.',
+    headline: '149% of NASA\'s Budget',
+    description: 'Total lobbying spending since 2018 is 149% of NASA\'s annual budget ($25.4B). Lobbyists outspend rocket science — by half again.',
     source: 'NASA FY2024 budget; OpenLobby data 2018–2025',
-    tweet: '💰 $37.7 BILLION in lobbying since 2018 — that\'s 60% of NASA\'s entire annual budget. Corporate influence nearly outspends rocket science. via @OpenLobby',
+    tweet: '💰 $37.7 BILLION in lobbying since 2018 — that\'s 149% of NASA\'s entire annual budget. Lobbyists outspend rocket science. via @OpenLobby',
     color: 'from-indigo-500 to-blue-600',
     emoji: '🚀',
   },
@@ -64,7 +64,7 @@ const comparisons = [
     headline: 'Homes at Median Price',
     description: '$37.7B in lobbying could buy 149,000 homes at the US median price of $253K (2018 median). That\'s enough to house a small city.',
     source: 'US Census median home price; OpenLobby data',
-    tweet: '🏠 $37.7B in lobbying spending could buy 60,000 homes at the US median price. That\'s a whole city. via @OpenLobby',
+    tweet: '🏠 $37.7B in lobbying spending could buy 149,000 homes. That\'s enough to house a major city. via @OpenLobby',
     color: 'from-violet-500 to-purple-600',
     emoji: '🏠',
   },
