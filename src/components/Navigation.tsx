@@ -45,6 +45,7 @@ const navGroups = [
     label: 'About',
     items: [
       { name: 'About', href: '/about', desc: 'Our mission and methodology' },
+      { name: 'Methodology', href: '/methodology', desc: 'How we collect and process data' },
     ],
   },
 ]

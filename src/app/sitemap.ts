@@ -18,7 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/trends', '/revolving-door', '/foreign', '/industries',
     '/investigations', '/search', '/downloads', '/states',
     '/lobbying-roi', '/influence-score', '/arms-race', '/text-analysis',
-    '/cross-reference', '/compare', '/your-tax-dollar',
+    '/cross-reference', '/compare', '/your-tax-dollar', '/methodology',
   ]
 
   const routes: MetadataRoute.Sitemap = staticPages.map(p => ({
@@ -56,7 +56,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   try {
     const issueIndex = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'issue-index.json'), 'utf-8'))
     for (const i of issueIndex) {
-      routes.push({ url: `${baseUrl}/issues/${i.code.toLowerCase()}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
+      routes.push({ url: `${baseUrl}/issues/${i.code}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
     }
   } catch {}
 
@@ -64,7 +64,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   try {
     const stateIndex = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'state-index.json'), 'utf-8'))
     for (const s of stateIndex) {
-      routes.push({ url: `${baseUrl}/states/${s.abbreviation.toLowerCase()}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
+      routes.push({ url: `${baseUrl}/states/${s.abbreviation}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
     }
   } catch {}
 

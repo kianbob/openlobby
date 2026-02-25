@@ -21,7 +21,7 @@ interface StateData {
 
 function getData(state: string): StateData | null {
   try {
-    return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'states', `${state}.json`), 'utf-8'))
+    return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'states', `${state.toUpperCase()}.json`), 'utf-8'))
   } catch { return null }
 }
 

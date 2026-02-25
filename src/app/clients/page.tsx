@@ -66,6 +66,27 @@ export default function ClientsPage() {
         </div>
       </div>
 
+      {clients.length > 0 && !search && (
+        <div className="mb-8">
+          <h2 className="text-xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>💰 Top 10 Spenders</h2>
+          <div className="space-y-2">
+            {clients.slice(0, 10).map((c, i) => (
+              <Link key={i} href={`/clients/${slugify(c.name)}`} className="flex items-center gap-3 hover:bg-gray-50 rounded-lg p-2 transition-colors">
+                <span className="text-sm text-gray-400 w-6 text-right">{i + 1}</span>
+                <div className="flex-1">
+                  <div className="h-6 bg-indigo-100 rounded-full overflow-hidden" style={{ width: '100%' }}>
+                    <div className="h-full bg-indigo-500 rounded-full flex items-center px-3" style={{ width: `${(c.totalIncome / clients[0].totalIncome) * 100}%` }}>
+                      <span className="text-xs text-white font-medium truncate">{toTitleCase(c.name)}</span>
+                    </div>
+                  </div>
+                </div>
+                <span className="text-sm font-bold text-gray-700 w-20 text-right">{formatCurrency(c.totalIncome)}</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
+
       <p className="text-sm text-gray-500 mb-4">{formatNumber(filtered.length)} clients{search ? ' matching' : ''}</p>
 
       {clients.length === 0 ? (

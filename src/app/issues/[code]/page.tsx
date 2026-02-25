@@ -21,7 +21,7 @@ interface IssueData {
 
 function getData(code: string): IssueData | null {
   try {
-    return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'issues', `${code}.json`), 'utf-8'))
+    return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'issues', `${code.toUpperCase()}.json`), 'utf-8'))
   } catch { return null }
 }
 
