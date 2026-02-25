@@ -51,6 +51,16 @@ const navGroups = [
     ],
   },
   {
+    label: 'Learn',
+    items: [
+      { name: 'How Lobbying Works', href: '/how-lobbying-works', desc: 'Complete guide to federal lobbying' },
+      { name: 'Lobbying Statistics 2025', href: '/lobbying-statistics-2025', desc: 'Key facts and data' },
+      { name: 'Pharmaceutical Lobbying', href: '/pharmaceutical-lobbying', desc: 'Big Pharma by the numbers' },
+      { name: 'Tech Lobbying', href: '/tech-lobbying', desc: 'Google, Meta, Amazon & more' },
+      { name: 'Defense Lobbying', href: '/defense-lobbying', desc: 'Contractors and influence' },
+    ],
+  },
+  {
     label: 'About',
     items: [
       { name: 'About', href: '/about', desc: 'Our mission and methodology' },

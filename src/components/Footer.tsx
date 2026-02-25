@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-300">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-8">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8">
           <div className="col-span-2 md:col-span-1">
             <div className="text-xl font-bold text-white" style={{ fontFamily: 'var(--font-serif)' }}>
               OpenLobby
@@ -55,6 +55,17 @@ export default function Footer() {
               <li><Link href="/about" className="text-sm hover:text-white transition-colors">About Us</Link></li>
               <li><Link href="/investigations" className="text-sm hover:text-white transition-colors">Investigations</Link></li>
               <li><Link href="/methodology" className="text-sm hover:text-white transition-colors">Methodology</Link></li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 className="text-sm font-semibold text-white uppercase tracking-wider">Learn</h3>
+            <ul className="mt-3 space-y-2">
+              <li><Link href="/how-lobbying-works" className="text-sm hover:text-white transition-colors">How Lobbying Works</Link></li>
+              <li><Link href="/lobbying-statistics-2025" className="text-sm hover:text-white transition-colors">Lobbying Statistics 2025</Link></li>
+              <li><Link href="/pharmaceutical-lobbying" className="text-sm hover:text-white transition-colors">Pharmaceutical Lobbying</Link></li>
+              <li><Link href="/tech-lobbying" className="text-sm hover:text-white transition-colors">Tech Lobbying</Link></li>
+              <li><Link href="/defense-lobbying" className="text-sm hover:text-white transition-colors">Defense Lobbying</Link></li>
             </ul>
           </div>
 

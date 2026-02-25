@@ -24,6 +24,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/new-entrants', '/momentum', '/concentration', '/issue-battles', '/geographic', '/filing-patterns',
     '/network', '/revolving-door-premium', '/client-trajectories',
     '/lobbying-vs-contracts',
+    '/how-lobbying-works',
+    '/pharmaceutical-lobbying',
+    '/tech-lobbying',
+    '/defense-lobbying',
+    '/lobbying-statistics-2025',
   ]
 
   const routes: MetadataRoute.Sitemap = staticPages.map(p => ({
