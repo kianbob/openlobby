@@ -234,6 +234,7 @@ export default function HomePage() {
               { href: '/foreign', title: 'Foreign Lobbying', desc: 'Foreign governments lobbying the US', icon: '🌍' },
               { href: '/text-analysis', title: 'What Lobbyists Actually Write', desc: 'The language of influence — trending words, bills, and lobbying descriptions', icon: '📝' },
               { href: '/arms-race', title: 'The Arms Race', desc: 'Which issues are surging in lobbying spend', icon: '🔥' },
+              { href: '/agencies', title: 'Agency Pressure', desc: 'Which government agencies get lobbied the most', icon: '🏛️' },
               { href: '/geographic', title: 'Geographic Analysis', desc: 'Where lobbying money comes from', icon: '🗺️' },
               { href: '/compare', title: 'Compare Tool', desc: 'Compare any clients or firms side by side', icon: '⚖️' },
             ].map(tool => (
