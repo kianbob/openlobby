@@ -53,7 +53,7 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
   const { slug } = await params
   const d = getData(slug)
 
-  if (!) {
+  if (!d) {
     notFound()
   }
 

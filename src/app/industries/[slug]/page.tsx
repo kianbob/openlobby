@@ -96,7 +96,7 @@ export default async function IndustryDetailPage({ params }: { params: Promise<{
   const { slug } = await params
   const d = getData(slug)
 
-  if (!) {
+  if (!d) {
     notFound()
   }
 

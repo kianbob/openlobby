@@ -62,7 +62,7 @@ export default async function IssueDetailPage({ params }: { params: Promise<{ sl
   const { slug } = await params
   const d = getData(slug)
 
-  if (!) {
+  if (!d) {
     notFound()
   }
 

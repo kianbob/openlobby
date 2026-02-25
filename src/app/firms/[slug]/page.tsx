@@ -58,7 +58,7 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
   const { slug } = await params
   const firm = getFirm(slug)
 
-  if (!) {
+  if (!firm) {
     notFound()
   }
 
