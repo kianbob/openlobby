@@ -9,7 +9,7 @@ import path from 'path'
 
 export const metadata: Metadata = {
   title: "The 2025 Tariff Lobbying Explosion — Trade Policy Spending Surges",
-  description: 'Tariff lobbying surged 560% in 2025 as companies scrambled for exemptions. Total lobbying hit $2.7B — a 36% jump.',
+  description: 'Tariff lobbying surged 560% in 2025 as companies scrambled for exemptions. Total lobbying hit $6.0B — a 36% jump.',
 }
 
 interface SurgeItem {
@@ -87,7 +87,7 @@ export default function TariffLobbyingSurgePage() {
         { label: 'Tariff lobbying surge', value: '+561%' },
         { label: 'Trade lobbying (latest Q)', value: '$80.5M' },
         { label: 'New trade clients', value: '148' },
-        { label: '2025 total lobbying', value: '$2.7B' },
+        { label: '2025 total lobbying', value: '$6.0B' },
       ]} />
 
       <div className="my-8 bg-orange-50 border-l-4 border-orange-500 p-6 rounded-r-xl">

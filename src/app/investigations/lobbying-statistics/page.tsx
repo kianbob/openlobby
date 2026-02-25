@@ -20,7 +20,7 @@ export default function LobbyingStatisticsPage() {
         <p className="text-gray-500 text-sm">Updated February 2026 · 15 min read · Source: Senate LDA Filings</p>
         <ShareButtons url="https://www.openlobby.us/investigations/lobbying-statistics" title="Federal Lobbying Statistics 2025: Complete Guide" />
 
-        <p className="text-xl text-gray-700 mt-6">The federal lobbying industry hit <strong>$2.7 billion in reported income in 2025</strong>, the highest single-year total in our dataset. Here&apos;s everything you need to know about who&apos;s lobbying, how much they&apos;re spending, and where the money goes.</p>
+        <p className="text-xl text-gray-700 mt-6">The federal lobbying industry hit <strong>$6.0 billion in reported income in 2025</strong>, the highest single-year total in our dataset. Here&apos;s everything you need to know about who&apos;s lobbying, how much they&apos;re spending, and where the money goes.</p>
 
         <div className="bg-indigo-50 rounded-xl p-6 my-8 not-prose">
           <h2 className="text-lg font-bold text-indigo-900 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Key Statistics at a Glance</h2>
