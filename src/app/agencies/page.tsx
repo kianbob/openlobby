@@ -43,6 +43,9 @@ const ISSUE_NAMES: Record<string, string> = {
   MAR: 'Marine', MIA: 'Media', MON: 'Money', PHA: 'Pharmacy', POS: 'Postal',
   REL: 'Religion', ROD: 'Roads', SPO: 'Sports', TAR: 'Tariffs', TON: 'Torts',
   TOU: 'Tourism', URB: 'Urban Development', VET: 'Veterans', WEL: 'Welfare',
+  BAN: 'Banking', BEV: 'Beverage', CHM: 'Chemicals', CON: 'Constitution',
+  CPI: 'Computer Industry', ENG: 'Energy/Nuclear', HOM: 'Homeland Security',
+  INT: 'Intelligence', RES: 'Real Estate', RRR: 'Railroads',
 }
 
 function slugifyClient(name: string) {
