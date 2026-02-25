@@ -21,6 +21,9 @@ const navGroups = [
       { name: 'Revolving Door', href: '/revolving-door', desc: 'Government to K Street pipeline' },
       { name: 'Foreign Lobbying', href: '/foreign', desc: 'Foreign influence in DC' },
       { name: 'Industry Breakdown', href: '/industries', desc: 'Spending by sector' },
+      { name: 'Lobbying ROI', href: '/lobbying-roi', desc: 'Return on lobbying investment' },
+      { name: 'Influence Score', href: '/influence-score', desc: 'Most influential clients ranked' },
+      { name: 'Arms Race', href: '/arms-race', desc: 'What\'s surging right now' },
     ],
   },
   {
@@ -30,11 +33,17 @@ const navGroups = [
     ],
   },
   {
+    label: 'Tools',
+    items: [
+      { name: 'Compare', href: '/compare', desc: 'Compare clients or firms' },
+      { name: 'Search', href: '/search', desc: 'Search all data' },
+      { name: 'Downloads', href: '/downloads', desc: 'Get the raw data' },
+    ],
+  },
+  {
     label: 'About',
     items: [
       { name: 'About', href: '/about', desc: 'Our mission and methodology' },
-      { name: 'Data Sources', href: '/data-sources', desc: 'Where the data comes from' },
-      { name: 'Downloads', href: '/downloads', desc: 'Get the raw data' },
     ],
   },
 ]
