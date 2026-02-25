@@ -67,14 +67,21 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
         {d.revolvingDoor && <span className="mt-2 px-3 py-1 bg-amber-100 text-amber-800 text-xs font-semibold rounded-full">🏛️ Revolving Door</span>}
       </div>
 
-      {d.governmentPositions.length > 0 && (
-        <div className="mb-6">
-          <p className="text-sm text-gray-500 mb-1">Former Government Position{d.governmentPositions.length > 1 ? 's' : ''}:</p>
-          {d.governmentPositions.map((pos, i) => (
-            <p key={i} className="text-gray-700 font-medium">{pos}</p>
-          ))}
-        </div>
-      )}
+      {d.governmentPositions.length > 0 && (() => {
+        // Deduplicate similar positions (often same role with slight text variations)
+        const unique = d.governmentPositions.filter((pos, i, arr) => {
+          const normalized = pos.toLowerCase().replace(/[^a-z]/g, '').slice(0, 40)
+          return !arr.slice(0, i).some(p => p.toLowerCase().replace(/[^a-z]/g, '').slice(0, 40) === normalized)
+        })
+        return (
+          <div className="mb-6">
+            <p className="text-sm text-gray-500 mb-1">Former Government Position{unique.length > 1 ? 's' : ''}:</p>
+            {unique.map((pos, i) => (
+              <p key={i} className="text-gray-700 font-medium">{pos}</p>
+            ))}
+          </div>
+        )
+      })()}
 
       <ShareButtons url={`https://www.openlobby.us/lobbyists/${slug}`} title={`${toTitleCase(d.name)} — federal lobbyist profile`} />
 

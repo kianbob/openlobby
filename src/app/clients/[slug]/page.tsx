@@ -1,10 +1,52 @@
 import { Metadata } from 'next'
 import fs from 'fs'
 import path from 'path'
+import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
 import { formatCurrency, toTitleCase } from '@/lib/format'
+
+const articleMap: Record<string, { href: string; title: string; desc: string }[]> = {
+  HCR: [{ href: '/investigations/big-pharma-lobbying', title: 'Big Pharma&apos;s $452M Lobbying Machine', desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
+  PHA: [{ href: '/investigations/big-pharma-lobbying', title: 'Big Pharma&apos;s $452M Lobbying Machine', desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
+  MIA: [{ href: '/investigations/big-pharma-lobbying', title: 'Big Pharma&apos;s $452M Lobbying Machine', desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
+  DEF: [{ href: '/investigations/defense-contractor-lobbying', title: 'The Defense Lobby', desc: 'Defense contractors spend millions lobbying for contracts worth billions.' }],
+  CPT: [{ href: '/investigations/tech-lobbying-war', title: 'Big Tech&apos;s $150M Lobbying War', desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }, { href: '/investigations/ai-regulation-fight', title: 'Who&apos;s Lobbying to Shape AI Policy', desc: 'The AI regulation fight is the biggest lobbying battle of the decade.' }],
+  SCI: [{ href: '/investigations/tech-lobbying-war', title: 'Big Tech&apos;s $150M Lobbying War', desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
+  COM: [{ href: '/investigations/tech-lobbying-war', title: 'Big Tech&apos;s $150M Lobbying War', desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
+  TRD: [{ href: '/investigations/tariff-lobbying-surge', title: 'The 2025 Tariff Panic', desc: 'As tariffs return, lobbying on trade surges.' }],
+  TAR: [{ href: '/investigations/tariff-lobbying-surge', title: 'The 2025 Tariff Panic', desc: 'As tariffs return, lobbying on trade surges.' }],
+  FOR: [{ href: '/investigations/foreign-influence', title: 'Foreign Governments Are Lobbying Congress', desc: '1,000+ foreign entities from 50+ countries lobby the US government.' }],
+}
+
+const alwaysArticles = [
+  { href: '/investigations/lobbying-statistics', title: 'Federal Lobbying Statistics 2025', desc: 'The definitive stats — $15.2B total, industry breakdowns, and trends.' },
+  { href: '/investigations/what-is-lobbying', title: 'What Is Lobbying? A Complete Guide', desc: 'How lobbying works, who does it, and why it matters.' },
+]
+
+function getRelatedArticles(issues: string[]) {
+  const seen = new Set<string>()
+  const articles: { href: string; title: string; desc: string }[] = []
+  for (const issue of issues) {
+    const mapped = articleMap[issue]
+    if (mapped) {
+      for (const a of mapped) {
+        if (!seen.has(a.href)) {
+          seen.add(a.href)
+          articles.push(a)
+        }
+      }
+    }
+  }
+  for (const a of alwaysArticles) {
+    if (!seen.has(a.href)) {
+      seen.add(a.href)
+      articles.push(a)
+    }
+  }
+  return articles
+}
 
 interface ClientData {
   name: string
@@ -80,7 +122,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
           <div>
             <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
             <p className="text-gray-700 text-sm leading-relaxed">
-              With {formatCurrency(client.totalSpending)} in lobbying spend across {client.filings} quarterly filings, {toTitleCase(client.name)} is {client.totalSpending > 5000000 ? 'one of the biggest lobbying spenders in Washington' : client.totalSpending > 1000000 ? 'a significant lobbying presence' : 'an active lobbying client'}.{client.lobbyists?.length > 10 ? ` They deploy ${client.lobbyists.length} individual lobbyists` : ''}{client.firms?.length > 0 ? ` across ${client.firms.length} lobbying firms.` : '.'}
+              With {formatCurrency(client.totalSpending)} in lobbying spend across {client.filings} quarterly filings, {toTitleCase(client.name)} is {client.totalSpending > 5000000 ? 'one of the biggest lobbying spenders in Washington' : client.totalSpending > 1000000 ? 'a significant lobbying presence' : 'an active lobbying client'}.{client.lobbyists?.length > 10 ? ` They deploy ${client.lobbyists.length} individual lobbyists` : ''}{client.firms?.length > 1 ? ` They work with ${client.firms.length} different lobbying firms.` : ''}
             </p>
           </div>
         </div>

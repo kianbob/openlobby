@@ -118,7 +118,7 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
           <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Clients</h2>
           <div className="flex flex-wrap gap-2">
             {firm.clients.slice(0, 50).map(c => (
-              <span key={c} className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm">{c}</span>
+              <span key={c} className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm">{toTitleCase(c)}</span>
             ))}
             {firm.clients.length > 50 && (
               <span className="px-3 py-1 bg-gray-200 text-gray-500 rounded-full text-sm">+{firm.clients.length - 50} more</span>
