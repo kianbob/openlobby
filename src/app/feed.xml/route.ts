@@ -14,6 +14,11 @@ const investigations = [
   { slug: 'lobbying-vs-contracts', title: 'For Every $1 They Lobby, They Get $49,536 Back', desc: 'Cross-referenced lobbying with USASpending contract data. 21 contractors, $281M lobbying, $183.8B contracts.', date: '2026-02-24' },
   { slug: 'healthcare-3-billion-bet', title: "The Healthcare Lobby's $3 Billion Bet", desc: "Healthcare is the #1 lobbied issue. $3.7B spent lobbying on healthcare since 2018.", date: '2026-02-24' },
   { slug: 'seasonal-lobbying', title: "Washington's Busiest Quarter", desc: 'The hidden calendar of lobbying — Q4 is king with $9.9B in income.', date: '2026-02-24' },
+  { slug: 'the-22000-percent-roi', title: "The 22,000% ROI: How Lobbying Became America's Best Investment", desc: '93 firms spent $283M lobbying for a tax holiday and saved $62.5B.', date: '2026-02-24' },
+  { slug: 'first-time-filers-2024', title: 'First-Time Filers: Meet the Companies That Just Started Lobbying', desc: '6,997 organizations filed lobbying disclosures for the first time in 2025.', date: '2026-02-24' },
+  { slug: 'the-revolving-door-premium', title: 'The 369% Premium: Hard Proof That the Revolving Door Pays', desc: 'Firms with ex-government lobbyists earn 369% more revenue.', date: '2026-02-24' },
+  { slug: 'dc-lobbying-capital', title: "$27,000 Per Person: Why DC Is America's True Lobbying Capital", desc: 'DC has $27,105 in lobbying per capita — 89x the national average.', date: '2026-02-24' },
+  { slug: 'issue-arms-race', title: 'The Lobbying Arms Race: When Industries Go to War', desc: 'Healthcare + Medicare: 31,240 co-filings. The permanent battlegrounds.', date: '2026-02-24' },
 ]
 
 const analysisPages = [

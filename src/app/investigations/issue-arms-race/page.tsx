@@ -1,4 +1,5 @@
-import { Metadata } from 'next'
+'use client'
+
 import Link from 'next/link'
 import dynamic from 'next/dynamic'
 import Breadcrumbs from '@/components/Breadcrumbs'
@@ -11,7 +12,8 @@ const YAxis = dynamic(() => import('recharts').then(m => m.YAxis), { ssr: false 
 const Tooltip = dynamic(() => import('recharts').then(m => m.Tooltip), { ssr: false })
 const ResponsiveContainer = dynamic(() => import('recharts').then(m => m.ResponsiveContainer), { ssr: false })
 
-export const metadata: Metadata = {
+/* metadata moved to layout.tsx for SEO
+export const metadata = {
   title: 'The Lobbying Arms Race: When Industries Go to War Over the Same Issues — OpenLobby',
   description: 'Healthcare + Medicare: 31,240 co-filings. Budget + Defense: 23,981. We mapped the lobbying battlegrounds where opposing industries collide on the same issues.',
   openGraph: {
@@ -21,6 +23,7 @@ export const metadata: Metadata = {
     type: 'article',
   },
 }
+*/
 
 const issueNames: Record<string, string> = {
   HCR: 'Healthcare', MMM: 'Medicare/Medicaid', BUD: 'Budget', DEF: 'Defense',
@@ -121,9 +124,9 @@ export default function Page() {
           <div className="bg-gray-50 rounded-xl p-4" style={{ height: 420 }}>
             <ResponsiveContainer width="100%" height="100%">
               <BarChart data={pairChart} layout="vertical" margin={{ left: 40 }}>
-                <XAxis type="number" tickFormatter={(v: number) => v.toLocaleString()} />
+                <XAxis type="number" tickFormatter={(v: any) => v.toLocaleString()} />
                 <YAxis type="category" dataKey="name" width={170} tick={{ fontSize: 12 }} />
-                <Tooltip formatter={(v: number) => [v.toLocaleString(), 'Co-filings']} />
+                <Tooltip formatter={(v: any) => [v.toLocaleString(), 'Co-filings']} />
                 <Bar dataKey="filings" fill="#ef4444" radius={[0, 4, 4, 0]} />
               </BarChart>
             </ResponsiveContainer>

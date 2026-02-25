@@ -113,6 +113,41 @@ const investigations = [
     tag: 'Analysis',
     date: 'Feb 2026',
   },
+  {
+    slug: 'the-22000-percent-roi',
+    title: 'The 22,000% ROI: How Lobbying Became America\'s Best Investment',
+    desc: '93 firms spent $283M lobbying for a tax holiday and saved $62.5B. Academic research meets our data on 650K+ filings.',
+    tag: 'Analysis',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'first-time-filers-2024',
+    title: 'First-Time Filers: Meet the Companies That Just Started Lobbying Washington',
+    desc: '6,997 organizations filed lobbying disclosures for the first time in 2025 — from AI startups to infant formula makers.',
+    tag: 'New Entrants',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'the-revolving-door-premium',
+    title: 'The 369% Premium: Hard Proof That the Revolving Door Pays',
+    desc: 'Firms with ex-government lobbyists earn 369% more revenue and have 4.9x more clients. We quantified it.',
+    tag: 'Revolving Door',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'dc-lobbying-capital',
+    title: '$27,000 Per Person: Why DC Is America\'s True Lobbying Capital',
+    desc: 'DC has $27,105 in lobbying per capita — 89x the national average. We mapped the geography of influence.',
+    tag: 'Geography',
+    date: 'Feb 2026',
+  },
+  {
+    slug: 'issue-arms-race',
+    title: 'The Lobbying Arms Race: When Industries Go to War Over the Same Issues',
+    desc: 'Healthcare + Medicare: 31,240 co-filings. When one side lobbies, opponents respond. The permanent battlegrounds.',
+    tag: 'Issues',
+    date: 'Feb 2026',
+  },
 ]
 
 const tagColors: Record<string, string> = {
@@ -129,6 +164,9 @@ const tagColors: Record<string, string> = {
   Reference: 'bg-gray-100 text-gray-700',
   Guide: 'bg-gray-100 text-gray-700',
   Healthcare: 'bg-emerald-100 text-emerald-800',
+  'New Entrants': 'bg-yellow-100 text-yellow-800',
+  Geography: 'bg-purple-100 text-purple-800',
+  Issues: 'bg-red-100 text-red-800',
 }
 
 export default function InvestigationsPage() {

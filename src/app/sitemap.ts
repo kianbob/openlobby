@@ -8,7 +8,8 @@ const investigations = [
   'defense-contractor-lobbying', 'crypto-lobbying-explosion',
   'ai-regulation-fight', 'tariff-lobbying-surge', 'lobbying-statistics',
   'what-is-lobbying', 'lobbying-vs-contracts', 'healthcare-3-billion-bet',
-  'seasonal-lobbying',
+  'seasonal-lobbying', 'the-22000-percent-roi', 'first-time-filers-2024',
+  'the-revolving-door-premium', 'dc-lobbying-capital', 'issue-arms-race',
 ]
 
 export default function sitemap(): MetadataRoute.Sitemap {
