@@ -404,6 +404,36 @@ export default function Page() {
           </Link>
         </div>
       </div>
+
+      <section className="mt-10 mb-8 not-prose">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/investigations/tech-lobbying-war" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💻 Big Tech's Lobbying War</div>
+          </Link>
+          <Link href="/investigations/tariff-lobbying-surge" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📦 The 2025 Tariff Panic</div>
+          </Link>
+          <Link href="/investigations/healthcare-3-billion-bet" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🏥 Healthcare's $3B Bet</div>
+          </Link>
+        </div>
+      </section>
+
+      <section className="mt-10 mb-8 not-prose">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Data</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/issues" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📋 All Issue Areas</div>
+          </Link>
+          <Link href="/momentum" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🚀 Spending Momentum</div>
+          </Link>
+          <Link href="/issue-battles" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">⚔️ Issue Battles</div>
+          </Link>
+        </div>
+      </section>
     </div>
   )
 }

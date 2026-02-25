@@ -283,6 +283,36 @@ export default function TariffLobbyingSurgePage() {
         ]}
         lastUpdated="February 2026"
       />
+
+      <section className="mt-10 mb-8 not-prose">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/investigations/foreign-influence" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🌍 Foreign Influence</div>
+          </Link>
+          <Link href="/investigations/seasonal-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📅 Seasonal Lobbying</div>
+          </Link>
+          <Link href="/investigations/issue-arms-race" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">⚔️ The Issue Arms Race</div>
+          </Link>
+        </div>
+      </section>
+
+      <section className="mt-10 mb-8 not-prose">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Data</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/issues/TRD" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📋 Trade Issues Data</div>
+          </Link>
+          <Link href="/momentum" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🚀 Spending Momentum</div>
+          </Link>
+          <Link href="/clients" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">👤 Top Clients</div>
+          </Link>
+        </div>
+      </section>
     </div>
   )
 }

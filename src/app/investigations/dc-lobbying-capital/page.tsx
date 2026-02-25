@@ -330,6 +330,36 @@ export default function Page() {
           </Link>
         </div>
       </div>
+
+      <section className="mt-10 mb-8 not-prose">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/investigations/revolving-door-exposed" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🚪 The Revolving Door Exposed</div>
+          </Link>
+          <Link href="/investigations/follow-the-money" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💰 Follow the Money</div>
+          </Link>
+          <Link href="/investigations/the-revolving-door-premium" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💵 The Revolving Door Premium</div>
+          </Link>
+        </div>
+      </section>
+
+      <section className="mt-10 mb-8 not-prose">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Data</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/geographic" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🗺️ Geographic Analysis</div>
+          </Link>
+          <Link href="/states/DC" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🏛️ Washington DC Data</div>
+          </Link>
+          <Link href="/network" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🕸️ Network Analysis</div>
+          </Link>
+        </div>
+      </section>
     </div>
   )
 }
