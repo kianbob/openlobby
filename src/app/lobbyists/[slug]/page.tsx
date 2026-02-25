@@ -75,7 +75,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!d) return { title: 'Lobbyist Not Found' }
   return {
     title: `${toTitleCase(d.name)} — Lobbyist Profile`,
-    description: `${toTitleCase(d.name)} has appeared in ${formatNumber(d.totalFilings)} federal lobbying filings.${d.revolvingDoor ? ' Former government official.' : ''}`,
+    description: `${toTitleCase(d.name)} has appeared in ${formatNumber((d as any).totalFilings || (d as any).filings || 0)} federal lobbying filings.${(d as any).revolvingDoor ? ' Former government official.' : ''}`,
   }
 }
 
@@ -90,10 +90,26 @@ export const dynamicParams = true
 
 export default async function LobbyistDetailPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const d = getData(slug)
+  const raw = getData(slug)
 
-  if (!d) {
+  if (!raw) {
     notFound()
+  }
+
+  // Normalize both old and new data formats
+  const d: LobbyistData = {
+    id: (raw as any).id || 0,
+    name: raw.name,
+    slug: raw.slug || slug,
+    revolvingDoor: (raw as any).revolvingDoor || ((raw as any).positions?.length > 0) || false,
+    governmentPositions: (raw as any).governmentPositions || (raw as any).positions || [],
+    totalFilings: (raw as any).totalFilings || (raw as any).filings || 0,
+    yearlyActivity: (raw as any).yearlyActivity || [],
+    topClients: (raw as any).topClients || ((raw as any).clients || []).map((c: string) => ({ name: c, filings: 0 })),
+    firms: Array.isArray(raw.firms) && typeof raw.firms[0] === 'string'
+      ? (raw.firms as unknown as string[]).map((f: string) => ({ name: f, filings: 0 }))
+      : raw.firms || [],
+    issues: raw.issues || [],
   }
 
   return (
