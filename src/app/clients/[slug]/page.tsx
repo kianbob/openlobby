@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import { notFound } from 'next/navigation'
 import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
@@ -187,16 +188,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
   const client = getClient(slug)
 
   if (!client) {
-    return (
-      <div className="max-w-4xl mx-auto px-4 py-16 text-center">
-        <h1 className="text-3xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Client Not Found</h1>
-        <p className="text-gray-600 mb-6">This client is not in our top profiles.</p>
-        <div className="flex justify-center gap-3">
-          <Link href="/clients" className="px-4 py-2 bg-primary text-white rounded-lg text-sm hover:bg-primary-dark transition-colors">Browse All Clients →</Link>
-          <Link href="/search" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-gray-200 transition-colors">Search →</Link>
-        </div>
-      </div>
-    )
+    notFound()
   }
 
   // Normalize field names — generated files may use alternate keys

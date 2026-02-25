@@ -151,7 +151,7 @@ export default function Page() {
         <p>
           Trade associations — the American Hospital Association, the National Association of Realtors, PhRMA,
           the Business Roundtable — locate in DC specifically to be near the policymakers they exist to influence.
-          The <Link href="/clients/chamber-of-commerce-of-the-u-s-a" className="text-indigo-600 hover:underline">US Chamber of Commerce</Link>, our #1 spender at $591.9 million, is literally across the street from the
+          The <Link href="/clients/u-s-chamber-of-commerce-fka-u-s-chamber-of-commerce-institute-for-legal-reform" className="text-indigo-600 hover:underline">US Chamber of Commerce</Link>, our #1 spender at $591.9 million, is literally across the street from the
           White House.
         </p>
 

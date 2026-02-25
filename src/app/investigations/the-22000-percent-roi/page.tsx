@@ -14,7 +14,7 @@ const ResponsiveContainer = dynamic(() => import('recharts').then(m => m.Respons
 
 
 const topSpenders = [
-  { name: 'US Chamber', total: 591.9, trajectory: 'Growing (+46%)', slug: 'chamber-of-commerce-of-the-u-s-a' },
+  { name: 'US Chamber', total: 591.9, trajectory: 'Growing (+46%)', slug: 'u-s-chamber-of-commerce-fka-u-s-chamber-of-commerce-institute-for-legal-reform' },
   { name: 'NAR', total: 516.7, trajectory: 'Stable', slug: 'national-association-of-realtors' },
   { name: 'PhRMA', total: 213.2, trajectory: 'Growing (+38%)', slug: 'pharmaceutical-research-manufacturers-of-america-phrma' },
   { name: 'Business Roundtable', total: 198.2, trajectory: 'Growing (+84%)', slug: 'business-roundtable' },
@@ -161,7 +161,7 @@ export default function Page() {
         </div>
 
         <p>
-          The <strong><Link href="/clients/chamber-of-commerce-of-the-u-s-a" className="text-indigo-600 hover:underline">US Chamber of Commerce</Link></strong> leads at $591.9 million — nearly $600 million spent
+          The <strong><Link href="/clients/u-s-chamber-of-commerce-fka-u-s-chamber-of-commerce-institute-for-legal-reform" className="text-indigo-600 hover:underline">US Chamber of Commerce</Link></strong> leads at $591.9 million — nearly $600 million spent
           lobbying over just eight years. That sounds like a lot until you consider what they&apos;re protecting:
           their 300,000+ member companies collectively represent trillions in annual revenue. Even a marginal
           regulatory change — a delayed EPA rule, a tweaked tax provision — can be worth billions to those members.

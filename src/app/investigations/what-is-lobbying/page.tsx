@@ -48,7 +48,7 @@ export default function WhatIsLobbyingPage() {
           <li><strong>Tech giants</strong> — Shaping AI, privacy, and antitrust policy (<Link href="/investigations/tech-lobbying-war" className="text-indigo-600 hover:underline">see our investigation</Link>)</li>
           <li><strong>Defense contractors</strong> — Securing military contracts and procurement</li>
           <li><strong>Financial institutions</strong> — Banking regulation, cryptocurrency policy</li>
-          <li><strong>Trade associations</strong> — Groups like the <Link href="/clients/chamber-of-commerce-of-the-u-s-a" className="text-indigo-600 hover:underline">U.S. Chamber of Commerce</Link>, <Link href="/clients/pharmaceutical-research-manufacturers-of-america-phrma" className="text-indigo-600 hover:underline">PhRMA</Link>, and the American Medical Association</li>
+          <li><strong>Trade associations</strong> — Groups like the <Link href="/clients/u-s-chamber-of-commerce-fka-u-s-chamber-of-commerce-institute-for-legal-reform" className="text-indigo-600 hover:underline">U.S. Chamber of Commerce</Link>, <Link href="/clients/pharmaceutical-research-and-manufacturers-of-america-phrma" className="text-indigo-600 hover:underline">PhRMA</Link>, and the American Medical Association</li>
           <li><strong>Foreign governments</strong> — Yes, foreign countries lobby Congress too (<Link href="/investigations/foreign-influence" className="text-indigo-600 hover:underline">see our investigation</Link>)</li>
         </ul>
 
