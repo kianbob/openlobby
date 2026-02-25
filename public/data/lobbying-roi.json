@@ -1,0 +1,1035 @@
+{
+  "totalMatches": 14,
+  "totalLobbyingSpend": 20860000,
+  "totalContractValue": 55280421704,
+  "averageROI": 2762,
+  "topByROI": [
+    {
+      "clientName": "MCKESSON CORPORATION",
+      "clientId": 198552,
+      "lobbyingSpend": 1450000,
+      "contractAmount": 11870431649,
+      "roi": 8187,
+      "state": "CA",
+      "issues": [
+        "MMM"
+      ],
+      "filings": 29,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "BOOZ ALLEN HAMILTON INC.",
+      "clientId": 114871,
+      "lobbyingSpend": 1150000,
+      "contractAmount": 6563770954,
+      "roi": 5708,
+      "state": "VA",
+      "issues": [
+        "DEF",
+        "BUD",
+        "GOV",
+        "VET",
+        "INT",
+        "CPI",
+        "HOM"
+      ],
+      "filings": 23,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "RTX CORPORATION",
+      "clientId": 184921,
+      "lobbyingSpend": 1670000,
+      "contractAmount": 7280700848,
+      "roi": 4360,
+      "state": "DC",
+      "issues": [
+        "HOU",
+        "BUD",
+        "AVI",
+        "TRD",
+        "LBR",
+        "DEF",
+        "FOR",
+        "AER",
+        "TRA",
+        "TEC"
+      ],
+      "filings": 26,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "HUNTINGTON INGALLS INCORPORATED",
+      "clientId": 192166,
+      "lobbyingSpend": 1690000,
+      "contractAmount": 4370166805,
+      "roi": 2586,
+      "state": "VA",
+      "issues": [
+        "BUD",
+        "DEF",
+        "GOV",
+        "LBR"
+      ],
+      "filings": 26,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "ACCENTURE FEDERAL SERVICES",
+      "clientId": 209948,
+      "lobbyingSpend": 1280000,
+      "contractAmount": 3235465824,
+      "roi": 2528,
+      "state": "VA",
+      "issues": [
+        "HCR",
+        "MMM",
+        "BUD"
+      ],
+      "filings": 16,
+      "years": [
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "LOCKHEED MARTIN CORPORATION",
+      "clientId": 196195,
+      "lobbyingSpend": 1150000,
+      "contractAmount": 2538798064,
+      "roi": 2208,
+      "state": "MD",
+      "issues": [
+        "DEF",
+        "BUD",
+        "TAX"
+      ],
+      "filings": 23,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+      "clientId": 176892,
+      "lobbyingSpend": 1140000,
+      "contractAmount": 2359804109,
+      "roi": 2070,
+      "state": "MD",
+      "issues": [
+        "AER",
+        "BUD",
+        "SCI",
+        "DEF"
+      ],
+      "filings": 17,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "clientName": "LOCKHEED MARTIN CORPORATION",
+      "clientId": 148723,
+      "lobbyingSpend": 1270000,
+      "contractAmount": 2538798064,
+      "roi": 1999,
+      "state": "VA",
+      "issues": [
+        "DEF",
+        "TAX",
+        "SCI",
+        "AER"
+      ],
+      "filings": 21,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024
+      ]
+    },
+    {
+      "clientName": "BAE SYSTEMS LAND & ARMAMENTS LP",
+      "clientId": 190655,
+      "lobbyingSpend": 1140000,
+      "contractAmount": 2164547913,
+      "roi": 1899,
+      "state": "VA",
+      "issues": [
+        "DEF"
+      ],
+      "filings": 24,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 185448,
+      "lobbyingSpend": 1340000,
+      "contractAmount": 2353691942,
+      "roi": 1756,
+      "state": "VA",
+      "issues": [
+        "TRD",
+        "DEF",
+        "HCR",
+        "AVI",
+        "FIN",
+        "TAX",
+        "FOR"
+      ],
+      "filings": 23,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 168000,
+      "lobbyingSpend": 1540000,
+      "contractAmount": 2353691942,
+      "roi": 1528,
+      "state": "DC",
+      "issues": [
+        "FOR",
+        "DEF",
+        "AER",
+        "BUD",
+        "HOM",
+        "AVI",
+        "TRD"
+      ],
+      "filings": 21,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+      "clientId": 129637,
+      "lobbyingSpend": 1690000,
+      "contractAmount": 2297053488,
+      "roi": 1359,
+      "state": "CA",
+      "issues": [
+        "EDU",
+        "SCI",
+        "TAX",
+        "DEF",
+        "BUD",
+        "IMM",
+        "CPT",
+        "HCR",
+        "DIS"
+      ],
+      "filings": 27,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 195127,
+      "lobbyingSpend": 1800000,
+      "contractAmount": 2353691942,
+      "roi": 1308,
+      "state": "VA",
+      "issues": [
+        "TRD",
+        "DEF"
+      ],
+      "filings": 27,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+      "clientId": 184854,
+      "lobbyingSpend": 2550000,
+      "contractAmount": 2999808160,
+      "roi": 1176,
+      "state": "DC",
+      "issues": [
+        "TRA",
+        "DEF",
+        "AER",
+        "TEC",
+        "TRD",
+        "CSP"
+      ],
+      "filings": 29,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    }
+  ],
+  "topByContractValue": [
+    {
+      "clientName": "MCKESSON CORPORATION",
+      "clientId": 198552,
+      "lobbyingSpend": 1450000,
+      "contractAmount": 11870431649,
+      "roi": 8187,
+      "state": "CA",
+      "issues": [
+        "MMM"
+      ],
+      "filings": 29,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "RTX CORPORATION",
+      "clientId": 184921,
+      "lobbyingSpend": 1670000,
+      "contractAmount": 7280700848,
+      "roi": 4360,
+      "state": "DC",
+      "issues": [
+        "HOU",
+        "BUD",
+        "AVI",
+        "TRD",
+        "LBR",
+        "DEF",
+        "FOR",
+        "AER",
+        "TRA",
+        "TEC"
+      ],
+      "filings": 26,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "BOOZ ALLEN HAMILTON INC.",
+      "clientId": 114871,
+      "lobbyingSpend": 1150000,
+      "contractAmount": 6563770954,
+      "roi": 5708,
+      "state": "VA",
+      "issues": [
+        "DEF",
+        "BUD",
+        "GOV",
+        "VET",
+        "INT",
+        "CPI",
+        "HOM"
+      ],
+      "filings": 23,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "HUNTINGTON INGALLS INCORPORATED",
+      "clientId": 192166,
+      "lobbyingSpend": 1690000,
+      "contractAmount": 4370166805,
+      "roi": 2586,
+      "state": "VA",
+      "issues": [
+        "BUD",
+        "DEF",
+        "GOV",
+        "LBR"
+      ],
+      "filings": 26,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "ACCENTURE FEDERAL SERVICES",
+      "clientId": 209948,
+      "lobbyingSpend": 1280000,
+      "contractAmount": 3235465824,
+      "roi": 2528,
+      "state": "VA",
+      "issues": [
+        "HCR",
+        "MMM",
+        "BUD"
+      ],
+      "filings": 16,
+      "years": [
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+      "clientId": 184854,
+      "lobbyingSpend": 2550000,
+      "contractAmount": 2999808160,
+      "roi": 1176,
+      "state": "DC",
+      "issues": [
+        "TRA",
+        "DEF",
+        "AER",
+        "TEC",
+        "TRD",
+        "CSP"
+      ],
+      "filings": 29,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "LOCKHEED MARTIN CORPORATION",
+      "clientId": 196195,
+      "lobbyingSpend": 1150000,
+      "contractAmount": 2538798064,
+      "roi": 2208,
+      "state": "MD",
+      "issues": [
+        "DEF",
+        "BUD",
+        "TAX"
+      ],
+      "filings": 23,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "LOCKHEED MARTIN CORPORATION",
+      "clientId": 148723,
+      "lobbyingSpend": 1270000,
+      "contractAmount": 2538798064,
+      "roi": 1999,
+      "state": "VA",
+      "issues": [
+        "DEF",
+        "TAX",
+        "SCI",
+        "AER"
+      ],
+      "filings": 21,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024
+      ]
+    },
+    {
+      "clientName": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+      "clientId": 176892,
+      "lobbyingSpend": 1140000,
+      "contractAmount": 2359804109,
+      "roi": 2070,
+      "state": "MD",
+      "issues": [
+        "AER",
+        "BUD",
+        "SCI",
+        "DEF"
+      ],
+      "filings": 17,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 185448,
+      "lobbyingSpend": 1340000,
+      "contractAmount": 2353691942,
+      "roi": 1756,
+      "state": "VA",
+      "issues": [
+        "TRD",
+        "DEF",
+        "HCR",
+        "AVI",
+        "FIN",
+        "TAX",
+        "FOR"
+      ],
+      "filings": 23,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 168000,
+      "lobbyingSpend": 1540000,
+      "contractAmount": 2353691942,
+      "roi": 1528,
+      "state": "DC",
+      "issues": [
+        "FOR",
+        "DEF",
+        "AER",
+        "BUD",
+        "HOM",
+        "AVI",
+        "TRD"
+      ],
+      "filings": 21,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 195127,
+      "lobbyingSpend": 1800000,
+      "contractAmount": 2353691942,
+      "roi": 1308,
+      "state": "VA",
+      "issues": [
+        "TRD",
+        "DEF"
+      ],
+      "filings": 27,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+      "clientId": 129637,
+      "lobbyingSpend": 1690000,
+      "contractAmount": 2297053488,
+      "roi": 1359,
+      "state": "CA",
+      "issues": [
+        "EDU",
+        "SCI",
+        "TAX",
+        "DEF",
+        "BUD",
+        "IMM",
+        "CPT",
+        "HCR",
+        "DIS"
+      ],
+      "filings": 27,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "BAE SYSTEMS LAND & ARMAMENTS LP",
+      "clientId": 190655,
+      "lobbyingSpend": 1140000,
+      "contractAmount": 2164547913,
+      "roi": 1899,
+      "state": "VA",
+      "issues": [
+        "DEF"
+      ],
+      "filings": 24,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    }
+  ],
+  "topByLobbyingSpend": [
+    {
+      "clientName": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+      "clientId": 184854,
+      "lobbyingSpend": 2550000,
+      "contractAmount": 2999808160,
+      "roi": 1176,
+      "state": "DC",
+      "issues": [
+        "TRA",
+        "DEF",
+        "AER",
+        "TEC",
+        "TRD",
+        "CSP"
+      ],
+      "filings": 29,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 195127,
+      "lobbyingSpend": 1800000,
+      "contractAmount": 2353691942,
+      "roi": 1308,
+      "state": "VA",
+      "issues": [
+        "TRD",
+        "DEF"
+      ],
+      "filings": 27,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "HUNTINGTON INGALLS INCORPORATED",
+      "clientId": 192166,
+      "lobbyingSpend": 1690000,
+      "contractAmount": 4370166805,
+      "roi": 2586,
+      "state": "VA",
+      "issues": [
+        "BUD",
+        "DEF",
+        "GOV",
+        "LBR"
+      ],
+      "filings": 26,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+      "clientId": 129637,
+      "lobbyingSpend": 1690000,
+      "contractAmount": 2297053488,
+      "roi": 1359,
+      "state": "CA",
+      "issues": [
+        "EDU",
+        "SCI",
+        "TAX",
+        "DEF",
+        "BUD",
+        "IMM",
+        "CPT",
+        "HCR",
+        "DIS"
+      ],
+      "filings": 27,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "RTX CORPORATION",
+      "clientId": 184921,
+      "lobbyingSpend": 1670000,
+      "contractAmount": 7280700848,
+      "roi": 4360,
+      "state": "DC",
+      "issues": [
+        "HOU",
+        "BUD",
+        "AVI",
+        "TRD",
+        "LBR",
+        "DEF",
+        "FOR",
+        "AER",
+        "TRA",
+        "TEC"
+      ],
+      "filings": 26,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 168000,
+      "lobbyingSpend": 1540000,
+      "contractAmount": 2353691942,
+      "roi": 1528,
+      "state": "DC",
+      "issues": [
+        "FOR",
+        "DEF",
+        "AER",
+        "BUD",
+        "HOM",
+        "AVI",
+        "TRD"
+      ],
+      "filings": 21,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "MCKESSON CORPORATION",
+      "clientId": 198552,
+      "lobbyingSpend": 1450000,
+      "contractAmount": 11870431649,
+      "roi": 8187,
+      "state": "CA",
+      "issues": [
+        "MMM"
+      ],
+      "filings": 29,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 185448,
+      "lobbyingSpend": 1340000,
+      "contractAmount": 2353691942,
+      "roi": 1756,
+      "state": "VA",
+      "issues": [
+        "TRD",
+        "DEF",
+        "HCR",
+        "AVI",
+        "FIN",
+        "TAX",
+        "FOR"
+      ],
+      "filings": 23,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024
+      ]
+    },
+    {
+      "clientName": "ACCENTURE FEDERAL SERVICES",
+      "clientId": 209948,
+      "lobbyingSpend": 1280000,
+      "contractAmount": 3235465824,
+      "roi": 2528,
+      "state": "VA",
+      "issues": [
+        "HCR",
+        "MMM",
+        "BUD"
+      ],
+      "filings": 16,
+      "years": [
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "LOCKHEED MARTIN CORPORATION",
+      "clientId": 148723,
+      "lobbyingSpend": 1270000,
+      "contractAmount": 2538798064,
+      "roi": 1999,
+      "state": "VA",
+      "issues": [
+        "DEF",
+        "TAX",
+        "SCI",
+        "AER"
+      ],
+      "filings": 21,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024
+      ]
+    },
+    {
+      "clientName": "BOOZ ALLEN HAMILTON INC.",
+      "clientId": 114871,
+      "lobbyingSpend": 1150000,
+      "contractAmount": 6563770954,
+      "roi": 5708,
+      "state": "VA",
+      "issues": [
+        "DEF",
+        "BUD",
+        "GOV",
+        "VET",
+        "INT",
+        "CPI",
+        "HOM"
+      ],
+      "filings": 23,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "LOCKHEED MARTIN CORPORATION",
+      "clientId": 196195,
+      "lobbyingSpend": 1150000,
+      "contractAmount": 2538798064,
+      "roi": 2208,
+      "state": "MD",
+      "issues": [
+        "DEF",
+        "BUD",
+        "TAX"
+      ],
+      "filings": 23,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+      "clientId": 176892,
+      "lobbyingSpend": 1140000,
+      "contractAmount": 2359804109,
+      "roi": 2070,
+      "state": "MD",
+      "issues": [
+        "AER",
+        "BUD",
+        "SCI",
+        "DEF"
+      ],
+      "filings": 17,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "clientName": "BAE SYSTEMS LAND & ARMAMENTS LP",
+      "clientId": 190655,
+      "lobbyingSpend": 1140000,
+      "contractAmount": 2164547913,
+      "roi": 1899,
+      "state": "VA",
+      "issues": [
+        "DEF"
+      ],
+      "filings": 24,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ]
+    }
+  ]
+}

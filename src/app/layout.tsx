@@ -36,9 +36,25 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
-        {/* Google Analytics — replace GA_ID with actual measurement ID */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=GA_ID" />
-        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','GA_ID');` }} />
+        {/* JSON-LD Structured Data */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Organization',
+          name: 'OpenLobby',
+          url: 'https://www.openlobby.us',
+          description: 'Independent data journalism about federal lobbying. Explore billions in lobbying spending from Senate LDA filings.',
+        }) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'WebSite',
+          name: 'OpenLobby',
+          url: 'https://www.openlobby.us',
+          potentialAction: {
+            '@type': 'SearchAction',
+            target: 'https://www.openlobby.us/search?q={search_term_string}',
+            'query-input': 'required name=search_term_string',
+          },
+        }) }} />
       </head>
       <body className="font-sans min-h-screen flex flex-col" style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
         <Navigation />

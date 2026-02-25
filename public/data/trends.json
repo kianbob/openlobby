@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "year": 2018,
+    "totalIncome": 1397919144.03,
+    "totalExpenses": 2376781215.4400005,
+    "filings": 66516,
+    "registrations": 2922
+  },
+  {
+    "year": 2019,
+    "totalIncome": 1466135614.88,
+    "totalExpenses": 2442592020.0400004,
+    "filings": 68815,
+    "registrations": 3001
+  },
+  {
+    "year": 2020,
+    "totalIncome": 1623722327.7100003,
+    "totalExpenses": 2536556325.38,
+    "filings": 75360,
+    "registrations": 3637
+  },
+  {
+    "year": 2021,
+    "totalIncome": 1755639126.6899998,
+    "totalExpenses": 2515250721.1100006,
+    "filings": 78650,
+    "registrations": 4284
+  },
+  {
+    "year": 2022,
+    "totalIncome": 2046988898.4199998,
+    "totalExpenses": 3027472474.689998,
+    "filings": 88232,
+    "registrations": 3705
+  },
+  {
+    "year": 2024,
+    "totalIncome": 1980946137.16,
+    "totalExpenses": 2807715822.8899994,
+    "filings": 82249,
+    "registrations": 3307
+  },
+  {
+    "year": 2025,
+    "totalIncome": 2702096346.87,
+    "totalExpenses": 3260635596.2399993,
+    "filings": 95275,
+    "registrations": 5709
+  }
+]

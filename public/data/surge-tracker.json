@@ -1,0 +1,5470 @@
+{
+  "latestQuarter": "2025-Q4",
+  "comparedTo": "2024-Q4",
+  "surging": [
+    {
+      "code": "CON",
+      "name": "Constitution",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 20901500,
+      "latestFilings": 47,
+      "prevYearIncome": 808500,
+      "prevYearFilings": 59,
+      "incomeChangePercent": 2485.2,
+      "filingsChangePercent": -20.3,
+      "newClients": 4,
+      "trend": "surging"
+    },
+    {
+      "code": "ACC",
+      "name": "Accounting",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 21320000,
+      "latestFilings": 76,
+      "prevYearIncome": 1761500,
+      "prevYearFilings": 68,
+      "incomeChangePercent": 1110.3,
+      "filingsChangePercent": 11.8,
+      "newClients": 8,
+      "trend": "surging"
+    },
+    {
+      "code": "CIV",
+      "name": "Civil Rights/Civil Liberties",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 21939000,
+      "latestFilings": 176,
+      "prevYearIncome": 2285710,
+      "prevYearFilings": 203,
+      "incomeChangePercent": 859.8,
+      "filingsChangePercent": -13.3,
+      "newClients": 9,
+      "trend": "surging"
+    },
+    {
+      "code": "TAR",
+      "name": "Tariffs",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 10729000,
+      "latestFilings": 370,
+      "prevYearIncome": 1623729,
+      "prevYearFilings": 119,
+      "incomeChangePercent": 560.8,
+      "filingsChangePercent": 210.9,
+      "newClients": 47,
+      "trend": "surging"
+    },
+    {
+      "code": "FIR",
+      "name": "Firearms/Guns/Ammunition",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2050500,
+      "latestFilings": 68,
+      "prevYearIncome": 700000,
+      "prevYearFilings": 61,
+      "incomeChangePercent": 192.9,
+      "filingsChangePercent": 11.5,
+      "newClients": 5,
+      "trend": "surging"
+    },
+    {
+      "code": "GOV",
+      "name": "Government Issues",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 46153472,
+      "latestFilings": 846,
+      "prevYearIncome": 16482050,
+      "prevYearFilings": 757,
+      "incomeChangePercent": 180,
+      "filingsChangePercent": 11.8,
+      "newClients": 65,
+      "trend": "surging"
+    },
+    {
+      "code": "TRD",
+      "name": "Trade (Domestic & Foreign)",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 80533646.13,
+      "latestFilings": 2266,
+      "prevYearIncome": 43213102.03,
+      "prevYearFilings": 1477,
+      "incomeChangePercent": 86.4,
+      "filingsChangePercent": 53.4,
+      "newClients": 151,
+      "trend": "surging"
+    },
+    {
+      "code": "SPO",
+      "name": "Sports/Athletics",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4454700,
+      "latestFilings": 173,
+      "prevYearIncome": 2417500,
+      "prevYearFilings": 121,
+      "incomeChangePercent": 84.3,
+      "filingsChangePercent": 43,
+      "newClients": 12,
+      "trend": "surging"
+    },
+    {
+      "code": "PHA",
+      "name": "Pharmacy/Drug Stores",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 12179484,
+      "latestFilings": 334,
+      "prevYearIncome": 7570500,
+      "prevYearFilings": 277,
+      "incomeChangePercent": 60.9,
+      "filingsChangePercent": 20.6,
+      "newClients": 10,
+      "trend": "surging"
+    },
+    {
+      "code": "TOB",
+      "name": "Tobacco",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4424500,
+      "latestFilings": 117,
+      "prevYearIncome": 2804500,
+      "prevYearFilings": 100,
+      "incomeChangePercent": 57.8,
+      "filingsChangePercent": 17,
+      "newClients": 6,
+      "trend": "surging"
+    },
+    {
+      "code": "RES",
+      "name": "Real Estate/Land Use/Conservation",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5303497,
+      "latestFilings": 212,
+      "prevYearIncome": 3393597,
+      "prevYearFilings": 166,
+      "incomeChangePercent": 56.3,
+      "filingsChangePercent": 27.7,
+      "newClients": 21,
+      "trend": "surging"
+    },
+    {
+      "code": "MON",
+      "name": "Minting/Money/Gold Standard",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 510000,
+      "latestFilings": 17,
+      "prevYearIncome": 330000,
+      "prevYearFilings": 9,
+      "incomeChangePercent": 54.5,
+      "filingsChangePercent": 88.9,
+      "newClients": 2,
+      "trend": "surging"
+    },
+    {
+      "code": "ALC",
+      "name": "Alcohol & Drug Abuse",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1187500,
+      "latestFilings": 59,
+      "prevYearIncome": 785000,
+      "prevYearFilings": 61,
+      "incomeChangePercent": 51.3,
+      "filingsChangePercent": -3.3,
+      "newClients": 7,
+      "trend": "surging"
+    }
+  ],
+  "growing": [
+    {
+      "code": "MAN",
+      "name": "Manufacturing",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 22759516,
+      "latestFilings": 680,
+      "prevYearIncome": 15681043,
+      "prevYearFilings": 534,
+      "incomeChangePercent": 45.1,
+      "filingsChangePercent": 27.3,
+      "newClients": 77,
+      "trend": "growing"
+    },
+    {
+      "code": "NAT",
+      "name": "Natural Resources",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 28383931,
+      "latestFilings": 1078,
+      "prevYearIncome": 19602349,
+      "prevYearFilings": 871,
+      "incomeChangePercent": 44.8,
+      "filingsChangePercent": 23.8,
+      "newClients": 93,
+      "trend": "growing"
+    },
+    {
+      "code": "DIS",
+      "name": "Disaster Planning/Emergencies",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 7820374,
+      "latestFilings": 318,
+      "prevYearIncome": 5407800,
+      "prevYearFilings": 291,
+      "incomeChangePercent": 44.6,
+      "filingsChangePercent": 9.3,
+      "newClients": 23,
+      "trend": "growing"
+    },
+    {
+      "code": "BEV",
+      "name": "Beverage Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2132500,
+      "latestFilings": 63,
+      "prevYearIncome": 1492500,
+      "prevYearFilings": 60,
+      "incomeChangePercent": 42.9,
+      "filingsChangePercent": 5,
+      "newClients": 7,
+      "trend": "growing"
+    },
+    {
+      "code": "FOR",
+      "name": "Foreign Relations",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 14017476.91,
+      "latestFilings": 468,
+      "prevYearIncome": 10095012,
+      "prevYearFilings": 426,
+      "incomeChangePercent": 38.9,
+      "filingsChangePercent": 9.9,
+      "newClients": 41,
+      "trend": "growing"
+    },
+    {
+      "code": "GAM",
+      "name": "Gaming/Gambling/Casino",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4186000,
+      "latestFilings": 103,
+      "prevYearIncome": 3015250,
+      "prevYearFilings": 90,
+      "incomeChangePercent": 38.8,
+      "filingsChangePercent": 14.4,
+      "newClients": 10,
+      "trend": "growing"
+    },
+    {
+      "code": "ADV",
+      "name": "Advertising",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 767000,
+      "latestFilings": 39,
+      "prevYearIncome": 555000,
+      "prevYearFilings": 29,
+      "incomeChangePercent": 38.2,
+      "filingsChangePercent": 34.5,
+      "newClients": 2,
+      "trend": "growing"
+    },
+    {
+      "code": "POS",
+      "name": "Postal",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2005000,
+      "latestFilings": 85,
+      "prevYearIncome": 1462500,
+      "prevYearFilings": 74,
+      "incomeChangePercent": 37.1,
+      "filingsChangePercent": 14.9,
+      "newClients": 5,
+      "trend": "growing"
+    },
+    {
+      "code": "CPI",
+      "name": "Computer Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 18440000,
+      "latestFilings": 487,
+      "prevYearIncome": 13565000,
+      "prevYearFilings": 397,
+      "incomeChangePercent": 35.9,
+      "filingsChangePercent": 22.7,
+      "newClients": 32,
+      "trend": "growing"
+    },
+    {
+      "code": "REL",
+      "name": "Religion",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 400000,
+      "latestFilings": 15,
+      "prevYearIncome": 295000,
+      "prevYearFilings": 17,
+      "incomeChangePercent": 35.6,
+      "filingsChangePercent": -11.8,
+      "newClients": 4,
+      "trend": "growing"
+    },
+    {
+      "code": "INT",
+      "name": "Intelligence",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 3669500,
+      "latestFilings": 134,
+      "prevYearIncome": 2738000,
+      "prevYearFilings": 125,
+      "incomeChangePercent": 34,
+      "filingsChangePercent": 7.2,
+      "newClients": 13,
+      "trend": "growing"
+    },
+    {
+      "code": "HOU",
+      "name": "Housing",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 15611982,
+      "latestFilings": 574,
+      "prevYearIncome": 11761150,
+      "prevYearFilings": 502,
+      "incomeChangePercent": 32.7,
+      "filingsChangePercent": 14.3,
+      "newClients": 45,
+      "trend": "growing"
+    },
+    {
+      "code": "ENG",
+      "name": "Energy/Nuclear",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 65179104,
+      "latestFilings": 1886,
+      "prevYearIncome": 49216601,
+      "prevYearFilings": 1731,
+      "incomeChangePercent": 32.4,
+      "filingsChangePercent": 9,
+      "newClients": 95,
+      "trend": "growing"
+    },
+    {
+      "code": "DEF",
+      "name": "Defense",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 90140559,
+      "latestFilings": 2996,
+      "prevYearIncome": 68077576,
+      "prevYearFilings": 2542,
+      "incomeChangePercent": 32.4,
+      "filingsChangePercent": 17.9,
+      "newClients": 195,
+      "trend": "growing"
+    },
+    {
+      "code": "FOO",
+      "name": "Food Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 8759500,
+      "latestFilings": 334,
+      "prevYearIncome": 6645000,
+      "prevYearFilings": 273,
+      "incomeChangePercent": 31.8,
+      "filingsChangePercent": 22.3,
+      "newClients": 18,
+      "trend": "growing"
+    },
+    {
+      "code": "EDU",
+      "name": "Education",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 25647119,
+      "latestFilings": 1244,
+      "prevYearIncome": 20139648,
+      "prevYearFilings": 1155,
+      "incomeChangePercent": 27.3,
+      "filingsChangePercent": 7.7,
+      "newClients": 48,
+      "trend": "growing"
+    },
+    {
+      "code": "SCI",
+      "name": "Science/Technology",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 30029057,
+      "latestFilings": 967,
+      "prevYearIncome": 23722401,
+      "prevYearFilings": 854,
+      "incomeChangePercent": 26.6,
+      "filingsChangePercent": 13.2,
+      "newClients": 67,
+      "trend": "growing"
+    },
+    {
+      "code": "WEL",
+      "name": "Welfare",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1207786,
+      "latestFilings": 69,
+      "prevYearIncome": 955750,
+      "prevYearFilings": 58,
+      "incomeChangePercent": 26.4,
+      "filingsChangePercent": 19,
+      "newClients": 6,
+      "trend": "growing"
+    },
+    {
+      "code": "HCR",
+      "name": "Health Issues",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 113210436.77,
+      "latestFilings": 3594,
+      "prevYearIncome": 89764509.09,
+      "prevYearFilings": 3292,
+      "incomeChangePercent": 26.1,
+      "filingsChangePercent": 9.2,
+      "newClients": 155,
+      "trend": "growing"
+    },
+    {
+      "code": "ART",
+      "name": "Arts/Entertainment",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1853000,
+      "latestFilings": 72,
+      "prevYearIncome": 1469500,
+      "prevYearFilings": 72,
+      "incomeChangePercent": 26.1,
+      "filingsChangePercent": 0,
+      "newClients": 4,
+      "trend": "growing"
+    },
+    {
+      "code": "AUT",
+      "name": "Automotive Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 6886162,
+      "latestFilings": 219,
+      "prevYearIncome": 5461000,
+      "prevYearFilings": 198,
+      "incomeChangePercent": 26.1,
+      "filingsChangePercent": 10.6,
+      "newClients": 7,
+      "trend": "growing"
+    },
+    {
+      "code": "FIN",
+      "name": "Financial Institutions/Investments/Securities",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 43828003.13,
+      "latestFilings": 1219,
+      "prevYearIncome": 34957595.03,
+      "prevYearFilings": 1075,
+      "incomeChangePercent": 25.4,
+      "filingsChangePercent": 13.4,
+      "newClients": 59,
+      "trend": "growing"
+    },
+    {
+      "code": "UTI",
+      "name": "Utilities",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5883135,
+      "latestFilings": 186,
+      "prevYearIncome": 4721383,
+      "prevYearFilings": 175,
+      "incomeChangePercent": 24.6,
+      "filingsChangePercent": 6.3,
+      "newClients": 15,
+      "trend": "growing"
+    },
+    {
+      "code": "MED",
+      "name": "Media/Publishing",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 8395250,
+      "latestFilings": 324,
+      "prevYearIncome": 6787750,
+      "prevYearFilings": 292,
+      "incomeChangePercent": 23.7,
+      "filingsChangePercent": 11,
+      "newClients": 25,
+      "trend": "growing"
+    },
+    {
+      "code": "MMM",
+      "name": "Medicare/Medicaid",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 55507998.8,
+      "latestFilings": 1762,
+      "prevYearIncome": 44938670.96,
+      "prevYearFilings": 1540,
+      "incomeChangePercent": 23.5,
+      "filingsChangePercent": 14.4,
+      "newClients": 61,
+      "trend": "growing"
+    },
+    {
+      "code": "BAN",
+      "name": "Banking",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 20382729,
+      "latestFilings": 669,
+      "prevYearIncome": 16610724,
+      "prevYearFilings": 631,
+      "incomeChangePercent": 22.7,
+      "filingsChangePercent": 6,
+      "newClients": 30,
+      "trend": "growing"
+    },
+    {
+      "code": "MIA",
+      "name": "Medical/Disease Research/Clinical Labs",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1783900,
+      "latestFilings": 59,
+      "prevYearIncome": 1461250,
+      "prevYearFilings": 51,
+      "incomeChangePercent": 22.1,
+      "filingsChangePercent": 15.7,
+      "newClients": 2,
+      "trend": "growing"
+    },
+    {
+      "code": "CHM",
+      "name": "Chemicals/Chemical Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4620500,
+      "latestFilings": 166,
+      "prevYearIncome": 3825750,
+      "prevYearFilings": 168,
+      "incomeChangePercent": 20.8,
+      "filingsChangePercent": -1.2,
+      "newClients": 6,
+      "trend": "growing"
+    },
+    {
+      "code": "HOM",
+      "name": "Homeland Security",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 18398009,
+      "latestFilings": 709,
+      "prevYearIncome": 15278700,
+      "prevYearFilings": 636,
+      "incomeChangePercent": 20.4,
+      "filingsChangePercent": 11.5,
+      "newClients": 54,
+      "trend": "growing"
+    },
+    {
+      "code": "TOU",
+      "name": "Travel/Tourism",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 3897500,
+      "latestFilings": 121,
+      "prevYearIncome": 3251000,
+      "prevYearFilings": 110,
+      "incomeChangePercent": 19.9,
+      "filingsChangePercent": 10,
+      "newClients": 11,
+      "trend": "growing"
+    },
+    {
+      "code": "TAX",
+      "name": "Taxation/Internal Revenue Code",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 106672866,
+      "latestFilings": 3208,
+      "prevYearIncome": 90242801,
+      "prevYearFilings": 3073,
+      "incomeChangePercent": 18.2,
+      "filingsChangePercent": 4.4,
+      "newClients": 63,
+      "trend": "growing"
+    },
+    {
+      "code": "MAR",
+      "name": "Marine/Maritime/Boating/Fisheries",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 9697281,
+      "latestFilings": 391,
+      "prevYearIncome": 8244149,
+      "prevYearFilings": 369,
+      "incomeChangePercent": 17.6,
+      "filingsChangePercent": 6,
+      "newClients": 19,
+      "trend": "growing"
+    },
+    {
+      "code": "SMB",
+      "name": "Small Business",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 6112319,
+      "latestFilings": 299,
+      "prevYearIncome": 5202829,
+      "prevYearFilings": 283,
+      "incomeChangePercent": 17.5,
+      "filingsChangePercent": 5.7,
+      "newClients": 19,
+      "trend": "growing"
+    },
+    {
+      "code": "CDT",
+      "name": "Commodities",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1220000,
+      "latestFilings": 44,
+      "prevYearIncome": 1045000,
+      "prevYearFilings": 40,
+      "incomeChangePercent": 16.7,
+      "filingsChangePercent": 10,
+      "newClients": 4,
+      "trend": "growing"
+    },
+    {
+      "code": "RRR",
+      "name": "RRR",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4334000,
+      "latestFilings": 147,
+      "prevYearIncome": 3723480,
+      "prevYearFilings": 136,
+      "incomeChangePercent": 16.4,
+      "filingsChangePercent": 8.1,
+      "newClients": 3,
+      "trend": "growing"
+    },
+    {
+      "code": "TRA",
+      "name": "Transportation",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 42228702,
+      "latestFilings": 1749,
+      "prevYearIncome": 36397723,
+      "prevYearFilings": 1694,
+      "incomeChangePercent": 16,
+      "filingsChangePercent": 3.2,
+      "newClients": 84,
+      "trend": "growing"
+    },
+    {
+      "code": "VET",
+      "name": "Veterans",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 11821370,
+      "latestFilings": 442,
+      "prevYearIncome": 10292300,
+      "prevYearFilings": 434,
+      "incomeChangePercent": 14.9,
+      "filingsChangePercent": 1.8,
+      "newClients": 24,
+      "trend": "growing"
+    },
+    {
+      "code": "IMM",
+      "name": "Immigration",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 9685170,
+      "latestFilings": 498,
+      "prevYearIncome": 8426150,
+      "prevYearFilings": 460,
+      "incomeChangePercent": 14.9,
+      "filingsChangePercent": 8.3,
+      "newClients": 24,
+      "trend": "growing"
+    },
+    {
+      "code": "RET",
+      "name": "Retirement",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5251125,
+      "latestFilings": 251,
+      "prevYearIncome": 4580000,
+      "prevYearFilings": 248,
+      "incomeChangePercent": 14.7,
+      "filingsChangePercent": 1.2,
+      "newClients": 10,
+      "trend": "growing"
+    },
+    {
+      "code": "BUD",
+      "name": "Budget/Appropriations",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 135120200,
+      "latestFilings": 5467,
+      "prevYearIncome": 118323485.25999999,
+      "prevYearFilings": 5222,
+      "incomeChangePercent": 14.2,
+      "filingsChangePercent": 4.7,
+      "newClients": 203,
+      "trend": "growing"
+    },
+    {
+      "code": "AVI",
+      "name": "Aviation/Aircraft/Airlines",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 15763285,
+      "latestFilings": 561,
+      "prevYearIncome": 13892950,
+      "prevYearFilings": 525,
+      "incomeChangePercent": 13.5,
+      "filingsChangePercent": 6.9,
+      "newClients": 37,
+      "trend": "growing"
+    },
+    {
+      "code": "AER",
+      "name": "Aerospace",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5676000,
+      "latestFilings": 249,
+      "prevYearIncome": 5045701,
+      "prevYearFilings": 242,
+      "incomeChangePercent": 12.5,
+      "filingsChangePercent": 2.9,
+      "newClients": 26,
+      "trend": "growing"
+    },
+    {
+      "code": "ECN",
+      "name": "Economics/Economic Development",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 9652208,
+      "latestFilings": 403,
+      "prevYearIncome": 8610747,
+      "prevYearFilings": 426,
+      "incomeChangePercent": 12.1,
+      "filingsChangePercent": -5.4,
+      "newClients": 40,
+      "trend": "growing"
+    },
+    {
+      "code": "TOR",
+      "name": "Torts",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1279000,
+      "latestFilings": 65,
+      "prevYearIncome": 1149500,
+      "prevYearFilings": 62,
+      "incomeChangePercent": 11.3,
+      "filingsChangePercent": 4.8,
+      "newClients": 3,
+      "trend": "growing"
+    }
+  ],
+  "stable": [
+    {
+      "code": "IND",
+      "name": "Indian/Native American Affairs",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 10233169.780000001,
+      "latestFilings": 314,
+      "prevYearIncome": 9318833,
+      "prevYearFilings": 343,
+      "incomeChangePercent": 9.8,
+      "filingsChangePercent": -8.5,
+      "newClients": 6,
+      "trend": "stable"
+    },
+    {
+      "code": "CSP",
+      "name": "Consumer Issues/Safety/Products",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 16068838,
+      "latestFilings": 517,
+      "prevYearIncome": 14672979,
+      "prevYearFilings": 529,
+      "incomeChangePercent": 9.5,
+      "filingsChangePercent": -2.3,
+      "newClients": 24,
+      "trend": "stable"
+    },
+    {
+      "code": "ENV",
+      "name": "Environment/Superfund",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 31510370,
+      "latestFilings": 1187,
+      "prevYearIncome": 28874339,
+      "prevYearFilings": 1214,
+      "incomeChangePercent": 9.1,
+      "filingsChangePercent": -2.2,
+      "newClients": 53,
+      "trend": "stable"
+    },
+    {
+      "code": "TEC",
+      "name": "Telecommunications",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 24931050,
+      "latestFilings": 701,
+      "prevYearIncome": 23032300,
+      "prevYearFilings": 696,
+      "incomeChangePercent": 8.2,
+      "filingsChangePercent": 0.7,
+      "newClients": 19,
+      "trend": "stable"
+    },
+    {
+      "code": "URB",
+      "name": "Urban Development/Municipalities",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5927400,
+      "latestFilings": 276,
+      "prevYearIncome": 5499800,
+      "prevYearFilings": 281,
+      "incomeChangePercent": 7.8,
+      "filingsChangePercent": -1.8,
+      "newClients": 17,
+      "trend": "stable"
+    },
+    {
+      "code": "FUE",
+      "name": "Fuel/Gas/Oil",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 6435955,
+      "latestFilings": 193,
+      "prevYearIncome": 6087386,
+      "prevYearFilings": 203,
+      "incomeChangePercent": 5.7,
+      "filingsChangePercent": -4.9,
+      "newClients": 14,
+      "trend": "stable"
+    },
+    {
+      "code": "LAW",
+      "name": "Law Enforcement/Crime/Criminal Justice",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 10704875,
+      "latestFilings": 452,
+      "prevYearIncome": 10152936,
+      "prevYearFilings": 471,
+      "incomeChangePercent": 5.4,
+      "filingsChangePercent": -4,
+      "newClients": 34,
+      "trend": "stable"
+    },
+    {
+      "code": "AGR",
+      "name": "Agriculture",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 29663234,
+      "latestFilings": 1194,
+      "prevYearIncome": 28230160,
+      "prevYearFilings": 1194,
+      "incomeChangePercent": 5.1,
+      "filingsChangePercent": 0,
+      "newClients": 65,
+      "trend": "stable"
+    },
+    {
+      "code": "WAS",
+      "name": "Waste (Hazardous/Solid/Interstate/Nuclear)",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1110000,
+      "latestFilings": 53,
+      "prevYearIncome": 1058000,
+      "prevYearFilings": 55,
+      "incomeChangePercent": 4.9,
+      "filingsChangePercent": -3.6,
+      "newClients": 5,
+      "trend": "stable"
+    },
+    {
+      "code": "CPT",
+      "name": "Copyright/Patent/Trademark",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 13909154,
+      "latestFilings": 431,
+      "prevYearIncome": 13576954,
+      "prevYearFilings": 424,
+      "incomeChangePercent": 2.4,
+      "filingsChangePercent": 1.7,
+      "newClients": 12,
+      "trend": "stable"
+    },
+    {
+      "code": "ANI",
+      "name": "Animals",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2964750,
+      "latestFilings": 163,
+      "prevYearIncome": 2953000,
+      "prevYearFilings": 165,
+      "incomeChangePercent": 0.4,
+      "filingsChangePercent": -1.2,
+      "newClients": 7,
+      "trend": "stable"
+    },
+    {
+      "code": "LBR",
+      "name": "Labor Issues/Antitrust/Workplace",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 21455474,
+      "latestFilings": 935,
+      "prevYearIncome": 21366979,
+      "prevYearFilings": 954,
+      "incomeChangePercent": 0.4,
+      "filingsChangePercent": -2,
+      "newClients": 35,
+      "trend": "stable"
+    },
+    {
+      "code": "ROD",
+      "name": "Roads/Highway",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2260335,
+      "latestFilings": 107,
+      "prevYearIncome": 2263760,
+      "prevYearFilings": 107,
+      "incomeChangePercent": -0.2,
+      "filingsChangePercent": 0,
+      "newClients": 8,
+      "trend": "stable"
+    },
+    {
+      "code": "INS",
+      "name": "Insurance",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 7931227,
+      "latestFilings": 338,
+      "prevYearIncome": 7967750,
+      "prevYearFilings": 322,
+      "incomeChangePercent": -0.5,
+      "filingsChangePercent": 5,
+      "newClients": 11,
+      "trend": "stable"
+    },
+    {
+      "code": "FAM",
+      "name": "Family Issues/Abortion/Adoption",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 872386,
+      "latestFilings": 86,
+      "prevYearIncome": 878000,
+      "prevYearFilings": 90,
+      "incomeChangePercent": -0.6,
+      "filingsChangePercent": -4.4,
+      "newClients": 5,
+      "trend": "stable"
+    },
+    {
+      "code": "COM",
+      "name": "Communications/Broadcasting/Radio/TV",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 8202500,
+      "latestFilings": 255,
+      "prevYearIncome": 8263925,
+      "prevYearFilings": 272,
+      "incomeChangePercent": -0.7,
+      "filingsChangePercent": -6.2,
+      "newClients": 8,
+      "trend": "stable"
+    },
+    {
+      "code": "DOC",
+      "name": "District of Columbia",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 300000,
+      "latestFilings": 19,
+      "prevYearIncome": 310000,
+      "prevYearFilings": 12,
+      "incomeChangePercent": -3.2,
+      "filingsChangePercent": 58.3,
+      "newClients": 2,
+      "trend": "stable"
+    }
+  ],
+  "declining": [
+    {
+      "code": "CAW",
+      "name": "Clean Air & Water",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 7773525,
+      "latestFilings": 386,
+      "prevYearIncome": 8694150,
+      "prevYearFilings": 428,
+      "incomeChangePercent": -10.6,
+      "filingsChangePercent": -9.8,
+      "newClients": 16,
+      "trend": "declining"
+    },
+    {
+      "code": "TRU",
+      "name": "Trucking/Shipping",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1567000,
+      "latestFilings": 80,
+      "prevYearIncome": 1956000,
+      "prevYearFilings": 86,
+      "incomeChangePercent": -19.9,
+      "filingsChangePercent": -7,
+      "newClients": 3,
+      "trend": "declining"
+    },
+    {
+      "code": "UNM",
+      "name": "Unemployment",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 133750,
+      "latestFilings": 17,
+      "prevYearIncome": 182500,
+      "prevYearFilings": 21,
+      "incomeChangePercent": -26.7,
+      "filingsChangePercent": -19,
+      "newClients": 1,
+      "trend": "declining"
+    },
+    {
+      "code": "BNK",
+      "name": "BNK",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 575000,
+      "latestFilings": 20,
+      "prevYearIncome": 980000,
+      "prevYearFilings": 34,
+      "incomeChangePercent": -41.3,
+      "filingsChangePercent": -41.2,
+      "newClients": 1,
+      "trend": "declining"
+    },
+    {
+      "code": "APP",
+      "name": "Apparel/Clothing/Textiles",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 570000,
+      "latestFilings": 23,
+      "prevYearIncome": 975093,
+      "prevYearFilings": 29,
+      "incomeChangePercent": -41.5,
+      "filingsChangePercent": -20.7,
+      "newClients": 1,
+      "trend": "declining"
+    }
+  ],
+  "allIssues": [
+    {
+      "code": "CON",
+      "name": "Constitution",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 20901500,
+      "latestFilings": 47,
+      "prevYearIncome": 808500,
+      "prevYearFilings": 59,
+      "incomeChangePercent": 2485.2,
+      "filingsChangePercent": -20.3,
+      "newClients": 4,
+      "trend": "surging"
+    },
+    {
+      "code": "ACC",
+      "name": "Accounting",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 21320000,
+      "latestFilings": 76,
+      "prevYearIncome": 1761500,
+      "prevYearFilings": 68,
+      "incomeChangePercent": 1110.3,
+      "filingsChangePercent": 11.8,
+      "newClients": 8,
+      "trend": "surging"
+    },
+    {
+      "code": "CIV",
+      "name": "Civil Rights/Civil Liberties",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 21939000,
+      "latestFilings": 176,
+      "prevYearIncome": 2285710,
+      "prevYearFilings": 203,
+      "incomeChangePercent": 859.8,
+      "filingsChangePercent": -13.3,
+      "newClients": 9,
+      "trend": "surging"
+    },
+    {
+      "code": "TAR",
+      "name": "Tariffs",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 10729000,
+      "latestFilings": 370,
+      "prevYearIncome": 1623729,
+      "prevYearFilings": 119,
+      "incomeChangePercent": 560.8,
+      "filingsChangePercent": 210.9,
+      "newClients": 47,
+      "trend": "surging"
+    },
+    {
+      "code": "FIR",
+      "name": "Firearms/Guns/Ammunition",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2050500,
+      "latestFilings": 68,
+      "prevYearIncome": 700000,
+      "prevYearFilings": 61,
+      "incomeChangePercent": 192.9,
+      "filingsChangePercent": 11.5,
+      "newClients": 5,
+      "trend": "surging"
+    },
+    {
+      "code": "GOV",
+      "name": "Government Issues",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 46153472,
+      "latestFilings": 846,
+      "prevYearIncome": 16482050,
+      "prevYearFilings": 757,
+      "incomeChangePercent": 180,
+      "filingsChangePercent": 11.8,
+      "newClients": 65,
+      "trend": "surging"
+    },
+    {
+      "code": "TRD",
+      "name": "Trade (Domestic & Foreign)",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 80533646.13,
+      "latestFilings": 2266,
+      "prevYearIncome": 43213102.03,
+      "prevYearFilings": 1477,
+      "incomeChangePercent": 86.4,
+      "filingsChangePercent": 53.4,
+      "newClients": 151,
+      "trend": "surging"
+    },
+    {
+      "code": "SPO",
+      "name": "Sports/Athletics",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4454700,
+      "latestFilings": 173,
+      "prevYearIncome": 2417500,
+      "prevYearFilings": 121,
+      "incomeChangePercent": 84.3,
+      "filingsChangePercent": 43,
+      "newClients": 12,
+      "trend": "surging"
+    },
+    {
+      "code": "PHA",
+      "name": "Pharmacy/Drug Stores",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 12179484,
+      "latestFilings": 334,
+      "prevYearIncome": 7570500,
+      "prevYearFilings": 277,
+      "incomeChangePercent": 60.9,
+      "filingsChangePercent": 20.6,
+      "newClients": 10,
+      "trend": "surging"
+    },
+    {
+      "code": "TOB",
+      "name": "Tobacco",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4424500,
+      "latestFilings": 117,
+      "prevYearIncome": 2804500,
+      "prevYearFilings": 100,
+      "incomeChangePercent": 57.8,
+      "filingsChangePercent": 17,
+      "newClients": 6,
+      "trend": "surging"
+    },
+    {
+      "code": "RES",
+      "name": "Real Estate/Land Use/Conservation",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5303497,
+      "latestFilings": 212,
+      "prevYearIncome": 3393597,
+      "prevYearFilings": 166,
+      "incomeChangePercent": 56.3,
+      "filingsChangePercent": 27.7,
+      "newClients": 21,
+      "trend": "surging"
+    },
+    {
+      "code": "MON",
+      "name": "Minting/Money/Gold Standard",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 510000,
+      "latestFilings": 17,
+      "prevYearIncome": 330000,
+      "prevYearFilings": 9,
+      "incomeChangePercent": 54.5,
+      "filingsChangePercent": 88.9,
+      "newClients": 2,
+      "trend": "surging"
+    },
+    {
+      "code": "ALC",
+      "name": "Alcohol & Drug Abuse",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1187500,
+      "latestFilings": 59,
+      "prevYearIncome": 785000,
+      "prevYearFilings": 61,
+      "incomeChangePercent": 51.3,
+      "filingsChangePercent": -3.3,
+      "newClients": 7,
+      "trend": "surging"
+    },
+    {
+      "code": "MAN",
+      "name": "Manufacturing",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 22759516,
+      "latestFilings": 680,
+      "prevYearIncome": 15681043,
+      "prevYearFilings": 534,
+      "incomeChangePercent": 45.1,
+      "filingsChangePercent": 27.3,
+      "newClients": 77,
+      "trend": "growing"
+    },
+    {
+      "code": "NAT",
+      "name": "Natural Resources",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 28383931,
+      "latestFilings": 1078,
+      "prevYearIncome": 19602349,
+      "prevYearFilings": 871,
+      "incomeChangePercent": 44.8,
+      "filingsChangePercent": 23.8,
+      "newClients": 93,
+      "trend": "growing"
+    },
+    {
+      "code": "DIS",
+      "name": "Disaster Planning/Emergencies",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 7820374,
+      "latestFilings": 318,
+      "prevYearIncome": 5407800,
+      "prevYearFilings": 291,
+      "incomeChangePercent": 44.6,
+      "filingsChangePercent": 9.3,
+      "newClients": 23,
+      "trend": "growing"
+    },
+    {
+      "code": "BEV",
+      "name": "Beverage Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2132500,
+      "latestFilings": 63,
+      "prevYearIncome": 1492500,
+      "prevYearFilings": 60,
+      "incomeChangePercent": 42.9,
+      "filingsChangePercent": 5,
+      "newClients": 7,
+      "trend": "growing"
+    },
+    {
+      "code": "FOR",
+      "name": "Foreign Relations",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 14017476.91,
+      "latestFilings": 468,
+      "prevYearIncome": 10095012,
+      "prevYearFilings": 426,
+      "incomeChangePercent": 38.9,
+      "filingsChangePercent": 9.9,
+      "newClients": 41,
+      "trend": "growing"
+    },
+    {
+      "code": "GAM",
+      "name": "Gaming/Gambling/Casino",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4186000,
+      "latestFilings": 103,
+      "prevYearIncome": 3015250,
+      "prevYearFilings": 90,
+      "incomeChangePercent": 38.8,
+      "filingsChangePercent": 14.4,
+      "newClients": 10,
+      "trend": "growing"
+    },
+    {
+      "code": "ADV",
+      "name": "Advertising",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 767000,
+      "latestFilings": 39,
+      "prevYearIncome": 555000,
+      "prevYearFilings": 29,
+      "incomeChangePercent": 38.2,
+      "filingsChangePercent": 34.5,
+      "newClients": 2,
+      "trend": "growing"
+    },
+    {
+      "code": "POS",
+      "name": "Postal",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2005000,
+      "latestFilings": 85,
+      "prevYearIncome": 1462500,
+      "prevYearFilings": 74,
+      "incomeChangePercent": 37.1,
+      "filingsChangePercent": 14.9,
+      "newClients": 5,
+      "trend": "growing"
+    },
+    {
+      "code": "CPI",
+      "name": "Computer Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 18440000,
+      "latestFilings": 487,
+      "prevYearIncome": 13565000,
+      "prevYearFilings": 397,
+      "incomeChangePercent": 35.9,
+      "filingsChangePercent": 22.7,
+      "newClients": 32,
+      "trend": "growing"
+    },
+    {
+      "code": "REL",
+      "name": "Religion",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 400000,
+      "latestFilings": 15,
+      "prevYearIncome": 295000,
+      "prevYearFilings": 17,
+      "incomeChangePercent": 35.6,
+      "filingsChangePercent": -11.8,
+      "newClients": 4,
+      "trend": "growing"
+    },
+    {
+      "code": "INT",
+      "name": "Intelligence",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 3669500,
+      "latestFilings": 134,
+      "prevYearIncome": 2738000,
+      "prevYearFilings": 125,
+      "incomeChangePercent": 34,
+      "filingsChangePercent": 7.2,
+      "newClients": 13,
+      "trend": "growing"
+    },
+    {
+      "code": "HOU",
+      "name": "Housing",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 15611982,
+      "latestFilings": 574,
+      "prevYearIncome": 11761150,
+      "prevYearFilings": 502,
+      "incomeChangePercent": 32.7,
+      "filingsChangePercent": 14.3,
+      "newClients": 45,
+      "trend": "growing"
+    },
+    {
+      "code": "ENG",
+      "name": "Energy/Nuclear",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 65179104,
+      "latestFilings": 1886,
+      "prevYearIncome": 49216601,
+      "prevYearFilings": 1731,
+      "incomeChangePercent": 32.4,
+      "filingsChangePercent": 9,
+      "newClients": 95,
+      "trend": "growing"
+    },
+    {
+      "code": "DEF",
+      "name": "Defense",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 90140559,
+      "latestFilings": 2996,
+      "prevYearIncome": 68077576,
+      "prevYearFilings": 2542,
+      "incomeChangePercent": 32.4,
+      "filingsChangePercent": 17.9,
+      "newClients": 195,
+      "trend": "growing"
+    },
+    {
+      "code": "FOO",
+      "name": "Food Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 8759500,
+      "latestFilings": 334,
+      "prevYearIncome": 6645000,
+      "prevYearFilings": 273,
+      "incomeChangePercent": 31.8,
+      "filingsChangePercent": 22.3,
+      "newClients": 18,
+      "trend": "growing"
+    },
+    {
+      "code": "EDU",
+      "name": "Education",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 25647119,
+      "latestFilings": 1244,
+      "prevYearIncome": 20139648,
+      "prevYearFilings": 1155,
+      "incomeChangePercent": 27.3,
+      "filingsChangePercent": 7.7,
+      "newClients": 48,
+      "trend": "growing"
+    },
+    {
+      "code": "SCI",
+      "name": "Science/Technology",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 30029057,
+      "latestFilings": 967,
+      "prevYearIncome": 23722401,
+      "prevYearFilings": 854,
+      "incomeChangePercent": 26.6,
+      "filingsChangePercent": 13.2,
+      "newClients": 67,
+      "trend": "growing"
+    },
+    {
+      "code": "WEL",
+      "name": "Welfare",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1207786,
+      "latestFilings": 69,
+      "prevYearIncome": 955750,
+      "prevYearFilings": 58,
+      "incomeChangePercent": 26.4,
+      "filingsChangePercent": 19,
+      "newClients": 6,
+      "trend": "growing"
+    },
+    {
+      "code": "HCR",
+      "name": "Health Issues",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 113210436.77,
+      "latestFilings": 3594,
+      "prevYearIncome": 89764509.09,
+      "prevYearFilings": 3292,
+      "incomeChangePercent": 26.1,
+      "filingsChangePercent": 9.2,
+      "newClients": 155,
+      "trend": "growing"
+    },
+    {
+      "code": "ART",
+      "name": "Arts/Entertainment",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1853000,
+      "latestFilings": 72,
+      "prevYearIncome": 1469500,
+      "prevYearFilings": 72,
+      "incomeChangePercent": 26.1,
+      "filingsChangePercent": 0,
+      "newClients": 4,
+      "trend": "growing"
+    },
+    {
+      "code": "AUT",
+      "name": "Automotive Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 6886162,
+      "latestFilings": 219,
+      "prevYearIncome": 5461000,
+      "prevYearFilings": 198,
+      "incomeChangePercent": 26.1,
+      "filingsChangePercent": 10.6,
+      "newClients": 7,
+      "trend": "growing"
+    },
+    {
+      "code": "FIN",
+      "name": "Financial Institutions/Investments/Securities",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 43828003.13,
+      "latestFilings": 1219,
+      "prevYearIncome": 34957595.03,
+      "prevYearFilings": 1075,
+      "incomeChangePercent": 25.4,
+      "filingsChangePercent": 13.4,
+      "newClients": 59,
+      "trend": "growing"
+    },
+    {
+      "code": "UTI",
+      "name": "Utilities",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5883135,
+      "latestFilings": 186,
+      "prevYearIncome": 4721383,
+      "prevYearFilings": 175,
+      "incomeChangePercent": 24.6,
+      "filingsChangePercent": 6.3,
+      "newClients": 15,
+      "trend": "growing"
+    },
+    {
+      "code": "MED",
+      "name": "Media/Publishing",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 8395250,
+      "latestFilings": 324,
+      "prevYearIncome": 6787750,
+      "prevYearFilings": 292,
+      "incomeChangePercent": 23.7,
+      "filingsChangePercent": 11,
+      "newClients": 25,
+      "trend": "growing"
+    },
+    {
+      "code": "MMM",
+      "name": "Medicare/Medicaid",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 55507998.8,
+      "latestFilings": 1762,
+      "prevYearIncome": 44938670.96,
+      "prevYearFilings": 1540,
+      "incomeChangePercent": 23.5,
+      "filingsChangePercent": 14.4,
+      "newClients": 61,
+      "trend": "growing"
+    },
+    {
+      "code": "BAN",
+      "name": "Banking",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 20382729,
+      "latestFilings": 669,
+      "prevYearIncome": 16610724,
+      "prevYearFilings": 631,
+      "incomeChangePercent": 22.7,
+      "filingsChangePercent": 6,
+      "newClients": 30,
+      "trend": "growing"
+    },
+    {
+      "code": "MIA",
+      "name": "Medical/Disease Research/Clinical Labs",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1783900,
+      "latestFilings": 59,
+      "prevYearIncome": 1461250,
+      "prevYearFilings": 51,
+      "incomeChangePercent": 22.1,
+      "filingsChangePercent": 15.7,
+      "newClients": 2,
+      "trend": "growing"
+    },
+    {
+      "code": "CHM",
+      "name": "Chemicals/Chemical Industry",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4620500,
+      "latestFilings": 166,
+      "prevYearIncome": 3825750,
+      "prevYearFilings": 168,
+      "incomeChangePercent": 20.8,
+      "filingsChangePercent": -1.2,
+      "newClients": 6,
+      "trend": "growing"
+    },
+    {
+      "code": "HOM",
+      "name": "Homeland Security",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 18398009,
+      "latestFilings": 709,
+      "prevYearIncome": 15278700,
+      "prevYearFilings": 636,
+      "incomeChangePercent": 20.4,
+      "filingsChangePercent": 11.5,
+      "newClients": 54,
+      "trend": "growing"
+    },
+    {
+      "code": "TOU",
+      "name": "Travel/Tourism",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 3897500,
+      "latestFilings": 121,
+      "prevYearIncome": 3251000,
+      "prevYearFilings": 110,
+      "incomeChangePercent": 19.9,
+      "filingsChangePercent": 10,
+      "newClients": 11,
+      "trend": "growing"
+    },
+    {
+      "code": "TAX",
+      "name": "Taxation/Internal Revenue Code",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 106672866,
+      "latestFilings": 3208,
+      "prevYearIncome": 90242801,
+      "prevYearFilings": 3073,
+      "incomeChangePercent": 18.2,
+      "filingsChangePercent": 4.4,
+      "newClients": 63,
+      "trend": "growing"
+    },
+    {
+      "code": "MAR",
+      "name": "Marine/Maritime/Boating/Fisheries",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 9697281,
+      "latestFilings": 391,
+      "prevYearIncome": 8244149,
+      "prevYearFilings": 369,
+      "incomeChangePercent": 17.6,
+      "filingsChangePercent": 6,
+      "newClients": 19,
+      "trend": "growing"
+    },
+    {
+      "code": "SMB",
+      "name": "Small Business",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 6112319,
+      "latestFilings": 299,
+      "prevYearIncome": 5202829,
+      "prevYearFilings": 283,
+      "incomeChangePercent": 17.5,
+      "filingsChangePercent": 5.7,
+      "newClients": 19,
+      "trend": "growing"
+    },
+    {
+      "code": "CDT",
+      "name": "Commodities",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1220000,
+      "latestFilings": 44,
+      "prevYearIncome": 1045000,
+      "prevYearFilings": 40,
+      "incomeChangePercent": 16.7,
+      "filingsChangePercent": 10,
+      "newClients": 4,
+      "trend": "growing"
+    },
+    {
+      "code": "RRR",
+      "name": "RRR",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 4334000,
+      "latestFilings": 147,
+      "prevYearIncome": 3723480,
+      "prevYearFilings": 136,
+      "incomeChangePercent": 16.4,
+      "filingsChangePercent": 8.1,
+      "newClients": 3,
+      "trend": "growing"
+    },
+    {
+      "code": "TRA",
+      "name": "Transportation",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 42228702,
+      "latestFilings": 1749,
+      "prevYearIncome": 36397723,
+      "prevYearFilings": 1694,
+      "incomeChangePercent": 16,
+      "filingsChangePercent": 3.2,
+      "newClients": 84,
+      "trend": "growing"
+    },
+    {
+      "code": "VET",
+      "name": "Veterans",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 11821370,
+      "latestFilings": 442,
+      "prevYearIncome": 10292300,
+      "prevYearFilings": 434,
+      "incomeChangePercent": 14.9,
+      "filingsChangePercent": 1.8,
+      "newClients": 24,
+      "trend": "growing"
+    },
+    {
+      "code": "IMM",
+      "name": "Immigration",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 9685170,
+      "latestFilings": 498,
+      "prevYearIncome": 8426150,
+      "prevYearFilings": 460,
+      "incomeChangePercent": 14.9,
+      "filingsChangePercent": 8.3,
+      "newClients": 24,
+      "trend": "growing"
+    },
+    {
+      "code": "RET",
+      "name": "Retirement",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5251125,
+      "latestFilings": 251,
+      "prevYearIncome": 4580000,
+      "prevYearFilings": 248,
+      "incomeChangePercent": 14.7,
+      "filingsChangePercent": 1.2,
+      "newClients": 10,
+      "trend": "growing"
+    },
+    {
+      "code": "BUD",
+      "name": "Budget/Appropriations",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 135120200,
+      "latestFilings": 5467,
+      "prevYearIncome": 118323485.25999999,
+      "prevYearFilings": 5222,
+      "incomeChangePercent": 14.2,
+      "filingsChangePercent": 4.7,
+      "newClients": 203,
+      "trend": "growing"
+    },
+    {
+      "code": "AVI",
+      "name": "Aviation/Aircraft/Airlines",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 15763285,
+      "latestFilings": 561,
+      "prevYearIncome": 13892950,
+      "prevYearFilings": 525,
+      "incomeChangePercent": 13.5,
+      "filingsChangePercent": 6.9,
+      "newClients": 37,
+      "trend": "growing"
+    },
+    {
+      "code": "AER",
+      "name": "Aerospace",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5676000,
+      "latestFilings": 249,
+      "prevYearIncome": 5045701,
+      "prevYearFilings": 242,
+      "incomeChangePercent": 12.5,
+      "filingsChangePercent": 2.9,
+      "newClients": 26,
+      "trend": "growing"
+    },
+    {
+      "code": "ECN",
+      "name": "Economics/Economic Development",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 9652208,
+      "latestFilings": 403,
+      "prevYearIncome": 8610747,
+      "prevYearFilings": 426,
+      "incomeChangePercent": 12.1,
+      "filingsChangePercent": -5.4,
+      "newClients": 40,
+      "trend": "growing"
+    },
+    {
+      "code": "TOR",
+      "name": "Torts",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1279000,
+      "latestFilings": 65,
+      "prevYearIncome": 1149500,
+      "prevYearFilings": 62,
+      "incomeChangePercent": 11.3,
+      "filingsChangePercent": 4.8,
+      "newClients": 3,
+      "trend": "growing"
+    },
+    {
+      "code": "IND",
+      "name": "Indian/Native American Affairs",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 10233169.780000001,
+      "latestFilings": 314,
+      "prevYearIncome": 9318833,
+      "prevYearFilings": 343,
+      "incomeChangePercent": 9.8,
+      "filingsChangePercent": -8.5,
+      "newClients": 6,
+      "trend": "stable"
+    },
+    {
+      "code": "CSP",
+      "name": "Consumer Issues/Safety/Products",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 16068838,
+      "latestFilings": 517,
+      "prevYearIncome": 14672979,
+      "prevYearFilings": 529,
+      "incomeChangePercent": 9.5,
+      "filingsChangePercent": -2.3,
+      "newClients": 24,
+      "trend": "stable"
+    },
+    {
+      "code": "ENV",
+      "name": "Environment/Superfund",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 31510370,
+      "latestFilings": 1187,
+      "prevYearIncome": 28874339,
+      "prevYearFilings": 1214,
+      "incomeChangePercent": 9.1,
+      "filingsChangePercent": -2.2,
+      "newClients": 53,
+      "trend": "stable"
+    },
+    {
+      "code": "TEC",
+      "name": "Telecommunications",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 24931050,
+      "latestFilings": 701,
+      "prevYearIncome": 23032300,
+      "prevYearFilings": 696,
+      "incomeChangePercent": 8.2,
+      "filingsChangePercent": 0.7,
+      "newClients": 19,
+      "trend": "stable"
+    },
+    {
+      "code": "URB",
+      "name": "Urban Development/Municipalities",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 5927400,
+      "latestFilings": 276,
+      "prevYearIncome": 5499800,
+      "prevYearFilings": 281,
+      "incomeChangePercent": 7.8,
+      "filingsChangePercent": -1.8,
+      "newClients": 17,
+      "trend": "stable"
+    },
+    {
+      "code": "FUE",
+      "name": "Fuel/Gas/Oil",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 6435955,
+      "latestFilings": 193,
+      "prevYearIncome": 6087386,
+      "prevYearFilings": 203,
+      "incomeChangePercent": 5.7,
+      "filingsChangePercent": -4.9,
+      "newClients": 14,
+      "trend": "stable"
+    },
+    {
+      "code": "LAW",
+      "name": "Law Enforcement/Crime/Criminal Justice",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 10704875,
+      "latestFilings": 452,
+      "prevYearIncome": 10152936,
+      "prevYearFilings": 471,
+      "incomeChangePercent": 5.4,
+      "filingsChangePercent": -4,
+      "newClients": 34,
+      "trend": "stable"
+    },
+    {
+      "code": "AGR",
+      "name": "Agriculture",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 29663234,
+      "latestFilings": 1194,
+      "prevYearIncome": 28230160,
+      "prevYearFilings": 1194,
+      "incomeChangePercent": 5.1,
+      "filingsChangePercent": 0,
+      "newClients": 65,
+      "trend": "stable"
+    },
+    {
+      "code": "WAS",
+      "name": "Waste (Hazardous/Solid/Interstate/Nuclear)",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1110000,
+      "latestFilings": 53,
+      "prevYearIncome": 1058000,
+      "prevYearFilings": 55,
+      "incomeChangePercent": 4.9,
+      "filingsChangePercent": -3.6,
+      "newClients": 5,
+      "trend": "stable"
+    },
+    {
+      "code": "CPT",
+      "name": "Copyright/Patent/Trademark",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 13909154,
+      "latestFilings": 431,
+      "prevYearIncome": 13576954,
+      "prevYearFilings": 424,
+      "incomeChangePercent": 2.4,
+      "filingsChangePercent": 1.7,
+      "newClients": 12,
+      "trend": "stable"
+    },
+    {
+      "code": "ANI",
+      "name": "Animals",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2964750,
+      "latestFilings": 163,
+      "prevYearIncome": 2953000,
+      "prevYearFilings": 165,
+      "incomeChangePercent": 0.4,
+      "filingsChangePercent": -1.2,
+      "newClients": 7,
+      "trend": "stable"
+    },
+    {
+      "code": "LBR",
+      "name": "Labor Issues/Antitrust/Workplace",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 21455474,
+      "latestFilings": 935,
+      "prevYearIncome": 21366979,
+      "prevYearFilings": 954,
+      "incomeChangePercent": 0.4,
+      "filingsChangePercent": -2,
+      "newClients": 35,
+      "trend": "stable"
+    },
+    {
+      "code": "ROD",
+      "name": "Roads/Highway",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 2260335,
+      "latestFilings": 107,
+      "prevYearIncome": 2263760,
+      "prevYearFilings": 107,
+      "incomeChangePercent": -0.2,
+      "filingsChangePercent": 0,
+      "newClients": 8,
+      "trend": "stable"
+    },
+    {
+      "code": "INS",
+      "name": "Insurance",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 7931227,
+      "latestFilings": 338,
+      "prevYearIncome": 7967750,
+      "prevYearFilings": 322,
+      "incomeChangePercent": -0.5,
+      "filingsChangePercent": 5,
+      "newClients": 11,
+      "trend": "stable"
+    },
+    {
+      "code": "FAM",
+      "name": "Family Issues/Abortion/Adoption",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 872386,
+      "latestFilings": 86,
+      "prevYearIncome": 878000,
+      "prevYearFilings": 90,
+      "incomeChangePercent": -0.6,
+      "filingsChangePercent": -4.4,
+      "newClients": 5,
+      "trend": "stable"
+    },
+    {
+      "code": "COM",
+      "name": "Communications/Broadcasting/Radio/TV",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 8202500,
+      "latestFilings": 255,
+      "prevYearIncome": 8263925,
+      "prevYearFilings": 272,
+      "incomeChangePercent": -0.7,
+      "filingsChangePercent": -6.2,
+      "newClients": 8,
+      "trend": "stable"
+    },
+    {
+      "code": "DOC",
+      "name": "District of Columbia",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 300000,
+      "latestFilings": 19,
+      "prevYearIncome": 310000,
+      "prevYearFilings": 12,
+      "incomeChangePercent": -3.2,
+      "filingsChangePercent": 58.3,
+      "newClients": 2,
+      "trend": "stable"
+    },
+    {
+      "code": "CAW",
+      "name": "Clean Air & Water",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 7773525,
+      "latestFilings": 386,
+      "prevYearIncome": 8694150,
+      "prevYearFilings": 428,
+      "incomeChangePercent": -10.6,
+      "filingsChangePercent": -9.8,
+      "newClients": 16,
+      "trend": "declining"
+    },
+    {
+      "code": "TRU",
+      "name": "Trucking/Shipping",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 1567000,
+      "latestFilings": 80,
+      "prevYearIncome": 1956000,
+      "prevYearFilings": 86,
+      "incomeChangePercent": -19.9,
+      "filingsChangePercent": -7,
+      "newClients": 3,
+      "trend": "declining"
+    },
+    {
+      "code": "UNM",
+      "name": "Unemployment",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 133750,
+      "latestFilings": 17,
+      "prevYearIncome": 182500,
+      "prevYearFilings": 21,
+      "incomeChangePercent": -26.7,
+      "filingsChangePercent": -19,
+      "newClients": 1,
+      "trend": "declining"
+    },
+    {
+      "code": "BNK",
+      "name": "BNK",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 575000,
+      "latestFilings": 20,
+      "prevYearIncome": 980000,
+      "prevYearFilings": 34,
+      "incomeChangePercent": -41.3,
+      "filingsChangePercent": -41.2,
+      "newClients": 1,
+      "trend": "declining"
+    },
+    {
+      "code": "APP",
+      "name": "Apparel/Clothing/Textiles",
+      "latestQuarter": "2025-Q4",
+      "latestIncome": 570000,
+      "latestFilings": 23,
+      "prevYearIncome": 975093,
+      "prevYearFilings": 29,
+      "incomeChangePercent": -41.5,
+      "filingsChangePercent": -20.7,
+      "newClients": 1,
+      "trend": "declining"
+    }
+  ],
+  "timelines": {
+    "CON": [
+      {
+        "quarter": "2018-Q1",
+        "income": 705000,
+        "filings": 48,
+        "clients": 42
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 620000,
+        "filings": 53,
+        "clients": 49
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 947013.05,
+        "filings": 66,
+        "clients": 57
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 775000,
+        "filings": 60,
+        "clients": 51
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 730000,
+        "filings": 66,
+        "clients": 53
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 961822,
+        "filings": 65,
+        "clients": 55
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 1069359,
+        "filings": 71,
+        "clients": 58
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 909000,
+        "filings": 59,
+        "clients": 51
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 768000,
+        "filings": 59,
+        "clients": 54
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 606300,
+        "filings": 60,
+        "clients": 52
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 3033844,
+        "filings": 61,
+        "clients": 51
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 3889844,
+        "filings": 54,
+        "clients": 51
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 520000,
+        "filings": 42,
+        "clients": 41
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 735500,
+        "filings": 57,
+        "clients": 52
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 796000,
+        "filings": 53,
+        "clients": 48
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 796500,
+        "filings": 56,
+        "clients": 50
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 896500,
+        "filings": 58,
+        "clients": 49
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 1001500,
+        "filings": 52,
+        "clients": 50
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 939500,
+        "filings": 52,
+        "clients": 49
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 886500,
+        "filings": 59,
+        "clients": 55
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 663500,
+        "filings": 43,
+        "clients": 39
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 718500,
+        "filings": 58,
+        "clients": 49
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 918500,
+        "filings": 50,
+        "clients": 46
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 808500,
+        "filings": 59,
+        "clients": 50
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 695000,
+        "filings": 44,
+        "clients": 37
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 801000,
+        "filings": 51,
+        "clients": 42
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 21025000,
+        "filings": 54,
+        "clients": 49
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 20901500,
+        "filings": 47,
+        "clients": 44
+      }
+    ],
+    "ACC": [
+      {
+        "quarter": "2018-Q1",
+        "income": 1187000,
+        "filings": 64,
+        "clients": 53
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 1630333,
+        "filings": 72,
+        "clients": 59
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 1209000,
+        "filings": 65,
+        "clients": 55
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 1139500,
+        "filings": 62,
+        "clients": 53
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 1186000,
+        "filings": 65,
+        "clients": 51
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 1026500,
+        "filings": 55,
+        "clients": 46
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 959500,
+        "filings": 59,
+        "clients": 48
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 1226500,
+        "filings": 67,
+        "clients": 55
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 1084000,
+        "filings": 66,
+        "clients": 57
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 1393500,
+        "filings": 76,
+        "clients": 63
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 1461100,
+        "filings": 82,
+        "clients": 66
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 1616220,
+        "filings": 79,
+        "clients": 66
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 848000,
+        "filings": 53,
+        "clients": 42
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 991000,
+        "filings": 56,
+        "clients": 45
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 1028500,
+        "filings": 57,
+        "clients": 45
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 1615500,
+        "filings": 67,
+        "clients": 53
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 1319000,
+        "filings": 71,
+        "clients": 56
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 1338500,
+        "filings": 76,
+        "clients": 63
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 1435875,
+        "filings": 84,
+        "clients": 68
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 2456875,
+        "filings": 94,
+        "clients": 74
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 1608750,
+        "filings": 58,
+        "clients": 49
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 1637500,
+        "filings": 70,
+        "clients": 59
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 1750000,
+        "filings": 68,
+        "clients": 56
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 1761500,
+        "filings": 68,
+        "clients": 59
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 1777000,
+        "filings": 64,
+        "clients": 55
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 21704000,
+        "filings": 74,
+        "clients": 64
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 22002000,
+        "filings": 85,
+        "clients": 75
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 21320000,
+        "filings": 76,
+        "clients": 64
+      }
+    ],
+    "CIV": [
+      {
+        "quarter": "2018-Q1",
+        "income": 1147500,
+        "filings": 117,
+        "clients": 99
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 965700,
+        "filings": 109,
+        "clients": 95
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 699513.05,
+        "filings": 122,
+        "clients": 108
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 951254,
+        "filings": 139,
+        "clients": 117
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 1358624.54,
+        "filings": 165,
+        "clients": 133
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 1819262,
+        "filings": 156,
+        "clients": 126
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 2033829,
+        "filings": 173,
+        "clients": 149
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 1944970,
+        "filings": 174,
+        "clients": 150
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 1531125,
+        "filings": 153,
+        "clients": 132
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 1833610,
+        "filings": 198,
+        "clients": 167
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 1566185,
+        "filings": 192,
+        "clients": 164
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 1937000,
+        "filings": 182,
+        "clients": 158
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 2004000,
+        "filings": 229,
+        "clients": 182
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 2583560,
+        "filings": 262,
+        "clients": 215
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 3110500,
+        "filings": 261,
+        "clients": 219
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 3037500,
+        "filings": 254,
+        "clients": 215
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 3202385,
+        "filings": 269,
+        "clients": 219
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 2840000,
+        "filings": 264,
+        "clients": 217
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 2970083,
+        "filings": 267,
+        "clients": 220
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 3153500,
+        "filings": 271,
+        "clients": 221
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 2123125,
+        "filings": 168,
+        "clients": 144
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 1935500,
+        "filings": 185,
+        "clients": 160
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 2050950,
+        "filings": 198,
+        "clients": 176
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 2285710,
+        "filings": 203,
+        "clients": 179
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 2687000,
+        "filings": 181,
+        "clients": 143
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 22119000,
+        "filings": 181,
+        "clients": 153
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 2277500,
+        "filings": 207,
+        "clients": 174
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 21939000,
+        "filings": 176,
+        "clients": 163
+      }
+    ],
+    "TAR": [
+      {
+        "quarter": "2018-Q1",
+        "income": 1895000,
+        "filings": 137,
+        "clients": 112
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 2282332,
+        "filings": 156,
+        "clients": 139
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 3244998,
+        "filings": 191,
+        "clients": 167
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 2648419,
+        "filings": 159,
+        "clients": 140
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 1901000,
+        "filings": 125,
+        "clients": 116
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 2483000,
+        "filings": 175,
+        "clients": 148
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 2709000,
+        "filings": 197,
+        "clients": 180
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 3095209,
+        "filings": 201,
+        "clients": 173
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 2489000,
+        "filings": 171,
+        "clients": 153
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 2496000,
+        "filings": 171,
+        "clients": 145
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 2044000,
+        "filings": 158,
+        "clients": 143
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 2026729,
+        "filings": 145,
+        "clients": 135
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 1722000,
+        "filings": 122,
+        "clients": 113
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 2450825,
+        "filings": 120,
+        "clients": 110
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 3179379,
+        "filings": 124,
+        "clients": 114
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 4833529,
+        "filings": 134,
+        "clients": 118
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 1701500,
+        "filings": 121,
+        "clients": 110
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 1996729,
+        "filings": 130,
+        "clients": 118
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 1789229,
+        "filings": 132,
+        "clients": 116
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 1865729,
+        "filings": 128,
+        "clients": 116
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 1059479,
+        "filings": 83,
+        "clients": 78
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 1088229,
+        "filings": 91,
+        "clients": 80
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 1343729,
+        "filings": 92,
+        "clients": 82
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 1623729,
+        "filings": 119,
+        "clients": 107
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 4293073,
+        "filings": 242,
+        "clients": 204
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 8387595,
+        "filings": 330,
+        "clients": 292
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 9045250,
+        "filings": 378,
+        "clients": 329
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 10729000,
+        "filings": 370,
+        "clients": 335
+      }
+    ],
+    "FIR": [
+      {
+        "quarter": "2018-Q1",
+        "income": 740000,
+        "filings": 42,
+        "clients": 37
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 690000,
+        "filings": 53,
+        "clients": 44
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 685500,
+        "filings": 42,
+        "clients": 35
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 685500,
+        "filings": 41,
+        "clients": 35
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 669500,
+        "filings": 47,
+        "clients": 41
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 657500,
+        "filings": 46,
+        "clients": 40
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 902704,
+        "filings": 68,
+        "clients": 58
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 783500,
+        "filings": 62,
+        "clients": 47
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 611000,
+        "filings": 52,
+        "clients": 42
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 794500,
+        "filings": 51,
+        "clients": 41
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 660500,
+        "filings": 42,
+        "clients": 34
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 764500,
+        "filings": 50,
+        "clients": 39
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 849500,
+        "filings": 60,
+        "clients": 43
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 1056000,
+        "filings": 59,
+        "clients": 46
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 1086000,
+        "filings": 59,
+        "clients": 47
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 1082998,
+        "filings": 58,
+        "clients": 51
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 535000,
+        "filings": 51,
+        "clients": 43
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 995600,
+        "filings": 82,
+        "clients": 62
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 966100,
+        "filings": 72,
+        "clients": 59
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 1050600,
+        "filings": 67,
+        "clients": 53
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 610000,
+        "filings": 44,
+        "clients": 33
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 445000,
+        "filings": 50,
+        "clients": 44
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 669000,
+        "filings": 53,
+        "clients": 42
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 700000,
+        "filings": 61,
+        "clients": 47
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 728000,
+        "filings": 52,
+        "clients": 38
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 1220000,
+        "filings": 61,
+        "clients": 51
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 1585000,
+        "filings": 69,
+        "clients": 58
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 2050500,
+        "filings": 68,
+        "clients": 60
+      }
+    ],
+    "GOV": [
+      {
+        "quarter": "2018-Q1",
+        "income": 11697836,
+        "filings": 621,
+        "clients": 529
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 12708255,
+        "filings": 669,
+        "clients": 574
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 14043362.05,
+        "filings": 698,
+        "clients": 633
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 14106485,
+        "filings": 730,
+        "clients": 617
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 12774740.530000001,
+        "filings": 628,
+        "clients": 553
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 10616813,
+        "filings": 604,
+        "clients": 539
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 13385328,
+        "filings": 685,
+        "clients": 608
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 13455149,
+        "filings": 697,
+        "clients": 617
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 13053133,
+        "filings": 668,
+        "clients": 572
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 17805658.97,
+        "filings": 838,
+        "clients": 721
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 18495751,
+        "filings": 865,
+        "clients": 749
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 18771736,
+        "filings": 833,
+        "clients": 741
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 14209275,
+        "filings": 660,
+        "clients": 570
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 18258391,
+        "filings": 775,
+        "clients": 663
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 21409736,
+        "filings": 864,
+        "clients": 733
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 24025626,
+        "filings": 851,
+        "clients": 729
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 21486029,
+        "filings": 801,
+        "clients": 695
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 20368366,
+        "filings": 870,
+        "clients": 732
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 19501433,
+        "filings": 851,
+        "clients": 735
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 18104766,
+        "filings": 817,
+        "clients": 701
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 14382350,
+        "filings": 613,
+        "clients": 561
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 14724450,
+        "filings": 628,
+        "clients": 560
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 15395450,
+        "filings": 703,
+        "clients": 624
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 16482050,
+        "filings": 757,
+        "clients": 643
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 14500914.06,
+        "filings": 688,
+        "clients": 592
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 42031172,
+        "filings": 774,
+        "clients": 676
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 41243922,
+        "filings": 844,
+        "clients": 738
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 46153472,
+        "filings": 846,
+        "clients": 750
+      }
+    ],
+    "TRD": [
+      {
+        "quarter": "2018-Q1",
+        "income": 32919028,
+        "filings": 1272,
+        "clients": 1020
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 32262990,
+        "filings": 1340,
+        "clients": 1077
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 39423981,
+        "filings": 1609,
+        "clients": 1276
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 40477057,
+        "filings": 1565,
+        "clients": 1248
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 34469335,
+        "filings": 1385,
+        "clients": 1109
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 38860478,
+        "filings": 1556,
+        "clients": 1232
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 46840840.66,
+        "filings": 1740,
+        "clients": 1366
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 51164462,
+        "filings": 1895,
+        "clients": 1476
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 36933606.33,
+        "filings": 1476,
+        "clients": 1202
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 41051250,
+        "filings": 1589,
+        "clients": 1277
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 38233219,
+        "filings": 1534,
+        "clients": 1229
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 39872900,
+        "filings": 1535,
+        "clients": 1257
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 33459249.25,
+        "filings": 1227,
+        "clients": 999
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 38217775,
+        "filings": 1332,
+        "clients": 1094
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 39074771,
+        "filings": 1412,
+        "clients": 1164
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 43573334,
+        "filings": 1476,
+        "clients": 1217
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 43398031,
+        "filings": 1423,
+        "clients": 1161
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 40820296,
+        "filings": 1487,
+        "clients": 1215
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 40110279,
+        "filings": 1523,
+        "clients": 1239
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 41038629.65,
+        "filings": 1514,
+        "clients": 1228
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 34504809,
+        "filings": 1213,
+        "clients": 995
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 39852328.84,
+        "filings": 1310,
+        "clients": 1071
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 40775740.03,
+        "filings": 1346,
+        "clients": 1105
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 43213102.03,
+        "filings": 1477,
+        "clients": 1185
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 48355794.34,
+        "filings": 1615,
+        "clients": 1248
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 65664098.5,
+        "filings": 2069,
+        "clients": 1580
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 72950433,
+        "filings": 2260,
+        "clients": 1771
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 80533646.13,
+        "filings": 2266,
+        "clients": 1824
+      }
+    ],
+    "SPO": [
+      {
+        "quarter": "2018-Q1",
+        "income": 640200,
+        "filings": 38,
+        "clients": 35
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 1073200,
+        "filings": 46,
+        "clients": 39
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 780600,
+        "filings": 45,
+        "clients": 41
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 767000,
+        "filings": 43,
+        "clients": 39
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 465000,
+        "filings": 31,
+        "clients": 28
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 620000,
+        "filings": 34,
+        "clients": 29
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 925000,
+        "filings": 46,
+        "clients": 35
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 1200000,
+        "filings": 51,
+        "clients": 45
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 1305000,
+        "filings": 73,
+        "clients": 51
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 1902000,
+        "filings": 84,
+        "clients": 64
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 1564600,
+        "filings": 81,
+        "clients": 65
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 1480000,
+        "filings": 84,
+        "clients": 68
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 1407500,
+        "filings": 73,
+        "clients": 65
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 1877000,
+        "filings": 94,
+        "clients": 75
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 1712500,
+        "filings": 92,
+        "clients": 71
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 1712500,
+        "filings": 83,
+        "clients": 69
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 1302500,
+        "filings": 83,
+        "clients": 67
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 1657500,
+        "filings": 88,
+        "clients": 69
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 1807500,
+        "filings": 84,
+        "clients": 69
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 1921500,
+        "filings": 88,
+        "clients": 68
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 2170000,
+        "filings": 78,
+        "clients": 66
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 2145000,
+        "filings": 87,
+        "clients": 74
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 2442500,
+        "filings": 90,
+        "clients": 73
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 2417500,
+        "filings": 121,
+        "clients": 97
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 2569500,
+        "filings": 124,
+        "clients": 99
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 3607000,
+        "filings": 134,
+        "clients": 109
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 4108500,
+        "filings": 194,
+        "clients": 148
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 4454700,
+        "filings": 173,
+        "clients": 153
+      }
+    ],
+    "PHA": [
+      {
+        "quarter": "2018-Q1",
+        "income": 5593758.48,
+        "filings": 238,
+        "clients": 191
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 6160294,
+        "filings": 247,
+        "clients": 204
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 6963875,
+        "filings": 289,
+        "clients": 226
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 7563700,
+        "filings": 278,
+        "clients": 226
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 6523444,
+        "filings": 282,
+        "clients": 213
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 6859250,
+        "filings": 265,
+        "clients": 211
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 7762728,
+        "filings": 296,
+        "clients": 234
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 8113750,
+        "filings": 291,
+        "clients": 231
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 6908500,
+        "filings": 270,
+        "clients": 215
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 8274250,
+        "filings": 305,
+        "clients": 236
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 7938250,
+        "filings": 279,
+        "clients": 226
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 8907000,
+        "filings": 307,
+        "clients": 236
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 6639750,
+        "filings": 228,
+        "clients": 183
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 8631000,
+        "filings": 275,
+        "clients": 229
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 8622834,
+        "filings": 267,
+        "clients": 213
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 8976584,
+        "filings": 283,
+        "clients": 226
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 8266834,
+        "filings": 276,
+        "clients": 221
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 9385334,
+        "filings": 283,
+        "clients": 225
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 9521834,
+        "filings": 302,
+        "clients": 239
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 9601834,
+        "filings": 298,
+        "clients": 234
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 6894834,
+        "filings": 236,
+        "clients": 189
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 7484998,
+        "filings": 259,
+        "clients": 211
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 8360500,
+        "filings": 283,
+        "clients": 208
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 7570500,
+        "filings": 277,
+        "clients": 216
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 7113500,
+        "filings": 251,
+        "clients": 197
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 8919425,
+        "filings": 305,
+        "clients": 233
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 11386945,
+        "filings": 351,
+        "clients": 283
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 12179484,
+        "filings": 334,
+        "clients": 274
+      }
+    ],
+    "TOB": [
+      {
+        "quarter": "2018-Q1",
+        "income": 1965500,
+        "filings": 85,
+        "clients": 52
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 2399000,
+        "filings": 101,
+        "clients": 57
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 2310500,
+        "filings": 99,
+        "clients": 63
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 2745000,
+        "filings": 100,
+        "clients": 60
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 2639750,
+        "filings": 101,
+        "clients": 52
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 2948250,
+        "filings": 105,
+        "clients": 63
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 3278100,
+        "filings": 116,
+        "clients": 73
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 3986500,
+        "filings": 145,
+        "clients": 87
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 3384000,
+        "filings": 114,
+        "clients": 73
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 3703500,
+        "filings": 122,
+        "clients": 70
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 3269500,
+        "filings": 115,
+        "clients": 72
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 3598500,
+        "filings": 128,
+        "clients": 74
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 3091500,
+        "filings": 96,
+        "clients": 61
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 3274500,
+        "filings": 107,
+        "clients": 63
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 3352000,
+        "filings": 121,
+        "clients": 71
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 3497000,
+        "filings": 120,
+        "clients": 69
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 2630000,
+        "filings": 100,
+        "clients": 65
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 3129500,
+        "filings": 109,
+        "clients": 70
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 2944500,
+        "filings": 120,
+        "clients": 76
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 3269500,
+        "filings": 115,
+        "clients": 70
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 2565000,
+        "filings": 94,
+        "clients": 56
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 2678500,
+        "filings": 104,
+        "clients": 61
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 2744500,
+        "filings": 100,
+        "clients": 57
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 2804500,
+        "filings": 100,
+        "clients": 62
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 2849500,
+        "filings": 105,
+        "clients": 57
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 3964500,
+        "filings": 114,
+        "clients": 61
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 4049500,
+        "filings": 115,
+        "clients": 64
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 4424500,
+        "filings": 117,
+        "clients": 67
+      }
+    ],
+    "RES": [
+      {
+        "quarter": "2018-Q1",
+        "income": 2718500,
+        "filings": 122,
+        "clients": 108
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 2690025,
+        "filings": 132,
+        "clients": 114
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 2775998,
+        "filings": 139,
+        "clients": 125
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 2867749,
+        "filings": 138,
+        "clients": 125
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 1974247,
+        "filings": 123,
+        "clients": 104
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 2824749,
+        "filings": 156,
+        "clients": 125
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 2887500,
+        "filings": 154,
+        "clients": 135
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 2950500,
+        "filings": 168,
+        "clients": 142
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 2288500,
+        "filings": 144,
+        "clients": 121
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 3446500,
+        "filings": 181,
+        "clients": 152
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 2902000,
+        "filings": 146,
+        "clients": 136
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 3078500,
+        "filings": 160,
+        "clients": 141
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 1925560,
+        "filings": 122,
+        "clients": 112
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 2922500,
+        "filings": 148,
+        "clients": 135
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 2713000,
+        "filings": 143,
+        "clients": 129
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 3307400,
+        "filings": 156,
+        "clients": 145
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 2871500,
+        "filings": 176,
+        "clients": 148
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 3419500,
+        "filings": 192,
+        "clients": 160
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 3406000,
+        "filings": 172,
+        "clients": 149
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 3383545,
+        "filings": 172,
+        "clients": 152
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 2751722,
+        "filings": 148,
+        "clients": 130
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 2690548,
+        "filings": 154,
+        "clients": 139
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 3243297,
+        "filings": 162,
+        "clients": 141
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 3393597,
+        "filings": 166,
+        "clients": 153
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 3052997,
+        "filings": 166,
+        "clients": 145
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 4593782,
+        "filings": 195,
+        "clients": 173
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 4933497,
+        "filings": 205,
+        "clients": 185
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 5303497,
+        "filings": 212,
+        "clients": 190
+      }
+    ],
+    "MON": [
+      {
+        "quarter": "2018-Q1",
+        "income": 253550,
+        "filings": 14,
+        "clients": 9
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 193550,
+        "filings": 11,
+        "clients": 10
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 208550,
+        "filings": 10,
+        "clients": 8
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 322100,
+        "filings": 15,
+        "clients": 10
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 300000,
+        "filings": 10,
+        "clients": 10
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 80000,
+        "filings": 10,
+        "clients": 10
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 350000,
+        "filings": 14,
+        "clients": 14
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 330000,
+        "filings": 11,
+        "clients": 10
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 310000,
+        "filings": 7,
+        "clients": 7
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 320000,
+        "filings": 13,
+        "clients": 11
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 1160000,
+        "filings": 12,
+        "clients": 11
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 400000,
+        "filings": 10,
+        "clients": 10
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 225000,
+        "filings": 7,
+        "clients": 7
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 210000,
+        "filings": 8,
+        "clients": 7
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 190000,
+        "filings": 9,
+        "clients": 9
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 220000,
+        "filings": 10,
+        "clients": 10
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 240000,
+        "filings": 13,
+        "clients": 11
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 260000,
+        "filings": 9,
+        "clients": 9
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 270000,
+        "filings": 11,
+        "clients": 9
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 270000,
+        "filings": 9,
+        "clients": 9
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 120000,
+        "filings": 6,
+        "clients": 6
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 90000,
+        "filings": 4,
+        "clients": 4
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 370000,
+        "filings": 9,
+        "clients": 8
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 330000,
+        "filings": 9,
+        "clients": 7
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 120000,
+        "filings": 6,
+        "clients": 6
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 350000,
+        "filings": 11,
+        "clients": 10
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 360000,
+        "filings": 16,
+        "clients": 14
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 510000,
+        "filings": 17,
+        "clients": 15
+      }
+    ],
+    "ALC": [
+      {
+        "quarter": "2018-Q1",
+        "income": 989000,
+        "filings": 78,
+        "clients": 66
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 1050000,
+        "filings": 87,
+        "clients": 73
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 1090000,
+        "filings": 86,
+        "clients": 77
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 1239000,
+        "filings": 87,
+        "clients": 75
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 794928,
+        "filings": 68,
+        "clients": 58
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 668225,
+        "filings": 65,
+        "clients": 53
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 1003225,
+        "filings": 93,
+        "clients": 73
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 1104725,
+        "filings": 88,
+        "clients": 76
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 807225,
+        "filings": 72,
+        "clients": 57
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 1016725,
+        "filings": 75,
+        "clients": 65
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 991725,
+        "filings": 65,
+        "clients": 59
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 950967,
+        "filings": 65,
+        "clients": 61
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 822725,
+        "filings": 61,
+        "clients": 55
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 1180450,
+        "filings": 74,
+        "clients": 61
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 1074450,
+        "filings": 78,
+        "clients": 68
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 935000,
+        "filings": 76,
+        "clients": 67
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 838500,
+        "filings": 83,
+        "clients": 72
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 1123500,
+        "filings": 82,
+        "clients": 71
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 1050500,
+        "filings": 86,
+        "clients": 76
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 1113000,
+        "filings": 87,
+        "clients": 73
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 731000,
+        "filings": 58,
+        "clients": 53
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 738000,
+        "filings": 56,
+        "clients": 53
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 760000,
+        "filings": 59,
+        "clients": 54
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 785000,
+        "filings": 61,
+        "clients": 56
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 607500,
+        "filings": 45,
+        "clients": 43
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 767500,
+        "filings": 59,
+        "clients": 53
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 1095000,
+        "filings": 63,
+        "clients": 57
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 1187500,
+        "filings": 59,
+        "clients": 55
+      }
+    ],
+    "MAN": [
+      {
+        "quarter": "2018-Q1",
+        "income": 3329000,
+        "filings": 188,
+        "clients": 163
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 3284332,
+        "filings": 182,
+        "clients": 165
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 3801498,
+        "filings": 187,
+        "clients": 172
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 3867278,
+        "filings": 199,
+        "clients": 179
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 3388500,
+        "filings": 155,
+        "clients": 139
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 3651500,
+        "filings": 162,
+        "clients": 154
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 4238000,
+        "filings": 218,
+        "clients": 196
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 4942862,
+        "filings": 222,
+        "clients": 200
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 4239000,
+        "filings": 223,
+        "clients": 196
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 6246250,
+        "filings": 310,
+        "clients": 255
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 6774000,
+        "filings": 331,
+        "clients": 277
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 7903825,
+        "filings": 317,
+        "clients": 284
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 8069825,
+        "filings": 347,
+        "clients": 295
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 10754839,
+        "filings": 410,
+        "clients": 344
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 11785370,
+        "filings": 447,
+        "clients": 378
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 13988053,
+        "filings": 435,
+        "clients": 374
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 11149099,
+        "filings": 461,
+        "clients": 378
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 12337599,
+        "filings": 482,
+        "clients": 400
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 14030182,
+        "filings": 517,
+        "clients": 430
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 13338100,
+        "filings": 505,
+        "clients": 417
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 12311493,
+        "filings": 437,
+        "clients": 369
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 13970991,
+        "filings": 479,
+        "clients": 418
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 13769093,
+        "filings": 478,
+        "clients": 405
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 15681043,
+        "filings": 534,
+        "clients": 442
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 14688457,
+        "filings": 523,
+        "clients": 431
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 19880126,
+        "filings": 616,
+        "clients": 505
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 21420122,
+        "filings": 655,
+        "clients": 555
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 22759516,
+        "filings": 680,
+        "clients": 575
+      }
+    ],
+    "NAT": [
+      {
+        "quarter": "2018-Q1",
+        "income": 11792234,
+        "filings": 637,
+        "clients": 555
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 13147629,
+        "filings": 718,
+        "clients": 603
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 14564525,
+        "filings": 740,
+        "clients": 645
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 16001200,
+        "filings": 791,
+        "clients": 644
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 12971849,
+        "filings": 674,
+        "clients": 573
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 11683715,
+        "filings": 638,
+        "clients": 563
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 13746705,
+        "filings": 733,
+        "clients": 644
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 15795999,
+        "filings": 797,
+        "clients": 682
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 12865950,
+        "filings": 710,
+        "clients": 602
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 14183960,
+        "filings": 758,
+        "clients": 664
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 13516600,
+        "filings": 757,
+        "clients": 670
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 13717152,
+        "filings": 756,
+        "clients": 678
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 10839101,
+        "filings": 651,
+        "clients": 566
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 12678461.3,
+        "filings": 735,
+        "clients": 640
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 14506014,
+        "filings": 779,
+        "clients": 676
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 16044267,
+        "filings": 799,
+        "clients": 713
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 16145490.05,
+        "filings": 730,
+        "clients": 647
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 16516789,
+        "filings": 868,
+        "clients": 712
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 16810425,
+        "filings": 859,
+        "clients": 760
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 16744184,
+        "filings": 857,
+        "clients": 744
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 16779640.58,
+        "filings": 746,
+        "clients": 663
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 17791768,
+        "filings": 793,
+        "clients": 706
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 17844103,
+        "filings": 809,
+        "clients": 729
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 19602349,
+        "filings": 871,
+        "clients": 789
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 17261949,
+        "filings": 794,
+        "clients": 688
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 22309525,
+        "filings": 944,
+        "clients": 824
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 25732915,
+        "filings": 1008,
+        "clients": 879
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 28383931,
+        "filings": 1078,
+        "clients": 938
+      }
+    ],
+    "DIS": [
+      {
+        "quarter": "2018-Q1",
+        "income": 4174315,
+        "filings": 208,
+        "clients": 187
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 3848315,
+        "filings": 196,
+        "clients": 174
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 4118315,
+        "filings": 209,
+        "clients": 188
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 3810000,
+        "filings": 193,
+        "clients": 171
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 3361298,
+        "filings": 185,
+        "clients": 164
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 4265392,
+        "filings": 202,
+        "clients": 185
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 4114750,
+        "filings": 203,
+        "clients": 182
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 4222000,
+        "filings": 219,
+        "clients": 191
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 8861460,
+        "filings": 455,
+        "clients": 403
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 11423375.969999999,
+        "filings": 592,
+        "clients": 509
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 10148276,
+        "filings": 517,
+        "clients": 469
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 9816141,
+        "filings": 494,
+        "clients": 454
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 7059813,
+        "filings": 373,
+        "clients": 339
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 7587341,
+        "filings": 402,
+        "clients": 349
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 7448538,
+        "filings": 378,
+        "clients": 340
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 6952891,
+        "filings": 366,
+        "clients": 327
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 6536686,
+        "filings": 323,
+        "clients": 295
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 6154498,
+        "filings": 317,
+        "clients": 292
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 6066598,
+        "filings": 309,
+        "clients": 284
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 6059000,
+        "filings": 319,
+        "clients": 285
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 4601800,
+        "filings": 247,
+        "clients": 217
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 4415097,
+        "filings": 228,
+        "clients": 213
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 5264875,
+        "filings": 274,
+        "clients": 251
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 5407800,
+        "filings": 291,
+        "clients": 267
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 5141973,
+        "filings": 257,
+        "clients": 230
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 7457675,
+        "filings": 310,
+        "clients": 275
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 7948875,
+        "filings": 348,
+        "clients": 313
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 7820374,
+        "filings": 318,
+        "clients": 299
+      }
+    ],
+    "BEV": [
+      {
+        "quarter": "2018-Q1",
+        "income": 865000,
+        "filings": 33,
+        "clients": 26
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 970000,
+        "filings": 38,
+        "clients": 30
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 895000,
+        "filings": 39,
+        "clients": 28
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 1035000,
+        "filings": 40,
+        "clients": 31
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 830000,
+        "filings": 36,
+        "clients": 31
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 805000,
+        "filings": 39,
+        "clients": 29
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 970000,
+        "filings": 43,
+        "clients": 37
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 1080000,
+        "filings": 50,
+        "clients": 35
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 840000,
+        "filings": 40,
+        "clients": 30
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 1110000,
+        "filings": 49,
+        "clients": 33
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 870000,
+        "filings": 40,
+        "clients": 31
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 1170000,
+        "filings": 43,
+        "clients": 35
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 980000,
+        "filings": 36,
+        "clients": 29
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 1044000,
+        "filings": 40,
+        "clients": 30
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 1274000,
+        "filings": 52,
+        "clients": 39
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 1464000,
+        "filings": 53,
+        "clients": 40
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 944000,
+        "filings": 45,
+        "clients": 38
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 1398000,
+        "filings": 52,
+        "clients": 39
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 1284000,
+        "filings": 52,
+        "clients": 37
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 1384000,
+        "filings": 54,
+        "clients": 40
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 1445000,
+        "filings": 43,
+        "clients": 31
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 1360000,
+        "filings": 46,
+        "clients": 33
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 1495000,
+        "filings": 49,
+        "clients": 35
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 1492500,
+        "filings": 60,
+        "clients": 41
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 1402500,
+        "filings": 52,
+        "clients": 38
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 2495000,
+        "filings": 60,
+        "clients": 44
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 1765000,
+        "filings": 59,
+        "clients": 45
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 2132500,
+        "filings": 63,
+        "clients": 44
+      }
+    ],
+    "FOR": [
+      {
+        "quarter": "2018-Q1",
+        "income": 7911320,
+        "filings": 370,
+        "clients": 314
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 7551750,
+        "filings": 405,
+        "clients": 346
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 9526899.05,
+        "filings": 407,
+        "clients": 356
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 9820839,
+        "filings": 407,
+        "clients": 344
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 7895114,
+        "filings": 336,
+        "clients": 283
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 8955993,
+        "filings": 359,
+        "clients": 314
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 9962250,
+        "filings": 410,
+        "clients": 352
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 9638816,
+        "filings": 419,
+        "clients": 357
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 8513915,
+        "filings": 365,
+        "clients": 314
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 9251011,
+        "filings": 391,
+        "clients": 334
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 8930527,
+        "filings": 369,
+        "clients": 325
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 8937915,
+        "filings": 373,
+        "clients": 328
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 7677761,
+        "filings": 313,
+        "clients": 269
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 7507500,
+        "filings": 366,
+        "clients": 317
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 10204424,
+        "filings": 409,
+        "clients": 355
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 10558036,
+        "filings": 380,
+        "clients": 333
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 10927331,
+        "filings": 398,
+        "clients": 346
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 10217396,
+        "filings": 437,
+        "clients": 365
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 10627646,
+        "filings": 448,
+        "clients": 386
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 11174464,
+        "filings": 464,
+        "clients": 386
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 9570533.629999999,
+        "filings": 396,
+        "clients": 349
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 8679920,
+        "filings": 392,
+        "clients": 343
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 10196325,
+        "filings": 434,
+        "clients": 371
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 10095012,
+        "filings": 426,
+        "clients": 372
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 8681486,
+        "filings": 366,
+        "clients": 317
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 12857805.67,
+        "filings": 423,
+        "clients": 369
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 14200809,
+        "filings": 471,
+        "clients": 409
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 14017476.91,
+        "filings": 468,
+        "clients": 406
+      }
+    ],
+    "GAM": [
+      {
+        "quarter": "2018-Q1",
+        "income": 2768000,
+        "filings": 81,
+        "clients": 63
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 3501000,
+        "filings": 89,
+        "clients": 66
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 4071000,
+        "filings": 98,
+        "clients": 74
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 3462000,
+        "filings": 101,
+        "clients": 74
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 2821000,
+        "filings": 89,
+        "clients": 70
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 3050000,
+        "filings": 90,
+        "clients": 72
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 3525000,
+        "filings": 96,
+        "clients": 74
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 3814000,
+        "filings": 98,
+        "clients": 71
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 3156000,
+        "filings": 101,
+        "clients": 71
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 3350000,
+        "filings": 96,
+        "clients": 75
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 3372000,
+        "filings": 93,
+        "clients": 71
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 3171000,
+        "filings": 85,
+        "clients": 66
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 2624000,
+        "filings": 67,
+        "clients": 55
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 3170000,
+        "filings": 87,
+        "clients": 64
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 3046000,
+        "filings": 76,
+        "clients": 60
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 3076000,
+        "filings": 80,
+        "clients": 64
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 2726000,
+        "filings": 81,
+        "clients": 63
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 3045000,
+        "filings": 84,
+        "clients": 66
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 2863500,
+        "filings": 86,
+        "clients": 67
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 3049177.5,
+        "filings": 88,
+        "clients": 66
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 2498500,
+        "filings": 72,
+        "clients": 59
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 2241000,
+        "filings": 70,
+        "clients": 55
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 2497250,
+        "filings": 72,
+        "clients": 59
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 3015250,
+        "filings": 90,
+        "clients": 69
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 2716500,
+        "filings": 81,
+        "clients": 58
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 4429000,
+        "filings": 92,
+        "clients": 65
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 3995000,
+        "filings": 94,
+        "clients": 78
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 4186000,
+        "filings": 103,
+        "clients": 86
+      }
+    ],
+    "ADV": [
+      {
+        "quarter": "2018-Q1",
+        "income": 725000,
+        "filings": 33,
+        "clients": 32
+      },
+      {
+        "quarter": "2018-Q2",
+        "income": 836333,
+        "filings": 42,
+        "clients": 35
+      },
+      {
+        "quarter": "2018-Q3",
+        "income": 540000,
+        "filings": 42,
+        "clients": 37
+      },
+      {
+        "quarter": "2018-Q4",
+        "income": 540000,
+        "filings": 33,
+        "clients": 30
+      },
+      {
+        "quarter": "2019-Q1",
+        "income": 630000,
+        "filings": 39,
+        "clients": 33
+      },
+      {
+        "quarter": "2019-Q2",
+        "income": 519000,
+        "filings": 39,
+        "clients": 32
+      },
+      {
+        "quarter": "2019-Q3",
+        "income": 700000,
+        "filings": 33,
+        "clients": 29
+      },
+      {
+        "quarter": "2019-Q4",
+        "income": 619000,
+        "filings": 37,
+        "clients": 33
+      },
+      {
+        "quarter": "2020-Q1",
+        "income": 620000,
+        "filings": 41,
+        "clients": 35
+      },
+      {
+        "quarter": "2020-Q2",
+        "income": 661000,
+        "filings": 44,
+        "clients": 35
+      },
+      {
+        "quarter": "2020-Q3",
+        "income": 554000,
+        "filings": 39,
+        "clients": 37
+      },
+      {
+        "quarter": "2020-Q4",
+        "income": 446000,
+        "filings": 37,
+        "clients": 34
+      },
+      {
+        "quarter": "2021-Q1",
+        "income": 396000,
+        "filings": 25,
+        "clients": 24
+      },
+      {
+        "quarter": "2021-Q2",
+        "income": 509000,
+        "filings": 41,
+        "clients": 35
+      },
+      {
+        "quarter": "2021-Q3",
+        "income": 450000,
+        "filings": 36,
+        "clients": 31
+      },
+      {
+        "quarter": "2021-Q4",
+        "income": 510750,
+        "filings": 38,
+        "clients": 33
+      },
+      {
+        "quarter": "2022-Q1",
+        "income": 290000,
+        "filings": 29,
+        "clients": 25
+      },
+      {
+        "quarter": "2022-Q2",
+        "income": 530000,
+        "filings": 31,
+        "clients": 27
+      },
+      {
+        "quarter": "2022-Q3",
+        "income": 574375,
+        "filings": 32,
+        "clients": 27
+      },
+      {
+        "quarter": "2022-Q4",
+        "income": 504375,
+        "filings": 37,
+        "clients": 31
+      },
+      {
+        "quarter": "2024-Q1",
+        "income": 848750,
+        "filings": 35,
+        "clients": 28
+      },
+      {
+        "quarter": "2024-Q2",
+        "income": 495000,
+        "filings": 33,
+        "clients": 27
+      },
+      {
+        "quarter": "2024-Q3",
+        "income": 535000,
+        "filings": 28,
+        "clients": 24
+      },
+      {
+        "quarter": "2024-Q4",
+        "income": 555000,
+        "filings": 29,
+        "clients": 24
+      },
+      {
+        "quarter": "2025-Q1",
+        "income": 702000,
+        "filings": 35,
+        "clients": 30
+      },
+      {
+        "quarter": "2025-Q2",
+        "income": 822000,
+        "filings": 42,
+        "clients": 33
+      },
+      {
+        "quarter": "2025-Q3",
+        "income": 752000,
+        "filings": 40,
+        "clients": 34
+      },
+      {
+        "quarter": "2025-Q4",
+        "income": 767000,
+        "filings": 39,
+        "clients": 31
+      }
+    ]
+  }
+}

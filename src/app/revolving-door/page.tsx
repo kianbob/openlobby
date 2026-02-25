@@ -1,5 +1,5 @@
 'use client'
-
+import SourceCitation from '@/components/SourceCitation'
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
@@ -89,6 +89,7 @@ export default function RevolvingDoorPage() {
           )}
         </>
       )}
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )
 }

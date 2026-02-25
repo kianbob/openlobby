@@ -1,17 +1,24 @@
 import Link from 'next/link'
+import { readFileSync } from 'fs'
+import { join } from 'path'
+import { formatCurrency, formatNumber } from '@/lib/format'
 
-// Will load from public/data/stats.json once data is processed
-const stats = {
-  totalSpending: '$4.4B',
-  totalSpendingYear: '2024',
-  totalFilings: '726K+',
-  totalClients: '133K+',
-  totalLobbyists: '87K+',
-  totalFirms: '17K+',
-  yearRange: '2018–2025',
+function getStats() {
+  try {
+    const data = JSON.parse(readFileSync(join(process.cwd(), 'public', 'data', 'stats.json'), 'utf8'))
+    return data
+  } catch {
+    return null
+  }
 }
 
 export default function HomePage() {
+  const stats = getStats()
+  
+  const totalSpending = stats ? formatCurrency(stats.latestYearIncome) : '$2.0B'
+  const totalFilings = stats ? formatNumber(stats.totalFilings) : '650K+'
+  const yearRange = stats?.yearRange || '2018–2025'
+
   return (
     <>
       {/* Hero */}
@@ -19,17 +26,17 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
           <div className="text-center max-w-4xl mx-auto">
             <p className="text-indigo-300 text-sm font-medium tracking-wider uppercase mb-4">
-              Data through 2025 · Updated weekly
+              Data through 2025 · Updated from Senate LDA filings
             </p>
             <h1 className="text-4xl md:text-6xl font-black leading-tight mb-6" style={{ fontFamily: 'var(--font-serif)' }}>
-              $4.4 Billion Buys a Lot of{' '}
+              {totalSpending} Buys a Lot of{' '}
               <span className="text-amber-400">Influence</span>
             </h1>
             <p className="text-lg md:text-xl text-indigo-200 mb-4 max-w-2xl mx-auto">
               Every lobbying dollar. Every client. Every lobbyist. Every issue.
             </p>
             <p className="text-base text-indigo-300 mb-8 max-w-2xl mx-auto">
-              We analyzed {stats.totalFilings} federal lobbying filings from {stats.yearRange} — 
+              We analyzed {totalFilings} federal lobbying filings from {yearRange} — 
               who&apos;s paying, who&apos;s lobbying, and what they want. 
               All from public Senate LDA disclosures.
             </p>
@@ -61,11 +68,11 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
             {[
-              { value: stats.totalSpending, label: `Lobbying in ${stats.totalSpendingYear}`, color: 'text-red-600' },
-              { value: stats.totalFilings, label: 'Total Filings', color: 'text-indigo-600' },
-              { value: stats.totalClients, label: 'Unique Clients', color: 'text-indigo-600' },
-              { value: stats.totalLobbyists, label: 'Individual Lobbyists', color: 'text-indigo-600' },
-              { value: stats.totalFirms, label: 'Lobbying Firms', color: 'text-indigo-600' },
+              { value: totalSpending, label: 'Lobbying in 2024', color: 'text-red-600' },
+              { value: totalFilings, label: 'Total Filings', color: 'text-indigo-600' },
+              { value: stats ? formatNumber(stats.totalClients) : '5,000+', label: 'Top Clients Tracked', color: 'text-indigo-600' },
+              { value: stats ? formatNumber(stats.totalLobbyists) : '5,000+', label: 'Lobbyists Tracked', color: 'text-indigo-600' },
+              { value: stats ? formatNumber(stats.totalRevolvingDoor) : '5,000+', label: 'Revolving Door', color: 'text-indigo-600' },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
                 <div className={`text-3xl md:text-4xl font-bold ${stat.color}`} style={{ fontFamily: 'var(--font-serif)' }}>
@@ -100,13 +107,13 @@ export default function HomePage() {
               },
               {
                 title: 'What They Want',
-                desc: '76 issue categories from healthcare to defense. See which industries spend the most lobbying on which policies.',
+                desc: `${stats?.totalIssues || 79} issue categories from healthcare to defense. See which industries spend the most lobbying on which policies.`,
                 href: '/issues',
                 icon: '📋',
               },
               {
                 title: 'Spending Trends',
-                desc: '$4.4 billion in 2024 — a new record. Lobbying spending has grown every year since 2016. See the full picture.',
+                desc: `${totalSpending} in 2024. Lobbying spending has grown every year since 2016. See the full picture.`,
                 href: '/trends',
                 icon: '📈',
               },
@@ -133,6 +140,55 @@ export default function HomePage() {
                 <p className="text-gray-600 text-sm">{card.desc}</p>
               </Link>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Latest Investigations */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-3xl font-bold text-center mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
+            Latest Investigations
+          </h2>
+          <p className="text-center text-gray-600 mb-10 max-w-2xl mx-auto">
+            Deep-dive data journalism about federal lobbying — who spends, who benefits, and what it means.
+          </p>
+          <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+            {[
+              {
+                slug: 'doge-vs-lobbying',
+                title: 'DOGE vs. The Lobbying Machine',
+                desc: 'What happens when DOGE comes for the agencies that lobbyists depend on?',
+                tag: 'DOGE',
+              },
+              {
+                slug: 'tech-lobbying-war',
+                title: "Big Tech's $260M Lobbying Machine",
+                desc: 'How Google, Meta, Amazon, and Apple spend hundreds of millions to shape tech regulation.',
+                tag: 'Tech',
+              },
+              {
+                slug: 'pharma-drug-pricing',
+                title: '$450M to Keep Drug Prices High',
+                desc: "The pharmaceutical industry is the biggest lobbying spender in Washington.",
+                tag: 'Pharma',
+              },
+            ].map(inv => (
+              <Link
+                key={inv.slug}
+                href={`/investigations/${inv.slug}`}
+                className="block bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg hover:border-indigo-300 transition-all"
+              >
+                <span className="text-xs font-semibold px-2 py-0.5 rounded bg-indigo-100 text-indigo-800">{inv.tag}</span>
+                <h3 className="text-lg font-bold mt-3 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>{inv.title}</h3>
+                <p className="text-sm text-gray-600">{inv.desc}</p>
+              </Link>
+            ))}
+          </div>
+          <div className="text-center mt-8">
+            <Link href="/investigations" className="text-indigo-600 font-semibold hover:text-indigo-800 transition-colors">
+              View All Investigations →
+            </Link>
           </div>
         </div>
       </section>

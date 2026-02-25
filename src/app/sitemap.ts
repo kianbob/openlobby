@@ -2,23 +2,21 @@ import { MetadataRoute } from 'next'
 import fs from 'fs'
 import path from 'path'
 
+const investigations = [
+  'doge-vs-lobbying', 'tech-lobbying-war', 'pharma-drug-pricing',
+  'revolving-door-exposed', 'foreign-influence', 'lobbying-roi',
+  'defense-contractor-lobbying', 'crypto-lobbying-explosion',
+  'ai-regulation-fight', 'tariff-lobbying-surge', 'lobbying-statistics',
+  'what-is-lobbying',
+]
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.openlobby.us'
 
   const staticPages = [
-    '',
-    '/about',
-    '/clients',
-    '/firms',
-    '/lobbyists',
-    '/issues',
-    '/trends',
-    '/revolving-door',
-    '/foreign',
-    '/industries',
-    '/investigations',
-    '/search',
-    '/downloads',
+    '', '/about', '/clients', '/firms', '/lobbyists', '/issues',
+    '/trends', '/revolving-door', '/foreign', '/industries',
+    '/investigations', '/search', '/downloads', '/states',
   ]
 
   const routes: MetadataRoute.Sitemap = staticPages.map(p => ({
@@ -43,6 +41,35 @@ export default function sitemap(): MetadataRoute.Sitemap {
       routes.push({ url: `${baseUrl}/firms/${f.slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
     }
   } catch {}
+
+  // Lobbyist detail pages
+  try {
+    const lobbyistIndex = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'lobbyist-index.json'), 'utf-8'))
+    for (const l of lobbyistIndex.slice(0, 2000)) {
+      routes.push({ url: `${baseUrl}/lobbyists/${l.slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.4 })
+    }
+  } catch {}
+
+  // Issue detail pages
+  try {
+    const issueIndex = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'issue-index.json'), 'utf-8'))
+    for (const i of issueIndex) {
+      routes.push({ url: `${baseUrl}/issues/${i.code.toLowerCase()}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
+    }
+  } catch {}
+
+  // State detail pages
+  try {
+    const stateIndex = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'state-index.json'), 'utf-8'))
+    for (const s of stateIndex) {
+      routes.push({ url: `${baseUrl}/states/${s.abbreviation.toLowerCase()}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
+    }
+  } catch {}
+
+  // Investigation articles
+  for (const slug of investigations) {
+    routes.push({ url: `${baseUrl}/investigations/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6 })
+  }
 
   return routes
 }

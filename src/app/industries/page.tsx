@@ -1,5 +1,5 @@
 'use client'
-
+import SourceCitation from '@/components/SourceCitation'
 import { useState, useEffect } from 'react'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { formatCurrency, formatNumber } from '@/lib/format'
@@ -84,6 +84,7 @@ export default function IndustriesPage() {
           })}
         </div>
       )}
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )
 }
