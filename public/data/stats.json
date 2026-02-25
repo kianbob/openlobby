@@ -1,6 +1,6 @@
 {
-  "totalFilings": 555097,
-  "totalIncome": 12973447596,
+  "totalFilings": 650333,
+  "totalIncome": 15213161685,
   "latestYearIncome": 1980946137,
   "latestYear": 2024,
   "yearRange": "2018-2025",
@@ -36,6 +36,11 @@
       "year": 2022,
       "income": 2046988898,
       "filings": 88232
+    },
+    {
+      "year": 2023,
+      "income": 2239714089,
+      "filings": 95236
     },
     {
       "year": 2024,
