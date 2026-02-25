@@ -33,9 +33,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* Google Analytics — TODO: Replace with real GA ID */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" />
-        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');` }} />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-MKREG3WMER" />
+        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-MKREG3WMER');` }} />
         <link
           href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap"
           rel="stylesheet"
