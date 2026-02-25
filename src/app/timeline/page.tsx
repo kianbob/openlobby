@@ -99,7 +99,7 @@ export default function TimelinePage() {
           Annual Lobbying Spending ($B)
         </h2>
         <ResponsiveContainer width="100%" height={200}>
-          <BarChart data={yearlySpending} onClick={(data) => {
+          <BarChart data={yearlySpending} onClick={(data: any) => {
             if (data?.activePayload?.[0]) {
               const yr = data.activePayload[0].payload.year
               setActiveYear(activeYear === yr ? null : yr)
@@ -107,7 +107,7 @@ export default function TimelinePage() {
           }}>
             <XAxis dataKey="year" tick={{ fontSize: 12 }} />
             <YAxis tick={{ fontSize: 12 }} domain={[0, 3]} tickFormatter={v => `$${v}B`} />
-            <Tooltip formatter={(v: number) => [`$${v.toFixed(2)}B`, 'Spending']} />
+            <Tooltip formatter={(v: any) => [`$${Number(v).toFixed(2)}B`, 'Spending']} />
             <Bar dataKey="amount" radius={[4, 4, 0, 0]} cursor="pointer">
               {yearlySpending.map((entry) => (
                 <Cell key={entry.year} fill={activeYear === entry.year ? '#4f46e5' : '#a5b4fc'} />

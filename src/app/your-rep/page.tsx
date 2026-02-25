@@ -246,7 +246,7 @@ export default function YourRepPage() {
       </div>
 
       <div className="mt-8">
-        <ShareButtons title="Who's Lobbying Your State? | OpenLobby" />
+        <ShareButtons url="https://www.openlobby.us/your-rep" title="Who's Lobbying Your State? | OpenLobby" />
       </div>
 
       <SourceCitation />

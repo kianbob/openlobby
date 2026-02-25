@@ -246,7 +246,7 @@ export default async function StateRepPage({ params }: { params: Promise<{ state
       </div>
 
       <div className="mt-8">
-        <ShareButtons title={`Who's Lobbying ${stateData.name}? | OpenLobby`} />
+        <ShareButtons url={`https://www.openlobby.us/your-rep/${slug}`} title={`Who's Lobbying ${stateData.name}? | OpenLobby`} />
       </div>
 
       <SourceCitation />
