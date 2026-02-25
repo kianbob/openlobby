@@ -261,7 +261,7 @@ export default async function IssueDetailPage({ params }: { params: Promise<{ sl
             <div className="font-medium text-sm text-indigo-700">⚔️ Issue Battles</div>
             <div className="text-xs text-gray-500 mt-1">See which sides are spending on competing issues</div>
           </Link>
-          <Link href="/seasonal" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+          <Link href="/filing-patterns" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
             <div className="font-medium text-sm text-indigo-700">📅 Seasonal Patterns</div>
             <div className="text-xs text-gray-500 mt-1">When does lobbying peak throughout the year?</div>
           </Link>
