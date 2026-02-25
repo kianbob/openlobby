@@ -13,6 +13,7 @@ const navGroups = [
       { name: 'Issues', href: '/issues', desc: 'What they\'re lobbying about' },
       { name: 'Industries', href: '/industries', desc: 'Spending by sector' },
       { name: 'By State', href: '/states', desc: 'Lobbying by client state' },
+      { name: 'Recent Filings', href: '/recent', desc: 'Latest lobbying disclosures' },
     ],
   },
   {
@@ -66,6 +67,7 @@ const navGroups = [
       { name: 'Downloads', href: '/downloads', desc: 'Get the raw data' },
       { name: 'Spending Comparisons', href: '/compare-spending', desc: 'Lobbying spending in perspective' },
       { name: 'Lobbying Timeline', href: '/timeline', desc: 'When money meets legislation' },
+      { name: 'Embed Widgets', href: '/embed', desc: 'Embed data on your site' },
     ],
   },
   {
