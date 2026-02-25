@@ -3,6 +3,7 @@ import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
 import { formatNumber, slugify, toTitleCase } from '@/lib/format'
@@ -60,6 +61,7 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <BreadcrumbJsonLd items={[{ name: 'Lobbyists', href: '/lobbyists' }, { name: d.name }]} />
       <Breadcrumbs items={[{ name: 'Lobbyists', href: '/lobbyists' }, { name: d.name }]} />
 
       <div className="flex items-start gap-3 mb-2">

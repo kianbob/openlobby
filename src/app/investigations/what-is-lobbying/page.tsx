@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import ShareButtons from '@/components/ShareButtons'
 
 export const metadata: Metadata = {
   title: 'What Is Lobbying? A Complete Guide',
@@ -15,6 +16,7 @@ export default function WhatIsLobbyingPage() {
       <article className="prose prose-lg max-w-none">
         <h1 style={{ fontFamily: 'var(--font-serif)' }}>What Is Lobbying? A Complete Guide to How Money Influences Washington</h1>
         <p className="text-gray-500 text-sm">Updated February 2026 · OpenLobby Explainer</p>
+        <ShareButtons url="https://www.openlobby.us/investigations/what-is-lobbying" title="What Is Lobbying? A Complete Guide" />
 
         <p className="text-xl text-gray-700 mt-6">In 2025, organizations spent <strong>$2.7 billion</strong> lobbying the federal government — more than ever before. But what exactly is lobbying, who does it, and how does it shape the laws that affect your life?</p>
 

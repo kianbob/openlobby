@@ -122,8 +122,12 @@ export default function Navigation() {
       </div>
 
       {/* Mobile Menu */}
-      {mobileOpen && (
-        <div className="md:hidden border-t border-gray-200 bg-white">
+      <div
+        className={`md:hidden border-t border-gray-200 bg-white overflow-hidden transition-all duration-300 ease-in-out ${
+          mobileOpen ? 'max-h-[80vh] opacity-100 overflow-y-auto' : 'max-h-0 opacity-0'
+        }`}
+      >
+        <div className="py-2">
           {navGroups.map((group) => (
             <div key={group.label} className="border-b border-gray-100">
               <div className="px-4 py-2 text-xs font-semibold text-gray-500 uppercase tracking-wider">
@@ -133,7 +137,7 @@ export default function Navigation() {
                 <Link
                   key={item.href}
                   href={item.href}
-                  className="block px-6 py-2 text-sm text-gray-700 hover:bg-gray-50"
+                  className="block px-6 py-3 text-sm text-gray-700 hover:bg-gray-50 active:bg-gray-100"
                   onClick={() => setMobileOpen(false)}
                 >
                   {item.name}
@@ -142,7 +146,7 @@ export default function Navigation() {
             </div>
           ))}
         </div>
-      )}
+      </div>
     </nav>
   )
 }

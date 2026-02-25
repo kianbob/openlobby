@@ -3,6 +3,7 @@ import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
 import { formatCurrency, formatNumber, slugify, toTitleCase } from '@/lib/format'
@@ -58,6 +59,7 @@ export default async function StateDetailPage({ params }: { params: Promise<{ st
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <BreadcrumbJsonLd items={[{ name: 'States', href: '/states' }, { name: d.name }]} />
       <Breadcrumbs items={[{ name: 'States', href: '/states' }, { name: d.name }]} />
 
       <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>{d.name} Lobbying</h1>

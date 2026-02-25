@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import fs from 'fs'
 import path from 'path'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
 import { formatCurrency, toTitleCase } from '@/lib/format'
@@ -64,6 +65,7 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <BreadcrumbJsonLd items={[{ name: 'Firms', href: '/firms' }, { name: toTitleCase(firm.name) }]} />
       <Breadcrumbs items={[{ name: 'Firms', href: '/firms' }, { name: toTitleCase(firm.name) }]} />
 
       <h1 className="text-4xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>{toTitleCase(firm.name)}</h1>

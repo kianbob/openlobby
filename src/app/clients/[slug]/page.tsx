@@ -3,18 +3,19 @@ import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
 import { formatCurrency, toTitleCase } from '@/lib/format'
 
 const articleMap: Record<string, { href: string; title: string; desc: string }[]> = {
-  HCR: [{ href: '/investigations/big-pharma-lobbying', title: 'Big Pharma&apos;s $452M Lobbying Machine', desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
-  PHA: [{ href: '/investigations/big-pharma-lobbying', title: 'Big Pharma&apos;s $452M Lobbying Machine', desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
-  MIA: [{ href: '/investigations/big-pharma-lobbying', title: 'Big Pharma&apos;s $452M Lobbying Machine', desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
+  HCR: [{ href: '/investigations/big-pharma-lobbying', title: 'Big Pharma\'s $452M Lobbying Machine', desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
+  PHA: [{ href: '/investigations/big-pharma-lobbying', title: 'Big Pharma\'s $452M Lobbying Machine', desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
+  MIA: [{ href: '/investigations/big-pharma-lobbying', title: 'Big Pharma\'s $452M Lobbying Machine', desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
   DEF: [{ href: '/investigations/defense-contractor-lobbying', title: 'The Defense Lobby', desc: 'Defense contractors spend millions lobbying for contracts worth billions.' }],
-  CPT: [{ href: '/investigations/tech-lobbying-war', title: 'Big Tech&apos;s $150M Lobbying War', desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }, { href: '/investigations/ai-regulation-fight', title: 'Who&apos;s Lobbying to Shape AI Policy', desc: 'The AI regulation fight is the biggest lobbying battle of the decade.' }],
-  SCI: [{ href: '/investigations/tech-lobbying-war', title: 'Big Tech&apos;s $150M Lobbying War', desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
-  COM: [{ href: '/investigations/tech-lobbying-war', title: 'Big Tech&apos;s $150M Lobbying War', desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
+  CPT: [{ href: '/investigations/tech-lobbying-war', title: 'Big Tech\'s $150M Lobbying War', desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }, { href: '/investigations/ai-regulation-fight', title: 'Who\'s Lobbying to Shape AI Policy', desc: 'The AI regulation fight is the biggest lobbying battle of the decade.' }],
+  SCI: [{ href: '/investigations/tech-lobbying-war', title: 'Big Tech\'s $150M Lobbying War', desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
+  COM: [{ href: '/investigations/tech-lobbying-war', title: 'Big Tech\'s $150M Lobbying War', desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
   TRD: [{ href: '/investigations/tariff-lobbying-surge', title: 'The 2025 Tariff Panic', desc: 'As tariffs return, lobbying on trade surges.' }],
   TAR: [{ href: '/investigations/tariff-lobbying-surge', title: 'The 2025 Tariff Panic', desc: 'As tariffs return, lobbying on trade surges.' }],
   FOR: [{ href: '/investigations/foreign-influence', title: 'Foreign Governments Are Lobbying Congress', desc: '1,000+ foreign entities from 50+ countries lobby the US government.' }],
@@ -108,6 +109,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <BreadcrumbJsonLd items={[{ name: 'Clients', href: '/clients' }, { name: toTitleCase(client.name) }]} />
       <Breadcrumbs items={[{ name: 'Clients', href: '/clients' }, { name: toTitleCase(client.name) }]} />
       
       <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>{toTitleCase(client.name)}</h1>
@@ -196,6 +198,24 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
           </ul>
         </section>
       )}
+
+      {/* Related Investigations */}
+      {(() => {
+        const relatedArticles = getRelatedArticles(client.issues || [])
+        return relatedArticles.length > 0 ? (
+          <section className="mb-8">
+            <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+            <div className="grid md:grid-cols-2 gap-3">
+              {relatedArticles.map(a => (
+                <Link key={a.href} href={a.href} className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+                  <div className="font-medium text-sm text-indigo-700">{a.title}</div>
+                  <div className="text-xs text-gray-500 mt-1">{a.desc}</div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        ) : null
+      })()}
 
       <SourceCitation sources={['Senate LDA Filings']} lastUpdated="February 2026" />
     </div>

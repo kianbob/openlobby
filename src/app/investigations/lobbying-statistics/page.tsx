@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import ShareButtons from '@/components/ShareButtons'
 
 export const metadata: Metadata = {
   title: 'Federal Lobbying Statistics 2025: Complete Guide',
@@ -15,6 +16,7 @@ export default function LobbyingStatisticsPage() {
       <article className="prose prose-lg max-w-none">
         <h1 style={{ fontFamily: 'var(--font-serif)' }}>Federal Lobbying Statistics 2025: The Complete Guide</h1>
         <p className="text-gray-500 text-sm">Updated February 2026 · Source: Senate LDA Filings</p>
+        <ShareButtons url="https://www.openlobby.us/investigations/lobbying-statistics" title="Federal Lobbying Statistics 2025: Complete Guide" />
 
         <p className="text-xl text-gray-700 mt-6">The federal lobbying industry hit <strong>$2.7 billion in reported income in 2025</strong>, the highest single-year total in our dataset. Here&apos;s everything you need to know about who&apos;s lobbying, how much they&apos;re spending, and where the money goes.</p>
 
