@@ -148,11 +148,11 @@ export default function FollowTheMoneyPage() {
             America&apos;s largest military shipbuilder. Lobbies on defense and budget.
           </li>
           <li>
-            <strong>Lockheed Martin</strong> — $1.15M lobbied, $2.54B in contracts (2,208x). 
+            <strong><Link href="/clients/lockheed-martin-corporation" className="text-indigo-600 hover:underline">Lockheed Martin</Link></strong> — $1.15M lobbied, $2.54B in contracts (2,208x). 
             The world&apos;s largest defense contractor.
           </li>
           <li>
-            <strong>Boeing</strong> — $1.34M lobbied, $2.35B in contracts (1,756x). 
+            <strong><Link href="/clients/the-boeing-company" className="text-indigo-600 hover:underline">Boeing</Link></strong> — $1.34M lobbied, $2.35B in contracts (1,756x). 
             Defense, aviation, and space contracts.
           </li>
           <li>

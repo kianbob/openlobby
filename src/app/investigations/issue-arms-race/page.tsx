@@ -125,10 +125,10 @@ export default function Page() {
           <p className="text-sm text-gray-500 mt-2">Source: OpenLobby co-occurrence analysis of 287,262 multi-issue filings, 2018–2025</p>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Healthcare + Medicare: The Eternal War (31,240 Filings)</h2>
+        <h2 style={{ fontFamily: 'var(--font-serif)' }}><Link href="/issues/HCR" className="text-indigo-600 hover:underline">Healthcare</Link> + Medicare: The Eternal War (31,240 Filings)</h2>
 
         <p>
-          The most tightly coupled issue pair in all of lobbying is Healthcare (HCR) and Medicare/Medicaid (MMM).
+          The most tightly coupled issue pair in all of lobbying is <Link href="/issues/HCR" className="text-indigo-600 hover:underline">Healthcare (HCR)</Link> and Medicare/Medicaid (MMM).
           With 31,240 co-occurrences and a Jaccard similarity of 0.434, these two issues appear together in
           nearly half of all filings that mention either one. No other pair comes close to this level of
           co-occurrence.
@@ -177,10 +177,10 @@ export default function Page() {
           into <Link href="/investigations/defense-contractor-lobbying" className="text-indigo-600 hover:underline">defense contractor lobbying</Link>.)
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Tax + Trade: The Tariff Battleground (19,506 Filings)</h2>
+        <h2 style={{ fontFamily: 'var(--font-serif)' }}><Link href="/issues/TAX" className="text-indigo-600 hover:underline">Tax</Link> + <Link href="/issues/TRD" className="text-indigo-600 hover:underline">Trade</Link>: The Tariff Battleground (19,506 Filings)</h2>
 
         <p>
-          The Tax + Trade pairing (19,506 filings, Jaccard 0.203) is one of the most intensely contested
+          The <Link href="/issues/TAX" className="text-indigo-600 hover:underline">Tax</Link> + <Link href="/issues/TRD" className="text-indigo-600 hover:underline">Trade</Link> pairing (19,506 filings, Jaccard 0.203) is one of the most intensely contested
           arenas in current lobbying. Tariffs are simultaneously a tax issue (they&apos;re literally taxes on
           imports) and a trade issue (they reshape international commerce). When the Trump administration
           imposed tariffs on Chinese goods, steel, and aluminum, every affected industry had to lobby on
@@ -194,10 +194,10 @@ export default function Page() {
           announcement. (Read more in our <Link href="/investigations/tariff-lobbying-surge" className="text-indigo-600 hover:underline">tariff lobbying surge</Link> analysis.)
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Energy + Environment: The Climate Proxy War (11,232 Filings)</h2>
+        <h2 style={{ fontFamily: 'var(--font-serif)' }}><Link href="/issues/ENG" className="text-indigo-600 hover:underline">Energy</Link> + <Link href="/issues/ENV" className="text-indigo-600 hover:underline">Environment</Link>: The Climate Proxy War (11,232 Filings)</h2>
 
         <p>
-          Energy (ENG) and Environment (ENV) co-occur in 11,232 filings with a Jaccard similarity of 0.201 —
+          <Link href="/issues/ENG" className="text-indigo-600 hover:underline">Energy (ENG)</Link> and <Link href="/issues/ENV" className="text-indigo-600 hover:underline">Environment (ENV)</Link> co-occur in 11,232 filings with a Jaccard similarity of 0.201 —
           the highest among non-Budget pairings after Healthcare + Medicare and Tax + Trade. This is the
           lobbying proxy war over climate policy.
         </p>

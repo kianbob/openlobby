@@ -240,7 +240,7 @@ export default function SeasonalLobbyingPage() {
 
         <p>
           The surge tracks with increased political uncertainty: a new administration, tariff policy, 
-          DOGE-driven spending cuts, and ongoing healthcare and technology regulatory battles all 
+          DOGE-driven spending cuts, and ongoing <Link href="/issues/HCR" className="text-indigo-600 hover:underline">healthcare</Link> and <Link href="/issues/CPT" className="text-indigo-600 hover:underline">technology</Link> regulatory battles all 
           drove organizations to increase their lobbying presence.
         </p>
 

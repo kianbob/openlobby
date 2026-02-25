@@ -160,7 +160,7 @@ export default function Page() {
           </div>
         </div>
 
-        <h3 style={{ fontFamily: 'var(--font-serif)' }}>BGR Government Affairs — $294.8M</h3>
+        <h3 style={{ fontFamily: 'var(--font-serif)' }}><Link href="/firms/bgr-government-affairs" className="text-indigo-600 hover:underline">BGR Government Affairs</Link> — $294.8M</h3>
 
         <p>
           BGR tops the revenue chart at nearly $295 million and 522 clients. Their revolving door roster reads
@@ -176,7 +176,7 @@ export default function Page() {
           That&apos;s not a lobbying firm. That&apos;s a shadow government.
         </p>
 
-        <h3 style={{ fontFamily: 'var(--font-serif)' }}>Cornerstone Government Affairs — $276.8M</h3>
+        <h3 style={{ fontFamily: 'var(--font-serif)' }}><Link href="/firms/cornerstone-government-affairs" className="text-indigo-600 hover:underline">Cornerstone Government Affairs</Link> — $276.8M</h3>
 
         <p>
           Cornerstone has the most extensive revolving door network, with 601 clients. <strong>Tony Essalih</strong> served
@@ -191,7 +191,7 @@ export default function Page() {
           or someone who didn&apos;t?
         </p>
 
-        <h3 style={{ fontFamily: 'var(--font-serif)' }}>Williams and Jensen — $109.9M</h3>
+        <h3 style={{ fontFamily: 'var(--font-serif)' }}><Link href="/firms/williams-and-jensen" className="text-indigo-600 hover:underline">Williams and Jensen</Link> — $109.9M</h3>
 
         <p>
           <strong>Susan Hirschmann</strong> was Chief of Staff to the House Majority Whip — one of the most

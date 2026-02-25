@@ -48,7 +48,7 @@ export default function WhatIsLobbyingPage() {
           <li><strong>Tech giants</strong> — Shaping AI, privacy, and antitrust policy (<Link href="/investigations/tech-lobbying-war" className="text-indigo-600 hover:underline">see our investigation</Link>)</li>
           <li><strong>Defense contractors</strong> — Securing military contracts and procurement</li>
           <li><strong>Financial institutions</strong> — Banking regulation, cryptocurrency policy</li>
-          <li><strong>Trade associations</strong> — Groups like the U.S. Chamber of Commerce, PhRMA, and the American Medical Association</li>
+          <li><strong>Trade associations</strong> — Groups like the <Link href="/clients/chamber-of-commerce-of-the-u-s-a" className="text-indigo-600 hover:underline">U.S. Chamber of Commerce</Link>, <Link href="/clients/pharmaceutical-research-manufacturers-of-america-phrma" className="text-indigo-600 hover:underline">PhRMA</Link>, and the American Medical Association</li>
           <li><strong>Foreign governments</strong> — Yes, foreign countries lobby Congress too (<Link href="/investigations/foreign-influence" className="text-indigo-600 hover:underline">see our investigation</Link>)</li>
         </ul>
 
@@ -77,7 +77,7 @@ export default function WhatIsLobbyingPage() {
         <p>That&apos;s why transparency matters. And that&apos;s why we built OpenLobby — to make this data accessible to everyone, not just the insiders.</p>
 
         <h2 style={{ fontFamily: 'var(--font-serif)' }}>79 Issue Categories</h2>
-        <p>The LDA classifies lobbying into 79 issue categories, from healthcare (HCR) to defense (DEF) to telecommunications (TEC). Each filing can list multiple issue codes, giving us a detailed picture of what&apos;s being lobbied on.</p>
+        <p>The LDA classifies lobbying into 79 issue categories, from <Link href="/issues/HCR" className="text-indigo-600 hover:underline">healthcare (HCR)</Link> to <Link href="/issues/DEF" className="text-indigo-600 hover:underline">defense (DEF)</Link> to telecommunications (TEC). Each filing can list multiple issue codes, giving us a detailed picture of what&apos;s being lobbied on.</p>
         <p><Link href="/issues" className="text-indigo-600 hover:underline">Explore all 79 issue categories →</Link></p>
 
         <div className="mt-8 p-6 bg-indigo-50 rounded-xl not-prose">

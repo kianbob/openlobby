@@ -122,14 +122,14 @@ export default function Page() {
 
         <p>
           The chart barely works because DC is so far ahead. At $27,105 per capita, DC&apos;s lobbying intensity
-          dwarfs every state. Virginia — DC&apos;s neighbor and home to many defense contractors and lobbying firm
-          satellite offices — comes in at $305 per capita. Maryland, on DC&apos;s other border, is at $110.
-          Massachusetts, home to biotech and education lobbying, is at $108.
+          dwarfs every state. <Link href="/states/VA" className="text-indigo-600 hover:underline">Virginia</Link> — DC&apos;s neighbor and home to many defense contractors and lobbying firm
+          satellite offices — comes in at $305 per capita. <Link href="/states/MD" className="text-indigo-600 hover:underline">Maryland</Link>, on DC&apos;s other border, is at $110.
+          <Link href="/states/MA" className="text-indigo-600 hover:underline">Massachusetts</Link>, home to biotech and education lobbying, is at $108.
         </p>
 
         <p>
-          California, the largest state by population and by total lobbying spending outside DC ($2.64 billion), manages
-          only $68 per capita. Texas: $44. Florida: $30. The average across all states is roughly $304 per capita
+          <Link href="/states/CA" className="text-indigo-600 hover:underline">California</Link>, the largest state by population and by total lobbying spending outside DC ($2.64 billion), manages
+          only $68 per capita. <Link href="/states/TX" className="text-indigo-600 hover:underline">Texas</Link>: $44. <Link href="/states/FL" className="text-indigo-600 hover:underline">Florida</Link>: $30. The average across all states is roughly $304 per capita
           if you include DC, and only about $45 if you exclude it.
         </p>
 
@@ -151,7 +151,7 @@ export default function Page() {
         <p>
           Trade associations — the American Hospital Association, the National Association of Realtors, PhRMA,
           the Business Roundtable — locate in DC specifically to be near the policymakers they exist to influence.
-          The US Chamber of Commerce, our #1 spender at $591.9 million, is literally across the street from the
+          The <Link href="/clients/chamber-of-commerce-of-the-u-s-a" className="text-indigo-600 hover:underline">US Chamber of Commerce</Link>, our #1 spender at $591.9 million, is literally across the street from the
           White House.
         </p>
 
@@ -228,7 +228,7 @@ export default function Page() {
         </p>
 
         <p>
-          <strong>New York</strong> ($1.30 billion, $66/capita) has a distinctive financial services lobbying
+          <strong><Link href="/states/NY" className="text-indigo-600 hover:underline">New York</Link></strong> ($1.30 billion, $66/capita) has a distinctive financial services lobbying
           footprint. Financial services (FIN) ranks 4th among New York&apos;s top issues with 3,378 filings — a
           reflection of Wall Street&apos;s ongoing regulatory battles with the SEC, CFTC, and banking regulators.
         </p>
@@ -236,7 +236,7 @@ export default function Page() {
         <h2 style={{ fontFamily: 'var(--font-serif)' }}>Small States That Punch Above Their Weight</h2>
 
         <p>
-          The per capita ranking surfaces some surprises. <strong>Connecticut</strong> — population 3.6 million —
+          The per capita ranking surfaces some surprises. <strong><Link href="/states/CT" className="text-indigo-600 hover:underline">Connecticut</Link></strong> — population 3.6 million —
           spends $92 per capita on lobbying, outranking states three times its size. Why? Insurance.
           Hartford is the insurance capital of America, and the insurance industry is one of the most
           heavily regulated (and most heavily lobbied) sectors. Pharmaceutical companies in Connecticut&apos;s
@@ -244,13 +244,13 @@ export default function Page() {
         </p>
 
         <p>
-          <strong>Massachusetts</strong> ($108/capita) punches above its weight thanks to its concentration of
+          <strong><Link href="/states/MA" className="text-indigo-600 hover:underline">Massachusetts</Link></strong> ($108/capita) punches above its weight thanks to its concentration of
           biotech firms, universities (which lobby extensively on research funding), and defense contractors.
           The state&apos;s $759 million total puts it 7th nationally despite being only the 16th-largest state.
         </p>
 
         <p>
-          <strong>Colorado</strong> ($66/capita) is notable for its growing tech and aerospace sectors.
+          <strong><Link href="/states/CO" className="text-indigo-600 hover:underline">Colorado</Link></strong> ($66/capita) is notable for its growing tech and aerospace sectors.
           Defense companies, telecoms, and energy firms headquartered in Colorado give the state a
           lobbying intensity that exceeds much larger states like Florida ($30/capita) and Ohio ($37/capita).
         </p>

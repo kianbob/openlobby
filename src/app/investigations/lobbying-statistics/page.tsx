@@ -79,13 +79,13 @@ export default function LobbyingStatisticsPage() {
         <h2 style={{ fontFamily: 'var(--font-serif)' }}>What Issues Get Lobbied Most?</h2>
         <p>The Lobbying Disclosure Act requires filers to categorize their lobbying by issue area. The top issue categories by spending include:</p>
         <ul>
-          <li><strong>Health Issues (HCR)</strong> — Drug pricing, Medicare, Medicaid, FDA approvals</li>
+          <li><strong><Link href="/issues/HCR" className="text-indigo-600 hover:underline">Health Issues (HCR)</Link></strong> — Drug pricing, Medicare, Medicaid, FDA approvals</li>
           <li><strong>Budget/Appropriations (BUD)</strong> — Government spending priorities</li>
-          <li><strong>Taxation (TAX)</strong> — Corporate tax policy, individual tax reform</li>
-          <li><strong>Trade (TRD)</strong> — Tariffs, trade agreements, sanctions</li>
-          <li><strong>Defense (DEF)</strong> — Military contracts, weapons systems, veterans affairs</li>
-          <li><strong>Energy (ENG)</strong> — Oil/gas, renewables, climate policy</li>
-          <li><strong>Technology (CPT)</strong> — AI, data privacy, telecommunications</li>
+          <li><strong><Link href="/issues/TAX" className="text-indigo-600 hover:underline">Taxation (TAX)</Link></strong> — Corporate tax policy, individual tax reform</li>
+          <li><strong><Link href="/issues/TRD" className="text-indigo-600 hover:underline">Trade (TRD)</Link></strong> — Tariffs, trade agreements, sanctions</li>
+          <li><strong><Link href="/issues/DEF" className="text-indigo-600 hover:underline">Defense (DEF)</Link></strong> — Military contracts, weapons systems, veterans affairs</li>
+          <li><strong><Link href="/issues/ENG" className="text-indigo-600 hover:underline">Energy (ENG)</Link></strong> — Oil/gas, renewables, climate policy</li>
+          <li><strong><Link href="/issues/CPT" className="text-indigo-600 hover:underline">Technology (CPT)</Link></strong> — AI, data privacy, telecommunications</li>
         </ul>
         <p>Explore all <Link href="/issues" className="text-indigo-600 hover:underline">79 issue categories</Link> with spending data.</p>
 

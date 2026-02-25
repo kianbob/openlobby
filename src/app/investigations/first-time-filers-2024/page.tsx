@@ -136,7 +136,7 @@ export default function Page() {
         <h3 style={{ fontFamily: 'var(--font-serif)' }}>Healthcare&apos;s Never-Ending Expansion</h3>
 
         <p>
-          The healthcare sector dominates first-time filers, which tells you everything about the regulatory
+          The <Link href="/issues/HCR" className="text-indigo-600 hover:underline">healthcare</Link> sector dominates first-time filers, which tells you everything about the regulatory
           burden on American medicine. Recent new entrants include:
         </p>
 
@@ -175,7 +175,7 @@ export default function Page() {
 
         <p>
           <strong>The Responsible Online Commerce Coalition</strong>, a business league for third-party online
-          sellers, filed through Cuneo Gilbert &amp; LaDuca. As the FTC and Congress take aim at Amazon marketplace
+          sellers, filed through Cuneo Gilbert &amp; LaDuca. As the FTC and Congress take aim at <Link href="/clients/amazon-com-services-llc" className="text-indigo-600 hover:underline">Amazon</Link> marketplace
           practices, small sellers are banding together to be heard.
         </p>
 
@@ -212,7 +212,7 @@ export default function Page() {
 
         <p>
           <strong>Cascade Company LLC</strong>, a Texas-based defense contractor, filed its first lobbying
-          disclosure in Q4 2025 through Ikon Public Affairs. Defense has always been lobbying-heavy, but the
+          disclosure in Q4 2025 through Ikon Public Affairs. <Link href="/issues/DEF" className="text-indigo-600 hover:underline">Defense</Link> has always been lobbying-heavy, but the
           entry of new, smaller contractors reflects an expanding defense budget and the scramble for procurement
           dollars.
         </p>
