@@ -24,11 +24,11 @@ const comparisons = [
     emoji: '🚀',
   },
   {
-    bigNumber: '$2.7B',
+    bigNumber: '$6.0B',
     headline: 'More Than 15+ Countries\' GDP',
     description: '2025 lobbying spending alone exceeds the GDP of Tonga ($536M), Palau ($284M), Micronesia ($427M), and a dozen other nations — combined.',
     source: 'World Bank GDP data; OpenLobby 2025 data',
-    tweet: '🌍 US lobbying in 2025 ($2.7B) exceeds the GDP of 15+ entire countries including Tonga, Palau, and Micronesia. via @OpenLobby',
+    tweet: '🌍 US lobbying in 2025 ($6.0B) exceeds the GDP of 15+ entire countries including Tonga, Palau, and Micronesia. via @OpenLobby',
     color: 'from-emerald-500 to-teal-600',
     emoji: '🌍',
   },

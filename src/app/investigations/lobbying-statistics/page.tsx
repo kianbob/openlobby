@@ -27,7 +27,7 @@ export default function LobbyingStatisticsPage() {
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {[
               { label: 'Total Lobbying (2018-2025)', value: '$37.7 Billion' },
-              { label: '2025 Lobbying Income', value: '$2.7 Billion' },
+              { label: '2025 Lobbying Income', value: '$6.0 Billion' },
               { label: '2024 Lobbying Income', value: '$2.0 Billion' },
               { label: 'Total Filings', value: '726,268' },
               { label: 'Year-over-Year Growth', value: '+36%' },
@@ -46,7 +46,7 @@ export default function LobbyingStatisticsPage() {
         <table>
           <thead><tr><th>Year</th><th>Total Income</th><th>Filings</th><th>YoY Change</th></tr></thead>
           <tbody>
-            <tr><td>2025</td><td>$2.70B</td><td>95,275</td><td className="text-green-600">+36.3%</td></tr>
+            <tr><td>2025</td><td>$6.00B</td><td>107,600</td><td className="text-green-600">+15.6%</td></tr>
             <tr><td>2024</td><td>$1.98B</td><td>82,249</td><td className="text-red-600">−11.5%</td></tr>
             <tr><td>2023</td><td>$2.24B</td><td>95,236</td><td className="text-green-600">+9.4%</td></tr>
             <tr><td>2022</td><td>$2.05B</td><td>88,232</td><td className="text-green-600">+16.5%</td></tr>

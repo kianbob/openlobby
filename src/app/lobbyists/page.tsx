@@ -129,7 +129,7 @@ export default function LobbyistsPage() {
         </div>
       </div>
 
-      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
     </div>
   )
 }

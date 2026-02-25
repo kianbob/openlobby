@@ -11,9 +11,9 @@ export const metadata: Metadata = {
 const stats = [
   { value: '726,000+', label: 'Lobbying Filings' },
   { value: '$37.7B', label: 'Total Lobbying' },
-  { value: '27,000+', label: 'Clients Tracked' },
-  { value: '7,600+', label: 'Lobbyists Profiled' },
-  { value: '2,800+', label: 'Firms Analyzed' },
+  { value: '46,000+', label: 'Clients Tracked' },
+  { value: '23,500+', label: 'Lobbyists Profiled' },
+  { value: '7,700+', label: 'Firms Analyzed' },
   { value: '25+', label: 'Investigations' },
 ]
 
@@ -79,11 +79,11 @@ export default function AboutPage() {
             <h2 className="text-2xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Data</h2>
             <ul className="text-gray-600 space-y-2 leading-relaxed">
               <li><strong>726,000+</strong> lobbying filings (2018–2025)</li>
-              <li><strong>27,000+</strong> clients tracked</li>
-              <li><strong>7,600+</strong> lobbyists profiled</li>
-              <li><strong>2,800+</strong> firms analyzed</li>
+              <li><strong>46,000+</strong> clients tracked</li>
+              <li><strong>23,500+</strong> lobbyists profiled</li>
+              <li><strong>7,700+</strong> firms analyzed</li>
               <li><strong>$37.7B</strong> total lobbying income</li>
-              <li><strong>$2.7B</strong> spent in 2025 — a record</li>
+              <li><strong>$6.0B</strong> spent in 2025 — a record</li>
             </ul>
           </div>
         </div>

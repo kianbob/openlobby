@@ -298,7 +298,7 @@ export default function InfluenceScorePage() {
           Tier thresholds: <strong>Extreme</strong> (90+), <strong>High</strong> (70–89), <strong>Moderate</strong> (50–69), <strong>Low</strong> (&lt;50). Scores are relative — they measure influence compared to other top spenders, not an absolute scale.
         </p>
       </div>
-      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
 
       <section className="mt-12 mb-8">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>

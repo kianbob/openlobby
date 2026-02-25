@@ -37,7 +37,7 @@ export default function TheLobbyingIndustrialComplexPage() {
         { label: 'Total lobbying filings', value: '726,268' },
         { label: 'Total reported income', value: '$37.7B' },
         { label: 'Registered lobbyists', value: '23,545' },
-        { label: 'Unique clients', value: '1,591+' },
+        { label: 'Unique clients', value: '46,000+' },
       ]} />
 
       <div className="my-8 bg-indigo-50 border-l-4 border-indigo-500 p-6 rounded-r-xl">
@@ -67,8 +67,8 @@ export default function TheLobbyingIndustrialComplexPage() {
               { label: 'Total Filings', value: '726,268', sub: '2018–2025' },
               { label: 'Total Spending', value: '$37.7B', sub: 'Reported income' },
               { label: 'Lobbyists', value: '23,545', sub: 'Unique registered' },
-              { label: 'Lobbying Firms', value: '7,746', sub: 'Active firms' },
-              { label: 'Clients', value: '1,591+', sub: 'Top indexed' },
+              { label: 'Lobbying Firms', value: '7,757', sub: 'Active firms' },
+              { label: 'Clients', value: '46,000+', sub: 'Top indexed' },
               { label: 'Issues Tracked', value: '79', sub: 'Issue categories' },
               { label: 'Revolving Door', value: '5,000+', sub: 'Former officials' },
               { label: 'Foreign Entities', value: '1,000+', sub: 'Countries lobbying US' },
@@ -175,7 +175,7 @@ export default function TheLobbyingIndustrialComplexPage() {
         <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The Firms: K Street&apos;s Power Brokers</h2>
 
         <p>
-          The <strong>7,746 lobbying firms</strong> in our dataset range from one-person shops to massive multi-practice
+          The <strong>7,757 lobbying firms</strong> in our dataset range from one-person shops to massive multi-practice
           operations. The top firms —{' '}
           <Link href="/firms" className="text-primary hover:underline">see the full rankings</Link>{' '}
           — handle hundreds of clients each and generate tens of millions in annual revenue.

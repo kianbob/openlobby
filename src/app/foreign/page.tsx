@@ -175,7 +175,7 @@ export default function ForeignPage() {
         </div>
       </section>
 
-      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
+      <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
     </div>
   )
 }

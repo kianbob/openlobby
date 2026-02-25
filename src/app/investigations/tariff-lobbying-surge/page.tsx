@@ -159,7 +159,7 @@ export default function TariffLobbyingSurgePage() {
           clients entering the lobbying arena specifically because of trade concerns.
         </p>
 
-        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Total Lobbying Hits Record $2.7 Billion</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Total Lobbying Hits Record $6.0 Billion</h2>
 
         <p>
           The tariff surge is part of a broader lobbying boom. Total federal lobbying income

@@ -20,7 +20,7 @@ export default function WhatIsLobbyingPage() {
         <p className="text-gray-500 text-sm">Updated February 2026 · 8 min read · OpenLobby Explainer</p>
         <ShareButtons url="https://www.openlobby.us/investigations/what-is-lobbying" title="What Is Lobbying? A Complete Guide" />
 
-        <p className="text-xl text-gray-700 mt-6">In 2025, organizations spent <strong>$2.7 billion</strong> lobbying the federal government — more than ever before. But what exactly is lobbying, who does it, and how does it shape the laws that affect your life?</p>
+        <p className="text-xl text-gray-700 mt-6">In 2025, organizations spent <strong>$6.0 billion</strong> lobbying the federal government — more than ever before. But what exactly is lobbying, who does it, and how does it shape the laws that affect your life?</p>
 
         <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Basics: What Is Lobbying?</h2>
         <p>Lobbying is the act of attempting to influence government decisions — legislation, regulation, or policy — on behalf of an organization, industry, or cause. It&apos;s protected by the First Amendment&apos;s right to &quot;petition the Government for a redress of grievances.&quot;</p>

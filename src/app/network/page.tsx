@@ -233,7 +233,7 @@ export default function NetworkPage() {
         </div>
       </section>
 
-      <SourceCitation sources={['U.S. Senate Lobbying Disclosure Act Database', 'OpenLobby analysis']} lastUpdated="2025" />
+      <SourceCitation sources={['U.S. Senate Lobbying Disclosure Act Database', 'OpenLobby analysis']} lastUpdated="February 2026" />
     </div>
   )
 }

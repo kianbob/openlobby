@@ -122,7 +122,7 @@ export default function Page() {
         </div>
 
         <p>
-          In 2025, lobbying spending hit <strong>$2.7 billion</strong> — a 93% increase from 2018&apos;s $1.4 billion.
+          In 2025, lobbying spending hit <strong>$6.0 billion</strong> — a 93% increase from 2018&apos;s $1.4 billion.
           That&apos;s not inflation. That&apos;s rational actors recognizing that the more government controls, the more it
           pays to influence government.
         </p>
@@ -262,7 +262,7 @@ export default function Page() {
         <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Numbers Keep Growing</h2>
 
         <p>
-          Our data shows that lobbying spending grew from $1.4 billion in 2018 to $2.7 billion in 2025 — virtually
+          Our data shows that lobbying spending grew from $1.4 billion in 2018 to $6.0 billion in 2025 — virtually
           doubling. The number of filings rose from 66,516 to 95,275. And the number of new entrants — organizations
           lobbying for the first time — surged to <strong>6,997 in 2025</strong>, up from 3,796 in 2019.
         </p>

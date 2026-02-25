@@ -91,7 +91,7 @@ const investigations = [
   {
     slug: 'lobbying-statistics',
     title: 'Federal Lobbying Statistics 2025: Complete Guide',
-    desc: 'The definitive stats page — $37.7B total, $2.7B in 2025, 726K+ filings, industry breakdowns, and historical trends.',
+    desc: 'The definitive stats page — $37.7B total, $6.0B in 2025, 726K+ filings, industry breakdowns, and historical trends.',
     tag: 'Reference',
     date: 'Feb 2026',
     readTime: '12 min read',
@@ -99,7 +99,7 @@ const investigations = [
   {
     slug: 'what-is-lobbying',
     title: 'What Is Lobbying? A Complete Guide',
-    desc: 'How lobbying works, who does it, and why $2.7 billion a year buys a lot of influence. Your plain-language explainer.',
+    desc: 'How lobbying works, who does it, and why $6.0 billion a year buys a lot of influence. Your plain-language explainer.',
     tag: 'Guide',
     date: 'Feb 2026',
     readTime: '10 min read',

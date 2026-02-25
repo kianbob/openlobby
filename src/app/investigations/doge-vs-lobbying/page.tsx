@@ -34,7 +34,7 @@ export default function DogeVsLobbyingPage() {
       <ShareButtons url="https://www.openlobby.us/investigations/doge-vs-lobbying" title="DOGE wants to cut government. $5.2 billion in lobbying wants to keep it." />
 
       <QuickFacts facts={[
-        { label: 'Total lobbying in 2025', value: '$2.7B' },
+        { label: 'Total lobbying in 2025', value: '$6.0B' },
         { label: 'Agencies targeted by DOGE', value: '15+' },
         { label: 'Lobbying on government issues', value: '$1.2B' },
         { label: 'New clients lobbying in 2025', value: '500+' },

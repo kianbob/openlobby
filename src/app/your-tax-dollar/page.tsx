@@ -5,8 +5,8 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { formatCurrency } from '@/lib/format'
 
-// Based on real data: ~$2.7B lobbying in 2025, ~160M US taxpayers
-const LOBBYING_PER_TAXPAYER = 16.88 // $2.7B / 160M
+// Based on real data: ~$6.0B lobbying in 2025, ~160M US taxpayers
+const LOBBYING_PER_TAXPAYER = 37.50 // $6.0B / 160M
 
 const topIndustries = [
   { name: 'Healthcare & Pharma', pct: 22, color: 'bg-red-500', amount: 3.71, desc: 'Drug pricing, Medicare, FDA regulation' },
