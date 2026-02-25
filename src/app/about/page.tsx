@@ -25,9 +25,9 @@ export default function AboutPage() {
         <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Data</h2>
         <ul>
           <li><strong>650,000+</strong> lobbying filings (2018–2025)</li>
-          <li><strong>5,000+</strong> top clients tracked</li>
-          <li><strong>5,000+</strong> individual lobbyists profiled</li>
-          <li><strong>2,000+</strong> lobbying firms analyzed</li>
+          <li><strong>1,600+</strong> top clients tracked</li>
+          <li><strong>5,600+</strong> individual lobbyists profiled</li>
+          <li><strong>1,000+</strong> lobbying firms analyzed</li>
           <li><strong>$15.2 billion</strong> total lobbying income tracked</li>
           <li><strong>$2.7 billion</strong> spent on lobbying in 2025 — a record high</li>
         </ul>

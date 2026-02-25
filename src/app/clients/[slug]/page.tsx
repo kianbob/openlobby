@@ -225,7 +225,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
           <div>
             <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
             <p className="text-gray-700 text-sm leading-relaxed">
-              With {formatCurrency(client.totalSpending)} in lobbying spend across {client.filings} quarterly filings, {toTitleCase(client.name)} is {client.totalSpending > 5000000 ? 'one of the biggest lobbying spenders in Washington' : client.totalSpending > 1000000 ? 'a significant lobbying presence' : 'an active lobbying client'}.{client.lobbyists?.length > 10 ? ` They deploy ${client.lobbyists.length} individual lobbyists` : ''}{client.firms?.length > 1 ? ` across ${client.firms.length} different lobbying firms.` : '.'}
+              With {formatCurrency(client.totalSpending)} in lobbying spend across {client.filings} quarterly filings, {toTitleCase(client.name).replace(/\.$/, '')} is {client.totalSpending > 5000000 ? 'one of the biggest lobbying spenders in Washington' : client.totalSpending > 1000000 ? 'a significant lobbying presence' : 'an active lobbying client'}.{client.lobbyists?.length > 10 ? ` They deploy ${client.lobbyists.length} individual lobbyists` : ''}{client.firms?.length > 1 ? ` across ${client.firms.length} different lobbying firms.` : ''}
               {validIssues.length > 0 && ` Their lobbying covers ${validIssues.length} issue area${validIssues.length > 1 ? 's' : ''}.`}
               {client.years?.length > 1 && ` Active from ${Math.min(...client.years)} to ${Math.max(...client.years)}.`}
             </p>
@@ -332,12 +332,14 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
       )}
 
       {/* What They Lobby About */}
-      {client.sampleDescriptions.length > 0 && (
+      {(() => {
+        const uniqueDescs = [...new Map(client.sampleDescriptions.map(d => [d.toLowerCase().trim(), d])).values()]
+        return uniqueDescs.length > 0 ? (
         <section className="mb-8">
           <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>What They Lobby About</h2>
           <p className="text-sm text-gray-500 mb-3">Actual lobbying activity descriptions from their disclosure filings:</p>
           <div className="space-y-3">
-            {client.sampleDescriptions.slice(0, 8).map((desc, i) => (
+            {uniqueDescs.slice(0, 8).map((desc, i) => (
               <div key={i} className="text-gray-700 text-sm pl-4 border-l-2 border-primary/30 leading-relaxed">
                 {desc.split('\n').map((line, j) => (
                   <p key={j} className={j > 0 ? 'mt-1' : ''}>{line}</p>
@@ -345,11 +347,12 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
               </div>
             ))}
           </div>
-          {client.sampleDescriptions.length > 8 && (
-            <p className="text-xs text-gray-400 mt-3">Showing 8 of {client.sampleDescriptions.length} descriptions from filings.</p>
+          {uniqueDescs.length > 8 && (
+            <p className="text-xs text-gray-400 mt-3">Showing 8 of {uniqueDescs.length} unique descriptions from filings.</p>
           )}
         </section>
-      )}
+        ) : null
+      })()}
 
       {/* Cross-links to Related Analysis */}
       <section className="mb-8">
