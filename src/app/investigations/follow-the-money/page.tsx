@@ -44,7 +44,7 @@ export default function FollowTheMoneyPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Most Profitable Investment in America</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Most Profitable Investment in America</h2>
 
         <p>
           Forget the stock market. Forget real estate. Forget crypto. The highest return on investment 
@@ -64,7 +64,7 @@ export default function FollowTheMoneyPage() {
           do illustrate why lobbying is such a rational investment for government contractors.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The ROI Scoreboard</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The ROI Scoreboard</h2>
 
         <div className="bg-gray-50 rounded-xl p-6 my-6 not-prose">
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Lobbying Spend vs. Government Contracts Received</h3>
@@ -115,7 +115,7 @@ export default function FollowTheMoneyPage() {
           </p>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>McKesson: The $11.8 Billion Return</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>McKesson: The $11.8 Billion Return</h2>
 
         <p>
           McKesson Corporation, the pharmaceutical distribution giant based in California, tops our ROI rankings. 
@@ -130,7 +130,7 @@ export default function FollowTheMoneyPage() {
           The company has lobbied consistently since 2018 with 29 filings across 7 years.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Defense Industrial Complex</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Defense Industrial Complex</h2>
 
         <p>
           Defense contractors dominate the ROI list — and for good reason. The Pentagon is the world&apos;s 
@@ -161,7 +161,7 @@ export default function FollowTheMoneyPage() {
           </li>
         </ul>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The SpaceX Factor</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The SpaceX Factor</h2>
 
         <p>
           SpaceX appears on the list with $2.55 million in lobbying and $3 billion in federal contracts — 
@@ -175,7 +175,7 @@ export default function FollowTheMoneyPage() {
           and lobbies to get more.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Booz Allen Hamilton: The Consulting Giant</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Booz Allen Hamilton: The Consulting Giant</h2>
 
         <p>
           The second-highest ROI belongs to Booz Allen Hamilton, the management consulting firm 
@@ -189,7 +189,7 @@ export default function FollowTheMoneyPage() {
           The company has filed 23 lobbying reports since 2018.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What the Numbers Really Mean</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What the Numbers Really Mean</h2>
 
         <p>
           We want to be clear: these numbers don&apos;t prove that lobbying &quot;buys&quot; contracts. 
@@ -209,7 +209,7 @@ export default function FollowTheMoneyPage() {
           thousands of dollars in contracts, the rational business decision is always to keep lobbying.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Self-Reinforcing Cycle</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Self-Reinforcing Cycle</h2>
 
         <p>
           This creates a self-reinforcing cycle: companies win contracts → use contract revenue to fund lobbying → 

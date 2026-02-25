@@ -1,8 +1,8 @@
 {
-  "totalMatches": 13,
+  "totalMatches": 9,
   "totalLobbyingSpend": 23780000,
-  "totalContractValue": 48710538583,
-  "averageROI": 2101,
+  "totalContractValue": 39110664693,
+  "averageROI": 1645,
   "topByROI": [
     {
       "clientName": "MCKESSON CORPORATION",
@@ -107,56 +107,6 @@
       ]
     },
     {
-      "clientName": "LOCKHEED MARTIN CORPORATION",
-      "clientId": 196195,
-      "lobbyingSpend": 1350000,
-      "contractAmount": 2538798064,
-      "roi": 1881,
-      "state": "MD",
-      "issues": [
-        "DEF",
-        "BUD",
-        "TAX",
-        null
-      ],
-      "filings": 27,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
-      "clientName": "LOCKHEED MARTIN CORPORATION",
-      "clientId": 148723,
-      "lobbyingSpend": 1540000,
-      "contractAmount": 2538798064,
-      "roi": 1649,
-      "state": "VA",
-      "issues": [
-        "DEF",
-        "TAX",
-        "SCI",
-        "AER",
-        null
-      ],
-      "filings": 25,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ]
-    },
-    {
       "clientName": "BAE SYSTEMS LAND & ARMAMENTS LP",
       "clientId": 190655,
       "lobbyingSpend": 1370000,
@@ -168,84 +118,6 @@
         null
       ],
       "filings": 28,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 185448,
-      "lobbyingSpend": 1500000,
-      "contractAmount": 2353691942,
-      "roi": 1569,
-      "state": "VA",
-      "issues": [
-        "TRD",
-        "DEF",
-        "HCR",
-        "AVI",
-        "FIN",
-        "TAX",
-        "FOR",
-        null
-      ],
-      "filings": 27,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ]
-    },
-    {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 45775,
-      "lobbyingSpend": 1640000,
-      "contractAmount": 2353691942,
-      "roi": 1435,
-      "state": "VA",
-      "issues": [
-        "AER",
-        null,
-        "HCR",
-        "ENV"
-      ],
-      "filings": 16,
-      "years": [
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 168000,
-      "lobbyingSpend": 1940000,
-      "contractAmount": 2353691942,
-      "roi": 1213,
-      "state": "DC",
-      "issues": [
-        "FOR",
-        "DEF",
-        "AER",
-        "BUD",
-        "HOM",
-        "AVI",
-        null,
-        "TRD"
-      ],
-      "filings": 26,
       "years": [
         2018,
         2019,
@@ -289,30 +161,6 @@
       ]
     },
     {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 195127,
-      "lobbyingSpend": 2100000,
-      "contractAmount": 2353691942,
-      "roi": 1121,
-      "state": "VA",
-      "issues": [
-        "TRD",
-        "DEF",
-        null
-      ],
-      "filings": 32,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
       "clientName": "SPACE EXPLORATION TECHNOLOGIES CORP.",
       "clientId": 184854,
       "lobbyingSpend": 2910000,
@@ -329,6 +177,66 @@
         null
       ],
       "filings": 33,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "LOCKHEED MARTIN CORPORATION",
+      "clientId": 196195,
+      "lobbyingSpend": 2890000,
+      "contractAmount": 2538798064,
+      "roi": 878,
+      "state": "MD",
+      "issues": [
+        "DEF",
+        "BUD",
+        "TAX",
+        "SCI",
+        "AER",
+        null
+      ],
+      "filings": 52,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 185448,
+      "lobbyingSpend": 7180000,
+      "contractAmount": 2353691942,
+      "roi": 328,
+      "state": "VA",
+      "issues": [
+        "TRD",
+        "DEF",
+        "HCR",
+        "AVI",
+        "FIN",
+        "TAX",
+        "FOR",
+        "AER",
+        "ENV",
+        "BUD",
+        "HOM",
+        null
+      ],
+      "filings": 101,
       "years": [
         2018,
         2019,
@@ -475,17 +383,19 @@
     {
       "clientName": "LOCKHEED MARTIN CORPORATION",
       "clientId": 196195,
-      "lobbyingSpend": 1350000,
+      "lobbyingSpend": 2890000,
       "contractAmount": 2538798064,
-      "roi": 1881,
+      "roi": 878,
       "state": "MD",
       "issues": [
         "DEF",
         "BUD",
         "TAX",
+        "SCI",
+        "AER",
         null
       ],
-      "filings": 27,
+      "filings": 52,
       "years": [
         2018,
         2019,
@@ -498,36 +408,11 @@
       ]
     },
     {
-      "clientName": "LOCKHEED MARTIN CORPORATION",
-      "clientId": 148723,
-      "lobbyingSpend": 1540000,
-      "contractAmount": 2538798064,
-      "roi": 1649,
-      "state": "VA",
-      "issues": [
-        "DEF",
-        "TAX",
-        "SCI",
-        "AER",
-        null
-      ],
-      "filings": 25,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ]
-    },
-    {
       "clientName": "THE BOEING COMPANY",
       "clientId": 185448,
-      "lobbyingSpend": 1500000,
+      "lobbyingSpend": 7180000,
       "contractAmount": 2353691942,
-      "roi": 1569,
+      "roi": 328,
       "state": "VA",
       "issues": [
         "TRD",
@@ -537,82 +422,13 @@
         "FIN",
         "TAX",
         "FOR",
-        null
-      ],
-      "filings": 27,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ]
-    },
-    {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 45775,
-      "lobbyingSpend": 1640000,
-      "contractAmount": 2353691942,
-      "roi": 1435,
-      "state": "VA",
-      "issues": [
         "AER",
-        null,
-        "HCR",
-        "ENV"
-      ],
-      "filings": 16,
-      "years": [
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 168000,
-      "lobbyingSpend": 1940000,
-      "contractAmount": 2353691942,
-      "roi": 1213,
-      "state": "DC",
-      "issues": [
-        "FOR",
-        "DEF",
-        "AER",
+        "ENV",
         "BUD",
         "HOM",
-        "AVI",
-        null,
-        "TRD"
-      ],
-      "filings": 26,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 195127,
-      "lobbyingSpend": 2100000,
-      "contractAmount": 2353691942,
-      "roi": 1121,
-      "state": "VA",
-      "issues": [
-        "TRD",
-        "DEF",
         null
       ],
-      "filings": 32,
+      "filings": 101,
       "years": [
         2018,
         2019,
@@ -681,6 +497,39 @@
   ],
   "topByLobbyingSpend": [
     {
+      "clientName": "THE BOEING COMPANY",
+      "clientId": 195127,
+      "lobbyingSpend": 7180000,
+      "contractAmount": 2353691942,
+      "roi": 328,
+      "state": "VA",
+      "issues": [
+        "TRD",
+        "DEF",
+        "FOR",
+        "AER",
+        "BUD",
+        "HOM",
+        "AVI",
+        "HCR",
+        "ENV",
+        "FIN",
+        "TAX",
+        null
+      ],
+      "filings": 101,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
       "clientName": "SPACE EXPLORATION TECHNOLOGIES CORP.",
       "clientId": 184854,
       "lobbyingSpend": 2910000,
@@ -697,6 +546,33 @@
         null
       ],
       "filings": 33,
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "clientName": "LOCKHEED MARTIN CORPORATION",
+      "clientId": 148723,
+      "lobbyingSpend": 2890000,
+      "contractAmount": 2538798064,
+      "roi": 878,
+      "state": "VA",
+      "issues": [
+        "DEF",
+        "TAX",
+        "SCI",
+        "AER",
+        "BUD",
+        null
+      ],
+      "filings": 52,
       "years": [
         2018,
         2019,
@@ -740,30 +616,6 @@
       ]
     },
     {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 195127,
-      "lobbyingSpend": 2100000,
-      "contractAmount": 2353691942,
-      "roi": 1121,
-      "state": "VA",
-      "issues": [
-        "TRD",
-        "DEF",
-        null
-      ],
-      "filings": 32,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
       "clientName": "HUNTINGTON INGALLS INCORPORATED",
       "clientId": 192166,
       "lobbyingSpend": 2010000,
@@ -778,35 +630,6 @@
         null
       ],
       "filings": 30,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 168000,
-      "lobbyingSpend": 1940000,
-      "contractAmount": 2353691942,
-      "roi": 1213,
-      "state": "DC",
-      "issues": [
-        "FOR",
-        "DEF",
-        "AER",
-        "BUD",
-        "HOM",
-        "AVI",
-        null,
-        "TRD"
-      ],
-      "filings": 26,
       "years": [
         2018,
         2019,
@@ -873,27 +696,6 @@
       ]
     },
     {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 45775,
-      "lobbyingSpend": 1640000,
-      "contractAmount": 2353691942,
-      "roi": 1435,
-      "state": "VA",
-      "issues": [
-        "AER",
-        null,
-        "HCR",
-        "ENV"
-      ],
-      "filings": 16,
-      "years": [
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
       "clientName": "ACCENTURE FEDERAL SERVICES",
       "clientId": 209948,
       "lobbyingSpend": 1600000,
@@ -916,59 +718,6 @@
       ]
     },
     {
-      "clientName": "LOCKHEED MARTIN CORPORATION",
-      "clientId": 148723,
-      "lobbyingSpend": 1540000,
-      "contractAmount": 2538798064,
-      "roi": 1649,
-      "state": "VA",
-      "issues": [
-        "DEF",
-        "TAX",
-        "SCI",
-        "AER",
-        null
-      ],
-      "filings": 25,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ]
-    },
-    {
-      "clientName": "THE BOEING COMPANY",
-      "clientId": 185448,
-      "lobbyingSpend": 1500000,
-      "contractAmount": 2353691942,
-      "roi": 1569,
-      "state": "VA",
-      "issues": [
-        "TRD",
-        "DEF",
-        "HCR",
-        "AVI",
-        "FIN",
-        "TAX",
-        "FOR",
-        null
-      ],
-      "filings": 27,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ]
-    },
-    {
       "clientName": "BAE SYSTEMS LAND & ARMAMENTS LP",
       "clientId": 190655,
       "lobbyingSpend": 1370000,
@@ -980,31 +729,6 @@
         null
       ],
       "filings": 28,
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025
-      ]
-    },
-    {
-      "clientName": "LOCKHEED MARTIN CORPORATION",
-      "clientId": 196195,
-      "lobbyingSpend": 1350000,
-      "contractAmount": 2538798064,
-      "roi": 1881,
-      "state": "MD",
-      "issues": [
-        "DEF",
-        "BUD",
-        "TAX",
-        null
-      ],
-      "filings": 27,
       "years": [
         2018,
         2019,

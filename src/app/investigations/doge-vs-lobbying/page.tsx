@@ -53,7 +53,7 @@ export default function DogeVsLobbyingPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The $4.4 Billion Machine</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The $4.4 Billion Machine</h2>
         
         <p>
           In 2024, federal lobbying hit an all-time record: <strong>$4.4 billion</strong>. That&apos;s $150 million more than 2023, 
@@ -78,7 +78,7 @@ export default function DogeVsLobbyingPage() {
           And that constituency has lobbyists.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Who Spends the Most — And Why They Care</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Who Spends the Most — And Why They Care</h2>
 
         <p>
           The top lobbying spenders in America aren&apos;t abstract interest groups. They&apos;re the companies 
@@ -116,7 +116,7 @@ export default function DogeVsLobbyingPage() {
           <strong>Lobbying isn&apos;t about ideology. It&apos;s about revenue protection.</strong>
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The DOGE Paradox</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The DOGE Paradox</h2>
 
         <p>
           Here&apos;s the fundamental tension: DOGE&apos;s mission is to cut government waste. 
@@ -147,7 +147,7 @@ export default function DogeVsLobbyingPage() {
           </li>
         </ul>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Revolving Door Makes It Worse</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Revolving Door Makes It Worse</h2>
 
         <p>
           There&apos;s another layer to this: the revolving door between government and K Street. 
@@ -167,7 +167,7 @@ export default function DogeVsLobbyingPage() {
           to senior White House advisors — now working to influence the very institutions they used to run.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Numbers Tell the Story</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Numbers Tell the Story</h2>
 
         <p>
           Lobbying spending has increased every single year since 2016:
@@ -210,7 +210,7 @@ export default function DogeVsLobbyingPage() {
           a $4.4 billion industry whose entire purpose is preventing exactly that.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What This Means for Taxpayers</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What This Means for Taxpayers</h2>
 
         <p>
           Whether you support DOGE or oppose it, the lobbying numbers reveal an uncomfortable truth: 

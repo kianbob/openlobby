@@ -103,7 +103,7 @@ export default function TariffLobbyingSurgePage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>When Tariffs Return, Lobbyists Rejoice</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>When Tariffs Return, Lobbyists Rejoice</h2>
 
         <p>
           The return of aggressive trade policy in 2025 triggered one of the most dramatic lobbying surges in recent
@@ -121,7 +121,7 @@ export default function TariffLobbyingSurgePage() {
           new clients registering to lobby on trade for the first time.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Surge in Numbers</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Surge in Numbers</h2>
 
         <div className="not-prose my-6">
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
@@ -160,7 +160,7 @@ export default function TariffLobbyingSurgePage() {
           clients entering the lobbying arena specifically because of trade concerns.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Total Lobbying Hits Record $2.7 Billion</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Total Lobbying Hits Record $2.7 Billion</h2>
 
         <p>
           The tariff surge is part of a broader lobbying boom. Total federal lobbying income
@@ -190,7 +190,7 @@ export default function TariffLobbyingSurgePage() {
           </div>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Who&apos;s Lobbying on Trade</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Who&apos;s Lobbying on Trade</h2>
 
         <p>
           The tariff lobbying explosion cuts across industries. Manufacturers, retailers, agriculture companies,
@@ -205,7 +205,7 @@ export default function TariffLobbyingSurgePage() {
           <li><strong>Steel and aluminum producers</strong> — Some domestic producers actually support tariffs, lobbying to keep them in place</li>
         </ul>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Exemption Game</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Exemption Game</h2>
 
         <p>
           Much of the tariff lobbying isn&apos;t about opposing tariffs broadly — it&apos;s about winning specific
@@ -220,7 +220,7 @@ export default function TariffLobbyingSurgePage() {
           companies winning carve-outs while smaller firms bear the full cost.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Other Surging Issues</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Other Surging Issues</h2>
 
         <p>
           Tariffs aren&apos;t the only issue seeing explosive growth. Our surge tracker identified {surgeData.surging.length} issue
@@ -244,7 +244,7 @@ export default function TariffLobbyingSurgePage() {
           </div>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why It Matters</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why It Matters</h2>
 
         <p>
           The 2025 tariff lobbying explosion reveals something fundamental about how Washington works: policy

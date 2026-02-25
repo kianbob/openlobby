@@ -92,7 +92,7 @@ export default function Page() {
 
       <article className="prose prose-lg max-w-none">
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Permanent Battlegrounds</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Permanent Battlegrounds</h2>
 
         <p>
           American lobbying isn&apos;t a set of isolated campaigns. It&apos;s an interconnected web of overlapping
@@ -125,7 +125,7 @@ export default function Page() {
           <p className="text-sm text-gray-500 mt-2">Source: OpenLobby co-occurrence analysis of 287,262 multi-issue filings, 2018–2025</p>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}><Link href="/issues/HCR" className="text-indigo-600 hover:underline">Healthcare</Link> + Medicare: The Eternal War (31,240 Filings)</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}><Link href="/issues/HCR" className="text-indigo-600 hover:underline">Healthcare</Link> + Medicare: The Eternal War (31,240 Filings)</h2>
 
         <p>
           The most tightly coupled issue pair in all of lobbying is <Link href="/issues/HCR" className="text-indigo-600 hover:underline">Healthcare (HCR)</Link> and Medicare/Medicaid (MMM).
@@ -150,7 +150,7 @@ export default function Page() {
           pile up on both sides.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Budget + Everything: The $6.75 Trillion Magnet</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Budget + Everything: The $6.75 Trillion Magnet</h2>
 
         <p>
           Budget/Appropriations (BUD) appears in four of the top five co-occurrence pairs:
@@ -177,7 +177,7 @@ export default function Page() {
           into <Link href="/investigations/defense-contractor-lobbying" className="text-indigo-600 hover:underline">defense contractor lobbying</Link>.)
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}><Link href="/issues/TAX" className="text-indigo-600 hover:underline">Tax</Link> + <Link href="/issues/TRD" className="text-indigo-600 hover:underline">Trade</Link>: The Tariff Battleground (19,506 Filings)</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}><Link href="/issues/TAX" className="text-indigo-600 hover:underline">Tax</Link> + <Link href="/issues/TRD" className="text-indigo-600 hover:underline">Trade</Link>: The Tariff Battleground (19,506 Filings)</h2>
 
         <p>
           The <Link href="/issues/TAX" className="text-indigo-600 hover:underline">Tax</Link> + <Link href="/issues/TRD" className="text-indigo-600 hover:underline">Trade</Link> pairing (19,506 filings, Jaccard 0.203) is one of the most intensely contested
@@ -194,7 +194,7 @@ export default function Page() {
           announcement. (Read more in our <Link href="/investigations/tariff-lobbying-surge" className="text-indigo-600 hover:underline">tariff lobbying surge</Link> analysis.)
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}><Link href="/issues/ENG" className="text-indigo-600 hover:underline">Energy</Link> + <Link href="/issues/ENV" className="text-indigo-600 hover:underline">Environment</Link>: The Climate Proxy War (11,232 Filings)</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}><Link href="/issues/ENG" className="text-indigo-600 hover:underline">Energy</Link> + <Link href="/issues/ENV" className="text-indigo-600 hover:underline">Environment</Link>: The Climate Proxy War (11,232 Filings)</h2>
 
         <p>
           <Link href="/issues/ENG" className="text-indigo-600 hover:underline">Energy (ENG)</Link> and <Link href="/issues/ENV" className="text-indigo-600 hover:underline">Environment (ENV)</Link> co-occur in 11,232 filings with a Jaccard similarity of 0.201 —
@@ -216,7 +216,7 @@ export default function Page() {
           Reduction Act&apos;s massive clean energy subsidies.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What&apos;s Surging Now</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What&apos;s Surging Now</h2>
 
         <p>
           Our quarterly momentum analysis reveals which issues are seeing the fastest growth in lobbying
@@ -276,7 +276,7 @@ export default function Page() {
           in a way it hasn&apos;t been since the 2008 financial crisis.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What&apos;s Declining</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What&apos;s Declining</h2>
 
         <div className="not-prose my-8 bg-gray-50 rounded-xl p-6">
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
@@ -312,7 +312,7 @@ export default function Page() {
           the definition of &quot;media&quot; blurs.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The AI and Crypto Frontiers</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The AI and Crypto Frontiers</h2>
 
         <p>
           The newest arms races are forming around AI regulation and cryptocurrency. These issues don&apos;t yet
@@ -333,7 +333,7 @@ export default function Page() {
           <Link href="/investigations/crypto-lobbying-explosion" className="text-indigo-600 hover:underline">crypto lobbying investigation</Link>.)
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Arms Race Logic</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Arms Race Logic</h2>
 
         <p>
           Lobbying arms races follow a predictable pattern. An industry perceives a regulatory threat or
@@ -356,7 +356,7 @@ export default function Page() {
           American industries fighting each other through the medium of government.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Libertarian Insight</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Libertarian Insight</h2>
 
         <p>
           The arms race metaphor is revealing because it highlights the waste. In a genuine arms race,
@@ -377,7 +377,7 @@ export default function Page() {
           the market could make more efficiently. The filings are the receipts for that inefficiency.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Track the Arms Race</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Track the Arms Race</h2>
 
         <p>
           Explore our <Link href="/arms-race" className="text-indigo-600 hover:underline">arms race visualization</Link> to
@@ -394,20 +394,6 @@ export default function Page() {
       </article>
 
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
-
-      <div className="mt-12 pt-8 border-t border-gray-200">
-        <h3 className="text-lg font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h3>
-        <div className="grid gap-4 sm:grid-cols-2">
-          <Link href="/investigations/dc-lobbying-capital" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-purple-600 font-semibold">Geography</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>$27,000 Per Person: Why DC Is America&apos;s True Lobbying Capital</p>
-          </Link>
-          <Link href="/investigations/the-22000-percent-roi" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-indigo-600 font-semibold">Analysis</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>The 22,000% ROI: How Lobbying Became America&apos;s Best Investment</p>
-          </Link>
-        </div>
-      </div>
 
       <section className="mt-10 mb-8 not-prose">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>

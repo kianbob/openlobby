@@ -69,7 +69,7 @@ export default function Page() {
 
       <article className="prose prose-lg max-w-none">
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Academic Proof</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Academic Proof</h2>
 
         <p>
           In 2009, researchers Raquel Alexander, Susan Scholz, and Stephen Mazza published a landmark study
@@ -96,7 +96,7 @@ export default function Page() {
           lobbying pays.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What Our Data Shows</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What Our Data Shows</h2>
 
         <p>
           OpenLobby tracks every federal lobbying disclosure filed under the Lobbying Disclosure Act since 2018.
@@ -127,7 +127,7 @@ export default function Page() {
           pays to influence government.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Top Investors</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Top Investors</h2>
 
         <p>
           The biggest lobbying spenders in our database read like a who&apos;s who of American business — and
@@ -182,7 +182,7 @@ export default function Page() {
           regulatory surface area grew. More government touchpoints means more lobbying.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Growth Trajectories Tell the Story</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Growth Trajectories Tell the Story</h2>
 
         <p>
           Our trajectory analysis categorizes every client in the database by their spending trend. The results
@@ -204,7 +204,7 @@ export default function Page() {
           a sign that the government has become so powerful that you can&apos;t afford <em>not</em> to lobby.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why 22,000% Returns Are Rational</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why 22,000% Returns Are Rational</h2>
 
         <p>
           The academic literature keeps confirming the same basic finding: lobbying works, and it works spectacularly well.
@@ -225,7 +225,7 @@ export default function Page() {
           (more petitioners = more importance = bigger budgets).
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Libertarian Diagnosis</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Libertarian Diagnosis</h2>
 
         <p>
           There&apos;s a popular narrative that lobbying is the problem and we just need to regulate it harder.
@@ -259,7 +259,7 @@ export default function Page() {
           The money doesn&apos;t create value; it merely redirects existing value from the public to the connected.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Numbers Keep Growing</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Numbers Keep Growing</h2>
 
         <p>
           Our data shows that lobbying spending grew from $1.4 billion in 2018 to $2.7 billion in 2025 — virtually
@@ -279,7 +279,7 @@ export default function Page() {
           that the system was designed by the people who benefit from it.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What You Can Do</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What You Can Do</h2>
 
         <p>
           Transparency is the first step. That&apos;s why OpenLobby exists — to make the lobbying data
@@ -305,20 +305,6 @@ export default function Page() {
       </article>
 
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
-
-      <div className="mt-12 pt-8 border-t border-gray-200">
-        <h3 className="text-lg font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h3>
-        <div className="grid gap-4 sm:grid-cols-2">
-          <Link href="/investigations/the-revolving-door-premium" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-indigo-600 font-semibold">Revolving Door</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>The 369% Premium: Hard Proof That the Revolving Door Pays</p>
-          </Link>
-          <Link href="/investigations/follow-the-money" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-indigo-600 font-semibold">Analysis</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>Follow the Money: The 8,187x Return on Lobbying</p>
-          </Link>
-        </div>
-      </div>
 
       <section className="mt-10 mb-8 not-prose">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>

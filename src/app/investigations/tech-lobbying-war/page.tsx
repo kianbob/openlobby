@@ -43,7 +43,7 @@ export default function TechLobbyingWarPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Silicon Valley Goes to Washington</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Silicon Valley Goes to Washington</h2>
 
         <p>
           A decade ago, Big Tech had a minimal presence in Washington. Google&apos;s DC office was an afterthought. 
@@ -62,7 +62,7 @@ export default function TechLobbyingWarPage() {
           to influence the government it once ignored.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Spending Scoreboard</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Spending Scoreboard</h2>
 
         <div className="bg-gray-50 rounded-xl p-6 my-6 not-prose">
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Big Tech Lobbying Spending (All Registrations)</h3>
@@ -89,7 +89,7 @@ export default function TechLobbyingWarPage() {
           </p>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Qualcomm Surprise</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Qualcomm Surprise</h2>
 
         <p>
           The biggest tech spender isn&apos;t a household name — it&apos;s <strong>Qualcomm</strong>, 
@@ -105,7 +105,7 @@ export default function TechLobbyingWarPage() {
           Qualcomm had billions on the line.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What Are They Lobbying On?</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What Are They Lobbying On?</h2>
 
         <p>
           The issue codes in tech lobbying filings reveal a shifting landscape:
@@ -140,7 +140,7 @@ export default function TechLobbyingWarPage() {
           </li>
         </ul>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Meta: The Filing Machine</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Meta: The Filing Machine</h2>
 
         <p>
           Meta Platforms (formerly Facebook) stands out for the sheer volume of its lobbying activity: 
@@ -156,7 +156,7 @@ export default function TechLobbyingWarPage() {
           you invest in lobbyists to manage the conversation.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The AI Lobbying Surge</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The AI Lobbying Surge</h2>
 
         <p>
           The newest battleground is artificial intelligence regulation. As Congress considers frameworks 
@@ -172,7 +172,7 @@ export default function TechLobbyingWarPage() {
           previous tech domain, from social media to data privacy.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Defense Pivot</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Defense Pivot</h2>
 
         <p>
           Perhaps the most significant shift in tech lobbying is the growing focus on defense. 
@@ -188,7 +188,7 @@ export default function TechLobbyingWarPage() {
           in the procurement process.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What This Means for Tech Policy</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What This Means for Tech Policy</h2>
 
         <p>
           The $150 million question: is Big Tech&apos;s lobbying spending paying off? 

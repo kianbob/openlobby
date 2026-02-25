@@ -42,7 +42,7 @@ export default function ForeignInfluencePage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Global Influence Map</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Global Influence Map</h2>
 
         <p>
           When Americans think of lobbying, they picture K Street firms and domestic corporations. 
@@ -57,7 +57,7 @@ export default function ForeignInfluencePage() {
           collectively accounting for thousands of individual disclosure reports.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Which Countries Lobby the Most?</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Which Countries Lobby the Most?</h2>
 
         <div className="bg-gray-50 rounded-xl p-6 my-6 not-prose">
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Foreign Lobbying by Country (Total Filings)</h3>
@@ -94,7 +94,7 @@ export default function ForeignInfluencePage() {
           </div>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The UK: America&apos;s Top Foreign Lobby</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The UK: America&apos;s Top Foreign Lobby</h2>
 
         <p>
           The United Kingdom dominates foreign lobbying disclosures with <strong>130 entities and 474 filings</strong>. 
@@ -108,7 +108,7 @@ export default function ForeignInfluencePage() {
           the deep economic ties between the US and UK, particularly in defense, finance, and pharmaceuticals.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The China Question</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The China Question</h2>
 
         <p>
           Chinese entities account for <strong>56 entities and 165 filings</strong> — making China the 7th most active 
@@ -132,7 +132,7 @@ export default function ForeignInfluencePage() {
           Defenders note that lobbying disclosure is preferable to the alternative — covert influence operations.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Tax Havens and Corporate Structures</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Tax Havens and Corporate Structures</h2>
 
         <p>
           Some of the countries on the list are notable not for their geopolitical significance, 
@@ -149,7 +149,7 @@ export default function ForeignInfluencePage() {
           use to manage their political influence.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Biggest Foreign Players</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Biggest Foreign Players</h2>
 
         <div className="bg-gray-50 rounded-xl p-6 my-6 not-prose">
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Most Active Foreign Entities</h3>
@@ -173,7 +173,7 @@ export default function ForeignInfluencePage() {
           </div>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why It Matters</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why It Matters</h2>
 
         <p>
           Foreign lobbying is legal and, in many ways, inevitable in a globalized economy. 

@@ -57,7 +57,7 @@ export default function Page() {
 
       <article className="prose prose-lg max-w-none">
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Surge Is Real</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Surge Is Real</h2>
 
         <p>
           Every time Washington expands its reach — a new regulation, a new agency, a new spending program —
@@ -94,7 +94,7 @@ export default function Page() {
           the DOGE initiative threatening agency budgets, AI regulation proposals, and cryptocurrency legislation.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Who Are These New Filers?</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Who Are These New Filers?</h2>
 
         <p>
           Scrolling through the latest first-time filers is like reading a snapshot of every policy battle
@@ -189,7 +189,7 @@ export default function Page() {
           the intergovernmental system.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Energy and Climate Scramble</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Energy and Climate Scramble</h2>
 
         <p>
           The Inflation Reduction Act, tariffs on Chinese solar panels, and shifting energy policy have driven
@@ -208,7 +208,7 @@ export default function Page() {
           every energy company — from solar installers to EV startups — needs a Washington strategy.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Defense Sector Never Stops</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Defense Sector Never Stops</h2>
 
         <p>
           <strong>Cascade Company LLC</strong>, a Texas-based defense contractor, filed its first lobbying
@@ -217,7 +217,7 @@ export default function Page() {
           dollars.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What the Surge Tells Us</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What the Surge Tells Us</h2>
 
         <p>
           The 2025 first-time filer surge — 6,997 new organizations, the most since our tracking began — is
@@ -241,7 +241,7 @@ export default function Page() {
           The problem is that the federal government&apos;s reach has grown so vast that they have no choice.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Irony of DOGE</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Irony of DOGE</h2>
 
         <p>
           Here&apos;s the supreme irony: DOGE — the Department of Government Efficiency initiative aimed at cutting
@@ -256,7 +256,7 @@ export default function Page() {
           for the full picture.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Track New Filers Yourself</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Track New Filers Yourself</h2>
 
         <p>
           OpenLobby updates first-time filer data as new disclosures are posted. Visit our{' '}
@@ -275,20 +275,6 @@ export default function Page() {
       </article>
 
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
-
-      <div className="mt-12 pt-8 border-t border-gray-200">
-        <h3 className="text-lg font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h3>
-        <div className="grid gap-4 sm:grid-cols-2">
-          <Link href="/investigations/the-22000-percent-roi" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-indigo-600 font-semibold">Analysis</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>The 22,000% ROI: How Lobbying Became America&apos;s Best Investment</p>
-          </Link>
-          <Link href="/investigations/doge-vs-lobbying" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-red-600 font-semibold">DOGE</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>DOGE vs. The Lobbying Machine</p>
-          </Link>
-        </div>
-      </div>
 
       <section className="mt-10 mb-8 not-prose">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>

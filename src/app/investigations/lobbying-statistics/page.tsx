@@ -41,7 +41,7 @@ export default function LobbyingStatisticsPage() {
           </div>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>How Much Is Spent on Lobbying Each Year?</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>How Much Is Spent on Lobbying Each Year?</h2>
         <p>Federal lobbying spending has grown significantly over the past eight years:</p>
         <table>
           <thead><tr><th>Year</th><th>Total Income</th><th>Filings</th><th>YoY Change</th></tr></thead>
@@ -58,7 +58,7 @@ export default function LobbyingStatisticsPage() {
         </table>
         <p>The 2025 spike is notable — a 36% increase over 2024, driven largely by tariff-related lobbying, AI regulation debates, and continued healthcare policy fights.</p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Who Spends the Most on Lobbying?</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Who Spends the Most on Lobbying?</h2>
         <p>The top lobbying spenders include a mix of trade associations, pharmaceutical companies, tech giants, and defense contractors. See our full <Link href="/clients" className="text-indigo-600 hover:underline">client rankings</Link> for the complete list.</p>
         <p>Key industries by lobbying spend:</p>
         <ul>
@@ -69,14 +69,14 @@ export default function LobbyingStatisticsPage() {
           <li><strong>Energy &amp; Environment</strong> — Climate policy, oil/gas regulation, renewable energy incentives</li>
         </ul>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Revolving Door</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Revolving Door</h2>
         <p>One of the most significant dynamics in federal lobbying is the &quot;revolving door&quot; — former government officials who become lobbyists. Our data identifies <strong>5,000 lobbyists with prior government positions</strong>, including former members of Congress, agency heads, White House staff, and military officials.</p>
         <p>See our full <Link href="/revolving-door" className="text-indigo-600 hover:underline">Revolving Door analysis</Link> and the <Link href="/investigations/revolving-door-exposed" className="text-indigo-600 hover:underline">investigation exposing the most egregious transitions</Link>.</p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Foreign Lobbying</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Foreign Lobbying</h2>
         <p>Foreign governments and entities also lobby the U.S. Congress, primarily through American lobbying firms. Our data tracks <strong>1,000 foreign entities</strong> involved in lobbying, from allied nations like the UK and Canada to adversarial governments. See our <Link href="/foreign" className="text-indigo-600 hover:underline">foreign lobbying tracker</Link>.</p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What Issues Get Lobbied Most?</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What Issues Get Lobbied Most?</h2>
         <p>The Lobbying Disclosure Act requires filers to categorize their lobbying by issue area. The top issue categories by spending include:</p>
         <ul>
           <li><strong><Link href="/issues/HCR" className="text-indigo-600 hover:underline">Health Issues (HCR)</Link></strong> — Drug pricing, Medicare, Medicaid, FDA approvals</li>
@@ -89,7 +89,7 @@ export default function LobbyingStatisticsPage() {
         </ul>
         <p>Explore all <Link href="/issues" className="text-indigo-600 hover:underline">79 issue categories</Link> with spending data.</p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>How Does Lobbying Work?</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>How Does Lobbying Work?</h2>
         <p>Under the <strong>Lobbying Disclosure Act of 1995</strong> (amended 2007), any individual or organization that spends more than $14,000 per quarter on lobbying activities must register with the Senate and file quarterly disclosure reports. These reports include:</p>
         <ul>
           <li>Income received (for lobbying firms) or expenses (for in-house lobbying)</li>
@@ -101,7 +101,7 @@ export default function LobbyingStatisticsPage() {
         </ul>
         <p>For a deeper explainer, read our guide: <Link href="/investigations/what-is-lobbying" className="text-indigo-600 hover:underline">What Is Lobbying?</Link></p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>About This Data</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>About This Data</h2>
         <p>All statistics on OpenLobby come from the <a href="https://lda.senate.gov" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline">Senate Lobbying Disclosure Act (LDA) filing system</a>. We process every filing from 2018 through 2025, normalize entity names, and aggregate spending by client, firm, lobbyist, issue, and state.</p>
         <p>Our dataset includes <strong>650,333 filings</strong> totaling <strong>$15.2 billion</strong> in reported lobbying income.</p>
 

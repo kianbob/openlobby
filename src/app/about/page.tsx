@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import SourceCitation from '@/components/SourceCitation'
 
@@ -7,45 +8,112 @@ export const metadata: Metadata = {
   description: 'OpenLobby is an independent data journalism project making federal lobbying data accessible, searchable, and understandable.',
 }
 
+const stats = [
+  { value: '650,000+', label: 'Lobbying Filings' },
+  { value: '$15.2B', label: 'Spending Tracked' },
+  { value: '29,754', label: 'Lobbyists Profiled' },
+  { value: '20+', label: 'Investigations' },
+]
+
+const sisterSites = [
+  { name: 'OpenMedicaid', url: 'https://www.openmedicaid.org', desc: '$1.09T in Medicaid spending data', emoji: '🏥' },
+  { name: 'OpenMedicare', url: 'https://www.openmedicare.us', desc: '$854B in Medicare payments + AI fraud detection', emoji: '💊' },
+  { name: 'OpenFeds', url: 'https://www.openfeds.org', desc: 'Federal workforce data + DOGE impact tracking', emoji: '🏛️' },
+  { name: 'OpenSpending', url: 'https://www.openspending.us', desc: 'Federal budget and contractor data', emoji: '💰' },
+]
+
 export default function AboutPage() {
   return (
-    <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <Breadcrumbs items={[{ name: 'About' }]} />
-      <h1 className="text-4xl font-bold mb-6" style={{ fontFamily: 'var(--font-serif)' }}>About OpenLobby</h1>
-      
-      <div className="prose prose-lg max-w-none">
-        <p>OpenLobby is an independent data journalism project that makes federal lobbying data accessible, searchable, and understandable.</p>
-        
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Problem</h2>
-        <p>The Lobbying Disclosure Act requires lobbyists to file quarterly reports with the Senate. These filings are public record — but they&apos;re buried in a government database with a terrible interface. Most people have no idea who&apos;s lobbying their representatives, how much they&apos;re spending, or what they want.</p>
-        
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What We Do</h2>
-        <p>We download every lobbying filing from the Senate LDA database, process it, and present it in a way that&apos;s actually useful. You can search by client, firm, lobbyist, issue, or keyword. You can track spending trends over time. And you can read our investigations into the most interesting patterns we find.</p>
-        
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Data</h2>
-        <ul>
-          <li><strong>650,000+</strong> lobbying filings (2018–2025)</li>
-          <li><strong>1,600+</strong> top clients tracked</li>
-          <li><strong>5,600+</strong> individual lobbyists profiled</li>
-          <li><strong>1,000+</strong> lobbying firms analyzed</li>
-          <li><strong>$15.2 billion</strong> total lobbying income tracked</li>
-          <li><strong>$2.7 billion</strong> spent on lobbying in 2025 — a record high</li>
-        </ul>
-        
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Part of TheDataProject</h2>
-        <p>OpenLobby is part of <a href="https://thedataproject.ai">TheDataProject.ai</a>, a portfolio of data journalism sites that make public government data accessible. Our sister sites include:</p>
-        <ul>
-          <li><a href="https://www.openmedicaid.org">OpenMedicaid</a> — $1.09T in Medicaid spending</li>
-          <li><a href="https://www.openmedicare.us">OpenMedicare</a> — $854B in Medicare payments + AI fraud detection</li>
-          <li><a href="https://www.openfeds.org">OpenFeds</a> — Federal workforce data + DOGE impact</li>
-          <li><a href="https://www.openspending.us">OpenSpending</a> — Federal budget and contractor data</li>
-        </ul>
+    <div>
+      {/* Hero */}
+      <div className="bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 text-white">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-16">
+          <Breadcrumbs items={[{ name: 'About' }]} />
+          <div className="text-center mt-8">
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
+              About OpenLobby
+            </h1>
+            <p className="text-lg sm:text-xl text-indigo-200 max-w-3xl mx-auto">
+              An independent data journalism project making federal lobbying data accessible, searchable, and understandable.
+            </p>
+          </div>
+
+          {/* Stats */}
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-12 max-w-4xl mx-auto">
+            {stats.map((s) => (
+              <div key={s.label} className="bg-white/10 backdrop-blur-sm rounded-xl p-5 text-center border border-white/10">
+                <div className="text-2xl sm:text-3xl font-bold text-white" style={{ fontFamily: 'var(--font-serif)' }}>{s.value}</div>
+                <div className="text-indigo-300 text-sm mt-1">{s.label}</div>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
 
-      <SourceCitation 
-        sources={['Senate LDA Filings (lda.senate.gov)', 'Lobbying Disclosure Act Reports']}
-        lastUpdated="February 2026"
-      />
+      {/* Content sections */}
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div className="grid md:grid-cols-3 gap-8 mb-16">
+          {/* The Problem */}
+          <div className="bg-white rounded-2xl border border-gray-200 p-8 shadow-sm">
+            <div className="w-12 h-12 bg-red-100 rounded-xl flex items-center justify-center text-2xl mb-4">⚠️</div>
+            <h2 className="text-2xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Problem</h2>
+            <p className="text-gray-600 leading-relaxed">
+              The Lobbying Disclosure Act requires lobbyists to file quarterly reports with the Senate. These filings are public record — but they&apos;re buried in a government database with a terrible interface. Most people have no idea who&apos;s lobbying their representatives, how much they&apos;re spending, or what they want.
+            </p>
+          </div>
+
+          {/* What We Do */}
+          <div className="bg-white rounded-2xl border border-gray-200 p-8 shadow-sm">
+            <div className="w-12 h-12 bg-indigo-100 rounded-xl flex items-center justify-center text-2xl mb-4">🔍</div>
+            <h2 className="text-2xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>What We Do</h2>
+            <p className="text-gray-600 leading-relaxed">
+              We download every lobbying filing from the Senate LDA database, process it, and present it in a way that&apos;s actually useful. Search by client, firm, lobbyist, issue, or keyword. Track spending trends over time. Read our investigations into the most interesting patterns.
+            </p>
+          </div>
+
+          {/* The Data */}
+          <div className="bg-white rounded-2xl border border-gray-200 p-8 shadow-sm">
+            <div className="w-12 h-12 bg-emerald-100 rounded-xl flex items-center justify-center text-2xl mb-4">📊</div>
+            <h2 className="text-2xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Data</h2>
+            <ul className="text-gray-600 space-y-2 leading-relaxed">
+              <li><strong>650,000+</strong> lobbying filings (2018–2025)</li>
+              <li><strong>1,600+</strong> top clients tracked</li>
+              <li><strong>5,600+</strong> lobbyists profiled</li>
+              <li><strong>1,000+</strong> firms analyzed</li>
+              <li><strong>$15.2B</strong> total lobbying income</li>
+              <li><strong>$2.7B</strong> spent in 2025 — a record</li>
+            </ul>
+          </div>
+        </div>
+
+        {/* Sister Sites */}
+        <div className="mb-16">
+          <h2 className="text-3xl font-bold mb-2 text-center" style={{ fontFamily: 'var(--font-serif)' }}>Part of TheDataProject</h2>
+          <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+            OpenLobby is part of <Link href="https://thedataproject.ai" className="text-indigo-600 hover:underline">TheDataProject.ai</Link>, a portfolio of data journalism sites making public government data accessible.
+          </p>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {sisterSites.map((site) => (
+              <a
+                key={site.name}
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-white rounded-xl border border-gray-200 p-6 shadow-sm hover:border-indigo-300 hover:shadow-md transition-all group"
+              >
+                <div className="text-3xl mb-3">{site.emoji}</div>
+                <div className="font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">{site.name}</div>
+                <div className="text-sm text-gray-500 mt-1">{site.desc}</div>
+              </a>
+            ))}
+          </div>
+        </div>
+
+        <SourceCitation
+          sources={['Senate LDA Filings (lda.senate.gov)', 'Lobbying Disclosure Act Reports']}
+          lastUpdated="February 2026"
+        />
+      </div>
     </div>
   )
 }

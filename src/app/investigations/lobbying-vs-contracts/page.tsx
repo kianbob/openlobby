@@ -87,7 +87,7 @@ export default function LobbyingVsContractsPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The $49,536 Return</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The $49,536 Return</h2>
         
         <p>
           TriWest Healthcare Alliance spent <strong>$270,000</strong> lobbying Congress between 2018 and 2025. 
@@ -105,7 +105,7 @@ export default function LobbyingVsContractsPage() {
           across the entire federal contracting ecosystem.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Full Picture: 21 Contractors, $183.8 Billion</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Full Picture: 21 Contractors, $183.8 Billion</h2>
 
         <p>
           We matched the top federal contractors (by total contract value on USASpending.gov) against 
@@ -143,7 +143,7 @@ export default function LobbyingVsContractsPage() {
           </p>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Visual: Lobbying Is a Rounding Error</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Visual: Lobbying Is a Rounding Error</h2>
 
         <p>
           The lobbying spend is so small relative to contract value that it barely registers on a chart. 
@@ -175,7 +175,7 @@ export default function LobbyingVsContractsPage() {
           ))}
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why This Happens: Rent-Seeking 101</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why This Happens: Rent-Seeking 101</h2>
 
         <p>
           Economists have a term for this: <strong>rent-seeking</strong>. When the government controls trillions 
@@ -197,7 +197,7 @@ export default function LobbyingVsContractsPage() {
           The math works whether you spend $270K or $141M.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Defense Dominates — But It&apos;s Not Alone</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Defense Dominates — But It&apos;s Not Alone</h2>
 
         <p>
           Defense contractors are heavily represented — <Link href="/clients/the-boeing-company" className="text-primary hover:underline">Boeing</Link>, Raytheon, <Link href="/clients/lockheed-martin-corporation" className="text-primary hover:underline">Lockheed Martin</Link>, General Dynamics, 
@@ -212,7 +212,7 @@ export default function LobbyingVsContractsPage() {
           contract values — often through sole-source or limited-competition procurements.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What This Means</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What This Means</h2>
 
         <p>
           We&apos;re not alleging corruption. Lobbying is legal. Federal contracts go through procurement processes. 

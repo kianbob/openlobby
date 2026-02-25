@@ -92,7 +92,7 @@ export default function DefenseContractorLobbyingPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Military-Industrial Lobbying Complex</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Military-Industrial Lobbying Complex</h2>
 
         <p>
           When President Eisenhower warned about the &ldquo;military-industrial complex&rdquo; in 1961, he could hardly
@@ -107,7 +107,7 @@ export default function DefenseContractorLobbyingPage() {
           lobbying expenditures across multiple filings in the federal database.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Big Seven: Who Spends What</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Big Seven: Who Spends What</h2>
 
         <div className="not-prose my-6">
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
@@ -136,7 +136,7 @@ export default function DefenseContractorLobbyingPage() {
           lobbying registrations in our dataset.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Return on Investment</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Return on Investment</h2>
 
         <p>
           The real story isn&apos;t how much defense contractors spend on lobbying — it&apos;s what they get back.
@@ -172,7 +172,7 @@ export default function DefenseContractorLobbyingPage() {
           turned a $2M lobbying investment into $4.4B in contracts.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What They&apos;re Lobbying For</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What They&apos;re Lobbying For</h2>
 
         <p>
           Defense lobbying isn&apos;t just about winning new contracts. These companies lobby on a wide range of issues:
@@ -193,7 +193,7 @@ export default function DefenseContractorLobbyingPage() {
           Armed Services and Appropriations committees.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Revolving Door Factor</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Revolving Door Factor</h2>
 
         <p>
           Defense lobbying is supercharged by the revolving door. Former Pentagon officials, retired generals, and
@@ -208,7 +208,7 @@ export default function DefenseContractorLobbyingPage() {
           disproportionate share of them.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why It Matters</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why It Matters</h2>
 
         <p>
           The United States spends more on defense than the next ten countries combined. The Pentagon&apos;s annual

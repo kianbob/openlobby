@@ -70,7 +70,7 @@ export default function Page() {
 
       <article className="prose prose-lg max-w-none">
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Measuring What Everyone Already Knew</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Measuring What Everyone Already Knew</h2>
 
         <p>
           Everyone in Washington knows the revolving door matters. Former congressional staffers become lobbyists.
@@ -91,7 +91,7 @@ export default function Page() {
           with detailed information about their employees&apos; prior government service. Here&apos;s what the data shows.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Revenue Gap</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Revenue Gap</h2>
 
         <div className="not-prose my-8">
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
@@ -126,7 +126,7 @@ export default function Page() {
           Clients are paying for access, and they know exactly what they&apos;re buying.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Firms Cashing In</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Firms Cashing In</h2>
 
         <p>
           The top revolving door firms in our database are a masterclass in monetizing government service:
@@ -205,7 +205,7 @@ export default function Page() {
           where deals were made, who have the personal phone numbers of the people who still sit in those rooms.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Academic Evidence</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Academic Evidence</h2>
 
         <p>
           Our findings align with — and dramatically extend — the academic literature:
@@ -234,7 +234,7 @@ export default function Page() {
           on specific legislation.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why the Premium Exists</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why the Premium Exists</h2>
 
         <p>
           The revolving door premium isn&apos;t mysterious. It&apos;s straightforward economics. Ex-government lobbyists
@@ -263,7 +263,7 @@ export default function Page() {
           All of this is legal. All of it is disclosed. And all of it is deeply corrosive to democratic governance.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Libertarian Diagnosis</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Libertarian Diagnosis</h2>
 
         <p>
           Reformers typically propose solutions like longer cooling-off periods (currently 1–2 years for most
@@ -293,7 +293,7 @@ export default function Page() {
           symptom, not the disease.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>47% of All Firms</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>47% of All Firms</h2>
 
         <p>
           Perhaps the most striking number in our analysis: <strong>3,656 of 7,746 lobbying firms — 47%</strong> —
@@ -313,7 +313,7 @@ export default function Page() {
           and then monetize it all on K Street. The data proves the payoff.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Explore the Data</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Explore the Data</h2>
 
         <p>
           OpenLobby&apos;s <Link href="/revolving-door" className="text-indigo-600 hover:underline">revolving door tracker</Link> lets
@@ -335,20 +335,6 @@ export default function Page() {
       </article>
 
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
-
-      <div className="mt-12 pt-8 border-t border-gray-200">
-        <h3 className="text-lg font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h3>
-        <div className="grid gap-4 sm:grid-cols-2">
-          <Link href="/investigations/revolving-door-exposed" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-amber-600 font-semibold">Revolving Door</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>The Revolving Door Exposed: 5,000 Former Officials</p>
-          </Link>
-          <Link href="/investigations/the-22000-percent-roi" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-indigo-600 font-semibold">Analysis</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>The 22,000% ROI: How Lobbying Became America&apos;s Best Investment</p>
-          </Link>
-        </div>
-      </div>
 
       <section className="mt-10 mb-8 not-prose">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>

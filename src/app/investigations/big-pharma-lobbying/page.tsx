@@ -51,7 +51,7 @@ export default function BigPharmaLobbyingPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Most Powerful Lobby in Washington</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Most Powerful Lobby in Washington</h2>
 
         <p>
           No industry spends more on lobbying than healthcare and pharmaceuticals. It&apos;s not even close. 
@@ -71,7 +71,7 @@ export default function BigPharmaLobbyingPage() {
           grassroots campaigns, and &quot;issue advocacy&quot; spending that falls outside lobbying disclosure requirements.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Follow the Money: Top Pharma Spenders</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Follow the Money: Top Pharma Spenders</h2>
 
         <p>
           The single biggest spender is the industry&apos;s main trade group, PhRMA — which appears under multiple 
@@ -104,7 +104,7 @@ export default function BigPharmaLobbyingPage() {
           </div>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What Are They Lobbying On?</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What Are They Lobbying On?</h2>
 
         <p>
           The issues pharma lobbies on reveal their priorities — and their fears. The most common issue codes 
@@ -125,7 +125,7 @@ export default function BigPharmaLobbyingPage() {
           to market protection (trade and patent rules).
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Health Insurer Angle</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Health Insurer Angle</h2>
 
         <p>
           It&apos;s not just drug makers. Health insurers are equally invested in the lobbying game. 
@@ -145,7 +145,7 @@ export default function BigPharmaLobbyingPage() {
           The only guaranteed winner? The lobbyists themselves.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Drug Pricing Stalemate</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Drug Pricing Stalemate</h2>
 
         <p>
           For decades, Congress has debated allowing Medicare to negotiate drug prices. For decades, 
@@ -161,7 +161,7 @@ export default function BigPharmaLobbyingPage() {
           blocked, or watered down represents billions in preserved revenue.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Revolving Door Feeds the Machine</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Revolving Door Feeds the Machine</h2>
 
         <p>
           Many of the lobbyists working for pharmaceutical clients are former congressional staffers 
@@ -178,7 +178,7 @@ export default function BigPharmaLobbyingPage() {
           is worth millions to an industry fighting to protect trillions in revenue.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What This Means</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What This Means</h2>
 
         <p>
           The pharmaceutical lobby is not a conspiracy. It&apos;s an industry exercising its legal right 

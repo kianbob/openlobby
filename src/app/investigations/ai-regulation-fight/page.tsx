@@ -94,7 +94,7 @@ export default function AIRegulationFightPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Most Important Lobbying Battle of the Decade</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Most Important Lobbying Battle of the Decade</h2>
 
         <p>
           Artificial intelligence is transforming everything — from how we work to how wars are fought. And in
@@ -109,7 +109,7 @@ export default function AIRegulationFightPage() {
           just how much money is flowing into this fight.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Who&apos;s Spending What</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Who&apos;s Spending What</h2>
 
         <div className="not-prose my-6">
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
@@ -141,7 +141,7 @@ export default function AIRegulationFightPage() {
           you have a lot at stake in how AI gets regulated.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Issues at Stake</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Issues at Stake</h2>
 
         <p>
           Tech companies aren&apos;t just lobbying on AI — they&apos;re lobbying on a sprawling set of overlapping
@@ -170,7 +170,7 @@ export default function AIRegulationFightPage() {
           total lobbying expenditures. AI touches all of them.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What Big Tech Wants</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What Big Tech Wants</h2>
 
         <p>
           The tech industry&apos;s lobbying message on AI has been remarkably consistent: regulate, but not too much.
@@ -190,7 +190,7 @@ export default function AIRegulationFightPage() {
           <li><strong>Government procurement</strong> — Winning federal AI contracts while influencing the standards those contracts require</li>
         </ul>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Open Source Divide</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Open Source Divide</h2>
 
         <p>
           One of the most fascinating lobbying battles is playing out over open-source AI. Meta, which released its
@@ -205,7 +205,7 @@ export default function AIRegulationFightPage() {
           open-source AI would disproportionately benefit companies with closed, proprietary systems.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The NVIDIA Factor</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The NVIDIA Factor</h2>
 
         <p>
           NVIDIA occupies a unique position in the AI lobbying landscape. The company doesn&apos;t build AI models —
@@ -219,7 +219,7 @@ export default function AIRegulationFightPage() {
           will push customers to foreign competitors while doing little to slow China&apos;s AI development.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why It Matters</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why It Matters</h2>
 
         <p>
           The rules written today will shape AI development for decades. When the companies building the most powerful

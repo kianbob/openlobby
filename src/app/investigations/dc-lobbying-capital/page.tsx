@@ -87,7 +87,7 @@ export default function Page() {
 
       <article className="prose prose-lg max-w-none">
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Most Concentrated Industry in America</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Most Concentrated Industry in America</h2>
 
         <p>
           If lobbying were an industry — and at $15.2 billion over eight years, it is — it would be the most
@@ -133,7 +133,7 @@ export default function Page() {
           if you include DC, and only about $45 if you exclude it.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why DC Dominates</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why DC Dominates</h2>
 
         <p>
           The concentration isn&apos;t surprising, but its magnitude is. Three factors explain DC&apos;s dominance:
@@ -195,7 +195,7 @@ export default function Page() {
           therefore the issues where lobbying has the highest return.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Big States</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Big States</h2>
 
         <div className="not-prose my-8">
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
@@ -233,7 +233,7 @@ export default function Page() {
           reflection of Wall Street&apos;s ongoing regulatory battles with the SEC, CFTC, and banking regulators.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Small States That Punch Above Their Weight</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Small States That Punch Above Their Weight</h2>
 
         <p>
           The per capita ranking surfaces some surprises. <strong><Link href="/states/CT" className="text-indigo-600 hover:underline">Connecticut</Link></strong> — population 3.6 million —
@@ -255,7 +255,7 @@ export default function Page() {
           lobbying intensity that exceeds much larger states like Florida ($30/capita) and Ohio ($37/capita).
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What They Lobby For</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What They Lobby For</h2>
 
         <p>
           Each state&apos;s top lobbying issues reveal its economic DNA:
@@ -276,7 +276,7 @@ export default function Page() {
           companies) with Financial Services close behind.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Geography of Dependency</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Geography of Dependency</h2>
 
         <p>
           Here&apos;s the uncomfortable truth: the geographic concentration of lobbying in and around Washington DC
@@ -297,7 +297,7 @@ export default function Page() {
           it becomes. It&apos;s a fiscal black hole from which no lobbying dollar escapes.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Explore State-by-State Data</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Explore State-by-State Data</h2>
 
         <p>
           OpenLobby&apos;s <Link href="/states" className="text-indigo-600 hover:underline">state explorer</Link> lets
@@ -320,20 +320,6 @@ export default function Page() {
       </article>
 
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
-
-      <div className="mt-12 pt-8 border-t border-gray-200">
-        <h3 className="text-lg font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h3>
-        <div className="grid gap-4 sm:grid-cols-2">
-          <Link href="/investigations/the-22000-percent-roi" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-indigo-600 font-semibold">Analysis</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>The 22,000% ROI: How Lobbying Became America&apos;s Best Investment</p>
-          </Link>
-          <Link href="/investigations/issue-arms-race" className="block bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition">
-            <span className="text-xs text-indigo-600 font-semibold">Issues</span>
-            <p className="font-bold mt-1" style={{ fontFamily: 'var(--font-serif)' }}>The Lobbying Arms Race: When Industries Go to War</p>
-          </Link>
-        </div>
-      </div>
 
       <section className="mt-10 mb-8 not-prose">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>

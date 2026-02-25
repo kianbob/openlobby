@@ -72,7 +72,7 @@ export default function Healthcare3BillionBetPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Three Pillars of Healthcare Lobbying</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Three Pillars of Healthcare Lobbying</h2>
         
         <p>
           Healthcare lobbying breaks into three major issue codes in Senate disclosures, 
@@ -103,7 +103,7 @@ export default function Healthcare3BillionBetPage() {
           ))}
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>$2.3 Billion: The Healthcare Reform Battle</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>$2.3 Billion: The Healthcare Reform Battle</h2>
 
         <p>
           The <strong>HCR (Health Issues)</strong> code is the broadest — covering everything from the Affordable Care Act 
@@ -124,7 +124,7 @@ export default function Healthcare3BillionBetPage() {
           and every year, the healthcare lobby mobilizes.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>$1.2 Billion: The Medicare/Medicaid Money Machine</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>$1.2 Billion: The Medicare/Medicaid Money Machine</h2>
 
         <p>
           Medicare and Medicaid are the federal government&apos;s two largest healthcare programs, together 
@@ -157,7 +157,7 @@ export default function Healthcare3BillionBetPage() {
           which tracks Medicare spending, provider payments, and program outcomes.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>$227 Million: The Drug Industry&apos;s Defense</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>$227 Million: The Drug Industry&apos;s Defense</h2>
 
         <p>
           The <strong>PHA (Pharmacy/Drug Industry)</strong> code tracks lobbying specifically about pharmaceutical 
@@ -178,7 +178,7 @@ export default function Healthcare3BillionBetPage() {
           and the lobbying to prevent expansion to commercial insurance continues.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Current Momentum</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Current Momentum</h2>
 
         <p>
           Interestingly, healthcare lobbying is currently showing a <strong>slight decline</strong> in quarterly momentum. 
@@ -213,7 +213,7 @@ export default function Healthcare3BillionBetPage() {
           expect these numbers to spike.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why Healthcare Lobbying Will Never Slow Down</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why Healthcare Lobbying Will Never Slow Down</h2>
 
         <p>
           Healthcare is <strong>18% of U.S. GDP</strong> — roughly $4.5 trillion annually. The federal government 

@@ -83,7 +83,7 @@ export default function SeasonalLobbyingPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Seasonal Pattern</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Seasonal Pattern</h2>
         
         <p>
           Across eight years of lobbying data (2018–2025), a clear seasonal rhythm emerges. 
@@ -118,7 +118,7 @@ export default function SeasonalLobbyingPage() {
           That&apos;s an extra $1 billion in lobbying activity that happens in the final three months of the year.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why Q4 Is King</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why Q4 Is King</h2>
 
         <p>
           The October-December surge isn&apos;t a mystery — it&apos;s driven by three forces:
@@ -142,7 +142,7 @@ export default function SeasonalLobbyingPage() {
           </li>
         </ul>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Year-by-Year: The Quarterly Rhythm</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Year-by-Year: The Quarterly Rhythm</h2>
 
         <div className="bg-gray-50 rounded-xl p-6 my-6 not-prose overflow-x-auto">
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Quarterly Income ($M) by Year</h3>
@@ -185,7 +185,7 @@ export default function SeasonalLobbyingPage() {
           due to debt ceiling negotiations).
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Filing Activity: The Monthly Spikes</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Filing Activity: The Monthly Spikes</h2>
 
         <p>
           Looking at monthly filing data reveals an even sharper pattern. Lobbying disclosure filings 
@@ -230,7 +230,7 @@ export default function SeasonalLobbyingPage() {
           rhythmic pulse in the lobbying disclosure system — quiet, quiet, <em>flood</em>, quiet, quiet, <em>flood</em>.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>2025: A Record Year for Filings</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>2025: A Record Year for Filings</h2>
 
         <p>
           2025 stands out as the highest-filing year in our dataset. Q3 and Q4 of 2025 each 
@@ -244,7 +244,7 @@ export default function SeasonalLobbyingPage() {
           drove organizations to increase their lobbying presence.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What This Means for Transparency</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What This Means for Transparency</h2>
 
         <p>
           The seasonal pattern matters because it affects <em>when</em> the public can see lobbying data. 

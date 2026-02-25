@@ -28,46 +28,11 @@
     "roiLabel": "$2022 back per $1 lobbied"
   },
   {
-    "name": "LOCKHEED MARTIN CORPORATION",
-    "lobbying": 1350000,
-    "contracts": 2538798064,
-    "roi": 1881,
-    "roiLabel": "$1881 back per $1 lobbied"
-  },
-  {
-    "name": "LOCKHEED MARTIN CORPORATION",
-    "lobbying": 1540000,
-    "contracts": 2538798064,
-    "roi": 1649,
-    "roiLabel": "$1649 back per $1 lobbied"
-  },
-  {
     "name": "BAE SYSTEMS LAND & ARMAMENTS LP",
     "lobbying": 1370000,
     "contracts": 2164547913,
     "roi": 1580,
     "roiLabel": "$1580 back per $1 lobbied"
-  },
-  {
-    "name": "THE BOEING COMPANY",
-    "lobbying": 1500000,
-    "contracts": 2353691942,
-    "roi": 1569,
-    "roiLabel": "$1569 back per $1 lobbied"
-  },
-  {
-    "name": "THE BOEING COMPANY",
-    "lobbying": 1640000,
-    "contracts": 2353691942,
-    "roi": 1435,
-    "roiLabel": "$1435 back per $1 lobbied"
-  },
-  {
-    "name": "THE BOEING COMPANY",
-    "lobbying": 1940000,
-    "contracts": 2353691942,
-    "roi": 1213,
-    "roiLabel": "$1213 back per $1 lobbied"
   },
   {
     "name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
@@ -77,17 +42,24 @@
     "roiLabel": "$1190 back per $1 lobbied"
   },
   {
-    "name": "THE BOEING COMPANY",
-    "lobbying": 2100000,
-    "contracts": 2353691942,
-    "roi": 1121,
-    "roiLabel": "$1121 back per $1 lobbied"
-  },
-  {
     "name": "SPACE EXPLORATION TECHNOLOGIES CORP.",
     "lobbying": 2910000,
     "contracts": 2999808160,
     "roi": 1031,
     "roiLabel": "$1031 back per $1 lobbied"
+  },
+  {
+    "name": "LOCKHEED MARTIN CORPORATION",
+    "lobbying": 2890000,
+    "contracts": 2538798064,
+    "roi": 878,
+    "roiLabel": "$878 back per $1 lobbied"
+  },
+  {
+    "name": "THE BOEING COMPANY",
+    "lobbying": 7180000,
+    "contracts": 2353691942,
+    "roi": 328,
+    "roiLabel": "$328 back per $1 lobbied"
   }
 ]

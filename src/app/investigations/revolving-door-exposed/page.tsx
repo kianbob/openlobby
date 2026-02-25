@@ -43,7 +43,7 @@ export default function RevolvingDoorExposedPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Influence Brokers</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Influence Brokers</h2>
 
         <p>
           Federal law requires lobbyists to disclose their former government positions. The idea is transparency — 
@@ -58,7 +58,7 @@ export default function RevolvingDoorExposedPage() {
           They&apos;re the people who had the most powerful rolodexes in government.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Most Connected Lobbyists in Washington</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Most Connected Lobbyists in Washington</h2>
 
         <p>
           The lobbyists with the most clients tend to cluster at a handful of mega-firms. 
@@ -92,7 +92,7 @@ export default function RevolvingDoorExposedPage() {
           </div>
         </div>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Mehlman Machine</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Mehlman Machine</h2>
 
         <p>
           One firm dominates the revolving door rankings: <strong><Link href="/firms/mehlman-consulting-inc" className="text-primary hover:underline">Mehlman Consulting</Link></strong>. 
@@ -108,7 +108,7 @@ export default function RevolvingDoorExposedPage() {
           represents more than 200 clients simultaneously.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>From the White House to K Street</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>From the White House to K Street</h2>
 
         <p>
           Some of the most notable revolving door transitions involve the highest levels of government:
@@ -140,7 +140,7 @@ export default function RevolvingDoorExposedPage() {
           </li>
         </ul>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Bipartisan Business</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Bipartisan Business</h2>
 
         <p>
           One of the most striking patterns: the revolving door is thoroughly bipartisan. Former staffers 
@@ -158,7 +158,7 @@ export default function RevolvingDoorExposedPage() {
           For the lobbyists, the message is clear: partisan loyalty in government becomes bipartisan access in the private sector.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Scale of the Problem</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Scale of the Problem</h2>
 
         <p>
           Five thousand revolving door lobbyists. That&apos;s roughly <strong>nine for every member of Congress</strong>. 
@@ -173,7 +173,7 @@ export default function RevolvingDoorExposedPage() {
           That knowledge inevitably shapes how they govern — even if unconsciously.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Can It Be Fixed?</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Can It Be Fixed?</h2>
 
         <p>
           Various proposals have attempted to slow the revolving door: cooling-off periods that prevent 

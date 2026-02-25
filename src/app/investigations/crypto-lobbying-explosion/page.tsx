@@ -84,7 +84,7 @@ export default function CryptoLobbyingExplosionPage() {
       </div>
 
       <article className="prose prose-lg max-w-none">
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>From Cypherpunks to K Street</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>From Cypherpunks to K Street</h2>
 
         <p>
           A decade ago, the idea of cryptocurrency lobbyists would have been laughable. Bitcoin was created
@@ -99,7 +99,7 @@ export default function CryptoLobbyingExplosionPage() {
           number is growing fast.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Money Players</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Money Players</h2>
 
         <div className="not-prose my-6">
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
@@ -128,7 +128,7 @@ export default function CryptoLobbyingExplosionPage() {
           the collective interests of crypto companies — from DeFi protocols to mining operations to NFT marketplaces.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>What Crypto Is Lobbying For</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>What Crypto Is Lobbying For</h2>
 
         <p>
           The crypto industry&apos;s lobbying priorities have evolved dramatically. In the early days, the focus was
@@ -144,7 +144,7 @@ export default function CryptoLobbyingExplosionPage() {
           <li><strong>Self-custody rights</strong> — Protecting users&apos; ability to hold their own crypto without intermediaries.</li>
         </ul>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Political Transformation</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Political Transformation</h2>
 
         <p>
           Crypto&apos;s lobbying operation has been accompanied by an aggressive political strategy. The industry&apos;s
@@ -159,7 +159,7 @@ export default function CryptoLobbyingExplosionPage() {
           tandem: campaign contributions open doors, and lobbyists walk through them.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Ripple Effect</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Ripple Effect</h2>
 
         <p>
           Ripple Labs deserves special attention. The company&apos;s multi-year legal battle with the SEC — which
@@ -175,7 +175,7 @@ export default function CryptoLobbyingExplosionPage() {
           complementary strategies to shape regulation.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>The Issue Code Trail</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>The Issue Code Trail</h2>
 
         <p>
           Crypto lobbying shows up across multiple issue codes in the federal database:
@@ -194,7 +194,7 @@ export default function CryptoLobbyingExplosionPage() {
           in lobbying, driven largely by crypto and digital currency advocacy.
         </p>
 
-        <h2 style={{ fontFamily: 'var(--font-serif)' }}>Why It Matters</h2>
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)'  }}>Why It Matters</h2>
 
         <p>
           The crypto industry&apos;s transformation from an anti-establishment movement into a Washington lobbying
