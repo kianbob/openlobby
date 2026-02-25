@@ -196,7 +196,7 @@ export default function ForeignInfluencePage() {
           <h3 className="font-bold text-lg mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Explore the Data</h3>
           <p className="text-gray-700 mb-4">Search all 1,000+ foreign entities and see which countries and companies are lobbying the US government.</p>
           <div className="flex flex-wrap gap-3">
-            <Link href="/foreign-entities" className="px-4 py-2 bg-primary text-white rounded-lg text-sm font-medium hover:bg-primary-dark transition-colors">
+            <Link href="/foreign" className="px-4 py-2 bg-primary text-white rounded-lg text-sm font-medium hover:bg-primary-dark transition-colors">
               Foreign Entities →
             </Link>
             <Link href="/clients" className="px-4 py-2 bg-white border border-gray-300 rounded-lg text-sm font-medium hover:bg-gray-50 transition-colors">

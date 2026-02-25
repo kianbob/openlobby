@@ -226,7 +226,7 @@ export default function FollowTheMoneyPage() {
           <h3 className="font-bold text-lg mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Explore the Data</h3>
           <p className="text-gray-700 mb-4">See which companies lobby and receive government contracts — the full lobbying ROI dataset.</p>
           <div className="flex flex-wrap gap-3">
-            <Link href="/follow-the-money" className="px-4 py-2 bg-primary text-white rounded-lg text-sm font-medium hover:bg-primary-dark transition-colors">
+            <Link href="/investigations/follow-the-money" className="px-4 py-2 bg-primary text-white rounded-lg text-sm font-medium hover:bg-primary-dark transition-colors">
               Follow the Money →
             </Link>
             <Link href="/clients" className="px-4 py-2 bg-white border border-gray-300 rounded-lg text-sm font-medium hover:bg-gray-50 transition-colors">
