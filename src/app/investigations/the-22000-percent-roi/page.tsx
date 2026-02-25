@@ -16,7 +16,7 @@ const ResponsiveContainer = dynamic(() => import('recharts').then(m => m.Respons
 const topSpenders = [
   { name: 'US Chamber', total: 591.9, trajectory: 'Growing (+46%)', slug: 'u-s-chamber-of-commerce-fka-u-s-chamber-of-commerce-institute-for-legal-reform' },
   { name: 'NAR', total: 516.7, trajectory: 'Stable', slug: 'national-association-of-realtors' },
-  { name: 'PhRMA', total: 213.2, trajectory: 'Growing (+38%)', slug: 'pharmaceutical-research-manufacturers-of-america-phrma' },
+  { name: 'PhRMA', total: 213.2, trajectory: 'Growing (+38%)', slug: 'pharmaceutical-research-and-manufacturers-of-america-phrma' },
   { name: 'Business Roundtable', total: 198.2, trajectory: 'Growing (+84%)', slug: 'business-roundtable' },
   { name: 'AHA', total: 178.1, trajectory: 'Growing (+63%)', slug: 'american-hospital-association' },
   { name: 'Meta', total: 154.9, trajectory: 'Exploding (+244%)', slug: 'meta-platforms-inc' },

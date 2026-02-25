@@ -82,7 +82,7 @@ export default function BigPharmaLobbyingPage() {
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Top Pharmaceutical &amp; Healthcare Lobbying Clients</h3>
           <div className="space-y-3">
             {[
-              { name: 'PhRMA (all registrations combined)', amount: '$17.3M', detail: '109 filings across multiple registrations', href: '/clients/pharmaceutical-research-manufacturers-of-america-phrma' },
+              { name: 'PhRMA (all registrations combined)', amount: '$17.3M', detail: '109 filings across multiple registrations', href: '/clients/pharmaceutical-research-and-manufacturers-of-america-phrma' },
               { name: 'Alliance for Biopharmaceutical Competitiveness', amount: '$4.97M', detail: '24 filings' },
               { name: 'Pacira Pharmaceuticals', amount: '$3.08M', detail: '28 filings — specialty pain medications' },
               { name: 'Senior Care Pharmacy Coalition', amount: '$5.05M', detail: '53 filings — nursing home pharmacy interests' },
