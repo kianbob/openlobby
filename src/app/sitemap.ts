@@ -30,7 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.openlobby.us'
 
   const staticPages = [
-    '', '/about', '/clients', '/firms', '/lobbyists', '/issues',
+    '', '/about', '/clients', '/firms', '/lobbyists', '/issues', '/agencies',
     '/trends', '/revolving-door', '/foreign', '/industries',
     '/investigations', '/search', '/downloads', '/states',
     '/lobbying-roi', '/influence-score', '/arms-race', '/text-analysis',
