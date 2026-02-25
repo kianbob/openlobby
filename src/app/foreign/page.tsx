@@ -35,6 +35,16 @@ export default function ForeignPage() {
         Disclosed on LDA filings when a lobbying client has foreign entity affiliations.
       </p>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">Foreign governments and corporations spend millions lobbying the U.S. Congress — and it&apos;s perfectly legal. The UK leads with hundreds of filings, followed by Canada, Japan, and South Korea. But the most controversial foreign lobbying comes from adversarial nations: Chinese companies like Huawei and TikTok, Saudi Arabian interests, and Russian-linked entities. This data shows which countries are most actively trying to shape American policy.</p>
+          </div>
+        </div>
+      </div>
+
       <input type="text" placeholder="Search by entity name or country..." value={search}
         onChange={e => { setSearch(e.target.value); setShown(50) }}
         className="w-full max-w-lg px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none mb-6" />

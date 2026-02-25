@@ -65,6 +65,18 @@ export default async function IssueDetailPage({ params }: { params: Promise<{ co
 
       <ShareButtons url={`https://www.openlobby.us/issues/${code}`} title={`${formatCurrency(d.totalSpending)} spent lobbying on ${d.name.toLowerCase()}`} />
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8 mt-6">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">
+              {d.name} is one of the 79 issue categories tracked under the Lobbying Disclosure Act. With {formatCurrency(d.totalSpending)} in total lobbying spend across {formatNumber(d.totalFilings)} filings, it ranks among the {d.totalSpending > 500000000 ? 'most heavily lobbied' : d.totalSpending > 100000000 ? 'significantly lobbied' : 'actively lobbied'} policy areas in Washington. The money flowing into this issue reflects how much is at stake for the industries involved.
+            </p>
+          </div>
+        </div>
+      </div>
+
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4 my-8">
         <div className="bg-gray-50 rounded-xl p-4">
           <div className="text-2xl font-bold text-primary" style={{ fontFamily: 'var(--font-serif)' }}>{formatCurrency(d.totalSpending)}</div>

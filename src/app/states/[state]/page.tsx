@@ -65,6 +65,18 @@ export default async function StateDetailPage({ params }: { params: Promise<{ st
 
       <ShareButtons url={`https://www.openlobby.us/states/${state}`} title={`${d.name}: ${formatCurrency(d.totalSpending)} in federal lobbying`} />
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8 mt-6">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">
+              Clients headquartered in {d.name} have spent {formatCurrency(d.totalSpending)} on federal lobbying across {formatNumber(d.totalFilings)} filings. With {formatNumber(d.clientCount)} active lobbying clients, {d.name} is {d.totalSpending > 1000000000 ? 'one of the most influential states in Washington' : d.totalSpending > 100000000 ? 'a significant source of lobbying activity' : 'an active participant in federal lobbying'}. This spending reveals which industries and companies in {d.name} have the most at stake in federal policy.
+            </p>
+          </div>
+        </div>
+      </div>
+
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4 my-8">
         <div className="bg-gray-50 rounded-xl p-4">
           <div className="text-2xl font-bold text-primary" style={{ fontFamily: 'var(--font-serif)' }}>{formatCurrency(d.totalSpending)}</div>

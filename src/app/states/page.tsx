@@ -35,6 +35,16 @@ export default function StatesPage() {
         Where lobbying clients are based. States ranked by total lobbying spending from clients headquartered there.
       </p>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">Where lobbying clients are headquartered reveals the geography of political influence. Washington D.C. dominates because trade associations and lobbying firms are based there. But California, New York, and Texas follow — home to Big Tech, Wall Street, and energy companies. State-level data shows which regions have the most at stake in federal policy, and which states punch above their economic weight in the influence game.</p>
+          </div>
+        </div>
+      </div>
+
       <select value={sortBy} onChange={e => setSortBy(e.target.value as SortKey)}
         className="px-4 py-2 border border-gray-300 rounded-lg bg-white mb-6">
         <option value="totalSpending">Sort by Spending</option>

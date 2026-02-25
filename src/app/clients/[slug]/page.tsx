@@ -74,6 +74,18 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
       
       <ShareButtons url={`https://www.openlobby.us/clients/${slug}`} title={`${toTitleCase(client.name)} spent ${formatCurrency(client.totalSpending)} on lobbying`} />
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8 mt-6">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">
+              With {formatCurrency(client.totalSpending)} in lobbying spend across {client.filings} quarterly filings, {toTitleCase(client.name)} is {client.totalSpending > 5000000 ? 'one of the biggest lobbying spenders in Washington' : client.totalSpending > 1000000 ? 'a significant lobbying presence' : 'an active lobbying client'}.{client.lobbyists?.length > 10 ? ` They deploy ${client.lobbyists.length} individual lobbyists` : ''}{client.firms?.length > 0 ? ` across ${client.firms.length} lobbying firms.` : '.'}
+            </p>
+          </div>
+        </div>
+      </div>
+
       {/* Key Stats */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 my-8">
         <div className="bg-gray-50 rounded-xl p-4">

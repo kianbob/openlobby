@@ -56,6 +56,16 @@ export default function ClientsPage() {
         </select>
       </div>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">These are the organizations spending the most to influence Congress. The top clients aren&apos;t just big corporations — they include trade associations like PhRMA and the Chamber of Commerce that pool industry money for maximum impact. When a single client spends millions on lobbying, they&apos;re buying access and influence that ordinary citizens can&apos;t match. Watch for: companies that suddenly increase spending (something big is at stake) and clients lobbying on issues that directly affect their bottom line.</p>
+          </div>
+        </div>
+      </div>
+
       <p className="text-sm text-gray-500 mb-4">{formatNumber(filtered.length)} clients{search ? ' matching' : ''}</p>
 
       {clients.length === 0 ? (

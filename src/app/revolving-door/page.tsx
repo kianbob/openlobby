@@ -37,6 +37,16 @@ export default function RevolvingDoorPage() {
         on their LDA filings — the pipeline from public service to K Street.
       </p>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">The revolving door between government and K Street is one of the most powerful — and troubling — dynamics in Washington. These 5,000 former officials bring insider knowledge of how agencies work, personal relationships with decision-makers, and expertise that money alone can&apos;t buy. When a former White House advisor or congressional chief of staff becomes a lobbyist, their old colleagues take their calls. This is how influence really works.</p>
+          </div>
+        </div>
+      </div>
+
       <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-6">
         <p className="text-amber-800 text-sm">
           <strong>🏛️ {formatNumber(lobbyists.length)} lobbyists</strong> in our data disclosed previous government positions. 

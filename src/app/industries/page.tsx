@@ -29,6 +29,16 @@ export default function IndustriesPage() {
         Which sectors of the economy spend the most to influence Congress? Industries grouped by LDA issue categories.
       </p>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">Lobbying spending by industry reveals which sectors have the most at stake in Washington. Healthcare consistently dominates — pharmaceutical companies and insurers spend more than any other industry because government policy directly controls drug pricing, Medicare reimbursements, and FDA approvals. Defense comes next (securing Pentagon contracts), followed by tech (fighting regulation) and finance (shaping banking rules). When an industry suddenly increases lobbying, it usually means legislation that threatens their profits is on the table.</p>
+          </div>
+        </div>
+      </div>
+
       {industries.length === 0 ? (
         <div className="bg-gray-50 border border-gray-200 rounded-xl p-12 text-center text-gray-500">Loading...</div>
       ) : (

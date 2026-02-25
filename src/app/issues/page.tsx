@@ -30,6 +30,16 @@ export default function IssuesPage() {
         The 79 issue categories defined by the Senate for lobbying disclosure. See which policy areas attract the most money.
       </p>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">The 79 LDA issue categories reveal exactly what lobbyists are fighting over. Health Issues (HCR) dominates at over $2.3 billion — more than any other category — because healthcare policy directly affects trillions in industry revenue. Budget/Appropriations (BUD) is next because that&apos;s where the money gets allocated. Watch for surging issue categories: when lobbying on Trade (TRD) or Tariffs (TAR) suddenly spikes, it means policy changes are imminent.</p>
+          </div>
+        </div>
+      </div>
+
       <input type="text" placeholder="Search issues..." value={search} onChange={e => setSearch(e.target.value)}
         className="w-full max-w-md px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none mb-6" />
 

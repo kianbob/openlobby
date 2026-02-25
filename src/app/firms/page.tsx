@@ -49,6 +49,16 @@ export default function FirmsPage() {
         </select>
       </div>
 
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">Lobbying firms are the middlemen of influence — K Street firms like Brownstein Hyatt and Akin Gump represent dozens of clients simultaneously, giving them outsized access to lawmakers. The biggest firms earn tens of millions annually from clients seeking to shape legislation. A firm&apos;s client list reveals which industries are fighting hardest to influence policy, and which issues are generating the most lobbying demand.</p>
+          </div>
+        </div>
+      </div>
+
       <p className="text-sm text-gray-500 mb-4">{formatNumber(filtered.length)} firms</p>
 
       {firms.length === 0 ? (
