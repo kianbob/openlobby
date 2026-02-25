@@ -12,6 +12,17 @@ const investigations = [
   'the-revolving-door-premium', 'dc-lobbying-capital', 'issue-arms-race',
 ]
 
+function readSlugsFromDir(dirName: string): string[] {
+  try {
+    const dir = path.join(process.cwd(), 'public', 'data', dirName)
+    return fs.readdirSync(dir)
+      .filter(f => f.endsWith('.json'))
+      .map(f => f.replace('.json', ''))
+  } catch {
+    return []
+  }
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.openlobby.us'
 
@@ -38,29 +49,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: p === '' ? 1 : 0.7,
   }))
 
-  // Client detail pages
-  try {
-    const clientIndex = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'client-index.json'), 'utf-8'))
-    for (const c of clientIndex.slice(0, 2000)) {
-      routes.push({ url: `${baseUrl}/clients/${c.slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
-    }
-  } catch {}
+  // Client detail pages — read all slugs from directory
+  for (const slug of readSlugsFromDir('clients')) {
+    routes.push({ url: `${baseUrl}/clients/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
+  }
 
   // Firm detail pages
-  try {
-    const firmIndex = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'firm-index.json'), 'utf-8'))
-    for (const f of firmIndex.slice(0, 1000)) {
-      routes.push({ url: `${baseUrl}/firms/${f.slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
-    }
-  } catch {}
+  for (const slug of readSlugsFromDir('firms')) {
+    routes.push({ url: `${baseUrl}/firms/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
+  }
 
   // Lobbyist detail pages
-  try {
-    const lobbyistIndex = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'lobbyist-index.json'), 'utf-8'))
-    for (const l of lobbyistIndex.slice(0, 2000)) {
-      routes.push({ url: `${baseUrl}/lobbyists/${l.slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.4 })
-    }
-  } catch {}
+  for (const slug of readSlugsFromDir('lobbyists')) {
+    routes.push({ url: `${baseUrl}/lobbyists/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.4 })
+  }
 
   // Issue detail pages
   try {

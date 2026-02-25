@@ -21,6 +21,14 @@ export const metadata: Metadata = {
     type: 'website',
     siteName: 'OpenLobby',
     locale: 'en_US',
+    images: [
+      {
+        url: 'https://www.openlobby.us/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'OpenLobby — Follow the Money in Washington',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',

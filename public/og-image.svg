@@ -1,0 +1,8 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a1a2e"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#e94560"/>
+  <text x="100" y="250" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#ffffff">OpenLobby</text>
+  <text x="100" y="340" font-family="Arial, sans-serif" font-size="32" fill="#a0a0b0">Follow the Money in Washington</text>
+  <text x="100" y="420" font-family="Arial, sans-serif" font-size="24" fill="#707080">$15 billion in federal lobbying data · 650,000+ filings · 2018–2025</text>
+  <text x="100" y="560" font-family="Arial, sans-serif" font-size="20" fill="#505060">openlobby.us</text>
+</svg>
