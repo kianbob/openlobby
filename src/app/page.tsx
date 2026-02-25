@@ -265,6 +265,16 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Stay Updated */}
+      <section className="max-w-3xl mx-auto px-4 py-12 text-center">
+        <h2 className="text-2xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Stay Updated</h2>
+        <p className="text-gray-600 mb-4">Follow OpenLobby for new investigations and data updates.</p>
+        <div className="flex justify-center gap-4">
+          <a href="https://www.openlobby.us/feed.xml" target="_blank" rel="noopener noreferrer" className="px-5 py-2 bg-orange-100 text-orange-700 rounded-lg hover:bg-orange-200 transition-colors text-sm font-medium">📡 RSS Feed</a>
+          <a href="https://thedataproject.ai" target="_blank" rel="noopener noreferrer" className="px-5 py-2 bg-indigo-100 text-indigo-700 rounded-lg hover:bg-indigo-200 transition-colors text-sm font-medium">🌐 TheDataProject</a>
+        </div>
+      </section>
+
       {/* CTA */}
       <section className="bg-indigo-900 text-white py-16">
         <div className="max-w-3xl mx-auto px-4 text-center">

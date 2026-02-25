@@ -82,9 +82,9 @@ export default function LobbyistsPage() {
                     <td className="px-4 py-3 text-right font-medium">{formatNumber(l.filings)}</td>
                     <td className="px-4 py-3 text-right text-gray-600 hidden sm:table-cell">{l.firms?.length || 0}</td>
                     <td className="px-4 py-3 text-right text-gray-600 hidden md:table-cell">{l.clients?.length || 0}</td>
-                    <td className="px-4 py-3 text-center hidden lg:table-cell">
+                    <td className="px-4 py-3 text-center hidden lg:table-cell max-w-xs">
                       {l.positions?.length > 0 ? (
-                        <span className="text-xs text-amber-700 bg-amber-50 px-2 py-1 rounded-full">{l.positions[0]}</span>
+                        <span className="text-xs text-amber-700 bg-amber-50 px-2 py-1 rounded-full inline-block max-w-[200px] truncate" title={l.positions.join('; ')}>{l.positions[0]?.split(';')[0]?.trim()}</span>
                       ) : '—'}
                     </td>
                   </tr>

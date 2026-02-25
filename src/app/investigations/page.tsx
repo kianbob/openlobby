@@ -119,6 +119,13 @@ export default function InvestigationsPage() {
         and tell the stories the numbers reveal.
       </p>
 
+      <a href="/investigations/doge-vs-lobbying" className="block mb-10 bg-gradient-to-r from-indigo-900 to-purple-900 rounded-2xl p-8 text-white hover:shadow-2xl transition-shadow">
+        <span className="inline-block px-3 py-1 bg-red-500 text-white text-xs font-bold rounded-full mb-4">FEATURED</span>
+        <h2 className="text-3xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>DOGE Wants to Cut Government. $4.4 Billion in Lobbying Wants to Keep It.</h2>
+        <p className="text-gray-300 mb-4">What happens when DOGE comes for the agencies that lobbyists depend on? A deep-dive into the collision between government efficiency and the lobbying industry.</p>
+        <span className="text-amber-400 text-sm font-medium">Read the investigation →</span>
+      </a>
+
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {investigations.map(inv => (
           <Link

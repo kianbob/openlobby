@@ -117,6 +117,14 @@ export default function SearchPage() {
         <div className="text-center py-12 text-gray-400">
           <p className="text-6xl mb-4">🔍</p>
           <p>Start typing to search across all lobbying data</p>
+          <div className="mt-6">
+            <p className="text-sm text-gray-500 mb-3">Popular searches:</p>
+            <div className="flex flex-wrap gap-2 justify-center">
+              {['Google', 'Boeing', 'PhRMA', 'Amazon', 'healthcare', 'tariffs', 'defense'].map(term => (
+                <button key={term} onClick={() => setQuery(term)} className="px-3 py-1 bg-gray-100 rounded-full text-sm hover:bg-indigo-100 hover:text-indigo-700 transition-colors">{term}</button>
+              ))}
+            </div>
+          </div>
         </div>
       )}
     </div>
