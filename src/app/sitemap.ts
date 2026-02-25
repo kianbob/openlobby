@@ -18,7 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/trends', '/revolving-door', '/foreign', '/industries',
     '/investigations', '/search', '/downloads', '/states',
     '/lobbying-roi', '/influence-score', '/arms-race', '/text-analysis',
-    '/cross-reference', '/compare',
+    '/cross-reference', '/compare', '/your-tax-dollar',
   ]
 
   const routes: MetadataRoute.Sitemap = staticPages.map(p => ({

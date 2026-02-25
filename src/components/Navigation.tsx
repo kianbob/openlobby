@@ -35,6 +35,7 @@ const navGroups = [
   {
     label: 'Tools',
     items: [
+      { name: 'Your Tax Dollar', href: '/your-tax-dollar', desc: 'What lobbying costs you' },
       { name: 'Compare', href: '/compare', desc: 'Compare clients or firms' },
       { name: 'Search', href: '/search', desc: 'Search all data' },
       { name: 'Downloads', href: '/downloads', desc: 'Get the raw data' },
