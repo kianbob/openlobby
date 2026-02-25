@@ -110,6 +110,7 @@ export default function ClientTrajectoriesPage() {
     name: key.charAt(0).toUpperCase() + key.slice(1),
     value,
     key,
+    fill: TRAJECTORY_COLORS[key] || '#999',
   }))
 
   const total = distData.reduce((s, d) => s + d.value, 0)

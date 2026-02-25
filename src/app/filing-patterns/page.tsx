@@ -39,7 +39,7 @@ export default function FilingPatternsPage() {
 
   const topTypes = useMemo(() => {
     if (!filing) return []
-    return filing.byType.slice(0, 8)
+    return filing.byType.slice(0, 8).map((t: any, i: number) => ({ ...t, fill: PIE_COLORS[i % PIE_COLORS.length] }))
   }, [filing])
 
   const quarterlyOverall = useMemo(() => {

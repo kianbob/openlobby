@@ -39,8 +39,8 @@ export default function ConcentrationPage() {
 
   const donutData = useMemo(() => {
     if (!data) return []
-    return Object.entries(data.concentrationDistribution).map(([key, value]) => ({
-      name: LABELS[key] || key, value
+    return Object.entries(data.concentrationDistribution).map(([key, value], i) => ({
+      name: LABELS[key] || key, value, fill: COLORS[i % COLORS.length]
     }))
   }, [data])
 
