@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://www.openlobby.us'),
   alternates: {
     canonical: './',
+    types: {
+      'application/rss+xml': 'https://www.openlobby.us/feed.xml',
+    },
   },
   openGraph: {
     type: 'website',
