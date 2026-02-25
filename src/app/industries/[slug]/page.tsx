@@ -239,6 +239,29 @@ export default async function IndustryDetailPage({ params }: { params: Promise<{
         </section>
       )}
 
+      {/* Related Analysis */}
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Analysis</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/concentration" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🎯 Market Concentration</div>
+            <div className="text-xs text-gray-500 mt-1">How concentrated is lobbying within this industry?</div>
+          </Link>
+          <Link href="/momentum" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🚀 Spending Momentum</div>
+            <div className="text-xs text-gray-500 mt-1">Which industries are surging right now?</div>
+          </Link>
+          <Link href="/network" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🕸️ Network Analysis</div>
+            <div className="text-xs text-gray-500 mt-1">Explore connections between firms and lobbyists</div>
+          </Link>
+          <Link href="/lobbying-roi" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">💵 ROI Calculator</div>
+            <div className="text-xs text-gray-500 mt-1">Calculate the return on lobbying investment</div>
+          </Link>
+        </div>
+      </section>
+
       {/* Other Industries */}
       <section className="mb-8">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Explore Other Industries</h2>
@@ -252,6 +275,18 @@ export default async function IndustryDetailPage({ params }: { params: Promise<{
               {INDUSTRY_ICONS[s]} {INDUSTRY_LABELS[s]}
             </Link>
           ))}
+        </div>
+      </section>
+
+      {/* Explore More */}
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/industries" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">← All Industries</Link>
+          <Link href="/compare" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">⚖️ Compare</Link>
+          <Link href="/lobbying-roi" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">💵 ROI Calculator</Link>
+          <Link href="/investigations" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🔍 Investigations</Link>
+          <Link href="/how-lobbying-works" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📖 How Lobbying Works</Link>
         </div>
       </section>
 

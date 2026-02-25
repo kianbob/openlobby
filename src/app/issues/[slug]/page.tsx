@@ -11,6 +11,52 @@ import { formatCurrency, formatNumber, slugify, toTitleCase } from '@/lib/format
 
 import IssueChartsWrapper from './IssueChartsWrapper'
 
+const articleMap: Record<string, { href: string; title: string; desc: string }[]> = {
+  HCR: [{ href: '/investigations/big-pharma-lobbying', title: "Big Pharma's $452M Lobbying Machine", desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }, { href: '/investigations/healthcare-3-billion-bet', title: "Healthcare's $3 Billion Bet", desc: "The healthcare industry's massive lobbying investment." }],
+  PHA: [{ href: '/investigations/big-pharma-lobbying', title: "Big Pharma's $452M Lobbying Machine", desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
+  DEF: [{ href: '/investigations/defense-contractor-lobbying', title: 'The Defense Lobby', desc: 'Defense contractors spend millions lobbying for contracts worth billions.' }],
+  CPT: [{ href: '/investigations/tech-lobbying-war', title: "Big Tech's $150M Lobbying War", desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }, { href: '/investigations/ai-regulation-fight', title: "Who's Lobbying to Shape AI Policy", desc: 'The AI regulation fight is the biggest lobbying battle of the decade.' }],
+  SCI: [{ href: '/investigations/tech-lobbying-war', title: "Big Tech's $150M Lobbying War", desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
+  COM: [{ href: '/investigations/tech-lobbying-war', title: "Big Tech's $150M Lobbying War", desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
+  TRD: [{ href: '/investigations/tariff-lobbying-surge', title: 'The 2025 Tariff Panic', desc: 'As tariffs return, lobbying on trade surges.' }],
+  TAR: [{ href: '/investigations/tariff-lobbying-surge', title: 'The 2025 Tariff Panic', desc: 'As tariffs return, lobbying on trade surges.' }],
+  FOR: [{ href: '/investigations/foreign-influence', title: 'Foreign Governments Are Lobbying Congress', desc: '1,000+ foreign entities from 50+ countries lobby the US government.' }],
+  FIN: [{ href: '/investigations/follow-the-money', title: 'Follow the Money', desc: 'Tracking lobbying dollars through the financial system.' }],
+  BNK: [{ href: '/investigations/follow-the-money', title: 'Follow the Money', desc: 'Tracking lobbying dollars through the financial system.' }],
+  CPI: [{ href: '/investigations/crypto-lobbying-explosion', title: 'The Crypto Lobbying Explosion', desc: 'How crypto went from zero to massive lobbying presence.' }],
+  GOV: [{ href: '/investigations/doge-vs-lobbying', title: 'DOGE vs. the Lobbying Machine', desc: 'Government efficiency meets the lobbying industrial complex.' }],
+  TAX: [{ href: '/investigations/the-22000-percent-roi', title: 'The 22,000% ROI', desc: 'When lobbying spending yields outsized returns.' }],
+  ENE: [{ href: '/investigations/follow-the-money', title: 'Follow the Money', desc: 'Tracking energy lobbying dollars and their impact.' }],
+}
+
+const alwaysArticles = [
+  { href: '/investigations/lobbying-statistics', title: 'Federal Lobbying Statistics 2025', desc: 'The definitive stats — $15.2B total, industry breakdowns, and trends.' },
+  { href: '/investigations/what-is-lobbying', title: 'What Is Lobbying? A Complete Guide', desc: 'How lobbying works, who does it, and why it matters.' },
+]
+
+const issueCodeToIndustry: Record<string, { page: string; label: string }> = {
+  CPT: { page: '/tech-lobbying', label: 'Tech Lobbying' },
+  SCI: { page: '/tech-lobbying', label: 'Tech Lobbying' },
+  COM: { page: '/tech-lobbying', label: 'Tech Lobbying' },
+  HCR: { page: '/pharmaceutical-lobbying', label: 'Pharma Lobbying' },
+  PHA: { page: '/pharmaceutical-lobbying', label: 'Pharma Lobbying' },
+  MIA: { page: '/pharmaceutical-lobbying', label: 'Pharma Lobbying' },
+  DEF: { page: '/defense-lobbying', label: 'Defense Lobbying' },
+}
+
+function getRelatedArticles(code: string) {
+  const seen = new Set<string>()
+  const articles: { href: string; title: string; desc: string }[] = []
+  const mapped = articleMap[code]
+  if (mapped) {
+    for (const a of mapped) { seen.add(a.href); articles.push(a) }
+  }
+  for (const a of alwaysArticles) {
+    if (!seen.has(a.href)) { seen.add(a.href); articles.push(a) }
+  }
+  return articles
+}
+
 interface IssueData {
   code: string
   name: string
@@ -202,6 +248,64 @@ export default async function IssueDetailPage({ params }: { params: Promise<{ sl
           </div>
         </section>
       )}
+
+      {/* Related Analysis */}
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Analysis</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/momentum" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🚀 Spending Momentum</div>
+            <div className="text-xs text-gray-500 mt-1">Which issues are surging right now?</div>
+          </Link>
+          <Link href="/issue-battles" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">⚔️ Issue Battles</div>
+            <div className="text-xs text-gray-500 mt-1">See which sides are spending on competing issues</div>
+          </Link>
+          <Link href="/seasonal" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">📅 Seasonal Patterns</div>
+            <div className="text-xs text-gray-500 mt-1">When does lobbying peak throughout the year?</div>
+          </Link>
+          <Link href="/geographic" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🗺️ Geographic Analysis</div>
+            <div className="text-xs text-gray-500 mt-1">Where lobbying dollars come from by state</div>
+          </Link>
+          {issueCodeToIndustry[d.code] && (
+            <Link href={issueCodeToIndustry[d.code].page} className="block p-4 bg-purple-50 rounded-lg hover:bg-purple-100 transition-colors">
+              <div className="font-medium text-sm text-purple-700">🏭 {issueCodeToIndustry[d.code].label}</div>
+              <div className="text-xs text-gray-500 mt-1">Industry overview and top spenders</div>
+            </Link>
+          )}
+        </div>
+      </section>
+
+      {/* Related Investigations */}
+      {(() => {
+        const articles = getRelatedArticles(d.code)
+        return articles.length > 0 ? (
+          <section className="mb-8">
+            <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+            <div className="grid md:grid-cols-2 gap-3">
+              {articles.slice(0, 6).map(a => (
+                <Link key={a.href} href={a.href} className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+                  <div className="font-medium text-sm text-indigo-700">{a.title}</div>
+                  <div className="text-xs text-gray-500 mt-1">{a.desc}</div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        ) : null
+      })()}
+
+      {/* Explore More */}
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/issues" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">← All Issues</Link>
+          <Link href="/momentum" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🚀 Trends</Link>
+          <Link href="/filing-patterns" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📊 Filing Patterns</Link>
+          <Link href="/investigations" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🔍 Investigations</Link>
+        </div>
+      </section>
 
       <SourceCitation sources={['Senate LDA Filings']} lastUpdated="February 2026" />
     </div>

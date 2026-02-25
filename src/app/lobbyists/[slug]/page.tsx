@@ -10,6 +10,45 @@ import SourceCitation from '@/components/SourceCitation'
 import { formatNumber, slugify, toTitleCase } from '@/lib/format'
 import { resolveLobbyistSlug, resolveFirmSlug, resolveClientSlug } from '@/lib/resolveSlug'
 
+const articleMap: Record<string, { href: string; title: string; desc: string }[]> = {
+  HCR: [{ href: '/investigations/big-pharma-lobbying', title: "Big Pharma's $452M Lobbying Machine", desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
+  PHA: [{ href: '/investigations/big-pharma-lobbying', title: "Big Pharma's $452M Lobbying Machine", desc: 'How pharmaceutical companies spend hundreds of millions to influence health policy.' }],
+  DEF: [{ href: '/investigations/defense-contractor-lobbying', title: 'The Defense Lobby', desc: 'Defense contractors spend millions lobbying for contracts worth billions.' }],
+  CPT: [{ href: '/investigations/tech-lobbying-war', title: "Big Tech's $150M Lobbying War", desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
+  SCI: [{ href: '/investigations/tech-lobbying-war', title: "Big Tech's $150M Lobbying War", desc: 'Tech giants battle over AI, antitrust, privacy, and trade.' }],
+  TRD: [{ href: '/investigations/tariff-lobbying-surge', title: 'The 2025 Tariff Panic', desc: 'As tariffs return, lobbying on trade surges.' }],
+  FOR: [{ href: '/investigations/foreign-influence', title: 'Foreign Governments Are Lobbying Congress', desc: '1,000+ foreign entities from 50+ countries lobby the US government.' }],
+  FIN: [{ href: '/investigations/follow-the-money', title: 'Follow the Money', desc: 'Tracking lobbying dollars through the financial system.' }],
+  CPI: [{ href: '/investigations/crypto-lobbying-explosion', title: 'The Crypto Lobbying Explosion', desc: 'How crypto went from zero to massive lobbying presence.' }],
+  TAX: [{ href: '/investigations/the-22000-percent-roi', title: 'The 22,000% ROI', desc: 'When lobbying spending yields outsized returns.' }],
+}
+
+const alwaysArticles = [
+  { href: '/investigations/lobbying-statistics', title: 'Federal Lobbying Statistics 2025', desc: 'The definitive stats — $15.2B total, industry breakdowns, and trends.' },
+  { href: '/investigations/what-is-lobbying', title: 'What Is Lobbying? A Complete Guide', desc: 'How lobbying works, who does it, and why it matters.' },
+]
+
+function getRelatedArticles(issues: string[], revolvingDoor: boolean) {
+  const seen = new Set<string>()
+  const articles: { href: string; title: string; desc: string }[] = []
+  if (revolvingDoor) {
+    articles.push({ href: '/investigations/revolving-door-exposed', title: 'The Revolving Door Exposed', desc: 'How former government officials become the most powerful lobbyists.' })
+    seen.add('/investigations/revolving-door-exposed')
+  }
+  for (const issue of issues) {
+    const mapped = articleMap[issue]
+    if (mapped) {
+      for (const a of mapped) {
+        if (!seen.has(a.href)) { seen.add(a.href); articles.push(a) }
+      }
+    }
+  }
+  for (const a of alwaysArticles) {
+    if (!seen.has(a.href)) { seen.add(a.href); articles.push(a) }
+  }
+  return articles
+}
+
 interface LobbyistData {
   id: number
   name: string
@@ -84,6 +123,23 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
       })()}
 
       <ShareButtons url={`https://www.openlobby.us/lobbyists/${slug}`} title={`${toTitleCase(d.name)} — federal lobbyist profile`} />
+
+      {/* AI Overview */}
+      <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-xl p-6 mb-8 mt-6">
+        <div className="flex items-start gap-3">
+          <span className="text-2xl">🤖</span>
+          <div>
+            <h2 className="text-lg font-bold text-indigo-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>AI Overview</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">
+              {toTitleCase(d.name)} has appeared in {formatNumber(d.totalFilings)} federal lobbying filings
+              {d.firms.length > 1 ? ` across ${d.firms.length} firms` : d.firms.length === 1 ? ` at ${toTitleCase(d.firms[0].name)}` : ''},
+              representing {d.topClients.length} client{d.topClients.length !== 1 ? 's' : ''}.
+              {d.revolvingDoor ? ' As a former government official, they bring insider expertise to their lobbying work — part of Washington\'s "revolving door."' : ''}
+              {d.issues.length > 0 ? ` Active across ${d.issues.length} policy area${d.issues.length > 1 ? 's' : ''}.` : ''}
+            </p>
+          </div>
+        </div>
+      </div>
 
       {/* Stats */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 my-8">
@@ -175,6 +231,54 @@ export default async function LobbyistDetailPage({ params }: { params: Promise<{
           </div>
         </section>
       )}
+
+      {/* Related Analysis */}
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Analysis</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/revolving-door-premium" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🏛️ Revolving Door Premium</div>
+            <div className="text-xs text-gray-500 mt-1">Do ex-government lobbyists earn more?</div>
+          </Link>
+          <Link href="/network" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🕸️ Network Analysis</div>
+            <div className="text-xs text-gray-500 mt-1">Explore connections between firms and lobbyists</div>
+          </Link>
+          <Link href="/concentration" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🎯 Market Concentration</div>
+            <div className="text-xs text-gray-500 mt-1">How concentrated is the lobbying market?</div>
+          </Link>
+        </div>
+      </section>
+
+      {/* Related Investigations */}
+      {(() => {
+        const articles = getRelatedArticles(d.issues || [], d.revolvingDoor)
+        return articles.length > 0 ? (
+          <section className="mb-8">
+            <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+            <div className="grid md:grid-cols-2 gap-3">
+              {articles.slice(0, 6).map(a => (
+                <Link key={a.href} href={a.href} className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+                  <div className="font-medium text-sm text-indigo-700">{a.title}</div>
+                  <div className="text-xs text-gray-500 mt-1">{a.desc}</div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        ) : null
+      })()}
+
+      {/* Explore More */}
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/lobbyists" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">← All Lobbyists</Link>
+          <Link href="/revolving-door" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏛️ Revolving Door</Link>
+          <Link href="/network" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🕸️ Network Analysis</Link>
+          <Link href="/investigations" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🔍 Investigations</Link>
+        </div>
+      </section>
 
       <SourceCitation sources={['Senate LDA Filings']} lastUpdated="February 2026" />
     </div>

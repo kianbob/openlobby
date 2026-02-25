@@ -191,6 +191,57 @@ export default async function StateDetailPage({ params }: { params: Promise<{ sl
         </section>
       )}
 
+      {/* Related Analysis */}
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Analysis</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/geographic" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🗺️ Geographic Analysis</div>
+            <div className="text-xs text-gray-500 mt-1">Compare lobbying spending by state</div>
+          </Link>
+          <Link href="/your-tax-dollar" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">💰 Your Tax Dollar</div>
+            <div className="text-xs text-gray-500 mt-1">See how lobbying relates to government spending</div>
+          </Link>
+          <Link href="/concentration" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">🎯 Market Concentration</div>
+            <div className="text-xs text-gray-500 mt-1">How concentrated is the lobbying market?</div>
+          </Link>
+        </div>
+      </section>
+
+      {/* Related Investigations */}
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
+        <div className="grid md:grid-cols-2 gap-3">
+          <Link href="/investigations/lobbying-statistics" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">Federal Lobbying Statistics 2025</div>
+            <div className="text-xs text-gray-500 mt-1">The definitive stats — $15.2B total, industry breakdowns, and trends.</div>
+          </Link>
+          <Link href="/investigations/what-is-lobbying" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">What Is Lobbying? A Complete Guide</div>
+            <div className="text-xs text-gray-500 mt-1">How lobbying works, who does it, and why it matters.</div>
+          </Link>
+          {d.abbreviation === 'DC' && (
+            <Link href="/investigations/dc-lobbying-capital" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+              <div className="font-medium text-sm text-indigo-700">DC: The Lobbying Capital</div>
+              <div className="text-xs text-gray-500 mt-1">Why Washington DC dominates the lobbying landscape.</div>
+            </Link>
+          )}
+        </div>
+      </section>
+
+      {/* Explore More */}
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/states" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">← All States</Link>
+          <Link href="/geographic" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🗺️ Geographic Analysis</Link>
+          <Link href="/your-tax-dollar" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">💰 Your Tax Dollar</Link>
+          <Link href="/investigations" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🔍 Investigations</Link>
+        </div>
+      </section>
+
       <SourceCitation sources={['Senate LDA Filings']} lastUpdated="February 2026" />
     </div>
   )
