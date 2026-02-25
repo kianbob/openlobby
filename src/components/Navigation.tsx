@@ -23,10 +23,15 @@ const navGroups = [
       { name: 'Lobbying ROI', href: '/lobbying-roi', desc: 'Return on lobbying investment' },
       { name: 'Influence Score', href: '/influence-score', desc: 'Most influential clients ranked' },
       { name: 'Cross-Reference', href: '/cross-reference', desc: 'Lobbying vs federal contracts' },
-      { name: 'Influence Network', href: '/network', desc: 'How lobbyists & firms connect' },
       { name: 'Foreign Lobbying', href: '/foreign', desc: 'Foreign influence in DC' },
       { name: 'Geographic', href: '/geographic', desc: 'Where influence comes from' },
       { name: 'Arms Race', href: '/arms-race', desc: 'What\'s surging right now' },
+    ],
+  },
+  {
+    label: 'Deep Dives',
+    items: [
+      { name: 'Influence Network', href: '/network', desc: 'How lobbyists & firms connect' },
       { name: 'Revolving Door Premium', href: '/revolving-door-premium', desc: 'Do ex-gov lobbyists earn more?' },
       { name: 'Client Trajectories', href: '/client-trajectories', desc: 'Spending trends over time' },
       { name: 'First-Time Filers', href: '/new-entrants', desc: 'New organizations entering lobbying' },
