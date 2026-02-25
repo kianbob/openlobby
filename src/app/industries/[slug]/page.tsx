@@ -1,3 +1,4 @@
+import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import fs from 'fs'
 import path from 'path'
@@ -95,13 +96,8 @@ export default async function IndustryDetailPage({ params }: { params: Promise<{
   const { slug } = await params
   const d = getData(slug)
 
-  if (!d) {
-    return (
-      <div className="max-w-4xl mx-auto px-4 py-16 text-center">
-        <h1 className="text-3xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Industry Not Found</h1>
-        <p className="text-gray-600"><Link href="/industries" className="text-primary hover:underline">Browse all industries →</Link></p>
-      </div>
-    )
+  if (!) {
+    notFound()
   }
 
   const label = INDUSTRY_LABELS[slug] || toTitleCase(d.industry)

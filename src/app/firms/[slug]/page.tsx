@@ -1,3 +1,4 @@
+import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import fs from 'fs'
 import path from 'path'
@@ -57,13 +58,8 @@ export default async function FirmDetailPage({ params }: { params: Promise<{ slu
   const { slug } = await params
   const firm = getFirm(slug)
 
-  if (!firm) {
-    return (
-      <div className="max-w-4xl mx-auto px-4 py-16 text-center">
-        <h1 className="text-3xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Firm Not Found</h1>
-        <p className="text-gray-600"><a href="/firms" className="text-primary hover:underline">Browse all firms →</a></p>
-      </div>
-    )
+  if (!) {
+    notFound()
   }
 
   return (
