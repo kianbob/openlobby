@@ -45,6 +45,11 @@ export default function ForeignPage() {
         </div>
       </div>
 
+      <div className="bg-amber-50 border-l-4 border-amber-400 p-4 mb-6 rounded-r-lg">
+        <p className="text-sm font-medium text-amber-900">💡 Did you know?</p>
+        <p className="text-sm text-amber-800 mt-1">Foreign lobbying is perfectly legal under FARA (Foreign Agents Registration Act). Countries like Saudi Arabia, Japan, and South Korea spend millions yearly to influence US policy — and they&apos;re required to disclose it.</p>
+      </div>
+
       <input type="text" placeholder="Search by entity name or country..." value={search}
         onChange={e => { setSearch(e.target.value); setShown(50) }}
         className="w-full max-w-lg px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none mb-6" />
@@ -88,6 +93,16 @@ export default function ForeignPage() {
           )}
         </>
       )}
+      <section className="mt-8 mb-4">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Reading</h2>
+        <div className="grid md:grid-cols-2 gap-3">
+          <a href="/investigations/foreign-influence" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">Foreign Governments Are Lobbying Congress</div>
+            <div className="text-xs text-gray-500 mt-1">The full investigation into 1,000+ foreign entities lobbying the US government.</div>
+          </a>
+        </div>
+      </section>
+
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )

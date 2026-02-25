@@ -45,6 +45,11 @@ export default function TrendsPage() {
         </div>
       </div>
 
+      <div className="bg-amber-50 border-l-4 border-amber-400 p-4 mb-6 rounded-r-lg">
+        <p className="text-sm font-medium text-amber-900">💡 Did you know?</p>
+        <p className="text-sm text-amber-800 mt-1">Lobbying spending has increased every single year since 2016. The 2025 jump of +36.4% is the largest single-year increase in over a decade — driven by tariffs, AI regulation, and healthcare fights.</p>
+      </div>
+
       {trends.length === 0 ? (
         <div className="bg-gray-50 border border-gray-200 rounded-xl p-12 text-center text-gray-500">Loading...</div>
       ) : (
@@ -126,6 +131,24 @@ export default function TrendsPage() {
           </section>
         </>
       )}
+      <section className="mt-8 mb-4">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Reading</h2>
+        <div className="grid md:grid-cols-2 gap-3">
+          <a href="/investigations/doge-vs-lobbying" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">DOGE vs. The Lobbying Machine</div>
+            <div className="text-xs text-gray-500 mt-1">What happens when DOGE comes for the agencies that lobbyists depend on?</div>
+          </a>
+          <a href="/investigations/tariff-lobbying-surge" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">The 2025 Tariff Panic</div>
+            <div className="text-xs text-gray-500 mt-1">As tariffs return, lobbying on trade surges. Which industries are most desperate?</div>
+          </a>
+          <a href="/investigations/lobbying-statistics" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">Federal Lobbying Statistics 2025</div>
+            <div className="text-xs text-gray-500 mt-1">The definitive stats — $15.2B total, industry breakdowns, and historical trends.</div>
+          </a>
+        </div>
+      </section>
+
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )

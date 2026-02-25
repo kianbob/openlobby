@@ -217,6 +217,16 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
         ) : null
       })()}
 
+      <section className="mb-8">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
+        <div className="flex flex-wrap gap-3">
+          <a href="/clients" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">← All Clients</a>
+          <a href="/compare" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">⚖️ Compare Clients</a>
+          <a href="/lobbying-roi" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">💵 ROI Calculator</a>
+          <a href="/investigations" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🔍 Investigations</a>
+        </div>
+      </section>
+
       <SourceCitation sources={['Senate LDA Filings']} lastUpdated="February 2026" />
     </div>
   )

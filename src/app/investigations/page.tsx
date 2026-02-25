@@ -124,7 +124,7 @@ export default function InvestigationsPage() {
           <Link
             key={inv.slug}
             href={`/investigations/${inv.slug}`}
-            className="block bg-white border border-gray-200 rounded-xl p-6 hover:border-primary/30 hover:shadow-md transition-all"
+            className="block bg-white border border-gray-200 rounded-xl p-6 hover:border-primary/30 hover:shadow-lg hover:-translate-y-1 transition-all duration-200"
           >
             <div className="flex items-center gap-2 mb-3">
               <span className={`px-2 py-0.5 text-xs font-semibold rounded ${tagColors[inv.tag] || 'bg-gray-100 text-gray-700'}`}>

@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
+import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
   title: 'DOGE Wants to Cut Government. $4.4 Billion in Lobbying Wants to Keep It.',
@@ -30,6 +31,13 @@ export default function DogeVsLobbyingPage() {
       <p className="text-gray-500 mb-4">Published February 2026 · 12 min read</p>
 
       <ShareButtons url="https://www.openlobby.us/investigations/doge-vs-lobbying" title="DOGE wants to cut government. $4.4 billion in lobbying wants to keep it." />
+
+      <QuickFacts facts={[
+        { label: 'Total lobbying in 2025', value: '$2.7B' },
+        { label: 'Agencies targeted by DOGE', value: '15+' },
+        { label: 'Lobbying on government issues', value: '$1.2B' },
+        { label: 'New clients lobbying in 2025', value: '500+' },
+      ]} />
 
       {/* The Bottom Line */}
       <div className="my-8 bg-red-50 border-l-4 border-red-500 p-6 rounded-r-xl">

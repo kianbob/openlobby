@@ -54,6 +54,11 @@ export default function RevolvingDoorPage() {
         </div>
       </div>
 
+      <div className="bg-amber-50 border-l-4 border-amber-400 p-4 mb-6 rounded-r-lg">
+        <p className="text-sm font-medium text-amber-900">💡 Did you know?</p>
+        <p className="text-sm text-amber-800 mt-1">The average revolving door lobbyist has access to decision-makers that outside lobbyists can only dream of. Former congressional chiefs of staff command premium rates because their old bosses still take their calls.</p>
+      </div>
+
       <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-6">
         <p className="text-amber-800 text-sm">
           <strong>🏛️ {formatNumber(lobbyists.length)} lobbyists</strong> in our data disclosed previous government positions. 
@@ -106,6 +111,20 @@ export default function RevolvingDoorPage() {
           )}
         </>
       )}
+      <section className="mt-8 mb-4">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Related Reading</h2>
+        <div className="grid md:grid-cols-2 gap-3">
+          <a href="/investigations/revolving-door-exposed" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">The Revolving Door Exposed</div>
+            <div className="text-xs text-gray-500 mt-1">5,000 former government officials now lobby their old colleagues. The full investigation.</div>
+          </a>
+          <a href="/investigations/foreign-influence" className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
+            <div className="font-medium text-sm text-indigo-700">Foreign Governments Are Lobbying Congress</div>
+            <div className="text-xs text-gray-500 mt-1">1,000+ foreign entities from 50+ countries lobby the US government.</div>
+          </a>
+        </div>
+      </section>
+
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />
     </div>
   )

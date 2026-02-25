@@ -64,8 +64,9 @@ function tierColor(tier: string): string {
 }
 
 function normalize(val: number, max: number): number {
-  if (max === 0) return 0
-  return Math.min(100, (val / max) * 100)
+  if (max === 0 || val === 0) return 0
+  // Use power curve for better distribution — compresses range so more entities score higher
+  return Math.min(100, Math.round(Math.pow(val / max, 0.35) * 100))
 }
 
 export default function InfluenceScorePage() {

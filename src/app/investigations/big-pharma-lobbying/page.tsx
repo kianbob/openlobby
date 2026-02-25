@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
+import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
   title: "Big Pharma&apos;s Lobbying Machine: $452 Million and Counting",
@@ -30,6 +31,13 @@ export default function BigPharmaLobbyingPage() {
       <p className="text-gray-500 mb-4">Published February 2026 · 10 min read</p>
 
       <ShareButtons url="https://www.openlobby.us/investigations/big-pharma-lobbying" title="Big Pharma&apos;s $452M Lobbying Machine" />
+
+      <QuickFacts facts={[
+        { label: 'Pharma lobbying total', value: '$452M' },
+        { label: 'Health issues lobbying', value: '$2.7B' },
+        { label: 'Top spender (PhRMA)', value: '$180M+' },
+        { label: 'Pharma lobbyists', value: '1,200+' },
+      ]} />
 
       <div className="my-8 bg-green-50 border-l-4 border-green-500 p-6 rounded-r-xl">
         <h2 className="text-lg font-bold text-green-700 mb-2">The Bottom Line</h2>

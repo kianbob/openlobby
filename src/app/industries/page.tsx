@@ -39,6 +39,11 @@ export default function IndustriesPage() {
         </div>
       </div>
 
+      <div className="bg-amber-50 border-l-4 border-amber-400 p-4 mb-6 rounded-r-lg">
+        <p className="text-sm font-medium text-amber-900">💡 Did you know?</p>
+        <p className="text-sm text-amber-800 mt-1">Healthcare and finance are neck-and-neck at $4.4B each — together they account for nearly 40% of all lobbying spending. That&apos;s because government policy directly controls their revenue.</p>
+      </div>
+
       {industries.length === 0 ? (
         <div className="bg-gray-50 border border-gray-200 rounded-xl p-12 text-center text-gray-500">Loading...</div>
       ) : (

@@ -2,6 +2,7 @@ import Link from 'next/link'
 import { readFileSync } from 'fs'
 import { join } from 'path'
 import { formatCurrency, formatNumber } from '@/lib/format'
+import ShockingStats from '@/components/ShockingStats'
 
 function getStats() {
   try {
@@ -63,6 +64,8 @@ export default function HomePage() {
         </div>
       </section>
 
+      <ShockingStats />
+
       {/* What You'll Find */}
       <section className="max-w-4xl mx-auto px-4 py-12">
         <h2 className="text-3xl font-bold mb-8 text-center" style={{ fontFamily: 'var(--font-serif)' }}>What You&apos;ll Find</h2>
@@ -88,18 +91,18 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
             {[
-              { value: totalSpending, label: 'Total Lobbying (2018–2025)', color: 'text-red-600' },
-              { value: totalFilings, label: 'Total Filings', color: 'text-indigo-600' },
-              { value: stats ? formatNumber(stats.totalClients) : '5,000+', label: 'Top Clients Tracked', color: 'text-indigo-600' },
-              { value: stats ? formatNumber(stats.totalLobbyists) : '5,000+', label: 'Lobbyists Tracked', color: 'text-indigo-600' },
-              { value: stats ? formatNumber(stats.totalRevolvingDoor) : '5,000+', label: 'Revolving Door', color: 'text-indigo-600' },
+              { value: totalSpending, label: 'Total Lobbying (2018–2025)', color: 'text-red-600', href: '/trends' },
+              { value: totalFilings, label: 'Total Filings', color: 'text-indigo-600', href: '/trends' },
+              { value: stats ? formatNumber(stats.totalClients) : '5,000+', label: 'Top Clients Tracked', color: 'text-indigo-600', href: '/clients' },
+              { value: stats ? formatNumber(stats.totalLobbyists) : '5,000+', label: 'Lobbyists Tracked', color: 'text-indigo-600', href: '/lobbyists' },
+              { value: stats ? formatNumber(stats.totalRevolvingDoor) : '5,000+', label: 'Revolving Door', color: 'text-indigo-600', href: '/revolving-door' },
             ].map((stat) => (
-              <div key={stat.label} className="text-center">
+              <a key={stat.label} href={stat.href} className="text-center hover:opacity-80 transition-opacity">
                 <div className={`text-3xl md:text-4xl font-bold ${stat.color}`} style={{ fontFamily: 'var(--font-serif)' }}>
                   {stat.value}
                 </div>
                 <div className="text-sm text-gray-500 mt-1">{stat.label}</div>
-              </div>
+              </a>
             ))}
           </div>
         </div>
@@ -210,6 +213,26 @@ export default function HomePage() {
               View All Investigations →
             </Link>
           </div>
+        </div>
+      </section>
+
+      {/* Surging This Quarter */}
+      <section className="max-w-6xl mx-auto px-4 py-12">
+        <h2 className="text-3xl font-bold mb-2 text-center" style={{ fontFamily: 'var(--font-serif)' }}>🔥 Surging This Quarter</h2>
+        <p className="text-gray-500 text-center mb-8">Issues with the biggest lobbying increases in Q4 2025</p>
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+          {[
+            { name: 'Constitution', change: '+2,485%', code: 'CON' },
+            { name: 'Accounting', change: '+1,557%', code: 'ACC' },
+            { name: 'Civil Rights', change: '+744%', code: 'CIV' },
+            { name: 'Tariffs', change: '+561%', code: 'TAR' },
+            { name: 'Firearms', change: '+457%', code: 'FIR' },
+          ].map(item => (
+            <a key={item.code} href={`/issues/${item.code}`} className="text-center p-4 bg-red-50 rounded-xl hover:bg-red-100 transition-colors">
+              <div className="text-2xl font-bold text-red-600" style={{ fontFamily: 'var(--font-serif)' }}>{item.change}</div>
+              <div className="text-sm text-gray-700 mt-1">{item.name}</div>
+            </a>
+          ))}
         </div>
       </section>
 

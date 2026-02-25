@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
+import QuickFacts from '@/components/QuickFacts'
 import fs from 'fs'
 import path from 'path'
 
@@ -81,6 +82,13 @@ export default function TariffLobbyingSurgePage() {
       <p className="text-gray-500 mb-4">Published February 2026 · 10 min read</p>
 
       <ShareButtons url="https://www.openlobby.us/investigations/tariff-lobbying-surge" title="The 2025 Tariff Lobbying Explosion" />
+
+      <QuickFacts facts={[
+        { label: 'Tariff lobbying surge', value: '+561%' },
+        { label: 'Trade lobbying (latest Q)', value: '$80.5M' },
+        { label: 'New trade clients', value: '148' },
+        { label: '2025 total lobbying', value: '$2.7B' },
+      ]} />
 
       <div className="my-8 bg-orange-50 border-l-4 border-orange-500 p-6 rounded-r-xl">
         <h2 className="text-lg font-bold text-orange-700 mb-2">The Bottom Line</h2>

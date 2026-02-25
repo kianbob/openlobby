@@ -180,6 +180,23 @@ export default function ComparePage() {
       {(!entity1 || !entity2) && (
         <div className="text-center py-12 text-gray-400">
           <p className="text-lg">Select two {mode} above to compare them</p>
+          <div className="mt-8 text-left max-w-2xl mx-auto">
+            <h3 className="text-lg font-bold mb-4 text-gray-700" style={{ fontFamily: 'var(--font-serif)' }}>Popular Comparisons</h3>
+            <p className="text-sm text-gray-500 mb-3">Search above to compare any two {mode}. Here are some interesting matchups:</p>
+            <div className="grid md:grid-cols-2 gap-3">
+              {[
+                { a: 'Google', b: 'Meta', desc: 'Tech giants battling over AI regulation' },
+                { a: 'Boeing', b: 'Lockheed Martin', desc: 'Defense contractor lobbying rivalry' },
+                { a: 'PhRMA', b: 'Chamber of Commerce', desc: 'The two biggest lobbying powerhouses' },
+                { a: 'Amazon', b: 'Walmart', desc: 'Retail giants and their DC influence' },
+              ].map((comp, i) => (
+                <div key={i} className="text-left p-4 bg-gray-50 rounded-lg">
+                  <div className="font-medium text-sm text-gray-700">{comp.a} vs {comp.b}</div>
+                  <div className="text-xs text-gray-500 mt-1">{comp.desc}</div>
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
       )}
     </div>
