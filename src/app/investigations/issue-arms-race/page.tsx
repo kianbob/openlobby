@@ -12,7 +12,7 @@ const YAxis = dynamic(() => import('recharts').then(m => m.YAxis), { ssr: false 
 const Tooltip = dynamic(() => import('recharts').then(m => m.Tooltip), { ssr: false })
 const ResponsiveContainer = dynamic(() => import('recharts').then(m => m.ResponsiveContainer), { ssr: false })
 
-/* metadata moved to layout.tsx for SEO
+// metadata moved to layout.tsx
 
 const issueNames: Record<string, string> = {
   HCR: 'Healthcare', MMM: 'Medicare/Medicaid', BUD: 'Budget', DEF: 'Defense',
