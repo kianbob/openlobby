@@ -5,7 +5,7 @@ import { useState, useEffect, useMemo } from 'react'
 import dynamic from 'next/dynamic'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import SourceCitation from '@/components/SourceCitation'
-import { formatCurrency } from '@/lib/format'
+import { formatCurrency, slugify, toTitleCase } from '@/lib/format'
 
 const RadarChartComponent = dynamic(() => import('./RadarChartComponent'), { ssr: false })
 
@@ -232,7 +232,9 @@ export default function InfluenceScorePage() {
               {scored.map((s, i) => (
                 <tr key={s.id} className="hover:bg-gray-50">
                   <td className="px-4 py-3 text-gray-400 font-mono">{i + 1}</td>
-                  <td className="px-4 py-3 font-medium text-gray-900 max-w-xs truncate">{s.name}</td>
+                  <td className="px-4 py-3 font-medium max-w-xs truncate">
+                    <Link href={`/clients/${slugify(s.name)}`} className="text-primary hover:underline">{toTitleCase(s.name)}</Link>
+                  </td>
                   <td className="px-4 py-3 text-right text-gray-600">{formatCurrency(s.totalSpend)}</td>
                   <td className="px-4 py-3 text-center text-gray-600">{s.revolvingDoorCount}</td>
                   <td className="px-4 py-3 text-center text-gray-600">{s.issueCount}</td>
@@ -266,11 +268,34 @@ export default function InfluenceScorePage() {
 
       {/* Methodology */}
       <div className="mt-8 bg-gray-50 rounded-xl p-6 text-sm text-gray-600">
-        <h3 className="font-bold text-gray-900 mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Methodology</h3>
-        <p>
-          Each factor is normalized 0–100 relative to the top 200 spenders. Weights: Spending Power (30%),
-          Revolving Door Connections (25%), Issue Breadth (15%), Filing Volume (15%), Longevity (15%).
-          The composite score determines the tier: Extreme (90+), High (70–89), Moderate (50–69), Low (&lt;50).
+        <h3 className="text-xl font-bold text-gray-900 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Methodology</h3>
+        <p className="mb-4">
+          The Influence Score measures each client&apos;s lobbying footprint across five dimensions, normalized against the top 200 spenders using a power-curve distribution (exponent 0.35) for better spread.
+        </p>
+        <div className="grid sm:grid-cols-2 gap-3 mb-4">
+          <div className="bg-white rounded-lg p-3 border border-gray-200">
+            <div className="font-semibold text-gray-900 mb-1">💰 Spending Power — 30%</div>
+            <p>Total lobbying expenditure reported in LDA filings across all years.</p>
+          </div>
+          <div className="bg-white rounded-lg p-3 border border-gray-200">
+            <div className="font-semibold text-gray-900 mb-1">🚪 Revolving Door — 25%</div>
+            <p>Number of lobbyists working for this client who disclosed former government positions.</p>
+          </div>
+          <div className="bg-white rounded-lg p-3 border border-gray-200">
+            <div className="font-semibold text-gray-900 mb-1">📋 Issue Breadth — 15%</div>
+            <p>How many distinct policy issue areas the client lobbies on (e.g., healthcare, defense, tax).</p>
+          </div>
+          <div className="bg-white rounded-lg p-3 border border-gray-200">
+            <div className="font-semibold text-gray-900 mb-1">📄 Filing Volume — 15%</div>
+            <p>Total number of LDA filings, reflecting lobbying activity intensity.</p>
+          </div>
+        </div>
+        <div className="bg-white rounded-lg p-3 border border-gray-200 mb-4">
+          <div className="font-semibold text-gray-900 mb-1">⏳ Longevity — 15%</div>
+          <p>Number of years the client has been active in lobbying — sustained influence over time.</p>
+        </div>
+        <p className="text-xs text-gray-500">
+          Tier thresholds: <strong>Extreme</strong> (90+), <strong>High</strong> (70–89), <strong>Moderate</strong> (50–69), <strong>Low</strong> (&lt;50). Scores are relative — they measure influence compared to other top spenders, not an absolute scale.
         </p>
       </div>
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="2025" />

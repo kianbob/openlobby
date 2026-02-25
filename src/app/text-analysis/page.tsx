@@ -192,13 +192,24 @@ export default function TextAnalysisPage() {
               📋 Most Mentioned Bills
             </h2>
             <div className="space-y-2">
-              {topBills.map((b, i) => (
-                <div key={b.bill} className="flex items-center gap-2">
-                  <span className="text-xs text-gray-400 font-mono w-5 text-right">{i + 1}</span>
-                  <span className="text-sm font-medium text-indigo-700 flex-1">{b.bill}</span>
-                  <span className="text-xs text-gray-500">{formatNumber(b.count)} mentions</span>
-                </div>
-              ))}
+              {topBills.map((b, i) => {
+                // Extract bill type and number for congress.gov link (e.g., "H.R. 1234" -> hr1234)
+                const billMatch = b.bill.match(/^(H\.?R\.?|S\.?|H\.?J\.?\s*RES\.?|S\.?J\.?\s*RES\.?|H\.?\s*CON\.?\s*RES\.?|S\.?\s*CON\.?\s*RES\.?)\s*(\d+)/i)
+                const congressUrl = billMatch
+                  ? `https://www.congress.gov/bill/118th-congress/${billMatch[1].replace(/\./g, '').replace(/\s+/g, '-').toLowerCase()}-bill/${billMatch[2]}`
+                  : null
+                return (
+                  <div key={b.bill} className="flex items-center gap-2">
+                    <span className="text-xs text-gray-400 font-mono w-5 text-right">{i + 1}</span>
+                    {congressUrl ? (
+                      <a href={congressUrl} target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-indigo-700 hover:underline flex-1">{b.bill} ↗</a>
+                    ) : (
+                      <span className="text-sm font-medium text-indigo-700 flex-1">{b.bill}</span>
+                    )}
+                    <span className="text-xs text-gray-500">{formatNumber(b.count)} mentions</span>
+                  </div>
+                )
+              })}
             </div>
           </div>
         </div>

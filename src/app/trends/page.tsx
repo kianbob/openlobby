@@ -2,8 +2,18 @@
 import Link from 'next/link'
 import SourceCitation from '@/components/SourceCitation'
 import { useState, useEffect } from 'react'
+import dynamic from 'next/dynamic'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { formatCurrency, formatNumber } from '@/lib/format'
+
+const BarChart = dynamic(() => import('recharts').then(m => m.BarChart), { ssr: false })
+const Bar = dynamic(() => import('recharts').then(m => m.Bar), { ssr: false })
+const XAxis = dynamic(() => import('recharts').then(m => m.XAxis), { ssr: false })
+const YAxis = dynamic(() => import('recharts').then(m => m.YAxis), { ssr: false })
+const Tooltip = dynamic(() => import('recharts').then(m => m.Tooltip), { ssr: false })
+const ResponsiveContainer = dynamic(() => import('recharts').then(m => m.ResponsiveContainer), { ssr: false })
+const ReferenceLine = dynamic(() => import('recharts').then(m => m.ReferenceLine), { ssr: false })
+const Label = dynamic(() => import('recharts').then(m => m.Label), { ssr: false })
 
 interface YearData {
   year: number
@@ -81,24 +91,28 @@ export default function TrendsPage() {
             )}
           </div>
 
-          {/* Bar Chart (CSS-only) */}
+          {/* Recharts Bar Chart */}
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Spending by Year</h2>
-            <div className="space-y-3">
-              {trends.map(t => {
-                const maxIncome = Math.max(...trends.map(t => t.totalIncome))
-                const pct = maxIncome > 0 ? (t.totalIncome / maxIncome * 100) : 0
-                return (
-                  <div key={t.year} className="flex items-center gap-4">
-                    <span className="w-12 text-sm font-medium text-gray-700">{t.year}</span>
-                    <div className="flex-1 bg-gray-100 rounded-full h-8 overflow-hidden">
-                      <div className="bg-primary h-full rounded-full flex items-center justify-end pr-3" style={{ width: `${Math.max(pct, 5)}%` }}>
-                        <span className="text-xs text-white font-medium">{formatCurrency(t.totalIncome)}</span>
-                      </div>
-                    </div>
-                  </div>
-                )
-              })}
+            <div className="bg-white border border-gray-200 rounded-xl p-4" style={{ height: 450 }}>
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart data={trends.map(t => ({ ...t, incomeB: t.totalIncome / 1e9 }))}>
+                  <XAxis dataKey="year" tick={{ fontSize: 13 }} />
+                  <YAxis tickFormatter={(v: any) => `$${v.toFixed(1)}B`} tick={{ fontSize: 12 }} />
+                  <Tooltip formatter={(v: any) => formatCurrency(v * 1e9)} labelFormatter={(l: any) => `Year: ${l}`} />
+                  <Bar dataKey="incomeB" fill="#4f46e5" radius={[6, 6, 0, 0]} name="Lobbying Income" />
+                  <ReferenceLine y={1.62} stroke="#ef4444" strokeDasharray="4 4">
+                    <Label value="COVID spike" position="right" fill="#ef4444" fontSize={11} />
+                  </ReferenceLine>
+                  <ReferenceLine y={2.7} stroke="#f59e0b" strokeDasharray="4 4">
+                    <Label value="2025 record" position="right" fill="#f59e0b" fontSize={11} />
+                  </ReferenceLine>
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+            <div className="flex flex-wrap gap-4 mt-3 text-xs text-gray-500">
+              <span className="flex items-center gap-1"><span className="w-3 h-0.5 bg-red-500 inline-block"></span> COVID-era surge (2020)</span>
+              <span className="flex items-center gap-1"><span className="w-3 h-0.5 bg-amber-500 inline-block"></span> 2025 all-time record ($2.7B)</span>
             </div>
           </section>
 

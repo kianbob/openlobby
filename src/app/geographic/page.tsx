@@ -130,7 +130,9 @@ export default function GeographicPage() {
               {sorted.map((s, i) => (
                 <tr key={s.state} className={`hover:bg-gray-50 ${s.state === 'DC' ? 'bg-yellow-50' : ''}`}>
                   <td className="px-4 py-3 text-gray-500">{i + 1}</td>
-                  <td className="px-4 py-3 font-medium text-gray-900">{STATE_NAMES[s.state] || s.state}</td>
+                  <td className="px-4 py-3 font-medium text-gray-900">
+                    <Link href={`/states/${s.state}`} className="text-primary hover:underline">{STATE_NAMES[s.state] || s.state}</Link>
+                  </td>
                   <td className="px-4 py-3 text-right text-gray-700">{formatCurrency(s.totalIncome)}</td>
                   <td className="px-4 py-3 text-right text-gray-700">${formatNumber(Math.round(s.perCapita))}</td>
                   <td className="px-4 py-3 text-right text-gray-700">{formatNumber(s.uniqueClients)}</td>
@@ -138,7 +140,7 @@ export default function GeographicPage() {
                   <td className="px-4 py-3">
                     <div className="flex gap-1 flex-wrap">
                       {s.topIssues.slice(0, 3).map(ti => (
-                        <span key={ti.code} className="bg-gray-100 text-gray-600 text-xs px-1.5 py-0.5 rounded">{ti.code}</span>
+                        <Link key={ti.code} href={`/issues/${ti.code}`} className="bg-gray-100 text-gray-600 text-xs px-1.5 py-0.5 rounded hover:bg-indigo-50 hover:text-indigo-700">{ti.code}</Link>
                       ))}
                     </div>
                   </td>
@@ -156,8 +158,8 @@ export default function GeographicPage() {
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
           {punchAbove.map(s => (
             <div key={s.state} className={`border rounded-xl p-4 ${getSpendingColor(s.perCapita)}`}>
-              <div className="text-lg font-bold text-gray-900" style={{ fontFamily: 'var(--font-serif)' }}>{s.state}</div>
-              <div className="text-sm text-gray-600">{STATE_NAMES[s.state]}</div>
+              <Link href={`/states/${s.state}`} className="text-lg font-bold text-gray-900 hover:text-primary" style={{ fontFamily: 'var(--font-serif)' }}>{s.state}</Link>
+              <div className="text-sm text-gray-600"><Link href={`/states/${s.state}`} className="hover:text-primary hover:underline">{STATE_NAMES[s.state]}</Link></div>
               <div className="text-xl font-bold text-primary mt-2">${formatNumber(Math.round(s.perCapita))}</div>
               <div className="text-xs text-gray-500">per capita</div>
               <div className="text-xs text-gray-500 mt-1">{formatNumber(s.uniqueClients)} clients · {formatCurrency(s.totalIncome)}</div>

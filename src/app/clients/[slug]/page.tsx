@@ -336,15 +336,33 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
       {/* What They Lobby About */}
       {(() => {
         const uniqueDescs = [...new Map(client.sampleDescriptions.map(d => [d.toLowerCase().trim(), d])).values()]
+        // Link bill numbers like H.R. 4007, S. 1234
+        function linkBills(text: string) {
+          return text.replace(/\b(H\.?\s*R\.?\s*\d+|S\.?\s*\d+|H\.?\s*Res\.?\s*\d+|S\.?\s*Res\.?\s*\d+)/gi, (match) => {
+            const q = encodeURIComponent(match.replace(/\s+/g, ' '))
+            return `<a href="https://www.congress.gov/bill/search?q=${q}" target="_blank" rel="noopener" class="text-primary hover:underline font-medium">${match}</a>`
+          })
+        }
         return uniqueDescs.length > 0 ? (
         <section className="mb-8">
           <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>What They Lobby About</h2>
-          <p className="text-sm text-gray-500 mb-3">Actual lobbying activity descriptions from their disclosure filings:</p>
+          <div className="bg-blue-50 border border-blue-100 rounded-lg p-4 mb-4">
+            <p className="text-sm text-blue-800">
+              These are actual descriptions from their quarterly lobbying disclosure filings, summarizing what they lobbied Congress and federal agencies about.
+              {validIssues.length > 0 && (
+                <span className="block mt-2">
+                  <strong>Issue areas:</strong>{' '}
+                  {validIssues.slice(0, 5).map(code => issueCodeToName[code] || code).join(', ')}
+                  {validIssues.length > 5 && ` and ${validIssues.length - 5} more`}
+                </span>
+              )}
+            </p>
+          </div>
           <div className="space-y-3">
             {uniqueDescs.slice(0, 8).map((desc, i) => (
               <div key={i} className="text-gray-700 text-sm pl-4 border-l-2 border-primary/30 leading-relaxed">
                 {desc.split('\n').map((line, j) => (
-                  <p key={j} className={j > 0 ? 'mt-1' : ''}>{line}</p>
+                  <p key={j} className={j > 0 ? 'mt-1' : ''} dangerouslySetInnerHTML={{ __html: linkBills(line) }} />
                 ))}
               </div>
             ))}

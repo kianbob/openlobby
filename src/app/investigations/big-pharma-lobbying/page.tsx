@@ -82,7 +82,7 @@ export default function BigPharmaLobbyingPage() {
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Top Pharmaceutical &amp; Healthcare Lobbying Clients</h3>
           <div className="space-y-3">
             {[
-              { name: 'PhRMA (all registrations combined)', amount: '$17.3M', detail: '109 filings across multiple registrations' },
+              { name: 'PhRMA (all registrations combined)', amount: '$17.3M', detail: '109 filings across multiple registrations', href: '/clients/pharmaceutical-research-manufacturers-of-america-phrma' },
               { name: 'Alliance for Biopharmaceutical Competitiveness', amount: '$4.97M', detail: '24 filings' },
               { name: 'Pacira Pharmaceuticals', amount: '$3.08M', detail: '28 filings — specialty pain medications' },
               { name: 'Senior Care Pharmacy Coalition', amount: '$5.05M', detail: '53 filings — nursing home pharmacy interests' },
@@ -96,7 +96,7 @@ export default function BigPharmaLobbyingPage() {
               { name: 'Elevance Health (fka Anthem)', amount: '$2.28M', detail: '27 filings' },
             ].map(item => (
               <div key={item.name} className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-4 py-2 border-b border-gray-200 last:border-0">
-                <div className="font-semibold text-gray-900 sm:w-72">{item.name}</div>
+                <div className="font-semibold text-gray-900 sm:w-72">{item.href ? <Link href={item.href} className="text-primary hover:underline">{item.name}</Link> : item.name}</div>
                 <div className="text-green-600 font-bold sm:w-24">{item.amount}</div>
                 <div className="text-sm text-gray-600 flex-1">{item.detail}</div>
               </div>
@@ -112,11 +112,11 @@ export default function BigPharmaLobbyingPage() {
         </p>
 
         <ul>
-          <li><strong>HCR (Health Issues)</strong> — The catch-all for drug pricing, Medicare Part D, and ACA provisions</li>
-          <li><strong>MMM (Medicare/Medicaid)</strong> — Reimbursement rates that directly affect pharma revenue</li>
-          <li><strong>TAX (Taxation)</strong> — Corporate tax provisions, R&amp;D credits, and international tax structures</li>
-          <li><strong>TRD (Trade)</strong> — Drug importation, international pricing, and patent protections</li>
-          <li><strong>BUD (Budget/Appropriations)</strong> — NIH funding, FDA budget, and healthcare spending levels</li>
+          <li><strong><Link href="/issues/HCR" className="text-primary hover:underline">HCR (Health Issues)</Link></strong> — The catch-all for drug pricing, Medicare Part D, and ACA provisions</li>
+          <li><strong><Link href="/issues/MMM" className="text-primary hover:underline">MMM (Medicare/Medicaid)</Link></strong> — Reimbursement rates that directly affect pharma revenue</li>
+          <li><strong><Link href="/issues/TAX" className="text-primary hover:underline">TAX (Taxation)</Link></strong> — Corporate tax provisions, R&amp;D credits, and international tax structures</li>
+          <li><strong><Link href="/issues/TRD" className="text-primary hover:underline">TRD (Trade)</Link></strong> — Drug importation, international pricing, and patent protections</li>
+          <li><strong><Link href="/issues/BUD" className="text-primary hover:underline">BUD (Budget/Appropriations)</Link></strong> — NIH funding, FDA budget, and healthcare spending levels</li>
         </ul>
 
         <p>

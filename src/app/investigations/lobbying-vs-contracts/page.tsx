@@ -191,7 +191,7 @@ export default function LobbyingVsContractsPage() {
         </p>
 
         <p>
-          Consider: Lockheed Martin spent <strong>$141.6 million</strong> lobbying over this period — 
+          Consider: <Link href="/clients/lockheed-martin-corporation" className="text-primary hover:underline">Lockheed Martin</Link> spent <strong>$141.6 million</strong> lobbying over this period — 
           by far the most of any contractor. They received <strong>$58.8 billion</strong> in contracts. 
           Their ROI &quot;only&quot; 415:1 — but in absolute terms, they got more than any other company. 
           The math works whether you spend $270K or $141M.

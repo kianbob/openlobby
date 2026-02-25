@@ -68,16 +68,16 @@ export default function TechLobbyingWarPage() {
           <h3 className="font-bold text-lg mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Big Tech Lobbying Spending (All Registrations)</h3>
           <div className="space-y-3">
             {[
-              { name: 'Qualcomm', amount: '$43.3M', filings: '74 filings', issues: 'Trade, telecom, tech standards, tax, aviation' },
-              { name: 'Microsoft', amount: '$19.1M', filings: '72 filings', issues: 'AI, cybersecurity, immigration, trade, defense, privacy' },
-              { name: 'Amazon', amount: '$18.5M', filings: '68 filings', issues: 'Tax, trade, labor, transportation, small business' },
-              { name: 'Google / Alphabet', amount: '$16.3M', filings: '76 filings', issues: 'Privacy, homeland security, defense, science, budget' },
-              { name: 'Meta Platforms', amount: '$15.1M', filings: '278 filings', issues: 'Privacy, content moderation, trade, cybersecurity' },
-              { name: 'Apple', amount: '$9.3M', filings: '66 filings', issues: 'Trade, privacy, labor, civil rights, immigration' },
-              { name: 'Oracle', amount: '$5.8M', filings: '68 filings', issues: 'Defense, veterans, cybersecurity, healthcare, trade' },
+              { name: 'Qualcomm', amount: '$43.3M', filings: '74 filings', issues: 'Trade, telecom, tech standards, tax, aviation', slug: 'qualcomm-incorporated' },
+              { name: 'Microsoft', amount: '$19.1M', filings: '72 filings', issues: 'AI, cybersecurity, immigration, trade, defense, privacy', slug: 'microsoft-corporation' },
+              { name: 'Amazon', amount: '$18.5M', filings: '68 filings', issues: 'Tax, trade, labor, transportation, small business', slug: 'amazon-com-services-llc' },
+              { name: 'Google / Alphabet', amount: '$16.3M', filings: '76 filings', issues: 'Privacy, homeland security, defense, science, budget', slug: 'google-client-services-llc' },
+              { name: 'Meta Platforms', amount: '$15.1M', filings: '278 filings', issues: 'Privacy, content moderation, trade, cybersecurity', slug: 'meta-platforms-inc' },
+              { name: 'Apple', amount: '$9.3M', filings: '66 filings', issues: 'Trade, privacy, labor, civil rights, immigration', slug: 'apple-inc' },
+              { name: 'Oracle', amount: '$5.8M', filings: '68 filings', issues: 'Defense, veterans, cybersecurity, healthcare, trade', slug: 'oracle-corporation' },
             ].map(item => (
               <div key={item.name} className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-4 py-3 border-b border-gray-200 last:border-0">
-                <div className="font-bold text-gray-900 sm:w-40">{item.name}</div>
+                <Link href={`/clients/${item.slug}`} className="font-bold text-gray-900 sm:w-40 hover:text-primary hover:underline">{item.name}</Link>
                 <div className="text-blue-600 font-bold sm:w-24">{item.amount}</div>
                 <div className="text-sm text-gray-500 sm:w-20">{item.filings}</div>
                 <div className="text-sm text-gray-600 flex-1">{item.issues}</div>
@@ -113,11 +113,11 @@ export default function TechLobbyingWarPage() {
 
         <ul>
           <li>
-            <strong>CPT (Computers/IT)</strong> — The core issue for all tech companies. Covers AI regulation, 
+            <strong><Link href="/issues/CPT" className="text-primary hover:underline">CPT (Computers/IT)</Link></strong> — The core issue for all tech companies. Covers AI regulation, 
             cybersecurity mandates, and data center policy.
           </li>
           <li>
-            <strong>TRD (Trade)</strong> — Tariffs, export controls (especially to China), and international 
+            <strong><Link href="/issues/TRD" className="text-primary hover:underline">TRD (Trade)</Link></strong> — Tariffs, export controls (especially to China), and international 
             data transfer rules. Every major tech company lobbies heavily on trade.
           </li>
           <li>
@@ -130,12 +130,12 @@ export default function TechLobbyingWarPage() {
             that depend on foreign engineering talent. Apple, Microsoft, and Amazon all lobby on immigration.
           </li>
           <li>
-            <strong>DEF (Defense)</strong> — Increasingly, tech companies want Pentagon contracts. 
+            <strong><Link href="/issues/DEF" className="text-primary hover:underline">DEF (Defense)</Link></strong> — Increasingly, tech companies want Pentagon contracts. 
             Google, Oracle, Microsoft, and Amazon all lobby on defense issues as cloud computing 
             and AI become military priorities.
           </li>
           <li>
-            <strong>TAX (Taxation)</strong> — International tax rules, R&amp;D credits, and the 
+            <strong><Link href="/issues/TAX" className="text-primary hover:underline">TAX (Taxation)</Link></strong> — International tax rules, R&amp;D credits, and the 
             ongoing debate over how to tax digital services globally.
           </li>
         </ul>
