@@ -126,7 +126,8 @@ interface ClientData {
 interface ClientIndexEntry {
   slug: string
   name: string
-  totalIncome: number
+  totalIncome?: number
+  spending?: number
   state?: string
   issues?: string[]
 }
@@ -204,7 +205,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
   const relatedArticles = getRelatedArticles(issues)
   const industryPages = getIndustryPages(issues)
   const isContractor = defenseContractors.some(dc => client.name.toLowerCase().includes(dc))
-  const validIssues = issues.filter(Boolean)
+  const validIssues = issues.filter(Boolean).map((i: any) => typeof i === 'object' ? (i.code || '') : String(i)).filter(Boolean)
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -429,7 +430,7 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
             {similarClients.map(c => (
               <Link key={c.slug} href={`/clients/${c.slug}`} className="block p-3 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors">
                 <div className="font-medium text-sm text-gray-900">{toTitleCase(c.name)}</div>
-                <div className="text-xs text-gray-500 mt-1">{formatCurrency(c.totalIncome)} total spend</div>
+                <div className="text-xs text-gray-500 mt-1">{formatCurrency(c.spending || c.totalIncome || 0)} total spend</div>
               </Link>
             ))}
           </div>

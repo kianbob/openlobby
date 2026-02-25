@@ -1,4 +1,5 @@
 export function formatCurrency(value: number): string {
+  if (value == null || isNaN(value)) return '$0'
   if (value >= 1_000_000_000) return `$${(value / 1_000_000_000).toFixed(1)}B`
   if (value >= 1_000_000) return `$${(value / 1_000_000).toFixed(1)}M`
   if (value >= 1_000) return `$${(value / 1_000).toFixed(0)}K`
@@ -6,6 +7,7 @@ export function formatCurrency(value: number): string {
 }
 
 export function formatNumber(value: number): string {
+  if (value == null || isNaN(value)) return '0'
   if (value >= 1_000_000) return `${(value / 1_000_000).toFixed(1)}M`
   if (value >= 10_000) return `${(value / 1_000).toFixed(1)}K`
   if (value >= 1_000) return value.toLocaleString()
