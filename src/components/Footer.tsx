@@ -74,7 +74,20 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-8 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div className="mt-8 pt-8 border-t border-gray-800">
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-8 text-sm">
+            <span className="text-gray-400 font-medium">Stay Updated:</span>
+            <a href="https://x.com/thedataproject0" className="inline-flex items-center gap-1.5 px-4 py-1.5 bg-gray-800 rounded-full hover:bg-gray-700 text-white transition-colors">
+              <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+              Follow @thedataproject0
+            </a>
+            <a href="https://thedataproject.ai" className="inline-flex items-center gap-1.5 px-4 py-1.5 bg-gray-800 rounded-full hover:bg-gray-700 text-white transition-colors">
+              TheDataProject.ai →
+            </a>
+          </div>
+        </div>
+
+        <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-gray-400">
             Data Sources: <a href="https://lda.senate.gov" className="hover:text-white">Senate LDA Filings</a> · Lobbying Disclosure Act Reports
           </p>

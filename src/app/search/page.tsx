@@ -109,7 +109,24 @@ export default function SearchPage() {
       {query.length >= 2 && results.length === 0 && (
         <div className="text-center py-12 text-gray-500">
           <p className="text-lg mb-2">No results for &ldquo;{query}&rdquo;</p>
-          <p className="text-sm">Try a different search term — we have thousands of clients, firms, and lobbyists.</p>
+          <p className="text-sm mb-6">Try a different search term — we have thousands of clients, firms, and lobbyists.</p>
+          <div className="text-sm">
+            <p className="font-medium text-gray-600 mb-3">Browse by category:</p>
+            <div className="flex flex-wrap justify-center gap-2">
+              {[
+                { name: 'Clients', href: '/clients' },
+                { name: 'Firms', href: '/firms' },
+                { name: 'Lobbyists', href: '/lobbyists' },
+                { name: 'Issues', href: '/issues' },
+                { name: 'Industries', href: '/industries' },
+                { name: 'Investigations', href: '/investigations' },
+              ].map(cat => (
+                <Link key={cat.href} href={cat.href} className="px-3 py-1.5 bg-gray-100 rounded-full hover:bg-indigo-100 hover:text-indigo-700 transition-colors">
+                  {cat.name}
+                </Link>
+              ))}
+            </div>
+          </div>
         </div>
       )}
 

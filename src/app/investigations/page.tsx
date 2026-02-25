@@ -14,6 +14,7 @@ const investigations = [
     desc: 'Billions spent lobbying to keep government programs alive. What happens when DOGE comes for the agencies that lobbyists depend on?',
     tag: 'DOGE',
     date: 'Feb 2026',
+    readTime: '12 min read',
   },
   {
     slug: 'tech-lobbying-war',
@@ -21,6 +22,7 @@ const investigations = [
     desc: 'Google, Meta, Amazon, Apple, Microsoft, and Qualcomm have spent $150M+ lobbying on AI, antitrust, privacy, and trade.',
     tag: 'Tech',
     date: 'Feb 2026',
+    readTime: '10 min read',
   },
   {
     slug: 'big-pharma-lobbying',
@@ -28,6 +30,7 @@ const investigations = [
     desc: 'The pharmaceutical and healthcare industry has spent $452 million lobbying Congress. Here are the companies and the money.',
     tag: 'Pharma',
     date: 'Feb 2026',
+    readTime: '11 min read',
   },
   {
     slug: 'revolving-door-exposed',
@@ -35,6 +38,7 @@ const investigations = [
     desc: '5,000 former government officials — from White House advisors to congressional chiefs of staff — now lobby their old colleagues.',
     tag: 'Revolving Door',
     date: 'Feb 2026',
+    readTime: '9 min read',
   },
   {
     slug: 'foreign-influence',
@@ -42,6 +46,7 @@ const investigations = [
     desc: '1,000+ foreign entities from 50+ countries lobby the US government. The UK leads with 474 filings. China has 165.',
     tag: 'Foreign',
     date: 'Feb 2026',
+    readTime: '10 min read',
   },
   {
     slug: 'follow-the-money',
@@ -49,6 +54,7 @@ const investigations = [
     desc: 'Companies that lobby get billions in government contracts. McKesson spent $1.45M and got $11.8B back. We calculated the ROI.',
     tag: 'Analysis',
     date: 'Feb 2026',
+    readTime: '8 min read',
   },
   {
     slug: 'defense-contractor-lobbying',
@@ -56,6 +62,7 @@ const investigations = [
     desc: 'Defense contractors spend millions lobbying for contracts worth billions. The numbers.',
     tag: 'Defense',
     date: 'Feb 2026',
+    readTime: '9 min read',
   },
   {
     slug: 'crypto-lobbying-explosion',
@@ -63,6 +70,7 @@ const investigations = [
     desc: 'The fastest-growing lobbying sector in DC. How crypto went from zero to a political force.',
     tag: 'Crypto',
     date: 'Feb 2026',
+    readTime: '8 min read',
   },
   {
     slug: 'ai-regulation-fight',
@@ -70,6 +78,7 @@ const investigations = [
     desc: 'Meta spent $26M in 2024 alone. The AI regulation fight is the biggest lobbying battle of the decade.',
     tag: 'AI',
     date: 'Feb 2026',
+    readTime: '9 min read',
   },
   {
     slug: 'tariff-lobbying-surge',
@@ -77,6 +86,7 @@ const investigations = [
     desc: 'As tariffs return, lobbying on trade surges. Which industries are most desperate to be exempt?',
     tag: 'Trade',
     date: 'Feb 2026',
+    readTime: '8 min read',
   },
   {
     slug: 'lobbying-statistics',
@@ -84,6 +94,7 @@ const investigations = [
     desc: 'The definitive stats page — $15.2B total, $2.7B in 2025, 650K+ filings, industry breakdowns, and historical trends.',
     tag: 'Reference',
     date: 'Feb 2026',
+    readTime: '12 min read',
   },
   {
     slug: 'what-is-lobbying',
@@ -91,6 +102,7 @@ const investigations = [
     desc: 'How lobbying works, who does it, and why $2.7 billion a year buys a lot of influence. Your plain-language explainer.',
     tag: 'Guide',
     date: 'Feb 2026',
+    readTime: '10 min read',
   },
   {
     slug: 'lobbying-vs-contracts',
@@ -98,6 +110,7 @@ const investigations = [
     desc: 'We cross-referenced lobbying with USASpending contract data. 21 contractors, $281M lobbying, $183.8B contracts. The ROI is staggering.',
     tag: 'Analysis',
     date: 'Feb 2026',
+    readTime: '11 min read',
   },
   {
     slug: 'healthcare-3-billion-bet',
@@ -105,6 +118,7 @@ const investigations = [
     desc: 'Healthcare is the #1 lobbied issue in America — $2.3B on health reform, $1.2B on Medicare/Medicaid. Inside medicine\'s war for Washington.',
     tag: 'Healthcare',
     date: 'Feb 2026',
+    readTime: '10 min read',
   },
   {
     slug: 'seasonal-lobbying',
@@ -112,6 +126,7 @@ const investigations = [
     desc: 'Lobbying follows the federal calendar. Q4 is king with $9.9B in income. The hidden seasonal patterns of influence.',
     tag: 'Analysis',
     date: 'Feb 2026',
+    readTime: '7 min read',
   },
   {
     slug: 'the-22000-percent-roi',
@@ -119,6 +134,7 @@ const investigations = [
     desc: '93 firms spent $283M lobbying for a tax holiday and saved $62.5B. Academic research meets our data on 650K+ filings.',
     tag: 'Analysis',
     date: 'Feb 2026',
+    readTime: '11 min read',
   },
   {
     slug: 'first-time-filers-2024',
@@ -126,6 +142,7 @@ const investigations = [
     desc: '6,997 organizations filed lobbying disclosures for the first time in 2025 — from AI startups to infant formula makers.',
     tag: 'New Entrants',
     date: 'Feb 2026',
+    readTime: '9 min read',
   },
   {
     slug: 'the-revolving-door-premium',
@@ -133,6 +150,7 @@ const investigations = [
     desc: 'Firms with ex-government lobbyists earn 369% more revenue and have 4.9x more clients. We quantified it.',
     tag: 'Revolving Door',
     date: 'Feb 2026',
+    readTime: '10 min read',
   },
   {
     slug: 'dc-lobbying-capital',
@@ -140,6 +158,7 @@ const investigations = [
     desc: 'DC has $27,105 in lobbying per capita — 89x the national average. We mapped the geography of influence.',
     tag: 'Geography',
     date: 'Feb 2026',
+    readTime: '8 min read',
   },
   {
     slug: 'issue-arms-race',
@@ -147,6 +166,7 @@ const investigations = [
     desc: 'Healthcare + Medicare: 31,240 co-filings. When one side lobbies, opponents respond. The permanent battlegrounds.',
     tag: 'Issues',
     date: 'Feb 2026',
+    readTime: '9 min read',
   },
   {
     slug: 'wall-street-washington-pipeline',
@@ -154,6 +174,7 @@ const investigations = [
     desc: 'Banks, hedge funds, and financial firms have spent billions lobbying to shape regulation — from Dodd-Frank rollbacks to crypto battles.',
     tag: 'Finance',
     date: 'Feb 2026',
+    readTime: '11 min read',
   },
   {
     slug: 'big-oil-climate-lobby',
@@ -161,6 +182,7 @@ const investigations = [
     desc: 'ExxonMobil, Chevron, BP, and the American Petroleum Institute have spent hundreds of millions lobbying against climate regulation.',
     tag: 'Energy',
     date: 'Feb 2026',
+    readTime: '10 min read',
   },
   {
     slug: 'silicon-valley-antitrust',
@@ -168,6 +190,7 @@ const investigations = [
     desc: 'Google, Apple, Amazon, Meta, and Microsoft have spent $150M+ lobbying against antitrust regulation.',
     tag: 'Tech',
     date: 'Feb 2026',
+    readTime: '9 min read',
   },
   {
     slug: 'healthcare-insurance-lobby',
@@ -175,6 +198,7 @@ const investigations = [
     desc: 'UnitedHealth, Cigna, Elevance, and AHIP have spent tens of millions fighting Medicare expansion and drug pricing reform.',
     tag: 'Healthcare',
     date: 'Feb 2026',
+    readTime: '8 min read',
   },
   {
     slug: 'the-lobbying-industrial-complex',
@@ -182,6 +206,7 @@ const investigations = [
     desc: 'The definitive overview: 650K filings, $15.2B spent, 29,000+ lobbyists, and the machine that really runs Washington.',
     tag: 'Analysis',
     date: 'Feb 2026',
+    readTime: '12 min read',
   },
 ]
 
@@ -235,6 +260,8 @@ export default function InvestigationsPage() {
                 {inv.tag}
               </span>
               <span className="text-xs text-gray-400">{inv.date}</span>
+              <span className="text-xs text-gray-400">·</span>
+              <span className="text-xs text-gray-400">{inv.readTime}</span>
             </div>
             <h2 className="text-lg font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>{inv.title}</h2>
             <p className="text-sm text-gray-600">{inv.desc}</p>

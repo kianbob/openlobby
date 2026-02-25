@@ -87,6 +87,7 @@ const navGroups = [
 export default function Navigation() {
   const [mobileOpen, setMobileOpen] = useState(false)
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null)
+  const [mobileExpanded, setMobileExpanded] = useState<string | null>(null)
   const dropdownTimeout = useRef<NodeJS.Timeout | null>(null)
 
   const handleMouseEnter = useCallback((label: string) => {
@@ -175,10 +176,16 @@ export default function Navigation() {
         <div className="py-2">
           {navGroups.map((group) => (
             <div key={group.label} className="border-b border-gray-100">
-              <div className="px-4 py-2 text-xs font-semibold text-gray-500 uppercase tracking-wider">
+              <button
+                className="w-full flex items-center justify-between px-4 py-3 text-xs font-semibold text-gray-500 uppercase tracking-wider hover:bg-gray-50"
+                onClick={() => setMobileExpanded(mobileExpanded === group.label ? null : group.label)}
+              >
                 {group.label}
-              </div>
-              {group.items.map((item) => (
+                <svg className={`w-4 h-4 transition-transform ${mobileExpanded === group.label ? 'rotate-180' : ''}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              {mobileExpanded === group.label && group.items.map((item) => (
                 <Link
                   key={item.href}
                   href={item.href}
