@@ -6,7 +6,7 @@ import WidgetWrapper from '../WidgetWrapper'
 interface Client {
   slug: string
   name: string
-  totalIncome: number
+  totalSpending: number
 }
 
 function formatCurrency(v: number) {
@@ -25,7 +25,7 @@ export default function TopSpendersWidget() {
       .catch(() => {})
   }, [])
 
-  const max = clients[0]?.totalIncome || 1
+  const max = clients[0]?.totalSpending || 1
 
   return (
     <WidgetWrapper>
@@ -39,10 +39,10 @@ export default function TopSpendersWidget() {
               <span style={{ color: '#374151', fontWeight: 500, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', maxWidth: '65%' }}>
                 {i + 1}. {c.name}
               </span>
-              <span style={{ color: '#6b7280', fontWeight: 600 }}>{formatCurrency(c.totalIncome)}</span>
+              <span style={{ color: '#6b7280', fontWeight: 600 }}>{formatCurrency(c.totalSpending)}</span>
             </div>
             <div style={{ height: '6px', background: '#f3f4f6', borderRadius: '3px', overflow: 'hidden' }}>
-              <div style={{ height: '100%', width: `${(c.totalIncome / max) * 100}%`, background: '#6366f1', borderRadius: '3px' }} />
+              <div style={{ height: '100%', width: `${(c.totalSpending / max) * 100}%`, background: '#6366f1', borderRadius: '3px' }} />
             </div>
           </div>
         ))}

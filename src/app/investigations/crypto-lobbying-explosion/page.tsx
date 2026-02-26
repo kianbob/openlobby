@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 interface Client {
   id: number
   name: string
-  totalIncome: number
+  totalSpending: number
   filings: number
   years: number[]
   issues: string[]
@@ -37,7 +37,7 @@ export default function CryptoLobbyingExplosionPage() {
     else if (low.includes('crypto')) key = c.name
 
     if (!grouped[key]) grouped[key] = { total: 0, entries: 0, filings: 0 }
-    grouped[key].total += c.totalIncome
+    grouped[key].total += c.totalSpending
     grouped[key].entries += 1
     grouped[key].filings += c.filings
   })
@@ -48,7 +48,7 @@ export default function CryptoLobbyingExplosionPage() {
     return `$${(n / 1e3).toFixed(0)}K`
   }
 
-  const totalCryptoLobbying = cryptoClients.reduce((s, c) => s + c.totalIncome, 0)
+  const totalCryptoLobbying = cryptoClients.reduce((s, c) => s + c.totalSpending, 0)
   const sortedGroups = Object.entries(grouped).sort((a, b) => b[1].total - a[1].total)
 
   return (

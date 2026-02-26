@@ -14,7 +14,7 @@ interface SearchResult {
 
 export default function SearchPage() {
   const [query, setQuery] = useState('')
-  const [clients, setClients] = useState<{ name: string; totalIncome: number; state?: string }[]>([])
+  const [clients, setClients] = useState<{ name: string; totalIncome?: number; spending?: number; state?: string }[]>([])
   const [firms, setFirms] = useState<{ name: string; totalIncome: number }[]>([])
   const [lobbyists, setLobbyists] = useState<{ name: string; slug: string; filings: number; revolvingDoor?: boolean }[]>([])
   const [issues, setIssues] = useState<{ code: string; name: string; totalSpending: number }[]>([])
@@ -40,7 +40,7 @@ export default function SearchPage() {
 
     for (const c of clients) {
       if (c.name.toLowerCase().includes(q)) {
-        out.push({ type: 'client', name: c.name, slug: `/clients/${slugify(c.name)}`, detail: `${formatCurrency(c.totalIncome)} spent${c.state ? ` · ${c.state}` : ''}` })
+        out.push({ type: 'client', name: c.name, slug: `/clients/${slugify(c.name)}`, detail: `${formatCurrency(c.totalIncome || c.spending || 0)} spent${c.state ? ` · ${c.state}` : ''}` })
       }
       if (out.length > 100) break
     }

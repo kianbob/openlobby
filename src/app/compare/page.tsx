@@ -24,7 +24,7 @@ export default function ComparePage() {
 
   useEffect(() => {
     const file = mode === 'clients' ? '/data/client-index.json' : '/data/firm-index.json'
-    fetch(file).then(r => r.json()).then(d => setEntities(d)).catch(() => [])
+    fetch(file).then(r => r.json()).then((d: any[]) => setEntities(d.map(e => ({ ...e, totalIncome: e.totalIncome || e.totalSpending || e.spending || 0 })))).catch(() => [])
     setEntity1(null)
     setEntity2(null)
     setSearch1('')
