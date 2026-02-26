@@ -10,18 +10,18 @@ interface Client {
   name: string
   state: string
   desc: string
-  totalIncome: number
+  totalSpending: number
   filings: number
   years: number[]
   issues: string[]
 }
 
-type SortKey = 'totalIncome' | 'filings' | 'name'
+type SortKey = 'totalSpending' | 'filings' | 'name'
 
 export default function ClientsPage() {
   const [clients, setClients] = useState<Client[]>([])
   const [search, setSearch] = useState('')
-  const [sortBy, setSortBy] = useState<SortKey>('totalIncome')
+  const [sortBy, setSortBy] = useState<SortKey>('totalSpending')
   const [shown, setShown] = useState(50)
 
   useEffect(() => {
@@ -50,7 +50,7 @@ export default function ClientsPage() {
           className="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none"
         />
         <select value={sortBy} onChange={e => setSortBy(e.target.value as SortKey)} className="px-4 py-2 border border-gray-300 rounded-lg bg-white">
-          <option value="totalIncome">Sort by Spending</option>
+          <option value="totalSpending">Sort by Spending</option>
           <option value="filings">Sort by Filings</option>
           <option value="name">Sort by Name</option>
         </select>
@@ -75,12 +75,12 @@ export default function ClientsPage() {
                 <span className="text-sm text-gray-400 w-6 text-right">{i + 1}</span>
                 <div className="flex-1">
                   <div className="h-6 bg-indigo-100 rounded-full overflow-hidden" style={{ width: '100%' }}>
-                    <div className="h-full bg-indigo-500 rounded-full flex items-center px-3" style={{ width: `${(c.totalIncome / clients[0].totalIncome) * 100}%` }}>
+                    <div className="h-full bg-indigo-500 rounded-full flex items-center px-3" style={{ width: `${(c.totalSpending / clients[0].totalSpending) * 100}%` }}>
                       <span className="text-xs text-white font-medium truncate">{toTitleCase(c.name)}</span>
                     </div>
                   </div>
                 </div>
-                <span className="text-sm font-bold text-gray-700 w-20 text-right">{formatCurrency(c.totalIncome)}</span>
+                <span className="text-sm font-bold text-gray-700 w-20 text-right">{formatCurrency(c.totalSpending)}</span>
               </Link>
             ))}
           </div>
@@ -117,7 +117,7 @@ export default function ClientsPage() {
                       </Link>
                     </td>
                     <td className="px-4 py-3 text-gray-500 hidden sm:table-cell">{c.state || '—'}</td>
-                    <td className="px-4 py-3 text-right font-medium">{formatCurrency(c.totalIncome)}</td>
+                    <td className="px-4 py-3 text-right font-medium">{formatCurrency(c.totalSpending)}</td>
                     <td className="px-4 py-3 text-right text-gray-600 hidden md:table-cell">{formatNumber(c.filings)}</td>
                     <td className="px-4 py-3 text-right text-gray-600 hidden lg:table-cell">{c.issues?.length || 0}</td>
                   </tr>

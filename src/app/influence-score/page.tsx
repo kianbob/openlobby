@@ -12,7 +12,7 @@ const RadarChartComponent = dynamic(() => import('./RadarChartComponent'), { ssr
 interface Client {
   id: number
   name: string
-  totalIncome: number
+  totalSpending: number
   filings: number
   years: number[]
   issues: (string | null)[]
@@ -92,7 +92,7 @@ export default function InfluenceScorePage() {
       const top = clients.slice(0, 200)
 
       // Find maxes for normalization
-      const maxSpend = Math.max(...top.map(c => c.totalIncome))
+      const maxSpend = Math.max(...top.map(c => c.totalSpending))
       const maxFilings = Math.max(...top.map(c => c.filings))
       const maxIssues = Math.max(...top.map(c => c.issues.filter(Boolean).length))
       const maxYears = Math.max(...top.map(c => c.years.length))
@@ -105,7 +105,7 @@ export default function InfluenceScorePage() {
         const yearsActive = c.years.length
 
         const scores = {
-          spend: normalize(c.totalIncome, maxSpend),
+          spend: normalize(c.totalSpending, maxSpend),
           revolvingDoor: normalize(rdCount, maxRD),
           issues: normalize(issueCount, maxIssues),
           filings: normalize(c.filings, maxFilings),
@@ -124,7 +124,7 @@ export default function InfluenceScorePage() {
         return {
           id: c.id,
           name: c.name,
-          totalSpend: c.totalIncome,
+          totalSpend: c.totalSpending,
           revolvingDoorCount: rdCount,
           issueCount,
           filingCount: c.filings,

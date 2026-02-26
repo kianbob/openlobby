@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 interface Client {
   id: number
   name: string
-  totalIncome: number
+  totalSpending: number
   filings: number
   years: number[]
   issues: string[]
@@ -46,7 +46,7 @@ export default function DefenseContractorLobbyingPage() {
     else if (low.includes('general dynamics')) key = 'General Dynamics'
     else if (low.includes('bae')) key = 'BAE Systems'
     else if (low.includes('huntington')) key = 'Huntington Ingalls'
-    grouped[key] = (grouped[key] || 0) + c.totalIncome
+    grouped[key] = (grouped[key] || 0) + c.totalSpending
   })
 
   const defenseContracts = contracts.filter(c => defenseTerms.some(t => c.name.toLowerCase().includes(t)))

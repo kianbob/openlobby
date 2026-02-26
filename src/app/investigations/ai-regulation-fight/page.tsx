@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 interface Client {
   id: number
   name: string
-  totalIncome: number
+  totalSpending: number
   filings: number
   years: number[]
   issues: string[]
@@ -22,7 +22,7 @@ interface Client {
 
 interface Issue {
   code: string
-  totalIncome: number
+  totalSpending: number
   filings: number
   clients: number
 }
@@ -44,7 +44,7 @@ export default function AIRegulationFightPage() {
   Object.entries(techMap).forEach(([label, terms]) => {
     const matches = clients.filter(c => terms.some(t => c.name.toLowerCase().includes(t)))
     grouped[label] = {
-      total: matches.reduce((s, c) => s + c.totalIncome, 0),
+      total: matches.reduce((s, c) => s + c.totalSpending, 0),
       entries: matches.length,
     }
   })
@@ -149,23 +149,23 @@ export default function AIRegulationFightPage() {
 
         <ul>
           <li>
-            <strong>SCI (Science & Technology)</strong> — {fmt(sciIssue?.totalIncome || 0)} in total lobbying
+            <strong>SCI (Science & Technology)</strong> — {fmt(sciIssue?.totalSpending || 0)} in total lobbying
             across {sciIssue?.filings?.toLocaleString()} filings from {sciIssue?.clients?.toLocaleString()} clients.
             This covers AI research funding, NIST standards, and technology policy broadly.
           </li>
           <li>
-            <strong>CPT (Computer Industry)</strong> — {fmt(cptIssue?.totalIncome || 0)} in total lobbying
+            <strong>CPT (Computer Industry)</strong> — {fmt(cptIssue?.totalSpending || 0)} in total lobbying
             across {cptIssue?.filings?.toLocaleString()} filings from {cptIssue?.clients?.toLocaleString()} clients.
             This captures lobbying on semiconductors, software regulation, and computing infrastructure.
           </li>
           <li>
-            <strong>COM (Communications)</strong> — {fmt(comIssue?.totalIncome || 0)} across {comIssue?.filings?.toLocaleString()} filings.
+            <strong>COM (Communications)</strong> — {fmt(comIssue?.totalSpending || 0)} across {comIssue?.filings?.toLocaleString()} filings.
             Covers telecom, internet regulation, and digital infrastructure — all intertwined with AI deployment.
           </li>
         </ul>
 
         <p>
-          Combined, these three issue areas represent over <strong>{fmt((sciIssue?.totalIncome || 0) + (cptIssue?.totalIncome || 0) + (comIssue?.totalIncome || 0))}</strong> in
+          Combined, these three issue areas represent over <strong>{fmt((sciIssue?.totalSpending || 0) + (cptIssue?.totalSpending || 0) + (comIssue?.totalSpending || 0))}</strong> in
           total lobbying expenditures. AI touches all of them.
         </p>
 
