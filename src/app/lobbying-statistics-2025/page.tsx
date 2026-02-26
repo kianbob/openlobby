@@ -54,7 +54,7 @@ export default function LobbyingStatistics2025Page() {
             { value: '23,545', label: 'Unique Lobbyists' },
             { value: '5,000+', label: 'Revolving Door Officials' },
             { value: '79', label: 'Issue Categories' },
-            { value: '46,145', label: 'Clients Tracked' },
+            { value: '39,917', label: 'Clients Tracked' },
           ].map(s => (
             <div key={s.label}>
               <div className="text-3xl font-black text-amber-400" style={{ fontFamily: 'var(--font-serif)' }}>{s.value}</div>

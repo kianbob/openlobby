@@ -3,7 +3,7 @@ import ClientsPageClient from './ClientsPageClient'
 
 export const metadata: Metadata = {
   title: 'Top Lobbying Clients — Who Spends the Most to Influence Congress',
-  description: 'Ranked list of 46,000+ organizations that lobby Congress, sorted by total spending. From the US Chamber of Commerce ($608M) to Fortune 500 companies and trade associations. 2018-2025 Senate LDA data.',
+  description: 'Ranked list of 39,900+ organizations that lobby Congress, sorted by total spending. From the US Chamber of Commerce ($608M) to Fortune 500 companies and trade associations. 2018-2025 Senate LDA data.',
 }
 
 export default function ClientsPage() {
@@ -14,7 +14,7 @@ export default function ClientsPage() {
         <div className="prose prose-gray max-w-none">
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Understanding Lobbying Clients</h2>
           <p className="text-gray-600">
-            OpenLobby tracks <strong>46,145 organizations</strong> that have filed lobbying disclosures with the U.S. Senate since 2018. 
+            OpenLobby tracks <strong>39,917 organizations</strong> that have filed lobbying disclosures with the U.S. Senate since 2018. 
             These clients collectively spent <strong>$37.7 billion</strong> on federal lobbying across 726,000+ quarterly filings.
           </p>
           <p className="text-gray-600">
