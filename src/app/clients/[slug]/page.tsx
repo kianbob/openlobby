@@ -166,7 +166,7 @@ function getSimilarClients(client: ClientData): ClientIndexEntry[] {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params
   const client = getClient(slug)
-  if (!client) return { title: 'Client Not Found' }
+  if (!client || (!client.filings && !client.totalSpending && !(client as any).totalSpend)) return { title: 'Client Not Found' }
   return {
     title: `${toTitleCase(client.name)} — Lobbying Spending & Activity`,
     description: `${toTitleCase(client.name)} has spent ${formatCurrency(client.totalSpending || (client as any).totalSpend || 0)} on federal lobbying across ${client.filings || 0} filings. See firms, lobbyists, issues, spending trends, and related investigations.`,
@@ -189,6 +189,11 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
   const client = getClient(slug)
 
   if (!client) {
+    notFound()
+  }
+
+  // Ghost entries (foreign entities / affiliated orgs with no actual filings)
+  if (!client.filings && !client.totalSpending && !(client as any).totalSpend) {
     notFound()
   }
 

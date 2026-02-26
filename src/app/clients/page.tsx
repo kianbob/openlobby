@@ -14,7 +14,7 @@ export default function ClientsPage() {
         <div className="prose prose-gray max-w-none">
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Understanding Lobbying Clients</h2>
           <p className="text-gray-600">
-            OpenLobby tracks <strong>39,917 organizations</strong> that have filed lobbying disclosures with the U.S. Senate since 2018. 
+            OpenLobby tracks <strong>37,994 organizations</strong> that have filed lobbying disclosures with the U.S. Senate since 2018. 
             These clients collectively spent <strong>$37.7 billion</strong> on federal lobbying across 726,000+ quarterly filings.
           </p>
           <p className="text-gray-600">

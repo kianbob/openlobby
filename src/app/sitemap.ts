@@ -59,9 +59,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: p === '' ? 1 : 0.7,
   }))
 
-  // Client detail pages — read all slugs from directory
-  for (const slug of readSlugsFromDir('clients')) {
-    routes.push({ url: `${baseUrl}/clients/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
+  // Client detail pages — use client-index (excludes ghost entries)
+  try {
+    const clientIndex = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'client-index.json'), 'utf-8'))
+    for (const c of clientIndex) {
+      routes.push({ url: `${baseUrl}/clients/${c.slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
+    }
+  } catch {
+    for (const slug of readSlugsFromDir('clients')) {
+      routes.push({ url: `${baseUrl}/clients/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 })
+    }
   }
 
   // Firm detail pages
