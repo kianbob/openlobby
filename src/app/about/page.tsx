@@ -22,6 +22,7 @@ const sisterSites = [
   { name: 'OpenMedicare', url: 'https://www.openmedicare.us', desc: '$854B in Medicare payments + AI fraud detection', emoji: '💊' },
   { name: 'OpenFeds', url: 'https://www.openfeds.org', desc: 'Federal workforce data + DOGE impact tracking', emoji: '🏛️' },
   { name: 'OpenSpending', url: 'https://www.openspending.us', desc: 'Federal budget and contractor data', emoji: '💰' },
+  { name: 'VaccineWatch', url: 'https://www.vaccinewatch.org', desc: '1.98M VAERS adverse event reports analyzed', emoji: '🛡️' },
 ]
 
 export default function AboutPage() {
