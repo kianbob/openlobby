@@ -71,6 +71,7 @@ export default function Footer() {
               <li><a href="https://www.openfeds.org" className="text-sm hover:text-white transition-colors">OpenFeds</a></li>
               <li><a href="https://www.openimmigration.us" className="text-sm hover:text-white transition-colors">OpenImmigration</a></li>
               <li><a href="https://www.openspending.us" className="text-sm hover:text-white transition-colors">OpenSpending</a></li>
+              <li><a href="https://www.opensubsidies.us" className="text-sm hover:text-white transition-colors">OpenSubsidies</a></li>
               <li><a href="https://www.vaccinewatch.org" className="text-sm hover:text-white transition-colors">VaccineWatch</a></li>
               <li><a href="https://thedataproject.ai" className="text-sm hover:text-white transition-colors">TheDataProject.ai</a></li>
             </ul>
