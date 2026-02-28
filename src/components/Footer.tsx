@@ -73,7 +73,7 @@ export default function Footer() {
               <li><a href="https://www.openspending.us" className="text-sm hover:text-white transition-colors">OpenSpending</a></li>
               <li><a href="https://www.vaccinewatch.org" className="text-sm hover:text-white transition-colors">VaccineWatch</a></li>
               <li><a href="https://www.opensubsidies.org" className="text-sm hover:text-white transition-colors">OpenSubsidies</a></li>
-              <li><a href="https://thedataproject.ai" className="text-sm hover:text-white transition-colors">TheDataProject.ai</a></li>
+            <li><a href="https://openprescriber.vercel.app" className="hover:text-white">OpenPrescriber</a></li>              <li><a href="https://thedataproject.ai" className="text-sm hover:text-white transition-colors">TheDataProject.ai</a></li>
             </ul>
           </div>
         </div>
@@ -85,7 +85,7 @@ export default function Footer() {
               <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
               Follow @thedataproject0
             </a>
-            <a href="https://thedataproject.ai" className="inline-flex items-center gap-1.5 px-4 py-1.5 bg-gray-800 rounded-full hover:bg-gray-700 text-white transition-colors">
+            <li><a href="https://openprescriber.vercel.app" className="hover:text-white">OpenPrescriber</a></li>            <a href="https://thedataproject.ai" className="inline-flex items-center gap-1.5 px-4 py-1.5 bg-gray-800 rounded-full hover:bg-gray-700 text-white transition-colors">
               TheDataProject.ai →
             </a>
           </div>
@@ -97,7 +97,7 @@ export default function Footer() {
           </p>
           <p className="text-sm text-gray-500">
             © 2026 OpenLobby. Independent data journalism. Built by{' '}
-            <a href="https://thedataproject.ai" className="hover:text-white">TheDataProject.ai</a>
+            <li><a href="https://openprescriber.vercel.app" className="hover:text-white">OpenPrescriber</a></li>            <a href="https://thedataproject.ai" className="hover:text-white">TheDataProject.ai</a>
           </p>
         </div>
       </div>
