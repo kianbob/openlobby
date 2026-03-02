@@ -94,15 +94,15 @@ export default function InfluenceScorePage() {
       // Find maxes for normalization
       const maxSpend = Math.max(...top.map(c => c.totalSpending))
       const maxFilings = Math.max(...top.map(c => c.filings))
-      const maxIssues = Math.max(...top.map(c => c.issues.filter(Boolean).length))
-      const maxYears = Math.max(...top.map(c => c.years.length))
+      const maxIssues = Math.max(...top.map(c => (c.issues || []).filter(Boolean).length))
+      const maxYears = Math.max(...top.map(c => (c.years || []).length))
       const rdCounts = top.map(c => rdMap.get(c.name.toUpperCase()) || 0)
       const maxRD = Math.max(...rdCounts, 1)
 
       const results: ScoredClient[] = top.map((c) => {
         const rdCount = rdMap.get(c.name.toUpperCase()) || 0
-        const issueCount = c.issues.filter(Boolean).length
-        const yearsActive = c.years.length
+        const issueCount = (c.issues || []).filter(Boolean).length
+        const yearsActive = (c.years || []).length
 
         const scores = {
           spend: normalize(c.totalSpending, maxSpend),
