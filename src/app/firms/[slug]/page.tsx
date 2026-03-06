@@ -84,7 +84,20 @@ function getFirm(slug: string): FirmData | null {
   const resolved = resolveFirmSlug(slug)
   try {
     const filePath = path.join(process.cwd(), 'public', 'data', 'firms', `${resolved}.json`)
-    return JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+    const raw = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+    // Ensure all required fields have defaults
+    return {
+      name: raw.name || '',
+      slug: raw.slug || resolved,
+      totalIncome: raw.totalIncome || 0,
+      filings: raw.filings || 0,
+      yearlyIncome: raw.yearlyIncome || [],
+      clients: raw.clients || [],
+      lobbyists: raw.lobbyists || [],
+      issues: raw.issues || [],
+      clientCount: raw.clientCount ?? (raw.clients?.length || 0),
+      years: raw.years || [],
+    }
   } catch {
     return null
   }

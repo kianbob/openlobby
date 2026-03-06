@@ -136,7 +136,21 @@ function getClient(slug: string): ClientData | null {
   const resolved = resolveClientSlug(slug)
   try {
     const filePath = path.join(process.cwd(), 'public', 'data', 'clients', `${resolved}.json`)
-    return JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+    const raw = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+    return {
+      name: raw.name || '',
+      slug: raw.slug || resolved,
+      description: raw.description || '',
+      totalSpending: raw.totalSpending || raw.totalIncome || 0,
+      filings: raw.filings || 0,
+      yearlySpending: raw.yearlySpending || raw.yearlyIncome || [],
+      firms: raw.firms || [],
+      lobbyists: raw.lobbyists || [],
+      issues: raw.issues || [],
+      sampleDescriptions: raw.sampleDescriptions || [],
+      years: raw.years || [],
+      state: raw.state || '',
+    }
   } catch {
     return null
   }

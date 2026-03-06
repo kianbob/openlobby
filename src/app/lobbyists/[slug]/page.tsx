@@ -65,7 +65,19 @@ interface LobbyistData {
 function getData(slug: string): LobbyistData | null {
   const resolved = resolveLobbyistSlug(slug)
   try {
-    return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'lobbyists', `${resolved}.json`), 'utf-8'))
+    const raw = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'lobbyists', `${resolved}.json`), 'utf-8'))
+    return {
+      name: raw.name || '',
+      slug: raw.slug || resolved,
+      revolvingDoor: raw.revolvingDoor || false,
+      totalFilings: raw.totalFilings || raw.filings || 0,
+      yearlyActivity: raw.yearlyActivity || [],
+      topClients: raw.topClients || [],
+      firms: raw.firms || [],
+      issues: raw.issues || [],
+      id: raw.id || '',
+      governmentPositions: raw.governmentPositions || [],
+    }
   } catch { return null }
 }
 
