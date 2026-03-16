@@ -121,6 +121,87 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Did You Know? */}
+      <section className="py-12 bg-amber-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl font-bold text-center mb-8" style={{ fontFamily: 'var(--font-serif)' }}>💡 Did You Know?</h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {[
+              { fact: 'For every $1 spent lobbying, corporations get $220 back in tax benefits — a 22,000% return on investment.', source: '/analysis/lobbying-roi' },
+              { fact: 'Over 5,000 former government officials are now registered lobbyists — and they charge 369% more than non-government lobbyists.', source: '/analysis/revolving-door-lobbyists' },
+              { fact: 'The pharmaceutical industry spends more on lobbying than any other sector — $4.4B+ since 2018 — while drug prices keep rising.', source: '/analysis/pharma-lobbying' },
+              { fact: 'An estimated $6 billion per year in "shadow lobbying" goes unreported — think tanks, 501(c)(4)s, and strategic advisors.', source: '/analysis/dark-money' },
+            ].map((item, i) => (
+              <Link key={i} href={item.source} className="block bg-white rounded-xl p-5 border border-amber-200 hover:shadow-md hover:border-amber-400 transition-all group">
+                <p className="text-sm text-gray-700 leading-relaxed">{item.fact}</p>
+                <span className="inline-block mt-3 text-xs font-semibold text-amber-700 group-hover:text-amber-900">Read more →</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Featured Analysis */}
+      <section className="py-16 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-10">
+            <h2 className="text-3xl md:text-4xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>In-Depth Analysis</h2>
+            <p className="text-gray-600 text-lg">New: 10 deep-dive articles following the money across industries</p>
+          </div>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[
+              { slug: 'top-lobbying-spenders', title: 'The Top 20 Lobbying Spenders', desc: 'Who buys the most influence? A ranked breakdown with exact dollar amounts.', tag: 'Spending', tagColor: 'bg-amber-100 text-amber-800' },
+              { slug: 'tech-lobbying', title: 'Big Tech\'s Washington Takeover', desc: 'Google, Meta, Amazon, Apple, and Microsoft have spent $950M+ on lobbying.', tag: 'Tech', tagColor: 'bg-blue-100 text-blue-800' },
+              { slug: 'dark-money', title: 'Shadow Lobbying', desc: 'The $6 billion in influence spending that never gets reported.', tag: 'Dark Money', tagColor: 'bg-purple-100 text-purple-800' },
+              { slug: 'lobbying-roi', title: 'The 22,000% Return on Lobbying', desc: '$1 in lobbying returns $220 in tax benefits. The math is staggering.', tag: 'ROI', tagColor: 'bg-emerald-100 text-emerald-800' },
+              { slug: 'foreign-lobbying', title: 'Foreign Governments Lobbying America', desc: 'Saudi Arabia, Israel, China — 100+ countries spend millions lobbying DC.', tag: 'Foreign', tagColor: 'bg-indigo-100 text-indigo-800' },
+              { slug: 'lobbying-101', title: 'Lobbying 101', desc: 'How lobbying works, who can lobby, and what the disclosure rules actually say.', tag: 'Guide', tagColor: 'bg-sky-100 text-sky-800' },
+            ].map(a => (
+              <Link key={a.slug} href={`/analysis/${a.slug}`}
+                className="group block bg-white rounded-2xl overflow-hidden border border-gray-200 hover:shadow-xl hover:border-indigo-200 transition-all duration-200">
+                <div className="p-6">
+                  <span className={`text-xs font-bold px-3 py-1 rounded-full ${a.tagColor}`}>{a.tag}</span>
+                  <h3 className="text-lg font-bold mt-3 mb-2 group-hover:text-indigo-700 transition-colors" style={{ fontFamily: 'var(--font-serif)' }}>{a.title}</h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">{a.desc}</p>
+                  <span className="inline-block mt-3 text-sm font-semibold text-indigo-600 group-hover:text-indigo-800">Read Analysis →</span>
+                </div>
+              </Link>
+            ))}
+          </div>
+          <div className="text-center mt-8">
+            <Link href="/analysis" className="inline-flex items-center px-6 py-3 bg-indigo-600 text-white font-semibold rounded-xl hover:bg-indigo-700 transition-colors">
+              View All 10 Analysis Articles →
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Interactive Tools */}
+      <section className="py-12 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-8">
+            <h2 className="text-2xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Interactive Tools</h2>
+            <p className="text-gray-600">Explore the data yourself</p>
+          </div>
+          <div className="grid sm:grid-cols-3 gap-6">
+            {[
+              { href: '/tools/lobbying-search', title: 'Lobbying Search', desc: 'Search filings by keyword, client, or firm', icon: '🔍' },
+              { href: '/tools/industry-compare', title: 'Industry Compare', desc: 'Compare lobbying spending across industries', icon: '📊' },
+              { href: '/tools/your-rep', title: 'Your Representative', desc: 'Who\'s lobbying YOUR representative?', icon: '🏛️' },
+            ].map(tool => (
+              <Link key={tool.href} href={tool.href}
+                className="group flex items-start gap-4 p-5 bg-white border border-gray-200 rounded-xl hover:shadow-lg hover:border-indigo-200 transition-all duration-200">
+                <div className="text-3xl flex-shrink-0">{tool.icon}</div>
+                <div>
+                  <h3 className="font-bold text-gray-900 group-hover:text-indigo-700 transition-colors" style={{ fontFamily: 'var(--font-serif)' }}>{tool.title}</h3>
+                  <p className="text-sm text-gray-600 mt-1">{tool.desc}</p>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Featured Tool */}
       <section className="py-12 bg-white">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">

@@ -29,6 +29,12 @@ function readSlugsFromDir(dirName: string): string[] {
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.openlobby.us'
 
+  const analysisArticles = [
+    'top-lobbying-spenders', 'revolving-door-lobbyists', 'tech-lobbying',
+    'pharma-lobbying', 'defense-lobbying', 'oil-gas-lobbying',
+    'lobbying-roi', 'dark-money', 'foreign-lobbying', 'lobbying-101',
+  ]
+
   const staticPages = [
     '', '/about', '/clients', '/firms', '/lobbyists', '/issues', '/agencies',
     '/trends', '/revolving-door', '/foreign', '/industries',
@@ -50,6 +56,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/embed/top-spenders',
     '/embed/spending-trend',
     '/embed/issue-breakdown',
+    '/analysis',
+    '/tools/lobbying-search',
+    '/tools/industry-compare',
+    '/tools/your-rep',
   ]
 
   const routes: MetadataRoute.Sitemap = staticPages.map(p => ({
@@ -109,6 +119,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Investigation articles
   for (const slug of investigations) {
     routes.push({ url: `${baseUrl}/investigations/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6 })
+  }
+
+  // Analysis articles
+  for (const slug of analysisArticles) {
+    routes.push({ url: `${baseUrl}/analysis/${slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 })
   }
 
   return routes
