@@ -76,7 +76,12 @@ export default function Footer() {
               <li><a href="https://www.warcosts.org" className="text-sm hover:text-white transition-colors">WarCosts</a></li>
               <li><a href="https://www.openprescriber.org" className="text-sm hover:text-white transition-colors">OpenPrescriber</a></li>
               <li><a href="https://www.givescope.com" className="text-sm hover:text-white transition-colors">GiveScope</a></li>
-              <a href="https://www.spacgraveyard.com" target="_blank" rel="noopener noreferrer" className="block text-gray-500 hover:text-teal-700 text-sm transition-colors">SPACGraveyard</a>              <li><a href="https://thedataproject.ai" className="text-sm hover:text-white transition-colors">TheDataProject.ai</a></li>
+              <li><a href="https://www.spacgraveyard.com" className="text-sm hover:text-white transition-colors">SPACGraveyard</a></li>
+              <li><a href="https://www.aiexposure.org" className="text-sm hover:text-white transition-colors">AI Exposure</a></li>
+              <li><a href="https://www.tarifftax.org" className="text-sm hover:text-white transition-colors">TariffTax</a></li>
+              <li><a href="https://powermap-app.vercel.app" className="text-sm hover:text-white transition-colors">PowerMap</a></li>
+              <li><a href="https://openhousing-app.vercel.app" className="text-sm hover:text-white transition-colors">OpenHousing</a></li>
+              <li><a href="https://thedataproject.ai" className="text-sm hover:text-white transition-colors">TheDataProject.ai</a></li>
             </ul>
           </div>
         </div>
