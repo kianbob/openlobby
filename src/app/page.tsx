@@ -2,6 +2,7 @@ import Link from 'next/link'
 import { readFileSync } from 'fs'
 import { join } from 'path'
 import { formatCurrency, formatNumber } from '@/lib/format'
+import { SpendingTrendChart, TopSpendersSection, TrendingIssuesSection, ActionSection } from './HomeCharts'
 
 function getStats() {
   try {
@@ -17,8 +18,44 @@ export default function HomePage() {
   const totalFilings = stats ? formatNumber(stats.totalFilings) : '726,000+'
   const totalLobbyists = stats ? formatNumber(stats.totalLobbyists) : '29,754'
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebSite',
+        name: 'OpenLobby',
+        url: 'https://www.openlobby.us',
+        description: 'Track $37.7B in federal lobbying across 726,000+ filings. The most comprehensive lobbying database in America.',
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: 'https://www.openlobby.us/search?q={search_term_string}',
+          'query-input': 'required name=search_term_string',
+        },
+      },
+      {
+        '@type': 'Organization',
+        name: 'OpenLobby',
+        url: 'https://www.openlobby.us',
+        logo: 'https://www.openlobby.us/og-image.png',
+        description: 'Independent data journalism platform tracking federal lobbying. 726,000+ filings, $37.7B in spending, 23,545 lobbyists, 37,994 clients (2018-2025).',
+        sameAs: [],
+      },
+      {
+        '@type': 'Dataset',
+        name: 'Federal Lobbying Disclosure Database',
+        description: 'Comprehensive database of federal lobbying disclosures from Senate LDA filings, covering 2018-2025. Includes $37.7B in spending across 726,000+ filings from 37,994 clients and 23,545 lobbyists.',
+        url: 'https://www.openlobby.us',
+        license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+        creator: { '@type': 'Organization', name: 'OpenLobby' },
+        temporalCoverage: '2018/2025',
+        variableMeasured: 'Federal lobbying spending',
+      },
+    ],
+  }
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       {/* Hero */}
       <section className="bg-gradient-to-br from-indigo-950 via-indigo-900 to-purple-900 text-white relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-purple-800/20 via-transparent to-transparent" />
@@ -138,6 +175,34 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Spending Trend + Top Spenders + Trending Issues */}
+      <section className="py-16 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Numbers</h2>
+            <p className="text-gray-600 text-lg">Live data from our database of 726,000+ lobbying filings</p>
+          </div>
+          <div className="grid lg:grid-cols-2 gap-10 mb-12">
+            <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
+              <SpendingTrendChart />
+            </div>
+            <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
+              <TrendingIssuesSection />
+            </div>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
+            <TopSpendersSection />
+          </div>
+        </div>
+      </section>
+
+      {/* What Can You Do? */}
+      <section className="py-16 bg-gradient-to-br from-indigo-50 to-purple-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <ActionSection />
         </div>
       </section>
 
