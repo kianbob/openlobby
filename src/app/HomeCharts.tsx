@@ -82,7 +82,7 @@ export function SpendingTrendChart() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
               <XAxis dataKey="year" tick={{ fontSize: 12 }} />
               <YAxis tickFormatter={(v) => `$${v}B`} tick={{ fontSize: 12 }} domain={[3.5, 6.5]} />
-              <Tooltip formatter={(value: number) => [formatBillions(value), 'Spending']} />
+              <Tooltip formatter={(value) => [formatBillions(value as number), 'Spending']} />
               <Area type="monotone" dataKey="income" stroke="#6366f1" strokeWidth={3} fill="url(#colorIncome)" />
             </AreaChart>
           ) : (
@@ -90,7 +90,7 @@ export function SpendingTrendChart() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
               <XAxis dataKey="year" tick={{ fontSize: 12 }} />
               <YAxis tickFormatter={(v) => `$${v}B`} tick={{ fontSize: 12 }} domain={[0, 7]} />
-              <Tooltip formatter={(value: number) => [formatBillions(value), 'Spending']} />
+              <Tooltip formatter={(value) => [formatBillions(value as number), 'Spending']} />
               <Bar dataKey="income" fill="#6366f1" radius={[6, 6, 0, 0]} />
             </BarChart>
           )}
