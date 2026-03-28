@@ -2,13 +2,14 @@ import { Metadata } from 'next'
 import IssuesPageClient from './IssuesPageClient'
 
 export const metadata: Metadata = {
-  title: 'Lobbying Issues — What Congress Gets Lobbied About Most',
-  description: 'All 79 federal lobbying issue categories ranked by spending. Healthcare leads at $2.7B+, followed by taxation, budget, trade, and defense. See which industries dominate each issue. 2018-2025 data.',
+  title: 'The 79 Issues Congress Gets Lobbied On Most — Healthcare Leads at $2.7B',
+  description: 'Every issue lobbied in Congress, ranked by spending. Healthcare: $2.7B. Taxation: $2.1B. Defense: $1.8B. See which corporations dominate each policy battle (2018-2025).',
 }
 
 export default function IssuesPage() {
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"Dataset","name":"Federal Lobbying Issues Database","description":"79 lobbying issue categories ranked by spending, with industry breakdowns and trend data (2018-2025).","url":"https://www.openlobby.us/issues","license":"https://creativecommons.org/publicdomain/zero/1.0/","creator":{"@type":"Organization","name":"OpenLobby","url":"https://www.openlobby.us"},"temporalCoverage":"2018/2025","variableMeasured":"Federal lobbying spending"}) }} />
       <IssuesPageClient />
       <div className="max-w-4xl mx-auto px-4 pb-12">
         <div className="prose prose-gray max-w-none">

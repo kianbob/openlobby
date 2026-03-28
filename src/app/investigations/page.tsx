@@ -3,8 +3,8 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
-  title: 'Investigations — Deep-Dive Analysis',
-  description: 'In-depth data journalism about federal lobbying. Follow the money from K Street to Capitol Hill.',
+  title: 'Lobbying Investigations: 20+ Data-Driven Deep Dives Into Washington\'s Influence Machine',
+  description: '20+ original investigations backed by 726,000+ lobbying filings. The revolving door, Big Pharma\'s $452M machine, defense contractor ROI, DOGE vs lobbying, and more.',
 }
 
 const investigations = [

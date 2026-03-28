@@ -2,13 +2,14 @@ import { Metadata } from 'next'
 import FirmsPageClient from './FirmsPageClient'
 
 export const metadata: Metadata = {
-  title: 'Lobbying Firms — K Street\'s Biggest Players Ranked by Revenue',
-  description: 'Ranked directory of 7,757 federal lobbying firms by total income. From Brownstein Hyatt to Akin Gump — see client lists, lobbyist rosters, and revenue trends. 2018-2025 data.',
+  title: 'K Street\'s Power Brokers: 7,757 Lobbying Firms Ranked by Revenue',
+  description: 'Every lobbying firm in Washington, ranked. Firms with ex-government staff earn 369% more revenue. See who runs K Street\'s $37.7B influence machine (2018-2025).',
 }
 
 export default function FirmsPage() {
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"Dataset","name":"Federal Lobbying Firms Database","description":"7,757 lobbying firms ranked by revenue, with client lists, lobbyist rosters, and revolving door data (2018-2025).","url":"https://www.openlobby.us/firms","license":"https://creativecommons.org/publicdomain/zero/1.0/","creator":{"@type":"Organization","name":"OpenLobby","url":"https://www.openlobby.us"},"temporalCoverage":"2018/2025","variableMeasured":"Federal lobbying spending"}) }} />
       <FirmsPageClient />
       <div className="max-w-4xl mx-auto px-4 pb-12">
         <div className="prose prose-gray max-w-none">

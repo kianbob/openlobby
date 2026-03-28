@@ -5,8 +5,8 @@ import SourceCitation from "@/components/SourceCitation"
 import ShareButtons from '@/components/ShareButtons'
 
 export const metadata: Metadata = {
-  title: 'Federal Lobbying Statistics 2025: Complete Guide',
-  description: 'Comprehensive federal lobbying statistics for 2025. Total spending, top clients, top firms, industry breakdowns, and historical trends from Senate LDA filings.',
+  title: 'Federal Lobbying Statistics 2025: $37.7B Spent, 726K Filings — Complete Data',
+  description: '$37.7B total spending. 726,000+ filings. 23,545 lobbyists. The most comprehensive federal lobbying statistics for 2025, with charts, trends, and downloadable data.',
 }
 
 export default function LobbyingStatisticsPage() {

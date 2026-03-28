@@ -6,7 +6,7 @@ import SourceCitation from '@/components/SourceCitation'
 import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
-  title: "The Wall Street–Washington Pipeline: How Finance Lobbies to Write Its Own Rules",
+  title: "Wall Street's Washington Pipeline: Banks Spend Billions to Write Their Own Rules",
   description: 'Banks, hedge funds, and financial firms have spent billions lobbying Congress to shape regulation — from Dodd-Frank rollbacks to crypto policy battles.',
 }
 

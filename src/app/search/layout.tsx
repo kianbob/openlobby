@@ -1,10 +1,10 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Search — Find Clients, Firms, Lobbyists & Issues',
-  description: 'Search across 46,000+ lobbying clients, 7,700+ firms, 23,500+ lobbyists, and 79 issue categories. Find any organization lobbying Congress in our $37.7B database of Senate LDA filings.',
+  title: 'Search Federal Lobbying Data — Clients, Firms, Lobbyists & Issues',
+  description: 'Search across 37,994 clients, 7,757 firms, 23,545 lobbyists, and 79 issue categories. The most powerful federal lobbying search engine, powered by 726,000+ Senate filings.',
 }
 
-export default function SearchLayout({ children }: { children: React.ReactNode }) {
-  return <>{children}</>
+export default function Layout({ children }: { children: React.ReactNode }) {
+  return children
 }

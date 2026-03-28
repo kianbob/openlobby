@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import StatesPageClient from './StatesPageClient'
 
 export const metadata: Metadata = {
-  title: 'Lobbying by State — Where the Money Comes From',
-  description: 'Federal lobbying spending by state. DC leads with $27,105 per capita. See which states produce the most lobbying clients and how spending compares per capita across all 50 states.',
+  title: 'Lobbying by State: DC Spends $27,105 Per Capita — 89x the National Average',
+  description: 'How much lobbying comes from your state? DC leads at $27,105/capita. All 50 states ranked by total spend, per capita, and number of lobbying clients (2018-2025).',
 }
 
 export default function StatesPage() {

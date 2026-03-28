@@ -6,7 +6,7 @@ import SourceCitation from '@/components/SourceCitation'
 import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
-  title: "Silicon Valley vs. Antitrust: Big Tech's Fight to Stay Big",
+  title: "$150M to Kill Antitrust: How Big Tech Lobbies to Stay Untouchable",
   description: 'Google, Apple, Amazon, Meta, and Microsoft have spent over $150M lobbying against antitrust regulation. How tech giants fight to preserve their monopolies.',
 }
 

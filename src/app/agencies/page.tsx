@@ -11,8 +11,8 @@ function readJsonFile(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Government Agencies Targeted by Lobbyists — Who Gets the Most Pressure?',
-  description: 'See which federal agencies, departments, and congressional bodies receive the most lobbying pressure. 240 government entities tracked across 726,000+ filings.',
+  title: '240 Federal Agencies Ranked by Lobbying Pressure — Who Gets Targeted Most?',
+  description: 'Congress, DOD, HHS, EPA — which agencies face the most lobbying? 240 government entities ranked by pressure from 726,000+ filings. Interactive data.',
   openGraph: {
     title: 'Government Agencies Targeted by Lobbyists',
     description: '240 federal agencies and their lobbying pressure — from Congress to the EPA.',

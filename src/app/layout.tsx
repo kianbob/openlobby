@@ -6,10 +6,10 @@ import BackToTop from '@/components/BackToTop'
 
 export const metadata: Metadata = {
   title: {
-    default: 'OpenLobby — Follow the Money in Washington',
+    default: 'OpenLobby — $37.7B in Lobbying Exposed | Search 726K+ Federal Filings',
     template: '%s | OpenLobby',
   },
-  description: 'Explore $38 billion in federal lobbying (2018-2025). Search clients, firms, lobbyists, and issues. Independent data journalism powered by Senate LDA filings.',
+  description: 'Track $37.7B in federal lobbying across 726,000+ filings. Search 37,994 clients, 23,545 lobbyists, and 7,757 firms. The most comprehensive lobbying database in America (2018-2025).',
   metadataBase: new URL('https://www.openlobby.us'),
   alternates: {
     canonical: './',

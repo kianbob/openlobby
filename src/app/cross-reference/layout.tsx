@@ -1,15 +1,8 @@
 import { Metadata } from 'next'
 
-export const dynamic = 'force-dynamic'
-
 export const metadata: Metadata = {
-  title: 'Lobbying vs. Federal Contracts Cross-Reference',
-  description: 'Cross-reference lobbying spending with federal contract awards. See which companies spend millions lobbying and get billions in government contracts.',
-  openGraph: {
-    title: 'Lobbying vs. Federal Contracts Cross-Reference',
-    description: 'Cross-reference lobbying spending with federal contract awards.',
-    url: 'https://www.openlobby.us/cross-reference',
-  },
+  title: 'Cross-Reference: Lobbying Spend vs. Federal Contracts — The ROI of Influence',
+  description: 'We matched lobbying disclosures with USASpending.gov contracts. The results are staggering: top contractors get $49,536 back for every $1 lobbied. Explore the data.',
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {

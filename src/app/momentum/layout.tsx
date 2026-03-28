@@ -1,11 +1,8 @@
-export const metadata = {
-  title: 'Lobbying Momentum: What Is Surging Now',
-  description: 'Quarter-over-quarter lobbying growth by issue. See which policy areas are heating up and which are cooling down.',
-  openGraph: {
-    title: 'Lobbying Momentum: What Is Surging Now',
-    description: 'Quarter-over-quarter lobbying growth by issue. See which policy areas are heating up and which are cooling down.',
-    url: 'https://www.openlobby.us/momentum',
-  },
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Lobbying Momentum Tracker: Surging vs. Declining Issues in Real Time',
+  description: 'Which lobbying issues are surging and which are dying? Track quarter-over-quarter momentum shifts across all 79 federal issue categories. Live data from Senate filings.',
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {

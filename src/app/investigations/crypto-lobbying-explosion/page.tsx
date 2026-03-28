@@ -7,7 +7,7 @@ import fs from 'fs'
 import path from 'path'
 
 export const metadata: Metadata = {
-  title: "Crypto&apos;s K Street Invasion — The Lobbying Explosion",
+  title: "Crypto\'s K Street Takeover: How Coinbase and Ripple Built a Lobbying Empire",
   description: 'Coinbase, Ripple, and the Blockchain Association have spent millions building a crypto lobbying machine in Washington.',
 }
 

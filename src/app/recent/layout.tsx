@@ -1,10 +1,10 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Recent Filings — Latest Lobbying Disclosures',
-  description: 'Browse the 50 most recent federal lobbying filings from the Senate LDA database. See who is lobbying, how much they spent, and what issues they targeted.',
+  title: "Latest Lobbying Filings: See What Was Just Filed With the Senate",
+  description: "The newest federal lobbying disclosures, updated as they're filed. See which companies just lobbied Congress, how much they spent, and what issues they targeted.",
 }
 
-export default function RecentLayout({ children }: { children: React.ReactNode }) {
+export default function Layout({ children }: { children: React.ReactNode }) {
   return children
 }

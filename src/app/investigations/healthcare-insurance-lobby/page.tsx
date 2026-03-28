@@ -6,7 +6,7 @@ import SourceCitation from '@/components/SourceCitation'
 import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
-  title: "The Health Insurance Lobby: Fighting Medicare Expansion and Drug Pricing Reform",
+  title: "UnitedHealth, Cigna & AHIP: The Health Insurance Lobby Fighting Medicare Expansion",
   description: 'UnitedHealth, Cigna, Elevance, and AHIP have spent tens of millions lobbying against Medicare expansion and drug pricing reform. Inside the health insurance lobby.',
 }
 

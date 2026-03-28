@@ -5,8 +5,8 @@ import SourceCitation from "@/components/SourceCitation"
 import ShareButtons from '@/components/ShareButtons'
 
 export const metadata: Metadata = {
-  title: 'What Is Lobbying? A Complete Guide',
-  description: 'What is lobbying, how does it work, and why does it matter? A comprehensive guide to federal lobbying, the Lobbying Disclosure Act, and how money influences Washington.',
+  title: 'What Is Lobbying? The $37.7 Billion Industry Explained (2025 Guide)',
+  description: 'Lobbying is a $37.7B industry with 23,545 registered lobbyists. How it works, who does it, and why it matters — the definitive guide to Washington\'s influence machine.',
 }
 
 export default function WhatIsLobbyingPage() {

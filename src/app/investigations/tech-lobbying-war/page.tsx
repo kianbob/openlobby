@@ -5,7 +5,7 @@ import ShareButtons from '@/components/ShareButtons'
 import SourceCitation from '@/components/SourceCitation'
 
 export const metadata: Metadata = {
-  title: "Big Tech&apos;s Lobbying War: $150 Million to Shape the Rules",
+  title: "Big Tech\'s $150M Lobbying War: Google, Meta, Amazon Battle for Control",
   description: 'Google, Meta, Amazon, Apple, and Microsoft have spent over $150 million lobbying Congress on AI, antitrust, privacy, and trade. Here are the real numbers.',
 }
 

@@ -2,13 +2,14 @@ import { Metadata } from 'next'
 import ClientsPageClient from './ClientsPageClient'
 
 export const metadata: Metadata = {
-  title: 'Top Lobbying Clients — Who Spends the Most to Influence Congress',
-  description: 'Ranked list of 39,900+ organizations that lobby Congress, sorted by total spending. From the US Chamber of Commerce ($608M) to Fortune 500 companies and trade associations. 2018-2025 Senate LDA data.',
+  title: 'Top 37,994 Lobbying Clients: Who\'s Buying Congress? (Exposed)',
+  description: 'Ranked database of every organization lobbying Congress — the US Chamber of Commerce ($608M), Big Pharma, Big Tech, and 37,000+ more. $37.7B total. Search and follow the money.',
 }
 
 export default function ClientsPage() {
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"Dataset","name":"Federal Lobbying Clients Database","description":"37,994 organizations that lobby Congress, with spending data, filing history, and issue breakdowns (2018-2025).","url":"https://www.openlobby.us/clients","license":"https://creativecommons.org/publicdomain/zero/1.0/","creator":{"@type":"Organization","name":"OpenLobby","url":"https://www.openlobby.us"},"temporalCoverage":"2018/2025","variableMeasured":"Federal lobbying spending"}) }} />
       <ClientsPageClient />
       <div className="max-w-4xl mx-auto px-4 pb-12">
         <div className="prose prose-gray max-w-none">

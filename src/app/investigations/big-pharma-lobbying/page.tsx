@@ -6,7 +6,7 @@ import SourceCitation from '@/components/SourceCitation'
 import QuickFacts from '@/components/QuickFacts'
 
 export const metadata: Metadata = {
-  title: "Big Pharma&apos;s Lobbying Machine: $452 Million and Counting",
+  title: "Big Pharma\'s $452M Lobbying Machine: Every Dollar, Every Company, Exposed",
   description: 'The pharmaceutical and healthcare industry has spent over $452 million lobbying Congress. Here are the companies, the money, and the issues they are fighting over.',
 }
 
