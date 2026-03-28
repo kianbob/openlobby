@@ -125,9 +125,7 @@ export default function TrendsPage() {
                   <tr>
                     <th className="px-4 py-3 text-left font-semibold">Year</th>
                     <th className="px-4 py-3 text-right font-semibold">Lobbying Income</th>
-                    <th className="px-4 py-3 text-right font-semibold hidden sm:table-cell">Expenses</th>
                     <th className="px-4 py-3 text-right font-semibold">Filings</th>
-                    <th className="px-4 py-3 text-right font-semibold hidden md:table-cell">New Registrations</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -135,9 +133,7 @@ export default function TrendsPage() {
                     <tr key={t.year} className="border-t border-gray-100">
                       <td className="px-4 py-3 font-medium">{t.year}</td>
                       <td className="px-4 py-3 text-right font-medium">{formatCurrency(t.totalIncome)}</td>
-                      <td className="px-4 py-3 text-right text-gray-600 hidden sm:table-cell">{t.totalExpenses > 0 ? formatCurrency(t.totalExpenses) : '—'}</td>
                       <td className="px-4 py-3 text-right">{formatNumber(t.filings)}</td>
-                      <td className="px-4 py-3 text-right text-gray-600 hidden md:table-cell">{formatNumber(t.registrations)}</td>
                     </tr>
                   ))}
                 </tbody>

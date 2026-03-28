@@ -400,14 +400,22 @@ export default async function ClientDetailPage({ params }: { params: Promise<{ s
               )}
             </p>
           </div>
-          <div className="space-y-3">
-            {uniqueDescs.slice(0, 8).map((desc, i) => (
-              <div key={i} className="text-gray-700 text-sm pl-4 border-l-2 border-primary/30 leading-relaxed">
-                {desc.split('\n').map((line, j) => (
-                  <p key={j} className={j > 0 ? 'mt-1' : ''} dangerouslySetInnerHTML={{ __html: linkBills(line) }} />
-                ))}
-              </div>
-            ))}
+          <div className="grid gap-3 sm:grid-cols-2">
+            {uniqueDescs.slice(0, 8).map((desc, i) => {
+              const lines = desc.split('\n').filter(Boolean)
+              return (
+                <div key={i} className="bg-white border border-gray-200 rounded-lg p-4 hover:border-indigo-200 transition-colors">
+                  <ul className="space-y-1.5">
+                    {lines.map((line, j) => (
+                      <li key={j} className="text-gray-700 text-sm leading-relaxed flex items-start gap-2">
+                        <span className="text-indigo-400 mt-1 shrink-0">•</span>
+                        <span dangerouslySetInnerHTML={{ __html: linkBills(line) }} />
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )
+            })}
           </div>
           {uniqueDescs.length > 8 && (
             <p className="text-xs text-gray-400 mt-3">Showing 8 of {uniqueDescs.length} unique descriptions from filings.</p>

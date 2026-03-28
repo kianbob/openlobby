@@ -70,7 +70,8 @@ export default function Footer() {
               <li><a href="https://www.openmedicare.us" className="text-sm hover:text-white transition-colors">OpenMedicare</a></li>
               <li><a href="https://www.openfeds.org" className="text-sm hover:text-white transition-colors">OpenFeds</a></li>
               <li><a href="https://www.openimmigration.us" className="text-sm hover:text-white transition-colors">OpenImmigration</a></li>
-            <li><a href="https://www.opencrime.us" className="hover:text-white">OpenCrime</a></li>              <li><a href="https://www.openspending.us" className="text-sm hover:text-white transition-colors">OpenSpending</a></li>
+            <li><a href="https://www.opencrime.us" className="text-sm hover:text-white transition-colors">OpenCrime</a></li>
+              <li><a href="https://www.openspending.us" className="text-sm hover:text-white transition-colors">OpenSpending</a></li>
               <li><a href="https://www.vaccinewatch.org" className="text-sm hover:text-white transition-colors">VaccineWatch</a></li>
               <li><a href="https://www.warcosts.org" className="text-sm hover:text-white transition-colors">WarCosts</a></li>
               <li><a href="https://www.openprescriber.org" className="text-sm hover:text-white transition-colors">OpenPrescriber</a></li>

@@ -199,6 +199,16 @@ export default function LobbyingROIPage() {
           </table>
         </div>
       </div>
+
+      {/* Info and link to cross-reference */}
+      <div className="mt-6 bg-gray-50 border border-gray-200 rounded-xl p-5 text-center">
+        <p className="text-sm text-gray-600 mb-2">
+          Showing companies where both lobbying spend and federal contracts data are available.
+        </p>
+        <a href="/cross-reference" className="text-sm font-medium text-indigo-600 hover:text-indigo-800 hover:underline transition-colors">
+          View the full Cross-Reference database for more matches →
+        </a>
+      </div>
     </div>
   )
 }
