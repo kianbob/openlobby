@@ -72,13 +72,14 @@ export default function Footer() {
               <li><a href="https://www.openimmigration.us" className="text-sm hover:text-white transition-colors">OpenImmigration</a></li>
             <li><a href="https://www.opencrime.us" className="hover:text-white">OpenCrime</a></li>              <li><a href="https://www.openspending.us" className="text-sm hover:text-white transition-colors">OpenSpending</a></li>
               <li><a href="https://www.vaccinewatch.org" className="text-sm hover:text-white transition-colors">VaccineWatch</a></li>
-              <li><a href="https://www.opensubsidies.org" className="text-sm hover:text-white transition-colors">OpenSubsidies</a></li>
               <li><a href="https://www.warcosts.org" className="text-sm hover:text-white transition-colors">WarCosts</a></li>
               <li><a href="https://www.openprescriber.org" className="text-sm hover:text-white transition-colors">OpenPrescriber</a></li>
               <li><a href="https://www.givescope.com" className="text-sm hover:text-white transition-colors">GiveScope</a></li>
               <li><a href="https://www.spacgraveyard.com" className="text-sm hover:text-white transition-colors">SPACGraveyard</a></li>
               <li><a href="https://www.aiexposure.org" className="text-sm hover:text-white transition-colors">AI Exposure</a></li>
               <li><a href="https://www.tarifftax.org" className="text-sm hover:text-white transition-colors">TariffTax</a></li>
+              <li><a href="https://www.shelterscope.com" className="text-sm hover:text-white transition-colors">ShelterScope</a></li>
+              <li><a href="https://www.openlobby.us" className="text-sm hover:text-white transition-colors">OpenLobby</a></li>
               <li><a href="https://thedataproject.ai" className="text-sm hover:text-white transition-colors">TheDataProject.ai</a></li>
             </ul>
           </div>
