@@ -79,7 +79,6 @@ export default function Footer() {
               <li><a href="https://www.aiexposure.org" className="text-sm hover:text-white transition-colors">AI Exposure</a></li>
               <li><a href="https://www.tarifftax.org" className="text-sm hover:text-white transition-colors">TariffTax</a></li>
               <li><a href="https://www.shelterscope.com" className="text-sm hover:text-white transition-colors">ShelterScope</a></li>
-              <li><a href="https://www.openlobby.us" className="text-sm hover:text-white transition-colors">OpenLobby</a></li>
               <li><a href="https://thedataproject.ai" className="text-sm hover:text-white transition-colors">TheDataProject.ai</a></li>
             </ul>
           </div>
