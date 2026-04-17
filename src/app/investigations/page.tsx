@@ -3,11 +3,35 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
-  title: 'Lobbying Investigations: 20+ Data-Driven Deep Dives Into Washington\'s Influence Machine',
-  description: '20+ original investigations backed by 726,000+ lobbying filings. The revolving door, Big Pharma\'s $452M machine, defense contractor ROI, DOGE vs lobbying, and more.',
+  title: 'Lobbying Investigations: 25+ Data-Driven Deep Dives Into Washington\'s Influence Machine',
+  description: '25+ original investigations backed by 726,000+ lobbying filings. Iran war defense lobby, AI lobbying blitz, tariff wars, the revolving door, and more.',
 }
 
 const investigations = [
+  {
+    slug: 'iran-war-defense-lobby',
+    title: 'Defense Lobby Surges as Pentagon Seeks $200B for Iran War',
+    desc: 'The Pentagon wants $200 billion for Iran. Defense contractors are spending millions to capture the contracts. We follow the money.',
+    tag: 'Defense',
+    date: 'Apr 2026',
+    readTime: '10 min read',
+  },
+  {
+    slug: 'ai-lobbying-blitz-2026',
+    title: "Big Tech's AI Lobbying Blitz: Who's Spending What in 2026",
+    desc: 'Meta spent $4.6M in California alone. AI lobbyists are flying staffers on luxury trips. The AI lobbying war of the decade.',
+    tag: 'AI',
+    date: 'Apr 2026',
+    readTime: '11 min read',
+  },
+  {
+    slug: 'tariff-lobbying-2026',
+    title: "Tariff Lobbying 2026: Who's Fighting Trump's Trade War",
+    desc: 'From copper fabricators to automakers, industries are spending millions lobbying for tariff exemptions as Trump\'s trade war escalates.',
+    tag: 'Trade',
+    date: 'Apr 2026',
+    readTime: '9 min read',
+  },
   {
     slug: 'doge-vs-lobbying',
     title: 'DOGE vs. The Lobbying Machine',
@@ -241,10 +265,10 @@ export default function InvestigationsPage() {
         and tell the stories the numbers reveal.
       </p>
 
-      <a href="/investigations/doge-vs-lobbying" className="block mb-10 bg-gradient-to-r from-indigo-900 to-purple-900 rounded-2xl p-8 text-white hover:shadow-2xl transition-shadow">
-        <span className="inline-block px-3 py-1 bg-red-500 text-white text-xs font-bold rounded-full mb-4">FEATURED</span>
-        <h2 className="text-3xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>DOGE Wants to Cut Government. $5.2 Billion in Lobbying Wants to Keep It.</h2>
-        <p className="text-gray-300 mb-4">What happens when DOGE comes for the agencies that lobbyists depend on? A deep-dive into the collision between government efficiency and the lobbying industry.</p>
+      <a href="/investigations/iran-war-defense-lobby" className="block mb-10 bg-gradient-to-r from-red-900 to-indigo-900 rounded-2xl p-8 text-white hover:shadow-2xl transition-shadow">
+        <span className="inline-block px-3 py-1 bg-red-500 text-white text-xs font-bold rounded-full mb-4">NEW — APRIL 2026</span>
+        <h2 className="text-3xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Pentagon Wants $200 Billion for Iran. The Defense Lobby Is Ready.</h2>
+        <p className="text-gray-300 mb-4">At $11 billion per week, the Iran war is the most expensive military campaign since Iraq. Defense contractors are mobilizing their lobbying machines to capture the contracts.</p>
         <span className="text-amber-400 text-sm font-medium">Read the investigation →</span>
       </a>
 

@@ -94,7 +94,7 @@ export default function HomePage() {
             </div>
 
             <p className="mt-8 text-xs text-indigo-400/70">
-              Data current through 2025 · Senate LDA filings · Updated February 2026
+              Data current through 2025 · Senate LDA filings · Updated April 2026
             </p>
           </div>
         </div>
@@ -304,18 +304,18 @@ export default function HomePage() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               {
-                slug: 'the-22000-percent-roi',
-                title: 'The 22,000% Return on Lobbying',
-                desc: 'Companies spend millions lobbying and get billions in federal contracts. We calculated exactly how much they get back.',
-                tag: 'ROI Analysis',
-                tagColor: 'bg-emerald-100 text-emerald-800',
+                slug: 'iran-war-defense-lobby',
+                title: 'Defense Lobby Surges as Pentagon Seeks $200B for Iran War',
+                desc: 'At $11 billion per week, the Iran war is reshaping K Street. Defense contractors are mobilizing to capture the largest wartime spending since Iraq.',
+                tag: 'NEW — Apr 2026',
+                tagColor: 'bg-red-100 text-red-800',
               },
               {
-                slug: 'revolving-door-exposed',
-                title: '5,000 Former Officials Now Lobby Congress',
-                desc: 'From White House advisors to congressional chiefs of staff — the revolving door exposed with every name and salary.',
-                tag: 'Revolving Door',
-                tagColor: 'bg-red-100 text-red-800',
+                slug: 'ai-lobbying-blitz-2026',
+                title: "Big Tech's AI Lobbying Blitz",
+                desc: 'Meta spent $4.6M in California alone. AI lobbyists are flying staffers on luxury trips. The lobbying war of the decade.',
+                tag: 'NEW — Apr 2026',
+                tagColor: 'bg-cyan-100 text-cyan-800',
               },
               {
                 slug: 'big-pharma-lobbying',
