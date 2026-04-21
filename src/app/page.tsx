@@ -69,6 +69,9 @@ export default function HomePage() {
             <p className="text-xl md:text-2xl text-indigo-200 mb-4 font-medium">
               {totalSpending} Spent Buying Policy. We Tracked Every Dollar.
             </p>
+            <p className="text-base text-amber-300 mb-2 font-semibold">
+              🔥 2025 set a record: $5.08 billion in lobbying. 2026 is on pace to shatter it.
+            </p>
             <p className="text-base text-indigo-300 mb-10 max-w-2xl mx-auto">
               The only platform that cross-references lobbying filings with federal contracts, Medicare spending, and workforce data.
               Every filing. Every connection. Every dollar. All from public Senate LDA disclosures.
@@ -94,8 +97,35 @@ export default function HomePage() {
             </div>
 
             <p className="mt-8 text-xs text-indigo-400/70">
-              Data current through 2025 · Senate LDA filings · Updated April 2026
+              Data current through Q1 2026 · Senate LDA filings · Updated April 21, 2026
             </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Breaking: Latest Investigations */}
+      <section className="py-10 bg-gradient-to-r from-purple-50 to-indigo-50 border-b border-purple-100">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex items-center gap-3 mb-6">
+            <span className="inline-block bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full animate-pulse">BREAKING</span>
+            <h2 className="text-2xl font-bold" style={{ fontFamily: 'var(--font-serif)' }}>Latest Investigations</h2>
+          </div>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+            {[
+              { slug: 'q1-2026-lobbying-record', title: 'Q1 2026: Record Spending as Iran War, AI, and Tariffs Collide', tag: 'New', tagColor: 'bg-purple-100 text-purple-800', date: 'Apr 21' },
+              { slug: 'iran-war-defense-lobby', title: 'Defense Lobby Surges as Pentagon Seeks $200B for Iran War', tag: 'Defense', tagColor: 'bg-red-100 text-red-800', date: 'Apr 17' },
+              { slug: 'ai-lobbying-blitz-2026', title: "Big Tech's AI Lobbying Blitz: Who's Spending What in 2026", tag: 'AI', tagColor: 'bg-cyan-100 text-cyan-800', date: 'Apr 17' },
+              { slug: 'tariff-lobbying-2026', title: "Tariff Lobbying 2026: Who's Fighting Trump's Trade War", tag: 'Trade', tagColor: 'bg-orange-100 text-orange-800', date: 'Apr 17' },
+            ].map(a => (
+              <Link key={a.slug} href={`/investigations/${a.slug}`}
+                className="group block bg-white rounded-xl p-5 border border-gray-200 hover:shadow-lg hover:border-purple-300 transition-all">
+                <div className="flex items-center gap-2 mb-2">
+                  <span className={`text-xs font-bold px-2 py-0.5 rounded-full ${a.tagColor}`}>{a.tag}</span>
+                  <span className="text-xs text-gray-400">{a.date}</span>
+                </div>
+                <h3 className="text-sm font-bold group-hover:text-purple-700 transition-colors leading-snug" style={{ fontFamily: 'var(--font-serif)' }}>{a.title}</h3>
+              </Link>
+            ))}
           </div>
         </div>
       </section>

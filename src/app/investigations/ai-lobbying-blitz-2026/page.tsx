@@ -29,7 +29,16 @@ export default function AILobbyingBlitz2026Page() {
         in 2026
       </h1>
 
-      <p className="text-gray-500 mb-4">Published April 17, 2026 · 11 min read</p>
+      <p className="text-gray-500 mb-4">Published April 17, 2026 · Updated April 21, 2026 · 11 min read</p>
+
+      <div className="my-4 bg-amber-50 border border-amber-300 rounded-xl p-4">
+        <p className="text-sm font-bold text-amber-800">🔥 April 21, 2026 Update: Q1 Filings Are In</p>
+        <p className="text-sm text-amber-700 mt-1">
+          Anthropic posted <strong>$1.6 million</strong> in Q1 2026 lobbying — outspending OpenAI ($1.0M) for the first time.
+          Both posted their biggest-ever quarters. Meta and Google lobbied on kids&apos; online safety, copyright, chips, and AI workforce training.
+          See our full breakdown: <Link href="/investigations/q1-2026-lobbying-record" className="underline font-semibold">Q1 2026 Lobbying Record →</Link>
+        </p>
+      </div>
 
       <ShareButtons url="https://www.openlobby.us/investigations/ai-lobbying-blitz-2026" title="Big Tech's AI Lobbying Blitz: Who's Spending What in 2026" />
 
@@ -62,7 +71,7 @@ export default function AILobbyingBlitz2026Page() {
               { name: 'Amazon', detail: 'AWS data centers, AI infrastructure, energy policy', trend: '↑ Rising' },
               { name: 'Oracle', detail: '$2M+ in Q4 2025 on AI data center power generation alone', trend: '↑ Surging' },
               { name: 'OpenAI', detail: 'Rapidly scaling DC presence; hired ex-government affairs leaders', trend: '🆕 New force' },
-              { name: 'Anthropic', detail: 'Building government affairs team; safety-focused positioning', trend: '🆕 New force' },
+              { name: 'Anthropic', detail: '$1.6M in Q1 2026 — biggest quarter ever; outspent OpenAI', trend: '🆕 Record' },
             ].map(c => (
               <div key={c.name} className="flex items-center justify-between px-6 py-4 border-b border-gray-100 last:border-0">
                 <div>

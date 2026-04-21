@@ -29,7 +29,17 @@ export default function IranWarDefenseLobbyPage() {
         for Iran War
       </h1>
 
-      <p className="text-gray-500 mb-4">Published April 17, 2026 · 10 min read</p>
+      <p className="text-gray-500 mb-4">Published April 17, 2026 · Updated April 21, 2026 · 10 min read</p>
+
+      <div className="my-4 bg-amber-50 border border-amber-300 rounded-xl p-4">
+        <p className="text-sm font-bold text-amber-800">🔥 April 21, 2026 Update: Five Weeks In, the Lobbying Gold Rush Intensifies</p>
+        <p className="text-sm text-amber-700 mt-1">
+          Five weeks into the Iran campaign, the Washington Examiner reports a &ldquo;lobbying gold rush&rdquo; as
+          blue-chip firms — DLA Piper, Holland &amp; Knight, McGuireWoods, Squire Patton Boggs — race to sign
+          defense and energy clients. Oil companies are also cashing in as gas prices soar.
+          See: <Link href="/investigations/q1-2026-lobbying-record" className="underline font-semibold">Q1 2026 Lobbying Record →</Link>
+        </p>
+      </div>
 
       <ShareButtons url="https://www.openlobby.us/investigations/iran-war-defense-lobby" title="Defense Lobby Surges as Pentagon Seeks $200B for Iran War" />
 

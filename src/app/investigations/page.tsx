@@ -9,6 +9,14 @@ export const metadata: Metadata = {
 
 const investigations = [
   {
+    slug: 'q1-2026-lobbying-record',
+    title: 'Q1 2026 Lobbying: Record Spending as Iran War, AI, and Tariffs Collide',
+    desc: 'Three simultaneous crises are driving unprecedented lobbying spending. Anthropic posted $1.6M — its biggest quarter ever. 2025 hit $5.08B. 2026 will be higher.',
+    tag: 'Breaking',
+    date: 'Apr 2026',
+    readTime: '12 min read',
+  },
+  {
     slug: 'iran-war-defense-lobby',
     title: 'Defense Lobby Surges as Pentagon Seeks $200B for Iran War',
     desc: 'The Pentagon wants $200 billion for Iran. Defense contractors are spending millions to capture the contracts. We follow the money.',
