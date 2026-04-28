@@ -1,8 +1,8 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'The K Street Network: How Lobbyists, Firms & Clients Are All Connected',
-  description: 'Map the hidden connections between lobbying firms, lobbyists, and clients. See which lobbyists work for multiple firms and which firms share the most lobbyists.',
+  title: 'The K Street Network: Map Hidden Connections Between Lobbyists & Power',
+  description: 'Visualize the web connecting lobbying firms, lobbyists, and clients. Discover which lobbyists juggle multiple firms and which corporations share the same insiders.',
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {

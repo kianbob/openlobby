@@ -1,8 +1,8 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'The Revolving Door',
-  description: 'Thousands of former government officials now lobby Congress. Explore the revolving door between government and K Street.',
+  title: '5,000+ Former Officials Now Lobby Congress — The Revolving Door Exposed',
+  description: 'Exposed: thousands of ex-government officials traded public service for K Street paychecks. Search names, agencies, and see who they lobby for now.',
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {

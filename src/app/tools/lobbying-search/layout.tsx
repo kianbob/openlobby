@@ -1,8 +1,8 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Lobbying Filing Search Tool: Browse Real Senate LDA Disclosures',
-  description: 'Search and browse actual lobbying disclosure filings. See what companies told Congress they lobbied on — amounts, issues, lobbyists named, and government contacts.',
+  title: 'Search 726,000+ Lobbying Filings — Real Senate LDA Disclosures',
+  description: 'Browse actual lobbying disclosures filed with the Senate. See what companies told Congress they lobbied on — amounts, issues, lobbyists named, and agencies contacted.',
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {

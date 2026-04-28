@@ -1,8 +1,8 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Lobbyists Directory',
-  description: 'Search individual lobbyists. Find revolving-door officials, top filers, and their client lists.',
+  title: '23,545 Federal Lobbyists — Names, Clients & Revolving Door Exposed',
+  description: 'Search every registered federal lobbyist in America. 5,000+ came from government. See who they work for, what they lobby on, and their full filing history.',
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {
