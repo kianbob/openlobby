@@ -99,6 +99,15 @@ export default function Footer() {
           </div>
         </div>
 
+        <div className="mt-6 mb-8 text-center">
+          <h3 className="text-sm font-semibold text-white uppercase tracking-wider mb-3">Explore More Data</h3>
+          <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm">
+            <a href="https://www.givescope.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">GiveScope — Search 1.9M nonprofits & their finances</a>
+            <a href="https://www.howisamerica.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">How Is America — Census data on AI, food, housing & trust</a>
+            <a href="https://www.newfunds.fyi" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">NewFunds — Track new VC fund filings</a>
+          </div>
+        </div>
+
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-gray-400">
             Data Sources: <a href="https://lda.senate.gov" className="hover:text-white">Senate LDA Filings</a> · Lobbying Disclosure Act Reports
