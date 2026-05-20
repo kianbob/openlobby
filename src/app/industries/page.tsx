@@ -8,7 +8,7 @@ import ShareButtons from '@/components/ShareButtons'
 import { formatCurrency, formatNumber } from '@/lib/format'
 
 export const metadata: Metadata = {
-  title: 'Lobbying by Industry: Healthcare Spends $4.4B, Tech $1.8B — Full Breakdown',
+  title: 'Lobbying by Industry — Healthcare $4.4B, Tech $1.8B',
   description: 'Compare lobbying spending across every major industry. Healthcare dominates at $4.4B, followed by finance ($2.1B), tech ($1.8B), and energy ($1.6B). Interactive charts and data.',
 }
 

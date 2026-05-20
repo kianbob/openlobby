@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import LobbyistsPageClient from './LobbyistsPageClient'
 
 export const metadata: Metadata = {
-  title: '23,545 Federal Lobbyists: Names, Clients, and Revolving Door Ties',
+  title: '23,545 Federal Lobbyists — Names & Clients',
   description: 'Search every registered federal lobbyist in America. 5,000+ came straight from government. See who they work for, what they lobby on, and their full filing history.',
 }
 

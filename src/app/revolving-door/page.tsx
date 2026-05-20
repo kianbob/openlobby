@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import RevolvingDoorClient from './RevolvingDoorClient'
 
 export const metadata: Metadata = {
-  title: '5,000+ Ex-Government Officials Now Lobby Congress — Search the Database',
+  title: '5,000+ Ex-Officials Now Lobby Congress',
   description: 'White House advisors, Pentagon officials, congressional chiefs of staff — 5,000+ now lobby their former colleagues. Search by name, agency, or position. The revolving door, exposed.',
 }
 

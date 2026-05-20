@@ -10,7 +10,7 @@ const stats = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public/data/s
 const breadcrumbs = [{ name: 'Who Lobbies Congress?' }]
 
 export const metadata: Metadata = {
-  title: 'Who Lobbies Congress? A Complete Guide to Washington Influence | OpenLobby',
+  title: 'Who Lobbies Congress? Guide to DC Influence',
   description: 'Learn who lobbies Congress, how lobbying works, and who spends the most. 37,994 clients, 23,545 lobbyists, and $37.7B in spending — explained.',
   keywords: ['who lobbies congress', 'lobbying congress', 'how lobbying works', 'congressional lobbying', 'who hires lobbyists', 'K street'],
   openGraph: {
