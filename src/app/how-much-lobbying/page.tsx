@@ -17,7 +17,7 @@ function fmt(n: number): string {
 const breadcrumbs = [{ name: 'How Much Does Lobbying Cost?' }]
 
 export const metadata: Metadata = {
-  title: 'How Much Does Lobbying Cost? The Real Price of Influence | OpenLobby',
+  title: 'How Much Does Lobbying Cost? Price of Influence',
   description: 'What does lobbying actually cost? From $10K quarterly filings to $100M+ annual budgets. Real data from 726,000+ filings on the price of influence in Washington.',
   keywords: ['how much does lobbying cost', 'lobbying cost', 'price of lobbying', 'lobbying fees', 'how much to hire a lobbyist', 'lobbying budget'],
   openGraph: {

@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Big Tech Lobbying: Google, Meta, Amazon, Apple, Microsoft',
-  description: 'How much do tech companies spend on lobbying? Detailed data on Google, Meta, Amazon, Apple, and Microsoft lobbying spending, issues, and influence in Washington.',
+  title: 'Tech Lobbying: Google, Meta, Amazon, Apple Data',
+  description: 'How much do tech companies spend on lobbying? Detailed spending data for Google, Meta, Amazon, Apple, and Microsoft. Issues, trends, and influence in Washington (2018-2026).',
   keywords: ['tech lobbying', 'google lobbying', 'meta lobbying', 'amazon lobbying', 'apple lobbying', 'microsoft lobbying', 'big tech lobbying'],
   openGraph: {
     title: 'Big Tech Lobbying: Google, Meta, Amazon, Apple, Microsoft',

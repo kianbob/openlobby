@@ -37,7 +37,7 @@ function fmt(n: number): string {
 const breadcrumbs = [{ name: 'Lobbying by State' }]
 
 export const metadata: Metadata = {
-  title: 'Lobbying by State: Where Does Your State\'s Money Go? | OpenLobby',
+  title: 'Lobbying by State: Where Does Your State Rank?',
   description: 'Interactive breakdown of federal lobbying spending by state. See total spending, per capita spending, top clients, and trends for all 50 states plus DC.',
   keywords: ['lobbying by state', 'state lobbying spending', 'lobbying per capita', 'which states lobby most', 'state lobbying data', 'federal lobbying by state'],
   openGraph: {

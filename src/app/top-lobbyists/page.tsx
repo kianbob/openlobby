@@ -32,8 +32,8 @@ function loadTopLobbyists(): LobbyistData[] {
 const breadcrumbs = [{ name: 'Top Lobbyists' }]
 
 export const metadata: Metadata = {
-  title: 'Top 50 Most Powerful Lobbyists in America | OpenLobby',
-  description: 'Ranked list of the 50 most active and influential lobbyists in Washington DC. See their clients, firms, filings, and government connections.',
+  title: 'Top 50 Most Powerful Lobbyists in Washington DC',
+  description: 'The 50 most active and influential lobbyists in America, ranked. See their clients, firms, filing history, and government connections (2018-2026).',
   keywords: ['top lobbyists', 'most powerful lobbyists', 'washington lobbyists', 'K street lobbyists', 'influential lobbyists', 'lobbyist rankings'],
   openGraph: {
     title: 'Top 50 Most Powerful Lobbyists in America',

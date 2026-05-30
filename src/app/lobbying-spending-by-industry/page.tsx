@@ -33,7 +33,7 @@ function fmt(n: number): string {
 const breadcrumbs = [{ name: 'Industries', href: '/industries' }, { name: 'Spending by Industry' }]
 
 export const metadata: Metadata = {
-  title: 'Lobbying Spending by Industry: $37.7B Exposed | OpenLobby',
+  title: 'Lobbying Spending by Industry: $37.7B Breakdown',
   description: 'Breakdown of $37.7B in federal lobbying spending by industry. See which sectors spend the most — healthcare, finance, technology, defense, and more.',
   keywords: ['lobbying by industry', 'lobbying spending by sector', 'industry lobbying data', 'which industries lobby most', 'healthcare lobbying', 'tech lobbying'],
   openGraph: {

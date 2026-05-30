@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Pharmaceutical Lobbying: By the Numbers',
-  description: 'Comprehensive data on pharmaceutical and healthcare lobbying spending. See how much Big Pharma spends on lobbying, which companies lead, and what issues they target.',
+  title: 'Pharmaceutical Lobbying: Big Pharma Spending Data',
+  description: 'How much does Big Pharma spend on lobbying? Detailed data on drug company spending, top pharma lobbyists, and the issues they target in Congress (2018-2026).',
   keywords: ['pharmaceutical lobbying', 'big pharma lobbying', 'drug company lobbying', 'pharma lobbying spending', 'healthcare lobbying'],
   openGraph: {
     title: 'Pharmaceutical Lobbying: By the Numbers',

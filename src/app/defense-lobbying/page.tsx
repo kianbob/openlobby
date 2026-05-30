@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Defense Industry Lobbying: Contractors and Influence',
-  description: 'Data-driven analysis of defense industry lobbying. See how much defense contractors spend lobbying Congress, their ROI on federal contracts, and the military revolving door.',
+  title: 'Defense Lobbying: Military Contractor Spending Data',
+  description: 'How much do defense contractors spend on lobbying? Data on Lockheed Martin, Raytheon, Boeing, and more. ROI on federal contracts and the military revolving door (2018-2026).',
   keywords: ['defense lobbying', 'defense contractor lobbying', 'military lobbying', 'pentagon lobbying', 'defense spending lobbying'],
   openGraph: {
     title: 'Defense Industry Lobbying: Contractors and Influence',

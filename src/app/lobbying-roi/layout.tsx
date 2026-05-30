@@ -22,7 +22,7 @@ const faqJsonLd = {
     {
       "@type": "Question",
       name: "How much do the top lobbying clients spend?",
-      acceptedAnswer: { "@type": "Answer", text: "The US Chamber of Commerce leads at $608M+ in lobbying (2018-2025). Major defense contractors, pharmaceutical companies, and tech giants each spend tens of millions annually." }
+      acceptedAnswer: { "@type": "Answer", text: "The US Chamber of Commerce leads at $608M+ in lobbying (2018-2026). Major defense contractors, pharmaceutical companies, and tech giants each spend tens of millions annually." }
     },
   ]
 };

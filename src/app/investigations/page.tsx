@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
-  title: 'Lobbying Investigations: 25+ Data-Driven Deep Dives Into Washington\'s Influence Machine',
+  title: 'Lobbying Investigations: 25+ Data-Driven Deep Dives',
   description: '25+ original investigations backed by 726,000+ lobbying filings. Iran war defense lobby, AI lobbying blitz, tariff wars, the revolving door, and more.',
 }
 

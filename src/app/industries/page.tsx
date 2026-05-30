@@ -8,8 +8,8 @@ import ShareButtons from '@/components/ShareButtons'
 import { formatCurrency, formatNumber } from '@/lib/format'
 
 export const metadata: Metadata = {
-  title: 'Lobbying by Industry — Healthcare $4.4B, Tech $1.8B',
-  description: 'Compare lobbying spending across every major industry. Healthcare dominates at $4.4B, followed by finance ($2.1B), tech ($1.8B), and energy ($1.6B). Interactive charts and data.',
+  title: 'Lobbying Spending by Industry: Rankings & Data',
+  description: 'Compare lobbying spending across every industry. Healthcare leads at $4.4B, finance $2.1B, tech $1.8B, energy $1.6B. Interactive charts from 726K+ filings (2018-2026).',
 }
 
 const INDUSTRY_LABELS: Record<string, string> = {
@@ -48,7 +48,19 @@ function getData(): IndustrySummary[] {
 export default function IndustriesPage() {
   const industries = getData()
 
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      { '@type': 'Question', name: 'Which industry spends the most on lobbying?', acceptedAnswer: { '@type': 'Answer', text: 'Healthcare is the top lobbying industry at $4.4 billion since 2018, followed by finance ($2.1B), technology ($1.8B), and energy ($1.6B). Healthcare lobbying covers drug pricing, insurance regulation, and Medicare/Medicaid policy.' } },
+      { '@type': 'Question', name: 'How much does the tech industry spend on lobbying?', acceptedAnswer: { '@type': 'Answer', text: 'The technology industry has spent approximately $1.8 billion on federal lobbying since 2018. Major spenders include Google, Meta, Amazon, Apple, and Microsoft, lobbying on issues like antitrust, AI regulation, and data privacy.' } },
+      { '@type': 'Question', name: 'How much total lobbying spending is there by industry?', acceptedAnswer: { '@type': 'Answer', text: 'Total federal lobbying spending across all industries exceeds $37.7 billion from 2018-2026. This covers 726,000+ quarterly filings from 37,994 clients across healthcare, finance, technology, energy, defense, and dozens of other sectors.' } },
+    ],
+  }
+
   return (
+    <>
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <BreadcrumbJsonLd items={[{ name: 'Industries' }]} />
       <Breadcrumbs items={[{ name: 'Industries' }]} />
@@ -127,5 +139,6 @@ export default function IndustriesPage() {
         </div>
       </section>
     </div>
+    </>
   )
 }

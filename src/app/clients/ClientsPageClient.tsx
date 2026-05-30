@@ -38,7 +38,7 @@ export default function ClientsPage() {
       <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Top Lobbying Clients</h1>
       <p className="text-gray-600 mb-6 max-w-3xl">
         Every organization that pays lobbyists to influence Congress, ranked by total spending. 
-        Data from Senate LDA filings, 2018–2025.
+        Data from Senate LDA filings, 2018–2026.
       </p>
 
       <div className="flex flex-col sm:flex-row gap-4 mb-6">

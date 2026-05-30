@@ -16,7 +16,7 @@ function fmt(n: number): string {
 const breadcrumbs = [{ name: 'Dark Money' }]
 
 export const metadata: Metadata = {
-  title: 'Dark Money in Politics: What Lobbying Doesn\'t Show | OpenLobby',
+  title: 'Dark Money in Politics: What Lobbying Hides',
   description: 'Dark money in US politics: how undisclosed spending influences policy beyond the $37.7B in lobbying. PACs, 501(c)(4)s, shadow lobbying, and the gaps in disclosure.',
   keywords: ['dark money politics', 'dark money lobbying', 'undisclosed political spending', 'shadow lobbying', '501c4 dark money', 'political spending transparency'],
   openGraph: {

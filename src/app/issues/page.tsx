@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import IssuesPageClient from './IssuesPageClient'
 
 export const metadata: Metadata = {
-  title: 'The 79 Issues Congress Gets Lobbied On Most — Healthcare Leads at $2.7B',
-  description: 'Every issue lobbied in Congress, ranked by spending. Healthcare: $2.7B. Taxation: $2.1B. Defense: $1.8B. See which corporations dominate each policy battle (2018-2025).',
+  title: 'Lobbying Issues: 79 Policy Areas Ranked by Spending',
+  description: 'Every issue lobbied in Congress, ranked. Healthcare: $2.7B. Taxation: $2.1B. Defense: $1.8B. See which corporations dominate each policy battle (2018-2026).',
 }
 
 export default function IssuesPage() {

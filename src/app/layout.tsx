@@ -6,10 +6,10 @@ import BackToTop from '@/components/BackToTop'
 
 export const metadata: Metadata = {
   title: {
-    default: 'OpenLobby — $37.7B in Lobbying Exposed | Search 726K+ Federal Filings',
+    default: 'Federal Lobbying Database — $37.7B Exposed | OpenLobby',
     template: '%s | OpenLobby',
   },
-  description: 'Track $37.7B in federal lobbying across 726,000+ filings. Search 37,994 clients, 23,545 lobbyists, and 7,757 firms. The most comprehensive lobbying database in America (2018-2025).',
+  description: 'Track $37.7B in federal lobbying across 726,000+ filings. Search 37,994 clients, 23,545 lobbyists, and 7,757 firms. The most comprehensive lobbying database in America (2018-2026).',
   metadataBase: new URL('https://www.openlobby.us'),
   alternates: {
     canonical: './',
@@ -65,10 +65,10 @@ export default function RootLayout({
           '@context': 'https://schema.org',
           '@type': 'Dataset',
           name: 'Federal Lobbying Disclosure Data',
-          description: 'Comprehensive analysis of 726,000+ federal lobbying filings from 2018-2025, totaling $37.7 billion in lobbying income.',
+          description: 'Comprehensive analysis of 726,000+ federal lobbying filings from 2018-2026, totaling $37.7 billion in lobbying income.',
           url: 'https://www.openlobby.us/downloads',
           creator: { '@type': 'Organization', name: 'OpenLobby' },
-          temporalCoverage: '2018/2025',
+          temporalCoverage: '2018/2026',
           distribution: { '@type': 'DataDownload', contentUrl: 'https://www.openlobby.us/downloads' },
         }) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

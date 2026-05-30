@@ -43,8 +43,8 @@ function fmt(n: number): string {
 const breadcrumbs = [{ name: 'Clients', href: '/clients' }, { name: 'Biggest Lobbying Clients' }]
 
 export const metadata: Metadata = {
-  title: 'The 100 Biggest Lobbying Clients in America | OpenLobby',
-  description: 'Ranked list of the 100 biggest lobbying spenders in America. See which corporations, trade associations, and organizations spend the most to influence Congress.',
+  title: 'Biggest Lobbying Clients: Top 100 Spenders Ranked',
+  description: 'The 100 biggest lobbying spenders in America ranked by total spend. See which corporations and trade groups spend the most to influence Congress (2018-2026).',
   keywords: ['biggest lobbying clients', 'top lobbying spenders', 'who spends the most on lobbying', 'lobbying rankings', 'corporate lobbying spending'],
   openGraph: {
     title: 'The 100 Biggest Lobbying Clients in America',
