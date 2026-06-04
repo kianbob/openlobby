@@ -3,11 +3,35 @@ import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
-  title: 'Lobbying Investigations: 25+ Data-Driven Deep Dives',
-  description: '25+ original investigations backed by 726,000+ lobbying filings. Iran war defense lobby, AI lobbying blitz, tariff wars, the revolving door, and more.',
+  title: 'Lobbying Investigations: 30+ Data-Driven Deep Dives',
+  description: '30+ original investigations backed by 726,000+ lobbying filings. Iran war defense lobby, AI lobbying boom, pharma spending, tariff wars, the revolving door, and more.',
 }
 
 const investigations = [
+  {
+    slug: 'ai-lobbying-boom-2026',
+    title: 'The AI Lobbying Boom 2026: How Tech Giants Are Buying AI Regulation',
+    desc: 'AI lobbying surged 340% since 2023. Over 850 companies now lobby on AI. Google, Meta, OpenAI, and Anthropic are spending record sums to write the rules.',
+    tag: 'AI',
+    date: 'Jun 2026',
+    readTime: '14 min read',
+  },
+  {
+    slug: 'pharma-lobbying-spending-2026',
+    title: "Pharmaceutical Lobbying Spending 2026: Big Pharma's Fight to Keep Prices High",
+    desc: 'Pharma is on pace to spend $280M in 2026 — fighting drug pricing expansion, the GLP-1 coverage battle, and AI-driven drug discovery regulation.',
+    tag: 'Pharma',
+    date: 'Jun 2026',
+    readTime: '13 min read',
+  },
+  {
+    slug: 'defense-lobbying-2026',
+    title: 'Defense Lobbying 2026: The Military-Industrial Complex Cashes In',
+    desc: 'Defense lobbying hit $190M in H1 2026 as Iran operations, AI weapons, and a $916B budget create the biggest military spending boom since Iraq.',
+    tag: 'Defense',
+    date: 'Jun 2026',
+    readTime: '14 min read',
+  },
   {
     slug: 'q1-2026-lobbying-record',
     title: 'Q1 2026 Lobbying: Record Spending as Iran War, AI, and Tariffs Collide',
