@@ -193,7 +193,118 @@ export default function GeographicPage() {
         </div>
       </section>
 
+      {/* Additional Analysis */}
+      <section className="mb-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Why Geography Matters in Lobbying</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Lobbying spending by state reveals where economic interests concentrate and how different regions engage with federal policy. States with major defense installations (Virginia, Maryland, Connecticut) show disproportionate defense lobbying. States with pharmaceutical hubs (New Jersey, Massachusetts) dominate healthcare lobbying. Energy-producing states (Texas, Louisiana, Oklahoma) lead on energy and environmental issues.</p>
+          <p>This geographic concentration has political implications: members of Congress from states with heavy lobbying activity receive more attention from lobbyists, attend more fundraisers, and are more likely to serve on committees relevant to their state&apos;s major industries.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Virginia Corridor</h3>
+          <p>Virginia consistently ranks among the top lobbying states, driven by its proximity to Washington, DC and its massive defense contractor presence. Companies like Northrop Grumman, General Dynamics, Booz Allen Hamilton, Leidos, and SAIC are all headquartered in Northern Virginia, creating a dense lobbying ecosystem that feeds directly into Pentagon and Capitol Hill influence operations.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Small State Influence</h3>
+          <p>Per-capita lobbying metrics reveal surprising influence concentrations. Small states with major industries — like Connecticut (insurance and defense), Delaware (corporate law), and Rhode Island (defense and healthcare) — punch well above their weight. A single major employer in a small state can dramatically affect that state&apos;s per-capita lobbying figures.</p>
+          <p>Explore state-level data in detail on our <Link href="/states" className="text-indigo-600 hover:underline">state pages</Link>, or see how lobbying connects to broader economic patterns with our <Link href="/industries" className="text-indigo-600 hover:underline">industry analysis</Link>.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Urban vs. Rural Lobbying</h3>
+          <p>Lobbying spending is overwhelmingly concentrated in urban and suburban areas. The top 10 metropolitan areas account for over 70% of all lobbying client headquarters. Rural areas, despite representing significant portions of the population, have minimal direct lobbying presence — their interests are more commonly represented through trade associations (like the American Farm Bureau Federation) and industry groups rather than individual company lobbying.</p>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "Which state has the most lobbying spending?", acceptedAnswer: { "@type": "Answer", text: "Washington, DC leads by an enormous margin with $27,105 in per-capita lobbying spending. Among states, Virginia, New York, California, and Texas typically rank highest by total spending due to their concentrations of defense contractors, financial institutions, and corporate headquarters." } },
+          { "@type": "Question", name: "Why does DC have so much more lobbying than any state?", acceptedAnswer: { "@type": "Answer", text: "DC is where lobbying happens. Most lobbying firms, trade associations, and government affairs offices are headquartered there. With a small resident population (under 700,000) and massive lobbying infrastructure, DC's per-capita figure ($27,105) dwarfs every state." } },
+          { "@type": "Question", name: "Which small states have the most lobbying per capita?", acceptedAnswer: { "@type": "Answer", text: "Small states with major industries punch above their weight. Connecticut (insurance/defense), Delaware (corporate law), and states with major defense installations or pharmaceutical hubs show disproportionate per-capita lobbying spending." } },
+          { "@type": "Question", name: "How does geographic lobbying data relate to political influence?", acceptedAnswer: { "@type": "Answer", text: "States with heavy lobbying activity see their congressional delegations receive more attention from lobbyists. Members from these states are more likely to serve on committees relevant to their state's industries and to receive campaign contributions from lobbying clients." } },
+        ]
+      }) }} />
+
       <SourceCitation sources={['Senate LDA Filings', 'U.S. Census Bureau Population Estimates']} lastUpdated="February 2026" />
+
+      <section className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>State-Level Lobbying Dynamics in 2026</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Geographic lobbying patterns are shifting as industries evolve. Texas has seen rapid growth in lobbying activity driven by the energy sector, defense installations, and an expanding tech presence in Austin. Florida&apos;s lobbying footprint is growing as companies relocate headquarters to the state. Meanwhile, traditional lobbying powerhouses like New York and California maintain dominant positions through their concentrations of financial, pharmaceutical, and tech companies.</p>
+          <p>The most interesting geographic story may be the rise of &quot;secondary&quot; lobbying hubs. Companies increasingly maintain Washington offices for direct lobbying while also engaging in state-level advocacy. This dual approach means that geographic analysis must account for both where organizations are headquartered and where they direct their lobbying efforts.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Industry Clusters and Regional Influence</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Certain states dominate specific lobbying sectors. Connecticut&apos;s insurance industry and defense manufacturing (United Technologies, now RTX) drive disproportionate per-capita spending. New Jersey&apos;s pharmaceutical corridor — home to Johnson &amp; Johnson, Merck, and dozens of smaller firms — makes it a <Link href="/pharmaceutical-lobbying" className="text-indigo-600 hover:underline">pharma lobbying</Link> powerhouse. Virginia&apos;s proximity to the Pentagon ensures it leads in <Link href="/defense-lobbying" className="text-indigo-600 hover:underline">defense lobbying</Link>.</p>
+          <p>These industry clusters create feedback loops with congressional representation. Members from defense-heavy states tend to seek Armed Services Committee seats, reinforcing the relationship between geographic industry concentration and legislative influence. Explore these connections further in our <Link href="/analysis" className="text-indigo-600 hover:underline">analysis hub</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/tools/industry-compare" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📊 Industry Compare</div>
+            <div className="text-xs text-gray-500 mt-1">Compare spending across sectors</div>
+          </Link>
+          <Link href="/foreign" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🌍 Foreign Lobbying</div>
+            <div className="text-xs text-gray-500 mt-1">International influence in U.S. policy</div>
+          </Link>
+          <Link href="/trends" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📈 Spending Trends</div>
+            <div className="text-xs text-gray-500 mt-1">Historical spending patterns</div>
+          </Link>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Per-Capita Lobbying: A Different Perspective</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Total spending tells one story, but per-capita figures reveal a different picture. Washington, DC leads at $27,105 per resident — a reflection of being the epicenter of the lobbying industry itself. Among actual states, per-capita leaders tend to be those with major industry headquarters concentrated in a relatively small population: Connecticut (insurance and defense), Delaware (corporate law), and states with dominant single-industry employers.</p>
+          <p>Per-capita analysis also highlights underrepresented states. Large, rural states often have the lowest per-capita lobbying despite significant agricultural and energy industries. Their interests are more commonly represented through <Link href="/industries" className="text-indigo-600 hover:underline">trade associations</Link> rather than individual company lobbying. Browse the full data on our <Link href="/search" className="text-indigo-600 hover:underline">searchable database</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Geographic Data</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/search" className="px-4 py-2 bg-indigo-600 text-white rounded-lg text-sm font-medium hover:bg-indigo-700 transition-colors">🔍 Search by State</Link>
+          <Link href="/downloads" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📥 Download Data</Link>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The K Street Effect</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Washington, DC&apos;s dominance in geographic lobbying data reflects its unique role as both the seat of government and the lobbying industry&apos;s headquarters. With under 700,000 residents and thousands of lobbying firms, the District&apos;s per-capita figure of $27,105 is more than 50 times that of most states. This concentration creates a self-reinforcing ecosystem where proximity to lawmakers attracts more firms, which in turn attracts more clients.</p>
+          <p>Virginia and Maryland benefit from spillover effects, with many lobbying professionals living in the suburbs while working in DC. The broader DC metropolitan area accounts for the vast majority of the lobbying industry&apos;s workforce and revenue. Explore related analysis on our <Link href="/how-lobbying-works" className="text-indigo-600 hover:underline">how lobbying works page</Link>.</p>
+        </div>
+      </section>
+          {/* Data Notes */}
+      <div className="mt-12 border-t pt-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Notes &amp; Methodology</h2>
+        <p className="text-gray-600 mb-3">
+          All data on this page is sourced from Senate Office of Public Records lobbying disclosure filings
+          under the Lobbying Disclosure Act of 1995. Figures reflect reported spending as filed and may be
+          subject to amendment. Quarterly totals are annualized where noted.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Industry classifications follow the Center for Responsive Politics methodology. Where companies
+          operate across multiple sectors, spending is attributed to the primary business classification.
+          Foreign entity designations follow FARA and LDA Section 4 definitions.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Year-over-year comparisons use inflation-adjusted figures (2026 dollars) unless otherwise noted.
+          Historical data extends back to 1998 when electronic filing became mandatory.
+        </p>
+        <p className="text-gray-600">
+          For questions about our data or methodology, see our{' '}
+          <a href="/methodology" className="text-blue-600 hover:underline">full methodology page</a> or{' '}
+          <a href="/about" className="text-blue-600 hover:underline">contact us</a>.
+        </p>
+      </div>
     </div>
   )
 }

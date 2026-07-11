@@ -176,10 +176,146 @@ export default function IndustryComparePage() {
         </div>
       </div>
 
-      <div className="text-center">
+      {/* Deeper Analysis */}
+      <div className="mb-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Cross-Industry Lobbying Dynamics</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Industries don&apos;t lobby in isolation. When healthcare companies push for FDA reforms, pharmaceutical, insurance, and medical device companies may find themselves lobbying on the same bills from different angles. When Congress debates infrastructure spending, transportation, construction, energy, and telecom companies all compete for funding.</p>
+          <p>These cross-industry dynamics create fascinating alliances and rivalries. Big Tech and Big Pharma increasingly clash over health data privacy. Defense contractors and tech companies compete for cybersecurity contracts. Energy companies and automakers disagree on EV mandates but unite on trade policy.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Lobbying Arms Race</h3>
+          <p>Once one company in an industry starts lobbying, competitors follow. This creates an arms race dynamic where lobbying spending ratchets upward over time. The tech industry is the clearest example: Google started lobbying seriously around 2010, and within a decade, every major tech company had a multi-million-dollar DC operation. The same pattern is now playing out in crypto, AI, and space industries.</p>
+          <p>Explore which specific issues are surging on our <Link href="/momentum" className="text-indigo-600 hover:underline">momentum tracker</Link>, or see how issues overlap on the <Link href="/issue-battles" className="text-indigo-600 hover:underline">issue collisions page</Link>.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Trade Groups: The Hidden Multiplier</h3>
+          <p>The numbers above include trade group spending, which is a critical multiplier for industry influence. The National Association of Realtors ($387M) spends more than many entire industries do individually. PhRMA ($321M) amplifies pharmaceutical company lobbying. The U.S. Chamber of Commerce ($607M+) lobbies on behalf of business broadly.</p>
+          <p>When you see an industry&apos;s total lobbying figure, remember that it combines individual company lobbying, trade association lobbying, and coalition lobbying. The real influence is often greater than any single number suggests.</p>
+        </div>
+      </div>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "Which industry spends the most on lobbying?", acceptedAnswer: { "@type": "Answer", text: "Healthcare & Pharmaceuticals is the largest lobbying sector with $4.4B+ spent since 2018, roughly 25% of all federal lobbying spending. This is driven by drug pricing legislation, FDA regulation, and Medicare/Medicaid policy." } },
+          { "@type": "Question", name: "Which industry's lobbying is growing fastest?", acceptedAnswer: { "@type": "Answer", text: "Technology lobbying is growing at 15% annually, the fastest of any sector. Driven by AI regulation, antitrust enforcement, and privacy legislation, tech spending has more than quadrupled since 2015." } },
+          { "@type": "Question", name: "How do trade groups affect industry lobbying totals?", acceptedAnswer: { "@type": "Answer", text: "Trade groups are a major multiplier. The National Association of Realtors alone accounts for $387M in lobbying, more than many entire industries. PhRMA adds $321M+ for pharmaceuticals. These groups amplify individual company lobbying significantly." } },
+          { "@type": "Question", name: "How does defense lobbying ROI compare to other industries?", acceptedAnswer: { "@type": "Answer", text: "Defense has some of the highest measurable ROI due to the direct connection between lobbying and federal contracts. Some contractors see returns of 49,536:1. Other industries like pharma see high but harder-to-measure returns through regulatory outcomes rather than direct contracts." } },
+        ]
+      }) }} />
+
+      <div className="text-center mt-10">
         <Link href="/industries" className="inline-flex items-center px-6 py-3 bg-indigo-600 text-white font-semibold rounded-xl hover:bg-indigo-700 transition-colors">
           Explore Full Industry Data →
         </Link>
+      </div>
+
+      <div className="mt-12">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Pages</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/pharmaceutical-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💊 Pharma Lobbying</div>
+            <div className="text-xs text-gray-500 mt-1">The biggest spending industry</div>
+          </Link>
+          <Link href="/tech-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💻 Tech Lobbying</div>
+            <div className="text-xs text-gray-500 mt-1">The fastest growing sector</div>
+          </Link>
+          <Link href="/defense-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🛡️ Defense Lobbying</div>
+            <div className="text-xs text-gray-500 mt-1">The military-industrial complex</div>
+          </Link>
+          <Link href="/lobbying-vs-contracts" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💰 ROI Calculator</div>
+            <div className="text-xs text-gray-500 mt-1">Lobbying spend vs. contracts</div>
+          </Link>
+          <Link href="/clients" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">👤 Top Clients</div>
+            <div className="text-xs text-gray-500 mt-1">Individual company rankings</div>
+          </Link>
+          <Link href="/trends" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📈 Spending Trends</div>
+            <div className="text-xs text-gray-500 mt-1">Historical spending data</div>
+          </Link>
+        </div>
+      </div>
+
+      <section className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>How to Use the Industry Comparison Tool</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Select two or more industries to compare their lobbying spending over time. The tool visualizes quarterly spending trends, highlights periods of rapid growth or decline, and calculates growth rates for easy comparison. Use it to answer questions like: Is <Link href="/tech-lobbying" className="text-indigo-600 hover:underline">tech lobbying</Link> growing faster than <Link href="/pharmaceutical-lobbying" className="text-indigo-600 hover:underline">pharma</Link>? How does <Link href="/defense-lobbying" className="text-indigo-600 hover:underline">defense spending</Link> compare to healthcare?</p>
+          <p>Industry classifications follow the categories used in Senate LDA filings. Some organizations file under multiple industries when their lobbying spans several sectors. In these cases, spending is attributed to the primary industry listed on each filing.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Key Industry Comparisons for 2026</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>The most revealing comparisons in the current landscape include:</p>
+          <ul className="list-disc pl-6 space-y-2">
+            <li><strong>Healthcare vs. Technology:</strong> Healthcare still leads in total spending, but technology has the highest growth rate. The gap is narrowing as AI regulation and data privacy drive tech spending.</li>
+            <li><strong>Defense vs. Energy:</strong> Both are mature lobbying sectors, but they&apos;re diverging. Defense spending is rising with the FY2027 budget battle, while fossil fuel lobbying has plateaued as the industry shifts strategy toward direct political engagement.</li>
+            <li><strong>Finance vs. Crypto:</strong> Traditional financial services lobbying remains dominant, but cryptocurrency has gone from zero to $80M+ in just five years, representing the fastest-growing subsector in financial lobbying.</li>
+          </ul>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "Which industry spends the most on lobbying?", acceptedAnswer: { "@type": "Answer", text: "Healthcare (including pharmaceuticals) is the largest lobbying sector, spending over $700 million annually. Technology and defense round out the top three. Use the industry comparison tool to visualize spending differences over time." } },
+          { "@type": "Question", name: "Which industry\'s lobbying is growing fastest?", acceptedAnswer: { "@type": "Answer", text: "Technology lobbying is growing fastest overall, driven by AI regulation and cryptocurrency. Within tech, AI-related lobbying has surged 400%+ since 2022, and crypto lobbying went from near-zero to $80M+ annually in five years." } },
+        ]
+      }) }} />
+
+      <section className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Understanding Industry Classification</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Industry categories on OpenLobby are based on classifications assigned during LDA registration. Some organizations span multiple industries — Amazon, for example, appears in technology, retail, and cloud computing contexts. Our comparison tool uses the primary industry listed on each filing to avoid double-counting.</p>
+          <p>Trade associations present a unique challenge. The U.S. Chamber of Commerce lobbies across virtually every industry, while PhRMA lobbies exclusively for pharmaceuticals. When comparing industries, keep in mind that trade association spending may represent dozens or hundreds of member companies pooling resources. See our <Link href="/methodology" className="text-indigo-600 hover:underline">methodology page</Link> for details on how we handle these classifications.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Explore by Industry</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/pharmaceutical-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💊 Pharmaceutical</div>
+            <div className="text-xs text-gray-500 mt-1">The largest lobbying sector</div>
+          </Link>
+          <Link href="/tech-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💻 Technology</div>
+            <div className="text-xs text-gray-500 mt-1">Fastest-growing sector</div>
+          </Link>
+          <Link href="/defense-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🛡️ Defense</div>
+            <div className="text-xs text-gray-500 mt-1">Highest ROI sector</div>
+          </Link>
+        </div>
+      </section>
+          {/* Data Notes */}
+      <div className="mt-12 border-t pt-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Notes &amp; Methodology</h2>
+        <p className="text-gray-600 mb-3">
+          All data on this page is sourced from Senate Office of Public Records lobbying disclosure filings
+          under the Lobbying Disclosure Act of 1995. Figures reflect reported spending as filed and may be
+          subject to amendment. Quarterly totals are annualized where noted.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Industry classifications follow the Center for Responsive Politics methodology. Where companies
+          operate across multiple sectors, spending is attributed to the primary business classification.
+          Foreign entity designations follow FARA and LDA Section 4 definitions.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Year-over-year comparisons use inflation-adjusted figures (2026 dollars) unless otherwise noted.
+          Historical data extends back to 1998 when electronic filing became mandatory.
+        </p>
+        <p className="text-gray-600">
+          For questions about our data or methodology, see our{' '}
+          <a href="/methodology" className="text-blue-600 hover:underline">full methodology page</a> or{' '}
+          <a href="/about" className="text-blue-600 hover:underline">contact us</a>.
+        </p>
       </div>
     </div>
   )

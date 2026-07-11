@@ -175,7 +175,136 @@ export default function ForeignPage() {
         </div>
       </section>
 
+      {/* Additional Content */}
+      <section className="mt-10 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>How Foreign Lobbying Works</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Foreign entities lobby the U.S. government through two primary legal frameworks. The <strong>Lobbying Disclosure Act (LDA)</strong> requires disclosure when a foreign entity is affiliated with a lobbying client — this is the data shown on this page. The <strong>Foreign Agents Registration Act (FARA)</strong> is a separate, stricter law that requires registration by anyone acting as an agent of a foreign principal.</p>
+          <p>In practice, most foreign lobbying is conducted through American lobbying firms that are hired by foreign governments, state-owned enterprises, or foreign corporations. These firms file LDA reports listing the foreign entity as an affiliate of their lobbying client. The lobbyists themselves are typically American citizens with extensive government experience.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Why Foreign Governments Lobby Congress</h3>
+          <p>Foreign governments lobby for a variety of strategic interests:</p>
+          <ul>
+            <li><strong>Military aid and arms sales:</strong> Countries lobby for Foreign Military Financing, weapons purchases, and defense cooperation agreements</li>
+            <li><strong>Trade policy:</strong> Nations seek favorable trade terms, tariff exemptions, and sanctions relief</li>
+            <li><strong>Diplomatic support:</strong> Countries lobby for UN votes, diplomatic recognition, and bilateral agreements</li>
+            <li><strong>Investment access:</strong> Foreign governments promote their countries as investment destinations and seek regulatory approvals for state-owned enterprises</li>
+          </ul>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Controversial Foreign Lobbying</h3>
+          <p>While allied nations like the UK, Canada, and Japan conducting lobbying is generally uncontroversial, foreign lobbying becomes politically charged when it involves adversarial nations. Chinese companies like Huawei and TikTok&apos;s parent company ByteDance have spent millions lobbying to avoid bans and restrictions. Saudi Arabian interests have lobbied extensively following the Khashoggi murder and in connection with oil policy. Russian-linked entities have faced intense scrutiny since 2016.</p>
+          <p>Our data tracks all foreign entity disclosures regardless of the country of origin — use the search above to explore specific countries.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The 2025-2026 Foreign Lobbying Landscape</h3>
+          <p>Tariff policy has dramatically increased foreign lobbying activity. As the U.S. imposes new tariffs on imports, foreign governments and companies are lobbying aggressively for exemptions and favorable treatment. Countries that previously had minimal lobbying presence have suddenly appeared in LDA filings as trade uncertainty affects their economies.</p>
+          <p>Additionally, AI regulation debates have attracted lobbying from foreign tech companies seeking to ensure that U.S. regulations don&apos;t disadvantage their products in the American market.</p>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "Can foreign governments lobby the U.S. Congress?", acceptedAnswer: { "@type": "Answer", text: "Yes. Foreign governments, state-owned enterprises, and foreign companies can legally lobby the U.S. government. They typically hire American lobbying firms to represent their interests. This activity is regulated under both the Lobbying Disclosure Act (LDA) and the Foreign Agents Registration Act (FARA)." } },
+          { "@type": "Question", name: "Which countries lobby the U.S. the most?", acceptedAnswer: { "@type": "Answer", text: "The UK leads with the most foreign entity filings, followed by Canada, Japan, and South Korea. However, some of the most controversial foreign lobbying comes from China, Saudi Arabia, and other nations with complex U.S. relationships." } },
+          { "@type": "Question", name: "What is FARA vs. LDA for foreign lobbying?", acceptedAnswer: { "@type": "Answer", text: "FARA (Foreign Agents Registration Act) requires registration by anyone acting as an agent of a foreign principal. LDA (Lobbying Disclosure Act) requires separate disclosure when a lobbying client has foreign entity affiliations. FARA has stricter requirements and stronger enforcement penalties." } },
+          { "@type": "Question", name: "How much do foreign entities spend on U.S. lobbying?", acceptedAnswer: { "@type": "Answer", text: "Foreign entities collectively spend hundreds of millions annually on lobbying the U.S. government, with estimates exceeding $500M per year when combining LDA and FARA-reported activities. This includes direct lobbying as well as public relations and strategic consulting." } },
+        ]
+      }) }} />
+
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
+
+      <section className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Trade Wars and Foreign Lobbying Surges</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>The tariff escalations of 2025-2026 have triggered a massive surge in foreign entity lobbying. Companies and governments facing new U.S. tariffs are spending heavily to secure exemptions, delays, or modifications. European automakers, Japanese semiconductor firms, and South Korean steel producers have all dramatically increased their Washington lobbying presence.</p>
+          <p>This trade-driven lobbying creates unusual alliances. Foreign manufacturers often lobby alongside their American customers — U.S. retailers and importers who face higher costs from tariffs. Track trade-related lobbying on our <Link href="/issues/TRD" className="text-indigo-600 hover:underline">trade issues page</Link> or see overall spending shifts on the <Link href="/momentum" className="text-indigo-600 hover:underline">momentum tracker</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>FARA vs. LDA: Understanding Foreign Influence Disclosure</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Foreign lobbying in the U.S. is governed by two overlapping disclosure regimes. The <strong>Lobbying Disclosure Act (LDA)</strong> requires quarterly reporting when a lobbying client has foreign entity affiliations. The <strong>Foreign Agents Registration Act (FARA)</strong> imposes stricter requirements on anyone acting as an agent of a foreign principal, including detailed reporting of all activities, compensation, and disbursements.</p>
+          <p>OpenLobby tracks LDA filings that disclose foreign entity affiliations. FARA filings are maintained separately by the Department of Justice. Together, these datasets provide the most complete picture of foreign influence in U.S. policy. For more on how we process this data, see our <Link href="/methodology" className="text-indigo-600 hover:underline">methodology page</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Explore More</h2>
+        <div className="grid md:grid-cols-3 gap-3">
+          <Link href="/geographic" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🗺️ Geographic Analysis</div>
+            <div className="text-xs text-gray-500 mt-1">Where lobbying concentrates by state</div>
+          </Link>
+          <Link href="/trends" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📈 Spending Trends</div>
+            <div className="text-xs text-gray-500 mt-1">Historical spending patterns</div>
+          </Link>
+          <Link href="/investigations/what-is-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📖 What Is Lobbying?</div>
+            <div className="text-xs text-gray-500 mt-1">The complete guide</div>
+          </Link>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Country Spotlight: Key Foreign Lobbying Players</h2>
+        <div className="prose prose-lg max-w-none">
+          <p><strong>United Kingdom:</strong> The UK leads in total foreign entity filings, primarily through defense and pharmaceutical companies with significant U.S. operations. BAE Systems, AstraZeneca, and GlaxoSmithKline are among the most active foreign lobbying entities.</p>
+          <p><strong>Japan &amp; South Korea:</strong> Asian allies maintain robust lobbying presences focused on trade policy, defense cooperation, and technology standards. Automakers (Toyota, Hyundai) and electronics firms (Samsung, Sony) are particularly active.</p>
+          <p><strong>China:</strong> Chinese entities face increasing scrutiny and disclosure requirements. While direct Chinese government lobbying is controversial, Chinese companies like Huawei and TikTok (ByteDance) have maintained active lobbying operations despite political headwinds.</p>
+          <p><strong>Middle East:</strong> Saudi Arabia, the UAE, and Qatar maintain significant lobbying operations focused on defense sales, energy policy, and diplomatic relations. These operations often involve prominent former U.S. officials through the <Link href="/investigations/revolving-door-exposed" className="text-indigo-600 hover:underline">revolving door</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>How Foreign Lobbying Connects to Domestic Policy</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Foreign lobbying often intersects with domestic policy battles. When Congress debates tariffs, foreign manufacturers lobby alongside American importers and retailers. When defense authorization bills include arms sales provisions, allied governments lobby for favorable terms. And when tech regulation proposals could affect global platforms, foreign tech companies engage alongside their American counterparts.</p>
+          <p>These intersections mean that understanding foreign lobbying requires understanding the broader domestic landscape. Explore our <Link href="/issue-battles" className="text-indigo-600 hover:underline">issue battles</Link> to see where foreign and domestic interests collide.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Foreign Lobbying Data</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/search" className="px-4 py-2 bg-indigo-600 text-white rounded-lg text-sm font-medium hover:bg-indigo-700 transition-colors">🔍 Search Foreign Filings</Link>
+          <Link href="/downloads" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📥 Download Datasets</Link>
+          <Link href="/investigations/lobbying-statistics" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📊 Full Statistics</Link>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Foreign Lobbying Enforcement</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Enforcement of foreign lobbying disclosure requirements has intensified in recent years. The Department of Justice has increased FARA enforcement actions, and several high-profile cases — including prosecutions of former officials who failed to register — have raised the stakes for compliance. However, critics argue that enforcement remains inconsistent and that many foreign influence activities still escape scrutiny.</p>
+          <p>The gap between LDA and FARA reporting also creates challenges. Some foreign entities register under LDA but not FARA, or vice versa, making it difficult to get a complete picture of foreign influence. OpenLobby tracks LDA-disclosed foreign entity affiliations; for FARA data, the Department of Justice maintains a separate <a href="https://www.fara.us" className="text-indigo-600 hover:underline">public database</a>.</p>
+        </div>
+      </section>
+          {/* Data Notes */}
+      <div className="mt-12 border-t pt-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Notes &amp; Methodology</h2>
+        <p className="text-gray-600 mb-3">
+          All data on this page is sourced from Senate Office of Public Records lobbying disclosure filings
+          under the Lobbying Disclosure Act of 1995. Figures reflect reported spending as filed and may be
+          subject to amendment. Quarterly totals are annualized where noted.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Industry classifications follow the Center for Responsive Politics methodology. Where companies
+          operate across multiple sectors, spending is attributed to the primary business classification.
+          Foreign entity designations follow FARA and LDA Section 4 definitions.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Year-over-year comparisons use inflation-adjusted figures (2026 dollars) unless otherwise noted.
+          Historical data extends back to 1998 when electronic filing became mandatory.
+        </p>
+        <p className="text-gray-600">
+          For questions about our data or methodology, see our{' '}
+          <a href="/methodology" className="text-blue-600 hover:underline">full methodology page</a> or{' '}
+          <a href="/about" className="text-blue-600 hover:underline">contact us</a>.
+        </p>
+      </div>
     </div>
   )
 }

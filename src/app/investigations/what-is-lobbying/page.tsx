@@ -109,6 +109,180 @@ export default function WhatIsLobbyingPage() {
         </div>
       </section>
 
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: [ { "@type": "Question", name: "What is lobbying?", acceptedAnswer: { "@type": "Answer", text: "Lobbying is the act of attempting to influence decisions made by government officials, most often legislators or members of regulatory agencies. In the United States, lobbying is a constitutionally protected activity under the First Amendment right to petition the government." } }, { "@type": "Question", name: "Is lobbying legal?", acceptedAnswer: { "@type": "Answer", text: "Yes, lobbying is legal in the United States and is protected by the First Amendment. However, lobbyists must register and file disclosure reports under the Lobbying Disclosure Act of 1995. These filings are public records that anyone can access." } }, { "@type": "Question", name: "How much money is spent on lobbying each year?", acceptedAnswer: { "@type": "Answer", text: "Federal lobbying spending has exceeded $4 billion annually since 2022, with 2025 reaching approximately $5.08 billion. The true cost of influence is likely much higher when accounting for grassroots lobbying and other activities not captured by disclosure requirements." } }, { "@type": "Question", name: "Who are the biggest lobbyists in Washington?", acceptedAnswer: { "@type": "Answer", text: "The U.S. Chamber of Commerce is consistently the top lobbying spender. Other major spenders include the National Association of Realtors, PhRMA, the American Hospital Association, and major corporations like Amazon, Meta, and Alphabet." } }, { "@type": "Question", name: "What is the revolving door in lobbying?", acceptedAnswer: { "@type": "Answer", text: "The revolving door refers to the movement of personnel between government roles and lobbying positions. Former members of Congress, congressional staffers, and executive branch officials often become lobbyists, leveraging their insider knowledge and connections." } } ] }) }} />
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The Lobbying Disclosure Act: What Gets Reported</h2>
+        <p className="text-gray-700 mb-3">
+          The Lobbying Disclosure Act (LDA) of 1995 requires lobbyists to register with the Secretary of the Senate and the Clerk of the House within 45 days of making a lobbying contact or being employed to make a lobbying contact. Registered lobbyists must file quarterly reports detailing their clients, the issues they lobbied on, the agencies they contacted, and their income or expenses.
+        </p>
+        <p className="text-gray-700 mb-3">
+          However, the LDA has significant gaps. Grassroots lobbying, strategic consulting, and public affairs campaigns that don&apos;t involve direct contact with officials often go unreported. Many observers estimate that the true cost of influence in Washington is two to three times what appears in official filings.
+        </p>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Common Lobbying Tactics</h2>
+        <p className="text-gray-700 mb-3">
+          Lobbyists employ a range of strategies to influence policy outcomes. Direct lobbying involves meeting with legislators and their staff to present arguments, data, and proposed legislative language. Many lobbyists draft bill text or amendments that lawmakers introduce with minimal changes.
+        </p>
+        <p className="text-gray-700 mb-3">
+          Coalition building brings together diverse organizations around shared policy goals, amplifying their collective influence. Industry trade associations like the Chamber of Commerce and PhRMA coordinate lobbying efforts across their membership, pooling resources for maximum impact.
+        </p>
+        <p className="text-gray-700 mb-3">
+          Grassroots lobbying mobilizes constituents to contact their representatives, creating the appearance of organic public support for policy positions. In the digital age, these campaigns can generate millions of emails, calls, and social media posts within days.
+        </p>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Why Lobbying Transparency Matters</h2>
+        <p className="text-gray-700 mb-3">
+          Understanding who is spending money to influence government decisions is essential for democratic accountability. When pharmaceutical companies spend hundreds of millions lobbying against drug pricing reforms, or when tech giants invest heavily to shape AI regulation, citizens deserve to know.
+        </p>
+        <p className="text-gray-700 mb-3">
+          OpenLobby exists to make this information accessible. We aggregate data from Senate Office of Public Records filings, clean and normalize it, and present it in ways that reveal patterns invisible in raw data. Whether you&apos;re a journalist investigating corporate influence, a researcher studying policy outcomes, or a citizen tracking what your government is doing, our tools help you follow the money.
+        </p>
+        <p className="text-gray-700 mb-3">
+          Explore our <Link href="/investigations" className="text-indigo-600 hover:text-indigo-800 font-semibold">investigations</Link> for data-driven deep dives, or use our <Link href="/tools" className="text-indigo-600 hover:text-indigo-800 font-semibold">interactive tools</Link> to explore the data yourself.
+        </p>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Types of Lobbyists</h2>
+        <p className="text-gray-700 mb-3">
+          Not all lobbyists are created equal. The lobbying industry includes several distinct categories, each with different roles and levels of influence.
+        </p>
+        <div className="space-y-4 mb-4">
+          <div className="bg-gray-50 p-4 rounded-lg border border-gray-100">
+            <h3 className="font-bold text-gray-800 mb-1">In-House Lobbyists</h3>
+            <p className="text-gray-600 text-sm">Employees of corporations, trade associations, or nonprofits who lobby on behalf of their employer. Major companies like Amazon, Google, and Pfizer employ dozens of in-house lobbyists. Their spending appears under the company name in LDA filings.</p>
+          </div>
+          <div className="bg-gray-50 p-4 rounded-lg border border-gray-100">
+            <h3 className="font-bold text-gray-800 mb-1">Contract Lobbyists</h3>
+            <p className="text-gray-600 text-sm">Hired guns at lobbying firms like Akin Gump, Brownstein Hyatt, or Squire Patton Boggs. Clients pay these firms to represent their interests. A single firm may represent dozens of clients across different industries.</p>
+          </div>
+          <div className="bg-gray-50 p-4 rounded-lg border border-gray-100">
+            <h3 className="font-bold text-gray-800 mb-1">Revolving Door Lobbyists</h3>
+            <p className="text-gray-600 text-sm">Former government officials who leverage their insider knowledge and connections. Ex-members of Congress, former agency heads, and senior congressional staff command premium rates. See our <Link href="/revolving-door" className="text-indigo-600 hover:text-indigo-800">revolving door tracker</Link>.</p>
+          </div>
+          <div className="bg-gray-50 p-4 rounded-lg border border-gray-100">
+            <h3 className="font-bold text-gray-800 mb-1">Foreign Agents</h3>
+            <p className="text-gray-600 text-sm">Individuals or firms representing foreign governments, political parties, or entities. They must register under the Foreign Agents Registration Act (FARA), which has stricter disclosure requirements than the LDA. Track foreign lobbying on our <Link href="/foreign" className="text-indigo-600 hover:text-indigo-800">foreign influence page</Link>.</p>
+          </div>
+        </div>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Lobbying by the Numbers: 2025 Snapshot</h2>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-4">
+          {[
+            { value: '$5.08B', label: 'Total 2025 spending' },
+            { value: '12,800+', label: 'Active lobbyists' },
+            { value: '726K+', label: 'Filings in database' },
+            { value: '79', label: 'Issue categories' },
+          ].map(stat => (
+            <div key={stat.label} className="bg-indigo-50 rounded-xl p-4 text-center">
+              <div className="text-2xl font-black text-indigo-800" style={{ fontFamily: 'var(--font-serif)' }}>{stat.value}</div>
+              <div className="text-xs text-gray-600 mt-1">{stat.label}</div>
+            </div>
+          ))}
+        </div>
+        <p className="text-gray-700 mb-3">
+          These numbers only tell part of the story. Lobbying disclosure requirements have significant gaps — grassroots campaigns, strategic consulting, and public affairs efforts that don&apos;t involve direct official contact often go unreported. Many experts estimate the true cost of influence is two to three times what appears in official filings.
+        </p>
+        <p className="text-gray-700">
+          Dive deeper into the data on our <Link href="/lobbying-statistics-2025" className="text-indigo-600 hover:text-indigo-800 font-semibold">2025 statistics page</Link> or explore <Link href="/lobbying-statistics-2026" className="text-indigo-600 hover:text-indigo-800 font-semibold">early 2026 trends</Link>.
+        </p>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The History of Lobbying Regulation</h2>
+        <p className="text-gray-700 mb-3">
+          Lobbying regulation in the United States has evolved significantly over the past century. The Federal Regulation of Lobbying Act of 1946 was the first federal law requiring lobbyist registration, but it was widely criticized for weak enforcement and narrow definitions.
+        </p>
+        <p className="text-gray-700 mb-3">
+          The Lobbying Disclosure Act of 1995 (LDA) replaced the 1946 law with broader coverage and clearer reporting requirements. It defined &quot;lobbyist&quot; as anyone who spends at least 20% of their time on lobbying activities for a client and makes at least two lobbying contacts.
+        </p>
+        <p className="text-gray-700 mb-3">
+          The Honest Leadership and Open Government Act of 2007 (HLOGA) strengthened the LDA following the Jack Abramoff scandal. It increased filing frequency from semi-annual to quarterly, enhanced penalties for non-compliance, and added disclosure requirements for campaign contributions by lobbyists.
+        </p>
+        <p className="text-gray-700 mb-3">
+          Despite these reforms, significant gaps remain. The 20% time threshold means many influence professionals avoid registration. &quot;Shadow lobbying&quot; — where former officials advise on strategy without making direct contacts — has become increasingly common as a way to operate outside disclosure requirements.
+        </p>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Lobbying vs. Campaign Contributions</h2>
+        <p className="text-gray-700 mb-3">
+          Lobbying and campaign contributions are often conflated but are legally distinct activities. Lobbying involves direct advocacy to government officials on specific policy issues. Campaign contributions are financial donations to candidates, parties, or political action committees (PACs).
+        </p>
+        <p className="text-gray-700 mb-3">
+          However, the two are deeply intertwined. Many lobbying clients also make significant campaign contributions, and bundling — where lobbyists aggregate donations from multiple sources — amplifies their influence. Our <Link href="/investigations/follow-the-money" className="text-indigo-600 hover:text-indigo-800 font-semibold">Follow the Money investigation</Link> traces these connections.
+        </p>
+        <p className="text-gray-700 mb-3">
+          Explore how lobbying spending correlates with government contracts and regulatory outcomes in our <Link href="/lobbying-vs-contracts" className="text-indigo-600 hover:text-indigo-800 font-semibold">lobbying vs. contracts analysis</Link> and <Link href="/lobbying-roi" className="text-indigo-600 hover:text-indigo-800 font-semibold">lobbying ROI calculator</Link>.
+        </p>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>How to Use OpenLobby</h2>
+        <p className="text-gray-700 mb-3">
+          OpenLobby provides several ways to explore lobbying data:
+        </p>
+        <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
+          <li><strong>Search:</strong> Find any client, firm, lobbyist, or issue using our <Link href="/search" className="text-indigo-600 hover:text-indigo-800">search tool</Link></li>
+          <li><strong>Compare:</strong> Compare lobbying spending across industries with our <Link href="/tools/industry-compare" className="text-indigo-600 hover:text-indigo-800">industry comparison tool</Link></li>
+          <li><strong>Track your rep:</strong> See who&apos;s lobbying your elected officials with <Link href="/tools/your-rep" className="text-indigo-600 hover:text-indigo-800">Your Rep</Link></li>
+          <li><strong>Download:</strong> Access raw datasets for your own analysis via our <Link href="/downloads" className="text-indigo-600 hover:text-indigo-800">downloads page</Link></li>
+          <li><strong>Investigate:</strong> Read our <Link href="/investigations" className="text-indigo-600 hover:text-indigo-800">30+ data-driven investigations</Link></li>
+        </ul>
+        <p className="text-gray-700 mb-3">
+          All of our data is free and open. We believe that lobbying transparency is essential for a functioning democracy, and that citizens should be able to see who is spending money to influence their government without paywalls or barriers.
+        </p>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The Future of Lobbying</h2>
+        <p className="text-gray-700 mb-3">
+          The lobbying industry is evolving rapidly. AI-powered advocacy tools, social media influence campaigns, and cryptocurrency-funded political action committees are reshaping how interests are represented in Washington. At the same time, calls for reform — including expanded disclosure requirements, longer cooling-off periods for the revolving door, and restrictions on foreign lobbying — continue to gain momentum.
+        </p>
+        <p className="text-gray-700 mb-3">
+          As lobbying grows more sophisticated and more expensive, transparency becomes more important than ever. Understanding who is spending money, on what issues, and through which channels is the first step toward holding government accountable.
+        </p>
+        <p className="text-gray-700">
+          Stay informed with our latest <Link href="/investigations" className="text-indigo-600 hover:text-indigo-800 font-semibold">investigations</Link> and follow spending trends on our <Link href="/trends" className="text-indigo-600 hover:text-indigo-800 font-semibold">trends dashboard</Link>.
+        </p>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Frequently Cited Lobbying Myths</h2>
+        <div className="space-y-3 mb-4">
+          <div className="border-l-4 border-red-300 pl-4">
+            <p className="font-bold text-gray-800">Myth: Lobbying is bribery</p>
+            <p className="text-gray-600 text-sm">Lobbying involves advocacy and persuasion, not direct payments for votes. Bribery is a federal crime. However, critics argue that the combination of lobbying access and campaign contributions creates a system that functions similarly in practice.</p>
+          </div>
+          <div className="border-l-4 border-red-300 pl-4">
+            <p className="font-bold text-gray-800">Myth: Only corporations lobby</p>
+            <p className="text-gray-600 text-sm">While corporations and trade associations account for the majority of spending, nonprofits, universities, state and local governments, unions, and advocacy groups also lobby extensively. The AARP, for example, consistently ranks among the top 20 lobbying spenders.</p>
+          </div>
+          <div className="border-l-4 border-red-300 pl-4">
+            <p className="font-bold text-gray-800">Myth: Lobbying always produces results</p>
+            <p className="text-gray-600 text-sm">Many lobbying campaigns fail to achieve their objectives. Policy outcomes depend on public opinion, media coverage, competing interests, and political dynamics that no amount of lobbying spending can fully control.</p>
+          </div>
+          <div className="border-l-4 border-red-300 pl-4">
+            <p className="font-bold text-gray-800">Myth: All lobbying is disclosed</p>
+            <p className="text-gray-600 text-sm">The LDA&apos;s 20% time threshold means many influence professionals operate without registering. &quot;Shadow lobbying&quot; by former officials who advise on strategy without making direct contacts is a growing concern.</p>
+          </div>
+        </div>
+      </section>
+
+      <section className="mt-10 border-t pt-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Notes</h2>
+        <p className="text-gray-600 mb-3">
+          All data on OpenLobby is sourced from Senate Office of Public Records lobbying disclosure filings under the Lobbying Disclosure Act of 1995. For our full methodology, see our <Link href="/methodology" className="text-indigo-600 hover:text-indigo-800 font-semibold">methodology page</Link>.
+        </p>
+      </section>
+
       <section className="mt-10 mb-8 not-prose">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Data</h2>
         <div className="grid md:grid-cols-3 gap-3">

@@ -144,8 +144,75 @@ export default function TechLobbyingPage() {
         </Link>
       </div>
 
+      <div className="prose prose-lg max-w-none">
+        <h2 className="text-2xl font-bold mt-12 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The Evolution of Big Tech's DC Strategy</h2>
+        <p>Silicon Valley's relationship with Washington has undergone a dramatic transformation. In the early 2000s, tech companies famously avoided DC, viewing government as slow, bureaucratic, and irrelevant to innovation. Google didn't open a DC office until 2005. Facebook's first Washington lobbyist wasn't hired until 2009.</p>
+        <p>This hands-off approach ended abruptly when tech companies realized that government could dramatically impact their business models. Privacy regulations threatened advertising revenue. Antitrust enforcement threatened business acquisitions and platform power. Content moderation became a political battlefield. And suddenly, not lobbying was riskier than lobbying.</p>
+        <p>Today, every major tech company maintains extensive Washington operations with dozens of lobbyists, dedicated government relations teams, and close ties to both parties. The transformation is complete: Big Tech now lobbies like Big Oil, Big Pharma, and Big Defense have for decades.</p>
+
+        <h2 className="text-2xl font-bold mt-12 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Tech's Lobbying Tactics</h2>
+        <p>Tech companies employ several distinctive lobbying strategies:</p>
+        <ul>
+          <li><strong>Technical expertise positioning:</strong> Tech lobbyists emphasize their role as educators, offering to explain complex technology to lawmakers and their staff</li>
+          <li><strong>Innovation framing:</strong> Positioning regulation as a threat to American innovation and competitiveness with China</li>
+          <li><strong>Coalition fragmentation:</strong> Preventing unified tech regulation by highlighting differences between platforms, hardware makers, and service providers</li>
+          <li><strong>State preemption:</strong> Lobbying for federal legislation to preempt stricter state laws (particularly California's privacy rules)</li>
+          <li><strong>Academic partnerships:</strong> Funding university research centers and think tanks that produce friendly policy recommendations</li>
+        </ul>
+
+        <h2 className="text-2xl font-bold mt-12 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Crypto and Fintech: Tech&apos;s Lobbying Allies</h2>
+        <p>The cryptocurrency industry has emerged as a powerful new lobbying force closely aligned with Big Tech interests. Companies like Coinbase, Ripple, and the Blockchain Association have ramped from near-zero lobbying presence to millions in annual spending since 2021. Their primary issues — SEC oversight, stablecoin regulation, and digital asset classification — overlap with Big Tech&apos;s broader fight against regulatory expansion.</p>
+        <p>Fintech companies like Stripe, Square (Block), and PayPal also contribute to the tech lobbying ecosystem, pushing for modernized payment regulations and opposing traditional banking-style compliance requirements.</p>
+
+        <h2 className="text-2xl font-bold mt-12 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The State-Level Dimension</h2>
+        <p>While federal lobbying captures the most attention, tech companies are simultaneously fighting regulatory battles at the state level. California&apos;s AI transparency laws, Texas and Florida&apos;s content moderation requirements, and multiple state privacy laws (following the CCPA model) have created a patchwork of regulations that tech companies are lobbying both to shape and, in some cases, to preempt with federal legislation.</p>
+        <p>This dual-front strategy means that total tech influence spending is significantly higher than federal lobbying disclosures alone suggest. See our <Link href="/geographic" className="text-indigo-600 hover:text-indigo-800 font-semibold">geographic analysis</Link> for state-by-state lobbying patterns.</p>
+
+        <h2 className="text-2xl font-bold mt-12 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Tech Lobbying vs. Campaign Contributions</h2>
+        <p>Lobbying is just one channel of tech industry influence. Big Tech companies and their executives are also major political donors. While campaign contributions and lobbying serve different purposes — contributions build relationships; lobbying delivers specific policy asks — they work synergistically. A member of Congress who received significant campaign support from a tech company is more likely to take a meeting with that company&apos;s lobbyist.</p>
+        <p>Our sister site <a href="https://www.election-money.thedataproject.ai" className="text-indigo-600 hover:text-indigo-800">Election Money Explorer</a> tracks campaign finance data that complements the lobbying data shown here.</p>
+      </div>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "How much do Big Tech companies spend on lobbying?", acceptedAnswer: { "@type": "Answer", text: "The five largest tech companies — Amazon, Meta, Alphabet (Google), Apple, and Microsoft — collectively spend over $70 million per year on federal lobbying. Amazon leads at $20M+/year, followed by Meta at $19M+/year." } },
+          { "@type": "Question", name: "What do tech companies lobby for?", acceptedAnswer: { "@type": "Answer", text: "Tech companies lobby on antitrust enforcement, AI regulation, data privacy legislation, Section 230 content moderation protections, defense contracts (cloud computing), H-1B immigration visas, corporate taxation, trade policy and data localization rules, and more." } },
+          { "@type": "Question", name: "How fast is tech lobbying growing?", acceptedAnswer: { "@type": "Answer", text: "Technology lobbying is growing at approximately 15% annually — the fastest of any sector. Big Tech lobbying spending has more than quadrupled since 2015, with over 500 registered tech lobbyists now operating in Washington." } },
+          { "@type": "Question", name: "Why did tech lobbying increase so much?", acceptedAnswer: { "@type": "Answer", text: "Several converging forces drove the increase: DOJ/FTC antitrust investigations, proposed privacy legislation, the rush to shape AI regulation, threats to Section 230 content moderation protections, and competition for multi-billion-dollar defense cloud contracts." } },
+        ]
+      }) }} />
+
       <div className="mt-12">
-        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Dive Deeper</h2>
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>AI Regulation: The Defining Battle of 2026</h2>
+        <p className="text-gray-700 leading-relaxed mb-4">AI-related lobbying has surged over 400% since 2022, making it the fastest-growing lobbying subcategory in the technology sector. Every major tech company — from Google and Microsoft to OpenAI and Anthropic — has dramatically expanded its Washington presence to shape the regulatory framework for artificial intelligence. The debate centers on whether to pursue comprehensive federal AI legislation or continue with the current patchwork of executive orders and agency guidance.</p>
+        <p className="text-gray-700 leading-relaxed mb-4">What makes AI lobbying unique is the breadth of industries involved. It&apos;s not just tech companies — healthcare firms, financial institutions, defense contractors, and automakers are all lobbying on AI policy because the technology touches every sector. Track AI-related filings on our <Link href="/issues/CPT" className="text-indigo-600 hover:underline">technology issues page</Link>.</p>
+
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Crypto and Fintech: A New Lobbying Powerhouse</h2>
+        <p className="text-gray-700 leading-relaxed mb-4">The cryptocurrency industry went from near-zero lobbying presence in 2018 to spending over $80 million annually by 2025. Coinbase, Ripple, the Blockchain Association, and a16z Crypto have built sophisticated Washington operations. The passage of stablecoin legislation and ongoing SEC regulatory battles have driven this <Link href="/investigations/crypto-lobbying-explosion" className="text-indigo-600 hover:underline">crypto lobbying explosion</Link>.</p>
+
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Tech Lobbying by the Numbers</h2>
+        <p className="text-gray-700 leading-relaxed mb-4">The technology sector&apos;s lobbying footprint in 2026:</p>
+        <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+          <li><strong>$800M+</strong> annual lobbying spending across all tech subcategories</li>
+          <li><strong>2,500+</strong> registered lobbyists working on tech issues</li>
+          <li><strong>Top spenders:</strong> Amazon, Meta, Google, Apple, Microsoft — each spending $15-25M annually</li>
+          <li><strong>Fastest growth:</strong> AI policy, data privacy, and cryptocurrency regulation</li>
+          <li><strong>Key committees:</strong> Senate Commerce, House Energy &amp; Commerce, Senate Judiciary</li>
+        </ul>
+
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "How much does Big Tech spend on lobbying?", acceptedAnswer: { "@type": "Answer", text: "The top five tech companies — Amazon, Meta, Google, Apple, and Microsoft — collectively spend over $80 million per year on federal lobbying. The broader technology sector, including telecom and internet companies, exceeds $800 million annually." } },
+            { "@type": "Question", name: "What tech issues generate the most lobbying?", acceptedAnswer: { "@type": "Answer", text: "AI regulation, data privacy, antitrust enforcement, cryptocurrency regulation, and content moderation (Section 230) are the top tech lobbying issues in 2026. AI has seen the fastest growth, with lobbying spending up 400%+ since 2022." } },
+            { "@type": "Question", name: "Is crypto lobbying effective?", acceptedAnswer: { "@type": "Answer", text: "The crypto industry's lobbying has shown measurable results. Stablecoin legislation has advanced through Congress, and several proposed regulatory frameworks have been softened after industry engagement. The sector went from near-zero presence to $80M+ in annual spending in just five years." } },
+          ]
+        }) }} />
+
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Dive Deeper</h2>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
           <Link href="/investigations/ai-regulation-fight" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">🤖 The AI Regulation Fight</div>
@@ -172,6 +239,70 @@ export default function TechLobbyingPage() {
             <div className="text-xs text-gray-500 mt-1">The complete guide</div>
           </Link>
         </div>
+      </div>
+
+      <section className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The Antitrust Lobbying Battle</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Big Tech&apos;s most expensive lobbying battle centers on antitrust enforcement. Google, Apple, Amazon, and Meta have collectively spent hundreds of millions lobbying against proposed legislation that would restrict self-preferencing, mandate interoperability, or break up integrated platforms. The American Innovation and Choice Online Act and similar bills have generated intense lobbying on both sides — with smaller tech companies and competitors lobbying <em>for</em> antitrust action.</p>
+          <p>This battle illustrates a key dynamic in tech lobbying: the industry is not monolithic. Big Tech incumbents and smaller challengers often lobby on opposite sides of the same issue. Track these dynamics on our <Link href="/issue-battles" className="text-indigo-600 hover:underline">issue battles page</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Privacy: The Next Frontier</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Federal data privacy legislation remains one of the most lobbied tech issues. With no comprehensive federal privacy law, the patchwork of state laws (led by California&apos;s CCPA/CPRA) creates compliance headaches that make industry <em>supportive</em> of federal legislation — as long as it preempts stricter state laws. Consumer advocacy groups lobby for the opposite: a federal floor, not a ceiling.</p>
+          <p>The advertising and data broker industries are particularly active on privacy lobbying, as their business models depend on data collection practices that proposed legislation could curtail. Explore the full landscape on our <Link href="/trends" className="text-indigo-600 hover:underline">spending trends page</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Section 230 and Content Moderation</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Section 230 of the Communications Decency Act — which shields platforms from liability for user-generated content — remains one of the most lobbied provisions in U.S. law. Social media companies lobby to preserve it, while publishers, child safety advocates, and some lawmakers push for reform or repeal. The debate has intensified as AI-generated content blurs the line between platform curation and editorial decision-making.</p>
+          <p>Track all technology-related lobbying on our <Link href="/issues/CPT" className="text-indigo-600 hover:underline">technology issues page</Link> or compare tech spending to other sectors on the <Link href="/tools/industry-compare" className="text-indigo-600 hover:underline">industry comparison tool</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Tech Lobbying Data</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/search" className="px-4 py-2 bg-indigo-600 text-white rounded-lg text-sm font-medium hover:bg-indigo-700 transition-colors">🔍 Search Tech Filings</Link>
+          <Link href="/downloads" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📥 Download Datasets</Link>
+          <Link href="/investigations/lobbying-statistics" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📊 Full Statistics</Link>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Telecom: The Original Tech Lobby</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Before Big Tech dominated headlines, telecommunications companies were the technology sector&apos;s biggest lobbying force. AT&amp;T, Comcast, Verizon, and T-Mobile continue to spend heavily on spectrum policy, net neutrality, broadband subsidies, and merger approvals. Telecom lobbying predates the modern tech sector and provides important context for understanding how technology companies approach Washington.</p>
+          <p>Today, the lines between tech and telecom are blurring. Cloud providers compete with cable companies for enterprise connectivity. Streaming services challenge traditional broadcast models. And 5G/6G spectrum allocation affects both sectors. These converging interests mean that &quot;tech lobbying&quot; is broader than Silicon Valley alone. Explore the full landscape on our <Link href="/industries" className="text-indigo-600 hover:underline">industry breakdown page</Link>.</p>
+        </div>
+      </section>
+    {/* Data Notes */}
+      <div className="mt-12 border-t pt-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Notes &amp; Methodology</h2>
+        <p className="text-gray-600 mb-3">
+          All data on this page is sourced from Senate Office of Public Records lobbying disclosure filings
+          under the Lobbying Disclosure Act of 1995. Figures reflect reported spending as filed and may be
+          subject to amendment. Quarterly totals are annualized where noted.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Industry classifications follow the Center for Responsive Politics methodology. Where companies
+          operate across multiple sectors, spending is attributed to the primary business classification.
+          Foreign entity designations follow FARA and LDA Section 4 definitions.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Year-over-year comparisons use inflation-adjusted figures (2026 dollars) unless otherwise noted.
+          Historical data extends back to 1998 when electronic filing became mandatory.
+        </p>
+        <p className="text-gray-600">
+          For questions about our data or methodology, see our{' '}
+          <a href="/methodology" className="text-blue-600 hover:underline">full methodology page</a> or{' '}
+          <a href="/about" className="text-blue-600 hover:underline">contact us</a>.
+        </p>
       </div>
     </article>
   )

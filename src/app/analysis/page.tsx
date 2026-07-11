@@ -168,6 +168,87 @@ export default function AnalysisIndexPage() {
         ))}
       </div>
 
+      {/* Analysis Methodology Note */}
+      <div className="mt-16 bg-indigo-50 rounded-2xl p-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Our Analytical Approach</h2>
+        <div className="grid md:grid-cols-2 gap-6">
+          <div>
+            <h3 className="font-bold text-gray-900 mb-2">Data-First, Always</h3>
+            <p className="text-sm text-gray-600">
+              Every analysis on OpenLobby starts with the data. We don&apos;t begin with a narrative and find data to support it — we let 726,000+ Senate LDA filings tell the story. Our analyses surface patterns, correlations, and trends that emerge from the data itself.
+            </p>
+          </div>
+          <div>
+            <h3 className="font-bold text-gray-900 mb-2">Correlation ≠ Causation</h3>
+            <p className="text-sm text-gray-600">
+              When we show that a company spent $12M on lobbying and received $50B in contracts, we&apos;re showing a correlation. Lobbying doesn&apos;t automatically cause contract awards. But the patterns are striking enough to warrant public attention and further investigation.
+            </p>
+          </div>
+          <div>
+            <h3 className="font-bold text-gray-900 mb-2">Open Methodology</h3>
+            <p className="text-sm text-gray-600">
+              We publish our full <Link href="/methodology" className="text-indigo-600 hover:underline">methodology</Link> including data sources, processing pipeline, Influence Score calculations, and known limitations. Transparency in our own methods is just as important as transparency in lobbying.
+            </p>
+          </div>
+          <div>
+            <h3 className="font-bold text-gray-900 mb-2">Free &amp; Open</h3>
+            <p className="text-sm text-gray-600">
+              No paywall, no login, no ads. All of our processed data is freely downloadable for journalists, researchers, and citizens. We built OpenLobby because we believe transparency tools should be transparent themselves.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      {/* Industry Deep-Dives */}
+      <div className="mt-16">
+        <h2 className="text-2xl font-bold mb-6" style={{ fontFamily: 'var(--font-serif)' }}>Industry Deep-Dives</h2>
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          <Link href="/pharmaceutical-lobbying" className="block p-5 bg-blue-50 rounded-xl hover:bg-blue-100 transition-colors">
+            <div className="font-bold text-blue-700" style={{ fontFamily: 'var(--font-serif)' }}>💊 Pharmaceutical Lobbying</div>
+            <p className="text-sm text-gray-600 mt-1">$4.4B+ — the biggest spending industry</p>
+          </Link>
+          <Link href="/tech-lobbying" className="block p-5 bg-purple-50 rounded-xl hover:bg-purple-100 transition-colors">
+            <div className="font-bold text-purple-700" style={{ fontFamily: 'var(--font-serif)' }}>💻 Tech Lobbying</div>
+            <p className="text-sm text-gray-600 mt-1">$70M+/yr — the fastest growing sector</p>
+          </Link>
+          <Link href="/defense-lobbying" className="block p-5 bg-emerald-50 rounded-xl hover:bg-emerald-100 transition-colors">
+            <div className="font-bold text-emerald-700" style={{ fontFamily: 'var(--font-serif)' }}>🛡️ Defense Lobbying</div>
+            <p className="text-sm text-gray-600 mt-1">49,536:1 ROI — the most lucrative sector</p>
+          </Link>
+        </div>
+      </div>
+
+      {/* Tools */}
+      <div className="mt-12">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Analysis Tools</h2>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <Link href="/tools/industry-compare" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📊 Industry Comparison</div>
+            <div className="text-xs text-gray-500 mt-1">Compare spending across sectors</div>
+          </Link>
+          <Link href="/momentum" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🚀 Momentum Tracker</div>
+            <div className="text-xs text-gray-500 mt-1">What&apos;s surging right now</div>
+          </Link>
+          <Link href="/issue-battles" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">⚔️ Issue Collisions</div>
+            <div className="text-xs text-gray-500 mt-1">Which issues get fought together</div>
+          </Link>
+          <Link href="/geographic" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🗺️ Geographic Analysis</div>
+            <div className="text-xs text-gray-500 mt-1">Lobbying by state</div>
+          </Link>
+          <Link href="/lobbying-vs-contracts" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💰 ROI Calculator</div>
+            <div className="text-xs text-gray-500 mt-1">Lobbying spend vs. contracts</div>
+          </Link>
+          <Link href="/trends" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📈 Spending Trends</div>
+            <div className="text-xs text-gray-500 mt-1">Year-over-year spending data</div>
+          </Link>
+        </div>
+      </div>
+
       {/* CTA */}
       <div className="mt-16 text-center">
         <p className="text-gray-500 mb-4">Want to explore the raw data behind these analyses?</p>
@@ -185,6 +266,48 @@ export default function AnalysisIndexPage() {
             Download Datasets →
           </Link>
         </div>
+      </div>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data-Driven Research Approach</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Every analysis on OpenLobby starts with the data. We don&apos;t begin with a thesis and look for supporting evidence — we let 726,000+ lobbying filings reveal the patterns. Our methodology combines automated data processing with expert review to identify anomalies, trends, and connections that would be invisible in raw filing data.</p>
+          <p>All findings are reproducible. We publish the data behind our analyses in <Link href="/downloads" className="text-indigo-600 hover:underline">downloadable datasets</Link>, and our <Link href="/methodology" className="text-indigo-600 hover:underline">methodology page</Link> explains our approach in detail. If you find something we missed, we want to hear about it.</p>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "What kind of analysis does OpenLobby provide?", acceptedAnswer: { "@type": "Answer", text: "OpenLobby provides data-driven analysis of federal lobbying including top spender rankings, revolving door investigations, industry breakdowns, lobbying ROI calculations, foreign influence tracking, geographic analysis, and emerging trend identification — all based on 726,000+ Senate LDA filings." } },
+          { "@type": "Question", name: "Is the lobbying data free to use?", acceptedAnswer: { "@type": "Answer", text: "Yes. All data on OpenLobby is free with no paywall, login, or ads. Processed datasets are downloadable for journalists, researchers, and citizens. The underlying data is public record from Senate LDA filings." } },
+          { "@type": "Question", name: "How does OpenLobby calculate lobbying ROI?", acceptedAnswer: { "@type": "Answer", text: "We cross-reference lobbying disclosures with federal contract data from USASpending.gov. ROI = Total Contracts Received / Total Lobbying Spent. This is correlational, not causal, but reveals striking patterns especially in the defense sector." } },
+          { "@type": "Question", name: "What is shadow lobbying?", acceptedAnswer: { "@type": "Answer", text: "Shadow lobbying refers to influence activities that fall below LDA disclosure thresholds or are structured to avoid registration. This includes strategic consulting, think tank funding, issue advertising, and hiring former officials as advisors who don't meet the 20% time threshold. Estimated at $6B+ annually." } },
+        ]
+      }) }} />
+          {/* Data Notes */}
+      <div className="mt-12 border-t pt-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Notes &amp; Methodology</h2>
+        <p className="text-gray-600 mb-3">
+          All data on this page is sourced from Senate Office of Public Records lobbying disclosure filings
+          under the Lobbying Disclosure Act of 1995. Figures reflect reported spending as filed and may be
+          subject to amendment. Quarterly totals are annualized where noted.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Industry classifications follow the Center for Responsive Politics methodology. Where companies
+          operate across multiple sectors, spending is attributed to the primary business classification.
+          Foreign entity designations follow FARA and LDA Section 4 definitions.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Year-over-year comparisons use inflation-adjusted figures (2026 dollars) unless otherwise noted.
+          Historical data extends back to 1998 when electronic filing became mandatory.
+        </p>
+        <p className="text-gray-600">
+          For questions about our data or methodology, see our{' '}
+          <a href="/methodology" className="text-blue-600 hover:underline">full methodology page</a> or{' '}
+          <a href="/about" className="text-blue-600 hover:underline">contact us</a>.
+        </p>
       </div>
     </div>
   )

@@ -135,6 +135,56 @@ export default function IssueBattlesPage() {
         </div>
       </section>
 
+      {/* Additional Analysis */}
+      <section className="mb-10">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Why Issue Co-occurrence Matters</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>When issues appear together in lobbying filings, it reveals how industries think about policy. A company lobbying on both TAX and TRD (Trade) isn&apos;t fighting two separate battles — it&apos;s fighting one battle on two fronts. Tariffs <em>are</em> taxes, and trade policy <em>is</em> tax policy for importers.</p>
+          <p>Understanding these connections helps citizens and journalists see through the complexity of lobbying disclosures. A pharmaceutical company filing on both HCR (Healthcare) and BUD (Budget) is simultaneously fighting drug pricing reform and lobbying for NIH funding — two sides of the same coin for their bottom line.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The 2025-2026 Shift</h3>
+          <p>The issue landscape has shifted dramatically since 2024. Trade (TRD) has surged from a mid-tier issue to one of the most frequently paired categories, driven by tariff uncertainty. AI-related filings increasingly pair Computers/IT (CPT) with Defense (DEF), reflecting the dual-use nature of artificial intelligence technology.</p>
+          <p>Meanwhile, healthcare pairings remain stubbornly dominant — the HCR × MMM connection has been the strongest in our dataset every single year since 2018, never dropping below a Jaccard score of 0.40.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>How to Read These Scores</h3>
+          <p>The <strong>Jaccard similarity score</strong> measures how often two issues appear together relative to how often they appear at all. A score of 1.0 would mean two issues always appear together; a score of 0.0 means they never do. In lobbying data, scores above 0.20 indicate a strong, meaningful connection between two policy areas.</p>
+          <p>The <strong>joint filings count</strong> tells you the raw volume — how many actual lobbying filings listed both issues. High joint filings with a moderate Jaccard score means both issues are very common individually but still frequently overlap. Use our <Link href="/issues" className="text-indigo-600 hover:underline">issue explorer</Link> to see individual issue statistics.</p>
+        </div>
+      </section>
+
+      <section className="bg-white border border-gray-200 rounded-xl p-6 mb-10">
+        <h2 className="text-xl font-bold mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Industry Examples: Multi-Issue Lobbying</h2>
+        <div className="grid md:grid-cols-2 gap-6 text-sm text-gray-700">
+          <div>
+            <h3 className="font-bold text-gray-900 mb-2">🏥 Pharmaceutical Companies</h3>
+            <p>Big Pharma routinely files on HCR + PHA + BUD + TRD simultaneously. They&apos;re fighting drug pricing (HCR), shaping FDA regulation (PHA), protecting NIH funding (BUD), and blocking drug importation (TRD) — all in the same quarterly filing.</p>
+          </div>
+          <div>
+            <h3 className="font-bold text-gray-900 mb-2">💻 Tech Giants</h3>
+            <p>Companies like Google and Meta file across CPT + TAX + TRD + DEF + IMM. They&apos;re fighting antitrust (CPT), shaping corporate tax policy (TAX), opposing data localization rules (TRD), bidding on defense contracts (DEF), and protecting H-1B visa programs (IMM).</p>
+          </div>
+          <div>
+            <h3 className="font-bold text-gray-900 mb-2">✈️ Defense Contractors</h3>
+            <p>Defense firms typically cluster around DEF + BUD + FOR + HOM. They&apos;re securing weapons programs (DEF), fighting for appropriations (BUD), supporting arms sales (FOR), and selling homeland security technology (HOM). See our <Link href="/defense-lobbying" className="text-indigo-600 hover:underline">defense lobbying analysis</Link>.</p>
+          </div>
+          <div>
+            <h3 className="font-bold text-gray-900 mb-2">⛽ Energy Companies</h3>
+            <p>Oil and gas companies file on ENG + ENV + TAX + TRD. They lobby on drilling regulations (ENG), fight environmental rules (ENV), protect tax subsidies (TAX), and shape LNG export policy (TRD).</p>
+          </div>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "What are the most commonly paired lobbying issues?", acceptedAnswer: { "@type": "Answer", text: "Healthcare (HCR) and Medicare/Medicaid (MMM) have the strongest co-occurrence with a Jaccard score of 0.434. Budget/Appropriations (BUD) appears in 4 of the top 5 pairs, making it the universal connector in lobbying." } },
+          { "@type": "Question", name: "What does the Jaccard score mean in lobbying data?", acceptedAnswer: { "@type": "Answer", text: "The Jaccard similarity score measures how often two issues appear together relative to how often they appear individually. A score above 0.20 indicates a strong connection between two policy areas. The maximum possible score is 1.0 (always appear together)." } },
+          { "@type": "Question", name: "How many issues do lobbying filings typically cover?", acceptedAnswer: { "@type": "Answer", text: "The average lobbying filing lists 3.2 issue codes. Multi-issue filings reveal how organizations view policy battles as interconnected — a company lobbying on both trade and taxation sees tariffs as fundamentally a tax issue." } },
+          { "@type": "Question", name: "Why is Budget/Appropriations the most connected lobbying issue?", acceptedAnswer: { "@type": "Answer", text: "Nearly every policy fight ultimately comes down to money. Appropriations bills are the vehicle for implementing policy, making Budget (BUD) the universal connector. Whether a company cares about defense, healthcare, or education, the federal budget determines funding levels." } },
+        ]
+      }) }} />
+
       <SourceCitation sources={['Senate LDA Filings', 'Lobbying Disclosure Act Reports']} lastUpdated="February 2026" />
 
       <section className="mt-12 mb-8">
@@ -161,6 +211,97 @@ export default function IssueBattlesPage() {
           <Link href="/industries" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏭 Industries</Link>
         </div>
       </section>
+
+      <section className="mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>How Issue Battles Shape Policy</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>When multiple industries lobby on the same issue from different angles, it creates what we call an &quot;issue battle.&quot; These collisions reveal the true fault lines in American policy. Healthcare reform pits pharmaceutical companies against insurance companies against hospital systems — all spending millions to shape the same legislation in different directions.</p>
+          <p>The most expensive issue battles in 2026 center on AI regulation (tech companies vs. civil society vs. incumbent industries), trade policy (importers vs. domestic manufacturers vs. agricultural exporters), and energy transition (fossil fuel companies vs. renewable energy firms vs. utilities). Each side deploys lobbyists, funds think tanks, and engages in grassroots campaigns to build congressional support.</p>
+        </div>
+      </section>
+
+      <section className="mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Reading the Battle Map</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Our issue battles visualization shows which LDA issue codes appear together most frequently in lobbying filings. When two issues co-occur in many filings, it means organizations are lobbying on both simultaneously — often because legislation bundles them together or because they&apos;re strategically linked.</p>
+          <p>For example, defense (DEF) and trade (TRD) issues frequently co-occur because defense contractors lobby on both weapons procurement and trade policy (export controls, tariffs on components). Similarly, healthcare (HCR) and tax (TAX) issues overlap because health insurance tax credits and pharmaceutical tax provisions are often part of the same legislative packages.</p>
+          <p>Use the <Link href="/momentum" className="text-indigo-600 hover:underline">momentum tracker</Link> to see which of these battleground issues are heating up, or explore individual issue codes on our <Link href="/issues" className="text-indigo-600 hover:underline">issues directory</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The Biggest Spending Collisions</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Some issue battles involve staggering sums. The healthcare-tax nexus sees over $1 billion in combined annual lobbying from both sides. Energy policy battles involve $500+ million. And the emerging AI regulation fight, while smaller in absolute terms, is growing faster than any other issue category.</p>
+          <p>These spending collisions are leading indicators of legislative action. When lobbying on both sides of an issue surges, it usually means Congress is close to acting — and the outcome is uncertain enough that both sides believe spending more could tip the balance. Explore these dynamics further in our <Link href="/analysis" className="text-indigo-600 hover:underline">analysis hub</Link>.</p>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "What are issue battles in lobbying?", acceptedAnswer: { "@type": "Answer", text: "Issue battles occur when multiple industries or interest groups lobby on the same policy issue from competing perspectives. These collisions — such as tech companies vs. civil society on AI regulation — reveal the true fault lines in American policymaking and often involve billions in combined spending." } },
+          { "@type": "Question", name: "Which lobbying issues have the most spending on both sides?", acceptedAnswer: { "@type": "Answer", text: "Healthcare and tax policy see the largest two-sided spending battles, with over $1 billion in combined annual lobbying. Energy policy, trade, and AI regulation are also major battlegrounds where competing interests spend heavily to influence outcomes." } },
+          { "@type": "Question", name: "How do issue battles predict legislation?", acceptedAnswer: { "@type": "Answer", text: "When lobbying surges on both sides of an issue, it typically signals that Congress is close to acting and the outcome remains uncertain. Tracking these spending collisions can serve as a leading indicator of upcoming legislation." } },
+        ]
+      }) }} />
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Case Study: The Energy Transition Battle</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>The energy transition represents one of the most complex issue battles in modern lobbying. Fossil fuel companies lobby to protect existing operations, secure continued tax benefits, and slow the transition timeline. Renewable energy firms lobby for production tax credits, grid modernization investments, and favorable permitting rules. Utilities lobby on both sides depending on their generation mix. And automakers lobby on EV mandates, charging infrastructure, and emissions standards.</p>
+          <p>What makes this battle unique is its geographic dimension. Coal-state representatives face intense lobbying from the fossil fuel industry, while representatives from states with wind and solar resources hear from renewable developers. These competing pressures often determine how individual members vote on energy legislation. Explore the geographic dimensions on our <Link href="/geographic" className="text-indigo-600 hover:underline">geographic analysis page</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Tracking Issue Battles Over Time</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Issue battles evolve as legislation moves through Congress. Early in a bill&apos;s lifecycle, lobbying may be concentrated among a few industry players. As the bill advances, more organizations engage, and spending on both sides escalates. After a vote, lobbying shifts to implementation — shaping how agencies write the rules that give laws their real-world impact.</p>
+          <p>Our <Link href="/trends" className="text-indigo-600 hover:underline">spending trends</Link> visualize these cycles over time, and the <Link href="/momentum" className="text-indigo-600 hover:underline">momentum tracker</Link> captures the current state of each battle in real time.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The Healthcare-Tax Nexus</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>The most expensive issue battle in American lobbying is the intersection of healthcare and tax policy. Healthcare tax credits, pharmaceutical tax provisions, medical device taxes, and health insurance deductions create a trillion-dollar policy nexus where the healthcare industry, tax lobbyists, small business groups, and labor unions all compete to shape outcomes.</p>
+          <p>This nexus generates over $1 billion in combined annual lobbying from all sides. The complexity ensures that healthcare-tax provisions appear in nearly every major piece of fiscal legislation, creating a perpetual lobbying cycle. See the full <Link href="/pharmaceutical-lobbying" className="text-indigo-600 hover:underline">pharmaceutical lobbying analysis</Link> for the healthcare industry&apos;s perspective on these battles.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Access</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/search" className="px-4 py-2 bg-indigo-600 text-white rounded-lg text-sm font-medium hover:bg-indigo-700 transition-colors">🔍 Search by Issue</Link>
+          <Link href="/downloads" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📥 Download Data</Link>
+          <Link href="/how-lobbying-works" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📖 How Lobbying Works</Link>
+        </div>
+      </section>
+          {/* Data Notes */}
+      <div className="mt-12 border-t pt-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Notes &amp; Methodology</h2>
+        <p className="text-gray-600 mb-3">
+          All data on this page is sourced from Senate Office of Public Records lobbying disclosure filings
+          under the Lobbying Disclosure Act of 1995. Figures reflect reported spending as filed and may be
+          subject to amendment. Quarterly totals are annualized where noted.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Industry classifications follow the Center for Responsive Politics methodology. Where companies
+          operate across multiple sectors, spending is attributed to the primary business classification.
+          Foreign entity designations follow FARA and LDA Section 4 definitions.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Year-over-year comparisons use inflation-adjusted figures (2026 dollars) unless otherwise noted.
+          Historical data extends back to 1998 when electronic filing became mandatory.
+        </p>
+        <p className="text-gray-600">
+          For questions about our data or methodology, see our{' '}
+          <a href="/methodology" className="text-blue-600 hover:underline">full methodology page</a> or{' '}
+          <a href="/about" className="text-blue-600 hover:underline">contact us</a>.
+        </p>
+      </div>
     </div>
   )
 }

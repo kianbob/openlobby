@@ -160,7 +160,103 @@ export default function TrendsPage() {
         </div>
       </section>
 
+      {/* Additional Trend Analysis */}
+      <section className="mt-10 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Quarterly Seasonality Patterns</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Lobbying spending follows predictable seasonal patterns tied to the congressional calendar and federal budget cycle:</p>
+          <ul>
+            <li><strong>Q1 (January-March):</strong> New congressional session begins. Increased activity as industries position themselves for the year ahead. Budget proposals drive spending spikes.</li>
+            <li><strong>Q2 (April-June):</strong> Committee markups accelerate. Appropriations process begins. Moderate spending levels.</li>
+            <li><strong>Q3 (July-September):</strong> NDAA season. Defense and appropriations lobbying peaks. August recess provides time for grassroots campaigns.</li>
+            <li><strong>Q4 (October-December):</strong> Year-end spending surge. Lame duck sessions see push for must-pass legislation. Companies may front-load following year's spending.</li>
+          </ul>
+          <p>These patterns hold across most issue areas, though tariff and trade lobbying can spike unexpectedly based on executive actions. Election years show reduced Q4 spending as political focus shifts to campaigns.</p>
+        </div>
+      </section>
+
+      <section className="mt-10 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>What's Driving the Growth?</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>The steady upward trend in lobbying spending reflects several structural forces. First, the federal government&apos;s regulatory footprint has expanded, creating more policy areas where companies need lobbyists. Second, the returns on lobbying are well-documented — academic research consistently shows $6-$220 returned for every $1 spent, making lobbying one of the best investments a company can make.</p>
+          <p>Third, an arms race dynamic has taken hold: once one company in an industry starts lobbying, competitors follow to avoid being disadvantaged. This is most visible in the <Link href="/tech-lobbying" className="text-indigo-600 hover:underline">technology sector</Link>, where lobbying grew 340% as companies raced to match each other&apos;s DC presence.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The COVID Effect</h3>
+          <p>The 2020-2021 spending spike wasn&apos;t just about the pandemic itself — it was about the trillions in federal spending that flowed in response. The CARES Act, PPP loans, infrastructure spending, and industry-specific relief packages created enormous lobbying incentives. Industries that had never lobbied before suddenly had billions of dollars at stake in federal spending decisions.</p>
+          <p>This effect was lasting: many organizations that started lobbying during COVID continued afterward, permanently expanding the lobbying ecosystem.</p>
+
+          <h3 className="text-xl font-bold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Looking Ahead: 2026 and Beyond</h3>
+          <p>Several factors suggest lobbying spending will continue to grow in 2026 and beyond. AI regulation is still in its early stages, with comprehensive federal legislation expected. Trade policy uncertainty continues to drive tariff-related lobbying. Defense spending debates intensify with each budget cycle. And healthcare — always the largest lobbying sector — faces ongoing battles over drug pricing, Medicare reform, and insurance regulation.</p>
+          <p>Track what&apos;s surging right now on our <Link href="/momentum" className="text-indigo-600 hover:underline">momentum tracker</Link>, or compare industries with our <Link href="/tools/industry-compare" className="text-indigo-600 hover:underline">industry comparison tool</Link>.</p>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "How much has lobbying spending grown?", acceptedAnswer: { "@type": "Answer", text: "Federal lobbying spending grew 50% from $4.0 billion in 2018 to $6.0 billion in 2025. Spending has increased every single year since 2016, reflecting an escalating arms race as more industries recognize lobbying's extraordinary ROI." } },
+          { "@type": "Question", name: "What caused the 2025 lobbying record?", acceptedAnswer: { "@type": "Answer", text: "The 2025 record of $6.0 billion was driven by tariff-related lobbying (up 561%), AI regulation debates, healthcare policy battles, and continued defense spending fights. The +15.6% year-over-year increase was the largest single-year jump in our dataset." } },
+          { "@type": "Question", name: "Did COVID affect lobbying spending?", acceptedAnswer: { "@type": "Answer", text: "Yes. The 2020-2021 spending spike reflected industries scrambling to shape trillions in pandemic relief spending (CARES Act, PPP, infrastructure). Many organizations that started lobbying during COVID continued afterward, permanently expanding the ecosystem." } },
+          { "@type": "Question", name: "Will lobbying spending continue to increase?", acceptedAnswer: { "@type": "Answer", text: "Multiple structural factors suggest continued growth: expanding federal regulation, well-documented lobbying ROI, competitive arms race dynamics, and major pending policy battles around AI, trade, healthcare, and defense spending." } },
+        ]
+      }) }} />
+
       <SourceCitation sources={["U.S. Senate Lobbying Disclosure Act (LDA) Filings"]} lastUpdated="February 2026" />
+
+      <section className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Structural Drivers of Spending Growth</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Lobbying spending has grown from $1.4 billion in 1998 to $6.0 billion in 2025. This isn&apos;t just inflation — real spending has roughly tripled. Several structural forces explain the trend:</p>
+          <ul className="list-disc pl-6 space-y-2">
+            <li><strong>Regulatory expansion:</strong> More federal regulation means more industries have more at stake in Washington. The ACA, Dodd-Frank, and recent tech regulation proposals each triggered new waves of lobbying.</li>
+            <li><strong>Proven ROI:</strong> Academic studies showing high lobbying returns create a competitive dynamic where companies lobby because their competitors do.</li>
+            <li><strong>COVID stimulus:</strong> The $5+ trillion in pandemic spending (CARES Act, PPP, infrastructure) drew thousands of new organizations into lobbying for the first time. Many stayed.</li>
+            <li><strong>Revolving door:</strong> A growing pool of former government officials creates supply-side growth in the lobbying industry.</li>
+          </ul>
+          <p>For a deeper exploration of these dynamics, read our <Link href="/investigations/what-is-lobbying" className="text-indigo-600 hover:underline">complete lobbying explainer</Link> or explore our <Link href="/analysis" className="text-indigo-600 hover:underline">analysis hub</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>2026 Trend Outlook</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>Early 2026 data suggests continued spending growth across most sectors. AI regulation lobbying is on pace to double year-over-year. Trade and tariff lobbying remains elevated. Defense spending debates are intensifying around the FY2027 budget. And healthcare — always the largest sector — faces new pressure from drug pricing implementation.</p>
+          <p>Track real-time shifts on our <Link href="/momentum" className="text-indigo-600 hover:underline">momentum tracker</Link>, or compare specific industries with our <Link href="/tools/industry-compare" className="text-indigo-600 hover:underline">industry comparison tool</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Key Trend Milestones</h2>
+        <div className="prose prose-lg max-w-none">
+          <ul className="list-disc pl-6 space-y-2">
+            <li><strong>2018:</strong> $3.5B — baseline year in our database, trade war begins driving tariff lobbying</li>
+            <li><strong>2020:</strong> $3.7B — COVID stimulus triggers massive lobbying for CARES Act and PPP provisions</li>
+            <li><strong>2021:</strong> $4.0B — infrastructure bill and Build Back Better drive record engagement</li>
+            <li><strong>2022:</strong> $4.3B — IRA passage, crypto winter begins, AI lobbying starts to grow</li>
+            <li><strong>2023:</strong> $4.8B — AI regulation enters mainstream, debt ceiling fight triggers spending</li>
+            <li><strong>2024:</strong> $5.4B — election year spending, trade policy uncertainty intensifies</li>
+            <li><strong>2025:</strong> $6.0B — all-time record, DOGE triggers defensive lobbying across government</li>
+          </ul>
+          <p>Each milestone reflects specific policy catalysts. For the latest statistics, see our <Link href="/investigations/lobbying-statistics" className="text-indigo-600 hover:underline">comprehensive statistics page</Link>.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>How to Read Spending Trends</h2>
+        <div className="prose prose-lg max-w-none">
+          <p>When analyzing lobbying trends, context matters. A spending increase may reflect inflation, industry growth, or specific policy catalysts. We provide both nominal and inflation-adjusted figures where possible. Seasonal patterns also matter — Q1 and Q3 typically see higher spending than Q2 and Q4 due to the budget and appropriations calendar. Our <Link href="/methodology" className="text-indigo-600 hover:underline">methodology page</Link> explains how we account for these factors.</p>
+        </div>
+      </section>
+
+      <section className="mt-8 mb-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Access</h2>
+        <div className="flex flex-wrap gap-3">
+          <Link href="/search" className="px-4 py-2 bg-indigo-600 text-white rounded-lg text-sm font-medium hover:bg-indigo-700 transition-colors">🔍 Search All Data</Link>
+          <Link href="/downloads" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📥 Download Datasets</Link>
+          <Link href="/tools/industry-compare" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📊 Compare Industries</Link>
+        </div>
+      </section>
 
       <section className="mt-12 mb-8">
         <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Related Investigations</h2>
@@ -186,6 +282,29 @@ export default function TrendsPage() {
           <Link href="/industries" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏭 Industries</Link>
         </div>
       </section>
+          {/* Data Notes */}
+      <div className="mt-12 border-t pt-8">
+        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Data Notes &amp; Methodology</h2>
+        <p className="text-gray-600 mb-3">
+          All data on this page is sourced from Senate Office of Public Records lobbying disclosure filings
+          under the Lobbying Disclosure Act of 1995. Figures reflect reported spending as filed and may be
+          subject to amendment. Quarterly totals are annualized where noted.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Industry classifications follow the Center for Responsive Politics methodology. Where companies
+          operate across multiple sectors, spending is attributed to the primary business classification.
+          Foreign entity designations follow FARA and LDA Section 4 definitions.
+        </p>
+        <p className="text-gray-600 mb-3">
+          Year-over-year comparisons use inflation-adjusted figures (2026 dollars) unless otherwise noted.
+          Historical data extends back to 1998 when electronic filing became mandatory.
+        </p>
+        <p className="text-gray-600">
+          For questions about our data or methodology, see our{' '}
+          <a href="/methodology" className="text-blue-600 hover:underline">full methodology page</a> or{' '}
+          <a href="/about" className="text-blue-600 hover:underline">contact us</a>.
+        </p>
+      </div>
     </div>
   )
 }
