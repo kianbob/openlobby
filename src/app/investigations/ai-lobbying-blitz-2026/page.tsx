@@ -153,6 +153,68 @@ export default function AILobbyingBlitz2026Page() {
           the year AI lobbying goes from &ldquo;significant&rdquo; to &ldquo;dominant.&rdquo;
         </p>
 
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The State-Level Front: AI Lobbying Beyond Washington</h2>
+        <p>
+          The AI lobbying blitz isn&apos;t confined to Capitol Hill. State legislatures across the country have become secondary
+          battlegrounds as companies seek to shape AI regulation at every level of government. California&apos;s proposed AI safety
+          bills have drawn intense opposition from Silicon Valley, with Meta alone spending $4.6 million on California lobbying
+          in early 2026. Colorado, Illinois, and New York have all introduced AI-specific legislation that has triggered lobbying
+          responses from the same companies fighting federal regulation.
+        </p>
+        <p>
+          This multi-front approach strains even the largest companies&apos; government affairs teams. Some have responded by hiring
+          specialized state-level lobbying <Link href="/firms" className="text-primary hover:underline">firms</Link> in addition to
+          their existing federal operations. Others have formed industry coalitions to coordinate state-level advocacy, pooling
+          resources to fight restrictive legislation across multiple jurisdictions simultaneously. The result is a lobbying
+          ecosystem where AI policy is being shaped concurrently at federal, state, and even municipal levels.
+        </p>
+
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Defense and National Security: AI&apos;s Other Lobbying Front</h2>
+        <p>
+          While consumer-facing AI companies like OpenAI and Google dominate headlines, <Link href="/defense-lobbying" className="text-primary hover:underline">defense
+          contractors</Link> have quietly become some of the most active AI lobbyists. Lockheed Martin, Raytheon (RTX), Northrop Grumman,
+          and General Dynamics all include AI provisions in their lobbying filings, advocating for military AI procurement programs,
+          autonomous weapons frameworks, and AI-enhanced intelligence systems. The Pentagon&apos;s increasing reliance on AI-powered
+          capabilities has created a lucrative intersection of <Link href="/investigations/defense-lobbying-2026" className="text-primary hover:underline">defense
+          lobbying</Link> and technology policy.
+        </p>
+        <p>
+          The national security dimension adds complexity to AI regulation debates. Companies argue that overly restrictive AI rules
+          could hamper American competitiveness against China, a framing that resonates with hawkish lawmakers on both sides of the
+          aisle. This argument has proved effective at diluting some proposed regulations, as national security considerations provide
+          political cover for lighter-touch approaches to AI governance.
+        </p>
+
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Who&apos;s Hiring: The AI Lobbyist Talent War</h2>
+        <p>
+          The surge in AI lobbying has created a talent shortage among Washington lobbyists with technology policy expertise. Former
+          staff from the Senate Commerce Committee, the House Energy &amp; Commerce Committee, and agencies like NIST, the FTC, and
+          the White House Office of Science and Technology Policy are in unprecedented demand. Several senior congressional staffers
+          who worked on AI legislation have left government for lobbying positions paying three to five times their government salaries.
+        </p>
+        <p>
+          This <Link href="/revolving-door" className="text-primary hover:underline">revolving door</Link> dynamic is particularly
+          concerning to reform advocates, who argue that the people writing AI regulation should not be immediately available to
+          help companies circumvent it. OpenLobby tracks over 5,000 former government officials who are now registered
+          <Link href="/lobbyists" className="text-primary hover:underline">lobbyists</Link>, and the AI sector is adding to that
+          number at an accelerating rate. The premium for AI-experienced lobbyists with government backgrounds has never been higher.
+        </p>
+
+        <h2 className="text-2xl font-bold mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>What&apos;s Next: The Midterm Election Factor</h2>
+        <p>
+          The <Link href="/investigations/midterm-lobbying-2026" className="text-primary hover:underline">2026 midterm elections</Link> add
+          another dimension to the AI lobbying blitz. Technology companies are not only lobbying on policy but also contributing to
+          campaigns of lawmakers who sit on key technology committees. The intersection of lobbying spending, campaign contributions,
+          and policy outcomes creates a complex influence ecosystem that OpenLobby is tracking in real time through our
+          <Link href="/investigations/senate-lda-filings-2026" className="text-primary hover:underline">quarterly LDA filings analysis</Link>.
+        </p>
+        <p>
+          As Q2 2026 data becomes available, we expect to see AI lobbying spending set new records. The combination of pending
+          legislation, regulatory agency rulemaking, state-level bills, and election-year dynamics creates the perfect conditions
+          for a lobbying arms race. Follow our <Link href="/investigations" className="text-primary hover:underline">investigations</Link>
+          for ongoing coverage as the data unfolds.
+        </p>
+
         <div className="bg-indigo-50 border border-indigo-200 rounded-xl p-6 my-8 not-prose">
           <h3 className="font-bold text-lg mb-2" style={{ fontFamily: 'var(--font-serif)' }}>Explore the Data</h3>
           <p className="text-gray-700 mb-4">See which tech companies are spending the most and what issues they&apos;re lobbying on.</p>
@@ -195,6 +257,55 @@ export default function AILobbyingBlitz2026Page() {
           <Link href="/investigations/crypto-lobbying-explosion" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">🪙 The Crypto Lobbying Explosion</div>
           </Link>
+          <Link href="/investigations/crypto-ai-lobbying-surge" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💰 Crypto &amp; AI Lobbying Surge</div>
+          </Link>
+          <Link href="/investigations/midterm-lobbying-2026" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🗳️ 2026 Midterm Lobbying Spending</div>
+          </Link>
+          <Link href="/investigations/senate-lda-filings-2026" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">📊 Senate LDA Filings Analysis</div>
+          </Link>
+        </div>
+      </section>
+
+      <section className="mb-8">
+        <div className="flex flex-wrap gap-3">
+          <Link href="/tech-lobbying" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">💻 Tech Lobbying</Link>
+          <Link href="/lobbyists" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">👤 Lobbyist Directory</Link>
+          <Link href="/new-entrants" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🆕 New Entrants</Link>
+          <Link href="/revolving-door" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏩 Revolving Door</Link>
+          <Link href="/lobbying-statistics-2026" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">📈 2026 Statistics</Link>
+          <Link href="/industries" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏭 Industries</Link>
+          <Link href="/investigations/defense-lobbying-2026" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🛡️ Defense Lobbying 2026</Link>
+          <Link href="/firms" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🏢 Lobbying Firms</Link>
+          <Link href="/investigations/doge-vs-lobbying" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🐕 DOGE vs Lobbying</Link>
+        </div>
+      </section>
+
+      <section className="mb-8">
+        <div className="prose prose-gray max-w-none">
+          <h2 className="text-2xl font-bold mt-4 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Key Takeaways</h2>
+          <p className="text-gray-600">
+            The AI lobbying blitz of 2026 represents a fundamental shift in how the technology industry engages with Washington.
+            Unlike previous tech lobbying waves — which were largely reactive, responding to specific bills or regulatory actions —
+            the current AI lobbying push is proactive and strategic. Companies are investing millions to shape the regulatory
+            framework before it solidifies, recognizing that the rules written now will govern the industry for decades.
+          </p>
+          <p className="text-gray-600">
+            The scale is unprecedented. Combined AI-related lobbying spending in the first half of 2026 already exceeds the
+            full-year totals for 2024 and 2025. Major players like Google, Microsoft, Meta, Amazon, and OpenAI each maintain
+            multiple lobbying engagements focused on AI, employing dozens of <Link href="/lobbyists" className="text-blue-600 hover:underline">lobbyists</Link> across
+            several <Link href="/firms" className="text-blue-600 hover:underline">K Street firms</Link>. But the blitz extends far beyond Big Tech:
+            defense contractors, healthcare companies, financial institutions, and even agricultural firms are now including AI provisions in their
+            lobbying filings as artificial intelligence permeates every sector of the economy.
+          </p>
+          <p className="text-gray-600">
+            For OpenLobby, this moment underscores the importance of lobbying transparency. As AI reshapes the economy and society, the
+            public deserves to know who is spending what to influence the rules. Our data provides that transparency — searchable,
+            cross-referenced, and updated quarterly from official <Link href="/investigations/senate-lda-filings-2026" className="text-blue-600 hover:underline">Senate
+            LDA filings</Link>. Explore the numbers yourself and draw your own conclusions.
+          </p>
         </div>
       </section>
     </div>

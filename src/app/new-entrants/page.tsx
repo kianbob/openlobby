@@ -197,6 +197,116 @@ export default function NewEntrantsPage() {
           <Link href="/momentum" className="px-4 py-2 bg-gray-100 rounded-lg text-sm hover:bg-indigo-50 hover:text-indigo-700 transition-colors">🚀 Momentum</Link>
         </div>
       </section>
+
+      <section className="mb-12">
+        <div className="prose prose-gray max-w-none">
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Why Organizations Start Lobbying</h2>
+          <p className="text-gray-600">
+            The decision to begin lobbying the federal government is rarely made lightly. Organizations typically enter the lobbying ecosystem
+            in response to one of several catalysts: new legislation that threatens their business model, regulatory actions by federal agencies,
+            competitive pressure from rivals who already lobby, or strategic opportunities to shape emerging policy frameworks. In 2026, the most
+            common triggers for first-time lobbying include AI regulation, tariff and trade policy changes, cryptocurrency oversight proposals,
+            and healthcare reimbursement reforms.
+          </p>
+          <p className="text-gray-600">
+            The cost barrier to entry has remained relatively stable. A modest federal lobbying engagement costs between $60,000 and $120,000
+            per quarter, though organizations facing existential regulatory threats often commit $500,000 or more annually. For companies with
+            billions in revenue at stake, lobbying represents a remarkably inexpensive form of risk management — a dynamic our
+            <Link href="/lobbying-roi" className="text-blue-600 hover:underline">ROI analysis</Link> explores in detail.
+          </p>
+
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>2026 New Entrant Trends</h2>
+          <p className="text-gray-600">
+            The first half of 2026 has seen a notable surge in new lobbying registrations from technology companies, particularly those in the
+            AI and machine learning space. Startups that previously focused exclusively on product development are now hiring Washington
+            <Link href="/firms" className="text-blue-600 hover:underline">lobbying firms</Link> to influence how Congress regulates AI training
+            data, algorithmic decision-making, and automated content generation. This represents a fundamental shift: companies are engaging with
+            the political process much earlier in their lifecycle than in previous technology waves.
+          </p>
+          <p className="text-gray-600">
+            Trade-sensitive companies are another major category of 2026 new entrants. The tariff and trade policy disruptions have forced
+            manufacturers, importers, and retailers that never previously engaged with Washington to quickly establish lobbying operations.
+            Many of these organizations are mid-market companies with limited government affairs experience, making them heavy users of external
+            lobbying firms rather than building in-house capabilities.
+          </p>
+          <p className="text-gray-600">
+            Healthcare organizations continue to enter the lobbying system at steady rates, driven by ongoing debates over drug pricing,
+            telehealth regulation, and Medicaid funding. New entrants in healthcare tend to be smaller specialty providers, digital health
+            companies, and medical device startups seeking to influence FDA pathways and Medicare coverage decisions. The
+            <Link href="/pharmaceutical-lobbying" className="text-blue-600 hover:underline">pharmaceutical lobbying</Link> landscape, already
+            one of Washington&apos;s most expensive, continues to attract new participants.
+          </p>
+
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>The First-Time Filer Experience</h2>
+          <p className="text-gray-600">
+            For organizations new to federal lobbying, the process begins with selecting a lobbying firm or hiring in-house
+            <Link href="/lobbyists" className="text-blue-600 hover:underline">lobbyists</Link>. Most first-time filers opt for external firms,
+            which provide turnkey lobbying services including strategic planning, relationship mapping, congressional meeting scheduling, and
+            quarterly filing compliance. The typical new entrant starts with a single firm and a narrowly defined set of
+            <Link href="/issues" className="text-blue-600 hover:underline">issues</Link>, expanding their lobbying scope only after seeing
+            initial results.
+          </p>
+          <p className="text-gray-600">
+            Registration requirements under the Lobbying Disclosure Act mandate that lobbyists register within 45 days of making or being
+            employed to make a lobbying contact. Quarterly reports (LD-2 filings) must detail the specific issues lobbied, government agencies
+            contacted, and income or expenses associated with lobbying activities. OpenLobby makes all of this data searchable and cross-referenced,
+            so you can track any new entrant&apos;s lobbying evolution from their very first filing.
+          </p>
+
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>From New Entrant to Major Spender</h2>
+          <p className="text-gray-600">
+            Some of today&apos;s biggest lobbying <Link href="/clients" className="text-blue-600 hover:underline">clients</Link> were new entrants
+            just a few years ago. The cryptocurrency industry provides the most dramatic example: virtually nonexistent in federal lobbying
+            data before 2020, <Link href="/investigations/crypto-ai-lobbying-surge" className="text-blue-600 hover:underline">crypto companies</Link>
+            now collectively spend tens of millions annually on Washington influence. AI companies are following a similar trajectory, moving
+            from zero lobbying presence to substantial spending in under two years.
+          </p>
+          <p className="text-gray-600">
+            Tracking new entrants over time reveals which industries are gaining political sophistication and which policy debates are drawing
+            in new stakeholders. Organizations that begin lobbying during periods of regulatory uncertainty — like the current AI governance
+            debate — often become permanent participants in the influence ecosystem. Our
+            <Link href="/client-trajectories" className="text-blue-600 hover:underline">client trajectories</Link> tool shows how spending
+            patterns evolve from initial engagement through long-term lobbying commitments, while our
+            <Link href="/investigations/senate-lda-filings-2026" className="text-blue-600 hover:underline">quarterly filings analysis</Link>
+            provides the latest data on new registrations and spending trends.
+          </p>
+
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>Geographic Patterns Among New Entrants</h2>
+          <p className="text-gray-600">
+            New lobbying entrants cluster geographically in ways that mirror broader economic patterns.
+            <Link href="/states/CA" className="text-blue-600 hover:underline">California</Link> produces the most tech-sector new
+            entrants, as AI startups and software companies establish their first Washington lobbying operations. Texas and the
+            Southeast have contributed growing numbers of energy and manufacturing new entrants, particularly in response to trade
+            policy changes. <Link href="/states/DC" className="text-blue-600 hover:underline">Washington DC</Link> itself generates
+            new entrants primarily in the form of newly created trade associations and advocacy coalitions that form around specific
+            policy debates.
+          </p>
+          <p className="text-gray-600">
+            International companies establishing U.S. lobbying operations represent another growing category of new entrants.
+            <Link href="/foreign" className="text-blue-600 hover:underline">Foreign-connected entities</Link> from Europe, Asia,
+            and the Middle East regularly appear as first-time filers, typically in response to trade disputes, sanctions policy,
+            or regulatory frameworks that affect their U.S. operations. These international new entrants often hire the most
+            established <Link href="/firms" className="text-blue-600 hover:underline">K Street firms</Link> to navigate
+            an unfamiliar political landscape.
+          </p>
+
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>What New Entrant Data Tells Us</h2>
+          <p className="text-gray-600">
+            The flow of new entrants into the lobbying system serves as a leading indicator of policy disruption. When large
+            numbers of organizations from a particular sector begin lobbying for the first time, it typically signals that the
+            sector faces imminent regulatory changes or legislative threats. The surge in crypto lobbying registrations in
+            2021-2022 preceded the major congressional push for digital asset regulation. The wave of AI company registrations
+            in 2025-2026 anticipates the comprehensive AI governance frameworks currently being debated.
+          </p>
+          <p className="text-gray-600">
+            By monitoring new entrant patterns, OpenLobby provides early warning of which industries are bracing for Washington
+            attention. Track the latest arrivals in the table above, or explore related analyses including our
+            <Link href="/lobbying-statistics-2026" className="text-blue-600 hover:underline">2026 statistics overview</Link>,
+            <Link href="/investigations/q1-2026-lobbying-record" className="text-blue-600 hover:underline">Q1 2026 record spending</Link>,
+            and the <Link href="/investigations/midterm-lobbying-2026" className="text-blue-600 hover:underline">midterm lobbying surge</Link>.
+          </p>
+        </div>
+      </section>
     </div>
   )
 }

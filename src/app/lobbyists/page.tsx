@@ -250,6 +250,62 @@ export default function LobbyistsPage() {
             <Link href="/issues" className="text-blue-600 hover:underline">issues directory</Link> and click on any 
             issue category to see the lobbyists, firms, and clients most active in that policy area.
           </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Modern Lobbyist: Career Paths and Compensation</h3>
+          <p className="text-gray-600">
+            The lobbying profession has evolved dramatically over the past decade. Today&apos;s federal lobbyists come from diverse backgrounds — former congressional staffers,
+            retired military officers, ex-agency officials, corporate government affairs directors, and trade association executives. The most sought-after lobbyists combine deep
+            policy expertise with personal relationships on Capitol Hill. In 2026, the average lobbying engagement generates between $60,000 and $120,000 per quarter, though
+            top-tier lobbyists with senior government experience can command rates exceeding $500,000 annually per client.
+          </p>
+          <p className="text-gray-600">
+            Career trajectories in lobbying typically follow predictable patterns. Many lobbyists begin as legislative assistants or committee staffers in Congress, spending
+            5–10 years building policy expertise and relationships. After leaving government, they join established <Link href="/firms" className="text-blue-600 hover:underline">lobbying firms</Link> or
+            launch their own practices. The most successful lobbyists specialize in high-value issue areas like <Link href="/pharmaceutical-lobbying" className="text-blue-600 hover:underline">healthcare</Link>,
+            <Link href="/defense-lobbying" className="text-blue-600 hover:underline">defense</Link>, and <Link href="/tech-lobbying" className="text-blue-600 hover:underline">technology</Link> — sectors
+            where regulatory complexity creates sustained demand for Washington expertise.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Lobbying Regulation and Disclosure Requirements</h3>
+          <p className="text-gray-600">
+            Under the Lobbying Disclosure Act of 1995 (amended by the Honest Leadership and Open Government Act of 2007), lobbyists must register with the Secretary of the Senate
+            and the Clerk of the House within 45 days of making a lobbying contact — or being employed to make such contacts. Quarterly reports (LD-2 filings) must disclose the
+            specific issues lobbied, the government agencies and chambers contacted, and the income or expenses associated with lobbying activities.
+          </p>
+          <p className="text-gray-600">
+            Despite these requirements, significant gaps remain in the disclosure regime. The LDA&apos;s definition of &quot;lobbying contact&quot; excludes many forms of influence,
+            including strategic advisory work, grassroots mobilization, and public affairs campaigns. Critics estimate that the true scope of Washington&apos;s influence industry
+            may be 2–3 times larger than what official filings reveal. Organizations like OpenLobby help close the transparency gap by making filed data searchable,
+            cross-referenced, and analytically accessible to the public.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>2026 Trends in Federal Lobbying Personnel</h3>
+          <p className="text-gray-600">
+            Several notable trends are reshaping the lobbying workforce in 2026. First, the surge in <Link href="/investigations/ai-lobbying-boom-2026" className="text-blue-600 hover:underline">AI-related
+            lobbying</Link> has created intense demand for lobbyists with technology policy backgrounds — particularly those who worked at agencies like the FTC, NIST, or on
+            congressional technology committees. Second, the <Link href="/investigations/tariff-lobbying-2026" className="text-blue-600 hover:underline">tariff and trade policy</Link> upheaval
+            has reactivated trade-focused lobbyists who had quieter portfolios in recent years.
+          </p>
+          <p className="text-gray-600">
+            Third, the <Link href="/investigations/midterm-lobbying-2026" className="text-blue-600 hover:underline">2026 midterm elections</Link> are driving a wave of post-election
+            lobbying hires as organizations position themselves for potential shifts in committee leadership and legislative priorities. Former members of Congress and senior staff
+            from both parties are in high demand, with firms competing aggressively for talent that can navigate both sides of the aisle.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Revolving Door: Government to K Street</h3>
+          <p className="text-gray-600">
+            The movement between government service and lobbying — known as the <Link href="/revolving-door" className="text-blue-600 hover:underline">revolving door</Link> — remains
+            one of Washington&apos;s most debated dynamics. OpenLobby data shows that lobbyists with prior government experience are associated with filings that generate
+            significantly higher revenue. Firms employing ex-officials earn an average of 369% more than those without revolving door connections, a premium that reflects the
+            value clients place on insider access and institutional knowledge.
+          </p>
+          <p className="text-gray-600">
+            Cooling-off periods — typically 1–2 years for senior officials — are intended to prevent immediate monetization of government relationships. However, many former
+            officials work as &quot;strategic advisors&quot; or &quot;consultants&quot; during their cooling-off periods, providing guidance that falls short of the LDA&apos;s
+            definition of a lobbying contact. This grey area has led to ongoing calls for reform, including proposals to extend cooling-off periods, broaden the definition of
+            lobbying activity, and create stronger enforcement mechanisms. For a deeper analysis, see our
+            <Link href="/investigations/the-revolving-door-premium" className="text-blue-600 hover:underline">Revolving Door Premium investigation</Link>.
+          </p>
         </div>
       </div>
     </div>

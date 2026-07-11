@@ -256,7 +256,18 @@ export default function RevolvingDoorPage() {
           </ul>
 
           <p>
-            These numbers paint a clear picture: the revolving door is not a minor feature of Washington politics. It is the central mechanism through which corporate interests gain access to and influence over government decision-making. Understanding and tracking the revolving door is essential to understanding how policy is actually made in America.
+            These numbers paint a clear picture: the revolving door is not a minor feature of Washington politics.
+            It is the central mechanism through which corporate interests gain access to
+            and influence over government decision-making. Understanding and tracking
+            the revolving door is essential to understanding how policy is actually made in America.
+          </p>
+
+          <p>
+            For industry-specific revolving door data, visit our dedicated pages on
+            {' '}<Link href="/defense-lobbying" className="text-indigo-600 hover:text-indigo-800">defense lobbying</Link>,
+            {' '}<Link href="/pharmaceutical-lobbying" className="text-indigo-600 hover:text-indigo-800">pharmaceutical lobbying</Link>, and
+            {' '}<Link href="/tech-lobbying" className="text-indigo-600 hover:text-indigo-800">tech lobbying</Link>.
+            Each includes revolving door analysis specific to that sector.
           </p>
         </div>
 

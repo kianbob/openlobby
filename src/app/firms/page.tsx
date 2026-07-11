@@ -126,6 +126,177 @@ export default function FirmsPage() {
             <Link href="/lobbyists" className="text-blue-600 hover:underline">individual lobbyist profiles</Link> and 
             <Link href="/clients" className="text-blue-600 hover:underline">client spending data</Link>.
           </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Firm Revenue: Key Statistics</h3>
+          <p className="text-gray-600">
+            The economics of K Street reveal a highly stratified industry where a small number of elite firms 
+            capture the lion&apos;s share of revenue:
+          </p>
+          <ul className="text-gray-600 list-disc pl-6 space-y-2">
+            <li><strong>7,757 total firms</strong> have filed lobbying disclosures since 2018</li>
+            <li><strong>Top 50 firms</strong> account for 35%+ of total industry revenue</li>
+            <li><strong>$4.7 billion</strong> in total annual lobbying revenue (2025)</li>
+            <li><strong>369% revenue premium</strong> for firms with revolving-door staff</li>
+            <li><strong>$2.8 million</strong> average annual revenue for firms with ex-government lobbyists</li>
+            <li><strong>$600,000</strong> average annual revenue for firms without government connections</li>
+            <li><strong>72% of firms</strong> headquartered in the DC metropolitan area</li>
+            <li><strong>~8% decline</strong> in number of active firms since 2018 (consolidation)</li>
+            <li><strong>30%+ growth</strong> in total industry revenue over same period</li>
+            <li><strong>40% of spending</strong> flows through in-house lobbying operations</li>
+          </ul>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Bipartisan Staffing Model</h3>
+          <p className="text-gray-600">
+            Successful lobbying firms maintain bipartisan teams to ensure effectiveness regardless of which party 
+            controls Congress or the White House. This means actively recruiting former staffers from both Republican 
+            and Democratic leadership offices, committee chairs, and ranking members. When control of the House or 
+            Senate shifts, firms with deep benches on both sides of the aisle can seamlessly adjust their lobbying 
+            strategies without losing access. The most sophisticated firms track political cycles and preemptively 
+            hire outgoing staffers from the incoming majority party, creating a constant flow of 
+            <Link href="/lobbyists" className="text-blue-600 hover:underline">revolving-door talent</Link>. This 
+            bipartisan model is one reason why total lobbying spending rarely declines, even during transitions of 
+            political power.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Boutique vs. Full-Service Firms</h3>
+          <p className="text-gray-600">
+            The lobbying industry supports two distinct business models. <strong>Boutique firms</strong> typically 
+            employ 3–15 <Link href="/lobbyists" className="text-blue-600 hover:underline">lobbyists</Link> and focus 
+            on a narrow set of <Link href="/issues" className="text-blue-600 hover:underline">issues</Link> where they 
+            have deep expertise — defense procurement, healthcare regulation, financial services, or technology 
+            policy. These firms compete on relationships and specialized knowledge, often charging premium rates for 
+            niche expertise. <strong>Full-service firms</strong> like Akin Gump, Holland &amp; Knight, and Brownstein 
+            Hyatt employ 50–200+ lobbyists covering nearly every policy area. They offer 
+            <Link href="/clients" className="text-blue-600 hover:underline">clients</Link> one-stop shopping for 
+            government affairs, combining direct lobbying with strategic communications, grassroots advocacy, 
+            coalition building, and regulatory compliance. While boutiques can be more agile, full-service firms 
+            benefit from cross-selling opportunities and the ability to assemble large teams for major legislative 
+            campaigns.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Technology&apos;s Impact on Lobbying Firms</h3>
+          <p className="text-gray-600">
+            The lobbying industry has been slower to adopt technology than many other professional services sectors, 
+            but that is changing rapidly. Firms are increasingly using data analytics to track legislative movements, 
+            identify swing votes, and measure the effectiveness of their advocacy campaigns. AI-powered tools now 
+            help lobbyists monitor regulatory filings, analyze bill text for client impact, and generate policy 
+            briefings. Some forward-looking firms have invested in proprietary databases that map relationships 
+            between lawmakers, staffers, lobbyists, and industry stakeholders. OpenLobby itself represents a new 
+            kind of transparency tool that firms, <Link href="/clients" className="text-blue-600 hover:underline">clients</Link>, 
+            journalists, and researchers use to understand the competitive landscape and track industry trends.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Ethics and Compliance at Lobbying Firms</h3>
+          <p className="text-gray-600">
+            Lobbying firms operate under a complex web of federal regulations, including the Lobbying Disclosure Act, 
+            the Honest Leadership and Open Government Act, gift rules, campaign finance laws, and (for firms 
+            representing foreign entities) the Foreign Agents Registration Act. Larger firms typically employ 
+            dedicated compliance officers to ensure that filings are accurate and timely, that gift rules are 
+            observed, and that cooling-off periods for newly hired 
+            <Link href="/lobbyists" className="text-blue-600 hover:underline">revolving-door lobbyists</Link> are 
+            respected. Despite these structures, compliance remains imperfect — the Government Accountability Office 
+            has found that roughly 20–25% of filings contain errors or omissions. Firms that repeatedly fail to 
+            comply face reputational risk and potential enforcement actions, though criminal prosecution for lobbying 
+            violations remains rare.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>International Comparisons</h3>
+          <p className="text-gray-600">
+            The U.S. lobbying industry is by far the largest and most transparent in the world. While countries like 
+            Canada, the UK, and Australia have lobbying registries, none approaches the scope and detail of American 
+            disclosure requirements. The EU&apos;s Transparency Register is voluntary, and most countries have no 
+            lobbying disclosure requirements at all. This makes the U.S. system a global benchmark for transparency, 
+            despite its acknowledged shortcomings. The 7,757 firms in OpenLobby&apos;s database represent a uniquely 
+            rich dataset for understanding how organized interests interact with democratic government — a resource 
+            that has no equivalent in any other country.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Frequently Asked Questions About Lobbying Firms</h3>
+          <p className="text-gray-600">
+            <strong>What is the difference between a lobbying firm and a law firm?</strong> Many lobbying firms are 
+            actually divisions of larger law firms. The key distinction is registration: any firm that employs 
+            individuals who meet the LDA&apos;s lobbying activity thresholds must register and file quarterly reports. 
+            Law firms with lobbying practices appear in our database alongside dedicated lobbying shops.
+          </p>
+          <p className="text-gray-600">
+            <strong>How are firm revenues calculated?</strong> Revenue figures are reported directly by firms on 
+            their quarterly LDA filings. Firms report the income received from each 
+            <Link href="/clients" className="text-blue-600 hover:underline">client</Link> engagement. OpenLobby 
+            aggregates these per-client figures to produce firm-level totals.
+          </p>
+          <p className="text-gray-600">
+            <strong>Why do some firms show $0 in revenue?</strong> In-house lobbying operations report expenses 
+            rather than revenue, since they are not receiving income from outside clients. Some firms also file 
+            termination reports or "no activity" reports that reflect zero revenue for a given quarter.
+          </p>
+          <p className="text-gray-600">
+            <strong>How can I compare firms?</strong> Use the sort and filter options above to rank firms by 
+            revenue, client count, or lobbyist headcount. Each firm profile page provides detailed breakdowns 
+            that enable direct comparisons across multiple dimensions of lobbying activity.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The K Street Landscape in 2026</h3>
+          <p className="text-gray-600">
+            Washington&apos;s lobbying industry continues to consolidate around a handful of powerhouse firms while simultaneously seeing growth from
+            boutique specialists. The top 50 firms by revenue account for roughly 40% of all lobbying income, a concentration ratio that has
+            increased steadily over the past decade. Major firms like Akin Gump Strauss Hauer &amp; Feld, Brownstein Hyatt Farber Schreck, and
+            Holland &amp; Knight each represent hundreds of <Link href="/clients" className="text-blue-600 hover:underline">clients</Link> across
+            every major industry sector, generating annual revenues that exceed $50 million.
+          </p>
+          <p className="text-gray-600">
+            At the same time, specialized boutique firms have carved out profitable niches in emerging policy areas. Firms focused on
+            <Link href="/investigations/ai-lobbying-boom-2026" className="text-blue-600 hover:underline">artificial intelligence regulation</Link>,
+            <Link href="/investigations/crypto-ai-lobbying-surge" className="text-blue-600 hover:underline">cryptocurrency policy</Link>, and
+            <Link href="/investigations/tariff-lobbying-2026" className="text-blue-600 hover:underline">trade and tariff issues</Link> have seen
+            explosive growth in 2026 as clients seek lobbyists with deep technical expertise in addition to Capitol Hill connections.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>The Revolving Door Premium for Firms</h3>
+          <p className="text-gray-600">
+            OpenLobby&apos;s analysis reveals a striking revenue gap between firms that employ former government officials and those that don&apos;t.
+            Firms with <Link href="/revolving-door" className="text-blue-600 hover:underline">revolving door</Link> lobbyists on staff earn
+            an average of <strong>369% more revenue</strong> and serve <strong>4.9x more clients</strong> than firms without ex-government employees.
+            This premium reflects the market value of insider access — clients are willing to pay significantly more for lobbyists who have personal
+            relationships with decision-makers and understand the internal workings of federal agencies and congressional committees.
+          </p>
+          <p className="text-gray-600">
+            The revolving door effect is particularly pronounced in <Link href="/defense-lobbying" className="text-blue-600 hover:underline">defense lobbying</Link>,
+            where former Pentagon officials and military officers command the highest premiums. Defense-focused firms with ex-DOD staff earn substantially more
+            per client engagement than comparable firms without military or intelligence community connections. For a detailed analysis, see our
+            <Link href="/investigations/the-revolving-door-premium" className="text-blue-600 hover:underline">Revolving Door Premium investigation</Link>.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Revenue Models and Client Dynamics</h3>
+          <p className="text-gray-600">
+            Lobbying firms operate under two primary models: external (hired gun) and in-house. External firms — the classic K Street model —
+            represent multiple clients simultaneously, billing each for quarterly retainers plus activity-based fees. Top external firms maintain
+            client rosters exceeding 200 organizations. In-house lobbying operations, by contrast, are departments within corporations or trade
+            associations that employ their own registered <Link href="/lobbyists" className="text-blue-600 hover:underline">lobbyists</Link>.
+            In-house operations report expenses rather than revenue, making direct comparisons between the two models challenging.
+          </p>
+          <p className="text-gray-600">
+            Client retention rates vary significantly across the industry. The most established firms retain 70–80% of their client base year over
+            year, while smaller firms experience higher turnover. Long-term client relationships are the backbone of firm profitability — a client
+            that lobbies consistently over multiple years generates far more value than one-off engagements. Our
+            <Link href="/client-trajectories" className="text-blue-600 hover:underline">client trajectories</Link> tool tracks how spending
+            patterns evolve over time, revealing which organizations are ramping up and which are pulling back.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-8 mb-3" style={{ fontFamily: 'var(--font-serif)' }}>Industry Concentration and Competition</h3>
+          <p className="text-gray-600">
+            The lobbying industry exhibits moderate concentration, with a long tail of small firms competing against a handful of dominant players.
+            Our <Link href="/concentration" className="text-blue-600 hover:underline">concentration analysis</Link> measures market structure using
+            the Herfindahl-Hirschman Index (HHI) and other metrics. While the industry as a whole is not highly concentrated, specific
+            <Link href="/issues" className="text-blue-600 hover:underline">issue areas</Link> often are — a small number of firms dominate
+            lobbying on defense appropriations, pharmaceutical regulation, and energy policy, creating de facto oligopolies in the most lucrative
+            policy domains.
+          </p>
+          <p className="text-gray-600">
+            Competition for clients intensifies during periods of legislative activity. The <Link href="/investigations/midterm-lobbying-2026" className="text-blue-600 hover:underline">2026
+            midterm cycle</Link> has been particularly active, with firms adding staff and expanding their issue portfolios to capture new business.
+            Organizations that have never lobbied before are entering the system at record rates — see our
+            <Link href="/new-entrants" className="text-blue-600 hover:underline">new entrants tracker</Link> for the latest data on first-time filers.
+          </p>
         </div>
       </div>
     </div>
