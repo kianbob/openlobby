@@ -13,6 +13,7 @@ export default function IranWarDefenseLobbyPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Defense Lobby Surges as Pentagon Seeks $200B for Iran War", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-04-17", description: "The Pentagon wants $200 billion for the Iran war. Defense contractors are spending millions to make sure they get the contracts.", mainEntityOfPage: "https://www.openlobby.us/investigations/iran-war-defense-lobby" }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "How much is the Pentagon requesting for the Iran war?", "acceptedAnswer": { "@type": "Answer", "text": "The Pentagon sent a $200 billion supplemental funding request to the White House — the largest wartime funding ask since the Iraq and Afghanistan wars. Operations cost an estimated $11 billion per week." } }, { "@type": "Question", "name": "Which defense contractors are lobbying most on Iran war contracts?", "acceptedAnswer": { "@type": "Answer", "text": "The 'Big Five' — Lockheed Martin, Boeing, RTX (Raytheon), Northrop Grumman, and General Dynamics — have collectively spent tens of millions lobbying Congress on defense and budget issues related to the Iran conflict." } }, { "@type": "Question", "name": "How has the Iran war affected defense lobbying spending?", "acceptedAnswer": { "@type": "Answer", "text": "Defense lobbying has surged since the conflict began, with major firms racing to sign defense and energy clients. Blue-chip lobbying firms like DLA Piper, Holland & Knight, and Squire Patton Boggs are leading the charge." } }, { "@type": "Question", "name": "What is the $200 billion supplemental request being spent on?", "acceptedAnswer": { "@type": "Answer", "text": "The request covers air operations and precision munitions, naval operations, missile defense and electronic warfare, intelligence and cyber operations, and logistics and base construction in the Persian Gulf region." } } ] }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'Iran War Defense Lobby' },
@@ -199,11 +200,11 @@ export default function IranWarDefenseLobbyPage() {
           <Link href="/investigations/defense-contractor-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">🛡️ The Pentagon&apos;s Lobbying Machine</div>
           </Link>
-          <Link href="/investigations/follow-the-money" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">💰 Follow the Money</div>
+          <Link href="/investigations/ai-lobbying-boom-2026" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🤖 AI Lobbying Boom 2026: $900M</div>
           </Link>
-          <Link href="/investigations/revolving-door-exposed" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">🚪 The Revolving Door</div>
+          <Link href="/investigations/pharma-lobbying-spending-2026" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">💊 Pharma’s $280M Fight</div>
           </Link>
         </div>
       </section>

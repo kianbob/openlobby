@@ -13,6 +13,7 @@ export default function AILobbyingBoom2026Page() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "The AI Lobbying Boom 2026: How Tech Giants Are Buying AI Regulation", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-06-03", description: "AI lobbying spending surged 340% since 2023. Tech giants are racing to write the rules before Congress does.", mainEntityOfPage: "https://www.openlobby.us/investigations/ai-lobbying-boom-2026" }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "How much are tech companies spending on AI lobbying in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "AI lobbying is on pace to exceed $900 million in 2026. Google leads with $14.2M in Q1-Q2, followed by Meta ($13.8M), Microsoft ($11.6M), and Amazon ($10.9M). Over 850 companies now disclose AI-related lobbying." } }, { "@type": "Question", "name": "Why has AI lobbying surged 340% since 2023?", "acceptedAnswer": { "@type": "Answer", "text": "Three forces converged: the EU AI Act took effect in 2026, Congress introduced 67 AI-related bills in H1 2026, and rapid AI deployment in healthcare, finance, and government created urgent regulatory questions." } }, { "@type": "Question", "name": "How many companies are lobbying on AI issues?", "acceptedAnswer": { "@type": "Answer", "text": "More than 850 companies now disclose AI-related lobbying, up from fewer than 250 in 2023. Over 2,400 lobbyists are registered to work on AI issues." } }, { "@type": "Question", "name": "What AI regulations are being lobbied on in Congress?", "acceptedAnswer": { "@type": "Answer", "text": "Key issues include AI safety frameworks, liability shields for AI companies, export controls on AI chips, data center permitting, open-source AI protections, and government AI procurement rules." } } ] }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'AI Lobbying Boom 2026' },
@@ -292,8 +293,8 @@ export default function AILobbyingBoom2026Page() {
           <Link href="/investigations/ai-lobbying-blitz-2026" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">🤖 AI Lobbying Blitz: Who&apos;s Spending What</div>
           </Link>
-          <Link href="/investigations/silicon-valley-antitrust" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">⚖️ Silicon Valley vs. Antitrust</div>
+          <Link href="/investigations/iran-war-defense-lobby" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🎖️ Defense Lobby Surges: $200B Iran War</div>
           </Link>
           <Link href="/investigations/pharma-lobbying-spending-2026" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">💊 Pharma Lobbying 2026</div>

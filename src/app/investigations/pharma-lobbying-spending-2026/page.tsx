@@ -13,6 +13,7 @@ export default function PharmaLobbyingSpending2026Page() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Pharmaceutical Lobbying Spending 2026: Big Pharma's Fight to Keep Prices High", author: { "@type": "Organization", name: "OpenLobby", url: "https://www.openlobby.us" }, publisher: { "@type": "Organization", name: "OpenLobby" }, datePublished: "2026-06-03", description: "The pharmaceutical industry is spending $280M+ in 2026 to fight drug pricing expansion and shape AI healthcare regulation.", mainEntityOfPage: "https://www.openlobby.us/investigations/pharma-lobbying-spending-2026" }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "How much is the pharmaceutical industry spending on lobbying in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "The pharmaceutical industry is on pace to spend $280 million on lobbying in 2026, its biggest year ever. PhRMA alone spent $8.4M in Q1 2026, with over 1,800 pharma lobbyists active." } }, { "@type": "Question", "name": "Why is pharma lobbying at record levels in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Three simultaneous battles: the Medicare drug price negotiation expanding to 35 drugs, a bipartisan push to extend negotiated prices to commercial insurance, and new regulatory frameworks for AI in drug development." } }, { "@type": "Question", "name": "Which pharmaceutical companies spend the most on lobbying?", "acceptedAnswer": { "@type": "Answer", "text": "PhRMA leads at $8.4M in Q1 2026, followed by Pfizer ($4.1M), AbbVie ($3.8M), Johnson & Johnson ($3.5M), Eli Lilly ($3.2M), and Merck ($2.9M)." } }, { "@type": "Question", "name": "How could drug price negotiation expansion affect pharma revenue?", "acceptedAnswer": { "@type": "Answer", "text": "The CBO estimates that expanding drug price negotiation to commercial markets could reduce pharmaceutical revenue by $400-600 billion over the next decade, which pharma companies view as an existential threat." } } ] }) }} />
       <Breadcrumbs items={[
         { name: 'Investigations', href: '/investigations' },
         { name: 'Pharma Lobbying Spending 2026' },
@@ -290,11 +291,11 @@ export default function PharmaLobbyingSpending2026Page() {
           <Link href="/investigations/big-pharma-lobbying" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
             <div className="font-medium text-sm text-indigo-700">💊 Big Pharma&apos;s $452M Machine</div>
           </Link>
-          <Link href="/investigations/healthcare-insurance-lobby" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">🏥 The Health Insurance Lobby</div>
+          <Link href="/investigations/ai-lobbying-boom-2026" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🤖 AI Lobbying Boom 2026: $900M</div>
           </Link>
-          <Link href="/investigations/defense-lobbying-2026" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
-            <div className="font-medium text-sm text-indigo-700">🛡️ Defense Lobbying 2026</div>
+          <Link href="/investigations/iran-war-defense-lobby" className="block p-4 bg-gray-50 rounded-lg hover:bg-indigo-50 transition-colors border border-gray-100">
+            <div className="font-medium text-sm text-indigo-700">🎖️ Defense Lobby: $200B Iran War</div>
           </Link>
         </div>
       </section>
