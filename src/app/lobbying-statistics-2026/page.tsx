@@ -8,12 +8,12 @@ import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 const stats = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public/data/stats.json'), 'utf-8'))
 
 export const metadata: Metadata = {
-  title: 'Lobbying Statistics 2026: $6B+ and Counting',
-  description: 'Federal lobbying statistics for 2026. Over $6 billion spent so far, 23,500+ lobbyists, 37,900+ clients. Live data from 726,000+ Senate LDA filings.',
+  title: 'Lobbying Statistics 2026: On Pace for $5.6B Record',
+  description: 'Federal lobbying statistics for 2026. Q1 hit a record $1.4B. AI lobbying surging — Anthropic outspent Nvidia in Q2. 23,500+ lobbyists, 37,900+ clients. Live data from 726,000+ Senate LDA filings.',
   keywords: ['lobbying statistics 2026', 'lobbying statistics', 'lobbying spending 2026', 'federal lobbying data', 'how much lobbying spending', 'lobbying trends'],
   openGraph: {
-    title: 'Lobbying Statistics 2026: $6B+ and Counting',
-    description: 'Federal lobbying hit $6B+ in 2025. See the full breakdown of who spends, who lobbies, and where the money flows — with live data from 726K+ filings.',
+    title: 'Lobbying Statistics 2026: On Pace for $5.6B Record',
+    description: 'Q1 2026 set a record $1.4B. AI lobbying surging with OpenAI and Anthropic spending $3.17M in Q2 alone. Full breakdown of 726K+ filings.',
     url: 'https://www.openlobby.us/lobbying-statistics-2026',
     type: 'article',
   },

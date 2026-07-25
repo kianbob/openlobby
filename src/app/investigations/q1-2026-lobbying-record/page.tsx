@@ -210,6 +210,14 @@ export default function Q12026LobbyingRecordPage() {
         </div>
 
         <SourceCitation />
+
+        <div className="mt-8 bg-cyan-50 border border-cyan-200 rounded-xl p-6">
+          <p className="text-sm font-bold text-cyan-800 mb-1">📊 Update: Q2 2026 Data Now Available</p>
+          <p className="text-sm text-gray-700">
+            OpenAI and Anthropic shattered records in Q2 2026, spending $3.17M combined. Anthropic outspent Nvidia.{' '}
+            <Link href="/investigations/q2-2026-ai-lobbying-record" className="text-cyan-700 underline font-semibold">Read the full Q2 analysis →</Link>
+          </p>
+        </div>
       </article>
     </div>
   )

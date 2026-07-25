@@ -4,10 +4,18 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: 'Lobbying Investigations: 30+ Data-Driven Deep Dives',
-  description: '30+ original investigations backed by 726,000+ lobbying filings. Iran war defense lobby, AI lobbying boom, pharma spending, tariff wars, the revolving door, and more.',
+  description: '30+ original investigations backed by 726,000+ lobbying filings. Q2 2026 AI lobbying records, defense lobby, pharma spending, tariff wars, the revolving door, and more.',
 }
 
 const investigations = [
+  {
+    slug: 'q2-2026-ai-lobbying-record',
+    title: 'Q2 2026: OpenAI and Anthropic Shatter Lobbying Records While Big Tech Holds Steady',
+    desc: 'OpenAI and Anthropic spent $3.17M combined in Q2 2026, up 23% from Q1. Anthropic outspent Nvidia. Defense contractors pulled back 3.3%. The balance of power in DC lobbying is shifting.',
+    tag: 'Breaking',
+    date: 'Jul 2026',
+    readTime: '11 min read',
+  },
   {
     slug: 'ai-lobbying-boom-2026',
     title: 'The AI Lobbying Boom 2026: How Tech Giants Are Buying AI Regulation',

@@ -70,7 +70,7 @@ export default function HomePage() {
               {totalSpending} Spent Buying Policy. We Tracked Every Dollar.
             </p>
             <p className="text-base text-amber-300 mb-2 font-semibold">
-              🔥 2025 set a record: $5.08B. 2026 is on pace for $5.6B — fueled by AI, defense, and pharma lobbying.
+              🔥 Q1 2026 hit a record $1.4B. OpenAI + Anthropic spent $3.17M in Q2 alone. 2026 is on pace for $5.6B.
             </p>
             <p className="text-base text-indigo-300 mb-10 max-w-2xl mx-auto">
               The only platform that cross-references lobbying filings with federal contracts, Medicare spending, and workforce data.
@@ -97,7 +97,7 @@ export default function HomePage() {
             </div>
 
             <p className="mt-8 text-xs text-indigo-400/70">
-              Data current through Q1 2026 · Senate LDA filings · Updated April 21, 2026
+              Data current through Q2 2026 · Senate LDA filings · Updated July 25, 2026
             </p>
           </div>
         </div>
@@ -112,10 +112,10 @@ export default function HomePage() {
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
             {[
+              { slug: 'q2-2026-ai-lobbying-record', title: 'Q2 2026: OpenAI & Anthropic Shatter Records — Anthropic Outspends Nvidia', tag: 'Breaking', tagColor: 'bg-red-100 text-red-800', date: 'Jul 25' },
               { slug: 'ai-lobbying-boom-2026', title: 'The AI Lobbying Boom: Tech Giants Spending $900M to Shape AI Regulation', tag: 'AI', tagColor: 'bg-cyan-100 text-cyan-800', date: 'Jun 3' },
               { slug: 'pharma-lobbying-spending-2026', title: "Pharma's $280M Fight to Keep Drug Prices High", tag: 'Pharma', tagColor: 'bg-green-100 text-green-800', date: 'Jun 3' },
               { slug: 'defense-lobbying-2026', title: 'Defense Lobbying 2026: Contractors Cash In on Iran War', tag: 'Defense', tagColor: 'bg-red-100 text-red-800', date: 'Jun 3' },
-              { slug: 'q1-2026-lobbying-record', title: 'Q1 2026: Record Spending as Iran War, AI, and Tariffs Collide', tag: 'New', tagColor: 'bg-purple-100 text-purple-800', date: 'Apr 21' },
               { slug: 'iran-war-defense-lobby', title: 'Defense Lobby Surges as Pentagon Seeks $200B for Iran War', tag: 'Defense', tagColor: 'bg-red-100 text-red-800', date: 'Apr 17' },
               { slug: 'ai-lobbying-blitz-2026', title: "Big Tech's AI Lobbying Blitz: Who's Spending What in 2026", tag: 'AI', tagColor: 'bg-cyan-100 text-cyan-800', date: 'Apr 17' },
               { slug: 'tariff-lobbying-2026', title: "Tariff Lobbying 2026: Who's Fighting Trump's Trade War", tag: 'Trade', tagColor: 'bg-orange-100 text-orange-800', date: 'Apr 17' },
