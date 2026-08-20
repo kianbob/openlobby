@@ -81,6 +81,7 @@ export default function Footer() {
               <li><a href="https://www.theailobby.com" className="text-sm hover:text-white transition-colors">The AI Lobby</a></li>
               <li><a href="https://www.autopilotwatch.com" className="text-sm hover:text-white transition-colors">AutoPilotWatch</a></li>              <li><a href="https://www.tarifftax.org" className="text-sm hover:text-white transition-colors">TariffTax</a></li>
               <li><a href="https://www.shelterscope.com" className="text-sm hover:text-white transition-colors">ShelterScope</a></li>
+              <li><a href="https://permitcore.io" className="text-sm hover:text-white transition-colors">PermitCore</a></li>
               <li><a href="https://thedataproject.ai" className="text-sm hover:text-white transition-colors">TheDataProject.ai</a></li>
             </ul>
           </div>
@@ -105,6 +106,7 @@ export default function Footer() {
             <a href="https://www.givescope.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">GiveScope — Search 1.9M nonprofits & their finances</a>
             <a href="https://www.howisamerica.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">How Is America — Census data on AI, food, housing & trust</a>
             <a href="https://www.newfunds.fyi" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">NewFunds — Track new VC fund filings</a>
+            <a href="https://permitcore.io" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">PermitCore — Construction permit intelligence</a>
           </div>
         </div>
 

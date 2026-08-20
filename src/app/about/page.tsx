@@ -23,6 +23,7 @@ const sisterSites = [
   { name: 'OpenFeds', url: 'https://www.openfeds.org', desc: 'Federal workforce data + DOGE impact tracking', emoji: '🏛️' },
   { name: 'OpenSpending', url: 'https://www.openspending.us', desc: 'Federal budget and contractor data', emoji: '💰' },
   { name: 'VaccineWatch', url: 'https://www.vaccinewatch.org', desc: '1.98M VAERS adverse event reports analyzed', emoji: '🛡️' },
+  { name: 'PermitCore', url: 'https://permitcore.io', desc: 'Construction permit data & building activity intelligence', emoji: '🏗️' },
 ]
 
 export default function AboutPage() {
