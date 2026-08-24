@@ -82,8 +82,7 @@ export default function RootLayout({
             'query-input': 'required name=search_term_string',
           },
         }) }} />
-        <meta name="google-adsense-account" content="ca-pub-9872374508496229" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9872374508496229" crossOrigin="anonymous"></script>      </head>
+      </head>
       <body className="font-sans min-h-screen flex flex-col" style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
         <Navigation />
         <main className="flex-1">
